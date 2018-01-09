@@ -1,6 +1,8 @@
 """
-Get the abstract nouns in a corpus by searching for:
-    "ion", "ions", "ity", "itys", "ness", "nesses", "dom", "doms", "ment", "ments"
+Abstract Nouns
+Written by Catherine DeJager
+
+Get the abstract nouns in a corpus by searching for various word endings as found in the website below.
     https://learningenglishgrammar.wordpress.com/suffixes/suffixes-and-how-they-form-abstract-nouns/
 Preconditions: infilename refers to a .txt file containing a word list created from AntConc
 """
