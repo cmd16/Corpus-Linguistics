@@ -6,21 +6,20 @@ Get the abstract nouns in a corpus by searching for various suffixes as found in
     https://learningenglishgrammar.wordpress.com/suffixes/suffixes-and-how-they-form-abstract-nouns/
 """
 
-"""
-infilename = input("Infilename: ")
-infile = open(infilename,'r')
-"""
+# imports
+import openpyxl
 
 # global variables
 test = True
+suffix_list = ['age', 'ance', 'ce', 'cy', 'dom', 'doms', 'ence', 'ess', 'esse', 'head', 'hood', 'ice',
+                      'ion', 'ions', 'ise', 'ism', 'ity', 'itys', 'ment', 'ments', 'ness', 'nesses', 'ry',
+                      'tude', 'ty', 'ure']
 
 # function definitions
 def get_abstract_nouns(infile):
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file containing a word list created from AntConc"""
-    abstract_noun_list = ["ion", "ions", "ity", "itys", "ness", "nesses", "dom", "doms", "ment", "ments", "age", "ance",
-                          "ence", "ce", "cy", "ess", "esse", "head", "hood", "ice", "ise", "ism", "ry", "tude", "ty", "ure"]
-    abstract_noun_dict = {suffix: {} for suffix in abstract_noun_list} # each suffix has a blank dictionary (for word and frequency)
+    abstract_noun_dict = {suffix: {} for suffix in suffix_list} # each suffix has a blank dictionary (for word and frequency)
     linenum = 0
     for line in infile:
         if linenum < 3:  # first 3 lines contain metadata
@@ -29,9 +28,8 @@ def get_abstract_nouns(infile):
         data = str(line).split()
         word = data[2]
         frequency = data[1]
-        for suffix in abstract_noun_list:
+        for suffix in suffix_list:
             if word.endswith(suffix):
-                print(suffix, word, abstract_noun_dict[suffix], word in abstract_noun_dict[suffix])
                 if word in abstract_noun_dict[suffix]:  # if an entry exists for this word
                     abstract_noun_dict[suffix][word] += 1  # increase the count
                 else:
@@ -50,6 +48,29 @@ def print_abstract_nouns(aDict):
             print(word, aDict[suffix][word])  # print word and frequency
         print()  # new line for spacing
 
+def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
+    """Stores the abstract nouns and their frequencies in a spreadsheet.
+    Preconditions: aDict is a dictionary created by running get_abstract_nouns."""
+    wb = openpyxl.Workbook()
+    ws = wb.active  # get a handle to the sheet in the workbook
+
+    ws['A1'] = "Abstract Nouns Spreadsheet"
+    for col in range(1, len(suffix_list) * 2 + 1, 2):  # go up by two because the suffixes need to be separated. add one because indexing starts at 1 in openpyxl
+        suffix = suffix_list[(col - 1) // 2]
+        current_suffix_entry = aDict[suffix]
+        ws.cell(row=2, column=col).value = "-" + suffix
+        row = 3
+        for word in aDict[suffix].keys():  # this number is equal to the number of unique words with that suffix
+            ws.cell(row=row, column=col).value = word
+            ws.cell(row=row, column=col+1).value = current_suffix_entry[word]
+            row += 1  # incrementing row manually because dict_keys object doesn't support indexing
+    if not filename.endswith(".xlsx"):
+        wb.save(filename + ".xlsx")  # add the type extension if not included
+    else:
+        print("ends with xlsx")
+        wb.save(filename)
+
 # test code
 if test:
-    print_abstract_nouns(get_abstract_nouns(open("hist152_final_wordend.txt")))
+    test_dict = get_abstract_nouns(open("hist152_final_wordend.txt"))
+    store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
