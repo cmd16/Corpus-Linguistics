@@ -11,9 +11,11 @@ infilename = input("Infilename: ")
 infile = open(infilename,'r')
 """
 
-# function definitions
+# global variables
+test = True
 
-def get_abstract_nouns(infile=open(input("Infilename: "))):
+# function definitions
+def get_abstract_nouns(infile):
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file containing a word list created from AntConc"""
     abstract_noun_list = ["ion", "ions", "ity", "itys", "ness", "nesses", "dom", "doms", "ment", "ments", "age", "ance",
@@ -29,10 +31,12 @@ def get_abstract_nouns(infile=open(input("Infilename: "))):
         frequency = data[1]
         for suffix in abstract_noun_list:
             if word.endswith(suffix):
+                print(suffix, word, abstract_noun_dict[suffix], word in abstract_noun_dict[suffix])
                 if word in abstract_noun_dict[suffix]:  # if an entry exists for this word
                     abstract_noun_dict[suffix][word] += 1  # increase the count
                 else:
                     abstract_noun_dict[suffix][word] = 1  # create an entry
+                break
         linenum += 1
     infile.close()
     return abstract_noun_dict
@@ -46,3 +50,6 @@ def print_abstract_nouns(aDict):
             print(word, aDict[suffix][word])  # print word and frequency
         print()  # new line for spacing
 
+# test code
+if test:
+    print_abstract_nouns(get_abstract_nouns(open("hist152_final_wordend.txt")))
