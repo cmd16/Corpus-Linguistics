@@ -37,3 +37,12 @@ def get_abstract_nouns(infile=open(input("Infilename: "))):
     infile.close()
     return abstract_noun_dict
 
+def print_abstract_nouns(aDict):
+    """Prints out the abstract nouns in a dictionary, formatted nicely.
+    Preconditions: aDict is a dictionary created by running get_abstract_nouns"""
+    for suffix in aDict:
+        print(suffix, "words:")
+        for word in aDict[suffix]:
+            print(word, aDict[suffix][word])  # print word and frequency
+        print()  # new line for spacing
+
