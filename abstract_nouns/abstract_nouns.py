@@ -11,7 +11,7 @@ Dependencies: openpyxl (if you want to output results to spreadsheet
 import openpyxl
 
 # global variables
-test = True
+test = False
 suffix_list = ['age', 'ance', 'ce', 'cy', 'dom', 'doms', 'ence', 'ess', 'esse', 'head', 'hood', 'ice',
                       'ion', 'ions', 'ise', 'ism', 'ity', 'itys', 'ment', 'ments', 'ness', 'nesses', 'ry', 'ties',
                       'tude', 'tudes', 'ty', 'ure', 'ures']
@@ -91,3 +91,7 @@ if test:
     test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
     # assert test_dict == test_dict2
     store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
+
+# main code
+this_dict = get_abstract_nouns(open(input("Name of the file to open: ")))
+store_spreadsheet(this_dict, input("Name of spreadsheet to store results in: "))
