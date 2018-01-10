@@ -13,8 +13,8 @@ import openpyxl
 # global variables
 test = True
 suffix_list = ['age', 'ance', 'ce', 'cy', 'dom', 'doms', 'ence', 'ess', 'esse', 'head', 'hood', 'ice',
-                      'ion', 'ions', 'ise', 'ism', 'ity', 'itys', 'ment', 'ments', 'ness', 'nesses', 'ry',
-                      'tude', 'ty', 'ure']
+                      'ion', 'ions', 'ise', 'ism', 'ity', 'itys', 'ment', 'ments', 'ness', 'nesses', 'ry', 'ties',
+                      'tude', 'tudes', 'ty', 'ure', 'ures']
 
 # function definitions
 def get_abstract_nouns(infile):
