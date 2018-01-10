@@ -3,6 +3,7 @@ Abstract Nouns
 Written by Catherine DeJager
 
 Get the abstract nouns in a corpus by searching for various suffixes as found in the website below.
+Dependencies: openpyxl (if you want to output results to spreadsheet
     https://learningenglishgrammar.wordpress.com/suffixes/suffixes-and-how-they-form-abstract-nouns/
 """
 
@@ -33,6 +34,23 @@ def get_abstract_nouns(infile):
                 abstract_noun_dict[suffix][word] = data[1]  # create an entry
                 break
         linenum += 1
+    infile.close()
+    return abstract_noun_dict
+
+def get_abstract_nouns_from_txt(infile):
+    """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
+    Preconditions: infile refers to a .txt file with words in it."""
+    abstract_noun_dict = {suffix: {} for suffix in suffix_list}  # each suffix has a blank dictionary (for word and frequency)
+    for line in infile:
+        words = str(line).split()
+        for word in words:
+            for suffix in suffix_list:
+                if word.endswith(suffix):
+                    if word in abstract_noun_dict[suffix]:
+                        abstract_noun_dict[suffix][word] += 1
+                    else:
+                        abstract_noun_dict[suffix][word] = 1
+                    break
     infile.close()
     return abstract_noun_dict
 
@@ -70,3 +88,6 @@ def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
 if test:
     test_dict = get_abstract_nouns(open("hist152_final_wordend.txt"))
     store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
+    test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
+    # assert test_dict == test_dict2
+    store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
