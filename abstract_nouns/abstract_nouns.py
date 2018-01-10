@@ -30,10 +30,7 @@ def get_abstract_nouns(infile):
         frequency = data[1]
         for suffix in suffix_list:
             if word.endswith(suffix):
-                if word in abstract_noun_dict[suffix]:  # if an entry exists for this word
-                    abstract_noun_dict[suffix][word] += 1  # increase the count
-                else:
-                    abstract_noun_dict[suffix][word] = 1  # create an entry
+                abstract_noun_dict[suffix][word] = data[1]  # create an entry
                 break
         linenum += 1
     infile.close()
@@ -67,7 +64,6 @@ def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
     if not filename.endswith(".xlsx"):
         wb.save(filename + ".xlsx")  # add the type extension if not included
     else:
-        print("ends with xlsx")
         wb.save(filename)
 
 # test code
