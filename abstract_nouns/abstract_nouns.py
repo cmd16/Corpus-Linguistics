@@ -16,8 +16,9 @@ suffix_list = ['age', 'ance', 'ce', 'cy', 'dom', 'doms', 'ence', 'ess', 'esse', 
                       'ion', 'ions', 'ise', 'ism', 'ity', 'itys', 'ment', 'ments', 'ness', 'nesses', 'ry', 'ties',
                       'tude', 'tudes', 'ty', 'ure', 'ures']
 
+
 # function definitions
-def get_abstract_nouns(infile):
+def get_abstract_nouns_from_wordlist(infile):
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file containing a word list created from AntConc"""
     abstract_noun_dict = {suffix: {} for suffix in suffix_list} # each suffix has a blank dictionary (for word and frequency)
@@ -37,6 +38,7 @@ def get_abstract_nouns(infile):
     infile.close()
     return abstract_noun_dict
 
+
 def get_abstract_nouns_from_txt(infile):
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file with words in it."""
@@ -54,6 +56,7 @@ def get_abstract_nouns_from_txt(infile):
     infile.close()
     return abstract_noun_dict
 
+
 def print_abstract_nouns(aDict):
     """Prints out the abstract nouns in a dictionary, formatted nicely.
     Preconditions: aDict is a dictionary created by running get_abstract_nouns"""
@@ -62,6 +65,7 @@ def print_abstract_nouns(aDict):
         for word in aDict[suffix]:
             print(word, aDict[suffix][word])  # print word and frequency
         print()  # new line for spacing
+
 
 def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
     """Stores the abstract nouns and their frequencies in a spreadsheet.
@@ -86,12 +90,12 @@ def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
 
 # test code
 if test:
-    test_dict = get_abstract_nouns(open("hist152_final_wordend.txt"))
+    test_dict = get_abstract_nouns_from_wordlist(open("hist152_final_wordend.txt"))
     store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
     test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
     # assert test_dict == test_dict2
     store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
 
 # main code
-this_dict = get_abstract_nouns(open(input("Name of the file to open: ")))
+this_dict = get_abstract_nouns_from_wordlist(open(input("Name of the file containing the wordlist: ")))
 store_spreadsheet(this_dict, input("Name of spreadsheet to store results in: "))
