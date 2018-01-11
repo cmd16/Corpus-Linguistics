@@ -42,6 +42,7 @@ def get_abstract_nouns_from_wordlist(infile):
 def get_abstract_nouns_from_txt(infile):
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file with words in it."""
+
     abstract_noun_dict = {suffix: {} for suffix in suffix_list}  # each suffix has a blank dictionary (for word and frequency)
     for line in infile:
         words = str(line).split()
