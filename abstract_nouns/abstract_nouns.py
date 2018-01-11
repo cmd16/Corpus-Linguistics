@@ -21,7 +21,7 @@ suffix_list = ['age', 'ages', 'ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom',
 def get_abstract_nouns_from_wordlist(infile):
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file containing a word list created from AntConc"""
-    abstract_noun_dict = {suffix: {} for suffix in suffix_list} # each suffix has a blank dictionary (for word and frequency)
+    abstract_noun_dict = {suffix: [] for suffix in suffix_list} # each suffix has a blank array (for word and frequency)
     linenum = 0
     for line in infile:
         if linenum < 3:  # first 3 lines contain metadata
@@ -30,9 +30,11 @@ def get_abstract_nouns_from_wordlist(infile):
         data = str(line).split()
         word = data[2]
         frequency = data[1]
-        for suffix in suffix_list:
+        for idx in range(len(suffix_list)):
+            suffix = suffix_list[idx]
             if word.endswith(suffix):
-                abstract_noun_dict[suffix][word] = data[1]  # create an entry
+                print(data)
+                abstract_noun_dict[suffix].append([word, data[1]])
                 break
         linenum += 1
     infile.close()
@@ -42,6 +44,7 @@ def get_abstract_nouns_from_wordlist(infile):
 def get_abstract_nouns_from_txt(infile):
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file with words in it."""
+    # TODO: CHANGE THIS LATER TO USE MULTIDIMENSIONAL ARRAY FOR WORDS
 
     abstract_noun_dict = {suffix: {} for suffix in suffix_list}  # each suffix has a blank dictionary (for word and frequency)
     for line in infile:
@@ -79,15 +82,37 @@ def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
         suffix = suffix_list[(col - 1) // 2]
         current_suffix_entry = aDict[suffix]
         ws.cell(row=2, column=col).value = "-" + suffix
-        row = 3
-        for word in aDict[suffix].keys():  # this number is equal to the number of unique words with that suffix
+        for row in range(3, len(current_suffix_entry) + 3):  # this number is equal to the number of unique words with that suffix
+            idx = row - 3
+            word = current_suffix_entry[idx][0]
             ws.cell(row=row, column=col).value = word
-            ws.cell(row=row, column=col+1).value = current_suffix_entry[word]
-            row += 1  # incrementing row manually because dict_keys object doesn't support indexing
+            ws.cell(row=row, column=col+1).value = current_suffix_entry[idx][1]  # store the frequency
     if not filename.endswith(".xlsx"):
         wb.save(filename + ".xlsx")  # add the type extension if not included
     else:
         wb.save(filename)
+
+
+def sort_abstract_nouns(aDict, type='frequency'):
+    if type == "frequency":
+        for suffix in suffix_list:
+           aDict[suffix].sort(key=lambda x: x[1])
+    elif type == "reversefrequency":
+        for suffix in suffix_list:
+           aDict[suffix].sort(key=lambda x: x[1], reverse=True)
+    elif type == "alpha":
+        for suffix in suffix_list:
+           aDict[suffix].sort()
+    elif type == "reversealpha":
+        for suffix in suffix_list:
+           aDict[suffix].sort(reverse=True)
+    elif type == "alphawordend":
+        pass  # the list is sorted this way by default
+    elif type == "reversealphawordend":
+        for suffix in suffix_list:
+           aDict[suffix].reverse()
+
+
 
 # test code
 if test:
