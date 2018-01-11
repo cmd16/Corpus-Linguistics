@@ -33,7 +33,6 @@ def get_abstract_nouns_from_wordlist(infile):
         for idx in range(len(suffix_list)):
             suffix = suffix_list[idx]
             if word.endswith(suffix):
-                print(data)
                 abstract_noun_dict[suffix].append([word, data[1]])
                 break
         linenum += 1
@@ -93,24 +92,33 @@ def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
         wb.save(filename)
 
 
-def sort_abstract_nouns(aDict, type='frequency'):
-    if type == "frequency":
-        for suffix in suffix_list:
-           aDict[suffix].sort(key=lambda x: x[1])
-    elif type == "reversefrequency":
+def sort_abstract_nouns(aDict, key='frequencyhi'):
+    """
+    Sort (in place) a dictionary that was constructed using get_abstract_nouns
+    :param aDict: a dictionary constructed using get_abstract_nouns
+    :param key: a string representing which way to sort the words/frequencies
+    :return:
+    """
+    if key == "frequencyhi":
         for suffix in suffix_list:
            aDict[suffix].sort(key=lambda x: x[1], reverse=True)
-    elif type == "alpha":
+    elif key == "frequencylo":
+        for suffix in suffix_list:
+            aDict[suffix].sort(key=lambda x: x[1])
+    elif key == "alpha":
         for suffix in suffix_list:
            aDict[suffix].sort()
-    elif type == "reversealpha":
+    elif key == "reversealpha":
         for suffix in suffix_list:
            aDict[suffix].sort(reverse=True)
-    elif type == "alphawordend":
+    elif key == "alphawordend":
         pass  # the list is sorted this way by default
-    elif type == "reversealphawordend":
+    elif key == "reversealphawordend":
         for suffix in suffix_list:
            aDict[suffix].reverse()
+    else:
+        print('Sorting type invalid. Try again with "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
+              '"alphawordend", or "reversealphawordend"')
 
 
 
@@ -124,4 +132,7 @@ if test:
 
 # main code
 this_dict = get_abstract_nouns_from_wordlist(open(input("Name of the file containing the wordlist: ")))
+sort_type = input('Sort words by "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
+              '"alphawordend", or "reversealphawordend": ')
+sort_abstract_nouns(this_dict, sort_type)
 store_spreadsheet(this_dict, input("Name of spreadsheet to store results in: "))
