@@ -12,9 +12,9 @@ import openpyxl
 
 # global variables
 test = False
-suffix_list = ['age', 'ance', 'ce', 'cy', 'dom', 'doms', 'ence', 'ess', 'esse', 'head', 'hood', 'ice',
-                      'ion', 'ions', 'ise', 'ism', 'ity', 'itys', 'ment', 'ments', 'ness', 'nesses', 'ry', 'ties',
-                      'tude', 'tudes', 'ty', 'ure', 'ures']
+suffix_list = ['age', 'ages', 'ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom', 'doms', 'ence', 'ences', 'ess', 'esses',
+               'esse', 'esses', 'head', 'heads', 'hood', 'hoods', 'ice', 'ices', 'ion', 'ions', 'ise', 'ises', 'ism',
+               'isms', 'ity', 'itys', 'ment', 'ments', 'ry', 'ries', 'ty', 'ties', 'tude', 'tudes', 'ure', 'ures']
 
 
 # function definitions
