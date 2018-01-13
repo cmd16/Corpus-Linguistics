@@ -1,10 +1,11 @@
 import openpyxl
 import operator
+import os
 
 tag_list = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NP', 'NPS', 'PDT', 'POS',
             'PP', 'PP$', 'RB', 'RBR', 'RBS', 'RP', 'SENT', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBZ', 'VBP',
             'VD', 'VDD', 'VDG', 'VDN', 'VDZ', 'VDP', 'VH', 'VHD', 'VHG', 'VHN', 'VHZ', 'VHP', 'VV', 'VVD', 'VVG', 'VVN',
-            'VVP', 'VVZ', 'WDT', 'WP', 'WP$', 'WRB', ':', '$', ',', '(', ')', "''", "``"]
+            'VVP', 'VVZ', 'WDT', 'WP', 'WP$', 'WRB', ':', '$', ',', '(', ')', "''", "``", "NONE"]
 
 pos_definitions = {"CC": "coordinating conjuction", "CD":"cardinal number", "DT":"dterminer", "EX":"existential there",
                    "FW":"foreign word", 'IN':"preposition/subord. conj", 'IN/that':"complementizer", 'JJ':"adjective",
@@ -18,31 +19,40 @@ pos_definitions = {"CC": "coordinating conjuction", "CD":"cardinal number", "DT"
                    'VV':"verb, base form", 'VVD':"verb, past tense", 'VVG': "verb, gerund/participle", 'VVN': "verb, past participle",
                    'VVP': "verb, present non-3rd person", 'VVZ': "verb, present 3rd person singular", 'WDT': "wh-determiner",
                    'WP': "wh-pronoun", 'WP$': "possessive wh-pronoun", 'WRB': "wh-adverb", ':' : "general joiner",
-                   '$': "currency symbol", ',':",", '(':"(", ')':")", "''":"quotation marks"}
+                   '$': "currency symbol", ',':",", '(':"(", ')':")", "''":"quotation marks", "NONE": "miscellaneous"}
 
 test = True
 
 
 # function definitions
-def get_tag_dict(infile):
-    """Returns a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
+def get_tag_dict(in_name):
+    """
+    Returns a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
     with a separate entry for each POS.
-    Preconditions: infile refers to a .txt file created using TagAnt"""
-    # TODO: modify to allow a list of files
+    :param in: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
+    :return: a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
+    with a separate entry for each POS
+    """
+    if type(in_name) == list:
+        iterator = iter(in_name)
+    else:
+        iterator = iter([in_name])
     tag_dict = {tag: {} for tag in tag_list}
-    for line in infile:
-        items = line.split()  # get the words and tags by splitting on whitespace
-        for item in items:
-            word_pos = item.split("_")  # separate the word from the tag
-            word = word_pos[0].lower()  # make the word lowercase, so "The" becomes "the"
-            pos = word_pos[1]
-            if pos == "``":
-                pos = "''"  # `` is equivalent to ''
-            entry = tag_dict[pos]
-            if word in entry:
-                entry[word] += 1
-            else:
-                entry[word] = 1  # create the word
+    for infilename in iterator:
+        infile = open(infilename)
+        for line in infile:
+            items = line.split()  # get the words and tags by splitting on whitespace
+            for item in items:
+                word_pos = item.split("_")  # separate the word from the tag
+                word = word_pos[0].lower()  # make the word lowercase, so "The" becomes "the"
+                pos = word_pos[1]
+                if pos == "``":
+                    pos = "''"  # `` is equivalent to ''
+                entry = tag_dict[pos]
+                if word in entry:
+                    entry[word] += 1
+                else:
+                    entry[word] = 1  # create the word
     return tag_dict
 
 
@@ -98,7 +108,16 @@ def store_spreadsheet(aDict, filename="Parts of Speech Spreadsheet", sort="alpha
         else:
             wb.save(filename)
 
+
+def tag_dict_from_directory(path, walk=False):
+    filename_list = []
+    for filename in os.listdir(path):
+        if filename.endswith("_tagged.txt"):
+            filename_list.append(os.path.join(path,filename))
+    return get_tag_dict(filename_list)
+
+
 if test:
-    test_dict = get_tag_dict(open("test_tagged.txt"))
-    store_spreadsheet(test_dict, "test.xlsx", sort="frequencyhi")
+    test_dict = tag_dict_from_directory("/Users/cat/Desktop/PSYCH151")
+    store_spreadsheet(test_dict, "test_multi.xlsx", sort="frequencyhi")
 
