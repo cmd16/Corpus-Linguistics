@@ -19,8 +19,11 @@ suffix_list = ['age', 'ages', 'ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom',
 
 # function definitions
 def get_abstract_nouns_from_wordlist(infile):
-    """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
-    Preconditions: infile refers to a .txt file containing a word list created from AntConc"""
+    """
+    Returns a dictionary of abstract nouns, with a separate entry for each suffix.
+    :param infile: a .txt file containing a word list created from AntConc
+    :return: a dictionary of abstract nouns, with a separate entry for each suffix.
+    """
     abstract_noun_dict = {suffix: [] for suffix in suffix_list} # each suffix has a blank array (for word and frequency)
     linenum = 0
     for line in infile:
@@ -41,6 +44,12 @@ def get_abstract_nouns_from_wordlist(infile):
 
 
 def get_abstract_nouns_from_txt(infile):
+    """
+    Returns a dictionary of abstract nouns, with a separate entry for each suffix.
+    Note: this seems to work but doesn't pass my current tests, so use at your own risk.
+    :param infile: a .txt file with words in it.
+    :return: a dictionary of abstract nouns, with a separate entry for each suffix.
+    """
     """Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     Preconditions: infile refers to a .txt file with words in it."""
     # TODO: CHANGE THIS LATER TO USE MULTIDIMENSIONAL ARRAY FOR WORDS
@@ -61,8 +70,11 @@ def get_abstract_nouns_from_txt(infile):
 
 
 def print_abstract_nouns(aDict):
-    """Prints out the abstract nouns in a dictionary, formatted nicely.
-    Preconditions: aDict is a dictionary created by running get_abstract_nouns"""
+    """
+    Prints out the abstract nouns in a dictionary, formatted nicely.
+    :param aDict: a dictionary created by running get_abstract_nouns
+    :return:
+    """
     for suffix in aDict:
         print(suffix, "words:")
         for word in aDict[suffix]:
@@ -71,8 +83,12 @@ def print_abstract_nouns(aDict):
 
 
 def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
-    """Stores the abstract nouns and their frequencies in a spreadsheet.
-    Preconditions: aDict is a dictionary created by running get_abstract_nouns."""
+    """
+    Stores the abstract nouns and their frequencies in a spreadsheet.
+    :param aDict: a dictionary created by running get_abstract_nouns
+    :param filename: the name of the spreadsheet to store the results in
+    :return:
+    """
     wb = openpyxl.Workbook()
     ws = wb.active  # get a handle to the sheet in the workbook
 
@@ -119,8 +135,6 @@ def sort_abstract_nouns(aDict, key='frequencyhi'):
     else:
         print('Sorting type invalid. Try again with "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
               '"alphawordend", or "reversealphawordend"')
-
-
 
 # test code
 if test:
