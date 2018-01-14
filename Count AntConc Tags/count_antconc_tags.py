@@ -7,7 +7,7 @@ tag_list = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', '
             'VD', 'VDD', 'VDG', 'VDN', 'VDZ', 'VDP', 'VH', 'VHD', 'VHG', 'VHN', 'VHZ', 'VHP', 'VV', 'VVD', 'VVG', 'VVN',
             'VVP', 'VVZ', 'WDT', 'WP', 'WP$', 'WRB', ':', '$', ',', '(', ')', "''", "``", "NONE"]
 
-pos_definitions = {"CC": "coordinating conjuction", "CD":"cardinal number", "DT":"dterminer", "EX":"existential there",
+pos_definitions = {"CC": "coordinating conjuction", "CD":"cardinal number", "DT":"determiner", "EX":"existential there",
                    "FW":"foreign word", 'IN':"preposition/subord. conj", 'IN/that':"complementizer", 'JJ':"adjective",
                    'JJR': "adjective, comparative", 'JJS': "adjective, superlative", 'LS': "list marker", 'MD': "modal",
                    'NN': "noun, singular or mass", 'NNS': "noun, plural", 'NP': "proper noun, singular", 'NPS': "proper noun, plural",
@@ -111,13 +111,19 @@ def store_spreadsheet(aDict, filename="Parts of Speech Spreadsheet", sort="alpha
 
 def tag_dict_from_directory(path, walk=False):
     filename_list = []
-    for filename in os.listdir(path):
-        if filename.endswith("_tagged.txt"):
-            filename_list.append(os.path.join(path,filename))
+    if walk:
+        for item in os.walk(path):
+            for filename in item[2]:
+                if filename.endswith("_tagged.txt"):
+                    filename_list.append(os.path.join(path, filename))
+                    print(filename)
+    else:
+        for filename in os.listdir(path):
+            if filename.endswith("_tagged.txt"):
+                filename_list.append(os.path.join(path,filename))
     return get_tag_dict(filename_list)
 
 
 if test:
-    test_dict = tag_dict_from_directory("/Users/cat/Desktop/PSYCH151")
-    store_spreadsheet(test_dict, "test_multi.xlsx", sort="frequencyhi")
-
+    test_dict = tag_dict_from_directory("/Users/cat/Desktop/CalvinNewspapers",True)
+    store_spreadsheet(test_dict, "test_multi_walk.xlsx", sort="frequencyhi")
