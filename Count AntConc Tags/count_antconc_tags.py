@@ -1,6 +1,7 @@
 import openpyxl
 import operator
 import os
+from statistics import mean
 
 tag_list = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NP', 'NPS', 'PDT', 'POS',
             'PP', 'PP$', 'RB', 'RBR', 'RBS', 'RP', 'SENT', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBZ', 'VBP',
@@ -29,7 +30,8 @@ def get_tag_dict(in_name, case_sensitive=False):
     """
     Returns a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
     with a separate entry for each POS.
-    :param in: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
+    :param in_name: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
+    :param case_sensitive: if true, "The" is a different word from "the"
     :return: a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
     with a separate entry for each POS
     """
@@ -64,6 +66,41 @@ def get_tag_dict(in_name, case_sensitive=False):
                 else:
                     entry[word] = 1  # create the word
     return tag_dict
+
+
+def count_sentences_and_length(in_name, average=True):
+    """
+    Counts the number of sentences and the length of the sentences
+    :param in_name: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
+    Note: if a list of filenames is presented, this will count all the sentences across all the files. If you want individual
+    counts for each file, call this function on each file
+    :param average: if True, the average sentence length will be returned. Else, a dictionary of sentence lengths and their frequencies will be returned
+    :return: the number of sentences and either the average sentence length or a dictionary of sentence lengths and their freuqencies
+    """
+    if type(in_name) == list:
+        iterator = iter(in_name)
+    else:
+        iterator = iter([in_name])
+    sentence_num = 0
+    sentence_lens = {}
+    for infilename in iterator:
+        infile = open(infilename)
+        print("processing " + infilename)
+        for line in infile:
+            sentences = line.split("_SENT")
+            line_sentence_num = len(sentences)
+            sentence_num += line_sentence_num
+            for sent in sentences:
+                words = sent.split()
+                num_words = len(words)
+                if num_words in sentence_lens:
+                    sentence_lens[num_words] += 1
+                else:
+                    sentence_lens[num_words] = 1
+    if average:
+        return sentence_num, mean(sentence_lens.keys())
+    else:
+        return sentence_num, sentence_lens
 
 
 def print_tag_dict(aDict):
