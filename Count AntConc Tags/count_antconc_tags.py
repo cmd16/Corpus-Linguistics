@@ -25,7 +25,7 @@ test = True
 
 
 # function definitions
-def get_tag_dict(in_name):
+def get_tag_dict(in_name, case_sensitive=False):
     """
     Returns a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
     with a separate entry for each POS.
@@ -40,15 +40,25 @@ def get_tag_dict(in_name):
     tag_dict = {tag: {} for tag in tag_list}
     for infilename in iterator:
         infile = open(infilename)
+        print("processing " + infilename)
         for line in infile:
             items = line.split()  # get the words and tags by splitting on whitespace
             for item in items:
-                word_pos = item.split("_")  # separate the word from the tag
+                index = item.rfind("_")  # find the last underscore (the one before the tag)
+                """word_pos = item.split("_")  # separate the word from the tag
                 word = word_pos[0].lower()  # make the word lowercase, so "The" becomes "the"
-                pos = word_pos[1]
+                pos = word_pos[1]"""
+                word = item[:index]
+                if not case_sensitive:
+                    word = word.lower()
+                pos = item[index+1:]
                 if pos == "``":
                     pos = "''"  # `` is equivalent to ''
-                entry = tag_dict[pos]
+                try:
+                    entry = tag_dict[pos]
+                except KeyError:
+                    pos = input(line + " not in dictionary. Please enter a valid tag: ")
+                    entry = tag_dict[pos]
                 if word in entry:
                     entry[word] += 1
                 else:
@@ -109,21 +119,26 @@ def store_spreadsheet(aDict, filename="Parts of Speech Spreadsheet", sort="alpha
             wb.save(filename)
 
 
-def tag_dict_from_directory(path, walk=False):
+def tag_dict_from_directory(path, case_sensitive=False, walk=False):
+    currentdir = os.getcwd()
     filename_list = []
     if walk:
         for item in os.walk(path):
+            print(item)
+            currentpath = item[0]
+            os.chdir(currentpath)  # change to the directory you are looking at. useful for reading and writing files
             for filename in item[2]:
                 if filename.endswith("_tagged.txt"):
-                    filename_list.append(os.path.join(path, filename))
+                    filename_list.append(os.path.join(currentpath, filename))
                     print(filename)
     else:
         for filename in os.listdir(path):
             if filename.endswith("_tagged.txt"):
-                filename_list.append(os.path.join(path,filename))
-    return get_tag_dict(filename_list)
+                filename_list.append(os.path.join(path, filename))
+    os.chdir(currentdir)
+    return get_tag_dict(filename_list, case_sensitive)
 
 
 if test:
-    test_dict = tag_dict_from_directory("/Users/cat/Desktop/CalvinNewspapers",True)
+    test_dict = tag_dict_from_directory("/Users/cat/Desktop/Tag Tolkien", case_sensitive=False, walk=True)
     store_spreadsheet(test_dict, "test_multi_walk.xlsx", sort="frequencyhi")
