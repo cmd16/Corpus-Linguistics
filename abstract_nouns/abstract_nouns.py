@@ -13,7 +13,7 @@ import os
 
 # global variables
 test = False
-suffix_list = ['age', 'ages', 'ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom', 'doms', 'ence', 'ences', 'ess', 'esses',
+suffix_list = ['age', 'ages', 'ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom', 'doms', 'ence', 'ences', 'ess', 
                'esse', 'esses', 'head', 'heads', 'hood', 'hoods', 'ice', 'ices', 'ion', 'ions', 'ise', 'ises', 'ism',
                'isms', 'ity', 'itys', 'ment', 'ments', 'ry', 'ries', 'ty', 'ties', 'tude', 'tudes', 'ure', 'ures']
 
@@ -164,12 +164,13 @@ if test:
     # assert test_dict == test_dict2
     # store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
 
+walk_directory_abstract_nouns("/Users/Cat/Documents/Corpus Linguistics/Ant Original Canon", sort="frequencyhi")
 
 # main code
-
+"""
 this_dict = get_abstract_nouns_from_wordlist(open(input("Name of the file containing the wordlist: ")))
 sort_type = input('Sort words by "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
               '"alphawordend", or "reversealphawordend": ')
 sort_abstract_nouns(this_dict, sort_type)
 store_spreadsheet(this_dict, input("Name of spreadsheet to store results in: "))
-
+"""
