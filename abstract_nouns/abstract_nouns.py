@@ -9,6 +9,7 @@ Dependencies: openpyxl (if you want to output results to spreadsheet
 
 # imports
 import openpyxl
+import os
 
 # global variables
 test = False
@@ -24,7 +25,7 @@ def get_abstract_nouns_from_wordlist(infile):
     :param infile: a .txt file containing a word list created from AntConc
     :return: a dictionary of abstract nouns, with a separate entry for each suffix.
     """
-    abstract_noun_dict = {suffix: [] for suffix in suffix_list} # each suffix has a blank array (for word and frequency)
+    abstract_noun_dict = {suffix: [] for suffix in suffix_list}  # each suffix has a blank array (for word and frequency)
     linenum = 0
     for line in infile:
         if linenum < 3:  # first 3 lines contain metadata
@@ -128,13 +129,31 @@ def sort_abstract_nouns(aDict, key='frequencyhi'):
         for suffix in suffix_list:
            aDict[suffix].sort(reverse=True)
     elif key == "alphawordend":
-        pass  # the list is sorted this way by default
+        pass  # this assumes you stored the dictionary by word end
     elif key == "reversealphawordend":
         for suffix in suffix_list:
            aDict[suffix].reverse()
     else:
         print('Sorting type invalid. Try again with "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
               '"alphawordend", or "reversealphawordend"')
+
+
+def walk_directory_abstract_nouns(path, sort="frequencyhi"):
+    """
+    Walks through a directory and makes a spreadsheet of abstract nouns for each file in the directory.
+    Preconditions: _antconc is in the filename of each wordlist file
+    :param path: the path to a directory containing- AntConc wordlists and/or folders containing AntConc wordlists
+    :return:
+    """
+    for item in os.walk(path):
+        print(item)
+        os.chdir(item[0])  # change to the directory you are looking at. useful for reading and writing files
+        for filename in item[2]:
+            if filename.endswith(".txt") and "_antconc" in filename:
+                this_dict = get_abstract_nouns_from_wordlist(open(filename))
+                sort_abstract_nouns(this_dict, sort)
+                store_spreadsheet(this_dict, filename[:filename.index("_antconc")] + "_abstract_nouns")
+
 
 # test code
 if test:
@@ -143,6 +162,7 @@ if test:
     test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
     # assert test_dict == test_dict2
     store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
+
 
 # main code
 this_dict = get_abstract_nouns_from_wordlist(open(input("Name of the file containing the wordlist: ")))
