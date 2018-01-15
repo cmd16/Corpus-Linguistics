@@ -33,11 +33,11 @@ def get_abstract_nouns_from_wordlist(infile):
             continue
         data = str(line).split()
         word = data[2]
-        frequency = data[1]
+        frequency = int(data[1])
         for idx in range(len(suffix_list)):
             suffix = suffix_list[idx]
             if word.endswith(suffix):
-                abstract_noun_dict[suffix].append([word, data[1]])
+                abstract_noun_dict[suffix].append([word, frequency])
                 break
         linenum += 1
     infile.close()
@@ -158,15 +158,18 @@ def walk_directory_abstract_nouns(path, sort="frequencyhi"):
 # test code
 if test:
     test_dict = get_abstract_nouns_from_wordlist(open("hist152_final_wordend.txt"))
+    sort_abstract_nouns(test_dict, "frequencyhi")
     store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
-    test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
+    # test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
     # assert test_dict == test_dict2
-    store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
+    # store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
 
 
 # main code
+
 this_dict = get_abstract_nouns_from_wordlist(open(input("Name of the file containing the wordlist: ")))
 sort_type = input('Sort words by "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
               '"alphawordend", or "reversealphawordend": ')
 sort_abstract_nouns(this_dict, sort_type)
 store_spreadsheet(this_dict, input("Name of spreadsheet to store results in: "))
+
