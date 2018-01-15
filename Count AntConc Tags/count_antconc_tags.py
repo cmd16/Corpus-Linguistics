@@ -68,39 +68,31 @@ def get_tag_dict(in_name, case_sensitive=False):
     return tag_dict
 
 
-def count_sentences_and_length(in_name, average=True):
+def count_sentences(in_name):
     """
-    Counts the number of sentences and the length of the sentences
+    Counts the number of sentences
     :param in_name: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
     Note: if a list of filenames is presented, this will count all the sentences across all the files. If you want individual
     counts for each file, call this function on each file
-    :param average: if True, the average sentence length will be returned. Else, a dictionary of sentence lengths and their frequencies will be returned
-    :return: the number of sentences and either the average sentence length or a dictionary of sentence lengths and their freuqencies
+    :return: the number of sentences
     """
     if type(in_name) == list:
         iterator = iter(in_name)
     else:
         iterator = iter([in_name])
     sentence_num = 0
-    sentence_lens = {}
     for infilename in iterator:
         infile = open(infilename)
         print("processing " + infilename)
         for line in infile:
             sentences = line.split("_SENT")
-            line_sentence_num = len(sentences)
-            sentence_num += line_sentence_num
             for sent in sentences:
                 words = sent.split()
                 num_words = len(words)
-                if num_words in sentence_lens:
-                    sentence_lens[num_words] += 1
-                else:
-                    sentence_lens[num_words] = 1
-    if average:
-        return sentence_num, mean(sentence_lens.keys())
-    else:
-        return sentence_num, sentence_lens
+                if num_words == 0:  # don't count blank lines
+                    continue
+                sentence_num += 1
+    return sentence_num
 
 
 def print_tag_dict(aDict):
@@ -177,5 +169,7 @@ def tag_dict_from_directory(path, case_sensitive=False, walk=False):
 
 
 if test:
-    test_dict = tag_dict_from_directory("/Users/cat/Desktop/Tag Tolkien", case_sensitive=False, walk=True)
-    store_spreadsheet(test_dict, "test_multi_walk.xlsx", sort="frequencyhi")
+    # test_dict = tag_dict_from_directory("/Users/cat/Desktop/Tag Tolkien", case_sensitive=False, walk=True)
+    # store_spreadsheet(test_dict, "test_multi_walk.xlsx", sort="frequencyhi")
+    tup = count_sentences("Nov2015_Roxy_tagged.txt")
+    print(tup)
