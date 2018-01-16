@@ -3,53 +3,52 @@ import operator
 import os
 from statistics import mean
 
-tag_list = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NP', 'NPS', 'PDT', 'POS',
+tagant_tag_list = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NP', 'NPS', 'PDT', 'POS',
             'PP', 'PP$', 'RB', 'RBR', 'RBS', 'RP', 'SENT', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBZ', 'VBP',
             'VD', 'VDD', 'VDG', 'VDN', 'VDZ', 'VDP', 'VH', 'VHD', 'VHG', 'VHN', 'VHZ', 'VHP', 'VV', 'VVD', 'VVG', 'VVN',
             'VVP', 'VVZ', 'WDT', 'WP', 'WP$', 'WRB', ':', '$', ',', '(', ')', "''", "``", "NONE"]
 
-pos_definitions = {"CC": "coordinating conjuction", "CD":"cardinal number", "DT":"determiner", "EX":"existential there",
+tagant_pos_definitions = {"CC": "coordinating conjuction", "CD": "cardinal number", "DT": "determiner", "EX": "existential there",
                    "FW":"foreign word", 'IN':"preposition/subord. conj", 'IN/that':"complementizer", 'JJ':"adjective",
                    'JJR': "adjective, comparative", 'JJS': "adjective, superlative", 'LS': "list marker", 'MD': "modal",
                    'NN': "noun, singular or mass", 'NNS': "noun, plural", 'NP': "proper noun, singular", 'NPS': "proper noun, plural",
                    'PDT':"predeterminer", 'POS':"possessive ending", 'PP':"personal pronoun", 'PP$':"possesive pronoun",
-                   'RB': "adverb", 'RBR':"adverb, comparative", 'RBS':"adverb, superlative", 'RP':"particle", 'SENT':"end punctuation",
-                   'SYM': "symbol", 'TO': "to", 'UH':"interjection", 'VB':"be", 'VBD':"was/were", 'VBG':"being", 'VBN':"been",
-                   'VBZ':"is", 'VBP':"am/are", 'VD':"do", 'VDD':"did", 'VDG':"doing", 'VDN':"done", 'VDZ':"does", 'VDP':"do",
-                   'VH':"have, base form", 'VHD':"had", 'VHG':"having", 'VHN':"had", 'VHZ':"has", 'VHP':"have, present non-3rd person",
-                   'VV':"verb, base form", 'VVD':"verb, past tense", 'VVG': "verb, gerund/participle", 'VVN': "verb, past participle",
-                   'VVP': "verb, present non-3rd person", 'VVZ': "verb, present 3rd person singular", 'WDT': "wh-determiner",
-                   'WP': "wh-pronoun", 'WP$': "possessive wh-pronoun", 'WRB': "wh-adverb", ':' : "general joiner",
-                   '$': "currency symbol", ',':",", '(':"(", ')':")", "''":"quotation marks", "NONE": "miscellaneous"}
+                          'RB': "adverb", 'RBR':"adverb, comparative", 'RBS':"adverb, superlative", 'RP':"particle", 'SENT':"end punctuation",
+                          'SYM': "symbol", 'TO': "to", 'UH':"interjection", 'VB':"be", 'VBD':"was/were", 'VBG':"being", 'VBN':"been",
+                          'VBZ':"is", 'VBP':"am/are", 'VD':"do", 'VDD':"did", 'VDG':"doing", 'VDN':"done", 'VDZ':"does", 'VDP':"do",
+                          'VH':"have, base form", 'VHD':"had", 'VHG':"having", 'VHN':"had", 'VHZ':"has", 'VHP':"have, present non-3rd person",
+                          'VV':"verb, base form", 'VVD':"verb, past tense", 'VVG': "verb, gerund/participle", 'VVN': "verb, past participle",
+                          'VVP': "verb, present non-3rd person", 'VVZ': "verb, present 3rd person singular", 'WDT': "wh-determiner",
+                          'WP': "wh-pronoun", 'WP$': "possessive wh-pronoun", 'WRB': "wh-adverb", ':' : "general joiner",
+                          '$': "currency symbol", ',':",", '(':"(", ')':")", "''":"quotation marks", "NONE": "miscellaneous"}
 
-test = True
+test = False
 
 
 # function definitions
-def get_tag_dict(in_name, case_sensitive=False):
+def get_tag_dict(in_name, taglist, delimiter, case_sensitive=False):
     """
     Returns a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
     with a separate entry for each POS.
-    :param in_name: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
+    :param in_name: the name of a .txt file that contains tagged words or a list of filenames of txt files that contain tagged words
+    :param taglist: a list containing the tags that the file(s) in in_name contain(s)
+    :param delimiter: the character that marks a tag. In TagAnt, the delimiter is _
     :param case_sensitive: if true, "The" is a different word from "the"
     :return: a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
-    with a separate entry for each POS
+    with a separate entry for each POS.
     """
     if type(in_name) == list:
         iterator = iter(in_name)
     else:
         iterator = iter([in_name])
-    tag_dict = {tag: {} for tag in tag_list}
+    tag_dict = {tag: {} for tag in taglist}
     for infilename in iterator:
         infile = open(infilename)
         print("processing " + infilename)
         for line in infile:
             items = line.split()  # get the words and tags by splitting on whitespace
             for item in items:
-                index = item.rfind("_")  # find the last underscore (the one before the tag)
-                """word_pos = item.split("_")  # separate the word from the tag
-                word = word_pos[0].lower()  # make the word lowercase, so "The" becomes "the"
-                pos = word_pos[1]"""
+                index = item.rfind(delimiter)  # find the last delimiter (the one before the tag)
                 word = item[:index]
                 if not case_sensitive:
                     word = word.lower()
@@ -68,12 +67,13 @@ def get_tag_dict(in_name, case_sensitive=False):
     return tag_dict
 
 
-def count_sentences(in_name):
+def count_sentences(in_name, sentence_marker):
     """
-    Counts the number of sentences
-    :param in_name: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
+    Counts the number of sentences in a tagged text
+    :param in_name: the name of a .txt file that contains tagged words or a list of filenames of txt files that contain tagged words
     Note: if a list of filenames is presented, this will count all the sentences across all the files. If you want individual
     counts for each file, call this function on each file.
+    :param sentence_marker: the tag for the end of a sentence. In TagAnt, this is _SENT
     :return: the number of sentences
     """
     if type(in_name) == list:
@@ -85,7 +85,7 @@ def count_sentences(in_name):
         infile = open(infilename)
         print("processing " + infilename)
         for line in infile:
-            sentences = line.split("_SENT")
+            sentences = line.split(sentence_marker)
             for sent in sentences:
                 words = sent.split()
                 num_words = len(words)
@@ -108,10 +108,12 @@ def print_tag_dict(aDict):
         print()  # new line for spacing
 
 
-def store_spreadsheet(aDict, filename="Parts of Speech Spreadsheet", sort="alpha"):
+def store_spreadsheet(aDict, taglist, tagdefs, filename="Parts of Speech Spreadsheet", sort="frequencyhi"):
     """
-    Stores the instances of parts of speech and their frequencies in a spreadsheet.
+    Store the instances of various parts of speech and their frequencies in a spreadsheet
     :param aDict: a dictionary created using get_tag_dict
+    :param taglist: a list containing the tags that the file(s) in in_name contain(s)
+    :param tagdefs: a dictionary mapping the part of speech tags to their names/meanings
     :param filename: the name of the spreadsheet to store the results in
     :param sort: indicates order the entries should be sorted in
     :return:
@@ -121,13 +123,13 @@ def store_spreadsheet(aDict, filename="Parts of Speech Spreadsheet", sort="alpha
     ws = wb.active  # get a handle to the sheet in the workbook
 
     ws['A1'] = "POS Spreadsheet"
-    for col in range(1, len(tag_list) * 2 + 1, 2):  # go up by two because the suffixes need to be separated. add one because indexing starts at 1 in openpyxl
-        pos = tag_list[(col - 1) // 2]
+    for col in range(1, len(taglist) * 2 + 1, 2):  # go up by two because the suffixes need to be separated. add one because indexing starts at 1 in openpyxl
+        pos = taglist[(col - 1) // 2]
         entry = aDict[pos]
         if pos == "``":
             pos = "''"
-        pos_def = pos_definitions[pos]
-        ws.cell(row=2, column=col).value = pos_definitions[pos]
+        pos_def = tagant_pos_definitions[pos]
+        ws.cell(row=2, column=col).value = tagdefs[pos]
         # sort the dictionary
         if sort == "frequencyhi":
             entry_list = sorted(entry.items(), key=operator.itemgetter(1), reverse=True)
@@ -148,7 +150,18 @@ def store_spreadsheet(aDict, filename="Parts of Speech Spreadsheet", sort="alpha
             wb.save(filename)
 
 
-def tag_dict_from_directory(path, case_sensitive=False, walk=False):
+def tag_dict_from_directory(path, delimiter, end="_tagged.txt", case_sensitive=False, walk=False):
+    """
+    Make
+    :param path: the path to the directory you want to look at. Note: this will aggregate data across all the files. If you want individual
+    dictionaries for each file, call get_tag_dict on each file.
+    :param delimiter:
+    :param end: the filename ending that signifies a tagged file.
+    :param case_sensitive: if true, "The" is a different word from "the"
+    :param walk: if True, the function "walks" the directory - it goes into subfolders
+    :return: a dictionary that maps each part of speech (POS) to a dictionary containing words with that POS with their frequency,
+    with a separate entry for each POS.
+    """
     currentdir = os.getcwd()
     filename_list = []
     if walk:
@@ -157,7 +170,7 @@ def tag_dict_from_directory(path, case_sensitive=False, walk=False):
             currentpath = item[0]
             os.chdir(currentpath)  # change to the directory you are looking at. useful for reading and writing files
             for filename in item[2]:
-                if filename.endswith("_tagged.txt"):
+                if filename.endswith(end):
                     filename_list.append(os.path.join(currentpath, filename))
                     print(filename)
     else:
@@ -165,11 +178,10 @@ def tag_dict_from_directory(path, case_sensitive=False, walk=False):
             if filename.endswith("_tagged.txt"):
                 filename_list.append(os.path.join(path, filename))
     os.chdir(currentdir)
-    return get_tag_dict(filename_list, case_sensitive)
+    return get_tag_dict(filename_list, case_sensitive, delimiter=delimiter)
 
 
 if test:
+    pass
     # test_dict = tag_dict_from_directory("/Users/cat/Desktop/Tag Tolkien", case_sensitive=False, walk=True)
     # store_spreadsheet(test_dict, "POS_Tolkien.xlsx", sort="frequencyhi")
-    tup = count_sentences("Nov2015_Roxy_tagged.txt")
-    print(tup)
