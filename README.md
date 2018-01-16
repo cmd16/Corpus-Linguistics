@@ -39,7 +39,6 @@ A repository to store the scripts I write to make corpus linguistics (analyzing 
     <li>I have done nothing to correct for false positives (nouns that end with the suffixes I'm looking for but that aren't abstract nouns. If you find false positives, please let me know on the issues page, and I'll make a list of false positives.</li>
     </ul>
 </li>
-<ul>
 
 <h3>remove_html_tags</h3>
 <ul>
