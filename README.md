@@ -1,7 +1,7 @@
 # Corpus-Linguistics
 A repository to store the scripts I write to make corpus linguistics (analyzing bodies of texts) work easier.
 
-<h5>POS Spreadsheet</h5>
+<h3>POS Spreadsheet</h3>
 <ul>
 <li>This allows you to:
     <ul>
@@ -19,7 +19,7 @@ A repository to store the scripts I write to make corpus linguistics (analyzing 
 </ul>
 
 
-<h5>abstract_nouns</h5>
+<h3>abstract_nouns</h3>
 <ul>
 <li>This allows you to:
     <ul>
@@ -41,7 +41,7 @@ A repository to store the scripts I write to make corpus linguistics (analyzing 
 </li>
 <ul>
 
-<h5>remove_html_tags</h5>
+<h3>remove_html_tags</h3>
 <ul>
 <li>This allows you to:
     <ul>
