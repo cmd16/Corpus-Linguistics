@@ -73,7 +73,7 @@ def count_sentences(in_name):
     Counts the number of sentences
     :param in_name: the name of a .txt file created using TagAnt or a list of filenames of txt files that were created using TagAnt
     Note: if a list of filenames is presented, this will count all the sentences across all the files. If you want individual
-    counts for each file, call this function on each file
+    counts for each file, call this function on each file.
     :return: the number of sentences
     """
     if type(in_name) == list:
@@ -170,6 +170,6 @@ def tag_dict_from_directory(path, case_sensitive=False, walk=False):
 
 if test:
     # test_dict = tag_dict_from_directory("/Users/cat/Desktop/Tag Tolkien", case_sensitive=False, walk=True)
-    # store_spreadsheet(test_dict, "test_multi_walk.xlsx", sort="frequencyhi")
+    # store_spreadsheet(test_dict, "POS_Tolkien.xlsx", sort="frequencyhi")
     tup = count_sentences("Nov2015_Roxy_tagged.txt")
     print(tup)
