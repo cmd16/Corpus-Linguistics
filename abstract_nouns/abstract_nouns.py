@@ -3,8 +3,8 @@ Abstract Nouns
 Written by Catherine DeJager
 
 Get the abstract nouns in a corpus by searching for various suffixes as found in the website below.
-Dependencies: openpyxl (if you want to output results to spreadsheet
     https://learningenglishgrammar.wordpress.com/suffixes/suffixes-and-how-they-form-abstract-nouns/
+Dependencies: openpyxl (if you want to output results to spreadsheet)
 """
 
 # imports
@@ -12,10 +12,10 @@ import openpyxl
 import os
 
 # global variables
-test = False
-suffix_list = ['age', 'ages', 'ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom', 'doms', 'ence', 'ences', 'ess',
-               'esse', 'esses', 'head', 'heads', 'hood', 'hoods', 'ice', 'ices', 'ion', 'ions', 'ise', 'ises', 'ism',
-               'isms', 'ity', 'itys', 'ment', 'ments', 'ry', 'ries', 'ty', 'ties', 'tude', 'tudes', 'ure', 'ures']
+test = True
+suffix_list = ['ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom', 'doms', 'ence', 'ences', 'ness',
+               'nesses', 'esses', 'hood', 'hoods', 'ice', 'ices', 'ion', 'ions', 'ism',
+               'isms', 'ity', 'itys', 'ment', 'ments', 'ty', 'ties', 'tude', 'tudes', 'ure', 'ures']
 
 
 # function definitions
@@ -164,13 +164,14 @@ def main():
 
 # test code
 if test:
-    test_dict = get_abstract_nouns_from_wordlist(open("hist152_final_wordend.txt"))
-    sort_abstract_nouns(test_dict, "frequencyhi")
-    store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
+    pass
+    # test_dict = get_abstract_nouns_from_wordlist(open("hist152_final_wordend.txt"))
+    # sort_abstract_nouns(test_dict, "frequencyhi")
+    # store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
     # test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
     # assert test_dict == test_dict2
     # store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
 
 
 # main code
-main()
+# main()
