@@ -111,16 +111,8 @@ def tag_lemma_from_tree(in_name, case_sensitive=False):
                     pos = "''"
                 lemma = data[2]
             except IndexError:
-                if word.startswith("<"):
-                    word = word.replace("<", "")
-                    if word.endswith(">"):
-                        word = word.replace(">", "")
-                    # elif len(data) > 1 and pos == ">":
-                    if not case_sensitive:
-                        word = word.lower()
-                    tags = tagger.tag_text(word)[0].split()
-                    pos = tags[1]
-                    lemma = tags[2]
+                if word.startswith("<") and word.endswith(">"):
+                    continue  # e.g., <repdns text="nosuey.Beta" />
                 else:
                     print(line, data, sep=" : ")
                     word = input("enter word: ")
