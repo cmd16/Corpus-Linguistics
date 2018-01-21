@@ -12,8 +12,8 @@ import re
 tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
 tree_taglist = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NP', 'NPS', 'PDT', 'POS',
             'PP', 'PP$', 'RB', 'RBR', 'RBS', 'RP', 'SENT', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBZ', 'VBP',
-            'VD', 'VDD', 'VDG', 'VDN', 'VDZ', 'VDP', 'VH', 'VHD', 'VHG', 'VHN', 'VHZ', 'VHP', 'VV', 'VVD', 'VVG', 'VVN',
-            'VVP', 'VVZ', 'WDT', 'WP', 'WP$', 'WRB', ':', '$', ',', '(', ')', "''", "``", "NONE"]
+            'VH', 'VHD', 'VHG', 'VHN', 'VHZ', 'VHP', 'VV', 'VVD', 'VVG', 'VVN',
+            'VVP', 'VVZ', 'WDT', 'WP', 'WP$', 'WRB', ':', '$', ',', '(', ')', "''", "NONE"]  # removed VD tags and "``"
 tree_tagdefs = {"CC": "coordinating conjuction", "CD": "cardinal number", "DT": "determiner", "EX": "existential there",
                    "FW":"foreign word", 'IN':"preposition/subord. conj", 'IN/that':"complementizer", 'JJ':"adjective",
                    'JJR': "adjective, comparative", 'JJS': "adjective, superlative", 'LS': "list marker", 'MD': "modal",
@@ -21,8 +21,8 @@ tree_tagdefs = {"CC": "coordinating conjuction", "CD": "cardinal number", "DT": 
                 'PDT':"predeterminer", 'POS':"possessive ending", 'PP':"personal pronoun", 'PP$':"possesive pronoun",
                 'RB': "adverb", 'RBR':"adverb, comparative", 'RBS':"adverb, superlative", 'RP':"particle", 'SENT':"end punctuation",
                 'SYM': "symbol", 'TO': "to", 'UH':"interjection", 'VB':"be", 'VBD':"was/were", 'VBG':"being", 'VBN':"been",
-                'VBZ':"is", 'VBP':"am/are", 'VD':"do", 'VDD':"did", 'VDG':"doing", 'VDN':"done", 'VDZ':"does", 'VDP':"do",
-                'VH':"have, base form", 'VHD':"had", 'VHG':"having", 'VHN':"had", 'VHZ':"has", 'VHP':"have, present non-3rd person",
+                'VBZ':"is", 'VBP':"am/are", 'VH':"have, base form", 'VHD':"had", 'VHG':"having", 'VHN':"had", 'VHZ':"has",
+                'VHP':"have, present non-3rd person", # removed VD tags
                 'VV':"verb, base form", 'VVD':"verb, past tense", 'VVG': "verb, gerund/participle", 'VVN': "verb, past participle",
                 'VVP': "verb, present non-3rd person", 'VVZ': "verb, present 3rd person singular", 'WDT': "wh-determiner",
                 'WP': "wh-pronoun", 'WP$': "possessive wh-pronoun", 'WRB': "wh-adverb", ':' : "general joiner",
@@ -109,9 +109,12 @@ def tag_lemma_from_tree(in_name, case_sensitive=False):
                 pos = data[1]
                 if pos == "``":
                     pos = "''"
-                lemma = data[2]
+                if case_sensitive:
+                    lemma = data[2]
+                else:
+                    lemma = data[2].lower()
             except IndexError:
-                if word.startswith("<") and word.endswith(">"):
+                if word.startswith("<"):
                     continue  # e.g., <repdns text="nosuey.Beta" />
                 else:
                     print(line, data, sep=" : ")
