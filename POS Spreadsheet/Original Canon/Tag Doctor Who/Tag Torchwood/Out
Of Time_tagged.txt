@@ -1,0 +1,782 @@
+[_SYM Airfield_NP ]_SYM 
+
+(_( The_DT Torchwood_NP team_NN are_VBP waiting_VVG for_IN a_DT small_JJ biplane_NN 
+to_TO land_VV ._SENT Sky_NP Gipsy_NP makes_VVZ it_PP down_RP safely_RB and_CC taxis_NNS to_TO a_DT halt_NN next_JJ to_TO 
+them_PP ._SENT The_DT pilot_NN is_VBZ a_DT woman_NN with_IN bright_JJ red_JJ lipstick_NN ._SENT )_) 
+DIANE_NP :_: Hello_UH there_RB ._SENT Apologies_NNS for_IN the_DT unplanned_JJ touchdown_NN ._SENT Just_RB hit_VVN 
+some_DT rotten_JJ turbulence_NN ._SENT 
+JACK_NN :_: Captain_NP Jack_NP Harkness_NP ._SENT 
+(_( Her_PP$ two_CD passengers_NNS disembark_VVP ._SENT )_) 
+DIANE_NP :_: Diane_NP Holmes_NP ,_, pilot_NN ._SENT Is_VBZ this_DT some_DT sort_NN of_IN secret_JJ base_NN ?_SENT You_PP must_MD 
+show_VV me_PP round_VV one_CD day_NN ,_, Captain_NP ._SENT 
+JOHN_NN :_: Everything_NN all_DT right_NN ?_SENT 
+EMMA_NN :_: How_WRB long_JJ before_IN we_PP head_VVP off_RP again_RB ?_SENT My_PP$ uncle_NN 's_VBZ expecting_VVG me_PP ._SENT 
+JACK_NN :_: When_WRB did_VVD you_PP leave_VVP ?_SENT 
+DIANE_NN :_: About_RB half_PDT an_DT hour_NN ago_RB ._SENT 
+JACK_NN :_: Which_WDT date_NN ?_SENT 
+DIANE_NP :_: Today_NN ,_, December_NP the_DT 18th_JJ ._SENT 
+JACK_NN :_: Which_WDT year_NN ?_SENT Which_WDT year_NN ?_SENT Which_WDT year_NN ?_SENT I_PP need_VVP to_TO know_VV ._SENT 
+DIANE_NP :_: 1953._CD 
+
+[_SYM Hub_NP ]_SYM 
+
+JACK_NN :_: There_EX 's_VBZ no_DT need_NN to_TO be_VB frightened_VVN ._SENT 
+JOHN_NN :_: Who_WP are_VBP you_PP exactly_RB ?_SENT 
+JACK_NN :_: The_DT least_JJS you_PP know_VVP about_IN us_PP ,_, the_DT better_RBR ._SENT Meet_VV the_DT team_NN ._SENT 
+TOSH_NN :_: Toshiko_NP ._SENT 
+GWEN_NP :_: Gwen_NP ._SENT 
+OWEN_NP :_: Doctor_NP Owen_NP Harper_NP ._SENT 
+JOHN_NN :_: John_NP Ellis_NP ._SENT 
+EMMA_NN :_: Emma_NP Louise_NP Cowell_NP ._SENT 
+DIANE_NP :_: Diane_NP Holmes_NP ._SENT 
+OWEN_NP :_: Please_UH ,_, follow_VV me_PP ._SENT 
+(_( The_DT three_CD new_JJ arrivals_NNS follow_VVP Owen_NP upstairs_NN ._SENT )_) 
+GWEN_NP :_: At_IN least_JJS it_PP was_VBD n't_RB a_DT spaceship_NN full_JJ of_IN aliens_NNS ._SENT 
+JACK_NN :_: That_WDT might_MD have_VH been_VBN easier_JJR ._SENT 
+
+[_SYM Conference_NP room_NN ]_SYM 
+
+JOHN_NN :_: But_CC how_WRB can_MD you_PP travel_VV fifty_CD years_NNS in_IN half_PDT an_DT 
+hour_NN ?_SENT 
+JACK_NN :_: Your_PP$ aircraft_NN slipped_VVD through_IN a_DT transcendental_JJ portal_NN ._SENT 
+EMMA_NN :_: A_DT what_WP ?_SENT 
+JACK_NN :_: A_DT door_NN in_IN time_NN and_CC space_NN ._SENT 
+JOHN_NN :_: It_PP 's_VBZ some_DT kind_NN of_IN trick_NN ._SENT It_PP has_VHZ to_TO be_VB ._SENT 
+JACK_NN :_: Tosh_NN ?_SENT 
+(_( Tosh_NP has_VHZ put_VVN out_RP some_DT prints_NNS on_IN the_DT table_NN ._SENT )_) 
+TOSH_NN :_: Celebrations_NNS of_IN the_DT Millennium_NN in_IN your_PP$ respective_JJ home_NN cities_NNS ,_, 
+photographs_NNS documenting_VVG the_DT development_NN of_IN Cardiff_NP Bay_NP from_IN the_DT Fifties_NP 
+to_TO the_DT present_JJ day_NN ,_, 
+blueprints_NNS of_IN modern_JJ day_NN aeroplanes_NNS ._SENT 
+DIANE_NP :_: But_CC if_IN all_PDT this_DT is_VBZ true_JJ then_RB how_WRB do_VVP we_PP get_VVP back_RB ?_SENT 
+JACK_NN :_: You_PP do_VVP n't_RB ._SENT According_VVG to_TO history_NN ,_, your_PP$ plane_NN never_RB returned_VVN ._SENT I_PP 'm_VBP 
+sorry_RB ._SENT 
+DIANE_NP :_: What_WP 's_VBZ going_VVG to_TO happen_VV to_TO us_PP ?_SENT 
+JOHN_NN :_: Never_RB mind_VV about_IN us_PP ._SENT What_WP happened_VVD to_TO everyone_NN else_RB ?_SENT Our_PP$ 
+families_NNS ._SENT 
+
+[_SYM Hub_NP ]_SYM 
+
+(_( Gwen_NP has_VHZ Emma_NP 's_POS file_NN ._SENT )_) 
+GWEN_NP :_: Your_PP$ father_NN died_VVD in_IN 1959._CD He_PP was_VBD forty_NN eight_NN ._SENT 
+EMMA_NN :_: Dad_NP said_VVD he_PP 'd_MD die_VV young_JJ ._SENT All_PDT the_DT men_NNS in_IN the_DT munitions_NN factory_NN 
+did_VVD ._SENT 
+GWEN_NP :_: Your_PP$ mother_NN lived_VVD till_IN she_PP was_VBD eighty_CD one_CD ,_, though_RB ._SENT I_PP know_VVP this_DT is_VBZ 
+hard_JJ to_TO take_VV in_IN ,_, but_CC is_VBZ there_RB anyone_NN else_RB ?_SENT 
+(_( John_NP is_VBZ with_IN Tosh_NP and_CC her_PP$ computer_NN ._SENT )_) 
+JOHN_NN :_: My_PP$ son_NN ,_, Alan_NP Ellis_NP ._SENT He_PP was_VBD born_VVN on_IN the_DT sixth_JJ of_IN April_NP ,_, 1937._CD 14_CD 
+Park_NP Place_NP ,_, Grangetown_NP ._SENT He_PP might_MD still_RB be_VB alive_JJ ._SENT 
+TOSH_NN :_: The_DT archives_NN in_IN the_DT fifties_NNS were_VBD n't_RB that_DT well_RB documented_VVN ._SENT 
+JACK_NN :_: We_PP 'll_MD try_VV again_RB tomorrow_NN ._SENT Right_RB now_RB ,_, you_PP need_VVP to_TO get_VV some_DT sleep_NN ._SENT 
+(_( And_CC Diane_NP is_VBZ with_IN Owen_NP ._SENT She_PP is_VBZ a_DT cigarette_NN smoker_NN ._SENT )_) 
+OWEN_NN :_: Friends_NNS ?_SENT Boyfriend_NN ?_SENT 
+DIANE_NN :_: Not_RB really_RB ._SENT Never_RB stayed_VVN in_IN one_CD place_NN long_RB enough_RB ._SENT 
+
+[_SYM Hostel_NP ]_SYM 
+
+GWEN_NN :_: It_PP 's_VBZ a_DT bit_NN basic_JJ ._SENT 
+DIANE_NN :_: Not_RB when_WRB you_PP 've_VHP slept_VVN in_IN barracks_NN ._SENT 
+(_( The_DT girls_NNS are_VBP sharing_VVG a_DT room_NN with_IN one_CD bed_NN and_CC a_DT pair_NN of_IN bunks_NNS ._SENT )_) 
+[_SYM John_NP 's_POS room_NN ]_SYM 
+
+JOHN_NN :_: I_PP was_VBD going_VVG to_TO close_VV a_DT deal_NN on_IN a_DT shop_NN in_IN 
+Dublin_NP tomorrow_NN ._SENT 
+JACK_NN :_: What_WP do_VVP you_PP trade_VV in_IN ?_SENT 
+JOHN_NN :_: Food_NN ,_, knick-knacks_NNS ,_, essentials_NNS ._SENT 
+(_( John_NP has_VHZ a_DT portable_JJ radio_NN ,_, and_CC he_PP tries_VVZ to_TO tune_VV it_PP in_RP ._SENT )_) 
+JACK_NN :_: What_WP are_VBP you_PP after_RB ?_SENT 
+JOHN_NN :_: Bit_NN of_IN music_NN ._SENT 
+(_( Jack_NP finds_VVZ Beethoven_NP 's_POS Moonlight_NP Sonata_NP on_IN a_DT local_JJ MW_NN frequency_NN ._SENT John_NP 
+also_RB has_VHZ a_DT camera_NN ._SENT )_) 
+JOHN_NN :_: There_EX 's_VBZ photographs_NNS of_IN my_PP$ family_NN in_IN here_RB ._SENT 
+JACK_NN :_: I_PP 'll_MD see_VV what_WP I_PP can_MD do_VV ._SENT 
+JOHN_NN :_: Do_VVP n't_RB worry_VV ,_, Captain_NP Harkness_NP ._SENT I_PP 'll_MD look_VV after_IN the_DT ladies_NNS ._SENT 
+JACK_NN :_: Call_VV me_PP Jack_NP ._SENT 
+
+[_SYM Girl_NP 's_POS room_NN ]_SYM 
+
+(_( Female_JJ laughter_NN and_CC a_DT door_NN closing_NN ._SENT )_) 
+EMMA_NN :_: Who_WP else_RB is_VBZ here_RB ?_SENT 
+GWEN_NP :_: A_DT couple_NN of_IN young_JJ girls_NNS ._SENT Pretty_JJ dress_NN ._SENT 
+EMMA_NN :_: Thank_VV you_PP ._SENT I_PP made_VVD it_PP myself_PP ._SENT 
+GWEN_NP :_: Where_WRB are_VBP you_PP from_IN ?_SENT 
+EMMA_NN :_: Bristol_NP ._SENT 
+GWEN_NP :_: What_WP were_VBD you_PP going_VVG to_TO Dublin_NP for_IN ?_SENT 
+EMMA_NN :_: Auntie_NN Nora_NP 's_POS ill_JJ and_CC Uncle_NP Finn_NP ca_MD n't_RB manage_VV the_DT children_NNS ._SENT It_PP 'll_MD 
+be_VB good_JJ practice_NN for_IN when_WRB I_PP have_VHP children_NNS of_IN my_PP$ own_JJ ,_, Mum_NP says_VVZ ._SENT 
+(_( Emma_NP takes_VVZ a_DT teddy_NN out_RP of_IN her_PP$ suitcase_NN and_CC hugs_VVZ it_PP ._SENT )_) 
+EMMA_NN :_: She_PP 's_VBZ gone_VVN next_JJ door_NN so_IN Uncle_NP Finn_NP can_MD telephone_VV ._SENT She_PP 'll_MD know_VV I_PP 'm_VBP 
+missing_VVG by_IN now_RB ._SENT 
+GWEN_NP :_: Emma_NP ,_, she_PP found_VVD out_RP in_IN 1953._CD Over_IN fifty_CD years_NNS have_VHP passed_VVN ,_, 
+remember_VV ?_SENT 
+EMMA_NN :_: What_WP will_MD she_PP think_VV happened_VVN ?_SENT It_PP must_MD have_VH been_VBN like_IN one_CD of_IN those_DT 
+murders_NNS where_WRB they_PP never_RB find_VVP the_DT body_NN ._SENT 
+GWEN_NN :_: They_PP seemed_VVD to_TO think_VV the_DT plane_NN went_VVD down_RP in_IN the_DT sea_NN ._SENT 
+
+[_SYM Hub_NP ]_SYM 
+
+(_( Gwen_NP hands_NNS out_IN passports_NNS ._SENT )_) 
+JACK_NN :_: These_DT will_MD be_VB your_PP$ means_NNS of_IN identification_NN for_IN the_DT authorities_NNS ._SENT 
+We_PP 've_VHP set_VVN up_RP bank_NN accounts_NNS for_IN you_PP but_CC we_PP 'll_MD give_VV you_PP an_DT allowance_NN so_RB 
+you_PP can_MD practice_VV 
+with_IN the_DT currency_NN and_CC money_NN management_NN ._SENT 
+JOHN_NN :_: David_NP Ward_NP ?_SENT 
+DIANE_NP :_: Sally-Anne_NP Hope_NP ._SENT 
+EMMA_NN :_: Deborah_NP Morrison_NP ._SENT And_CC it_PP 's_VBZ spelt_VVN how_WRB Deborah_NP Kerr_NP spells_VVZ it_PP ._SENT 
+JACK_NN :_: Your_PP$ background_NN stories_NNS should_MD incorporate_VV the_DT skills_NNS you_PP already_RB 
+have_VHP ._SENT For_IN instance_NN ,_, John_NP ,_, you_PP could_MD have_VH run_VVN a_DT corner_NN shop_NN ._SENT 
+JOHN_NN :_: No._NN 
+JACK_NN :_: We_PP can_MD fake_VV references_NNS ._SENT 
+JOHN_NN :_: You_PP ca_MD n't_RB take_VV away_RP our_PP$ names_NNS ._SENT For_IN God_NP 's_POS sake_NN ,_, man_UH ,_, it_PP 's_VBZ all_RB 
+we_PP 've_VHP got_VVN left_RB ._SENT It_PP 's_VBZ my_PP$ son_NN 's_POS name_NN ._SENT It_PP 's_VBZ the_DT name_NN above_IN my_PP$ shop_NN ._SENT 
+JACK_NN :_: You_PP 're_VBP right_JJ ._SENT I_PP did_VVD n't_RB think_VV ._SENT You_PP should_MD keep_VV your_PP$ name_NN ._SENT 
+
+[_SYM Outside_IN the_DT supermarket_NN ]_SYM 
+
+IANTO_NN :_: I_PP 'd_MD suggest_VV you_PP use_VV twenty_CD five_CD pounds_NNS for_IN 
+your_PP$ food_NN and_CC then_RB twenty_CD pounds_NNS for_IN luxuries_NNS like_IN cigarettes_NNS ,_, 
+magazines_NNS ._SENT 
+EMMA_NN :_: My_PP$ dad_NN only_RB made_VVD ten_CD pounds_NNS a_DT week_NN ._SENT 
+IANTO_NN :_: Things_NNS are_VBP a_DT lot_NN more_RBR expensive_JJ now_RB ._SENT 
+(_( The_DT doors_NNS open_VVP for_IN them_PP ._SENT )_) 
+DIANE_NP :_: How_WRB did_VVD it_PP do_VVP that_RB ?_SENT 
+IANTO_NN :_: It_PP 's_VBZ automatic_JJ ._SENT It_PP knows_VVZ you_PP 're_VBP there_RB ._SENT 
+DIANE_NP :_: But_CC how_WRB ?_SENT 
+IANTO_NN :_: There_EX are_VBP wave_NN bouncing_JJ detectors_NNS which_WDT emit_VVP radio_NN waves_NNS and_CC 
+then_RB look_VV for_IN reflections_NNS 
+DIANE_NN :_: Bananas_NNS !_SENT 
+IANTO_NN :_: Of_IN course_NN ,_, bananas_NNS are_VBP far_RB more_RBR interesting_JJ ._SENT 
+[_SYM Supermarket_NP ]_SYM 
+
+JOHN_NN :_: Look_VV at_IN all_PDT this_DT ._SENT We_PP 'd_MD just_RB come_VV off_RP 
+rationing_VVG in_IN '_'' 53._CD 
+IANTO_NP :_: Yeah_UH ,_, sorry_RB ._SENT We_PP are_VBP a_DT consumer_NN society_NN ._SENT 
+JOHN_NN :_: It_PP 's_POS bloody_JJ fantastic_NN ._SENT 
+(_( Diane_NP is_VBZ fascinated_VVN by_IN the_DT televisions_NNS )_) 
+EMMA_NN :_: How_WRB much_JJ food_NN money_NN have_VHP I_PP got_VVD left_VVN ?_SENT 
+IANTO_NP :_: Fifteen_CD pound_NN forty_NN ._SENT 
+(_( Emma_NP grabs_VVZ lots_NNS of_IN chocolate_NN ._SENT )_) 
+IANTO_NP :_: Twelve_NP pounds_NNS ten_CD ._SENT You_PP 'll_MD ruin_VV your_PP$ teeth_NNS ._SENT 
+EMMA_NN :_: You_PP sound_VVP like_IN my_PP$ mum_NN ._SENT 
+(_( They_PP meet_VVP Diane_NP by_IN the_DT classic_JJ DVDs_NP ._SENT )_) 
+DIANE_NN :_: They_PP sell_VVP films_NNS in_IN boxes_NNS and_CC you_PP can_MD watch_VV them_PP at_IN home_NN ._SENT 
+EMMA_NN :_: I_PP love_VVP going_VVG to_TO the_DT pictures_NNS ._SENT 
+(_( Meanwhile_RB ,_, John_NP is_VBZ horrified_VVN by_IN the_DT cover_NN of_IN Peach_NP magazine_NN ,_, amongst_IN 
+others_NNS ._SENT )_) 
+JOHN_NN :_: Good_JJ God_NP ._SENT 
+IANTO_NN :_: Welcome_VV to_TO the_DT wonderful_JJ world_NN of_IN scantily-dressed_JJ celebrities_NNS ._SENT 
+EMMA_NN :_: Super_NP Excel_NP Waterproof_NP Luscious_NP Lashes_NP Mascara_NP ._SENT I_PP 've_VHP got_VVN to_TO have_VH 
+that_RB ._SENT 
+JOHN_NN :_: There_EX 's_VBZ children_NNS around_RB ._SENT 
+IANTO_NN :_: She_PP 's_VBZ a_DT children_NNS 's_POS TV_NN presenter_NN ._SENT 
+(_( At_IN the_DT checkout_NN ._SENT )_) 
+IANTO_NN :_: So_RB you_PP like_VVP the_DT musicals_NNS ?_SENT 
+EMMA_NN :_: My_PP$ best_JJS friend_NN Kate_NP ,_, and_CC I_PP saw_VVD Calamity_NP Jane_NP five_CD times_NNS ._SENT I_PP 've_VHP got_VVN 
+the_DT LP_NP ._SENT 
+IANTO_NN :_: You_PP all_RB right_RB ?_SENT 
+(_( Diane_NP holds_VVZ up_RP her_PP$ new_JJ cigarettes_NNS with_IN the_DT warning_VVG Smoking_NP Kills_NP ._SENT )_) 
+DIANE_NP :_: What_WP does_VVZ that_DT mean_NN ?_SENT 
+
+[_SYM Outside_IN the_DT Millennium_NP Stadium_NP ]_SYM 
+
+JOHN_NN :_: I_PP 'm_VBP just_RB going_VVG to_TO take_VV a_DT look_NN at_IN the_DT stadium_NN ._SENT 
+You_PP girls_NNS stick_VVP together_RB now_RB ._SENT I_PP 'll_MD be_VB back_RB for_IN supper_NN ._SENT 
+(_( Ianto_NP drives_VVZ away_RB with_IN Diane_NP and_CC Emma_NP ._SENT Alan_NP consults_VVZ a_DT map_NN and_CC walks_VVZ 
+away_RB ._SENT )_) 
+
+[_SYM Street_NP ]_SYM 
+
+(_( John_NP is_VBZ standing_VVG outside_IN the_DT last_JJ remaining_VVG house_NN 
+of_IN a_DT terrace_NN ,_, and_CC it_PP is_VBZ boarded_VVN up_RP ._SENT )_) 
+JOHN_NN :_: Excuse_VV me_PP ._SENT Do_VV you_PP know_VV a_DT man_NN called_VVD Alan_NP Ellis_NP ?_SENT He_PP used_VVD to_TO live_VV 
+here_RB ._SENT 
+MAN_NN :_: No_UH ,_, sorry_RB ,_, mate_NN ._SENT 
+
+[_SYM Hostel_NP kitchen_NN ]_SYM 
+
+(_( Emma_NP is_VBZ opening_VVG the_DT teabags_NNS and_CC putting_VVG the_DT leaves_NNS 
+into_IN a_DT teapot_NN ._SENT )_) 
+DIANE_NN :_: I_PP 'm_VBP going_VVG to_TO check_VV on_IN the_DT plane_NN this_DT afternoon_NN ._SENT Want_VVP to_TO come_VV ?_SENT 
+EMMA_NN :_: I_PP 'm_VBP going_VVG to_TO watch_VV this_DT ._SENT And_CC maybe_RB make_VV some_DT paper_NN chains_NNS ._SENT 
+DIANE_NP :_: Wonder_VVP what_WP work_VVP I_PP can_MD get_VV in_IN aviation_NN ._SENT 
+EMMA_NN :_: I_PP 'm_VBP going_VVG to_TO have_VH to_TO find_VV a_DT husband_NN ._SENT 
+(_( The_DT other_JJ two_CD residents_NNS enter_VVP ,_, laughing_VVG ._SENT One_CD grabs_NNS a_DT couple_NN of_IN mugs_NNS ._SENT )_) 
+ALESHA_NN :_: All_DT right_NN ?_SENT I_PP 'm_VBP Alesha_NP ,_, this_DT is_VBZ Jade_NP ._SENT 
+JADE_NN :_: All_DT right_NN ._SENT 
+EMMA_NN :_: I_PP 'm_VBP Emma_NP ._SENT 
+DIANE_NP :_: Diane_NP ._SENT Excuse_VV me_PP ,_, I_PP have_VHP to_TO get_VV ready_JJ ._SENT 
+(_( She_PP stares_VVZ at_IN Alesha_NP dropping_VVG the_DT teabags_NNS into_IN the_DT mugs_NNS before_IN pouring_VVG 
+boiling_VVG water_NN on_IN them_PP ._SENT )_) 
+ALESHA_NP :_: Where_WRB d'you_NP get_VV those_DT shoes_NNS ?_SENT They_PP 're_VBP lush_JJ ._SENT 
+EMMA_NN :_: Thanks_NNS ._SENT 
+
+[_SYM Hangar_NP ]_SYM 
+
+DIANE_NP :_: Hello_UH ,_, old_JJ girl_NN ._SENT Do_VV you_PP miss_VV me_PP ?_SENT 
+OWEN_NN :_: I_PP 've_VHP er_NNS ,_, I_PP 've_VHP been_VBN reading_VVG up_RP on_IN you_PP ._SENT England_NP to_TO Australia_NP in_IN 
+four_CD days_NNS in_IN 1952._CD That_DT is_VBZ impressive_JJ ._SENT 
+DIANE_NP :_: Yeah_UH ,_, terrible_JJ wind_NN across_IN the_DT Bengal_NP Bay_NP ._SENT 
+OWEN_NN :_: Something_NN you_PP ate_VVD ?_SENT 
+(_( Diane_NP checks_VVZ the_DT oil_NN level_NN in_IN the_DT plane_NN 's_POS engine_NN ._SENT )_) 
+OWEN_NN :_: So_RB ,_, how_WRB did_VVD you_PP get_VV into_IN this_DT ?_SENT 
+DIANE_NP :_: Ferried_VVN planes_NNS during_IN the_DT war_NN ._SENT Of_IN course_NN ,_, when_WRB it_PP was_VBD over_RP ,_, we_PP 
+were_VBD supposed_VVN to_TO revert_VV to_TO being_VBG dutiful_JJ wives_NNS and_CC daughters_NNS ._SENT 
+But_CC I_PP 'd_MD got_VV a_DT taste_NN for_IN it_PP ._SENT No_DT pig-headed_JJ man_NN tells_VVZ me_PP what_WP to_TO do_VV ._SENT 
+OWEN_NP :_: Ah_UH ._SENT Sky_NP Gipsy_NP ?_SENT 
+DIANE_NP :_: After_IN the_DT engine_NN ._SENT The_DT de_NP Havilland_NP Gipsy_NP Six_CD ._SENT A_DT work_NN of_IN genius_NN ._SENT 
+Tuned_VVN with_IN a_DT higher_JJR compression_NN ratio_NN so_IN it_PP can_MD squeeze_VV far_RB more_JJR energy_NN 
+from_IN its_PP$ air_NN fuel_NN mixture_NN ._SENT Can_MD I_PP take_VV her_PP up_RP ?_SENT 
+OWNE_NP :_: No._NN You_PP could_MD get_VV arrested_VVN ._SENT You_PP have_VHP n't_RB got_VVN a_DT licence_NN ._SENT 
+DIANE_NP :_: But_CC I_PP ._SENT Oh_UH ,_, bugger_NN ._SENT It_PP 's_VBZ no_RB longer_RBR valid_JJ ._SENT 
+OWEN_NN :_: I_PP guess_VVP I_PP 'm_VBP just_RB another_DT pig-headed_JJ man_NN telling_VVG you_PP what_WP to_TO do_VV ._SENT 
+DIANE_NP :_: Well_UH ,_, you_PP 'd_MD better_RBR make_VV it_PP up_RP to_TO me_PP ._SENT I_PP want_VVP to_TO learn_VV all_RB about_RB 
+this_DT new_JJ world_NN ._SENT 
+
+[_SYM Pub_NP ]_SYM 
+
+(_( John_NP is_VBZ filling_VVG his_PP$ pipe_NN whist_NN talking_VVG to_TO Jack_NP ._SENT )_) 
+JOHN_NN :_: Blackpool_NP were_VBD 3-1_CD down_RB ,_, then_RB Stanley_NP Matthews_NP worked_VVD his_PP$ magic_NN ._SENT 
+Scored_VVN two_CD goals_NNS in_IN the_DT last_JJ 20_CD minutes_NNS ._SENT Bolton_NP lost_VVD 4-3_CD ._SENT 
+My_PP$ boy_NN was_VBD on_IN his_PP$ knees_NNS ,_, punching_VVG the_DT air_NN ._SENT The_DT FA_NP cup_NN final_JJ live_VVP in_IN my_PP$ 
+own_JJ living_NN room_NN ._SENT I_PP charged_VVD the_DT lads_NNS a_DT shilling_NN each_DT to_TO come_VV and_CC watch_VV ._SENT 
+JACK_NN :_: Ever_RB the_DT business_NN man_NN ,_, eh_NP ,_, John_NP ?_SENT 
+JOHN_NN :_: That_WDT 's_VBZ an_DT American_JJ accent_NN ,_, is_VBZ n't_RB it_PP ?_SENT 
+JACK_NN :_: That_WDT 's_VBZ right_JJ ._SENT 
+JOHN_NN :_: So_RB how_WRB did_VVD you_PP end_VV up_RP here_RB ,_, doing_VVG whatever_WDT it_PP is_VBZ that_IN/that you_PP do_VVP ?_SENT 
+JACK_NN :_: It_PP 's_VBZ a_DT long_JJ story_NN ._SENT 
+JOHN_NN :_: I_PP 'm_VBP a_DT slow_JJ drinker_NN ._SENT You_PP know_VVP everything_NN about_IN me_PP ._SENT What_WP 's_VBZ the_DT 
+problem_NN ?_SENT 
+JACK_NN :_: It_PP gets_VVZ kinda_RB complicated_JJ ._SENT 
+JOHN_NN :_: What_WP ,_, did_VVD you_PP fall_VVP through_IN time_NN too_RB ?_SENT 
+JACK_NN :_: Yeah_UH ,_, you_PP could_MD say_VV that_DT ._SENT 
+BARMAN_NN :_: Sorry_RB ,_, mate_NN ,_, you_PP ca_MD n't_RB smoke_VV in_IN here_RB ._SENT 
+
+[_SYM Hostel_NP lounge_NN ]_SYM 
+
+(_( Putting_VVG up_RP paper_NN chains_NNS ._SENT )_) 
+EMMA_NN :_: What_WP are_VBP you_PP doing_VVG Christmas_NP Eve_NP ?_SENT We_PP could_MD go_VV carol_NN singing_NN ._SENT 
+(_( Aletha_NP and_CC Jade_NP find_VVP that_IN/that hilarious_JJ ._SENT )_) 
+JADE_NN :_: Sorry_RB ,_, love_VVP ,_, I_PP 'll_MD be_VB getting_VVG hammered_VVN ._SENT 
+EMMA_NN :_: Where_WRB are_VBP your_PP$ families_NNS ?_SENT 
+JADE_NN :_: No_DT idea_NN ._SENT 
+ALESHA_NN :_: We_PP grew_VVD up_RP in_IN care_NN ._SENT 
+EMMA_NN :_: Like_IN a_DT children_NNS 's_POS home_NN ?_SENT I_PP have_VHP n't_RB got_VVN anyone_NN else_RB either_RB ._SENT 
+JADE_NN :_: What_WP happened_VVD to_TO you_PP ?_SENT 
+EMMA_NN :_: My_PP$ parents_NNS are_VBP dead_JJ ,_, so_RB I_PP came_VVD down_RB here_RB to_TO start_VV afresh_RB ._SENT 
+ALESHA_NN :_: So_RB they_PP did_VVD n't_RB leave_VV you_PP a_DT house_NN or_CC anything_NN ?_SENT 
+EMMA_NN :_: No._NN I_PP 've_VHP got_VVN nothing_NN ._SENT 
+ALESHA_NP :_: Were_VBD you_PP close_JJ to_TO them_PP ?_SENT 
+EMMA_NN :_: Yes_UH ._SENT I_PP loved_VVD them_PP very_RB much_RB ._SENT 
+(_( Jade_NP gives_VVZ Emma_NP a_DT can_NN of_IN drink_NN ._SENT )_) 
+[_SYM Pub_NP ]_SYM 
+
+(_( Putting_VVG their_PP$ coats_NNS on_RP ._SENT )_) 
+JOHN_NN :_: Must_MD have_VH been_VBN an_DT awful_JJ Christmas_NP for_IN them_PP ,_, thinking_VVG I_PP 'd_VHD drowned_VVN ._SENT 
+I_PP just_RB want_VVP to_TO know_VV what_WP kind_NN of_IN life_NN he_PP had_VHD ,_, my_PP$ son_NN ._SENT He_PP might_MD have_VH 
+kids_NNS ._SENT I_PP could_MD be_VB passing_VVG my_PP$ own_JJ flesh_NN and_CC blood_NN in_IN the_DT street_NN ._SENT Find_VV 
+him_PP ,_, Jack_NP ._SENT He_PP 's_VBZ all_DT I_PP 've_VHP got_VVN left_RB ._SENT 
+
+[_SYM Restaurant_NP ]_SYM 
+
+(_( The_DT waitress_NN shows_VVZ Owen_NP and_CC Diane_NP to_TO their_PP$ seats_NNS 
+then_RB leaves_VVZ ._SENT )_) 
+OWEN_NN :_: Cheers_NNS ._SENT 
+(_( Owen_NP sits_VVZ down_RB ,_, Diane_NP remains_VVZ standing_NN ._SENT )_) 
+OWEN_NP :_: What_WP ?_SENT 
+DIANE_NN :_: I_PP 'm_VBP waiting_VVG for_IN you_PP to_TO pull_VV out_RP my_PP$ chair_NN ._SENT 
+OWEN_NN :_: Let_VV me_PP get_VV this_DT straight_JJ ._SENT You_PP expect_VVP equality_NN and_CC chivalry_NN ?_SENT 
+DIANE_NN :_: I_PP do_VVP n't_RB see_VV why_WRB they_PP should_MD be_VB mutually_RB exclusive_JJ ._SENT 
+OWEN_NN :_: Well_RB ,_, if_IN it_PP makes_VVZ you_PP happy_JJ ._SENT Your_PP$ chair_NN ,_, ma'am_NN ._SENT 
+(_( Owen_NP does_VVZ the_DT honours_NNS ._SENT )_) 
+DIANE_NN :_: Thank_VV you_PP ._SENT 
+(_( He_PP also_RB lights_VVZ her_PP$ cigarette_NN ._SENT )_) 
+DIANE_NN :_: So_RB what_WP other_JJ strides_NNS have_VHP women_NNS made_VVN ?_SENT 
+OWEN_NN :_: Well_RB ,_, on_IN the_DT strange_JJ but_CC true_JJ ,_, how_WRB about_RB this_DT ._SENT You_PP do_VVP n't_RB have_VH to_TO 
+have_VHP sex_NN to_TO have_VH kids_NNS any_RB more_RBR ._SENT 
+DIANE_NP :_: What_WP ?_SENT How_WRB come_VVN ?_SENT 
+OWEN_NN :_: Get_VV yourself_PP inseminated_VVN with_IN a_DT sort_NN of_IN syringe_NN ._SENT Cheery_JJ little_JJ 
+process_NN ._SENT Seriously_RB ,_, men_NNS donate_VVP sperm_NN anonymously_RB ._SENT A_DT little_JJ shuffle_NN into_IN 
+a_DT pot_NN at_IN a_DT sperm_NN bank_NN ._SENT And_CC they_PP say_VVP romance_NN is_VBZ dead_JJ ._SENT 
+DIANE_NP :_: Oh_UH ,_, come_VV on_RP ,_, I_PP was_VBD n't_RB born_VVN yesterday_NN ._SENT 
+OWEN_NP :_: No_UH ,_, but_CC for_IN a_DT bird_NN who_WP 's_VBZ going_VVG on_IN ninety_CD ,_, you_PP look_VVP pretty_RB hot_JJ ._SENT 
+
+[_SYM Hostel_NP lounge_NN ]_SYM 
+
+EMMA_NN :_: What_WP was_VBD your_PP$ favourite_JJ song_NN ?_SENT 
+JADE_NN :_: Well_RB ,_, it_PP 's_VBZ hard_JJ to_TO say_VV ._SENT 
+EMMA_NN :_: I_PP know_VVP what_WP mine_PP was_VBD ._SENT (_( sings_NNS )_) I_PP just_RB blew_VVD in_IN from_IN the_DT windy_JJ city_NN ._SENT 
+The_DT windy_JJ city_NN is_VBZ mighty_RB pretty_RB ,_, but_CC they_PP ai_VVP n't_RB got_VV what_WP we_PP got_VVD ,_, I_PP 'm_VBP 
+tellin_NP '_POS ya_NN ,_, boys_NNS !_SENT 
+(_( John_NP walks_VVZ in_IN ._SENT )_) 
+JOHN_NN :_: What_WP do_VVP you_PP think_VVP you_PP 're_VBP playing_VVG at_IN ?_SENT I_PP thought_VVD I_PP could_MD trust_VV you_PP 
+to_TO behave_VV ._SENT 
+
+[_SYM Restaurant_NP ]_SYM 
+
+(_( After_IN the_DT meal_NN ._SENT )_) 
+OWEN_NP :_: Where_WRB do_VVP you_PP want_VVP to_TO go_VV now_RB ?_SENT 
+DIANE_NP :_: Well_UH ,_, I_PP 'm_VBP in_IN your_PP$ hands_NNS ._SENT 
+OWEN_NP :_: Well_UH ,_, we_PP could_MD go_VV back_RB to_TO mine_NN ._SENT You_PP could_MD read_VV up_RP about_IN yourself_PP 
+on_IN the_DT net_NN ._SENT That_DT sounds_NNS like_IN a_DT line_NN ._SENT It_PP 's_VBZ not_RB a_DT line_NN ,_, I_PP 'm_VBP not_RB chatting_VVG 
+you_PP up_RB ._SENT Not_RB because_IN I_PP do_VVP n't_RB think_VV you_PP 're_VBP attractive_JJ ,_, because_IN you_PP are_VBP ,_, 
+but_CC because_IN I_PP would_MD n't_RB want_VV you_PP to_TO 
+think_VV that_IN/that I_PP was_VBD taking_VVG advantage_NN of_IN you_PP ._SENT 
+DIANE_NP :_: Got_VVD any_DT Scotch_NN ?_SENT 
+
+[_SYM Hostel_NP dining_NN room_NN ]_SYM 
+
+(_( John_NP has_VHZ laid_VVN out_RP a_DT table_NN for_IN two_CD ._SENT )_) 
+JOHN_NN :_: I_PP do_VVP n't_RB see_VV why_WRB she_PP got_VVD you_PP involved_VVD ._SENT 
+GWEN_NN :_: She_PP was_VBD upset_VVN ._SENT 
+JOHN_NN :_: She_PP was_VBD drinking_VVG ._SENT 
+EMMA_NN :_: I_PP only_RB had_VHD half_PDT a_DT glass_NN ._SENT 
+JOHN_NN :_: Enough_RB to_TO make_VV a_DT show_NN of_IN yourself_PP ._SENT We_PP 're_VBP not_RB meant_VVN to_TO draw_VV 
+attention_NN to_TO ourselves_PP ._SENT We_PP 're_VBP not_RB the_DT same_JJ as_IN them_PP ._SENT We_PP ca_MD n't_RB trust_VV 
+anyone_NN ._SENT 
+GWEN_NP :_: Will_MD you_PP be_VB okay_JJ now_RB ,_, Emma_NP ?_SENT 
+JOHN_NN :_: Do_VVP n't_RB worry_VV ,_, I_PP wo_MD n't_RB let_VV her_PP out_RP of_IN my_PP$ sight_NN again_RB ._SENT 
+(_( John_NP puts_VVZ the_DT plates_NNS of_IN food_NN on_IN the_DT table_NN ._SENT )_) 
+EMMA_NN :_: I_PP do_VVP n't_RB like_VV liver_NN ._SENT 
+JOHN_NN :_: Sit_VV down_RB ,_, young_JJ lady_NN ,_, and_CC be_VB grateful_JJ for_IN what_WP you_PP 're_VBP given_VVN ._SENT 
+EMMA_NN :_: And_CC why_WRB should_MD I_PP listen_VV to_TO you_PP ?_SENT 
+GWEN_NP :_: Emma_NP ._SENT 
+EMMA_NN :_: Only_RB my_PP$ dad_NN gets_VVZ to_TO talk_VV to_TO me_PP like_IN that_DT ,_, and_CC I_PP 'm_VBP never_RB going_VVG to_TO 
+see_VV him_PP again_RB ,_, am_VBP I_PP ?_SENT 
+Or_CC my_PP$ mum_NN ,_, or_CC my_PP$ best_JJS friend_NN ,_, or_CC my_PP$ dog_NN ._SENT And_CC I_PP miss_VVP them_PP ._SENT And_CC I_PP hate_VVP 
+this_DT filthy_JJ ,_, stinking_JJ place_NN !_SENT 
+(_( Emma_NP leaves_VVZ ._SENT )_) 
+JOHN_NN :_: I_PP never_RB had_VHD this_DT sort_NN of_IN trouble_NN with_IN my_PP$ son_NN ._SENT 
+
+[_SYM Owen_NP 's_POS apartment_NN ]_SYM 
+
+(_( Trying_VVG to_TO push_VV magazines_NNS under_IN the_DT sofa_NN ._SENT )_) 
+OWEN_NN :_: Woman_NN have_VHP been_VBN to_TO space_NN too_RB ,_, you_PP know_VVP ._SENT You_PP 've_VHP got_VVN a_DT lot_NN of_IN 
+catching_VVG up_RP to_TO do_VV ._SENT 
+DIANE_NP :_: Do_VVP you_PP have_VHP a_DT girlfriend_NN ?_SENT 
+OWEN_NN :_: No._NN 
+DIANE_NN :_: So_RB who_WP do_VVP all_PDT those_DT beauty_NN products_NNS belong_VVP to_TO ?_SENT 
+OWEN_NN :_: Me_PP ,_, actually_RB ._SENT 
+DIANE_NP :_: No._NN 
+OWEN_NP :_: Oi_NP ,_, real_JJ men_NNS can_MD moisturise_VV too_RB ,_, you_PP know_VVP ._SENT 
+DIANE_NN :_: It_PP 's_VBZ not_RB very_RB homely_JJ here_RB ._SENT 
+OWEN_NP :_: No_UH ,_, I_PP 'm_VBP not_RB here_RB that_IN/that much_RB ._SENT It_PP does_VVZ n't_RB seem_VV worth_JJ the_DT effort_NN ._SENT You_PP 
+smoke_VV too_RB much_RB ._SENT 
+(_( Owen_NP 's_POS choice_NN of_IN mood_NN music_NN is_VBZ Saved_JJ By_IN A_DT Woman_NP by_IN Ray_NP LaMontagne_NP ._SENT )_) 
+DIANE_NN :_: So_RB I_PP gather_VVP ._SENT Amelia_NP Earhart_NP ._SENT She_PP disappeared_VVD in_IN 1932._CD Do_VVP you_PP 
+think_VV she_PP 's_VBZ still_RB out_RB there_RB somewhere_RB ?_SENT 
+OWEN_NP :_: No_UH ,_, I_PP doubt_VVP it_PP ._SENT One_CD in_IN a_DT zillion_NN chance_NN ,_, you_PP ending_VVG up_RP here_RB ._SENT 
+DIANE_NP :_: A_DT whole_JJ new_JJ world_NN ._SENT 
+OWEN_NP :_: Oh_UH ,_, it_PP 's_VBZ not_RB so_RB bad_JJ ,_, once_RB you_PP get_VVP used_VVN to_TO it_PP ._SENT I_PP reckon_VVP you_PP 'll_MD fit_VV 
+in_IN just_RB fine_JJ ._SENT 
+DIANE_NN :_: I_PP 'm_VBP glad_JJ you_PP have_VHP n't_RB got_VVN a_DT girlfriend_NN ._SENT 
+OWEN_NN :_: Me_PP too_RB ._SENT 
+(_( Meanwhile_RB ,_, Emma_NP is_VBZ now_RB sleeping_VVG on_IN Gwen_NP 's_POS sofa_NN ._SENT 
+Owen_NP rolls_NNS off_IN Diane_NP after_IN finishing_VVG the_DT deed_NN ._SENT )_) 
+OWEN_NN :_: I_PP take_VVP it_PP that_DT was_VBD n't_RB your_PP$ first_JJ time_NN ._SENT 
+DIANE_NN :_: I_PP had_VHD a_DT lover_NN ._SENT He_PP was_VBD married_VVN ._SENT 
+OWEN_NN :_: And_CC you_PP did_VVD n't_RB care_VV ?_SENT 
+DIANE_NP :_: Well_UH ,_, I_PP was_VBD free_JJ to_TO do_VV what_WP I_PP liked_VVD and_CC I_PP did_VVD n't_RB have_VH to_TO cook_VV 
+and_CC clean_VV for_IN him_PP ._SENT It_PP suited_VVD me_PP ._SENT I_PP 'm_VBP not_RB exactly_RB marriage_NN material_NN ._SENT 
+OWEN_NP :_: Yeah_UH ._SENT I_PP always_RB thought_VVD the_DT fifties_NNS were_VBD uptight_JJ ,_, sexually_RB 
+repressed_JJ ,_, you_PP know_VVP ._SENT 
+DIANE_NN :_: You_PP did_VVD n't_RB invent_VV it_PP ,_, you_PP know_VVP ._SENT 
+OWEN_NP :_: Oh_UH ?_SENT Can_MD we_PP do_VV it_PP again_RB ?_SENT 
+DIANE_NP :_: Do_VVP n't_RB see_VV why_WRB not_RB ._SENT 
+OWEN_NN :_: We_PP could_MD have_VH an_DT affair_NN ._SENT We_PP could_MD be_VB fuck_NN buddies_NNS ._SENT 
+DIANE_NP :_: What_WP 's_VBZ a_DT fuck_NN buddy_NN ?_SENT 
+OWEN_NN :_: It_PP 's_VBZ ,_, er_NNS ,_, it_PP 's_VBZ a_DT friend_NN that_IN/that you_PP have_VHP casual_JJ sex_NN with_IN ._SENT 
+DIANE_NP :_: There_EX 's_VBZ nothing_NN casual_JJ about_IN what_WP we_PP just_RB did_VVD ._SENT 
+OWEN_NP :_: Oh_UH ,_, no_UH ,_, no_UH ,_, I_PP did_VVD n't_RB mean_VV that_DT ._SENT 
+DIANE_NP :_: Sex_NN should_MD n't_RB be_VB devalued_VVN ._SENT Both_DT parties_NNS should_MD give_VV it_PP one_CD 
+hundred_CD percent_NN concentration_NN ._SENT Because_IN when_WRB you_PP take_VVP off_RB together_RB it_PP 's_VBZ 
+the_DT next_JJ best_JJS thing_NN to_TO flying_VVG ._SENT 
+
+[_SYM Gwen_NP 's_POS home_NN ]_SYM 
+
+(_( Emma_NP wakes_VVZ to_TO the_DT sight_NN of_IN Rhys_NP '_POS naked_JJ behind_NN ._SENT She_PP 
+screams_NNS ._SENT A_DT little_RB later_RBR ,_, with_IN him_PP in_IN a_DT dressing_NN 
+gown_NN ,_, Gwen_NP has_VHZ joined_VVN them_PP ._SENT )_) 
+GWEN_NP :_: Emma_NP is_VBZ my_PP$ auntie_NN 's_POS step-daughter_NN ._SENT She_PP was_VBD meant_VVN to_TO spend_VV 
+Christmas_NP in_IN Cardiff_NP with_IN a_DT friend_NN but_CC they_PP had_VHD this_DT awful_JJ argument_NN 
+last_JJ night_NN ,_, and_CC er_NNS ,_, she_PP rang_VVD me_PP ._SENT Got_VVD my_PP$ number_NN from_IN Mum_NP ._SENT The_DT thing_NN is_VBZ ,_, 
+she_PP does_VVZ n't_RB really_RB want_VVP to_TO go_VV back_RB home_RB so_IN I_PP thought_VVD ,_, I_PP thought_VVD maybe_RB 
+she_PP could_MD stay_VV with_IN us_PP ._SENT We_PP 've_VHP got_VVN a_DT lot_NN to_TO catch_VV up_RP on_IN ._SENT 
+RHYS_NNS :_: For_IN Christmas_NP ?_SENT 
+GWEN_NN :_: (_( silent_JJ )_) What_WP was_VBD I_PP supposed_VVN to_TO say_VV ?_SENT Come_VVN on_IN ._SENT 
+RHYS_NNS :_: I_PP 'd_MD better_RBR get_VV a_DT bigger_JJR turkey_NN ._SENT 
+EMMA_NN :_: Thanks_NNS ._SENT 
+GWEN_NP :_: This_DT is_VBZ Rhys_NP ,_, my_PP$ long-suffering_JJ boyfriend_NN ._SENT He_PP lives_VVZ here_RB ._SENT 
+EMMA_NN :_: Do_VV n't_RB your_PP$ parents_NNS mind_NN ?_SENT 
+GWEN_NP :_: Emma_NP 's_POS parents_NNS are_VBP a_DT bit_NN religious_NN ._SENT 
+RHYS_NP :_: Oh_UH ,_, er_JJ ,_, better_RBR not_RB tell_VV them_PP you_PP saw_VVD my_PP$ morning_NN glory_NN then_RB ,_, eh_NP ?_SENT 
+(_( Rhys_NP leaves_VVZ ._SENT )_) 
+GWEN_NP :_: The_DT thing_NN is_VBZ I_PP could_MD n't_RB tell_VV him_PP your_PP$ parents_NNS were_VBD dead_JJ ._SENT He_PP 'd_MD ask_VV 
+too_RB many_JJ questions_NNS ._SENT The_DT thing_NN is_VBZ ,_, he_PP does_VVZ n't_RB know_VV exactly_RB what_WP I_PP do_VVP ._SENT 
+
+[_SYM Hub_NP ]_SYM 
+
+GWEN_NN :_: We_PP ca_MD n't_RB expect_VV John_NP and_CC Diane_NP to_TO look_VV after_IN 
+her_PP ._SENT I_PP mean_VVP ,_, they_PP 're_VBP complete_JJ strangers_NNS ._SENT I_PP had_VHD to_TO take_VV her_PP in_RP ._SENT 
+Diane_NP did_VVD n't_RB even_RB come_VV home_NN last_JJ night_NN ._SENT 
+OWEN_NP :_: Er_UH ,_, I_PP think_VVP she_PP was_VBD in_IN a_DT B_NP &_CC B_NP ._SENT I_PP 'm_VBP going_VVG to_TO take_VV her_PP 
+job-hunting_JJ later_JJR ,_, if_IN that_WDT 's_VBZ all_DT right_NN ._SENT 
+TOSH_NN :_: Jack_NP ._SENT John_NP 's_POS son_NN ._SENT I_PP think_VVP I_PP 've_VHP found_VVN him_PP ._SENT 
+
+[_SYM Nursing_NP home_NN ]_SYM 
+
+NURSE_NN :_: Come_VV and_CC meet_VV Alan_NP ,_, though_IN I_PP 'm_VBP not_RB sure_JJ how_WRB 
+much_RB help_VV he_PP 'll_MD be_VB to_TO you_PP ._SENT 
+(_( Alan_NP is_VBZ an_DT old_JJ man_NN sitting_VVG in_IN a_DT chair_NN ,_, staring_VVG at_IN nothing_NN ._SENT )_) 
+NURSE_NN :_: Alan_NP ,_, there_EX 's_VBZ someone_NN here_RB to_TO see_VV you_PP ._SENT He_PP 's_VBZ a_DT nephew_NN on_IN your_PP$ 
+father_NN 's_POS side_NN ._SENT He_PP 's_VHZ been_VBN tracking_VVG down_RP the_DT family_NN history_NN ._SENT 
+ALAN_NN :_: Is_VBZ Sally_NP coming_VVG ?_SENT 
+NURSE_NN :_: Sally_NP 's_VBZ his_PP$ wife_NN ._SENT She_PP passed_VVD away_RP a_DT while_NN back_RB ._SENT Sorry_RB ,_, this_RB 
+is_VBZ n't_RB one_CD of_IN his_PP$ better_JJR days._NN 
+JOHN_NN :_: What_WP 's_VBZ wrong_JJ with_IN him_PP ?_SENT 
+NURSE_NN :_: Alzheimer_NP 's_POS ._SENT 
+JOHN_NN :_: What_WP 's_VBZ that_RB ?_SENT 
+NURSE_NN :_: He_PP 's_VBZ senile_JJ ._SENT He_PP does_VVZ n't_RB remember_VV who_WP he_PP is_VBZ most_JJS of_IN the_DT time_NN ._SENT 
+Could_MD n't_RB live_VV at_IN home_NN any_DT more_RBR ._SENT He_PP 'd_MD leave_VV hobs_NNS on_IN ,_, forget_VV to_TO dress_VV ,_, 
+you_PP know_VVP ._SENT 
+He_PP never_RB had_VHD any_DT children_NNS so_RB there_EX was_VBD no_DT one_CD there_RB to_TO look_VV after_IN him_PP ._SENT 
+(_( The_DT photographs_NNS have_VHP been_VBN developed_VVN and_CC printed_VVN ._SENT )_) 
+JOHN_NN :_: That_WDT 's_VBZ you_PP and_CC your_PP$ dad_NN playing_VVG footie_NN out_IN the_DT back_NN ._SENT That_DT 's_VBZ your_PP$ 
+dad_NN and_CC your_PP$ mum_NN and_CC your_PP$ new_JJ television_NN set_NN ._SENT 
+ALAN_NP :_: When_WRB can_MD I_PP go_VV home_NN ?_SENT 
+NURSE_NN :_: You_PP 're_VBP not_RB well_RB enough_RB ,_, love_VVP ._SENT 
+ALAN_NN :_: I_PP do_VVP n't_RB like_VV it_PP here_RB ._SENT They_PP took_VVD my_PP$ clothes_NNS ._SENT 
+NURSE_NN :_: I_PP 'll_MD have_VH a_DT word_NN ._SENT They_PP 're_VBP probably_RB in_IN the_DT wash._NP Keeps_NP me_PP going_VVG ,_, 
+this_DT one_CD ._SENT 
+ALAN_NP :_: What_WP did_VVD he_PP do_VVP for_IN a_DT living_NN ?_SENT Was_VBD he_PP in_IN retail_NN ?_SENT 
+NURSE_NN :_: I_PP think_VVP he_PP was_VBD a_DT fireman_NN ._SENT 
+ALAN_NN :_: That_WDT 's_VBZ what_WP I_PP did_VVD ._SENT In_IN the_DT war_NN ._SENT 
+
+[_SYM Airfield_NP ]_SYM 
+
+DIANE_NP :_: Sixty_CD pounds_NNS for_IN half_PDT an_DT hour_NN !_SENT 
+OWEN_NN :_: No_DT worries_NNS ._SENT I_PP 'll_MD pay_VV ._SENT 
+DIANE_NP :_: A_DT Cessna_NP !_SENT Oh_UH ,_, it_PP 's_VBZ my_PP$ first_JJ plane_NN ._SENT I_PP bought_VVD one_CD after_IN the_DT war_NN ._SENT 
+They_PP 've_VHP hardly_RB changed_VVN ._SENT Dream_NN to_TO fly_VV ._SENT 
+OWEN_NN :_: We_PP 'll_MD soon_RB get_VV you_PP back_RB behind_IN the_DT throttle_NN ._SENT 
+DIANE_NN :_: Thanks_NNS ,_, Owen_NP ._SENT 
+
+[_SYM Nursing_NP home_NN ]_SYM 
+
+JOHN_NN :_: Matthews_NP did_VVD three_CD set-ups_NNS in_IN twenty_CD minutes_NNS ,_, 
+then_RB Bill_NP Perry_NP cracked_VVD home_NN the_DT winner_NN ._SENT You_PP said_VVD he_PP had_VHD wings_NNS on_IN his_PP$ 
+feet_NNS and_CC that_DT 's_VBZ why_WRB he_PP was_VBD called_VVN a_DT winger_NN ._SENT You_PP used_VVD to_TO say_VV clever_JJ 
+things_NNS like_IN that_DT ._SENT 
+ALAN_NP :_: Blackpool_NP won_VVD ._SENT 
+JOHN_NN :_: Yes_UH !_SENT Alan_NP ,_, it_PP 's_VBZ me_PP ,_, your_PP$ dad_NN ._SENT I_PP bought_VVD you_PP that_IN/that football_NN annual_JJ 
+you_PP wanted_VVD for_IN Christmas_NP ,_, Alan_NP ._SENT It_PP was_VBD in_IN my_PP$ desk_NN drawer_NN ._SENT 
+Alan_NP ,_, please_UH ._SENT 
+(_( But_CC Alan_NP has_VHZ drifted_VVN off_RP again_RB ._SENT )_) 
+NURSE_NN :_: Everything_NN all_DT right_NN ?_SENT 
+JOHN_NN :_: He_PP remembered_VVD who_WP won_VVD the_DT FA_NP Cup_NP final_JJ when_WRB he_PP was_VBD a_DT boy_NN ._SENT 
+NURSE_NN :_: He_PP sometimes_RB remembers_VVZ snippets_NNS from_IN his_PP$ childhood_NN ._SENT It_PP 's_VBZ quite_RB 
+common_JJ with_IN dementia_NN ._SENT 
+ALAN_NP :_: When_WRB 's_VBZ Dad_NP coming_VVG ,_, Mum_NP ?_SENT 
+NURSE_NN :_: I_PP 'm_VBP not_RB your_PP$ mum_NN ,_, love_NN ._SENT 
+JOHN_NN :_: Alan_NP ._SENT 
+ALAN_NP :_: Who_WP are_VBP you_PP ?_SENT 
+
+[_SYM Hub_NP ]_SYM 
+
+JACK_NN :_: John_NP 's_VBZ witnessing_VVG the_DT end_NN of_IN his_PP$ world_NN ,_, the_DT 
+end_NN of_IN his_PP$ line_NN ._SENT And_CC we_PP ca_MD n't_RB help_VV ._SENT 
+There_EX 's_VBZ no_DT puzzle_NN to_TO solve_VV ,_, no_DT enemy_NN to_TO fight_VV ._SENT Just_RB three_CD lost_JJ people_NNS 
+who_WP have_VHP somehow_RB become_VVN our_PP$ responsibility_NN ._SENT 
+
+[_SYM Airfield_NP ]_SYM 
+
+INSTRUCTOR_NN :_: Best_RBS I_PP can_MD do_VV is_VBZ Friday_NP the_DT twenty_CD 
+ninth_JJ ,_, three_CD o'clock_RB ._SENT 
+OWEN_NN :_: Ca_MD n't_RB you_PP take_VVP her_PP up_IN today_NN ?_SENT 
+INSTRUCTOR_NN :_: Fully_RB booked_VVN ._SENT 
+DIANE_NN :_: It_PP 's_VBZ all_DT right_NN ,_, I_PP 've_VHP flown_VVN for_IN years_NNS ._SENT I_PP can_MD go_VV up_RP on_IN my_PP$ own_JJ ._SENT 
+INSTRUCTOR_NN :_: Not_RB without_IN a_DT licence_NN ,_, sorry_RB ._SENT 
+OWEN_NN :_: Maybe_RB you_PP could_MD cancel_VV someone_NN ?_SENT We_PP 'll_MD pay_VV extra_JJ ._SENT 
+INSTRUCTOR_NN :_: I_PP could_MD n't_RB do_VV that_WDT do_VVP my_PP$ regulars_NNS ,_, now_RB could_MD I_PP ?_SENT 
+DIANE_NP :_: Look_VVP ,_, it_PP 's_VBZ fine_JJ ._SENT Book_VV me_PP in_IN for_IN the_DT twenty_CD ninth_JJ ._SENT It_PP 's_VBZ Diane_NP 
+Holmes_NP ._SENT 
+OWEN_NP :_: Diane_NP ,_, I_PP 'm_VBP really_RB sorry_JJ ._SENT I_PP should_MD have_VH called_VVN ahead_RB ._SENT 
+DIANE_NP :_: Oh_UH ,_, for_IN goodness_NN sake_NN ,_, this_DT is_VBZ so_RB silly_JJ ._SENT It_PP 's_VBZ just_RB I_PP was_VBD really_RB 
+looking_VVG forward_RB ._SENT Ignore_VV me_PP ._SENT Let_VV 's_VBZ get_VV out_RP of_IN here_RB ._SENT 
+
+[_SYM Party_NP ]_SYM 
+
+(_( The_DT music_NN is_VBZ I_PP See_VV You_PP Baby_NP by_IN Groove_NP Armada_NP ._SENT A_DT 
+man_NN approaches_NNS Emma_NP ._SENT )_) 
+GWEN_NP :_: Do_VVP you_PP think_VVP she_PP 'll_MD be_VB all_DT right_NN though_RB ?_SENT I_PP do_VVP n't_RB think_VV she_PP 's_VBZ even_RB 
+had_VHD a_DT proper_JJ boyfriend_NN ._SENT 
+RHYS_NP :_: Oh_UH Gwen_NP ,_, stop_VV fussing_VVG ._SENT She_PP 'll_MD be_VB fine_JJ ,_, man_NN ._SENT 
+(_( Gwen_NP kisses_VVZ Rhys_NP ._SENT )_) 
+RHYS_NNS :_: What_WP was_VBD that_IN/that for_IN ?_SENT 
+GWEN_NP :_: For_IN putting_VVG up_RP with_IN me_PP ._SENT 
+RHYS_NNS :_: I_PP deserve_VVP a_DT lot_NN more_RBR for_IN doing_VVG that_DT ._SENT 
+(_( The_DT man_NN leads_VVZ Emma_NP away_RB ._SENT Gwen_NP and_CC Rhys_NP find_VVP them_PP later_RBR in_IN a_DT quiet_NN 
+corner_NN ._SENT Gwen_NP pulls_VVZ the_DT man_NN off_RB ._SENT )_) 
+GWEN_NP :_: Oi_NP !_SENT Hands_NNS off_RB ._SENT 
+RHYS_NNS :_: Go_VV back_RB to_TO your_PP$ friends_NNS ,_, there_EX 's_VBZ a_DT good_JJ boy_NN ._SENT 
+GWEN_NP :_: What_WP are_VBP you_PP playing_VVG at_IN ?_SENT 
+EMMA_NN :_: I_PP was_VBD n't_RB going_VVG to_TO let_VV him_PP do_VV anything_NN ._SENT 
+GWEN_NN :_: You_PP might_MD not_RB have_VH had_VHN much_JJ choice_NN ._SENT 
+RHYS_NNS :_: Come_VV on_IN ,_, Gwen_NP ,_, do_VVP n't_RB you_PP think_VVP you_PP 're_VBP over-reacting_VVG ._SENT 
+EMMA_NN :_: I_PP was_VBD just_RB having_VHG a_DT kiss_NN and_CC a_DT cuddle_NN ._SENT 
+GWEN_NN :_: He_PP was_VBD after_IN a_DT lot_NN more_RBR than_IN that_DT ._SENT 
+
+[_SYM Gwen_NP 's_POS home_NN ]_SYM 
+
+(_( Looking_VVG at_IN a_DT Miss_NP B_NP magazine_NN ._SENT )_) 
+EMMA_NN :_: This_DT is_VBZ disgusting_JJ ._SENT 
+GWEN_NN :_: I_PP just_RB want_VVP you_PP to_TO know_VV that_IN/that people_NNS are_VBP more_RBR sexually_RB aware_JJ these_DT 
+days._NP Then_RB maybe_RB you_PP 'll_MD be_VB more_RBR careful_JJ ._SENT 
+EMMA_NN :_: Mum_NP said_VVD that_IN/that no_DT man_NN wants_VVZ to_TO marry_VV soiled_VVN goods_NNS ._SENT 
+GWEN_NP :_: Attitudes_NNS have_VHP changed_VVN ._SENT As_RB long_RB as_IN it_PP 's_VBZ safe_JJ and_CC between_IN two_CD 
+consenting_VVG adults_NNS ,_, no_DT one_CD cares_VVZ ._SENT 
+EMMA_NN :_: So_RB ,_, how_WRB many_JJ men_NNS have_VHP you_PP done_VVN it_PP with_IN ?_SENT 
+GWEN_NP :_: A_DT few_JJ ._SENT 
+EMMA_NN :_: Were_VBD you_PP in_IN love_NN with_IN all_DT of_IN them_PP ?_SENT 
+GWEN_NP :_: No._NN Sex_NN can_MD just_RB be_VB about_IN having_VHG a_DT good_JJ time_NN together_RB ._SENT If_IN you_PP 're_VBP 
+in_IN the_DT right_JJ mood_NN ,_, with_IN the_DT right_JJ guy_NN ,_, it_PP 's_VBZ the_DT best_JJS ._SENT No_DT big_JJ deal_NN ._SENT 
+EMMA_NN :_: So_RB if_IN I_PP meet_VVP a_DT boy_NN and_CC we_PP get_VVP on_RP ,_, and_CC he_PP wants_VVZ sex_NN ,_, then_RB you_PP 
+think_VV I_PP should_MD let_VV him_PP ._SENT 
+GWEN_NP :_: No._NN No_NP ,_, that_WDT 's_VBZ not_RB what_WP I_PP said_VVD ._SENT 
+EMMA_NN :_: What_WP are_VBP you_PP saying_VVG ?_SENT 
+GWEN_NP :_: Sex_NN is_VBZ nothing_NN to_TO be_VB ashamed_JJ of_IN ._SENT And_CC as_RB for_IN you_PP ,_, well_UH ,_, your_PP$ first_JJ 
+time_NN should_MD be_VB with_IN someone_NN special_JJ ._SENT 
+EMMA_NN :_: Do_VVP you_PP wish_VVP you_PP 'd_VHD waited_VVN for_IN Rhys_NP ?_SENT He_PP 's_VBZ your_PP$ special_JJ someone_NN ,_, 
+is_VBZ n't_RB he_PP ?_SENT 
+GWEN_NP :_: Yes_UH ._SENT Yes_UH ,_, I_PP suppose_VVP ._SENT 
+EMMA_NN :_: And_CC I_PP bet_VVP the_DT sex_NN with_IN him_PP is_VBZ better_JJR than_IN with_IN the_DT others_NNS ._SENT 
+GWEN_NP :_: Well_UH ._SENT 
+EMMA_NN :_: I_PP will_MD wait_VV for_IN Mister_NP Right_NP ,_, I_PP think_VVP ._SENT I_PP 'm_VBP really_RB not_RB the_DT kind_NN of_IN 
+girl_NN who_WP sleeps_VVZ around_RP ._SENT I_PP 'm_VBP going_VVG to_TO brush_VV my_PP$ teeth_NNS ._SENT Thanks_NNS for_IN the_DT 
+chat_NN ._SENT 
+GWEN_NN :_: Not_RB a_DT problem_NN ._SENT 
+
+[_SYM Owen_NP 's_POS apartment_NN ]_SYM 
+
+(_( Diane_NP is_VBZ trying_VVG to_TO work_VV his_PP$ laptop_NN when_WRB Owen_NP 
+returns_NNS from_IN shopping_NN ._SENT )_) 
+OWEN_NN :_: Leave_VV it_PP ._SENT 
+DIANE_NN :_: I_PP ca_MD n't_RB if_IN I_PP want_VVP to_TO fly_VV a_DT jet_NN plane_NN ._SENT Because_IN that_DT 's_VBZ all_RB flying_VVG 
+is_VBZ now_RB ,_, sitting_VVG on_IN your_PP$ backside_NN pressing_VVG buttons_NNS ._SENT 
+You_PP used_VVD to_TO have_VH to_TO know_VV how_WRB to_TO fix_VV an_DT engine_NN ,_, how_WRB to_TO gauge_VV the_DT wind_NN 
+but_RB 
+OWEN_NN :_: Leave_VV it_PP ._SENT Open_VV this_DT ._SENT 
+DIANE_NP :_: Oh_UH !_SENT It_PP 's_VBZ beautiful_JJ ._SENT 
+(_( It_PP is_VBZ an_DT evening_NN dress_NN ._SENT )_) 
+[_SYM Gwen_NP 's_POS home_NN ]_SYM 
+
+(_( Gwen_NP is_VBZ pouring_VVG herself_PP a_DT glass_NN of_IN wine_NN when_WRB Emma_NP 
+enters_VVZ ._SENT )_) 
+GWEN_NP :_: Well_UH ,_, how_WRB did_VVD it_PP go_VVP ?_SENT 
+EMMA_NN :_: This_DT coat_NN I_PP 'm_VBP wearing_VVG is_VBZ their_PP$ latest_JJS fashion_NN ._SENT Fifties_NNS inspired_VVD ._SENT 
+They_PP offered_VVD me_PP a_DT job_NN on_IN the_DT spot_NN ._SENT 
+GWEN_NP :_: Oh_UH ,_, that_WDT 's_VBZ brilliant_JJ ._SENT Oh_UH !_SENT Now_RB we_PP need_VVP to_TO find_VV you_PP a_DT flat_JJ 
+somewhere_RB near_IN here_RB ._SENT 
+EMMA_NN :_: The_DT shop_NN 's_VBZ in_IN a_DT new_JJ branch_NN in_IN London_NP ._SENT I_PP 've_VHP always_RB dreamt_VVN about_RB 
+working_VVG in_IN a_DT London_NP fashion_NN house_NN ._SENT They_PP open_VVP the_DT day_NN after_IN Boxing_NP Day_NP ._SENT 
+I_PP 'll_MD be_VB a_DT shop_NN girl_NN and_CC a_DT trainee_NN buyer_NN ._SENT And_CC I_PP can_MD house_VV share_NN ._SENT They_PP 've_VHP 
+given_VVN me_PP contact_NN numbers_NNS ._SENT 
+GWEN_NP :_: London_NP 's_VBZ a_DT big_JJ city_NN ._SENT 
+EMMA_NN :_: That_WDT 's_VBZ what_WP my_PP$ mum_NN used_VVN to_TO say_VV ._SENT 
+GWEN_NP :_: There_EX 's_VBZ no_DT rush_NN ._SENT 
+EMMA_NN :_: There_EX 's_VBZ nothing_NN to_TO keep_VV me_PP here_RB ._SENT 
+GWEN_NN :_: I_PP 'm_VBP sure_JJ we_PP can_MD find_VV you_PP something_NN in_IN Cardiff_NP ._SENT You_PP keep_VVP looking_VVG ._SENT 
+
+[_SYM Tourist_NP Information_NP Centre_NP ]_SYM 
+
+JOHN_NN :_: Need_VVP to_TO make_VV a_DT plan_NN ,_, get_VV work_VV ,_, get_VV my_PP$ driving_NN 
+licence_NN ._SENT 
+JACK_NN :_: It_PP 'll_MD all_RB help_VV ._SENT 
+JOHN_NN :_: Thanks_NNS ,_, Jack_NP ._SENT 
+(_( Jack_NP goes_VVZ back_RB to_TO the_DT Hub_NP ._SENT John_NP takes_VVZ a_DT set_NN of_IN car_NN keys_NNS off_IN the_DT rack_NN ,_, 
+then_RB Ianto_NP enters_VVZ ._SENT )_) 
+JOHN_NN :_: I_PP was_VBD looking_VVG for_IN a_DT bus_NN timetable_NN ._SENT Want_VVP to_TO get_VV out_RP to_TO the_DT DIY_NN 
+stores_NNS ,_, see_VVP if_IN there_EX 's_VBZ any_DT work_NN going_VVG ._SENT 
+(_( Ianto_NP hands_VVZ him_PP a_DT timetable_NN ._SENT )_) 
+IANTO_NP :_: Best_JJS of_IN luck_NN ._SENT 
+JOHN_NN :_: Right_RB ._SENT Thank_VV you_PP ._SENT 
+
+[_SYM Car_NP park_NN ]_SYM 
+
+(_( Owen_NP parks_NNS up_RB across_IN four_CD bays_NNS on_IN the_DT roof_NN level_NN ._SENT 
+They_PP are_VBP in_IN evening_NN dress_NN ._SENT )_) 
+DIANE_NP :_: Where_WRB are_VBP you_PP taking_VVG me_PP ?_SENT 
+OWEN_NN :_: We_PP 're_VBP here_RB ._SENT Bear_NP with_IN me_PP ._SENT 
+
+[_SYM Gwen_NP 's_POS home_NN ]_SYM 
+
+(_( Rhys_NP is_VBZ sulking_VVG on_IN the_DT sofa_NN ._SENT )_) 
+GWEN_NN :_: We_PP have_VHP had_VHD such_PDT a_DT girly_JJ day_NN shopping_NN ._SENT What_WP 's_VBZ up_RB ?_SENT 
+RHYS_NNS :_: Your_PP$ mum_NN rang_VVD ._SENT Funny_JJ thing_NN ,_, she_PP 's_VBZ no_DT idea_NN who_WP Emma_NP is_VBZ ._SENT 
+GWEN_NP :_: No_UH ?_SENT 
+RHYS_NNS :_: And_CC I_PP 'm_VBP thinking_VVG back_RB to_TO you_PP and_CC me_PP on_IN the_DT couch_NN ._SENT Work_NN calls_NNS ,_, you_PP 
+go_VV out_RP in_IN the_DT middle_NN of_IN the_DT night_NN and_CC come_VV back_RB with_IN a_DT surprise_NN 
+relative_JJ ._SENT So_RB let_VV 's_VBZ have_VH it_PP ,_, who_WP exactly_RB is_VBZ Pollyanna_NN ?_SENT Oh_UH ,_, is_VBZ it_PP to_TO do_VV 
+with_IN work_NN ?_SENT 
+GWEN_NN :_: It_PP 's_VBZ so_RB hard_JJ to_TO explain_VV ._SENT 
+RHYS_NP :_: Do_VVP you_PP even_RB know_VVP her_PP ?_SENT 
+GWEN_NN :_: She_PP was_VBD lost_VVN ._SENT I_PP 'm_VBP sorry_JJ ._SENT 
+RHYS_NNS :_: What_WP worries_VVZ me_PP is_VBZ how_WRB easy_JJ it_PP seems_VVZ to_TO be_VB for_IN you_PP to_TO lie_VV to_TO me_PP ,_, 
+Gwen_NP ._SENT 
+EMMA_NN :_: It_PP 's_VBZ my_PP$ fault_NN ._SENT I_PP 'll_MD leave_VV by_IN tomorrow_NN ._SENT 
+GWEN_NN :_: You_PP do_VVP n't_RB have_VH to_TO go_VV ._SENT She_PP 's_VBZ eighteen_CD years_NNS old_JJ ._SENT I_PP could_MD n't_RB turn_VV 
+my_PP$ back_NN on_IN her_PP ._SENT 
+(_( Rhys_NP walks_VVZ out_RP ._SENT )_) 
+GWEN_NN :_: It_PP 's_VBZ like_IN two_CD separate_JJ worlds_NNS ._SENT There_EX 's_VBZ Torchwood_NN ,_, and_CC then_RB 
+there_EX 's_VBZ real_JJ life_NN ._SENT 
+EMMA_NN :_: That_WDT 's_VBZ why_WRB you_PP 've_VHP got_VVN to_TO let_VV me_PP go_VV ._SENT 
+
+[_SYM Car_NP park_NN ]_SYM 
+
+(_( Owen_NP pours_VVZ champagne_NN from_IN the_DT hamper_NN in_IN the_DT boot_NN ._SENT )_) 
+
+OWEN_NN :_: I_PP ,_, er_NNS ,_, could_MD n't_RB help_VV noticing_VVG you_PP standing_VVG out_RP here_RB in_IN that_DT 
+beautiful_JJ dress_NN ._SENT 
+DIANE_NP :_: This_DT beautiful_JJ dress_NN is_VBZ a_DT gift_NN from_IN my_PP$ lover_NN ._SENT 
+OWEN_NN :_: Then_RB he_PP is_VBZ a_DT fool_NN to_TO let_VV you_PP go_VV out_RP in_IN it_PP alone_RB ._SENT 
+DIANE_NP :_: What_WP shall_MD we_PP drink_VV to_TO ?_SENT 
+OWEN_NN :_: Chance_NN meetings_NNS ._SENT 
+(_( They_PP dance_VVP to_TO the_DT Tony_NP Bennett_NP classic_NN ,_, The_DT Good_NP Life_NP ,_, until_IN she_PP feels_VVZ 
+a_DT chill_NN under_IN the_DT Christmas_NP full_JJ moon_NN ._SENT )_) 
+DIANE_NN :_: Let_VV 's_VBZ go_VV home_NN ._SENT 
+
+[_SYM Jack_NP 's_POS office_NN ]_SYM 
+
+(_( Jack_NP 's_POS phone_NN rings_NNS ._SENT He_PP comes_VVZ out_RP of_IN the_DT hole_NN where_WRB 
+he_PP spends_VVZ his_PP$ nights_NNS to_TO answer_VV it_PP ._SENT )_) 
+JACK_NN :_: Hello_UH ?_SENT 
+
+[_SYM Tourist_NP Information_NP Centre_NP ]_SYM 
+
+IANTO_NN :_: My_PP$ car_NN keys_NNS are_VBP missing_VVG ._SENT John_NP was_VBD behind_IN the_DT 
+counter_VV earlier_RBR on_RB and_CC I_PP ca_MD n't_RB get_VV hold_VV of_IN him_PP ._SENT 
+
+[_SYM Jack_NP 's_POS office_NN ]_SYM 
+
+(_( Jack_NP tracks_VVZ the_DT car_NN ._SENT )_) 
+JACK_NN :_: He_PP 's_POS gone_VVN home_NN ._SENT 
+
+[_SYM Street_NP ]_SYM 
+
+(_( Outside_IN the_DT empty_JJ house_NN ._SENT )_) 
+JACK_NN :_: John_NP ?_SENT 
+
+[_SYM Garage_NP ]_SYM 
+
+(_( John_NP is_VBZ trying_VVG to_TO gas_VV himself_PP with_IN the_DT exhaust_NN 
+fumes_NNS from_IN Ianto_NP 's_POS car_NN ._SENT )_) 
+JACK_NN :_: John_NP !_SENT 
+(_( Jack_NP drags_VVZ him_PP out_RP ._SENT )_) 
+JOHN_NN :_: Let_VV me_PP go_VV ._SENT 
+JACK_NN :_: You_PP ca_MD n't_RB just_RB throw_VV it_PP away_RP ,_, not_RB without_IN trying_VVG ._SENT 
+JOHN_NN :_: I_PP 'm_VBP not_RB as_RB strong_JJ as_IN you_PP ._SENT You_PP do_VVP n't_RB understand_VV ._SENT 
+JACK_NN :_: I_PP do_VVP ._SENT I_PP was_VBD born_VVN in_IN the_DT future_NN ,_, lived_VVN in_IN your_PP$ past_NN ._SENT My_PP$ time_NN is_VBZ 
+gone_VVN too_RB ._SENT 
+JOHN_NN :_: Why_WRB are_VBP you_PP doing_VVG this_DT ?_SENT Speaking_VVG to_TO me_PP in_IN bloody_JJ riddles_NNS ,_, keeping_VVG 
+me_PP here_RB when_WRB my_PP$ wife_NN is_VBZ dead_JJ ,_, my_PP$ son_NN is_VBZ a_DT shell_NN ._SENT 
+JACK_NN :_: John_NP ,_, you_PP 're_VBP still_RB young_JJ ._SENT You_PP can_MD get_VV work_VV ,_, make_VV friends_NNS ,_, start_VVP a_DT 
+family_NN ._SENT 
+JOHN_NN :_: I_PP did_VVD all_PDT that_DT ,_, Jack_NP ._SENT Years_NNS ago_RB ._SENT When_WRB I_PP was_VBD meant_VVN to_TO ._SENT 
+(_( Meanwhile_RB ,_, Owen_NP and_CC Diane_NP are_VBP making_VVG desparate_JJ love_NN ._SENT )_) 
+JACK_NN :_: I_PP wish_VVP I_PP could_MD say_VV something_NN ._SENT 
+JOHN_NN :_: There_EX 's_VBZ nothing_NN to_TO say_VV or_CC do_VV ._SENT 
+JACK_NN :_: I_PP ca_MD n't_RB leave_VV you_PP here_RB ._SENT 
+JOHN_NN :_: Then_RB we_PP 'll_MD wait_VV ._SENT The_DT sun_NN will_MD rise_VV ,_, we_PP 'll_MD have_VH some_DT breakfast_NN ,_, 
+take_VV a_DT walk_NN ._SENT 
+JACK_NN :_: Yes_UH ._SENT A_DT new_JJ day_NN ._SENT 
+JOHN_NN :_: And_CC I_PP 'll_MD suffer_VV it_PP all_RB and_CC smile_VV and_CC wag_VV my_PP$ tail_NN ._SENT And_CC then_RB as_RB 
+soon_RB as_IN your_PP$ back_NN is_VBZ turned_VVN ,_, I_PP 'll_MD make_VV sure_JJ I_PP do_VVP it_PP properly_RB ._SENT 
+Because_IN I_PP want_VVP to_TO die_VV ._SENT 
+JACK_NN :_: You_PP do_VVP n't_RB get_VV reunited_VVN ,_, John_NP ._SENT It_PP just_RB goes_VVZ black_JJ ._SENT 
+JOHN_NN :_: How_WRB do_VVP you_PP know_VVP ?_SENT 
+JACK_NN :_: I_PP died_VVD once_RB ._SENT 
+JOHN_NN :_: Who_WP are_VBP you_PP ?_SENT 
+JACK_NN :_: A_DT man_NN ,_, like_IN you_PP ,_, out_RB of_IN his_PP$ time_NN ,_, alone_RB and_CC scared_VVN ._SENT 
+JOHN_NN :_: How_WRB do_VVP you_PP cope_VV ?_SENT 
+JACK_NN :_: It_PP 's_VBZ just_RB bearable_JJ ._SENT It_PP has_VHZ to_TO be_VB ._SENT I_PP do_VVP n't_RB have_VH a_DT choice_NN ._SENT 
+JOHN_NN :_: But_CC I_PP do_VVP ._SENT If_IN you_PP want_VVP to_TO help_VV me_PP ,_, let_VV me_PP go_VV with_IN some_DT dignity_NN ._SENT 
+Do_VVP n't_RB condemn_VV me_PP to_TO live_VV ._SENT 
+JACK_NN :_: Are_VBP you_PP scared_VVN ?_SENT 
+JOHN_NN :_: Yes_UH ._SENT 
+
+[_SYM Owen_NP 's_POS apartment_NN ]_SYM 
+
+DIANE_NN :_: You_PP 're_VBP very_RB quiet_JJ ._SENT 
+OWEN_NN :_: I_PP do_VVP n't_RB know_VV if_IN I_PP can_MD do_VV this_DT anymore_RB ._SENT This_DT is_VBZ n't_RB how_WRB it_PP works_VVZ 
+for_IN me_PP ._SENT I_PP 've_VHP slept_VVN with_IN enough_JJ women_NNS ,_, I_PP 've_VHP done_VVN the_DT fuck_NN buddies_NNS thing_NN ._SENT 
+This_DT is_VBZ not_RB it_PP ._SENT I_PP ca_MD n't_RB concentrate_VV ._SENT All_RB I_PP see_VVP is_VBZ you_PP ._SENT All_RB I_PP can_MD think_VV 
+about_RB is_VBZ what_WP you_PP 're_VBP wearing_VVG ,_, 
+what_WP you_PP 're_VBP thinking_VVG ,_, what_WP your_PP$ face_NN looks_VVZ like_IN when_WRB you_PP come_VVP ._SENT It_PP 's_VBZ 
+been_VBN ,_, what_WP ,_, a_DT week_NN ?_SENT And_CC it_PP 's_VBZ like_JJ ,_, when_WRB I_PP 'm_VBP not_RB with_IN you_PP ,_, I_PP 'm_VBP out_RP of_IN 
+focus_NN ._SENT How_WRB have_VH you_PP done_VVN this_DT to_TO me_PP ?_SENT I_PP 'm_VBP scared_VVN ._SENT I_PP 'm_VBP fucking_VVG scared_VVN ._SENT 
+DIANE_NN :_: I_PP love_VVP you_PP too_RB ._SENT 
+(_( Jack_NP sits_VVZ holding_VVG John_NP 's_POS hand_NN in_IN the_DT car_NN as_IN he_PP inhales_VVZ the_DT carbon_NN 
+monoxide_NN for_IN the_DT last_JJ time_NN ._SENT 
+Owen_NP has_VHZ fallen_VVN asleep_RB ._SENT )_) 
+DIANE_NP :_: The_DT thing_NN about_IN love_NN is_VBZ that_IN/that you_PP 're_VBP always_RB at_IN its_PP$ mercy_NN ._SENT 
+
+[_SYM Coach_NP station_NN ]_SYM 
+
+GWEN_NP :_: Emma_NP ,_, these_DT are_VBP your_PP$ tickets_NNS ,_, okay_JJ ?_SENT On_IN the_DT 
+back_RB is_VBZ your_PP$ seat_NN number_NN ,_, keep_VV this_DT with_IN you_PP at_IN all_DT times_NNS ._SENT I_PP 've_VHP also_RB 
+got_VVD you_PP a_DT return_NN just_RB in_IN case_NN ._SENT 
+Now_RB do_VVP n't_RB go_VV talking_VVG to_TO any_DT strangers_NNS and_CC phone_NN me_PP as_RB soon_RB as_IN you_PP get_VVP 
+there_RB ,_, okay_JJ ?_SENT 
+(_( Owen_NP wakes_VVZ to_TO find_VV a_DT note_NN on_IN the_DT pillow_NN ._SENT )_) 
+
+[_SYM Airfield_NP ]_SYM 
+
+(_( Diane_NP has_VHZ got_VVN the_DT Sky_NP Gypsy_NP out_IN of_IN the_DT hangar_NN ._SENT )_) 
+OWEN_NP :_: No_UH !_SENT I_PP 'm_VBP not_RB letting_VVG you_PP do_VVP this_DT ._SENT 
+DIANE_NN :_: I_PP 'm_VBP not_RB a_DT possession_NN ,_, Owen_NP ._SENT 
+OWEN_NN :_: You_PP ca_MD n't_RB do_VV this_DT ._SENT It_PP 's_VBZ madness_NN ._SENT 
+DIANE_NP :_: If_IN I_PP 'd_VHD listened_VVN to_TO everyone_NN who_WP told_VVD me_PP that_IN/that ,_, I_PP would_MD n't_RB have_VH 
+broken_VVN any_DT records_NNS ._SENT 
+
+[_SYM Coach_NP station_NN ]_SYM 
+
+GWEN_NN :_: You_PP do_VVP n't_RB have_VH to_TO go_VV ._SENT 
+EMMA_NN :_: If_IN I_PP do_VVP n't_RB ,_, then_RB I_PP 'll_MD always_RB wonder_VV what_WP it_PP 's_VBZ like_JJ ._SENT London_NP ,_, Gwen_NP ._SENT 
+
+GWEN_NP :_: Okay_JJ ._SENT Go_VV on_IN ._SENT 
+
+[_SYM Airfield_NP ]_SYM 
+
+OWEN_NP :_: Diane_NP ,_, you_PP 're_VBP not_RB thinking_VVG straight_RB ._SENT Let_NP 's_POS 
+talk_VV about_IN it_PP ._SENT 
+DIANE_NP :_: No_UH ,_, I_PP 'm_VBP sorry_JJ ,_, Owen_NP ._SENT 
+OWEN_NN :_: We_PP can_MD make_VV this_DT work_NN ._SENT You_PP belong_VVP here_RB now_RB ,_, with_IN me_PP ._SENT 
+DIANE_NN :_: I_PP belong_VVP in_IN the_DT sky_NN ._SENT 
+OWEN_NP :_: Well_UH ,_, we_PP can_MD get_VV you_PP up_RP in_IN the_DT sky_NN ._SENT In_IN a_DT couple_NN of_IN months_NNS you_PP can_MD 
+fly_VV whenever_WRB you_PP want_VVP ._SENT 
+DIANE_NP :_: Look_NN ,_, weather_NN conditions_NNS are_VBP the_DT same_JJ as_IN the_DT day_NN we_PP arrived_VVD ._SENT 
+That_DT rift_NN will_MD open_VV again_RB ,_, I_PP can_MD feel_VV it_PP ._SENT 
+OWEN_NP :_: Diane_NP ,_, listen_VVP to_TO me_PP ,_, there_EX is_VBZ no_DT way_NN back_RB ._SENT You_PP cannot_MD get_VV home_NN ._SENT 
+DIANE_NN :_: Then_RB it_PP will_MD take_VV me_PP somewhere_RB new_JJ ._SENT 
+
+[_SYM Coach_NP station_NN ]_SYM 
+
+(_( Gwen_NP waves_NNS Emma_NP goodbye_NN ._SENT )_) 
+GWEN_NP :_: Merry_NP Christmas_NP !_SENT 
+
+[_SYM Airfield_NP ]_SYM 
+
+OWEN_NN :_: I_PP 'll_MD come_VV with_IN you_PP ._SENT 
+DIANE_NN :_: I_PP fly_VVP solo_RB ,_, Owen_NP ._SENT I_PP go_VVP faster_RBR and_CC further_RBR than_IN others_NNS ._SENT 
+OWEN_NN :_: We_PP have_VHP no_DT idea_NN how_WRB this_DT rift_NN works_VVZ ._SENT You_PP can_MD end_VV up_RP anywhere_RB ._SENT 
+DIANE_NP :_: That_WDT 's_VBZ the_DT beauty_NN of_IN it_PP ._SENT 
+OWEN_NN :_: It_PP 's_VBZ too_RB dangerous_JJ !_SENT 
+DIANE_NN :_: It_PP 's_VBZ what_WP I_PP do_VVP ._SENT 
+OWEN_NP :_: What_WP about_IN me_PP ?_SENT Please_UH ,_, please_UH ,_, do_VVP n't_RB go_VV ._SENT 
+(_( She_PP puts_VVZ her_PP$ white_JJ silk_NN scarf_NN around_IN his_PP$ neck_NN and_CC kisses_VVZ him_PP ._SENT )_) 
+DIANE_NP :_: What_WP memories_NNS I_PP 'm_VBP taking_VVG with_IN me_PP ._SENT 
+(_( He_PP backs_VVZ away_RB and_CC she_PP starts_VVZ the_DT engine_NN ,_, then_RB blows_VVZ him_PP a_DT kiss_VVP and_CC 
+taxis_NNS away_RB ._SENT )_) 
+DIANE_NN [_SYM OC_NP ]_SYM :_: Because_IN when_WRB you_PP take_VVP off_RP together_RB ,_, it_PP 's_VBZ the_DT next_JJ best_JJS 
+thing_NN to_TO flying_VVG ._SENT 
+(_( The_DT Sky_NP Gipsy_NP vanishes_VVZ from_IN sight_NN ._SENT )_) 
+

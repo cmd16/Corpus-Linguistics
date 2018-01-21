@@ -1,0 +1,736 @@
+[_SYM The_NP 
+Joshua_NP Joy_NP Travelling_NP Show_NP ]_SYM 
+
+(_( Couples_NNS in_IN 1920s_NNS or_CC 30s_NNS style_NN clothing_NN are_VBP walking_VVG 
+to_TO a_DT fair_NN ._SENT Test_VV your_PP$ strength_NN ,_, strongmen_NNS ,_, 
+jugglers_NNS ,_, all_PDT the_DT traditional_JJ stuff_NN ._SENT )_) 
+GHOSTMAKER_NN :_: Ladies_NNS and_CC gentlemen_NNS ,_, girls_NNS and_CC boys_NNS ,_, have_VHP we_PP got_VVD a_DT show_NN 
+for_IN you_PP tonight_RB !_SENT A_DT once_RB in_IN a_DT lifetime_NN show_NN ._SENT Amaze_VV your_PP$ ears_NNS ,_, astonish_VVP 
+your_PP$ eyes_NNS ,_, 
+then_RB run_VVN along_IN home_NN and_CC tell_VV your_PP$ friends_NNS and_CC neighbours_NNS ._SENT A_DT once_RB in_IN a_DT 
+lifetime_NN show_NN ,_, never_RB to_TO be_VB forgotten_VVN for_IN the_DT rest_NN of_IN your_PP$ lives_NNS ._SENT So_RB ,_, 
+why_WRB not_RB step_VV inside_RB ?_SENT 
+(_( The_DT man_NN dressed_VVN as_IN the_DT Ringmaster_NP hands_VVZ a_DT ticket_NN to_TO a_DT little_JJ girl_NN ,_, who_WP 
+is_VBZ with_IN her_PP$ mother_NN ._SENT )_) 
+GHOSTMAKER_NN :_: We_PP 're_VBP waiting_VVG for_IN you_PP ._SENT 
+(_( The_DT girl_NN takes_VVZ the_DT ticket_NN and_CC runs_VVZ through_IN the_DT entrance_NN ._SENT A_DT noise_NN makes_VVZ 
+the_DT mother_NN turn_NN around_IN and_CC when_WRB she_PP looks_VVZ back_RB ,_, the_DT fair_JJ and_CC her_PP 
+daughter_NN have_VHP vanished_VVN ._SENT )_) 
+
+[_SYM Attic_JJ ]_SYM 
+
+(_( A_DT young_JJ man_NN is_VBZ watching_VVG old_JJ newsreels_NNS and_CC home_NN 
+movies_NNS on_IN an_DT editing_VVG machine_NN ._SENT They_PP show_VVP a_DT Cardiff_NP street_NN from_IN just_RB 
+after_IN the_DT turn_NN of_IN the_DT 20th_JJ Century_NP ._SENT )_) 
+JONATHAN_NP :_: Great_JJ !_SENT 
+(_( Then_RB it_PP changes_VVZ to_TO the_DT Ghostmaker_NP beckoning_VVG to_TO the_DT camera_NN ._SENT )_) 
+JONATHAN_NP :_: What_WP is_VBZ that_RB ?_SENT 
+(_( In_IN the_DT hub_NN ,_, Jack_NP hears_VVZ distant_JJ fairground_NN music_NN ._SENT Jonathan_NP stops_VVZ the_DT 
+film_NN and_CC marks_VVZ it_PP ._SENT )_) 
+JONATHAN_NN :_: I_PP do_VVP n't_RB know_VV where_WRB you_PP came_VVD from_IN ,_, mate_NN ,_, but_CC I_PP know_VVP where_WRB 
+you_PP 're_VBP going_VVG ._SENT 
+(_( As_IN he_PP cuts_VVZ the_DT film_NN ,_, the_DT little_JJ garret_NN window_NN flies_VVZ open_JJ ._SENT He_PP goes_VVZ to_TO 
+shut_VV it_PP ,_, and_CC the_DT film_NN rewinds_VVZ itself_PP ._SENT It_PP runs_VVZ off_RP the_DT spool_NN ,_, but_CC the_DT 
+image_NN of_IN the_DT Ghostmaker_NP beckoning_VVG remains_NNS on_IN the_DT monitor_NN ._SENT )_) 
+
+[_SYM Hub_NP ]_SYM 
+
+JACK_NN :_: Tosh_NN ?_SENT 
+TOSH_NN :_: Hmm_NP ?_SENT 
+JACK_NN :_: I_PP heard_VVD this_DT sound_NN ._SENT An_DT old_JJ sound_NN ,_, like_IN a_DT pipe_NN organ_NN ._SENT 
+TOSH_NN :_: A_DT what_WP ?_SENT 
+JACK_NN :_: Did_VVD you_PP hear_VVP anything_NN ?_SENT 
+TOSH_NN :_: No._NN 
+JACK_NN :_: Is_VBZ there_RB a_DT circus_NN in_IN town_NN ,_, or_CC a_DT travelling_VVG fair_NN ,_, something_NN like_IN 
+that_RB ?_SENT 
+TOSH_NN :_: On_IN a_DT night_NN like_IN this_DT ?_SENT They_PP 'd_MD be_VB wasting_VVG their_PP$ time_NN ._SENT 
+JACK_NN :_: Where_WRB 's_VBZ Ianto_NP ?_SENT He_PP would_MD know_VV ._SENT 
+TOSH_NN :_: He_PP 's_VBZ gone_VVN to_TO the_DT cinema_NN with_IN Gwen_NP and_CC Owen_NP ._SENT Some_DT kind_NN of_IN opening_NN 
+night_RB he_PP wanted_VVD to_TO check_VV out_RP ._SENT 
+The_DT building_NN 's_VHZ got_VVN a_DT record_NN of_IN Rift_NP activity_NN but_CC it_PP 's_VHZ been_VBN quiet_JJ for_IN 
+years_NNS so_RB 
+(_( Jack_NP has_VHZ already_RB gone_VVN ._SENT )_) 
+
+[_SYM Hope_NP Street_NP ]_SYM 
+
+(_( Pouring_VVG with_IN rain_NN ._SENT )_) 
+OWEN_NN :_: A_DT nice_JJ trip_NN to_TO the_DT cinema_NN ,_, you_PP said_VVD ._SENT 
+IANTO_NP :_: Yeah_UH ,_, that_WDT 's_VBZ right_JJ ._SENT 
+OWEN_NP :_: Ianto_NP ,_, there_EX 's_VBZ nothing_NN down_RB here_RB ,_, mate_NN ._SENT 
+GWEN_NP :_: Oh_UH ,_, come_VV on_RP ,_, Owen_NP ._SENT 
+IANTO_NN :_: It_PP 's_VBZ more_JJR than_IN just_RB a_DT cinema_NN ._SENT It_PP 's_VBZ the_DT Electro_NP ._SENT 
+GWEN_NP :_: Oh_UH ,_, wow_NN !_SENT 
+
+[_SYM Foyer_NP ]_SYM 
+
+(_( The_DT owner_NN is_VBZ in_IN a_DT dinner_NN jacket_NN ,_, his_PP$ wife_NN is_VBZ 
+manning_VVG the_DT ticket_NN booth_NN and_CC wearing_VVG a_DT red_JJ uniform_NN with_IN pillbox_NN cap._NN )_) 
+DAVE_NN :_: Where_WRB 's_VBZ that_IN/that stupid_JJ bloody_JJ son_NN of_IN ours_PP ?_SENT 
+(_( Jonathan_NP is_VBZ running_VVG through_IN an_DT empty_JJ warehouse_NN with_IN the_DT reel_NN of_IN film_NN ._SENT )_) 
+
+FAITH_NN :_: He_PP said_VVD he_PP 'd_MD be_VB here_RB on_IN time_NN ._SENT 
+DAVE_NN :_: He_PP 'd_MD better_RBR be_VB ,_, he_PP 's_VHZ got_VVN the_DT film_NN ._SENT 
+WOMAN_NN [_SYM OC_NP ]_SYM :_: Hi_UH ,_, Dave_NP ._SENT 
+DAVE_NN :_: And_CC what_WP good_RB is_VBZ a_DT cinema_NN without_IN a_DT film_NN ?_SENT Good_JJ evening_NN ,_, 
+gentlemen_NNS ._SENT Evening_NN ,_, madam_NN ._SENT Welcome_JJ to_TO the_DT Electro_NP ._SENT 
+(_( Jonathan_NP is_VBZ still_RB running_VVG ,_, and_CC Jack_NP is_VBZ driving_VVG the_DT Range_NP Rover_NP ._SENT )_) 
+IANTO_NN :_: I_PP love_VVP this_DT place_NN ._SENT I_PP used_VVD to_TO come_VV here_RB with_IN my_PP$ dad_NN ._SENT They_PP 'd_MD show_VV 
+kids_NNS '_POS films_NNS on_IN Saturday_NP morning_NN ._SENT 
+GWEN_NN :_: So_RB ,_, where_WRB 's_VBZ the_DT popcorn_NN and_CC the_DT ice_NN cream_NN ?_SENT 
+OWEN_NN :_: I_PP think_VVP you_PP 've_VHP missed_VVN out_RP ._SENT It_PP 's_VBZ educational_JJ ._SENT 
+GWEN_NP :_: Okay_JJ ._SENT Come_VVN on_IN ._SENT 
+(_( Owen_NP ,_, Gwen_NP and_CC Ianto_NP to_TO into_IN the_DT auditorium_NN ._SENT Jonathan_NP arrives_VVZ ._SENT )_) 
+DAVE_NP :_: What_WP sort_NN of_IN time_NN do_VVP you_PP call_VVP this_DT ?_SENT 
+JONATHAN_NN :_: Sorry_RB ,_, Dad_NP ._SENT 
+DAVE_NN :_: People_NNS are_VBP waiting_VVG ._SENT 
+JONATHAN_NN :_: You_PP wo_MD n't_RB believe_VV this_DT ,_, right_RB ._SENT When_WRB I_PP was_VBD splicing_VVG the_DT film_NN 
+DAVE_NN :_: Look_VV ,_, just_RB get_VV up_RP to_TO that_DT projection_NN room_NN ,_, will_MD you_PP ?_SENT Now_RB !_SENT 
+(_( He_PP does_VVZ ,_, and_CC faint_JJ music_NN is_VBZ heard_VVN as_IN he_PP opens_VVZ the_DT film_NN case_NN ._SENT )_) 
+[_SYM Auditorium_NP ]_SYM 
+
+DAVE_NN :_: As_IN proud_JJ owners_NNS of_IN the_DT Electro_NP Museum_NP ,_, it_PP is_VBZ 
+our_PP$ privilege_NN to_TO be_VB able_JJ to_TO show_VV you_PP how_WRB the_DT cinema_NN and_CC Hope_NP Street_NP 
+looked_VVN in_IN days_NNS gone_VVN by_IN ._SENT 
+If_IN you_PP watch_VVP carefully_RB ,_, who_WP knows_VVZ ,_, you_PP may_MD even_RB see_VV long-dead_JJ members_NNS 
+of_IN your_PP$ family_NN waiting_VVG in_IN the_DT cinema_NN queue_NN ._SENT Bernard_NP !_SENT 
+(_( The_DT pianist_NN starts_VVZ playing_VVG jaunty_JJ cinema_NN music_NN as_IN the_DT curtains_NNS open_VVP ._SENT 
+The_DT reel_NN starts_VVZ just_RB as_IN we_PP saw_VVD it_PP in_IN Jonathan_NP 's_POS attic_NN ._SENT )_) 
+OWEN_NP :_: Do_VVP you_PP recognise_VV any_DT of_IN your_PP$ long_JJ lost_JJ relatives_NNS ,_, Gwen_NP ?_SENT 
+(_( There_EX is_VBZ a_DT circus_NN performer_NN with_IN a_DT hoola_NN hoop_NN ._SENT )_) 
+OWEN_NN :_: There_EX 's_VBZ Aunty_NP Peggy_NP ._SENT She_PP 's_VHZ been_VBN on_IN the_DT gin_NN again_RB ._SENT 
+IANTO_NN :_: Can_MD you_PP be_VB quiet_JJ ?_SENT 
+DAVE_NN :_: He_PP 's_VBZ showing_VVG the_DT wrong_JJ bloody_JJ film_NN ._SENT 
+GWEN_NP :_: Where_WRB 's_VBZ Hope_NP Street_NP gone_VVN ?_SENT 
+[_SYM Projection_JJ room_NN ]_SYM 
+
+JONATHAN_NP :_: Oh_UH ,_, shit_NN ._SENT 
+(_( The_DT projector_NN wo_MD n't_RB switch_VV off_RP ,_, and_CC Owen_NP and_CC Ianto_NP are_VBP mesmerised_VVN by_IN 
+the_DT images_NNS on_IN screen_NN ._SENT )_) 
+DAVE_NN :_: Where_WRB the_DT hell_NN did_VVD that_IN/that film_NN come_VVN from_IN ?_SENT 
+JONATHAN_NN :_: I_PP 've_VHP no_DT idea_NN ._SENT I_PP swear_VVP I_PP did_VVD n't_RB edit_VV those_DT clips_NNS ._SENT 
+DAVE_NP :_: Do_VVP n't_RB be_VB stupid_JJ ._SENT 
+JONATHAN_NN :_: It_PP 's_VBZ true_JJ !_SENT 
+DAVE_NN :_: Well_RB ,_, just_RB bloody_VVP well_RB change_VV it_PP ,_, will_MD you_PP ?_SENT 
+JONATHAN_NN :_: I_PP ca_MD n't_RB ._SENT The_DT machine_NN wo_MD n't_RB switch_VV off_RP ._SENT 
+DAVE_NP :_: Oh_UH ,_, get_VV out_RP of_IN the_DT way_NN ._SENT 
+JONATHAN_NP :_: This_DT is_VBZ crazy_JJ ._SENT 
+[_SYM Auditorium_NP ]_SYM 
+
+GWEN_NN :_: It_PP 's_VBZ the_DT same_JJ pictures_NNS over_IN and_CC over_IN again_RB ._SENT 
+OWEN_NP :_: Yeah_UH ._SENT Right_RB ,_, come_VVN on_IN ,_, let_VV 's_VBZ go_VV ._SENT 
+(_( Then_RB a_DT clip_NN of_IN a_DT man_NN holding_VVG a_DT gun_NN to_TO his_PP$ head_NN and_CC apparently_RB firing_VVG 
+it_PP ,_, in_IN front_NN of_IN a_DT crowd_NN ._SENT )_) 
+IANTO_NN :_: Wait_VV !_SENT I_PP just_RB saw_VVD Jack_NP ._SENT 
+GWEN_NP :_: Where_WRB ?_SENT 
+IANTO_NN :_: In_IN the_DT film_NN ._SENT 
+OWEN_NP :_: What_WP are_VBP you_PP talking_VVG about_RB ?_SENT 
+GWEN_NP :_: What_WP ?_SENT 
+IANTO_NN :_: I_PP swear_VVP I_PP saw_VVD him_PP ._SENT 
+GWEN_NP :_: Ianto_NN 
+IANTO_NN :_: Wait_VV ._SENT just_RB wait_VV ._SENT 
+(_( But_CC the_DT film_NN finishes_VVZ before_IN it_PP gets_VVZ round_NN to_TO the_DT clip_NN again_RB ._SENT )_) 
+GWEN_NP :_: Come_VVN on_RP ._SENT 
+OWEN_NN :_: Let_VV 's_VBZ go_VV ._SENT 
+GWEN_NP :_: Yes_UH ,_, come_VV on_RP ._SENT Are_VBP you_PP coming_VVG ?_SENT 
+(_( The_DT people_NNS leave_VVP ,_, except_IN Ianto_NP ,_, and_CC he_PP sees_VVZ two_CD shadows_NNS move_VVP across_RP 
+the_DT wall_NN to_TO the_DT exit_NN ._SENT Back_RB at_IN the_DT hub_NN ,_, Tosh_NP 's_POS computer_NN monitors_VVZ freeze_NN 
+into_IN a_DT waterfall_NN of_IN letters_NNS ,_, then_RB start_VV up_RP again_RB ._SENT Jack_NP goes_VVZ inside_IN the_DT 
+Electro_NN ._SENT )_) 
+IANTO_NP :_: When_WRB the_DT film_NN stopped_VVD ,_, these_DT shadows_NNS went_VVD past_IN me_PP ._SENT 
+JACK_NN :_: What_WP kind_NN of_IN shadows_NNS ?_SENT 
+IANTO_NN :_: I_PP do_VVP n't_RB know_VV ._SENT It_PP was_VBD n't_RB clear_JJ ._SENT There_EX was_VBD something_NN else_RB ._SENT You_PP 
+were_VBD up_RB there_RB on_IN the_DT screen_NN ._SENT Large_JJ as_IN life_NN ._SENT 
+JACK_NN :_: What_WP was_VBD I_PP doing_VVG ?_SENT 
+IANTO_NN :_: You_PP were_VBD on_IN some_DT sort_NN of_IN stage_NN ,_, outside_IN a_DT big_JJ tent_NN ._SENT You_PP seemed_VVD 
+to_TO be_VB part_NN of_IN a_DT travelling_VVG show_NN ._SENT 
+JACK_NN :_: I_PP heard_VVD it_PP ._SENT Heard_VVN its_PP$ music_NN ._SENT Just_RB a_DT snatch_VV of_IN it_PP ._SENT 
+IANTO_NN :_: That_DT film_NN was_VBD beautiful_JJ ._SENT All_PDT those_DT acts_NNS performing_VVG for_IN us_PP ._SENT Part_NN 
+of_IN history_NN ,_, trapped_VVN on_IN film_NN forever_RB ._SENT 
+JACK_NN :_: Their_PP$ days_NNS were_VBD numbered_VVN ._SENT Cinema_NN may_MD have_VH saved_VVN their_PP$ images_NNS ,_, but_RB 
+it_PP finished_VVD off_RP the_DT travelling_VVG shows_NNS ._SENT Killed_VVD them_PP ._SENT 
+
+[_SYM Bus_NP stop_NN ]_SYM 
+
+(_( There_EX are_VBP two_CD strange_JJ figures_NNS nearby_JJ ,_, straight_JJ out_RP 
+of_IN the_DT film_NN -_: the_DT Ringmaster_NP and_CC a_DT woman_NN who_WP looks_VVZ like_IN Mia_NP Farrow_NP ,_, in_RB 
+an_DT old_JJ all_RB in_IN one_CD swimming_NN costume_NN with_IN tights_NN ._SENT A_DT young_JJ woman_NN is_VBZ on_IN her_PP 
+mobile_JJ phone_NN ._SENT )_) 
+NETTIE_NN :_: I_PP 'm_VBP at_IN the_DT bus_NN stop_NN ,_, Mum_NP ._SENT By_IN Hope_NP Street_NP ._SENT No_RB ,_, Gemma_NP 's_POS brother_NN 
+could_MD n't_RB bring_VV me_PP home_NN ._SENT His_PP$ car_NN do_VVP n't_RB work_VV ._SENT Well_RB ,_, what_WP about_IN Dad_NP ?_SENT 
+Ca_MD n't_RB you_PP wake_VVP him_PP ?_SENT Mum_JJ ?_SENT 
+GHOSTMAKER_NN :_: Would_MD you_PP like_VV a_DT ticket_NN for_IN the_DT travelling_VVG show_NN ,_, my_PP$ dear_NN ?_SENT 
+NETTIE_NP :_: No_UH ,_, thanks_NNS ._SENT 
+GHOSTMAKER_NN :_: Every_DT young_JJ person_NN 's_POS dream_NN ._SENT 
+PEARL_NN :_: Perhaps_RB she_PP 'd_MD like_VV to_TO join_VV the_DT show_NN instead_RB ._SENT 
+(_( Pearl_NP strokes_VVZ Nettie_NP 's_POS wet_JJ hair_NN ,_, then_RB licks_VVZ her_PP$ hand_NN ._SENT )_) 
+GHOSTMAKER_NN :_: Why_WRB not_RB ?_SENT You_PP could_MD travel_VV with_IN us_PP ._SENT Forever_RB ._SENT 
+NETTIE_NN :_: Look_VV ,_, just_RB go_VV away_RB ,_, will_MD you_PP ?_SENT Did_VVD you_PP hear_VVP what_WP I_PP said_VVD ?_SENT 
+(_( The_DT Ghostmaker_NP touches_VVZ Nettie_NP 's_POS mouth_NN and_CC she_PP gasps_VVZ for_IN breath_NN ._SENT Then_RB 
+he_PP gets_VVZ out_RP a_DT silver_JJ flask_NN with_IN a_DT shell_JJ motif_NN on_IN it_PP ._SENT He_PP guides_VVZ Nettie_NP 's_POS 
+last_JJ breath_NN into_IN it_PP and_CC puts_VVZ in_IN the_DT stopper_NN ._SENT Pearl_NP laughs_VVZ ._SENT )_) 
+
+[_SYM Projection_JJ room_NN ]_SYM 
+
+JACK_NN :_: So_RB you_PP say_VVP the_DT projector_NN went_VVD haywire_JJ ?_SENT 
+JONATHAN_NP :_: Yeah_UH ,_, even_RB with_IN the_DT mains_NNS switched_VVN off_IN it_PP still_RB kept_VVD running_VVG ._SENT 
+Playing_VVG those_DT film_NN clips_NNS ._SENT It_PP 's_VBZ like_IN it_PP had_VHD a_DT mind_NN of_IN its_PP$ own_JJ ._SENT 
+IANTO_NN :_: Working_VVG now_RB ._SENT 
+JONATHAN_NN :_: I_PP know_VVP ._SENT 
+JACK_NN :_: So_RB where_WRB 'd_MD you_PP get_VV these_DT ?_SENT 
+JONATHAN_NN :_: In_IN the_DT basement_NN here_RB ._SENT There_EX were_VBD stacks_NNS of_IN cans_NNS ._SENT See_VV ,_, I_PP 've_VHP 
+been_VBN compiling_VVG old_JJ footage_NN of_IN Hope_NP Street_NP and_CC the_DT Electro_NP for_IN the_DT 
+opening_NN night_NN ._SENT 
+But_CC the_DT circus_NN clips_NNS were_VBD n't_RB on_IN it_PP ._SENT I_PP swear_VVP ._SENT 
+JACK_NN :_: The_DT film_NN that_WDT was_VBD shown_VVN was_VBD n't_RB meant_VVN to_TO be_VB here_RB ?_SENT 
+JONATHAN_NP :_: No._NN And_CC that_DT 's_VBZ what_WP 's_VBZ so_RB scary_JJ ._SENT I_PP mean_VVP ,_, it_PP kind_RB of_IN played_VVN 
+itself_PP ._SENT It_PP 's_VBZ like_IN it_PP wanted_VVD to_TO be_VB seen_VVN ._SENT 
+JACK_NN :_: Like_IN something_NN tried_VVD to_TO get_VV through_RP ?_SENT 
+JONATHAN_NP :_: Yeah_UH ._SENT And_CC there_EX was_VBD a_DT sound_NN ,_, like_IN old_JJ fashioned_VVN music_NN ._SENT Played_VVD 
+on_IN an_DT organ_NN or_CC something_NN ._SENT And_CC there_EX was_VBD a_DT face_NN looking_VVG out_RP at_IN me_PP ._SENT 
+And_CC there_EX was_VBD a_DT smell_NN ,_, like_VV ,_, like_IN bromine_NN or_CC iodine_NN ._SENT 
+IANTO_NN :_: Like_IN the_DT film_NN itself_PP ._SENT 
+JONATHAN_NP :_: That_WDT 's_VBZ right_JJ ._SENT 
+JACK_NN :_: And_CC this_DT is_VBZ the_DT film_NN ?_SENT 
+JONATHAN_NP :_: Yeah_UH ._SENT 
+TOSH_NN [_SYM OC_NP ]_SYM :_: Jack_NP ,_, the_DT systems_NNS here_RB are_VBP behaving_VVG very_RB oddly_RB ._SENT And_CC I_PP heard_VVD 
+the_DT sound_NN you_PP mentioned_VVD ._SENT That_DT fairground_NN sound_NN ._SENT 
+JACK_NN :_: Can_MD you_PP trace_VV the_DT source_NN ?_SENT 
+TOSH_NN [_SYM OC_NP ]_SYM :_: No._NN But_CC there_EX was_VBD a_DT peak_NN in_IN Rift_NP activity_NN at_IN the_DT Electro_NP ,_, 
+then_RB nothing_NN ._SENT Plus_CC I_PP 'm_VBP recording_VVG unusual_JJ Rift_NP traces_NNS nearby_RB ._SENT 
+JACK_NN :_: Where_WRB ?_SENT 
+TOSH_NN [_SYM OC_NP ]_SYM :_: Chain_NN Lane_NP ._SENT '_'' Runs_NP parallel_NN to_TO Hope_NP Street_NP ._SENT Sending_VVG the_DT 
+coordinates_NNS now_RB ._SENT 
+JACK_NN :_: Tosh_NP ,_, we_PP 're_VBP on_IN our_PP$ way_NN ._SENT Tell_VV the_DT police_NN we_PP 're_VBP dealing_VVG with_IN it_PP ._SENT 
+
+[_SYM Bus_NP stop_NN ]_SYM 
+
+(_( They_PP find_VVP Nettie_NP sitting_VVG at_IN the_DT stop_NN ,_, staring_VVG at_IN 
+nothing_NN ._SENT )_) 
+JACK_NN :_: Epileptic_JJ ,_, maybe_RB ?_SENT Could_MD be_VB wearing_VVG a_DT tag_NN ._SENT 
+OWEN_NN :_: She_PP is_VBZ n't_RB ._SENT 
+IANTO_NN :_: She_PP got_VVD ID_NN ?_SENT 
+GWEN_NN :_: I_PP 'll_MD check_VV ._SENT 
+JACK_NN :_: What_WP 's_VBZ wrong_JJ ?_SENT 
+OWEN_NN :_: She_PP 's_VHZ got_VVN a_DT heartbeat_NN but_CC she_PP is_VBZ n't_RB breathing_VVG ._SENT Should_MD n't_RB really_RB 
+be_VB alive_JJ ._SENT And_CC look_VV at_IN her_PP$ mouth_NN ._SENT She_PP 's_VHZ got_VVN no_DT saliva_NN ._SENT Look_VV ,_, her_PP 
+lips_NNS are_VBP cracked_VVN ._SENT Dry_JJ as_IN a_DT bone_NN ._SENT We_PP need_VVP to_TO get_VV her_PP to_TO hospital_NN ._SENT 
+[_SYM Windsor_NP Cafe_NP ]_SYM 
+
+(_( The_DT owner_NN is_VBZ wiping_VVG down_RP tables_NNS ._SENT Pearl_NP stares_VVZ at_IN 
+her_PP through_IN the_DT window_NN while_IN the_DT Ghostmaker_NP rattles_VVZ the_DT door_NN ._SENT She_PP opens_VVZ 
+it_PP ._SENT )_) 
+OWNER_NN :_: Sorry_RB ,_, we_PP 're_VBP closed_VVN ._SENT Do_VV you_PP hear_VV me_PP ?_SENT We_PP 're_VBP closed_VVN ._SENT 
+PEARL_NN :_: Make_VV her_PP$ cry_NN ._SENT 
+OWNER_NN :_: You_PP what_WP ?_SENT 
+PEARL_NN :_: I_PP want_VVP to_TO drink_VV her_PP$ tears_NNS ._SENT 
+(_( The_DT Ghostmaker_NP touches_VVZ the_DT owner_NN 's_POS mouth_NN ._SENT )_) 
+
+[_SYM Hospital_NP room_NN ]_SYM 
+
+OWEN_NN :_: Her_PP$ name_NN 's_POS Nettie_NP Williams_NP ._SENT Her_PP$ parents_NNS are_VBP 
+outside_JJ ._SENT Apparently_RB she_PP was_VBD visiting_VVG a_DT friend_NN ._SENT 
+JACK_NN :_: Have_VHP any_DT witnesses_NNS come_VVP forward_RB ?_SENT 
+OWEN_NN :_: No._NN 
+JACK_NN :_: Has_VHZ anyone_NN been_VBN able_JJ to_TO communicate_VV with_IN her_PP ?_SENT 
+OWEN_NN :_: No._NN No_DT change_NN in_IN her_PP$ condition_NN ._SENT 
+JACK_NN :_: Motor_NP response_NN ?_SENT 
+OWEN_NN :_: Non-existent_JJ ,_, and_CC they_PP 're_VBP treating_VVG it_PP as_IN a_DT coma_NN ._SENT 
+JACK_NN :_: And_CC they_PP 're_VBP wrong_JJ ?_SENT 
+OWEN_NN :_: Totally_RB ._SENT There_EX 's_VBZ no_DT signs_NNS of_IN cerebral_JJ dysfunctions_NNS ,_, no_DT symptoms_NNS 
+of_IN hypoxia_NN ,_, and_CC her_PP$ body_NN 's_VBZ dehydrated_VVN ._SENT 
+You_PP know_VVP when_WRB a_DT spider_NN sucks_VVZ the_DT liquid_NN out_RP of_IN its_PP$ victims_NNS ?_SENT Well_RB ,_, this_RB 
+is_VBZ a_DT bit_NN like_IN that_WDT ,_, except_IN they_PP 've_VHP left_VVN her_PP$ partly_RB alive_JJ ._SENT 
+She_PP could_MD n't_RB cry_VV about_IN it_PP even_RB if_IN she_PP wanted_VVD to_TO ,_, the_DT poor_JJ kid_NN ._SENT She_PP 's_VBZ 
+got_VVN no_DT tears_NNS ._SENT 
+IANTO_NN :_: There_EX 's_VHZ been_VBN another_DT one_CD ._SENT 
+(_( The_DT cafe_NN owner_NN is_VBZ wheeled_VVN in_IN ._SENT )_) 
+JACK_NN :_: Who_WP 's_VBZ she_PP ?_SENT 
+NURSE_NN :_: We_PP do_VVP n't_RB know_VV ._SENT The_DT paramedics_NP found_VVD her_PP ._SENT It_PP freaked_VVD them_PP ._SENT She_PP 
+was_VBD lying_VVG in_IN an_DT open_JJ doorway_NN looking_VVG like_IN this_DT ._SENT 
+OWEN_NP :_: Where_WRB was_VBD this_DT ?_SENT 
+NURSE_NN :_: The_DT corner_NN of_IN Hope_NP Street_NP ._SENT 
+JACK_NN :_: The_DT same_JJ ._SENT Heartbeat_NN but_CC no_DT breath_NN ._SENT 
+OWEN_NN :_: Her_PP$ mouth_NN 's_VHZ been_VBN drained_VVN of_IN moisture_NN ._SENT 
+
+[_SYM Hospital_NP corridor_NN ]_SYM 
+
+OWEN_NN :_: This_DT makes_VVZ no_DT sense_NN ,_, they_PP 're_VBP almost_RB 
+dehydrated_VVN and_CC possibly_RB brain_NN dead_RB yet_RB somehow_RB they_PP 're_VBP still_RB with_IN us_PP ._SENT 
+JACK_NN :_: Some_DT part_NN of_IN them_PP has_VHZ been_VBN taken_VVN elsewhere_RB ?_SENT 
+OWEN_NP :_: Oh_UH ,_, that_WDT 's_VBZ impossible_JJ ._SENT 
+JACK_NN :_: For_IN the_DT body_NN to_TO be_VB alive_RB there_EX must_MD be_VB a_DT life_NN force_NN somewhere_RB ._SENT 
+Yet_RB they_PP 've_VHP separated_VVN it_PP ,_, stolen_VVN it_PP ._SENT 
+IANTO_NP :_: Who_WP has_VHZ the_DT power_NN to_TO do_VV that_DT ?_SENT 
+JACK_NN :_: I_PP do_VVP n't_RB know_VV ,_, but_CC we_PP need_VVP to_TO find_VV out_RP fast_RB ._SENT Two_CD people_NNS chosen_VVN at_IN 
+random_JJ ._SENT Who_WP 's_VBZ next_JJ ?_SENT 
+GWEN_NP :_: Whatever_WDT 's_VBZ doing_VVG it_PP has_VHZ the_DT whole_JJ city_NN to_TO choose_VV from_IN ._SENT 
+JACK_NN :_: Or_CC the_DT world_NN ._SENT 
+
+[_SYM Jack_NP 's_POS office_NN ]_SYM 
+
+(_( They_PP watch_VVP the_DT reel_NN play_NN ._SENT )_) 
+JACK_NN :_: I_PP knew_VVD those_DT two_CD ._SENT They_PP argued_VVD day_NN and_CC night_NN ._SENT 
+OWEN_NN :_: That_WDT is_VBZ you_PP ._SENT All_DT right_NN ,_, now_RB I_PP 've_VHP seen_VVN everything_NN ._SENT 
+IANTO_NN :_: I_PP told_VVD you_PP so_RB ._SENT 
+GWEN_NN :_: You_PP did_VVD stand-up_JJ ._SENT 
+JACK_NN :_: I_PP never_RB did_VVD stand-up_JJ ._SENT 
+GWEN_NP :_: Okay_JJ ,_, then_RB ._SENT A_DT song_NN and_CC dance_NN ._SENT 
+JACK_NN :_: I_PP was_VBD sensational_JJ ._SENT 
+TOSH_NN :_: I_PP do_VVP n't_RB believe_VV this_DT ,_, Jack_NP ._SENT What_WP were_VBD you_PP doing_VVG there_RB ?_SENT 
+OWEN_NN :_: He_PP was_VBD part_NN of_IN this_DT freak_NN show_NN ._SENT 
+JACK_NN :_: Yeah_UH ,_, some_DT things_NNS never_RB change_VVP ._SENT 
+OWEN_NP :_: Are_VBP you_PP being_VBG rude_JJ about_IN me_PP ?_SENT Look_VV at_IN the_DT state_NN of_IN them_PP ._SENT 
+(_( The_DT strongman_NN ._SENT )_) 
+GWEN_NP :_: But_CC I_PP do_VVP love_VV his_PP$ leotard_NN ._SENT 
+(_( Finally_RB ,_, a_DT group_NN waving_VVG at_IN the_DT camera_NN ._SENT )_) 
+JACK_NN :_: The_DT Night_NP Travellers_NP ._SENT 
+TOSH_NN :_: The_DT what_WP ?_SENT 
+JACK_NN :_: Tosh_NP ,_, play_VVP that_IN/that back_RB ._SENT So_RB ,_, they_PP did_VVD exist_VV ._SENT 
+TOSH_NN :_: Did_VVD you_PP work_VVP with_IN these_DT people_NNS ?_SENT 
+JACK_NN :_: I_PP did_VVD n't_RB work_VV with_IN them_PP ._SENT I_PP never_RB knew_VVD anyone_NN who_WP did_VVD ._SENT They_PP only_RB 
+performed_VVN in_IN the_DT dead_NN of_IN night_NN ._SENT 
+Anyway_RB ,_, it_PP was_VBD just_RB a_DT tale_NN that_WDT was_VBD around_RB at_IN that_DT time_NN ._SENT A_DT ghost_NN story_NN ._SENT 
+They_PP came_VVD from_IN out_RB of_IN the_DT rain_NN ._SENT 
+That_DT 's_VBZ how_WRB people_NNS described_VVD them_PP ._SENT 
+[_SYM Hub_NP ]_SYM 
+
+OWEN_NP :_: Jack_NP ,_, what_WP did_VVD these_DT Night_NP Travellers_NNS do_VVP ?_SENT 
+JACK_NN :_: Left_VVD a_DT trail_NN of_IN damage_NN and_CC sorrow_NN wherever_WRB they_PP performed_VVD ._SENT 
+[_SYM Jack_NP 's_POS office_NN ]_SYM 
+
+IANTO_NP :_: Tosh_NP ,_, can_MD you_PP run_VV this_DT frame_NN by_IN frame_NN ?_SENT 
+TOSH_NN :_: Er_UH ,_, sure_JJ ._SENT What_WP are_VBP you_PP looking_VVG for_IN ?_SENT 
+IANTO_NN :_: I_PP 'm_VBP not_RB sure_JJ ._SENT Something_NN 's_VBZ wrong_JJ ._SENT Something_NN 's_VBZ missing_VVG ._SENT 
+
+[_SYM Hub_NP ]_SYM 
+
+GWEN_NP :_: This_DT must_MD be_VB years_NNS back_RB now_RB ,_, yeah_RB ?_SENT 
+JACK_NN :_: Eighty_CD odd_JJ years_NNS ._SENT Then_RB the_DT travelling_VVG shows_NNS faded_VVN away_RB ._SENT No_RB one_CD 
+came_VVD to_TO watch_VV them_PP and_CC without_IN an_DT audience_NN they_PP died_VVD out_RP ._SENT 
+Forgotten_VVN ._SENT Until_IN all_DT we_PP have_VHP to_TO remember_VV them_PP by_IN were_VBD these_DT film_NN clips_NNS ._SENT 
+
+IANTO_NN [_SYM OC_NP ]_SYM :_: Jack_NN !_SENT 
+[_SYM Jack_NP 's_POS office_NN ]_SYM 
+
+IANTO_NN :_: This_DT film_NN ,_, it_PP 's_VBZ not_RB the_DT same_JJ one_CD we_PP saw_VVD at_IN 
+the_DT cinema_NN ._SENT 
+GWEN_NP :_: Of_IN course_NN it_PP 's_VBZ the_DT same_JJ one_CD ._SENT 
+IANTO_NP :_: No_UH ,_, things_NNS are_VBP different_JJ ._SENT Tosh_NP ?_SENT 
+(_( They_PP play_VVP the_DT film_NN again_RB ._SENT )_) 
+IANTO_NN :_: Easy_JJ to_TO miss_VV at_IN first_JJ ,_, but_CC after_IN watching_VVG it_PP a_DT few_JJ times_NNS I_PP 
+realised_VVD ._SENT Just_RB there_RB ._SENT There_EX was_VBD a_DT woman_NN in_IN front_NN of_IN that_DT water_NN tank_NN ._SENT 
+GWEN_NP :_: Yeah_UH ,_, there_EX was_VBD ,_, Ianto_NP ,_, you_PP 're_VBP right_JJ ._SENT 
+OWEN_NN :_: That_WDT 's_VBZ right_JJ ,_, I_PP remember_VVP her_PP ._SENT Wearing_VVG almost_RB nothing_NN ._SENT 
+GWEN_NP :_: And_CC there_EX was_VBD a_DT man_NN in_IN like_IN a_DT top_JJ hat_NN ,_, a_DT sort_NN of_IN MC_NP ._SENT 
+IANTO_NP :_: Yeah_UH ._SENT 
+OWEN_NN :_: That_WDT 's_VBZ right_JJ ._SENT He_PP was_VBD reaching_VVG down_RP to_TO the_DT audience_NN ._SENT 
+GWEN_NP :_: Are_VBP you_PP sure_JJ we_PP 've_VHP brought_VVN the_DT right_JJ can_NN of_IN film_NN back_RB ?_SENT 
+JACK_NN :_: Positive_JJ ._SENT 
+TOSH_NN :_: So_RB what_WP are_VBP we_PP saying_VVG ?_SENT That_DT two_CD people_NNS from_IN a_DT piece_NN of_IN film_NN have_VHP 
+decided_VVN to_TO go_VV AWOL_JJ ?_SENT 
+JACK_NN :_: Yeah_UH ._SENT Like_IN you_PP said_VVD ,_, trapped_VVN in_IN film_NN forever_RB ._SENT When_WRB they_PP opened_VVD 
+the_DT cinema_NN ,_, it_PP gave_VVD them_PP a_DT chance_NN ._SENT 
+When_WRB that_DT kid_NN ran_VVD the_DT film_NN ,_, he_PP let_VVP them_PP loose_JJ ._SENT 
+IANTO_NN :_: So_RB ,_, so_RB they_PP 've_VHP become_VVN physical_JJ ._SENT They_PP 've_VHP escaped_VVN the_DT film_NN ?_SENT 
+JACK_NN :_: We_PP need_VVP to_TO find_VV out_RP more_JJR about_IN the_DT havoc_NN they_PP 've_VHP caused_VVN in_IN the_DT 
+past_JJ ._SENT We_PP need_VVP evidence_NN ._SENT Possible_JJ witnesses_NNS ._SENT 
+OWEN_NN :_: After_IN all_PDT that_DT time_NN it_PP 'll_MD be_VB tricky_JJ ._SENT What_WP ,_, town_NN and_CC parish_NN 
+records_NNS ?_SENT 
+GWEN_NN :_: Sure_RB ,_, we_PP can_MD do_VV that_DT ._SENT How_WRB far_RB back_RB do_VVP you_PP want_VVP us_PP to_TO go_VV ?_SENT 
+JACK_NN :_: As_RB far_RB as_IN you_PP can_MD ._SENT We_PP do_VVP n't_RB sleep_VV till_IN we_PP find_VVP them_PP ._SENT Toshiko_NP ,_, 
+keep_VV checking_NN for_IN sightings_NNS ._SENT 
+There_EX 's_VBZ got_VVN to_TO be_VB some_DT way_NN of_IN tracing_VVG them_PP ._SENT Ianto_NP ,_, with_IN me_PP ,_, I_PP need_VVP your_PP$ 
+local_JJ knowledge_NN ._SENT 
+GWEN_NP :_: Oh_UH ,_, is_VBZ that_IN/that what_WP you_PP 're_VBP calling_VVG it_PP these_DT days_NNS ?_SENT 
+
+[_SYM Conference_NP room_NN ]_SYM 
+
+IANTO_NN :_: So_RB ,_, two_CD people_NNS who_WP should_MD have_VH been_VBN dead_JJ for_IN 
+years_NNS ._SENT What_WP kind_NN of_IN creatures_NNS are_VBP they_PP ?_SENT 
+JACK_NN :_: No_DT one_CD ever_RB knew_VVD the_DT Night_NP Travellers_NP were_VBD coming_VVG ._SENT They_PP 'd_MD just_RB 
+appear_VV from_IN nowhere_RB ._SENT 
+Not_RB like_IN the_DT team_NN I_PP was_VBD with_IN ._SENT We_PP 'd_MD send_VV out_RP flyers_NNS ,_, bang_NN drums_NNS ,_, blow_NN 
+whistles_NNS ._SENT Ours_PP was_VBD a_DT small_JJ company_NN ._SENT Working_VVG the_DT UK_NP ,_, trying_VVG to_TO find_VV 
+paying_VVG customers_NNS ._SENT I_PP was_VBD sent_VVN to_TO investigate_VV rumours_NNS of_IN the_DT Night_NP 
+Travellers_NNS ._SENT 
+IANTO_NN :_: By_IN who_WP ?_SENT 
+JACK_NN :_: Long_JJ story_NN ._SENT So_RB I_PP joined_VVD a_DT travelling_VVG show_NN ._SENT I_PP was_VBD billed_VVN as_IN the_DT 
+man_NN who_WP could_MD n't_RB die_VV ._SENT The_DT Night_NP Travellers_NP always_RB found_VVD an_DT audience_NN ._SENT 
+They_PP knew_VVD where_WRB to_TO look_VV ._SENT 
+
+[_SYM The_DT Joshua_NP Joy_NP Travelling_NP Show_NP -_: past_JJ 
+times_NNS ]_SYM 
+
+GHOSTMAKER_NN :_: Step_VV along_RP now_RB ,_, ladies_NNS and_CC gentlemen_NNS ,_, 
+come_VV and_CC see_VV the_DT show_NN of_IN a_DT lifetime_NN !_SENT 
+Fill_VV your_PP$ eyes_NNS with_IN the_DT spectacle_NN of_IN the_DT tattooed_VVN man_NN ._SENT Witness_VV for_IN 
+yourself_PP the_DT superhuman_JJ strength_NN of_IN the_DT Mighty_NP Stromboli_NP ._SENT He_PP can_MD take_VV 
+on_IN Samson_NP ,_, Goliath_NN and_CC Hercules_NNS with_IN one_CD arm_NN tied_VVN behind_IN his_PP$ back_NN ,_, and_NP 
+still_RB have_VHP strength_NN to_TO dig_VV their_PP$ graves_NNS ._SENT 
+Come_VVN along_IN now_RB ,_, ladies_NNS and_CC gentlemen_NNS ,_, the_DT night_NN wo_MD n't_RB wait_VV forever_RB ._SENT 
+Come_VV and_CC see_VV the_DT amazing_JJ Pearl_NP ._SENT She_PP lives_VVZ in_IN water_NN ._SENT She_PP sleeps_VVZ among_IN 
+the_DT waves_NNS ._SENT She_PP can_MD reach_VV the_DT bottom_NN of_IN the_DT oceans_NNS ._SENT 
+She_PP has_VHZ swum_VVN the_DT seven_CD seas_NNS ._SENT She_PP is_VBZ the_DT nearest_JJS thing_NN that_IN/that you_PP will_MD 
+ever_RB see_VV to_TO a_DT living_VVG mermaid_NN ._SENT She_PP will_MD take_VV your_PP$ breath_NN away_RB ._SENT 
+
+[_SYM Conference_NP room_NN ]_SYM 
+
+JACK_NN :_: How_WRB many_JJ other_JJ old_JJ cinemas_NNS are_VBP there_RB in_IN 
+Cardiff_NP ?_SENT 
+IANTO_NP :_: Most_JJS of_IN them_PP have_VHP been_VBN pulled_VVN down_RP ._SENT 
+JACK_NN :_: And_CC the_DT ones_NNS that_WDT are_VBP left_VVN ?_SENT 
+IANTO_NP :_: Converted_VVN ._SENT This_DT one_CD is_VBZ a_DT pub_NN ._SENT 
+(_( The_DT Plaza_NP Picture_NP House_NP ._SENT )_) 
+IANTO_NP :_: Four_CD pint_NN jugs_NNS for_IN a_DT fiver_NN and_CC girls_NNS in_IN free_JJ before_IN eleven_NN ._SENT 
+
+[_SYM Hub_NP ]_SYM 
+
+TOSH_NN :_: I_PP 'm_VBP registering_VVG the_DT sea_NN ._SENT 
+GWEN_NP :_: The_DT sea_NN ?_SENT Inland_NP ?_SENT 
+TOSH_NN :_: Running_VVG through_IN the_DT centre_NN of_IN town_NN ._SENT 
+
+[_SYM Road_NP ]_SYM 
+
+(_( A_DT man_NN driving_VVG his_PP$ family_NN in_IN a_DT car_NN sees_VVZ two_CD figures_NNS 
+in_IN the_DT road_NN and_CC stops_VVZ suddenly_RB ._SENT )_) 
+WOMAN_NN :_: What_WP is_VBZ it_PP ?_SENT 
+MAN_NN :_: I_PP thought_VVD ,_, I_PP thought_VVD I_PP saw_VVD something_NN ._SENT 
+WOMAN_NN :_: Saw_VVD what_WP ?_SENT 
+MAN_NN :_: Ghosts_NNS ._SENT 
+WOMAN_NN :_: Do_VVP n't_RB be_VB stupid_JJ ._SENT 
+(_( The_DT Ghostmaker_NP is_VBZ at_IN her_PP$ window_NN ._SENT She_PP screams_VVZ ._SENT )_) 
+
+[_SYM Conference_NP room_NN ]_SYM 
+
+IANTO_NN :_: So_RB the_DT Electro_NP is_VBZ the_DT only_JJ one_CD left_VVD ._SENT 
+JACK_NN :_: Could_MD the_DT Night_NP Travellers_NP have_VHP performed_VVN there_RB ?_SENT 
+IANTO_NN :_: Possibly_RB ._SENT 
+JACK_NN :_: If_IN cinema_NN killed_VVD the_DT travelling_VVG show_NN ,_, maybe_RB this_DT is_VBZ their_PP$ way_NN of_IN 
+fighting_VVG back_RB ._SENT Their_PP$ only_JJ chance_NN to_TO escape_VV before_IN every_DT old_JJ movie_NN 
+theatre_NN and_CC piece_NN of_IN film_NN has_VHZ gone_VVN ._SENT What_WP better_JJR way_NN to_TO get_VV revenge_NN ?_SENT 
+IANTO_NN :_: They_PP were_VBD left_RB forgotten_VVN ,_, on_IN pieces_NNS of_IN film_NN ._SENT 
+JACK_NN :_: And_CC now_RB they_PP 're_VBP looking_VVG for_IN a_DT new_JJ audience_NN ._SENT 
+
+[_SYM Hub_NP ]_SYM 
+
+JACK_NN :_: What_WP is_VBZ it_PP ,_, Tosh_NP ?_SENT 
+GWEN_NN :_: She_PP was_VBD picking_VVG up_RP the_DT sea_NN ._SENT 
+OWEN_NN :_: In_IN the_DT middle_NN of_IN town_NN ._SENT 
+TOSH_NN :_: It_PP 's_VBZ gone_VVN now_RB ._SENT I_PP was_VBD getting_VVG the_DT sound_NN of_IN waves_NNS ,_, seagulls_NNS ._SENT I_PP 
+could_MD almost_RB smell_VV the_DT ozone_NN ._SENT 
+JACK_NN :_: No_DT other_JJ sightings_NNS ?_SENT 
+TOSH_NN :_: No._NN 
+JACK_NN :_: What_WP the_DT hell_NN are_VBP they_PP up_RP to_TO ?_SENT 
+
+[_SYM Lido_NP ]_SYM 
+
+(_( Pearl_NP washes_VVZ herself_PP in_IN collected_VVN rainwater_NN ._SENT 
+Candles_NNS are_VBP lit_VVN all_RB around_IN the_DT empty_JJ open_JJ air_NN pool_NN ._SENT )_) 
+PEARL_NN :_: I_PP like_VVP the_DT lights_NNS ._SENT They_PP make_VVP the_DT rain_NN glisten_NN ._SENT And_CC they_PP 're_VBP part_NN 
+of_IN us_PP ._SENT 
+(_( The_DT Ghostmaker_NP listens_VVZ to_TO his_PP$ silver_NN flask_NN ._SENT )_) 
+PEARL_NN :_: Smell_VVP the_DT water_NN ._SENT Taste_VV it_PP ._SENT 
+(_( She_PP reaches_VVZ for_IN the_DT flask_NN ._SENT )_) 
+GHOSTMAKER_NN :_: Careful_JJ ._SENT 
+PEARL_NN :_: How_WRB many_JJ now_RB ?_SENT 
+GHOSTMAKER_NN :_: Six_CD ._SENT 
+PEARL_NN :_: I_PP wish_VVP I_PP could_MD see_VV the_DT air_NN they_PP once_RB breathed_VVD ._SENT 
+GHOSTMAKER_NN :_: You_PP know_VVP you_PP can_MD never_RB see_VV it_PP ._SENT We_PP could_MD never_RB see_VV it_PP ._SENT 
+PEARL_NN :_: We_PP have_VHP their_PP$ ghosts_NNS here_RB ._SENT I_PP can_MD see_VV them_PP whenever_WRB I_PP want_VVP ._SENT Our_PP$ 
+audience_NN ._SENT They_PP 'll_MD never_RB leave_VV us_PP ._SENT 
+GHOSTMAKER_NN :_: You_PP ca_MD n't_RB see_VV ,_, but_CC we_PP can_MD hear_VV ._SENT Listen_VV ._SENT 
+PEARL_NN :_: I_PP can_MD !_SENT I_PP can_MD hear_VV them_PP ._SENT Little_JJ last_JJ breaths_NNS ,_, still_RB sighing_VVG their_PP$ 
+sighs_NNS ._SENT Can_MD we_PP bring_VV the_DT others_NNS ?_SENT Make_VV ghosts_NNS forever_RB ?_SENT The_DT others_NNS 
+should_MD n't_RB be_VB in_IN some_DT old_JJ dark_JJ cupboard_NN ._SENT They_PP should_MD be_VB here_RB with_IN us_PP ._SENT 
+And_CC I_PP want_VVP to_TO travel_VV again_RB ._SENT Perform_VV ._SENT 
+GHOSTMAKER_NN :_: All_DT right_NN ._SENT But_CC first_RB we_PP need_VVP the_DT rest_NN of_IN that_DT film_NN ._SENT 
+
+[_SYM Emergency_NP room_NN ]_SYM 
+
+NURSE_NN 2_CD :_: Found_VVN in_IN a_DT car_NN with_IN their_PP$ parents_NNS ,_, near_RB 
+Hope_NP Street_NP ._SENT 
+(_( The_DT children_NNS ._SENT )_) 
+JACK_NN :_: Oh_UH ,_, no._NN What_WP happened_VVD to_TO the_DT parents_NNS ?_SENT 
+NURSE_NN :_: They_PP 're_VBP in_IN the_DT same_JJ cataleptic_JJ state_NN ._SENT 
+JACK_NN :_: They_PP came_VVD from_IN out_RB of_IN the_DT rain_NN ._SENT 
+NURSE_NN 2_CD :_: What_WP did_VVD you_PP say_VVP ?_SENT 
+JACK_NN :_: Nothing_NN ._SENT Why_WRB ?_SENT 
+NURSE_NN 2_CD :_: Those_DT words_NNS ,_, from_IN out_RB of_IN the_DT rain_NN ._SENT I_PP 'm_VBP sure_JJ I_PP 've_VHP heard_VVN them_PP 
+before_RB ._SENT Oh_UH ,_, I_PP remember_VVP ,_, It_PP was_VBD Christina_NP ._SENT She_PP was_VBD a_DT patient_NN ._SENT 
+JACK_NN :_: Here_RB ?_SENT 
+NURSE_NN 2_CD :_: No_RB ,_, at_IN Providence_NP Park_NP ,_, it_PP 's_VBZ a_DT psychiatric_JJ hospital_NN ._SENT 
+IANTO_NN :_: I_PP know_VVP it_PP ._SENT 
+NURSE_NN 2_CD :_: I_PP used_VVD to_TO work_VV there_RB ._SENT She_PP was_VBD a_DT full_JJ time_NN patient_NN ,_, been_VBN there_RB 
+since_IN she_PP was_VBD a_DT child_NN ._SENT She_PP was_VBD a_DT strange_JJ one_CD ._SENT Whenever_WRB anything_NN ,_, any_RB 
+kind_NN 
+of_IN entertainment_NN show_NN was_VBD laid_VVN on_IN ,_, she_PP became_VVD scared_RB ._SENT She_PP 'd_MD run_VV away_RB 
+and_CC hide_VV ._SENT 
+JACK_NN :_: Did_VVD she_PP say_VVP why_WRB ?_SENT 
+NURSE_NN 2_CD :_: Yes_UH ._SENT She_PP said_VVD they_PP were_VBD coming_VVG to_TO steal_VV her_PP$ last_JJ breath_NN ._SENT Poor_NP 
+love_NN ._SENT 
+JACK_NN :_: I_PP think_VVP we_PP 've_VHP just_RB found_VVN ourselves_PP our_PP$ first_JJ witness_NN ._SENT 
+
+[_SYM Providence_NP Park_NP ]_SYM 
+
+(_( Ianto_NP is_VBZ pushing_VVG an_DT old_JJ woman_NN in_IN a_DT wheelchair_NN ._SENT )_) 
+CHRISTINA_NN :_: They_PP came_VVD from_IN out_RB of_IN the_DT rain_NN ._SENT At_IN night_NN ._SENT Came_VVD to_TO the_DT 
+village_NN ._SENT 
+IANTO_NP :_: How_WRB old_JJ were_VBD you_PP at_IN the_DT time_NN ?_SENT 
+CHRISTINA_NP :_: Oh_UH ,_, just_RB a_DT child_NN ._SENT Five_CD ,_, I_PP think_VVP ,_, or_CC six_CD ._SENT Are_VBP you_PP visiting_VVG 
+someone_NN ?_SENT 
+JACK_NN :_: Christina_NP ,_, we_PP 've_VHP come_VVN to_TO see_VV you_PP ._SENT 
+CHRISTINA_NN :_: No_DT one_CD comes_VVZ to_TO see_VV me_PP ._SENT Your_PP$ eyes_NNS are_VBP older_JJR than_IN your_PP$ face_NN ._SENT 
+JACK_NN :_: Is_VBZ that_IN/that a_DT bad_JJ thing_NN ?_SENT 
+CHRISTINA_NP :_: Yes_UH ._SENT It_PP means_VVZ you_PP do_VVP n't_RB belong_VV ._SENT It_PP means_VVZ you_PP 're_VBP from_IN 
+nowhere_RB ._SENT 
+JACK_NN :_: Christina_NP ,_, tell_VV us_PP about_IN them_PP ._SENT The_DT people_NNS who_WP came_VVD out_RP of_IN the_DT 
+rain_NN ._SENT 
+CHRISTINA_NP :_: There_EX was_VBD music_NN ._SENT Hurdy_NP gurdy_NN music_NN ._SENT And_CC acrobats_NNS ,_, and_CC a_DT man_NN 
+with_IN fire_NN in_IN his_PP$ hands_NNS ._SENT 
+IANTO_NP :_: Who_WP else_RB was_VBD there_RB ?_SENT 
+CHRISTINA_NN :_: A_DT man_NN in_IN dark_JJ clothes_NNS ,_, and_CC a_DT woman_NN ._SENT A_DT beautiful_JJ young_JJ woman_NN 
+in_IN a_DT silvery_JJ costume_NN ._SENT She_PP seemed_VVD to_TO glisten_VV ._SENT 
+(_( Pearl_NP sneaks_VVZ a_DT look_NN at_IN more_JJR catatonic_JJ people_NNS in_IN a_DT storeroom_NN at_IN the_DT 
+Lido_NN ._SENT )_) 
+CHRISTINA_NN :_: They_PP touched_VVD you_PP ,_, I_PP can_MD sense_VV it_PP ._SENT They_PP touched_VVD you_PP as_IN they_PP 
+passed_VVD you_PP by_IN ._SENT 
+IANTO_NN :_: Tell_VV us_PP about_IN the_DT man_NN ,_, Christina_NP ._SENT 
+CHRISTINA_NP :_: Oh_UH ._SENT Oh_UH ,_, he_PP spoke_VVD to_TO me_PP ._SENT He_PP asked_VVD if_IN I_PP would_MD like_VV to_TO join_VV the_DT 
+travelling_VVG show_NN ._SENT He_PP took_VVD a_DT kind_NN of_IN flask_NN out_RP of_IN his_PP$ pocket_NN ._SENT 
+It_PP was_VBD polished_VVN like_IN silver_NN ._SENT I_PP asked_VVD him_PP his_PP$ name_NN ._SENT Oh_UH ,_, I_PP shall_MD never_RB 
+forget_VV it_PP ._SENT I_PP never_RB shall_MD ._SENT He_PP said_VVD he_PP was_VBD the_DT Ghostmaker_NP ._SENT 
+He_PP wanted_VVD to_TO take_VV my_PP$ breath_NN and_CC put_VV it_PP in_IN his_PP$ flask_NN ._SENT He_PP said_VVD I_PP could_MD 
+travel_NN with_IN his_PP$ circus_NN ._SENT I_PP would_MD be_VB in_IN his_PP$ audience_NN forever_RB ._SENT 
+I_PP turned_VVD and_CC ran_VVD away_RB as_RB fast_RB as_IN I_PP could_MD ._SENT People_NNS went_VVD missing_VVG from_IN the_DT 
+village_NN that_DT night_NN ._SENT My_PP$ mother_NN ,_, my_PP$ father_NN ._SENT 
+
+[_SYM Conference_NP room_NN ]_SYM 
+
+GWEN_NN :_: Here_RB we_PP go_VVP ._SENT Church_NP Stretton_NP ,_, 1901._CD People_NNS 
+went_VVD missing_VVG when_WRB a_DT travelling_VVG show_NN visited_VVD the_DT town_NN ._SENT And_CC there_EX was_VBD one_CD 
+earlier_RBR on_RB ,_, 1898._CD A_DT small_JJ village_NN called_VVN Wellsfield_NP ._SENT These_DT 
+disappearances_NNS ,_, there_EX 's_VBZ a_DT lot_NN of_IN old_JJ wives_NNS '_POS tales_NNS attached_VVD to_TO them_PP 
+through_IN the_DT years_NNS ._SENT 
+People_NNS still_RB alive_RB but_RB been_VBN deprived_VVN of_IN breath_NN ._SENT Children_NNS being_VBG told_VVN to_TO 
+hold_VV their_PP$ breath_NN while_IN the_DT travelling_VVG show_NN passes_VVZ by_IN ._SENT 
+OWEN_NP :_: Yeah_UH ,_, this_DT local_JJ paper_NN ,_, did_VVD n't_RB take_VV it_PP seriously_RB ._SENT Er_UH ,_, Hunstanton_NP 
+Chronicle_NP ,_, March_NP 1911._CD Police_NNS and_CC doctors_NNS were_VBD left_RB amused_VVN and_CC baffled_VVN 
+when_WRB 
+Mister_NP Alfred_NP Mace_NP insisted_VVD that_IN/that his_PP$ dead_JJ wife_NN could_MD be_VB brought_VVN back_RB to_TO 
+life_NN providing_VVG a_DT certain_JJ flask_NN could_MD be_VB found_VVN ._SENT He_PP reckoned_VVD that_IN/that his_PP$ 
+wife_NN 's_POS last_JJ breath_NN had_VHD been_VBN put_VVN in_IN a_DT flask_NN ._SENT 
+JACK_NN :_: A_DT silver_JJ flask_NN ._SENT 
+IANTO_NN :_: And_CC the_DT last_JJ breath_NN of_IN each_DT victim_NN ._SENT 
+JACK_NN :_: So_RB that_DT 's_VBZ how_WRB he_PP makes_VVZ his_PP$ ghosts_NNS ._SENT 
+GWEN_NN :_: So_RB if_IN we_PP find_VVP the_DT flask_NN 
+JACK_NN :_: We_PP can_MD save_VV them_PP ._SENT 
+
+[_SYM Attic_JJ ]_SYM 
+
+(_( Jonathan_NP discovers_VVZ his_PP$ '_POS front_JJ door_NN '_'' is_VBZ open_JJ and_CC 
+the_DT place_NN looks_VVZ trashed_VVN ._SENT Water_NP is_VBZ spilling_VVG out_RP of_IN his_PP$ free-standing_JJ old_JJ 
+bathtub_NN ._SENT Pearl_NP is_VBZ in_IN it_PP ._SENT She_PP reaches_VVZ for_IN Jonathan_NP and_CC he_PP runs_VVZ out_RP ._SENT )_) 
+GHOSTMAKER_NN :_: Now_RB we_PP have_VHP the_DT film_NN ._SENT Time_NN to_TO bring_VV the_DT others_NNS ._SENT 
+(_( In_IN the_DT open_JJ air_NN ,_, Jonathan_NP makes_VVZ a_DT phone_NN call_NN ._SENT )_) 
+JONATHAN_NN [_SYM OC_NP ]_SYM :_: Jack_NP ,_, this_DT is_VBZ Jonathan_NP ._SENT They_PP 're_VBP here_RB ,_, they_PP 're_VBP at_IN my_PP$ 
+flat_JJ ._SENT You_PP 've_VHP got_VVN to_TO get_VV over_RP here_RB now_RB !_SENT 
+(_( Jack_NP and_CC Ianto_NP accompany_VVP Jonathan_NP back_RB to_TO his_PP$ place_NN ._SENT )_) 
+JACK_NN :_: Who_WP 's_VBZ in_IN there_RB ?_SENT A_DT woman_NN ,_, lying_VVG under_IN water_NN ._SENT I_PP thought_VVD she_PP 'd_MD 
+drowned_VVN ._SENT 
+IANTO_NN :_: Anyone_NN else_RB ?_SENT 
+JONATHAN_NP :_: No._NN Be_VB careful_JJ ._SENT 
+(_( Pearl_NP and_CC the_DT Ghostmaker_NP are_VBP gone_VVN ._SENT )_) 
+
+[_SYM Foyer_NP ]_SYM 
+
+DAVE_NP :_: Did_VVD Bernard_NP say_VVP he_PP was_VBD coming_VVG here_RB today_NN ?_SENT 
+FAITH_NN :_: No._NN 
+(_( Piano_NN music_NN is_VBZ coming_VVG from_IN the_DT auditorium_NN ._SENT )_) 
+
+[_SYM Auditorium_NP ]_SYM 
+
+(_( The_DT piano_NN is_VBZ playing_VVG without_IN a_DT pianist_NN ._SENT )_) 
+FAITH_NN :_: David_NP ._SENT 
+(_( Pearl_NP has_VHZ an_DT usherette_NN 's_POS torch_NN ._SENT )_) 
+PEARL_NN :_: This_DT way_NN ,_, please_UH ._SENT 
+
+[_SYM Attic_JJ ]_SYM 
+
+IANTO_NN :_: So_RB they_PP have_VHP n't_RB left_VVN the_DT area_NN ._SENT 
+JACK_NN :_: They_PP probably_RB ca_MD n't_RB ._SENT Probably_RB need_VVP to_TO be_VB near_IN the_DT Electro_NP ._SENT 
+JONATHAN_NN :_: All_PDT my_PP$ old_JJ film_NN cans_NNS have_VHP been_VBN opened_VVN ._SENT 
+JACK_NN :_: What_WP was_VBD on_IN them_PP ?_SENT 
+JONATHAN_NN :_: Clips_NNS from_IN circus_NN sideshows_NNS ._SENT 
+IANTO_NN :_: They_PP 're_VBP bringing_VVG more_RBR through_RB ._SENT 
+JACK_NN :_: Then_RB we_PP need_VVP to_TO stop_VV them_PP ._SENT Gwen_NP ,_, Owen_NP ._SENT Meet_VV us_PP at_IN the_DT Electro_NP ._SENT 
+JONATHAN_NN :_: Look_VV ,_, what_WP 's_VBZ going_VVG on_RP ?_SENT I_PP 've_VHP got_VVN to_TO find_VV my_PP$ Mum_NP and_CC Dad_NP ._SENT If_IN 
+anything_NN 's_VBZ happened_VVN to_TO them_PP ._SENT Hey_UH ,_, there_EX 's_VBZ that_DT smell_NN again_RB ._SENT Like_JJ 
+chemicals_NNS ._SENT 
+IANTO_NP :_: Yeah_UH ,_, I_PP can_MD smell_VV it_PP ._SENT Like_IN when_WRB you_PP develop_VVP a_DT film_NN ._SENT 
+JONATHAN_NP :_: That_DT woman_NN ,_, she_PP grabbed_VVD me_PP ._SENT But_CC her_PP$ hand_NN ,_, it_PP was_VBD different_JJ ._SENT 
+It_PP was_VBD n't_RB like_IN a_DT hand_NN ._SENT It_PP was_VBD n't_RB like_IN flesh_NN ._SENT 
+It_PP was_VBD like_IN touching_VVG a_DT piece_NN of_IN plastic_NN ,_, a_DT piece_NN of_IN celluloid_NN ._SENT 
+JACK_NN :_: They_PP were_VBD on_IN this_DT film_NN for_IN eighty_CD years_NNS ._SENT Became_VVD part_NN of_IN it_PP ._SENT What_WP 
+if_IN we_PP filmed_VVD them_PP ?_SENT 
+IANTO_NN :_: A_DT film_NN of_IN a_DT film_NN ?_SENT 
+JACK_NN :_: Yeah_UH ._SENT Then_RB they_PP 'd_MD be_VB trapped_VVN ._SENT 
+(_( He_PP holds_VVZ up_RP an_DT old_JJ film_NN cine_NN camera_NN ._SENT )_) 
+JACK_NN :_: Is_VBZ this_DT thing_NN loaded_VVD ?_SENT 
+[_SYM Warehouse_NP ]_SYM 
+
+(_( Leaving_VVG Jonathan_NP 's_POS strange_JJ little_JJ attic_NN flat_JJ ._SENT )_) 
+JACK_NN :_: If_IN they_PP were_VBD trapped_VVN on_IN film_NN before_RB 
+IANTO_NN :_: They_PP can_MD be_VB got_VVN rid_VVN of_IN in_IN the_DT same_JJ way_NN ._SENT 
+JACK_NN :_: Okay_JJ ,_, let_VV 's_VBZ suppose_VV they_PP 're_VBP made_VVN of_IN camphor_NN and_CC nitrate_NN ,_, made_VVN of_IN 
+shadows_NNS ,_, made_VVN of_IN light_NN ._SENT Just_RB enough_RB light_JJ ._SENT 
+IANTO_NN :_: We_PP film_VVP them_PP ._SENT Capture_VV them_PP in_IN that_DT 
+JACK_NN :_: Then_RB expose_VV the_DT film_NN to_TO as_RB much_JJ light_NN as_IN possible_JJ ._SENT 
+IANTO_NN :_: Of_IN course_NN ._SENT We_PP 'd_MD blank_VV them_PP out_RP ._SENT We_PP 'd_MD lose_VV them_PP ._SENT 
+JACK_NN :_: Let_VV 's_VBZ hope_VV so_RB ._SENT 
+GWEN_NN [_SYM OC_NP ]_SYM :_: Jack_NN ?_SENT 
+JACK_NN :_: Yeah_UH ?_SENT 
+GWEN_NN [_SYM OC_NP ]_SYM :_: We_PP 're_VBP at_IN the_DT Electro_NP ._SENT Something_NN 's_VBZ happening_VVG inside_RB ._SENT 
+JACK_NN :_: Let_VV 's_VBZ go_VV ._SENT 
+
+[_SYM Outside_IN the_DT Electro_NN ]_SYM 
+
+(_( The_DT doors_NNS are_VBP locked_VVN ._SENT )_) 
+GWEN_NP :_: Come_VVN on_RP ._SENT 
+(_( They_PP can_MD just_RB hear_VV the_DT piano_NN as_IN the_DT men_NNS arrive_VVP ._SENT )_) 
+GWEN_NP :_: Do_VVP you_PP hear_VVP that_RB ?_SENT 
+JONATHAN_NN :_: Maybe_RB it_PP 's_VBZ my_PP$ mam_NN and_CC dad_NN ._SENT 
+GWEN_NP :_: Would_MD they_PP lock_VV themselves_PP in_RP ?_SENT 
+JONATHAN_NP :_: No._NN 
+(_( He_PP has_VHZ a_DT set_NN of_IN keys_NNS ._SENT )_) 
+JONATHAN_NP :_: Please_UH let_VV them_PP be_VB okay_JJ ,_, please_VV ._SENT 
+
+[_SYM Foyer_NP ]_SYM 
+
+JONATHAN_NP :_: Mam_NN ?_SENT Dad_NP ?_SENT 
+OWEN_NN :_: Take_VV it_PP easy_JJ ._SENT 
+
+[_SYM Auditorium_NP ]_SYM 
+
+(_( Dave_NP and_CC Faith_NP are_VBP sitting_VVG staring_VVG at_IN the_DT screen_NN ,_, 
+deprived_VVN of_IN their_PP$ last_JJ breaths_NNS ._SENT )_) 
+JONATHAN_NP :_: What_WP 's_VBZ going_VVG on_RP ?_SENT Mum_JJ ?_SENT 
+GWEN_NP :_: No_UH ,_, Jonathan_NP ._SENT 
+JONATHAN_NP :_: Mam_NN !_SENT Dad_NP !_SENT What_WP 's_VBZ happened_VVN ?_SENT Please_UH ._SENT Do_VVP n't_RB die_VV ,_, please_UH ._SENT Speak_VV 
+to_TO me_PP ._SENT No_UH ,_, leave_VV me_PP alone_RB ._SENT 
+IANTO_NN :_: They_PP 've_VHP been_VBN frozen_VVN in_IN place_NN ._SENT A_DT circus_NN needs_VVZ an_DT audience_NN ._SENT 
+(_( Circus_NP music_NN plays_NNS and_CC the_DT curtains_NNS open_VVP ._SENT )_) 
+JACK_NN :_: Get_VV him_PP out_RP of_IN here_RB ._SENT 
+GWEN_NP :_: Jonathan_NP ,_, come_VVN on_IN ._SENT 
+JONATHAN_NN :_: Leave_VV me_PP alone_RB ._SENT 
+OWEN_NP :_: Jonathan_NP ._SENT 
+(_( They_PP drag_VVP him_PP out_RP ._SENT )_) 
+JACK_NN :_: Owen_NP ,_, find_VV out_RP who_WP 's_VBZ upstairs_JJ ._SENT 
+IANTO_NN :_: The_DT same_JJ pictures_NNS as_IN before_RB ._SENT 
+(_( The_DT Great_NP Stromboli_NP steps_VVZ out_RP of_IN the_DT screen_NN ._SENT )_) 
+IANTO_NP :_: Jack_NP ._SENT 
+(_( Jack_NP starts_VVZ filming_VVG as_IN Pearl_NP goes_VVZ to_TO meet_VV him_PP ._SENT )_) 
+IANTO_NN :_: They_PP 're_VBP coming_VVG through_RP ._SENT 
+(_( The_DT fire_NN jugglers_NNS are_VBP next_JJ ._SENT Then_RB clowns_NNS and_CC the_DT tattooed_VVN man_NN ._SENT )_) 
+
+[_SYM Outside_IN the_DT Projection_JJ room_NN ]_SYM 
+
+(_( The_DT door_NN is_VBZ locked_VVN ._SENT )_) 
+OWEN_NN :_: Open_VV up_RP !_SENT 
+
+[_SYM Auditorium_NP ]_SYM 
+
+PEARL_NN :_: We_PP 've_VHP done_VVN it_PP ._SENT We_PP 're_VBP together_RB again_RB ._SENT This_DT 
+place_NN is_VBZ ours_JJ ._SENT It_PP belongs_VVZ to_TO us_PP ._SENT This_DT whole_JJ city_NN belongs_VVZ to_TO us_PP !_SENT 
+(_( She_PP sees_VVZ Ianto_NP and_CC Jack_NP leaving_VVG ,_, still_RB filming_VVG ._SENT )_) 
+
+[_SYM Outside_IN the_DT Projection_JJ room_NN ]_SYM 
+
+(_( The_DT Ghostmaker_NP unlocks_VVZ the_DT door_NN and_CC comes_VVZ out_RP ._SENT )_) 
+GHOSTMAKER_NP :_: What_WP are_VBP you_PP ?_SENT There_EX 's_VBZ not_RB a_DT breath_NN in_IN your_PP$ poor_JJ ,_, sad_JJ body_NN ._SENT 
+You_PP 're_VBP no_DT use_NN to_TO me_PP ._SENT 
+
+[_SYM Foyer_NP ]_SYM 
+
+(_( The_DT Ghostmaker_NP comes_VVZ down_RP the_DT stairs_NNS ._SENT )_) 
+IANTO_NN :_: The_DT flask_NN ,_, he_PP 's_VHZ got_VVN it_PP !_SENT 
+(_( Gwen_NP runs_VVZ at_IN the_DT Ghostmaker_NP and_CC he_PP grabs_VVZ for_IN her_PP ,_, to_TO take_VV her_PP$ breath_NN ._SENT 
+Ianto_NP 
+snatches_VVZ the_DT flask_NN from_IN his_PP$ hand_NN ._SENT )_) 
+IANTO_NN :_: I_PP 've_VHP got_VVN it_PP !_SENT 
+(_( Ianto_NP runs_VVZ outside_JJ ._SENT )_) 
+JACK_NN :_: Gwen_NP ,_, are_VBP you_PP all_DT right_NN ?_SENT 
+GWEN_NP :_: Oh_UH !_SENT Yeah_UH ._SENT 
+JACK_NN :_: Are_VBP you_PP okay_JJ ?_SENT 
+GWEN_NP :_: Yes_UH ._SENT 
+JACK_NN :_: Owen_NP ,_, look_NN after_IN the_DT family_NN ._SENT 
+
+[_SYM Outside_IN the_DT warehouse_NN ]_SYM 
+
+(_( The_DT Ghostmaker_NP catches_VVZ Ianto_NP by_IN the_DT steps_NNS up_RP to_TO 
+Jonathan_NP 's_VBZ flat_JJ ._SENT )_) 
+IANTO_NP :_: Argh_NP !_SENT 
+(_( He_PP gets_VVZ the_DT flask_NN back_RB ._SENT Jack_NP films_VVZ him_PP ._SENT )_) 
+IANTO_NP :_: No_UH !_SENT Please_UH !_SENT 
+(_( The_DT Ghostmaker_NP uncorks_VVZ the_DT flask_NN and_CC throws_VVZ it_PP ._SENT Jack_NP gets_VVZ the_DT film_NN out_RP 
+of_IN the_DT cine_NN camera_NN ._SENT )_) 
+IANTO_NN :_: If_IN their_PP$ breaths_NNS escape_VV the_DT flask_NN ,_, all_PDT the_DT victims_NNS will_MD die_VV ._SENT 
+(_( Jack_NP exposes_VVZ the_DT film_NN ._SENT The_DT Ghostmaker_NP vanishes_VVZ ,_, then_RB the_DT recent_JJ 
+arrivals_NNS and_CC finally_RB Pearl_NP ,_, screaming_VVG ._SENT )_) 
+JACK_NN :_: Quick_JJ ,_, we_PP could_MD lose_VV them_PP forever_RB ._SENT 
+(_( Ianto_NP catches_VVZ the_DT flask_NN and_CC covers_VVZ the_DT top_NN ,_, but_CC some_DT breaths_NNS have_VHP 
+escaped_VVD ._SENT The_DT people_NNS at_IN the_DT Lido_NP disappear_VV ._SENT )_) 
+
+[_SYM Hospital_NP room_NN ]_SYM 
+
+(_( The_DT two_CD women_NNS sit_VVP up_RP and_CC gasp_VV ,_, then_RB fall_VV back_RB ._SENT )_) 
+NURSE_NN :_: They_PP 're_VBP flat_RB lining_VVG ._SENT Call_VV the_DT crash_NN team_NN ._SENT 
+
+[_SYM Outside_IN the_DT warehouse_NN ]_SYM 
+
+IANTO_NP :_: One_CD ._SENT I_PP think_VVP we_PP saved_VVD just_RB one_CD ._SENT I_PP hear_VVP it_PP ,_, 
+Jack_NP ._SENT I_PP heard_VVD it_PP ._SENT Something_NN inside_IN calling_VVG out_RP to_TO me_PP ._SENT 
+(_( Gwen_NP puts_VVZ the_DT stopper_NN back_RB in_IN the_DT flask_NN ._SENT )_) 
+JACK_NN :_: Okay_JJ ._SENT So_RB we_PP 've_VHP managed_VVN to_TO save_VV one_PP ._SENT But_CC which_WDT one_PP ?_SENT 
+
+[_SYM Hospital_NP corridor_NN ]_SYM 
+
+NURSE_NN :_: There_EX was_VBD nothing_NN we_PP could_MD do_VV ._SENT They_PP all_RB died_VVD 
+so_RB suddenly_RB ._SENT Except_IN this_DT poor_JJ little_JJ soul_NN ._SENT 
+[_SYM Emergency_NP room_NN ]_SYM 
+
+(_( The_DT boy_NN from_IN the_DT car_NN ._SENT )_) 
+NURSE_NN :_: I_PP suppose_VVP he_PP 'll_MD be_VB next_JJ to_TO go_VV ._SENT What_WP are_VBP you_PP doing_VVG ?_SENT 
+JACK_NN :_: I_PP need_VVP your_PP$ help_NN ._SENT 
+NURSE_NN :_: What_WP is_VBZ that_DT thing_NN ?_SENT 
+JACK_NN :_: Please_UH ._SENT Just_RB trust_VV me_PP ._SENT Give_VV me_PP a_DT hand_NN ._SENT 
+(_( Jack_NP picks_VVZ up_RP the_DT boy_NN ._SENT )_) 
+NURSE_NN :_: Careful_JJ ._SENT 
+JACK_NN :_: Hold_VV his_PP$ head_NN ._SENT 
+(_( Jack_NP uncorks_VVZ the_DT flask_NN and_CC holds_VVZ it_PP to_TO the_DT boy_NN 's_POS mouth_NN ._SENT )_) 
+NURSE_NN :_: What_WP 's_VBZ in_IN there_RB ?_SENT 
+JACK_NN :_: Something_NN that_WDT belongs_VVZ to_TO him_PP ._SENT His_PP$ last_JJ breath_NN ._SENT His_PP$ life_NN ._SENT 
+(_( After_IN a_DT moment_NN ,_, the_DT breath_NN leaves_VVZ the_DT flask_NN and_CC goes_VVZ into_IN the_DT boy_NN 's_POS 
+mouth_NN ._SENT He_PP gasps_VVZ and_CC coughs_VVZ ._SENT )_) 
+NURSE_NN :_: What_WP have_VHP you_PP done_VVN to_TO him_PP ?_SENT 
+IANTO_NN :_: It_PP worked_VVD ._SENT 
+JACK_NN :_: Welcome_VV back_RB ._SENT 
+
+[_SYM Jack_NP 's_POS office_NN ]_SYM 
+
+(_( Next_JJ day_NN ._SENT )_) 
+JACK_NN :_: Those_DT reels_NNS of_IN film_NN in_IN Jonathan_NP 's_POS workroom_NN ._SENT 
+IANTO_NN :_: I_PP took_VVD them_PP out_RP ,_, destroyed_VVD them_PP ._SENT Let_NP 's_POS hope_NN that_WDT 's_VBZ an_DT end_NN to_TO it_PP ._SENT 
+
+JACK_NN :_: What_WP worries_VVZ me_PP are_VBP all_RB those_DT long_RB lost_VVN pieces_NNS of_IN film_NN tucked_VVD 
+away_RB in_IN dusty_JJ cellars_NNS ,_, hidden_VVN in_IN lofts_NNS ._SENT The_DT Night_NP Travellers_NNS could_MD 
+still_RB be_VB there_RB somewhere_RB ,_, just_RB waiting_VVG ._SENT 
+
+[_SYM Boot_NP fair_NN ]_SYM 
+
+(_( A_DT man_NN picks_VVZ up_RP a_DT can_NN of_IN film_NN with_IN the_DT same_JJ shell_NN 
+pattern_NN on_IN it_PP as_RB is_VBZ on_IN the_DT flask_NN ._SENT )_) 
+BUYER_NN :_: How_WRB much_RB is_VBZ this_DT ?_SENT 
+(_( Jack_NP puts_VVZ the_DT flask_NN in_IN his_PP$ safe_JJ ._SENT The_DT man_NN 's_POS son_NN drops_VVZ the_DT can_NN of_IN film_NN 
+and_CC some_DT of_IN the_DT frames_NNS come_VVP out_RP into_IN the_DT light_NN ._SENT Jack_NP briefly_RB hears_VVZ 
+circus_NN music_NN ._SENT )_) 
+

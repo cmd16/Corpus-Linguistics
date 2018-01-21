@@ -1,0 +1,187 @@
+Transcribed_VVD 
+by_IN Sarah_NP Welch_NP 
+
+(_( Recap_VV of_IN the_DT final_JJ scenes_NNS of_IN 113_CD "_`` The_DT Parting_NN of_IN 
+the_DT Ways_NP "_'' ._SENT )_) 
+
+[_SYM TARDIS_NP ]_SYM 
+
+(_( The_DT new_JJ Doctor_NP dashes_NNS to_TO the_DT console_NN and_CC flicks_VVZ a_DT 
+few_JJ switches_NNS ,_, checking_VVG the_DT monitor_NN ._SENT )_) 
+DOCTOR_NN :_: 6_CD PM_NP ..._: Tuesday_NP ..._: 
+(_( Rose_NP watches_NNS ,_, half_RB concealed_VVN by_IN a_DT pillar_NN ._SENT The_DT Doctor_NP turns_VVZ a_DT knob_NN ._SENT )_) 
+DOCTOR_NN :_: October_NP ..._: 5006_CD ..._: On_IN the_DT way_NN to_TO Barcelona_NP !_SENT 
+(_( Straightens_VVZ up_RB and_CC faces_VVZ Rose_NP ,_, grinning_VVG as_RB if_IN extremely_RB pleased_VVN with_IN 
+himself_PP )_) ._SENT 
+DOCTOR_NN :_: Now_RB then_RB ..._: what_WP do_VVP I_PP look_VVP like_IN ?_SENT 
+(_( Gives_VVZ her_PP no_DT chance_NN to_TO reply_VV before_IN holding_VVG up_RP a_DT hand_NN to_TO silence_VV her_PP$ )_) 
+DOCTOR_NN :_: No_UH ,_, no_UH no_UH ,_, no_UH no_UH no_UH no_UH no_UH no_DT no._JJ No._NN Do_VVP n't_RB tell_VV me_PP ._SENT 
+(_( Rose_NP looks_VVZ completely_RB bemused_JJ ._SENT )_) 
+DOCTOR_NN :_: Let_VV 's_VBZ see_VV ..._: two_CD legs_NNS ,_, two_CD arms_NNS ,_, two_CD hands_NNS ..._: 
+(_( Tests_VVZ his_PP$ wrist_NN ,_, circling_VVG it_PP )_) ._SENT 
+DOCTOR_NN :_: Slight_JJ weakness_NN in_IN the_DT dorsal_JJ tubercle_NN ._SENT 
+(_( Hands_NNS fly_VVP to_TO his_PP$ head_NN )_) ._SENT 
+DOCTOR_NN :_: Hair_NN !_SENT I_PP 'm_VBP not_RB bald_JJ !_SENT 
+(_( Rose_NP now_RB looks_VVZ shocked_JJ ._SENT The_DT Doctor_NP runs_VVZ his_PP$ hands_NNS through_IN his_PP$ hair_NN 
+gleefully_RB ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, Oh_UH !_SENT Big_JJ hair_NN !_SENT 
+(_( Feels_VVZ his_PP$ sideburns_NNS ,_, looks_VVZ and_CC sounds_VVZ delighted_JJ )_) 
+DOCTOR_NN :_: Sideburns_NNS ,_, I_PP 've_VHP got_VVN sideburns_NNS !_SENT Or_CC really_RB bad_JJ skin_NN ._SENT Little_JJ bit_NN 
+thinner_NN ..._: 
+(_( Slaps_VVZ his_PP$ stomach_NN )_) ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ weird_JJ ._SENT Give_VV me_PP time_NN ,_, I_PP 'll_MD get_VV used_VVN to_TO it_PP ._SENT 
+(_( With_IN the_DT air_NN of_IN someone_NN making_VVG a_DT most_RBS wonderful_JJ discovery_NN )_) 
+DOCTOR_NN :_: I_PP ..._: have_VHP got_VVN ..._: a_DT mole_NN ._SENT I_PP can_MD feel_VV it_PP ._SENT 
+(_( Rose_NP is_VBZ breathing_VVG heavily_RB ._SENT She_PP looks_VVZ scared_RB ._SENT The_DT Doctor_NP seems_VVZ not_RB to_TO 
+notice_NN ._SENT )_) 
+DOCTOR_NN :_: Between_IN my_PP$ shoulder_NN blades_NNS ,_, there_EX 's_VBZ a_DT mole_NN ._SENT 
+(_( Rotates_VVZ his_PP$ shoulders_NNS )_) ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ all_DT right_NN ._SENT Love_VV the_DT mole_NN ._SENT 
+(_( Grins_NNS at_IN Rose_NP )_) ._SENT 
+DOCTOR_NN :_: Go_VV on_IN then_RB ,_, tell_VV me_PP ._SENT 
+(_( Stands_VVZ straight_RB up_RB before_IN Rose_NP ,_, ready_JJ for_IN assessment_NN ._SENT His_PP$ hair_NN is_VBZ all_RB 
+ruffled_VVN )_) 
+DOCTOR_NN :_: What_WP do_VVP you_PP think_VVP ?_SENT 
+ROSE_VVD (_( quietly_RB ,_, timidly_RB )_) :_: Who_WP are_VBP you_PP ?_SENT 
+DOCTOR_NN (_( crestfallen_JJ ,_, slightly_RB surprised_VVN )_) :_: I_PP 'm_VBP the_DT Doctor_NP ._SENT 
+ROSE_VVD (_( shakes_VVZ her_PP$ head_NN ,_, not_RB believing_VVG him_PP )_) :_: No_RB ..._: Where_WRB is_VBZ he_PP ?_SENT Where_WRB 's_VBZ 
+the_DT Doctor_NP ?_SENT (_( Voice_VV rising_VVG )_) ._SENT What_WP have_VHP you_PP done_VVN to_TO him_PP ?_SENT 
+DOCTOR_NN :_: You_PP saw_VVD me_PP ,_, I_PP ,_, I_PP changed_VVD ..._: (_( Indicates_NNS over_IN his_PP$ shoulder_NN ,_, the_DT 
+spot_VV where_WRB he_PP regenerated_VVD )_) ..._: right_RB in_IN front_NN of_IN you_PP ._SENT 
+ROSE_NN :_: I_PP saw_VVD him_PP sort_RB of_IN explode_VV ,_, and_CC then_RB you_PP replaced_VVD him_PP ,_, like_IN a_DT ..._: a_DT 
+teleport_NN or_CC a_DT transmat_NN or_CC a_DT body_NN swap_NN or_CC something_NN ._SENT 
+(_( The_DT Doctor_NP does_VVZ not_RB interject_VV ._SENT He_PP seems_VVZ lost_VVN for_IN words_NNS ._SENT Rose_NP takes_VVZ a_DT 
+few_JJ steps_NNS towards_IN him_PP ._SENT At_IN arm’s_NN length_NN ,_, she_PP pushes_VVZ him_PP in_IN the_DT chest_NN ._SENT )_) 
+ROSE_NN :_: You_PP 're_VBP not_RB fooling_VVG me_PP ._SENT 
+(_( The_DT Doctor_NP rocks_NNS back_RB on_IN his_PP$ heels_NNS as_RB though_IN he_PP cannot_MD believe_VV what_WP he_PP 
+is_VBZ hearing_VVG ._SENT )_) 
+ROSE_NN :_: I_PP 've_VHP seen_VVN all_DT sorts_NNS of_IN things_NNS ._SENT Nano_NP genes_NNS ..._: Gelth_NP ..._: (_( Looks_NP 
+darkly_RB at_IN him_PP )_) ._SENT Slitheen_NN ..._: 
+(_( The_DT Doctor_NP raises_VVZ his_PP$ eyebrows_NNS ._SENT )_) 
+ROSE_NN :_: Oh_UH ,_, my_PP$ God_NP ,_, are_VBP you_PP a_DT Slitheen_NP ?_SENT 
+DOCTOR_NN :_: (_( calmly_RB )_) :_: I_PP 'm_VBP not_RB a_DT Slitheen_NP ._SENT 
+ROSE_VVD (_( voice_VV rising_VVG to_TO a_DT shout_NN )_) :_: Send_VV him_PP back_RB ._SENT I_PP 'm_VBP warning_VVG you_PP ;_: send_VV 
+the_DT Doctor_NP back_RB right_RB now_RB !_SENT 
+DOCTOR_NN (_( pleadingly_RB )_) :_: Rose_VVD ,_, it_PP 's_VBZ me_PP ._SENT 
+(_( He_PP leans_VVZ forward_RB in_IN his_PP$ urgency_NN to_TO make_VV her_PP believe_VV him_PP ._SENT )_) 
+DOCTOR_NN :_: Honestly_RB ,_, it_PP 's_VBZ me_PP ._SENT 
+(_( Rose_VVD stares_NNS at_IN him_PP ,_, her_PP$ chest_NN rising_VVG and_CC falling_VVG very_RB fast_RB ._SENT )_) 
+DOCTOR_NN :_: I_PP was_VBD dying_VVG ._SENT To_TO save_VV my_PP$ own_JJ life_NN I_PP changed_VVD my_PP$ body_NN ._SENT Every_DT 
+single_JJ cell_NN ,_, but_CC ..._: it_PP 's_VBZ still_RB me_PP ._SENT 
+ROSE_VVD (_( whispers_NNS )_) :_: You_PP ca_MD n't_RB be_VB ._SENT 
+(_( The_DT Doctor_NP takes_VVZ a_DT few_JJ steps_NNS closer_RBR to_TO her_PP ,_, looking_VVG straight_RB down_RB into_IN 
+her_PP$ eyes_NNS ._SENT )_) 
+DOCTOR_NN :_: Then_RB how_WRB could_MD I_PP remember_VV this_DT ?_SENT Very_RB first_JJ word_NN I_PP ever_RB said_VVD to_TO 
+you_PP ._SENT Trapped_VVN in_IN that_DT cellar_NN ._SENT Surrounded_VVN by_IN shop_NN window_NN dummies_NNS ..._: ._SENT 
+oh_UH ..._: 
+(_( Looks_VVZ away_RB for_IN a_DT moment_NN ,_, reminiscing_VVG ._SENT Then_RB he_PP looks_VVZ back_RB into_IN her_PP 
+eyes_NNS )_) ..._: 
+DOCTOR_NN :_: such_PDT a_DT long_JJ time_NN ago_RB ._SENT I_PP took_VVD your_PP$ hand_NN ..._: 
+(_( To_TO emphasize_VV this_DT point_NN ,_, he_PP takes_VVZ her_PP$ hand_NN ..._: just_RB like_IN he_PP did_VVD when_WRB 
+Rose_NP first_RB asked_VVD who_WP he_PP was_VBD ._SENT Rose_NP glances_VVZ briefly_RB down_RB at_IN their_PP$ joint_JJ 
+hands_NNS and_CC then_RB back_RB up_RB at_IN his_PP$ face_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP said_VVD one_CD word_NN ..._: just_RB one_CD word_NN ,_, I_PP said_VVD ..._: "_`` Run_NP "_'' ._SENT 
+(_( He_PP gazes_VVZ at_IN her_PP ._SENT Rose_NP looks_VVZ into_IN his_PP$ eyes_NNS ,_, her_PP own_VVP full_JJ of_IN tears_NNS ._SENT )_) 
+ROSE_NN :_: (_( whispers_NNS )_) :_: Doctor_NN ._SENT 
+(_( The_DT Doctor_NP grins_NNS ._SENT )_) 
+DOCTOR_NN (_( gently_RB )_) :_: Hello_UH ._SENT 
+(_( Rose_VVD sighs_NNS in_IN an_DT almost_RB exasperated_VVN fashion_NN and_CC stumbles_VVZ backwards_RB as_RB 
+the_DT impact_NN of_IN what_WP has_VHZ just_RB happened_VVN hits_NNS her_PP ._SENT The_DT Doctor_NP takes_VVZ off_RP 
+around_IN the_DT other_JJ side_NN of_IN the_DT console_NN ._SENT )_) 
+DOCTOR_NN :_: And_CC we_PP never_RB stopped_VVD ,_, did_VVD we_PP ?_SENT All_DT across_IN the_DT universe_NN ._SENT Running_RB ,_, 
+running_RB ,_, running_VVG ..._: 
+(_( Flicks_VVZ a_DT few_JJ switches_NNS on_IN the_DT console_NN )_) ._SENT 
+DOCTOR_NN :_: One_CD time_NN we_PP had_VHD to_TO hop_VV ._SENT Do_VV you_PP remember_VV ?_SENT Hopping_VVG for_IN our_PP$ lives_NNS ._SENT 
+
+(_( He_PP hops_VVZ madly_RB up_RB and_CC down_RB on_IN the_DT spot_NN ._SENT Rose_NP has_VHZ her_PP$ back_NN against_IN the_DT 
+pillar_NN and_CC is_VBZ just_RB watching_VVG him_PP ._SENT )_) 
+DOCTOR_NN :_: Yeah_UH ?_SENT All_PDT that_DT hopping_NN ?_SENT Remember_VV hopping_VVG for_IN your_PP$ life_NN ?_SENT Yeah_UH ?_SENT !_SENT 
+Hop_NN ?_SENT With_IN the_DT ..._: 
+(_( The_DT wild_JJ enthusiasm_NN ebbs_VVZ from_IN his_PP$ voice_NN at_IN Rose_NP 's_POS lack_NN of_IN reaction_NN ._SENT 
+His_PP$ hopping_NN subsides_VVZ )_) 
+DOCTOR_NN :_: No_UH ?_SENT 
+ROSE_NN :_: Can_MD you_PP change_VV back_RB ?_SENT 
+DOCTOR_NN :_: Do_VVP you_PP want_VVP me_PP to_TO ?_SENT 
+ROSE_NN :_: Yeah_UH ._SENT 
+DOCTOR_NN :_: Oh_UH ._SENT 
+ROSE_NN :_: Can_MD you_PP ?_SENT 
+DOCTOR_NN :_: No._NN 
+(_( He_PP seems_VVZ rather_RB disappointed_JJ ._SENT He_PP glances_VVZ briefly_RB down_RB at_IN the_DT floor_NN )_) 
+DOCTOR_NN :_: Do_VVP you_PP want_VVP to_TO leave_VV ?_SENT 
+ROSE_VVD (_( shocked_VVN )_) :_: Do_VVP you_PP want_VVP me_PP to_TO leave_VV ?_SENT 
+DOCTOR_NN (_( quickly_RB )_) :_: No_UH !_SENT But_CC ..._: your_PP$ choice_NN ..._: if_IN you_PP want_VVP to_TO go_VV home_NN ..._: 
+(_( Rose_NP still_RB looks_VVZ upset_JJ ._SENT He_PP goes_VVZ to_TO the_DT console_NN again_RB ._SENT )_) 
+DOCTOR_NN :_: Cancel_VV Barcelona_NP ._SENT Change_NN to_TO ..._: London_NP ..._: the_DT Powell_NP Estate_NP ..._: 
+ah_NN ..._: let_VV 's_VBZ say_VV the_DT 24th_JJ of_IN December_NP ._SENT (_( Looks_VVZ at_IN her_PP$ )_) ._SENT Consider_VV it_PP a_DT 
+Christmas_NP present_NN ._SENT 
+(_( Rose_NP is_VBZ edging_VVG slowly_RB closer_RBR the_DT console_NN ._SENT )_) 
+DOCTOR_NN :_: There_RB ._SENT 
+(_( He_PP steps_VVZ back_RB ,_, his_PP$ arms_NNS tucked_VVN under_IN his_PP$ armpits_NNS in_IN an_DT almost_RB 
+defensive_JJ manner_NN ._SENT Rose_NP looks_VVZ at_IN him_PP ,_, then_RB back_RB at_IN the_DT console_NN ._SENT The_DT 
+TARDIS_NP shudders_NNS as_IN it_PP changes_VVZ direction_NN ._SENT )_) 
+ROSE_NN :_: I_PP 'm_VBP going_VVG home_NN ?_SENT 
+DOCTOR_NN :_: Up_RB to_TO you_PP ._SENT Back_RB to_TO your_PP$ mum_NN ..._: it_PP 's_VBZ all_RB waiting_VVG ._SENT Fish_NP and_NP 
+chips_NNS ,_, sausage_NN and_CC mash_NN ,_, beans_NNS on_IN toast_NN ..._: no_UH ,_, Christmas_NP !_SENT Turkey_NP !_SENT 
+Although_IN ..._: having_VHG met_VVN your_PP$ mother_NN ..._: nut_NN loaf_NN would_MD be_VB more_JJR 
+appropriate_JJ ._SENT 
+(_( Rose_NP looks_VVZ down_RB quickly_RB ,_, to_TO hide_VV a_DT smile_NN ._SENT )_) 
+DOCTOR_NN :_: Was_VBD that_IN/that a_DT smile_NN ?_SENT 
+ROSE_VVD :_: No._NN 
+DOCTOR_NN (_( knowingly_RB )_) :_: That_WDT was_VBD a_DT smile_NN ..._: 
+ROSE_NN :_: No_RB it_PP was_VBD n't_RB ._SENT 
+DOCTOR_NN (_( teasingly_RB )_) :_: You_PP smiled_VVD ..._: 
+ROSE_NN :_: No_RB I_PP did_VVD n't_RB ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, come_VV on_RP ,_, all_RB I_PP did_VVD was_VBD change_NN ,_, I_PP did_VVD n't_RB ..._: 
+(_( He_PP suddenly_RB gags_VVZ as_IN the_DT TARDIS_NP shudders_NNS ._SENT Rose_NP looks_VVZ at_IN him_PP 
+questioningly_RB ._SENT )_) 
+ROSE_VVD :_: What_WP ?_SENT 
+DOCTOR_NN :_: I_PP said_VVD I_PP did_VVD n't_RB ..._: 
+(_( The_DT same_JJ thing_NN happens_VVZ again_RB ,_, more_RBR violently_RB ._SENT He_PP makes_VVZ nasty_JJ retching_VVG 
+noises_NNS ._SENT )_) 
+DOCTOR_NN :_: Uh_UH oh_UH ._SENT 
+(_( Rose_NP edges_VVZ cautiously_RB around_IN the_DT console_NN ._SENT )_) 
+ROSE_NN :_: Er_UH ..._: is_VBZ you_PP alright_RB ?_SENT 
+(_( A_DT piece_NN golden_JJ time_NN vortex_NN issues_NNS from_IN the_DT Doctor_NP 's_POS mouth_NN ._SENT )_) 
+ROSE_VVD :_: What_WP 's_VBZ that_RB ?_SENT 
+DOCTOR_NN :_: Oh_UH ..._: the_DT change_NN is_VBZ going_VVG a_DT bit_NN wrong_RB and_CC all_RB ._SENT 
+(_( He_PP gags_VVZ again_RB ._SENT He_PP falls_VVZ to_TO his_PP$ knees_NNS ,_, his_PP$ face_NN contorted_VVD ._SENT )_) 
+ROSE_VVD :_: Look_NN ..._: maybe_RB we_PP should_MD go_VV back_RB ._SENT Let_VV 's_VBZ go_VV and_CC find_VV Captain_NP Jack_NP ,_, 
+he_PP 'd_MD know_VV what_WP to_TO do_VV ._SENT 
+DOCTOR_NN (_( impatiently_RB )_) :_: Gah_NP ,_, he_PP 's_VBZ busy_JJ !_SENT He_PP 's_VBZ got_VVN plenty_RB to_TO do_VV rebuilding_NN 
+the_DT Earth_NN !_SENT 
+(_( A_DT lever_NN on_IN the_DT console_NN suddenly_RB catches_VVZ his_PP$ eye_NN )_) ._SENT 
+DOCTOR_NN :_: I_PP have_VHP n't_RB used_VVN this_DT one_CD in_IN years_NNS ._SENT 
+(_( He_PP flicks_VVZ it_PP ._SENT The_DT TARDIS_NP shudders_NNS violently_RB and_CC they_PP are_VBP both_CC nearly_RB 
+knocked_VVN to_TO their_PP$ feet_NNS ._SENT )_) 
+ROSE_VVD :_: What_WP 're_VBP you_PP doing_VVG ?_SENT !_SENT 
+DOCTOR_NN (_( crazily_RB )_) :_: Putting_VVG on_IN a_DT bit_NN of_IN speed_NN !_SENT That_DT 's_VBZ it_PP !_SENT 
+(_( He_PP turns_VVZ more_JJR knobs_NNS while_IN Rose_NP tries_VVZ to_TO maintain_VV a_DT more_RBR secure_JJ grip_NN on_IN 
+the_DT console_NN ._SENT )_) 
+DOCTOR_NN :_: My_PP$ beautiful_JJ ship_NN !_SENT Come_VVN on_IN ,_, faster_RBR !_SENT That_DT 's_VBZ a_DT girl_NN !_SENT 
+(_( Rose_NP looks_VVZ distinctly_RB alarmed_JJ ._SENT The_DT Doctor_NP looks_VVZ and_CC sounds_VVZ violent_JJ ,_, 
+crazed_VVN ._SENT )_) 
+DOCTOR_NN :_: Faster_JJR !_SENT Wanna_VV to_TO break_VV the_DT time_NN limit_NN ?_SENT !_SENT 
+ROSE_NN :_: (_( angry_JJ and_CC scared_VVN )_) :_: Stop_VV it_PP !_SENT 
+DOCTOR_NN (_( slightly_RB nastily_RB and_CC still_RB crazed_VVN )_) :_: Ah_UH ,_, do_VV n't_RB be_VB so_RB dull_JJ ..._: 
+let_NN 's_VHZ have_VH a_DT bit_NN of_IN fun_NN !_SENT Let_NP 's_POS rip_NN through_IN that_DT vortex_NN !_SENT 
+(_( Catches_VVZ her_PP$ eye_NN for_IN a_DT moment_NN ._SENT His_PP$ voice_NN calms_NNS for_IN a_DT moment_NN )_) 
+DOCTOR_NN :_: The_DT regeneration_NN 's_POS going_VVG wrong_JJ ._SENT I_PP ca_MD n't_RB stop_VV myself_PP ._SENT (_( Grimaces_NNS 
+in_IN pain_NN )_) ._SENT Ah_UH ,_, my_PP$ head_NN ..._: 
+(_( He_PP violently_RB springs_VVZ up_RP into_IN standing_VVG position_NN again_RB ,_, and_CC his_PP$ voice_NN 
+has_VHZ gone_VVN back_RB to_TO being_VBG crazed_VVN ._SENT )_) 
+DOCTOR_NN :_: Faster_JJR !_SENT Let_VV 's_VBZ open_VV those_DT engines_NNS !_SENT 
+(_( A_DT bell_NN rings_NNS ._SENT )_) 
+ROSE_NN :_: (_( looking_VVG around_RP ,_, frightened_JJ )_) :_: What_WP 's_VBZ that_RB ?_SENT 
+(_( The_DT Doctor_NP 's_POS face_NN appears_VVZ next_JJ to_TO her_PP ._SENT )_) 
+DOCTOR_NN :_: (_( sounding_VVG delighted_JJ )_) :_: We_PP 're_VBP gonna_VVG crash_NN land_NN !_SENT 
+(_( He_PP laughs_VVZ manically_RB ._SENT )_) 
+ROSE_NN :_: (_( shouting_VVG over_IN the_DT sound_NN of_IN the_DT bell_NN )_) :_: Well_RB then_RB ,_, do_VVP something_NN !_SENT 
+DOCTOR_NN :_: (_( voice_VV rising_VVG hysterically_RB )_) :_: Too_RB late_JJ !_SENT Out_RB of_IN control_NN !_SENT (_( Runs_VVZ 
+around_IN the_DT console_NN ,_, giggling_VVG )_) ._SENT Oh_UH ,_, I_PP love_VVP it_PP !_SENT Hot_JJ dawg_NN !_SENT 
+(_( He_PP hops_VVZ in_IN the_DT air_NN excitedly_RB ._SENT )_) 
+ROSE_NN :_: You_PP 're_VBP gonna_VVG kill_VV us_PP !_SENT 
+DOCTOR_NN :_: Hold_VV on_IN tight_JJ ,_, here_RB we_PP go_VVP !_SENT 
+(_( Their_PP$ eyes_NNS meet_VV across_IN the_DT console_NN ,_, the_DT Doctor_NP grinning_VVG madly_RB ,_, Rose_NP 
+looking_VVG scared_JJ ._SENT )_) 
+DOCTOR_NN :_: Christmas_NP Eve_NP ..._: !_SENT 
+

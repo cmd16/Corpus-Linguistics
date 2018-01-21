@@ -1,0 +1,1201 @@
+[_SYM Drilling_NP 
+area_NN ]_SYM 
+
+JEFFERSON_NP :_: Open_JJ fire_NN !_SENT 
+(_( Jefferson_NP and_CC the_DT guard_NN start_NN shooting_VVG at_IN the_DT Ood_NN ._SENT )_) 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: We_PP 're_VBP stabilising_VVG 
+(_( The_DT overhead_JJ shutters_NNS close_JJ ._SENT )_) 
+ZACH_NN :_: We_PP 've_VHP got_VVN orbit_NN ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+(_( Rose_NP runs_VVZ back_RB to_TO the_DT comm_NP ._SENT )_) 
+ROSE_VVD :_: Doctor_NN ?_SENT Doctor_NN ,_, can_MD you_PP hear_VV me_PP ?_SENT Doctor_NN ,_, Ida_NP ,_, are_VBP you_PP there_RB ?_SENT 
+COMPUTER_NN :_: Open_JJ door_NN 25._CD 
+(_( Jefferson_NP and_CC the_DT guard_NN prepare_VVP to_TO shoot_VV ._SENT )_) 
+DANNY_NN :_: It_PP 's_VBZ me_PP !_SENT But_CC they_PP 're_VBP coming_VVG ._SENT 
+COMPUTER_NN :_: Close_JJ door_NN 25._CD 
+DANNY_NN :_: It_PP 's_VBZ the_DT Ood_NN ._SENT They_PP 've_VHP gone_VVN mad_JJ ._SENT 
+JEFFERSON_NP :_: How_WRB many_JJ of_IN them_PP ?_SENT 
+DANNY_NN :_: All_DT of_IN them_PP !_SENT All_DT fifty_CD !_SENT 
+JEFFERSON_NP :_: Danny_NP ,_, out_RB of_IN the_DT way_NN ._SENT Out_RB of_IN the_DT way_NN !_SENT 
+DANNY_NN :_: But_CC they_PP 're_VBP armed_VVN !_SENT It_PP 's_VBZ the_DT interface_NN device_NN ._SENT I_PP do_VVP n't_RB know_VV how_WRB ,_, 
+but_CC they_PP 're_VBP using_VVG it_PP as_IN a_DT weapon_NN ._SENT 
+COMPUTER_NN :_: Open_JJ door_NN 25._CD 
+(_( Jefferson_NP opens_VVZ the_DT door_NN ._SENT The_DT leading_VVG Ood_NN sticks_VVZ its_PP$ globe_NN onto_IN the_DT 
+guard_NN 's_POS forehead_NN ._SENT She_PP screams_VVZ and_CC dies_VVZ ._SENT Jefferson_NP starts_VVZ shooting_VVG ._SENT )_) 
+
+[_SYM Corridor_NP ]_SYM 
+
+COMPUTER_NN :_: Close_JJ door_NN 1._CD 
+(_( Zach_NP sees_VVZ Ood_NNS coming_VVG towards_IN him_PP ._SENT )_) 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+COMPUTER_NN :_: Open_JJ door_NN 1._CD Close_NP door_NN 1._CD 
+ZACH_NN :_: Lock_VV down_RP ._SENT Seal_NN door_NN 1._CD 
+COMPUTER_NN :_: Lock_VV down_RP ._SENT Door_NN 1._CD 
+JEFFERSON_NN [_SYM OC_NP ]_SYM :_: Seal_NN door_NN 24._CD Seal_NP door_NN 23._CD 
+ZACH_NP :_: Jefferson_NP ,_, what_WP 's_VBZ happening_VVG there_RB ?_SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+JEFFERSON_NN :_: I_PP 've_VHP got_VVN very_RB little_JJ ammunition_NN ,_, sir_NN ._SENT 
+How_WRB about_RB you_PP ?_SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: All_RB I_PP 've_VHP got_VVN is_VBZ a_DT bolt_NN gun_NN ._SENT With_IN er_NN ,_, all_DT of_IN 
+one_CD bolt_NN ._SENT I_PP could_MD take_VV out_RP a_DT grand_JJ total_NN of_IN one_CD Ood_NNS ._SENT Fat_JJ lot_NN of_IN good_JJ 
+that_DT is_VBZ ._SENT 
+JEFFERSON_NN [_SYM OC_NP ]_SYM :_: Given_VVN the_DT emergency_NN 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+JEFFERSON_NN :_: I_PP recommend_VVP strategy_NN nine_NN ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Strategy_NN Nine_CD 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: Agreed_VVN ._SENT Right_RB ,_, we_PP need_VVP to_TO get_VV 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Everyone_NN together_RB ._SENT Rose_VVD ?_SENT What_WP about_IN Ida_NP and_NP 
+the_DT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ?_SENT Any_DT word_NN ?_SENT 
+ROSE_NN :_: I_PP ca_MD n't_RB get_VV a_DT reply_NN ._SENT Just_RB nothing_NN ._SENT I_PP keep_VVP trying_VVG ,_, but_CC it_PP 's_VBZ 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: (_( static_JJ )_) No_UH ,_, sorry_RB ,_, I_PP 'm_VBP fine_JJ ._SENT Still_RB here_RB ._SENT 
+ROSE_NN :_: You_PP could_MD 've_VH said_VVN ,_, you_PP stupid_JJ 
+[_SYM Point_NP Zero_NP ]_SYM 
+
+DOCTOR_NN :_: (_( feedback_NN )_) Whoa_NP ._SENT Careful_JJ !_SENT Anyway_RB ,_, it_PP 's_VBZ both_DT 
+of_IN us_PP ._SENT Me_PP and_CC Ida_NP ._SENT Hello_UH ._SENT But_CC the_DT seal_NN opened_VVD up_RP ._SENT It_PP 's_VBZ gone_VVN ._SENT All_RB we_PP 've_VHP 
+got_VVN left_NN is_VBZ this_DT chasm_NN ._SENT 
+ZACH_NN [_SYM OC_NP ]_SYM :_: How_WRB deep_RB is_VBZ it_PP ?_SENT 
+DOCTOR_NN :_: Ca_MD n't_RB tell_VV ._SENT It_PP looks_VVZ like_IN it_PP goes_VVZ down_RB forever_RB ._SENT 
+ROSE_NN [_SYM OC_NP ]_SYM :_: The_DT pit_NN is_VBZ open_JJ ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: That_WDT 's_VBZ what_WP the_DT voice_NN said_VVD ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: But_CC there_EX 's_VBZ nothing_NN ._SENT I_PP mean_VVP 
+[_SYM Point_NP Zero_NP ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: There_EX 's_VBZ nothing_NN coming_VVG out_RP ?_SENT 
+DOCTOR_NN :_: No_UH ,_, no._JJ No_DT sign_NN of_IN the_DT Beast_NN ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: It_PP said_VVD Satan_NN ._SENT 
+[_SYM Point_NP Zero_NP ]_SYM 
+
+DOCTOR_NN :_: Come_VV on_IN ,_, Rose_NP ._SENT Keep_VV it_PP 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Together_RB ._SENT 
+ROSE_NN :_: Is_VBZ there_RB no_DT such_JJ thing_NN ?_SENT Doctor_NN ._SENT 
+
+[_SYM Point_NP Zero_NP ]_SYM 
+
+ROSE_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ,_, tell_VV me_PP there_RB 's_VBZ no_DT such_JJ thing_NN ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NP :_: Ida_NP ?_SENT 
+[_SYM Point_NP Zero_NP ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: I_PP recommend_VVP that_IN/that you_PP withdraw_VV ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Immediately_RB ._SENT 
+
+[_SYM Point_NP Zero_NP ]_SYM 
+
+IDA_NP :_: But_CC ,_, we_PP 've_VHP come_VVN all_PDT this_DT way_NN ._SENT 
+ZACH_NN [_SYM OC_NP ]_SYM :_: Okay_JJ 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: That_WDT was_VBD an_DT order_NN ._SENT Withdraw_VV ._SENT When_WRB that_DT thing_NN 
+opened_VVN ,_, the_DT whole_JJ planet_NN 's_VBZ shifted_VVN ._SENT One_CD more_JJR inch_NN and_CC we_PP fall_VVP into_IN the_DT 
+black_JJ hole_NN ._SENT So_IN this_DT thing_NN stops_VVZ right_RB now_RB ._SENT 
+
+[_SYM Point_NP Zero_NP ]_SYM 
+
+IDA_NP :_: But_CC it_PP 's_VBZ not_RB much_RB better_JJR up_RP there_RB with_IN the_DT 
+Ood_NNS ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 'm_VBP initiating_VVG strategy_NN 
+[_SYM Point_NP Zero_NP ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: Nine_CD ,_, so_RB I_PP need_VVP the_DT two_CD of_IN you_PP back_RB up_RP 
+top_NN immediately_RB ,_, no_DT ar_NN 
+(_( Ida_NP turns_VVZ off_RP the_DT comms_NNS ._SENT )_) 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NP :_: Ida_NP ._SENT Ida_NP !_SENT 
+
+[_SYM Point_NP Zero_NP ]_SYM 
+
+IDA_NP :_: What_WP do_VVP you_PP think_VVP ?_SENT 
+DOCTOR_NN :_: I_PP think_VVP they_PP 've_VHP an_DT order_NN ._SENT 
+IDA_NP :_: Yeah_UH ,_, but_CC what_WP do_VVP you_PP think_VVP ?_SENT 
+DOCTOR_NN :_: It_PP said_VVD ,_, I_PP am_VBP the_DT temptation_NN ._SENT 
+IDA_NP :_: Well_UH ,_, if_IN there_EX 's_VBZ something_NN in_IN there_RB ,_, why_WRB is_VBZ it_PP still_RB hiding_VVG ?_SENT 
+DOCTOR_NN :_: Maybe_RB we_PP opened_VVD the_DT prison_NN but_CC not_RB the_DT cell_NN ._SENT 
+IDA_NN :_: We_PP should_MD go_VV down_RP ._SENT I_PP 'd_MD go_VV ._SENT What_WP about_IN you_PP ?_SENT 
+DOCTOR_NN :_: Oh_UH ._SENT Oh_UH ,_, in_IN a_DT second_JJ ,_, but_CC then_RB again_RB ,_, that_WDT is_VBZ so_RB human_JJ ._SENT Where_WRB 
+angels_NNS fear_VVP to_TO tread_VV ._SENT Even_RB now_RB ,_, standing_VVG on_IN the_DT edge_NN ._SENT It_PP 's_VBZ that_DT feeling_NN 
+you_PP get_VVP ,_, eh_NP ?_SENT Right_RB at_IN the_DT back_NN of_IN your_PP$ head_NN ._SENT That_DT impulse_NN ._SENT That_DT strange_JJ 
+little_JJ impulse_NN ._SENT That_DT mad_JJ little_JJ voice_NN saying_VVG ,_, go_VV on_RP ._SENT Go_VV on_IN ._SENT Go_VV on_IN ._SENT Go_VV 
+over_RB ._SENT Go_VV on_IN ._SENT Maybe_RB it_PP 's_VBZ relying_VVG on_IN that_DT ._SENT For_IN once_RB in_IN my_PP$ life_NN ,_, Officer_NP 
+Scott_NP ,_, I_PP 'm_VBP going_VVG to_TO say_VV retreat_NN ._SENT Oh_UH ,_, now_RB I_PP know_VVP I_PP 'm_VBP getting_VVG old_JJ ._SENT Rose_VVD ,_, 
+we_PP 're_VBP coming_VVG back_RB ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: Best_JJS news_NN I_PP 've_VHP heard_VVN all_DT day_NN ._SENT 
+(_( Jefferson_NP points_VVZ his_PP$ rifle_NN at_IN Toby_NP ._SENT )_) 
+ROSE_VVD :_: What_WP 're_VBP you_PP doing_VVG ?_SENT 
+JEFFERSON_NN :_: He_PP 's_VBZ infected_JJ ._SENT He_PP brought_VVD that_DT thing_NN on_IN board_NN ._SENT You_PP saw_VVD it_PP ._SENT 
+ROSE_NN :_: Are_VBP you_PP going_VVG to_TO start_VV shooting_VVG your_PP$ own_JJ people_NNS now_RB ,_, Is_VBZ that_IN/that what_WP 
+you_PP 're_VBP going_VVG to_TO 
+do_VVP ?_SENT Is_VBZ it_PP ?_SENT 
+JEFFERSON_NN :_: If_IN necessary_JJ ._SENT 
+ROSE_NN :_: Well_RB then_RB ,_, you_PP 'll_MD have_VH to_TO shoot_VV me_PP if_IN necessary_JJ ,_, so_RB what_WP 's_VBZ it_PP 
+going_VVG to_TO be_VB ?_SENT Look_VV at_IN his_PP$ face_NN ._SENT Whatever_WDT it_PP was_VBD ,_, is_VBZ gone_VVN ._SENT It_PP passed_VVD into_IN 
+the_DT Ood_NN ._SENT You_PP saw_VVD it_PP happen_VV ._SENT He_PP 's_VBZ clean_JJ ._SENT 
+JEFFERSON_NN :_: Any_DT sign_NN of_IN trouble_NN ,_, I_PP 'll_MD shoot_VV him_PP ._SENT 
+ROSE_NN :_: Are_VBP you_PP all_DT right_NN ?_SENT 
+TOBY_NP :_: Yeah_UH ._SENT I_PP do_VVP n't_RB know_VV ._SENT 
+ROSE_NN :_: Can_MD you_PP remember_VV anything_NN ?_SENT 
+TOBY_NN :_: Just_RB ,_, it_PP was_VBD so_RB angry_JJ ._SENT It_PP was_VBD fury_NN and_CC rage_NN and_CC death_NN ._SENT It_PP was_VBD 
+him_PP ._SENT It_PP was_VBD the_DT devil_NN ._SENT 
+ROSE_NN :_: Come_VV on_RP ._SENT 
+(_( Rose_NP hugs_VVZ the_DT terrified_VVN Toby_NP ._SENT )_) 
+
+[_SYM Point_NP Zero_NP ]_SYM 
+
+(_( The_DT Doctor_NP and_CC Ida_NP return_NN to_TO the_DT capsule_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP 's_VBZ strategy_NN nine_CD ?_SENT 
+IDA_NN :_: Open_VV the_DT airlocks_NNS ._SENT We_PP 'll_MD be_VB safe_JJ inside_IN the_DT lock_NN down_RB ._SENT The_DT Ood_NN 
+will_MD get_VV thrown_VVN out_RP into_IN the_DT vacuum_NN ._SENT 
+DOCTOR_NN :_: So_RB we_PP 're_VBP going_VVG back_RB to_TO a_DT slaughter_NN ?_SENT 
+IDA_NP :_: The_DT devil_NN 's_POS work_NN ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+IDA_NN [_SYM OC_NP ]_SYM :_: Okay_JJ ,_, we_PP 're_VBP in_IN ._SENT Bring_VV us_PP up_RP ._SENT 
+JEFFERSON_NN :_: Ascension_NN in_IN three_CD ,_, two_CD ,_, one_CD ._SENT 
+(_( And_CC the_DT power_NN goes_VVZ out_RP ._SENT )_) 
+VOICE_NN [_SYM OC_NP ]_SYM :_: This_DT is_VBZ the_DT darkness_NN ._SENT This_DT is_VBZ my_PP$ domain_NN ._SENT 
+(_( Monitors_VVZ flicker_NN with_IN images_NNS of_IN the_DT Ood_NN ._SENT )_) 
+VOICE_NN [_SYM OC_NP ]_SYM :_: You_PP little_RB things_NNS that_WDT live_VVP in_IN the_DT light_NN ,_, clinging_VVG to_TO your_PP$ 
+feeble_JJ suns_NNS which_WDT die_VVP in_IN the_DT 
+ZACH_NN [_SYM OC_NP ]_SYM :_: That_WDT 's_VBZ not_RB the_DT Ood_NN ._SENT Something_NN 's_VBZ talking_VVG through_IN them_PP ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+VOICE_NN [_SYM OC_NP ]_SYM :_: Only_RB the_DT darkness_NN remains_VVZ ._SENT 
+ZACH_NN :_: This_DT is_VBZ Captain_NP Zachary_NP Cross_NP Flane_NP of_IN Sanctuary_NP Base_NP Six_CD ,_, 
+representing_VVG the_DT Torchwood_NP archive_NN ._SENT You_PP will_MD identify_VV yourself_PP ._SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: You_PP know_VVP my_PP$ name_NN ._SENT 
+ZACH_NP :_: What_WP do_VVP you_PP want_VVP ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: You_PP will_MD die_VV here_RB ._SENT All_DT of_IN you_PP ._SENT This_DT planet_NN is_VBZ your_PP$ grave_NN ._SENT 
+TOBY_NN :_: It_PP 's_VBZ him_PP ._SENT It_PP 's_VBZ him_PP ._SENT It_PP 's_VBZ him_PP ._SENT 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: If_IN you_PP are_VBP the_DT Beast_NN ,_, then_RB answer_VV me_PP this_DT ._SENT 
+Which_WDT one_CD ,_, hmm_NP ?_SENT Cos_NP the_DT universe_NN has_VHZ been_VBN busy_JJ since_IN you_PP 've_VHP been_VBN gone_VVN ._SENT 
+There_EX 's_VBZ more_JJR religions_NNS than_IN there_EX are_VBP planets_NNS in_IN the_DT sky_NN ._SENT The_DT 
+Archiphets_NP ,_, 
+Orkology_NP ,_, Christianity_NN ,_, Pash_NP Pash_NP ,_, New_NP Judaism_NP ,_, San_NP Klah_NP ,_, Church_NN of_IN the_DT 
+Tin_NP Vagabond_NP ._SENT Which_WDT devil_NN are_VBP you_PP ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: All_RB of_IN them_PP ._SENT 
+DOCTOR_NN :_: What_WP ,_, then_RB you_PP 're_VBP the_DT truth_NN behind_IN the_DT myth_NN ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: This_DT one_CD knows_VVZ me_PP as_IN I_PP know_VVP him_PP ._SENT The_DT killer_NN of_IN his_PP$ own_JJ 
+kind_NN ._SENT 
+DOCTOR_NN :_: How_WRB did_VVD you_PP end_VV up_RP on_IN this_DT rock_NN ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: The_DT Disciples_NP of_IN the_DT Light_NP rose_VVD up_RP against_IN me_PP and_CC chained_VVD 
+me_PP in_IN the_DT pit_NN for_IN all_DT eternity_NN ._SENT 
+DOCTOR_NN :_: When_WRB was_VBD this_DT ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: Before_IN time_NN ._SENT 
+DOCTOR_NN :_: What_WP does_VVZ that_DT mean_NN ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: Before_IN time_NN ._SENT 
+DOCTOR_NN :_: What_WP does_VVZ before_IN time_NN mean_NN ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: Before_IN light_NN and_CC time_NN and_CC space_NN and_CC matter_NN ._SENT Before_IN the_DT 
+cataclysm_NN ._SENT Before_IN this_DT universe_NN was_VBD created_VVN ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ impossible_JJ ._SENT No_DT life_NN could_MD have_VH existed_VVN back_RB then_RB ._SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: Is_VBZ that_IN/that your_PP$ religion_NN ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT belief_NN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+VOICE_NN [_SYM OC_NP ]_SYM :_: You_PP know_VVP nothing_NN ._SENT All_DT of_IN you_PP ,_, so_RB small_JJ ._SENT 
+The_DT Captain_NP ,_, so_RB scared_VVN of_IN command_NN ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+VOICE_NN [_SYM OC_NP ]_SYM :_: The_DT soldier_NN ,_, haunted_VVN by_IN the_DT eyes_NNS of_IN his_PP$ 
+wife_NN ._SENT (_( Jefferson_NP )_) The_DT scientist_NN ,_, still_RB running_VVG from_IN Daddy_NP ._SENT (_( Ida_NP )_) The_NP 
+little_JJ boy_NN who_WP lied_VVD ._SENT (_( Danny_NP )_) The_DT virgin_NN ._SENT (_( Toby_NP )_) And_CC the_DT lost_VVN girl_NN ,_, so_RB 
+far_RB away_RB from_IN home_NN ._SENT (_( Rose_NP )_) The_DT valiant_JJ child_NN who_WP will_MD die_VV in_IN battle_NN so_RB 
+very_RB soon_RB ._SENT 
+ROSE_NN :_: Doctor_NP ,_, what_WP does_VVZ that_DT mean_NN ?_SENT 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: Rose_VVD ,_, do_VVP n't_RB listen_VV ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: What_WP does_VVZ it_PP mean_VV ?_SENT 
+VOICE_NN [_SYM OC_NP ]_SYM :_: You_PP will_MD die_VV and_CC I_PP will_MD live_VV ._SENT 
+(_( The_DT image_NN of_IN the_DT Ood_NN is_VBZ replaced_VVN by_IN a_DT roaring_VVG horned_JJ beast_NN ._SENT )_) 
+DANNY_NN :_: What_WP the_DT hell_NN was_VBD that_DT ?_SENT 
+TOBY_NN :_: I_PP had_VHD that_DT thing_NN inside_IN my_PP$ head_NN ._SENT 
+ROSE_NN :_: Doctor_NP ,_, what_WP did_VVD it_PP mean_VVP ?_SENT 
+DANNY_NN :_: What_WP do_VVP we_PP do_VVP ?_SENT Jefferson_NP ?_SENT 
+JEFFERSON_NN :_: Captain_NN ?_SENT What_WP 's_VBZ the_DT situation_NN on_IN strategy_NN nine_CD ?_SENT 
+DANNY_NN :_: Zach_NP ,_, what_WP do_VVP we_PP do_VVP ?_SENT 
+TOBY_NP :_: The_DT planet_NN ,_, the_DT orbit_NN ,_, the_DT black_JJ hole_NN ._SENT Everything_NN 's_VBZ true_JJ ._SENT 
+JEFFERSON_NN :_: Captain_NN ,_, report_NN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: We_PP 've_VHP lost_VVN pictures_NNS ,_, Mister_NP Jefferson_NP ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: Doctor_NN ,_, how_WRB did_VVD it_PP know_VVP all_DT of_IN 
+[_SYM Capsule_NP ]_SYM 
+
+IDA_NP :_: Did_VVD anyone_NN get_VV an_DT anal_JJ 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NP :_: Jefferson_NP ._SENT 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: Stop_VV ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: What_WP did_VVD it_PP mean_VVP ?_SENT 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: Everyone_NN just_RB stop_VV ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+DANNY_NN :_: What_WP do_VVP we_PP do_VVP ?_SENT 
+JEFFERSON_NN :_: Report_NN ._SENT 
+(_( The_DT Doctor_NP sends_VVZ feedback_NN through_IN the_DT comms_NNS to_TO shut_VV everyone_NN up_RB ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: You_PP want_VVP voices_NNS in_IN the_DT dark_NN 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: Then_RB listen_VV to_TO mine_NN ._SENT That_DT thing_NN is_VBZ playing_VVG 
+on_IN very_RB basic_JJ fears_NNS ._SENT Darkness_NN ,_, childhood_NN nightmares_NNS ,_, all_PDT that_DT stuff_NN ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+DANNY_NN :_: But_CC that_DT 's_VBZ how_WRB the_DT devil_NN works_VVZ ._SENT 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: Or_CC a_DT good_JJ psychologist_NN ._SENT 
+IDA_NP :_: Yeah_UH ,_, but_CC how_WRB did_VVD it_PP know_VVP about_IN my_PP$ father_NN ?_SENT 
+DOCTOR_NN :_: Okay_JJ ,_, but_CC what_WP makes_VVZ his_PP$ version_NN of_IN the_DT truth_NN any_DT better_JJR than_IN 
+mine_NN ,_, hmm_NP ?_SENT Cos_NP I_PP 'll_MD tell_VV you_PP what_WP I_PP can_MD see_VV ._SENT Humans_NNS ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Brilliant_JJ humans_NNS ._SENT Humans_NNS who_WP travel_VVP 
+all_PDT the_DT way_NN across_IN space_NN ,_, flying_VVG in_IN a_DT tiny_JJ little_JJ rocket_NN 
+[_SYM Control_NP room_NN ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Right_RB into_IN the_DT orbit_NN of_IN a_DT 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: Black_JJ hole_NN ,_, just_RB for_IN the_DT sake_NN of_IN discovery_NN ._SENT 
+That_DT 's_VBZ amazing_JJ !_SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Do_VVP you_PP hear_VV me_PP ?_SENT 
+[_SYM Capsule_NP ]_SYM 
+
+DOCTOR_NN :_: Amazing_JJ ,_, all_RB of_IN you_PP ._SENT The_DT Captain_NP ,_, his_PP$ 
+Officer_NN ,_, his_PP$ elders_NNS ,_, his_PP$ juniors_NNS ,_, his_PP$ friends_NNS ._SENT All_DT with_IN one_CD advantage_NN ._SENT 
+The_DT Beast_NN is_VBZ alone_RB ._SENT We_PP are_VBP not_RB ._SENT If_IN we_PP can_MD use_VV that_IN/that to_TO fight_VV against_IN him_PP 
+
+(_( Bang_NP !_SENT The_DT cable_NN shears_VVZ and_CC falls_VVZ into_IN the_DT shaft_NN ._SENT )_) 
+IDA_NP :_: The_DT cable_NN 's_VBZ snapped_VVN !_SENT 
+DOCTOR_NN :_: Get_VV out_RP !_SENT 
+(_( The_DT Doctor_NP and_CC Ida_NP get_VVP out_RP of_IN the_DT capsule_NN and_CC throw_VV themselves_PP to_TO the_DT 
+ground_NN as_IN alleged_JJ miles_NNS of_IN steel_NN cable_NN arrives_VVZ at_IN speed_NN ._SENT )_) 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: Doctor_NN ,_, we_PP lost_VVD the_DT cable_NN !_SENT Doctor_NN ,_, are_VBP you_PP 
+all_DT right_NN ?_SENT Doctor_NN !_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Comms_NNS are_VBP down_RB ._SENT 
+ROSE_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ?_SENT Doctor_NN ,_, can_MD you_PP hear_VV me_PP ?_SENT 
+ZACH_NN :_: I_PP 've_VHP still_RB got_VVN life_NN signs_NNS ,_, but_CC we_PP 've_VHP lost_VVN the_DT capsule_NN ._SENT 
+ROSE_NN [_SYM OC_NP ]_SYM :_: Say_VVP something_NN ._SENT Are_VBP you_PP there_RB ?_SENT 
+ZACH_NN :_: There_EX 's_VBZ no_DT way_NN out_RP ._SENT They_PP 're_VBP stuck_VVN down_RP there_RB ._SENT 
+
+[_SYM Point_NP Zero_NP ]_SYM 
+
+(_( The_DT capsule_NN is_VBZ wrecked_VVN ._SENT )_) 
+DOCTOR_NN :_: How_WRB much_JJ air_NN have_VHP we_PP got_VVD ?_SENT 
+IDA_NP :_: Sixty_CD minutes_NNS ._SENT Fifty_CD five_CD ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: But_CC we_PP 've_VHP got_VVN to_TO bring_VV them_PP back_RB ._SENT 
+JEFFERSON_NN :_: They_PP 're_VBP ten_CD miles_NNS down_RB ._SENT We_PP have_VHP n't_RB got_VVN another_DT ten_CD miles_NNS of_IN 
+cable_NN ._SENT 
+(_( Banging_VVG at_IN door_NN 25._CD )_) 
+JEFFERSON_NN :_: Captain_NN ?_SENT Situation_NN report_NN ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+(_( Zach_NP checks_NNS door_NN one_CD ._SENT )_) 
+ZACH_NN :_: It_PP 's_VBZ the_DT Ood_NN ._SENT They_PP 're_VBP cutting_VVG through_IN the_DT door_NN bolts_NNS ._SENT They_PP 're_VBP 
+breaking_VVG in_IN ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+JEFFERSON_NP :_: Yeah_UH ,_, it_PP 's_VBZ the_DT same_JJ on_IN door_NN 25._CD 
+ROSE_NN :_: How_WRB long_RB 's_VBZ it_PP going_VVG to_TO take_VV ?_SENT 
+JEFFERSON_NP :_: Well_UH ,_, it_PP 's_VBZ only_RB a_DT basic_JJ frame_NN ,_, it_PP should_MD take_VV ten_CD minutes_NNS ._SENT 
+(_( Another_DT bolt_NN is_VBZ cut_VVN ._SENT )_) 
+JEFFERSON_NP :_: Eight_CD ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 've_VHP got_VVN a_DT security_NN frame_NN ._SENT It_PP might_MD last_VV a_DT 
+bit_NN longer_RBR ,_, but_CC that_WDT does_VVZ n't_RB help_VV you_PP ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: Right_NN ._SENT So_RB we_PP need_VVP to_TO stop_VV them_PP ,_, or_CC get_VV out_RP ,_, 
+or_CC both_DT ._SENT 
+DANNY_NN :_: I_PP 'll_MD take_VV both_DT ,_, yeah_RB ?_SENT But_CC how_WRB ?_SENT 
+ROSE_NN :_: You_PP heard_VVD the_DT Doctor_NP ._SENT Why_WRB do_VVP you_PP think_VVP that_IN/that thing_NN cut_VVD him_PP off_RP ?_SENT 
+Cos_NP he_PP was_VBD making_VVG sense_NN ._SENT He_PP was_VBD telling_VVG you_PP to_TO think_VV your_PP$ way_NN out_RP of_IN 
+this_DT ._SENT Come_VVN on_IN !_SENT For_IN starters_NNS ,_, we_PP need_VVP some_DT lights_NNS ._SENT There_EX 's_VBZ got_VVN to_TO be_VB 
+some_DT sort_NN of_IN power_NN somewhere_RB ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: There_EX 's_VBZ nothing_NN I_PP can_MD do_VV ._SENT Some_DT Captain_NP ,_, stuck_VVD 
+in_IN here_RB ,_, pressing_VVG buttons_NNS ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: That_WDT 's_VBZ what_WP the_DT Doctor_NP meant_VVD ._SENT Press_VV the_DT right_NN 
+buttons_NNS ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: They_PP 've_VHP gutted_VVN the_DT generators_NNS ._SENT But_CC the_DT 
+rocket_NN 's_VHZ got_VVN an_DT independent_JJ supply_NN ._SENT If_IN I_PP could_MD reroute_VV that_DT ._SENT 
+Mister_NP Jefferson_NP ?_SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: Open_VV the_DT bypass_NN conduits_NNS ._SENT Override_VV the_DT 
+safety_NN ._SENT 
+JEFFERSON_NN :_: Opening_VVG bypass_NN conduits_NNS ,_, sir_NN ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Channelling_VVG rocket_NN feed_NN in_IN three_CD ,_, two_CD ,_, one_CD ._SENT 
+Power_NN ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+(_( The_DT lights_NNS come_VVP on_IN ._SENT )_) 
+ROSE_NN :_: There_RB we_PP go_VVP ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+DANNY_NN [_SYM OC_NP ]_SYM :_: Let_VV there_EX be_VB light_JJ !_SENT 
+ROSE_NN [_SYM OC_NP ]_SYM :_: What_WP about_RB 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: That_DT strategy_NN nine_CD thing_NN ?_SENT 
+JEFFERSON_NN :_: Not_RB enough_JJ power_NN ._SENT It_PP needs_VVZ a_DT hundred_CD percent_NN ._SENT 
+ROSE_VVD :_: All_DT right_NN ,_, we_PP need_VVP a_DT way_NN out_RP ._SENT Zach_NP ,_, Mister_NP Jefferson_NP ,_, you_PP start_VVP 
+working_VVG on_IN that_DT ._SENT Toby_NP ,_, what_WP about_IN you_PP ?_SENT 
+TOBY_NN :_: I_PP 'm_VBP not_RB a_DT soldier_NN ._SENT I_PP ca_MD n't_RB do_VV anything_NN ._SENT 
+ROSE_NN :_: No_UH ,_, you_PP 're_VBP the_DT archeologist_NN ._SENT What_WP do_VVP you_PP know_VVP about_IN the_DT pit_NN ?_SENT 
+TOBY_NP :_: Well_UH ,_, nothing_NN ._SENT We_PP ca_MD n't_RB even_RB translate_VV the_DT language_NN ._SENT 
+ROSE_VVD :_: Right_NN ._SENT 
+TOBY_NN :_: Hold_VV on_RP ._SENT Maybe_RB ._SENT 
+ROSE_VVD :_: What_WP is_VBZ it_PP ?_SENT 
+TOBY_NN :_: Since_IN that_DT thing_NN was_VBD inside_IN my_PP$ head_NN ,_, it_PP 's_VBZ like_IN the_DT letters_NNS made_VVD 
+more_JJR sense_NN ._SENT 
+ROSE_NN :_: Well_RB ,_, get_VVP to_TO work_VV ._SENT Anything_NN you_PP can_MD translate_VV ,_, just_RB anything_NN ._SENT As_RB 
+for_IN you_PP ,_, Danny_NP boy_NN ._SENT You_PP 're_VBP in_IN charge_NN of_IN the_DT Ood_NN ._SENT Any_DT way_NN of_IN stopping_VVG 
+them_PP ?_SENT 
+DANNY_NN :_: Well_RB ,_, I_PP do_VVP n't_RB know_VV ._SENT 
+ROSE_NN :_: Then_RB find_VV out_RP ._SENT The_DT sooner_RBR we_PP get_VVP control_NN of_IN the_DT Base_NP ,_, the_DT sooner_RBR 
+we_PP can_MD get_VV the_DT Doctor_NP out_RP ._SENT Shift_NN ._SENT 
+[_SYM Point_NP Zero_NP ]_SYM 
+
+IDA_NP :_: Well_UH ,_, we_PP 've_VHP got_VVN all_PDT this_DT cable_NN ,_, we_PP might_MD as_RB 
+well_RB use_VV it_PP ._SENT The_DT drum_NN 's_VBZ disconnected_VVN ._SENT We_PP could_MD adapt_VV it_PP ,_, feed_VV it_PP 
+through_RB ._SENT 
+DOCTOR_NN :_: And_CC then_RB what_WP ?_SENT 
+IDA_NP :_: Abseil_NN into_IN the_DT pit_NN ._SENT 
+DOCTOR_NN :_: Abseil_NN ._SENT Right_RB ._SENT 
+IDA_NN :_: We_PP 're_VBP running_VVG out_RP of_IN air_NN with_IN no_DT way_NN back_RB ._SENT It_PP 's_VBZ the_DT only_JJ thing_NN we_PP 
+can_MD do_VV ._SENT Even_RB if_IN it_PP 's_VBZ the_DT last_JJ thing_NN we_PP ever_RB achieve_VV ._SENT 
+DOCTOR_NN :_: I_PP 'll_MD get_VV back_RB ._SENT Rose_NP is_VBZ up_RB there_RB ._SENT 
+IDA_NP :_: Well_UH ,_, maybe_RB the_DT key_NN to_TO that_WDT is_VBZ finding_VVG out_RP what_WP 's_VBZ in_IN the_DT pit_NN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, it_PP 's_VBZ half_JJ of_IN a_DT good_JJ plan_NN ._SENT 
+IDA_NP :_: What_WP 's_VBZ the_DT other_JJ half_NN ?_SENT 
+DOCTOR_NN :_: I_PP go_VVP down_RP ,_, not_RB you_PP ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+JEFFERSON_NP :_: Open_JJ junctions_NNS five_CD ,_, six_CD ,_, seven_CD ._SENT Reroute_VV 
+filters_NNS sixteen_CD to_TO twenty_CD four_CD ._SENT Go_VV ._SENT 
+DANNY_NN :_: There_EX 's_VBZ all_DT sorts_NNS of_IN viruses_NNS that_WDT could_MD stop_VV the_DT Ood_NN ._SENT Trouble_NN 
+is_VBZ ,_, we_PP have_VHP n't_RB got_VVN them_PP on_IN board_NN ._SENT 
+ROSE_NN :_: Well_RB ,_, that_WDT 's_VBZ handy_JJ ,_, listing_VVG all_PDT the_DT things_NNS we_PP have_VHP n't_RB got_VVN ._SENT We_PP 
+have_VHP n't_RB got_VVN a_DT swimming_NN pool_NN either_RB ._SENT Or_CC a_DT 
+Tesco_NP 's_POS ._SENT 
+(_( The_DT screen_NN says_VVZ affirmative_JJ ._SENT )_) 
+DANNY_NN :_: Oh_UH ,_, my_PP$ God_NP ._SENT It_PP says_VVZ yes_UH ._SENT I_PP can_MD do_VV it_PP ._SENT Hypothetically_RB ,_, if_IN you_PP 
+flip_VV the_DT monitor_NN ,_, broadcast_VVD a_DT flare_NN ,_, it_PP can_MD disrupt_VV the_DT telepathy_NN ._SENT 
+Brainstorm_NN !_SENT 
+ROSE_VVD :_: What_WP happens_VVZ to_TO the_DT Ood_NN ?_SENT 
+DANNY_NN :_: It_PP 'll_MD tank_VV them_PP spark_VV out_RP ._SENT 
+ROSE_NN :_: There_RB we_PP are_VBP ,_, then_RB ._SENT Do_VV it_PP !_SENT 
+DANNY_NN :_: No_UH ,_, but_CC I_PP 'd_MD have_VH to_TO transmit_VV from_IN the_DT central_JJ monitor_NN ._SENT We_PP need_VVP 
+to_TO go_VV to_TO Ood_NP Habitation_NP ._SENT 
+ROSE_NN :_: That_WDT 's_VBZ what_WP we_PP 'll_MD do_VV ,_, then_RB ._SENT Mister_NP Jefferson_NP ,_, sir_NN ._SENT Any_DT way_NN out_RP ?_SENT 
+JEFFERSON_NN :_: Just_RB about_RB ._SENT There_EX 's_VBZ a_DT network_NN of_IN maintenance_NN tunnels_NNS running_VVG 
+underneath_IN the_DT base_NN ._SENT We_PP should_MD be_VB able_JJ to_TO gain_VV access_NN from_IN here_RB ._SENT 
+ROSE_VVD :_: Ventilation_NN shafts_NNS ._SENT 
+JEFFERSON_NP :_: Yeah_UH ,_, I_PP appreciate_VVP the_DT reference_NN ,_, but_CC there_EX 's_VBZ no_RB 
+ventilation_NN ._SENT No_DT air_NN ,_, in_IN fact_NN ,_, at_IN all_DT ._SENT They_PP were_VBD designed_VVN for_IN machines_NNS ,_, 
+not_RB life_NN forms_NNS ._SENT 
+ZACH_NN [_SYM OC_NP ]_SYM :_: But_RB 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP can_MD manipulate_VV the_DT oxygen_NN field_NN from_IN here_RB ._SENT 
+Create_VV discrete_JJ pockets_NNS of_IN atmosphere_NN ._SENT If_IN I_PP control_VVP it_PP manually_RB ,_, I_PP can_MD 
+follow_VV you_PP through_IN the_DT network_NN ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: Right_RB ,_, so_RB we_PP go_VVP down_RP ,_, and_CC you_PP make_VVP the_DT air_NN 
+follow_VV us_PP by_IN hand_NN ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: You_PP wanted_VVD me_PP pressing_VVG buttons_NNS ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: Yeah_UH ,_, I_PP asked_VVD for_IN it_PP ._SENT Okay_RB ,_, we_PP need_VVP to_TO get_VV to_TO 
+Ood_NP Habitation_NP ._SENT Work_NN out_IN a_DT route_NN ._SENT 
+[_SYM Point_NP Zero_NP ]_SYM 
+
+(_( The_DT ten_CD miles_NNS of_IN cable_NN is_VBZ now_RB wrapped_VVN around_IN a_DT 
+drum_VV ,_, with_IN one_CD end_NN tied_VVN around_IN the_DT Doctor_NP 's_POS waist_NN ._SENT )_) 
+IDA_NP :_: That_WDT should_MD hold_VV it_PP ._SENT How_WRB 's_VBZ it_PP going_VVG ?_SENT 
+DOCTOR_NN :_: Fine_NN ._SENT Should_MD work_VV ._SENT Does_VVZ n't_RB feel_VV like_IN such_PDT a_DT good_JJ idea_NN now_RB ._SENT 
+(_( He_PP steps_VVZ onto_IN the_DT rim_NN of_IN the_DT trapdoor_NN ._SENT )_) 
+DOCTOR_NN :_: Hmm_NP ,_, there_RB it_PP is_VBZ again_RB ._SENT That_DT itch_NN ._SENT Go_VV down_RB ,_, go_VV down_RP ,_, go_VV down_RP ,_, 
+go_VV down_RB ,_, go_VV down_RP ._SENT 
+IDA_NP :_: The_DT urge_NN to_TO jump_VV ._SENT Do_VV you_PP know_VV where_WRB it_PP comes_VVZ from_IN ,_, that_DT sensation_NN ?_SENT 
+Genetic_JJ heritage_NN ._SENT Ever_RB since_IN we_PP were_VBD primates_NNS in_IN the_DT trees_NNS ._SENT It_PP 's_VBZ our_PP$ 
+body_NN 's_POS way_NN of_IN testing_VVG us_PP ._SENT Calculating_VVG whether_IN or_CC not_RB we_PP can_MD reach_VV the_DT 
+next_JJ branch_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, that_WDT 's_VBZ not_RB it_PP ._SENT That_DT 's_VBZ too_RB kind_NN ._SENT It_PP 's_VBZ not_RB the_DT urge_NN to_TO jump_VV ._SENT 
+It_PP 's_VBZ deeper_JJR than_IN that_DT ._SENT It_PP 's_VBZ the_DT urge_NN to_TO fall_VV !_SENT 
+(_( And_CC he_PP launches_VVZ himself_PP into_IN the_DT chasm_NN ._SENT )_) 
+IDA_NP :_: Doctor_NN !_SENT 
+(_( She_PP throws_VVZ the_DT brake_NN on_IN the_DT drum_NN ._SENT )_) 
+IDA_NP :_: Are_VBP you_PP okay_JJ ?_SENT 
+DOCTOR_NN :_: Not_RB bad_JJ ,_, thanks_NNS ._SENT The_DT wall_NN of_IN the_DT pit_NN seems_VVZ to_TO be_VB the_DT same_JJ as_RB 
+the_DT cavern_NN ,_, just_RB not_RB much_JJ of_IN it_PP ._SENT There_EX 's_VBZ a_DT crust_NN about_IN twenty_CD feet_NNS down_RB 
+and_CC then_RB nothing_NN ._SENT Just_RB the_DT pit_NN ._SENT Okay_RB ,_, then_RB ._SENT Lower_VV me_PP down_RP ._SENT 
+IDA_NP :_: Well_UH ,_, here_RB we_PP go_VVP then_RB ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+(_( The_DT Ood_NNS are_VBP nearly_RB through_IN the_DT door_NN ._SENT The_DT others_NNS 
+have_VHP got_VVN a_DT piece_NN of_IN deck_NN plating_VVG up_RP ._SENT )_) 
+ROSE_NN :_: Danny_NP !_SENT 
+DANNY_NN :_: Hold_VV on_RP !_SENT Just_RB conforming_VVG ._SENT 
+JEFFERSON_NP :_: Dan_NP ,_, we_PP got_VVD to_TO go_VV now_RB !_SENT Come_VVN on_IN !_SENT 
+DANNY_NN :_: Yeah_UH !_SENT 
+(_( He_PP grabs_VVZ an_DT orange_JJ computer_NN chip_NN from_IN the_DT machine_NN and_CC runs_VVZ over_RP to_TO the_DT 
+others_NNS ._SENT )_) 
+DANNY_NN :_: Put_VVD that_IN/that in_IN the_DT monitor_NN and_CC it_PP 's_VBZ a_DT bad_JJ time_NN to_TO be_VB an_DT Ood_NN ._SENT 
+ROSE_NN :_: We_PP 're_VBP coming_VVG back_RB ._SENT Have_VHP you_PP got_VVN that_RB ?_SENT We_PP 're_VBP coming_VVG back_RB to_TO this_DT 
+room_NN and_CC we_PP 're_VBP getting_VVG the_DT Doctor_NP out_RP ._SENT 
+JEFFERSON_NP :_: Okay_JJ ._SENT Danny_NP ,_, you_PP go_VVP first_JJ ,_, then_RB you_PP ,_, Miss_NP Tyler_NP ,_, then_RB Toby_NP ._SENT 
+I_PP 'll_MD go_VV last_JJ in_IN defensive_JJ position_NN ._SENT Now_RB ,_, come_VVN on_IN ,_, quick_JJ as_IN you_PP can_MD !_SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+(_( Looking_VVG like_IN an_DT air_NN conditioning_NN tunnel_NN ._SENT )_) 
+ROSE_NN :_: God_NP ,_, it_PP stinks_VVZ ._SENT You_PP all_RB right_RB ?_SENT 
+DANNY_NN :_: Yeah_UH ,_, I_PP 'm_VBP laughing_VVG ._SENT Which_WDT way_RB do_VVP we_PP go_VV ?_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Just_RB go_VV straight_RB ahead_RB ._SENT Keep_VV going_VVG till_IN I_PP say_VVP 
+so_RB ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+(_( Jefferson_NP shuts_VVZ the_DT entrance_NN behind_IN him_PP as_IN the_DT Ood_NN 
+break_NN through_IN door_NN 25._CD The_DT group_NN crawl_VV off_RP on_IN hands_NNS and_CC knees_NNS ._SENT )_) 
+ROSE_NN :_: Not_RB your_PP$ best_JJS angle_NN ,_, Danny_NP ._SENT 
+DANNY_NN :_: Oi_NP ,_, stop_VV it_PP ._SENT 
+TOBY_NN :_: I_PP do_VVP n't_RB know_VV ,_, it_PP could_MD be_VB worse_JJR ._SENT 
+ROSE_NN :_: Oi_NP !_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Straight_RB on_IN until_IN you_PP find_VVP junction_NN seven_CD 
+point_NN one_CD ._SENT Keep_VV breathing_NN ._SENT I_PP 'm_VBP feeding_VVG you_PP air_NN ._SENT I_PP 've_VHP got_VVN you_PP ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+DANNY_NN :_: We_PP 're_VBP at_IN seven_CD point_NN one_CD ,_, sir_NN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Okay_JJ ,_, I_PP 've_VHP got_VVN you_PP ._SENT I_PP 'm_VBP just_RB aerating_VVG the_DT 
+next_JJ section_NN ._SENT 
+
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+DANNY_NN :_: Getting_VVG kind_NN of_IN cramped_JJ ,_, sir_NN ._SENT Ca_MD n't_RB you_PP 
+hurry_NN up_RB ?_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 'm_VBP working_VVG on_IN half_DT power_NN ,_, here_RB ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+JEFFERSON_NN :_: Stop_VV complaining_VVG ._SENT 
+ROSE_NN :_: Mister_NP Jefferson_NP says_VVZ stop_VV complaining_VVG ._SENT 
+DANNY_NN :_: I_PP heard_VVD ._SENT 
+ROSE_NN :_: He_PP heard_VVD ._SENT 
+TOBY_NP :_: But_CC the_DT air_NN 's_VBZ getting_VVG a_DT bit_NN thin_JJ ._SENT 
+ROSE_NN :_: He_PP 's_VBZ complaining_VVG now_RB ._SENT 
+JEFFERSON_NN :_: I_PP heard_VVD ._SENT 
+ROSE_NN :_: (_( sniffs_VVZ )_) Danny_NP ,_, is_VBZ that_IN/that you_PP ?_SENT 
+DANNY_NN :_: I_PP 'm_VBP not_RB exactly_RB happy_JJ ._SENT 
+ZACH_NN [_SYM OC_NP ]_SYM :_: I_PP 'm_VBP just_RB moving_VVG the_DT air_NN ._SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 've_VHP got_VVN to_TO oxygenate_VV the_DT next_JJ section_NN ._SENT Now_RB ,_, 
+keep_VV calm_NN or_CC it_PP 's_VBZ going_VVG to_TO feel_VV worse_JJR ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+(_( Bang_NP !_SENT )_) 
+DANNY_NN :_: What_WP was_VBD that_DT ?_SENT 
+ROSE_NN :_: Mister_NP Jefferson_NP ,_, what_WP was_VBD that_DT ?_SENT 
+TOBY_NP :_: What_WP 's_VBZ that_DT noise_NN ?_SENT 
+JEFFERSON_NP :_: Captain_NP ,_, what_WP was_VBD that_DT ?_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: The_DT junction_NN in_IN Habitation_NP Five_CD 's_VHZ been_VBN 
+opened_VVD ._SENT It_PP must_MD be_VB the_DT Ood_NN ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: They_PP 're_VBP in_IN the_DT tunnels_NNS !_SENT 
+DANNY_NN :_: Well_UH ,_, open_VV the_DT gate_NN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 've_VHP got_VVN to_TO get_VV the_DT air_NN in_IN !_SENT 
+DANNY_NN [_SYM OC_NP ]_SYM :_: Just_RB open_VV it_PP ,_, sir_NN ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ROSE_NN :_: Where_WRB are_VBP they_PP ?_SENT Are_VBP they_PP close_JJ ?_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP ca_MD n't_RB tell_VV ._SENT I_PP ca_MD n't_RB see_VV them_PP ._SENT 
+The_DT computer_NN does_VVZ n't_RB register_VV Ood_NNS as_IN proper_JJ life_NN forms_NNS ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ROSE_NN :_: Whose_WP$ idea_NN was_VBD that_DT ?_SENT 
+DANNY_NN :_: Open_VV the_DT gate_NN !_SENT 
+(_( The_DT gate_NN slides_VVZ up_RP behind_IN Danny_NP and_CC they_PP hurry_VVP through_RP ._SENT )_) 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NP :_: Danny_NP ,_, turn_NN left_VVD ._SENT Immediate_JJ left_NN ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+JEFFERSON_NN :_: The_DT Ood_NN ,_, sir_NN ._SENT ca_MD n't_RB you_PP trap_VVP them_PP ?_SENT Cut_NN 
+off_IN the_DT air_NN ?_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: Not_RB without_IN cutting_VVG off_RP yours_PP$ ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: Danny_NP ,_, turn_NN right_NN ._SENT Go_VV right_RB !_SENT Go_VV fast_RB ,_, 
+Dan_NP ._SENT They_PP 're_VBP going_VVG to_TO catch_VV up_RP ._SENT 
+JEFFERSON_NN :_: I_PP 'll_MD maintain_VV defensive_JJ position_NN ._SENT 
+ROSE_NN :_: You_PP ca_MD n't_RB stop_VV !_SENT 
+JEFFERSON_NP :_: Miss_NP Tyler_NP ,_, that_WDT 's_VBZ my_PP$ job_NN ._SENT You_PP 've_VHP got_VVN your_PP$ task_NN ,_, now_RB see_VVP to_TO 
+it_PP ._SENT 
+TOBY_NN :_: You_PP heard_VVD what_WP he_PP said_VVD ,_, now_RB shift_NN ._SENT 
+(_( Jefferson_NP braces_VVZ himself_PP on_IN the_DT sides_NNS of_IN the_DT tunnel_NN and_CC starts_VVZ firing_NN 
+as_IN Ood_NNS come_VVN around_IN the_DT corner_NN ._SENT )_) 
+DANNY_NN :_: Eight_CD point_NN two_CD ._SENT Open_RB eight_CD point_NN two_CD ._SENT Zach_NP !_SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+DANNY_NN [_SYM OC_NP ]_SYM :_: Open_RB eight_CD point_NN two_CD !_SENT 
+ZACH_NN :_: I_PP 've_VHP got_VVN to_TO aerate_VV it_PP ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+DANNY_NN :_: Open_VV it_PP now_RB !_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 'm_VBP trying_VVG ._SENT 
+
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+(_( Danny_NP starts_VVZ thumping_VVG the_DT gate_NN ._SENT )_) 
+ROSE_NN :_: Danny_NP ,_, stop_VV it_PP ._SENT That_DT 's_VBZ not_RB helping_VVG ._SENT 
+TOBY_NP :_: Zach_NP ,_, get_VVP it_PP open_JJ !_SENT 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NP :_: Jefferson_NP ,_, I_PP 've_VHP got_VVN to_TO open_VV eight_CD point_NN two_CD 
+by_IN closing_VVG eight_CD point_NN one_CD ._SENT You_PP 've_VHP got_VVN to_TO get_VV past_IN the_DT junction_NN ._SENT Now_RB 
+move_NN ._SENT That_DT 's_VBZ an_DT order_NN ,_, now_RB move_NN !_SENT 
+(_( Jefferson_NP has_VHZ had_VHD to_TO resort_VV to_TO his_PP$ pistol_NN ,_, and_CC now_RB he_PP is_VBZ completely_RB 
+out_RB of_IN ammunition_NN ._SENT )_) 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: I_PP 'm_VBP going_VVG to_TO lose_VV oxygen_NN ,_, Jefferson_NP ,_, I_NP 
+ca_MD n't_RB stop_VV for_IN your_PP$ dramatics_NNS !_SENT 
+(_( Jefferson_NP retreats_NNS ._SENT The_DT gate_NN opens_VVZ ._SENT )_) 
+DANNY_NN :_: That_WDT 's_VBZ it_PP !_SENT Come_VVN on_IN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NP :_: Danny_NP ,_, turn_NN left_NN and_CC head_NN for_IN nine_CD point_NN two_CD ._SENT 
+That_DT 's_VBZ the_DT last_JJ one_CD ._SENT Jefferson_NP 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: You_PP 've_VHP got_VVN to_TO move_VV faster_RBR ._SENT John_NP ,_, move_NN !_SENT 
+ROSE_NN :_: Mister_NP Jefferson_NP !_SENT 
+TOBY_NN :_: Keep_VV going_VVG !_SENT 
+(_( Gate_NN 8.1_CD closes_NNS in_IN front_NN of_IN Jefferson_NP ._SENT )_) 
+[_SYM Control_NP room_NN ]_SYM 
+
+JEFFERSON_NN [_SYM OC_NP ]_SYM :_: Regret_NN to_TO inform_VV ,_, sir_NN 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+JEFFERSON_NN :_: I_PP was_VBD a_DT bit_NN slow_JJ ._SENT Not_RB so_RB fast_RB ,_, these_DT 
+days._NP 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP ca_MD n't_RB open_VV eight_CD point_NN one_CD ,_, John_NP ._SENT Not_RB 
+without_IN losing_VVG air_NN for_IN the_DT others_NNS ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+JEFFERSON_NN :_: And_CC quite_RB right_RB too_RB ,_, sir_NN ._SENT I_PP think_VVP I_PP 
+bought_VVD them_PP a_DT little_JJ time_NN ._SENT 
+(_( Further_JJR along_RB ,_, the_DT others_NNS hear_VVP the_DT conversation_NN ._SENT )_) 
+ZACH_NN [_SYM OC_NP ]_SYM :_: There_EX 's_VBZ nothing_NN I_PP can_MD do_VV ,_, John_NP ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 'm_VBP sorry_JJ ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+JEFFERSON_NN :_: You_PP 've_VHP done_VVN enough_RB ,_, sir_NN ._SENT Made_VVN a_DT very_RB 
+good_JJ captain_NN under_IN the_DT circumstances_NNS ._SENT May_MD I_PP ask_VV ,_, if_IN you_PP ca_MD n't_RB add_VV 
+oxygen_NN to_TO this_DT section_NN ,_, can_MD you_PP speed_VV up_RP the_DT process_NN of_IN its_PP$ removal_NN ?_SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT What_WP do_VVP you_PP mean_VVP ?_SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+JEFFERSON_NN :_: Well_RB ,_, if_IN I_PP might_MD chose_VVD the_DT manner_NN of_IN my_PP$ 
+departure_NN ,_, sir_NN ,_, lack_NN of_IN air_NN seems_VVZ more_RBR natural_JJ than_IN ,_, well_UH ,_, let_VV 's_VBZ say_VV 
+death_NN by_IN Ood_NP ._SENT I_PP 'd_MD appreciate_VV it_PP ,_, sir_NN !_SENT 
+(_( The_DT Ood_NNS have_VHP arrived_VVN ._SENT )_) 
+
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NP :_: God_NP speed_NN ,_, Mister_NP Jefferson_NP ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+JEFFERSON_NN :_: Thank_VV you_PP ,_, sir_NN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+(_( Zach_NP presses_VVZ the_DT necessary_JJ buttons_NNS ._SENT There_EX is_VBZ a_DT 
+hiss_NN and_CC then_RB Jefferson_NP 's_POS blip_NN disappears_VVZ from_IN his_PP$ diagram_NN ._SENT )_) 
+ZACH_NP :_: Report_NP Officer_NP John_NP Maynard_NP Jefferson_NP PKD_NP deceased_VVD 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: With_IN honours_NNS ._SENT 43_CD K_NN two_CD point_NN one_CD ._SENT 
+DANNY_NN :_: Zach_NP ,_, we_PP 're_VBP at_IN the_DT final_JJ junction_NN ,_, nine_CD point_NN two_CD ._SENT And_CC er_NNS ,_, if_IN my_PP$ 
+respects_NNS could_MD be_VB 
+[_SYM Control_NP room_NN ]_SYM 
+
+DANNY_NN [_SYM OC_NP ]_SYM :_: On_IN record_NN ._SENT He_PP saved_VVD our_PP$ lives_NNS ._SENT 
+ZACH_NP :_: Noted_VVD ._SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: Opening_NN nine_CD point_NN two_CD ._SENT 
+(_( An_DT Ood_NN is_VBZ waiting_VVG for_IN them_PP ._SENT )_) 
+ROSE_NN :_: Lower_VV nine_CD point_NN two_CD !_SENT Hurry_NN ,_, Zach_NP !_SENT 
+DANNY_NN :_: Back_RB !_SENT Back_RB !_SENT Back_RB !_SENT 
+TOBY_NN :_: We_PP ca_MD n't_RB go_VV back_RB !_SENT The_DT gang_NN point_NN 's_VBZ sealed_VVN off_RP ._SENT We_PP 're_VBP stuck_VVN ._SENT 
+(_( Rose_NP looks_VVZ up_RP ,_, then_RB pushes_VVZ open_VV a_DT floor_NN grating_VVG as_IN the_DT Ood_NN struggles_VVZ 
+with_IN the_DT gate_NN ._SENT )_) 
+ROSE_NN :_: Come_VV on_RP !_SENT Up_RB !_SENT 
+
+[_SYM Corridor_NP ]_SYM 
+
+(_( They_PP come_VVP out_RP near_IN door_NN 32._CD )_) 
+ROSE_NN :_: Come_VV on_RP !_SENT Toby_NP ,_, come_VVN on_IN !_SENT 
+[_SYM Maintenance_JJ tunnel_NN ]_SYM 
+
+(_( Toby_NP 's_POS eyes_NNS are_VBP red_JJ ._SENT He_PP gestures_VVZ to_TO the_DT Ood_JJ to_TO 
+keep_VV quiet_JJ ._SENT )_) 
+ROSE_NN :_: Toby_NP ,_, get_VV out_RP of_IN there_RB !_SENT 
+(_( His_PP$ eyes_NNS are_VBP back_RB to_TO normal_JJ ._SENT )_) 
+TOBY_NN :_: Help_VV me_PP !_SENT Oh_UH ,_, my_PP$ God_NP ._SENT Help_VV me_PP !_SENT 
+[_SYM Corridor_NP ]_SYM 
+
+(_( Ood_JJ approach_NN along_IN the_DT corridor_NN ._SENT )_) 
+ROSE_NN :_: Come_VV on_RP ._SENT 
+(_( They_PP pull_VVP Toby_NP up_RB ._SENT )_) 
+DANNY_NN :_: It_PP 's_VBZ this_DT way_NN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+(_( The_DT Ood_NNS are_VBP nearly_RB through_IN door_NN 1._CD Zach_NP picks_NNS up_RB 
+the_DT bolt_NN gun_NN ._SENT )_) 
+ZACH_NN :_: Hurry_VV it_PP up_RP !_SENT 
+[_SYM Ood_NP Habitation_NP ]_SYM 
+
+ROSE_NN :_: Get_VV it_PP in_RP !_SENT 
+TOBY_NP :_: Danny_NP ,_, get_VVP down_RB ._SENT 
+ROSE_NN :_: Transmit_VV !_SENT 
+DANNY_NN :_: I_PP 'm_VBP trying_VVG ,_, I_PP 'm_VBP trying_VVG !_SENT I_PP 'm_VBP getting_VVG at_IN it_PP ._SENT 
+(_( Danny_NP searches_VVZ his_PP$ pockets_NNS for_IN the_DT computer_NN chip_NN as_IN the_DT Ood_NN come_VVN up_RP 
+the_DT stairs_NNS ._SENT )_) 
+(_( The_DT Ood_JJ break_NN into_IN the_DT control_NN room_NN ._SENT )_) 
+ROSE_NN :_: Danny_NP ,_, get_VVP that_IN/that thing_NN transmitting_VVG !_SENT 
+(_( He_PP does_VVZ ._SENT The_DT reading_NN falls_VVZ from_IN basic_JJ 100_CD to_TO zero_CD ._SENT All_PDT the_DT Ood_JJ grab_NN 
+their_PP$ heads_NNS and_CC writhe_NN for_IN a_DT few_JJ seconds_NNS before_IN finally_RB collapsing_VVG ._SENT )_) 
+ROSE_NN :_: You_PP did_VVD it_PP !_SENT We_PP did_VVD it_PP !_SENT 
+DANNY_NN :_: Yes_UH !_SENT 
+ROSE_NN :_: Zach_NP ,_, we_PP did_VVD it_PP ._SENT The_DT Ood_NNS are_VBP down_RB ._SENT Now_RB we_PP 've_VHP got_VVN to_TO get_VV the_DT 
+Doctor_NN ._SENT 
+[_SYM Control_NP room_NN ]_SYM 
+
+ZACH_NN :_: I_PP 'm_VBP on_IN my_PP$ way_NN ._SENT 
+[_SYM Chasm_NP ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ still_RB descending_VVG ._SENT )_) 
+DOCTOR_NN :_: You_PP get_VVP representations_NNS of_IN the_DT Horned_JJ Beast_NN right_NN across_IN the_DT 
+universe_NN ,_, in_IN the_DT myths_NNS and_CC legends_NNS of_IN a_DT million_CD worlds_NNS ._SENT Earth_NP ,_, 
+Draconia_NP ,_, Velconsadine_NP ,_, Daemos_NP ._SENT The_DT Kaled_NP god_NN of_IN war_NN ._SENT It_PP 's_VBZ the_DT same_JJ 
+image_NN ,_, over_IN and_CC over_IN again_RB ._SENT Maybe_RB that_DT idea_NN came_VVD from_IN somewhere_RB ,_, 
+bleeding_VVG through_RP ._SENT The_DT thought_NN at_IN the_DT back_NN of_IN every_DT sentient_JJ mind_NN ._SENT 
+IDA_NN :_: Emanating_VVG from_IN here_RB ?_SENT 
+DOCTOR_NN :_: Could_MD be_VB ._SENT 
+IDA_NP :_: But_CC if_IN this_DT is_VBZ the_DT original_JJ ,_, does_VVZ that_RB make_VV it_PP real_JJ ?_SENT Does_VVZ that_DT 
+make_VV it_PP the_DT actual_JJ devil_NN ,_, though_RB ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, if_IN that_WDT 's_VBZ what_WP you_PP want_VVP to_TO believe_VV ._SENT Maybe_RB that_DT 's_VBZ what_WP the_DT 
+devil_NN is_VBZ ,_, in_IN the_DT end_NN ._SENT An_DT idea_NN ._SENT 
+(_( They_PP run_VVP out_RP of_IN cable_NN ._SENT The_DT Doctor_NP is_VBZ dangling_VVG in_IN mid-air_NN ._SENT Mid-vacuum_NP ._SENT 
+Whatever_WDT ._SENT )_) 
+IDA_NP :_: That_WDT 's_VBZ it_PP ._SENT That_DT 's_VBZ all_DT we_PP 've_VHP got_VVN ._SENT You_PP getting_VVG any_DT sort_NN of_IN readout_NN ?_SENT 
+DOCTOR_NN :_: Nothing_NN ._SENT Could_MD be_VB miles_NNS to_TO go_VV ,_, yet_RB ._SENT Or_CC could_MD be_VB thirty_CD feet_NNS ._SENT No_UH 
+way_NN of_IN telling_VVG ._SENT I_PP could_MD survive_VV thirty_CD feet_NNS ._SENT 
+IDA_NP :_: Oh_UH no_UH you_PP do_VVP n't_RB ._SENT I_PP 'm_VBP pulling_VVG you_PP back_RB up_RP ._SENT 
+(_( She_PP reverses_VVZ the_DT drum_NN ._SENT The_DT Doctor_NP stops_VVZ it_PP ._SENT )_) 
+IDA_NP :_: What_WP 're_VBP you_PP doing_VVG ?_SENT 
+DOCTOR_NN :_: You_PP bring_VVP me_PP back_RB ,_, then_RB we_PP 're_VBP just_RB going_VVG to_TO sit_VV there_RB and_CC run_VV 
+out_RB of_IN air_NN ._SENT I_PP 've_VHP 
+got_VVN to_TO go_VV down_RP ._SENT 
+IDA_NP :_: But_CC you_PP ca_MD n't_RB ._SENT Doctor_NN ,_, you_PP ca_MD n't_RB ._SENT 
+DOCTOR_NN :_: Call_VV it_PP an_DT act_NN of_IN faith_NN ._SENT 
+IDA_NP :_: But_CC I_PP do_VVP n't_RB want_VV to_TO die_VV on_IN my_PP$ own_JJ ._SENT 
+DOCTOR_NN :_: I_PP know_VVP ._SENT 
+(_( The_DT Doctor_NP undoes_VVZ the_DT caribiners_NNS holding_VVG the_DT cable_NN in_IN place_NN around_RB 
+him_PP ._SENT )_) 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: Doctor_NN ,_, are_VBP you_PP there_RB ?_SENT Doctor_NN ,_, Ida_NP ,_, can_MD you_PP 
+hear_VV me_PP ?_SENT 
+ZACH_NN :_: The_DT comms_NNS ._SENT are_VBP still_RB down_RB ._SENT I_PP can_MD patch_VV them_PP through_IN the_DT central_JJ 
+desk_NN and_CC boost_VV the_DT signal_NN ._SENT Just_RB give_VV me_PP a_DT minute_NN ._SENT 
+
+[_SYM Chasm_NP ]_SYM 
+
+DOCTOR_NN :_: I_PP did_VVD n't_RB ask_VV ._SENT Have_VHP you_PP got_VVD any_DT sort_NN of_IN 
+faith_NN ?_SENT 
+IDA_NN :_: Not_RB really_RB ._SENT I_PP was_VBD brought_VVN up_IN Neo_NP Classic_NP Congregational_JJ ,_, because_RB 
+of_IN my_PP$ mum_NN ._SENT She_PP was_VBD ._SENT My_PP$ old_JJ mum_NN ._SENT But_CC no_UH ,_, I_PP never_RB believed_VVD ._SENT 
+DOCTOR_NN :_: Neo_NN Classics_NNS ,_, have_VHP they_PP got_VVD a_DT devil_NN ?_SENT 
+IDA_NP :_: No_UH ,_, not_RB as_RB such_JJ ._SENT Just_RB er_NN ,_, the_DT things_NNS that_WDT men_NNS do_VVP ._SENT 
+DOCTOR_NN :_: Same_JJ thing_NN in_IN the_DT end_NN ._SENT 
+IDA_NP :_: What_WP about_IN you_PP ?_SENT 
+DOCTOR_NN :_: I_PP believe_VVP ,_, I_PP believe_VVP I_PP have_VHP n't_RB seen_VVN everything_NN ,_, I_PP do_VVP n't_RB know_VV ._SENT 
+It_PP 's_VBZ funny_JJ ,_, is_VBZ n't_RB it_PP ?_SENT The_DT things_NNS you_PP make_VVP up_RP ._SENT The_DT rules_NNS ._SENT If_IN that_DT thing_NN 
+had_VHD said_VVN it_PP came_VVD from_IN beyond_IN the_DT universe_NN ,_, I_PP 'd_MD believe_VV it_PP ,_, but_CC before_RB 
+the_DT universe_NN ?_SENT Impossible_JJ ._SENT Does_VVZ n't_RB fit_VV my_PP$ rule_NN ._SENT Still_RB ,_, that_WDT 's_VBZ why_WRB I_PP keep_VVP 
+travelling_VVG ._SENT To_TO be_VB proved_VVN wrong_RB ._SENT Thank_VV you_PP ,_, Ida_NP ._SENT 
+IDA_NP :_: Do_VVP n't_RB go_VV !_SENT 
+DOCTOR_NN :_: If_IN they_PP get_VVP back_RB in_IN touch_NN ,_, if_IN you_PP talk_VVP to_TO Rose_NP ,_, just_RB tell_VV her_PP ._SENT 
+Tell_VV her_PP ._SENT Oh_UH ,_, she_PP knows_VVZ ._SENT 
+(_( He_PP releases_VVZ the_DT last_JJ caribiner_NN and_CC falls_VVZ into_IN the_DT blackness_NN ._SENT )_) 
+ROSE_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ,_, are_VBP you_PP there_RB ?_SENT Doctor_NN ,_, Ida_NP ,_, can_MD you_PP hear_VV me_PP ?_SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: Are_VBP you_PP there_RB ,_, Doctor_NP ?_SENT 
+[_SYM Chasm_NP ]_SYM 
+
+IDA_NN :_: He_PP 's_VBZ gone_VVN ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_VVD :_: What_WP do_VVP you_PP mean_VVP ,_, he_PP 's_VBZ gone_VVN ?_SENT 
+[_SYM Chasm_NP ]_SYM 
+
+IDA_NN :_: He_PP fell_VVD into_IN the_DT pit_NN ._SENT And_CC I_PP do_VVP n't_RB know_VV how_WRB 
+deep_RB it_PP is_VBZ ._SENT Miles_NNS and_CC miles_NNS and_CC miles_NNS ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ROSE_NN :_: But_CC what_WP do_VVP you_PP mean_VVP ,_, he_PP fell_VVD ?_SENT 
+[_SYM Chasm_NP ]_SYM 
+
+IDA_NN :_: I_PP could_MD n't_RB stop_VV him_PP ._SENT He_PP said_VVD your_PP$ name_NN ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+(_( Zach_NP takes_VVZ the_DT microphone_NN from_IN Rose_NP ._SENT )_) 
+ZACH_NN :_: I_PP 'm_VBP sorry_JJ ._SENT Ida_NP ?_SENT There_EX 's_VBZ no_DT way_NN of_IN reaching_VVG you_PP ._SENT No_DT cable_NN 
+[_SYM Chasm_NP ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: No_RB back_RB up_RP ._SENT You_PP 're_VBP ten_CD miles_NNS down_RB ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN :_: We_PP ca_MD n't_RB get_VV there_RB ._SENT 
+[_SYM Chasm_NP ]_SYM 
+
+IDA_NN :_: You_PP should_MD see_VV this_DT place_NN ,_, Zach_NP ._SENT It_PP 's_VBZ 
+beautiful_JJ ._SENT Well_RB ,_, I_PP wanted_VVD to_TO discover_VV things_NNS ,_, and_CC here_RB I_PP am_VBP ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN :_: We_PP 've_VHP got_VVN to_TO abandon_VV the_DT base_NN ._SENT 
+[_SYM Chasm_NP ]_SYM 
+
+ZACH_NN [_SYM OC_NP ]_SYM :_: I_PP 'm_VBP declaring_VVG this_DT mission_NN unsafe_JJ ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN :_: All_RB we_PP can_MD do_VV is_VBZ make_VV sure_RB no_DT one_CD ever_RB comes_VVZ 
+here_RB again_RB ._SENT 
+[_SYM Chasm_NP ]_SYM 
+
+IDA_NP :_: But_CC we_PP 'll_MD never_RB find_VV out_RP what_WP it_PP was_VBD ._SENT 
+
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN :_: Well_RB ,_, maybe_RB that_RB 's_VBZ best_JJS ._SENT 
+[_SYM Chasm_NP ]_SYM 
+
+IDA_NP :_: Yeah_UH ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+ZACH_NP :_: Officer_NP Scott_NP 
+[_SYM Chasm_NP ]_SYM 
+
+IDA_NN :_: It_PP 's_VBZ all_DT right_NN ._SENT Just_RB go_VV ._SENT Good_JJ luck_NN ._SENT 
+[_SYM Drilling_NP area_NN ]_SYM 
+
+ZACH_NN :_: And_CC you_PP ._SENT Danny_NP ,_, Toby_NP ,_, close_VV down_RP the_DT feed_NN 
+links_NNS ._SENT Get_VV the_DT retrotropes_NNS online_JJ ,_, then_RB get_VV to_TO the_DT rocket_NN and_CC strap_NN 
+yourselves_NNS in_IN ._SENT We_PP 're_VBP leaving_VVG ._SENT 
+ROSE_NN :_: I_PP 'm_VBP not_RB going_VVG ._SENT 
+ZACH_NP :_: Rose_VVD ,_, there_EX 's_VBZ space_NN for_IN you_PP ._SENT 
+ROSE_NN :_: No_UH ,_, I_PP 'm_VBP going_VVG to_TO wait_VV for_IN the_DT Doctor_NP ._SENT Just_RB like_IN he_PP waited_VVD for_IN me_PP ._SENT 
+
+ZACH_NN :_: I_PP 'm_VBP sorry_JJ ,_, but_CC he_PP 's_VBZ dead_JJ ._SENT 
+ROSE_NN :_: You_PP do_VVP n't_RB know_VV him_PP ._SENT '_'' Cause_NP he_PP 's_VBZ not_RB ._SENT I_PP 'm_VBP telling_VVG you_PP ,_, he_PP 's_VBZ not_RB ._SENT 
+And_CC even_RB if_IN he_PP was_VBD ,_, how_WRB could_MD I_PP leave_VV him_PP all_DT on_IN his_PP$ own_JJ ,_, all_RB the_DT way_NN 
+down_RB there_RB ?_SENT No_UH ,_, I_PP 'm_VBP going_VVG to_TO stay_VV ._SENT 
+ZACH_NN :_: Then_RB I_PP apologise_VVP for_IN this_DT ._SENT Danny_NP ,_, Toby_NP ?_SENT Make_VV her_PP secure_VV ._SENT 
+(_( The_DT men_NNS grab_VVP Rose_NP ._SENT )_) 
+ROSE_NN :_: No_UH ,_, no._NP No_NP !_SENT No_UH !_SENT No_UH !_SENT Let_VV me_PP go_VV !_SENT Get_VV off_IN me_PP !_SENT I_PP 'm_VBP not_RB leaving_VVG !_SENT 
+(_( Zach_NP injects_VVZ Rose_NP ,_, and_CC she_PP passes_VVZ out_RP ._SENT )_) 
+ROSE_VVD :_: No._NN 
+ZACH_NN :_: I_PP have_VHP lost_VVN too_RB many_JJ people_NNS ._SENT I_PP am_VBP not_RB leaving_VVG you_PP behind_RB ._SENT Let_NP 's_POS 
+get_VV her_PP on_IN board_NN ._SENT 
+[_SYM Corridor_NP ]_SYM 
+
+(_( An_DT Ood_JJ twitches_NNS ._SENT )_) 
+TOBY_NP :_: Did_VVD that_IN/that one_PP just_RB move_VVP ?_SENT 
+DANNY_NN :_: It_PP 's_VBZ the_DT telepathic_JJ field_NN ._SENT It_PP 's_VBZ reasserting_VVG itself_PP ._SENT 
+ZACH_NN :_: Move_VV it_PP ._SENT Get_VV to_TO the_DT rocket_NN ._SENT Move_NN !_SENT 
+[_SYM Pit_NP ]_SYM 
+
+(_( The_DT Doctor_NP has_VHZ landed_VVN at_IN the_DT bottom_NN ,_, and_CC his_PP$ 
+faceplate_NN is_VBZ broken_VVN ._SENT He_PP wakes_VVZ and_CC stands_VVZ up_RP ._SENT )_) 
+DOCTOR_NN :_: I_PP 'm_VBP breathing_VVG ._SENT Air_NP cushion_NN to_TO support_VV the_DT fall_NN ._SENT You_PP can_MD breath_NN 
+down_RB here_RB ,_, Ida_NP ._SENT Can_MD you_PP hear_VV me_PP ,_, Ida_NP ?_SENT 
+[_SYM Rocket_NP ]_SYM 
+
+(_( Everyone_NN is_VBZ strapped_VVN in_IN ._SENT )_) 
+ZACH_NN :_: Dislocating_VVG B_NP clamp_NN ._SENT C_NP Clamp_NP ._SENT Raising_VVG blu-nitro_NN to_TO maximum_NN ._SENT Toby_NP ,_, 
+how_WRB 's_VBZ the_DT Negapact_JJ feed_NN line_NN ?_SENT 
+TOBY_NP :_: Clear_JJ ._SENT Ready_JJ to_TO go_VV ,_, sir_NN ._SENT For_IN God_NP 's_POS sakes_NNS ,_, get_VV us_PP out_RP of_IN here_RB !_SENT 
+(_( Rose_NP starts_VVZ to_TO wake_NN ._SENT )_) 
+DANNY_NN :_: Captain_NN ,_, I_PP think_VVP we_PP 're_VBP going_VVG to_TO have_VH a_DT problem_NN passenger_NN ._SENT 
+ZACH_NN :_: Keep_VV an_DT eye_NN on_IN her_PP ._SENT 
+ROSE_NN :_: Wait_VV ._SENT We_PP 're_VBP not_RB 
+DANNY_NN :_: It_PP 's_VBZ all_DT right_NN ,_, Rose_NP ._SENT You_PP 're_VBP safe_JJ ._SENT 
+ROSE_NN :_: I_PP 'm_VBP not_RB going_VVG anywhere_RB !_SENT Get_VV me_PP out_RP of_IN this_DT thing_NN !_SENT Get_VV me_PP out_RP !_SENT 
+ZACH_NN :_: And_CC lift_VV off_RP !_SENT Whoo_NP !_SENT 
+
+[_SYM Pit_NP ]_SYM 
+
+(_( Ida_NP hears_VVZ the_DT rocket_NN engines_NNS ._SENT So_RB does_VVZ the_DT Doctor_NP ._SENT )_) 
+
+DOCTOR_NN :_: A_DT rocket_NN ._SENT 
+
+[_SYM Rocket_NP ]_SYM 
+
+(_( Rose_NP grabs_VVZ the_DT bolt_NN gun_NN ._SENT )_) 
+ROSE_NN :_: Take_VV me_PP back_RB to_TO the_DT planet_NN ._SENT Take_VV me_PP back_RB !_SENT 
+ZACH_NN :_: Or_CC what_WP ?_SENT 
+ROSE_NN :_: Or_CC I_PP 'll_MD shoot_VV ._SENT 
+ZACH_NN :_: Would_MD you_PP ,_, though_RB ?_SENT Would_MD you_PP really_RB ?_SENT Is_VBZ that_IN/that what_WP your_PP$ Doctor_NP 
+would_MD want_VV ?_SENT 
+(_( Rose_NP slumps_VVZ back_RB in_IN her_PP$ seat_NN ._SENT )_) 
+ZACH_NN :_: Sorry_RB ,_, but_CC it_PP 's_VBZ too_RB late_JJ anyway_RB ._SENT Take_VV a_DT look_NN outside_NN ._SENT We_PP ca_MD n't_RB 
+turn_VV back_RB ._SENT This_DT is_VBZ what_WP the_DT Doctor_NP would_MD have_VH wanted_VVN ._SENT Is_VBZ n't_RB that_DT right_NN ?_SENT 
+
+(_( The_DT rocket_NN zooms_VVZ away_RB from_IN the_DT black_JJ hole_NN ._SENT )_) 
+
+[_SYM Pit_NP ]_SYM 
+
+(_( The_DT Doctor_NP shines_VVZ his_PP$ torchlight_NN on_IN wall_NN 
+paintings_NNS ._SENT )_) 
+DOCTOR_NN :_: The_DT history_NN of_IN some_DT big_JJ battle_NN ._SENT Man_NN against_IN Beast_NP ._SENT I_PP do_VVP n't_RB know_VV 
+if_IN you_PP 're_VBP getting_VVG this_DT ,_, Ida_NP ._SENT Hope_NN so_RB ._SENT Anyway_RB ,_, they_PP defeated_VVD the_DT Beast_NN 
+and_CC imprisoned_VVN it_PP ._SENT 
+(_( He_PP sees_VVZ two_CD bronze_NN urns_NNS on_IN a_DT pedestals_NNS ._SENT There_EX are_VBP two_CD painted_VVN on_IN the_DT 
+wall_NN ._SENT )_) 
+DOCTOR_NN :_: Or_CC maybe_RB that_WDT 's_VBZ the_DT key_NN ._SENT 
+(_( He_PP touches_VVZ one_CD urn_NN and_CC they_PP both_CC light_VV up_RP ._SENT )_) 
+DOCTOR_NN :_: Or_CC the_DT gate_NN ,_, or_CC the_DT bars_NNS ._SENT 
+(_( An_DT impossibly_RB big_JJ horned_JJ creature_NN wakes_NNS and_CC looks_VVZ at_IN him_PP ._SENT It_PP is_VBZ 
+chained_VVN to_TO the_DT wall_NN by_IN its_PP$ horns_NNS and_CC limbs_NNS ._SENT )_) 
+
+[_SYM Rocket_NP ]_SYM 
+
+DANNY_NN :_: What_WP 's_VBZ the_DT joke_NN ?_SENT 
+TOBY_NN :_: Just_RB ,_, we_PP made_VVD it_PP ._SENT We_PP escaped_VVD ._SENT We_PP actually_RB did_VVD it_PP ._SENT 
+ROSE_NN :_: Not_RB all_RB of_IN us_PP ._SENT 
+ZACH_NN :_: We_PP 're_VBP not_RB out_RB of_IN it_PP yet_RB ._SENT We_PP 're_VBP still_RB the_DT first_JJ people_NNS in_IN history_NN 
+to_TO fly_VV away_RP from_IN a_DT black_JJ hole_NN ._SENT Toby_NP ,_, read_VVD me_PP the_DT stats_NNS ._SENT 
+TOBY_NP :_: Gravity_NN funnel_NN holding_NN ,_, sir_NN ._SENT Always_RB holding_NN ._SENT 
+[_SYM Pit_NP ]_SYM 
+
+DOCTOR_NN :_: I_PP accept_VVP that_IN/that you_PP exist_VVP ._SENT I_PP do_VVP n't_RB have_VH to_TO 
+accept_VV what_WP you_PP are_VBP ,_, but_CC you_PP 're_VBP physical_JJ existence_NN ,_, I_PP 'll_MD give_VV you_PP that_DT ._SENT 
+I_PP do_VVP n't_RB understand_VV ._SENT I_PP was_VBD expected_VVN down_RP here_RB ._SENT I_PP was_VBD given_VVN a_DT safe_JJ 
+landing_NN and_CC air_NN ._SENT You_PP need_VVP me_PP for_IN something_NN ._SENT What_WP for_IN ?_SENT Have_VHP I_PP got_VVN to_TO ,_, I_PP 
+do_VVP n't_RB know_VV ,_, beg_VV an_DT audience_NN ?_SENT Or_CC is_VBZ there_RB a_DT ritual_NN ?_SENT Some_DT sort_NN of_IN 
+incantation_NN or_CC summons_NN or_CC spell_NN ?_SENT All_PDT these_DT things_NNS I_PP do_VVP n't_RB believe_VV in_IN ,_, 
+are_VBP they_PP real_JJ ?_SENT Speak_VV to_TO me_PP !_SENT Tell_VV me_PP !_SENT You_PP wo_MD n't_RB talk_VV ._SENT Or_CC you_PP ca_MD n't_RB talk_VV ._SENT 
+Oh_UH ,_, hold_VV on_RP ,_, wait_VV a_DT minute_NN ,_, just_RB let_VV me_PP ._SENT Oh_UH !_SENT No._NN Yes_RB !_SENT No._NN Think_VVP it_PP 
+through_RB ._SENT You_PP spoke_VVD before_RB ._SENT I_PP heard_VVD your_PP$ voice_NN ._SENT An_DT intelligent_JJ voice_NN ._SENT 
+No_RB ,_, more_JJR than_IN that_DT ._SENT Brilliant_JJ ._SENT But_CC ,_, looking_VVG at_IN you_PP now_RB ,_, all_RB I_PP can_MD see_VV 
+is_VBZ Beast_JJ ._SENT The_DT animal_NN ._SENT Just_RB the_DT body_NN ._SENT You_PP 're_VBP just_RB the_DT body_NN ,_, the_DT physical_NN 
+form_NN ._SENT What_WP 's_VBZ happened_VVN to_TO your_PP$ mind_NN ,_, hmm_NP ?_SENT Where_WRB 's_VHZ it_PP gone_VVN ?_SENT Where_WRB 's_VBZ that_RB 
+intelligence_NN ?_SENT Oh_UH ,_, no._NP 
+
+[_SYM Rocket_NP ]_SYM 
+
+TOBY_NN :_: Stats_NNS at_IN fifty_CD three_CD ._SENT Funnel_VV stable_JJ at_IN sixty_CD 
+six_CD point_NN five_CD ._SENT Hull_NN pressure_NN constant_JJ ._SENT Smooth_JJ as_IN we_PP can_MD ,_, sir_NN ,_, all_PDT the_DT 
+way_NN back_NN home_NN ._SENT Coordinates_NNS set_VVN for_IN planet_NN Earth_NN ._SENT 
+[_SYM Pit_NP ]_SYM 
+
+DOCTOR_NN :_: You_PP 're_VBP imprisoned_VVN ,_, long_JJ time_NN ago_RB ._SENT Before_RB 
+the_DT universe_NN ,_, after_RB ,_, sideways_RB ,_, in_IN between_IN ,_, does_VVZ n't_RB matter_VV ._SENT The_DT prison_NN 
+is_VBZ perfect_JJ ._SENT It_PP 's_VBZ absolute_JJ ,_, it_PP 's_VBZ eternal_JJ ._SENT Oh_UH ,_, yes_UH !_SENT Open_VV the_DT prison_NN ,_, the_DT 
+gravity_NN field_NN collapses_NNS ._SENT This_DT planet_NN falls_VVZ into_IN the_DT black_JJ hole_NN !_SENT You_PP 
+escape_VV ,_, you_PP die_VVP ._SENT Brilliant_JJ !_SENT But_CC that_DT 's_VBZ just_RB the_DT body_NN ._SENT The_DT body_NN is_VBZ 
+trapped_VVN ,_, that_WDT 's_VBZ all_RB ._SENT The_DT devil_NN is_VBZ an_DT idea_NN ._SENT In_IN all_PDT those_DT civilisations_NNS ,_, 
+just_RB an_DT idea_NN ._SENT But_CC an_DT idea_NN is_VBZ hard_JJ to_TO kill_VV ._SENT An_DT idea_NN could_MD escape_VV ._SENT The_DT 
+mind_NN ._SENT The_DT mind_NN of_IN the_DT great_JJ Beast_NN ._SENT The_DT mind_NN can_MD escape_VV !_SENT Oh_UH ,_, but_CC that_DT 's_VBZ 
+it_PP !_SENT You_PP did_VVD n't_RB give_VV me_PP air_NN ,_, your_PP$ jailers_NNS did_VVD ._SENT They_PP set_VVD this_DT up_RP all_RB 
+those_DT years_NNS ago_RB !_SENT They_PP need_VVP me_PP alive_JJ ,_, because_IN if_IN you_PP 're_VBP escaping_VVG ,_, then_RB 
+I_PP 've_VHP 
+got_VVN to_TO stop_VV you_PP ._SENT If_IN I_PP destroy_VVP your_PP$ prison_NN ,_, your_PP$ body_NN is_VBZ destroyed_VVN ._SENT Your_PP$ 
+mind_NN with_IN it_PP ._SENT 
+(_( The_DT Doctor_NP raises_VVZ a_DT rock_NN to_TO smash_VV an_DT urn_NN ,_, then_RB drops_VVZ it_PP again_RB ._SENT )_) 
+DOCTOR_NN :_: But_CC then_RB you_PP 're_VBP clever_JJ enough_RB to_TO use_VV this_DT whole_JJ system_NN against_IN 
+me_FW ._SENT If_IN I_PP destroy_VVP this_DT planet_NN ,_, I_PP destroy_VVP the_DT gravity_NN field_NN ._SENT The_DT rocket_NN ._SENT 
+The_DT rocket_NN loses_VVZ protection_NN and_CC falls_VVZ into_IN the_DT black_JJ hole_NN ._SENT I_PP have_VHP to_TO 
+sacrifice_VV Rose_NP ._SENT 
+[_SYM Rocket_NP ]_SYM 
+
+ROSE_NN :_: It_PP does_VVZ n't_RB make_VV sense_NN ._SENT We_PP escaped_VVD ,_, but_RB 
+there_EX 's_VBZ a_DT thousand_CD ways_NNS it_PP could_MD 've_VH killed_VVN us_PP ._SENT It_PP could_MD 've_VH ripped_VVN out_RP 
+the_DT air_NN or_CC ,_, I_PP do_VVP n't_RB know_VV ,_, burnt_VVD us_PP ,_, or_CC anything_NN ._SENT But_CC it_PP let_VVP us_PP go_VV ._SENT Why_WRB ?_SENT 
+Unless_IN it_PP wanted_VVD us_PP to_TO escape_VV ?_SENT 
+TOBY_NP :_: Hey_UH ,_, Rose_NP ,_, do_VVP us_PP a_DT favour_NN ._SENT Shut_VVN up_RP ._SENT Almost_RB there_RB ._SENT We_PP 'll_MD be_VB beyond_IN 
+the_DT reach_NN of_IN the_DT black_JJ hole_NN in_IN forty_NN ,_, thirty_CD nine_CD 
+[_SYM Pit_NP ]_SYM 
+
+DOCTOR_NN :_: So_RB ,_, that_WDT 's_VBZ the_DT trap_NN ._SENT Or_CC the_DT test_NN ,_, or_CC the_DT 
+final_JJ judgment_NN ,_, I_PP do_VVP n't_RB know_VV ._SENT But_CC if_IN I_PP kill_VVP you_PP ,_, I_PP kill_VVP her_PP ._SENT Except_IN 
+that_IN/that implies_VVZ in_IN this_DT big_JJ grand_JJ scheme_NN of_IN Gods_NPS and_CC Devils_NP that_IN/that she_PP 's_VBZ 
+just_RB a_DT victim_NN ._SENT But_CC I_PP 've_VHP seen_VVN a_DT lot_NN of_IN this_DT universe_NN ._SENT I_PP 've_VHP seen_VVN fake_JJ 
+gods_NNS and_CC bad_JJ gods_NNS and_CC demi-gods_NNS and_CC would-be_JJ gods_NNS ,_, and_CC out_RB of_IN all_PDT that_DT ,_, 
+out_RB of_IN that_DT whole_JJ pantheon_NN ,_, if_IN I_PP believe_VVP in_IN one_CD thing_NN ,_, just_RB one_CD thing_NN ,_, 
+I_PP believe_VVP in_IN her_PP ._SENT 
+(_( He_PP smashes_VVZ the_DT urn_NN ._SENT )_) 
+
+[_SYM Rocket_NP ]_SYM 
+
+(_( The_DT rocket_NN starts_VVZ to_TO shake_VV ._SENT )_) 
+DANNY_NN :_: What_WP happened_VVD ?_SENT What_WP was_VBD that_DT ?_SENT 
+TOBY_NP :_: What_WP 's_VBZ he_PP doing_VVG ?_SENT What_WP is_VBZ he_PP doing_VVG ?_SENT 
+ZACH_NN :_: We_PP 've_VHP lost_VVN the_DT funnel_NN ._SENT Gravity_NN collapse_NN !_SENT 
+ROSE_VVD :_: What_WP does_VVZ that_DT mean_NN ?_SENT 
+ZACH_NN :_: We_PP ca_MD n't_RB escape_VV ._SENT We_PP 're_VBP headed_VVN straight_RB for_IN the_DT black_JJ hole_NN !_SENT 
+[_SYM Pit_NP ]_SYM 
+
+(_( The_DT Doctor_NP smashes_VVZ the_DT second_JJ urn_NN ._SENT )_) 
+DOCTOR_NN :_: This_DT is_VBZ your_PP$ freedom_NN ._SENT Free_JJ to_TO die_VV ._SENT You_PP 're_VBP going_VVG into_IN that_DT black_NN 
+hole_NN and_CC I_PP 'm_VBP riding_VVG with_IN you_PP ._SENT 
+[_SYM Rocket_NP ]_SYM 
+
+ROSE_NN :_: It_PP 's_VBZ the_DT planet_NN ._SENT The_DT planet_NN 's_VBZ moving_VVG ._SENT It_PP 's_VBZ 
+falling_VVG ._SENT (_( Toby_NP 's_POS face_NN is_VBZ covered_VVN in_IN symbols_NNS ._SENT )_) 
+TOBY_NN :_: I_PP am_VBP the_DT rage_NN ._SENT 
+ROSE_NN :_: It_PP 's_VBZ Toby_NP ._SENT Zach_NP ,_, do_VVP something_NN ._SENT 
+TOBY_NP :_: And_CC the_DT bile_NN and_CC the_DT ferocity_NN ._SENT 
+ROSE_NN :_: Just_RB do_VVP something_NN !_SENT 
+TOBY_NN :_: I_PP am_VBP the_DT Prince_NP and_CC the_DT Fall_NN and_CC the_DT enemy_NN ._SENT I_PP am_VBP the_DT sin_NN and_CC the_DT 
+fear_NN and_CC the_DT darkness_NN ._SENT 
+DANNY_NN :_: It_PP 's_VBZ him_PP !_SENT It_PP 's_VBZ him_PP !_SENT It_PP 's_VBZ him_PP !_SENT 
+ZACH_NN :_: Stay_VV where_WRB you_PP are_VBP ._SENT The_DT ship_NN 's_VBZ not_RB stable_JJ !_SENT 
+(_( Toby_NP breathes_VVZ out_IN fire_NN ._SENT )_) 
+ZACH_NP :_: What_WP is_VBZ he_PP ?_SENT ?_SENT What_WP the_DT hell_NN is_VBZ he_PP ?_SENT 
+(_( The_DT Beast_NN in_IN the_DT pit_NN is_VBZ bursting_VVG into_IN flames_NNS ._SENT )_) 
+TOBY_NN :_: I_PP shall_MD never_RB die_VV ._SENT The_DT thought_NN of_IN me_PP is_VBZ forever_RB ._SENT In_IN the_DT bleeding_NN 
+hearts_NNS of_IN men_NNS ,_, in_IN their_PP$ vanity_NN and_CC obsession_NN and_CC lust_NN 
+(_( Rose_NP picks_VVZ up_RP the_DT bolt_NN gun_NN ._SENT )_) 
+TOBY_NP :_: Nothing_NN shall_MD ever_RB destroy_VV me_PP ._SENT Nothing_NN !_SENT 
+ROSE_NN :_: Go_VV to_TO hell_NN ._SENT 
+(_( Rose_NP shoots_VVZ out_RP the_DT front_JJ screen_NN then_RB unfastens_VVZ Toby_NP 's_POS seatbelt_NN ._SENT He_PP is_VBZ 
+sucked_VVN out_RP into_IN space_NN ,_, still_RB roaring_VVG ._SENT )_) 
+ZACH_NN :_: Emergency_NN shield_NN !_SENT 
+(_( A_DT metal_NN shutter_NN seals_VVZ the_DT hole_NN ,_, but_CC the_DT rocket_NN is_VBZ still_RB falling_VVG ._SENT )_) 
+ZACH_NN :_: We_PP 've_VHP still_RB lost_VVN the_DT gravity_NN funnel_NN ._SENT We_PP ca_MD n't_RB escape_VV the_DT black_NN 
+hole_NN ._SENT 
+ROSE_NN :_: But_CC we_PP stopped_VVD him_PP ._SENT That_DT 's_VBZ what_WP the_DT Doctor_NP would_MD 've_VHP done_VVN ._SENT 
+ZACH_NN :_: Some_DT victory_NN ._SENT We_PP 're_VBP going_VVG in_IN ._SENT 
+(_( The_DT Beast_NN is_VBZ writhing_VVG ._SENT )_) 
+DANNY_NN :_: The_DT planet_NN 's_POS lost_JJ orbit_NN ._SENT It_PP 's_VBZ falling_VVG !_SENT 
+(_( The_DT Ood_NNS are_VBP all_RB awake_JJ and_CC aware_JJ ._SENT Ida_NP passes_VVZ out_RP from_IN lack_NN of_IN oxygen_NN ._SENT 
+The_DT disintegrating_VVG planet_NN throws_VVZ the_DT Doctor_NP back_NN against_IN -_: a_DT blue_JJ box_NN 
+with_IN a_DT light_NN on_IN top_NN ._SENT )_) 
+DANNY_NN :_: The_DT planet_NN 's_VBZ gone_VVN ._SENT I_PP 'm_VBP sorry_JJ ._SENT 
+ZACH_NN :_: Accelerate_VV ._SENT I_PP did_VVD my_PP$ best_JJS ._SENT But_CC hey_UH !_SENT The_DT first_JJ human_JJ beings_NNS to_TO 
+fall_NN inside_IN a_DT black_JJ hole_NN ._SENT How_WRB about_RB that_DT ?_SENT History_NN ._SENT 
+(_( Then_RB all_PDT the_DT shaking_VVG and_CC dramatic_JJ music_NN stops_NNS ._SENT )_) 
+ROSE_VVD :_: What_WP happened_VVD ?_SENT 
+ZACH_NN :_: We_PP 're_VBP turning_VVG ._SENT We_PP 're_VBP turning_VVG around_RP ._SENT We_PP 're_VBP turning_VVG away_RB !_SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Sorry_JJ about_IN the_DT hijack_VVP ,_, Captain_NP ._SENT This_DT is_VBZ the_DT good_JJ ship_NN 
+Tardis_NP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Now_RB ,_, first_JJ thing_NN 's_VBZ first_JJ ._SENT Have_VHP you_PP got_VVD a_DT 
+[_SYM Rocket_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Rose_NP Tyler_NP on_IN board_NN ?_SENT 
+ROSE_NN :_: I_PP 'm_VBP here_RB !_SENT It_PP 's_VBZ me_PP !_SENT Oh_UH ,_, my_PP$ God_NP ._SENT Where_WRB are_VBP you_PP ?_SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: I_PP 'm_VBP just_RB towing_VVG you_PP home_NN ._SENT Gravity_NN schmavity_NN ._SENT My_PP$ people_NNS 
+practically_RB invented_VVN black_JJ holes_NNS ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Well_RB ,_, in_IN fact_NN ,_, they_PP did_VVD ._SENT In_IN a_DT couple_NN of_IN 
+minutes_NNS ,_, we_PP 'll_MD be_VB nice_JJ and_CC safe_JJ ._SENT Oh_UH ,_, and_CC Captain_NP ?_SENT 
+[_SYM Rocket_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Can_MD we_PP do_VV a_DT swap_NN ?_SENT Say_VV ,_, if_IN you_PP give_VVP me_PP 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Rose_NP Tyler_NP ,_, I_PP 'll_MD give_VV you_PP Ida_NP Scott_NP ?_SENT How_WRB 
+about_IN that_DT ?_SENT 
+[_SYM Rocket_NP ]_SYM 
+
+ZACH_NN :_: She_PP 's_VBZ alive_JJ !_SENT 
+DANNY_NN :_: Yes_UH ._SENT Thank_VV God_NP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Yeah_UH !_SENT Bit_NN of_IN oxygen_NN starvation_NN ,_, but_CC she_PP 
+should_MD be_VB all_DT right_NN ._SENT I_PP could_MD n't_RB save_VV the_DT Ood_NN ._SENT I_PP only_RB had_VHD time_NN for_IN one_CD 
+trip_NN ._SENT 
+[_SYM Rocket_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: They_PP went_VVD down_RP with_IN the_DT planet_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Ah_UH !_SENT Entering_VVG clear_JJ space_NN ._SENT End_NN of_IN the_DT line_NN ._SENT 
+Mission_NN 
+[_SYM Rocket_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Closed_VVN ._SENT 
+(_( A_DT little_RB later_RBR ,_, Rose_NP runs_VVZ into_IN the_DT Tardis_NP and_CC hugs_VVZ the_DT Doctor_NP ._SENT )_) 
+IDA_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP ca_MD n't_RB remember_VV ._SENT 
+DANNY_NN :_: Well_RB ,_, it_PP looked_VVD like_IN a_DT box_NN ._SENT 
+ZACH_NP :_: What_WP do_VVP you_PP mean_VVP ,_, a_DT box_NN ?_SENT 
+DANNY_NN :_: Well_RB ,_, down_RB in_IN the_DT hold_NN ._SENT A_DT big_JJ blue_JJ box_NN ._SENT It_PP just_RB appeared_VVD ._SENT I_PP 
+do_VVP n't_RB know_VV ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Zach_NP ?_SENT We_PP 'll_MD be_VB off_JJ ,_, now_RB ._SENT Have_VHP a_DT good_JJ trip_NN home_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ back_RB in_IN his_PP$ suit_NN ._SENT )_) 
+DOCTOR_NN :_: And_CC the_DT next_JJ time_NN you_PP get_VVP curious_JJ about_IN something_NN ._SENT Oh_UH ,_, what_WP 's_VBZ 
+the_DT point_NN ._SENT You_PP 'll_MD just_RB go_VV blundering_VVG in_IN ._SENT The_DT human_JJ race_NN ._SENT 
+
+[_SYM Rocket_NP ]_SYM 
+
+IDA_NP :_: But_CC Doctor_NP ,_, what_WP did_VVD you_PP find_VVP down_RB there_RB ?_SENT That_RB 
+creature_NN ,_, what_WP was_VBD it_PP ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV ._SENT Never_RB did_VVD decipher_VV that_DT 
+writing_NN ._SENT But_CC that_DT 's_VBZ good_JJ ,_, Day_NP I_PP know_VVP everything_NN ?_SENT Might_MD as_RB well_RB stop_VV ._SENT 
+ROSE_VVD :_: What_WP do_VVP you_PP think_VVP it_PP was_VBD ,_, really_RB ?_SENT 
+DOCTOR_NN :_: I_PP think_VVP we_PP beat_VV it_PP ._SENT That_DT 's_VBZ good_JJ enough_RB for_IN me_PP ._SENT 
+ROSE_NN :_: It_PP said_VVD I_PP was_VBD going_VVG to_TO die_VV in_IN battle_NN ._SENT 
+DOCTOR_NN :_: Then_RB it_PP lied_VVD ._SENT Right_RB ,_, onwards_RB ,_, upwards_RB ._SENT Ida_NP ?_SENT See_VV you_PP again_RB ,_, 
+maybe_RB ._SENT 
+
+[_SYM Rocket_NP ]_SYM 
+
+IDA_NN :_: I_PP hope_VVP so_RB ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+ROSE_NN :_: And_CC thanks_NNS ,_, boys_NNS !_SENT 
+[_SYM Rocket_NP ]_SYM 
+
+IDA_NP :_: Hang_VVP on_IN though_RB ,_, Doctor_NP ._SENT You_PP never_RB really_RB said_VVD ._SENT 
+You_PP two_CD ,_, who_WP are_VBP you_PP ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Oh_UH ,_, the_DT stuff_NN of_IN legend_NN ._SENT 
+[_SYM Rocket_NP ]_SYM 
+
+ZACH_NN :_: This_DT is_VBZ the_DT final_JJ report_NN of_IN Sanctuary_NP Base_NP 
+Six_CD ._SENT Officer_NP Tobias_NP Zed_NP ,_, deceased_JJ ,_, with_IN honours_NNS ._SENT 43K_NP two_CD point_NN one_CD ._SENT 
+Also_RB Ood_NP 1_CD Alpha_NP 1_CD ,_, deceased_VVN with_IN honours_NNS ._SENT Ood_NP 1_CD Alpha_NP 2_CD ,_, deceased_VVN with_IN 
+honours_NNS ._SENT 
+

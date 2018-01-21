@@ -1,0 +1,978 @@
+[_SYM Prequel_NP ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ enjoying_VVG tea_NN and_CC a_DT biscuit_NN 
+in_IN a_DT tea_NN room_NN when_WRB he_PP sees_VVZ a_DT cloaked_VVN figure_NN with_IN no_DT visible_JJ face_NN 
+sitting_VVG across_IN the_DT 
+room_NN ._SENT No_DT one_CD else_JJ notices_NNS ._SENT Then_RB it_PP is_VBZ sitting_VVG opposite_IN him_PP ._SENT )_) 
+DOCTOR_NN :_: I_PP do_VVP n't_RB think_VV I_PP asked_VVD you_PP to_TO sit_VV ._SENT 
+FIGURE_NN :_: There_EX is_VBZ a_DT woman_NN who_WP wants_VVZ to_TO meet_VV you_PP ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ nice_JJ ,_, but_CC I_PP 'm_VBP married_VVN ._SENT 
+FIGURE_NN :_: Your_PP$ help_NN is_VBZ required_VVN ._SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB discuss_VV my_PP$ business_NN in_IN public_NN ._SENT 
+FIGURE_NN :_: I_PP know_VVP ._SENT 
+(_( A_DT wave_NN of_IN the_DT hand_NN ,_, and_CC they_PP are_VBP the_DT only_JJ people_NNS in_IN the_DT tea_NN room_NN ._SENT )_) 
+DOCTOR_NN :_: Who_WP are_VBP you_PP ?_SENT 
+FIGURE_NN :_: A_DT messenger_NN ._SENT 
+DOCTOR_NN :_: Whose_WP$ messenger_NN ?_SENT 
+FIGURE_NN :_: Darla_NP von_NP Karlsen_NP ._SENT 
+DOCTOR_NN :_: Never_RB heard_VVN of_IN her_PP ._SENT 
+(_( He_PP stands_VVZ up_RP ._SENT The_DT location_NN has_VHZ changed_VVN ._SENT )_) 
+DOCTOR_NN :_: Where_WRB 's_VBZ the_DT tea_NN room_NN ?_SENT 
+FIGURE_NN :_: You_PP were_VBD never_RB in_IN the_DT tea_NN room_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ._SENT Of_IN course_NN ._SENT Psychic_JJ projection_NN ._SENT Someone_NN 's_VBZ sending_VVG me_PP a_DT dream_NN 
+message_NN ._SENT Well_RB ,_, I_PP hope_VVP I_PP fell_VVD asleep_RB somewhere_RB comfy_JJ ._SENT 
+FIGURE_NN :_: Do_VVP you_PP recognise_VV where_WRB you_PP are_VBP ?_SENT 
+(_( Children_NP 's_POS laughter_NN off_RB ._SENT )_) 
+DOCTOR_NN :_: Ca_MD n't_RB remember_VV ._SENT How_WRB do_VVP you_PP hang_VV up_RP on_IN this_DT thing_NN ?_SENT 
+FIGURE_NN :_: You_PP ca_MD n't_RB ._SENT 
+DOCTOR_NN :_: Oh_UH yeah_RB ?_SENT And_CC what_WP if_IN I_PP just_RB wake_VVP up_RP ?_SENT 
+(_( In_IN a_DT deckchair_NN on_IN a_DT beach_NN ._SENT )_) 
+FIGURE_NN :_: No_UH ,_, Doctor_NP ._SENT The_DT beach_NN is_VBZ n't_RB real_JJ either_RB ._SENT You_PP are_VBP still_RB 
+dreaming_VVG ._SENT 
+(_( In_IN space_NN ._SENT )_) 
+FIGURE_NN :_: Spacetime_NN coordinates_NNS ._SENT You_PP will_MD meet_VV Darla_NP von_NP Karlsen_NP here_RB ._SENT 
+Her_PP$ daughter_NN is_VBZ in_IN danger_NN ,_, and_CC only_RB you_PP can_MD save_VV her_PP ._SENT You_PP recognise_VVP the_DT 
+planet_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+FIGURE_NN :_: Say_VV it_PP ._SENT 
+DOCTOR_NN :_: No._NN 
+FIGURE_NN :_: Name_VV the_DT planet_NN ._SENT 
+DOCTOR_NN :_: I_PP will_MD not_RB say_VV that_DT name_NN ._SENT 
+FIGURE_NN :_: Say_VV it_PP ._SENT 
+DOCTOR_NN :_: No_UH !_SENT 
+(_( The_DT Doctor_NP wakes_VVZ up_RP underneath_IN the_DT time_NN rotor_NN ._SENT )_) 
+FIGURE_NN [_SYM OC_NP ]_SYM :_: Name_NN the_DT planet_NN ._SENT Name_VV the_DT planet_NN ._SENT Name_VV the_DT planet_NN ._SENT 
+DOCTOR_NN :_: Skaro_NN ._SENT 
+
+[_SYM Skaro_NP ]_SYM 
+(_( A_DT scene_NN of_IN utter_JJ devastation_NN and_CC persisting_VVG 
+rainfall_NN ._SENT We_PP pan_VVP around_IN a_DT giant_JJ Dalek_NP statue_NN covered_VVN in_IN mould_NN and_CC 
+mess_NN ._SENT )_) 
+DARLA_NN [_SYM OC_NP ]_SYM :_: First_RB ,_, there_EX were_VBD the_DT Daleks_NP ._SENT And_CC then_RB ,_, there_EX was_VBD a_DT man_NN who_WP 
+fought_VVD them_PP ._SENT And_CC then_RB ,_, in_IN time_NN ,_, he_PP died_VVD ._SENT There_EX are_VBP a_DT few_JJ ,_, of_IN course_NN ,_, 
+who_WP believe_VVP this_DT man_NN somehow_RB survived_VVD ,_, and_CC that_IN/that one_CD day_NN he_PP will_MD return_VV ._SENT 
+For_IN both_CC our_PP$ sakes_NNS ,_, dearest_JJS Hannah_NP ,_, we_PP must_MD hope_VV these_DT stories_NNS are_VBP 
+true_JJ ._SENT 
+(_( A_DT robed_VVN figure_NN wearing_VVG high_JJ heels_NNS turns_VVZ to_TO a_DT shadow_NN with_IN the_DT profile_NN 
+of_IN the_DT Doctor_NP walking_NN inside_IN the_DT eyepiece_NN of_IN the_DT statue_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP got_VVD your_PP$ message_NN ._SENT Not_RB many_JJ people_NNS can_MD do_VV that_DT ._SENT Send_VV me_PP 
+messages_NNS ._SENT 
+DARLA_NN :_: I_PP have_VHP a_DT daughter_NN ,_, Hannah_NP ._SENT She_PP 's_VBZ in_IN a_DT Dalek_NP prison_NN camp_NN ._SENT They_PP 
+say_VVP you_PP can_MD help_VV ._SENT 
+DOCTOR_NN :_: Do_VV they_PP ?_SENT I_PP wish_VVP they_PP 'd_MD stop_VV ._SENT I_PP love_VVP your_PP$ choice_NN of_IN meeting_NN 
+place_NN ._SENT 
+DARLA_NN :_: They_PP said_VVD I_PP 'd_MD have_VH to_TO intrigue_VV you_PP ._SENT 
+DOCTOR_NN :_: Skaro_NN ._SENT The_DT original_JJ planet_NN of_IN the_DT Daleks_NP ._SENT Look_VV at_IN the_DT state_NN of_IN 
+it_PP ._SENT Who_WP told_VVD you_PP about_IN me_PP ?_SENT 
+DARLA_NP :_: Does_VVZ it_PP matter_NN ?_SENT 
+DOCTOR_NN :_: Maybe_RB not_RB ,_, but_CC you_PP 're_VBP very_RB well_RB informed_VVN ._SENT If_IN Hannah_NP 's_POS in_IN a_DT 
+Dalek_NP prison_NN camp_NN ,_, tell_VV me_PP ,_, why_WRB are_VBP n't_RB you_PP ?_SENT 
+DARLA_NN :_: I_PP escaped_VVD ._SENT 
+DOCTOR_NN :_: (_( chuckles_NNS )_) No._NN Nobody_NN escapes_VVZ the_DT Dalek_NP camps_NNS ._SENT You_PP 're_VBP very_RB 
+cold_JJ ._SENT 
+DARLA_NP :_: What_WP 's_VBZ wrong_JJ ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT trap_NN ._SENT 
+DARLA_NP :_: What_WP is_VBZ ?_SENT 
+DOCTOR_NN :_: You_PP are_VBP ,_, and_CC you_PP do_VVP n't_RB even_RB know_VV it_PP ._SENT 
+(_( The_DT Doctor_NP backs_VVZ away_RB as_IN a_DT Dalek_NP eyepiece_NN comes_VVZ out_RP of_IN her_PP$ forehead_NN ,_, 
+then_RB a_DT gun_NN out_RP of_IN her_PP$ right_JJ palm_NN ._SENT He_PP is_VBZ shot_VVN ,_, and_CC a_DT Dalek_NP saucer_NN 
+appears_NNS in_IN the_DT sky_NN ._SENT )_) 
+DALEK_NN [_SYM OC_NP ]_SYM :_: The_DT Doctor_NP is_VBZ acquired_VVN ._SENT 
+[_SYM Photoshoot_NP ]_SYM 
+(_( Amy_NP is_VBZ modelling_VVG for_IN the_DT cameras_NNS in_IN a_DT stately_JJ 
+home_RB when_WRB the_DT Personal_NP Assistant_NP gestures_VVZ to_TO her_PP ._SENT )_) 
+AMY_NN :_: I_PP 'll_MD just_RB be_VB a_DT minute_NN ._SENT 
+PA_NN :_: Your_PP$ husband_NN is_VBZ here_RB ._SENT 
+AMY_NN :_: Hmm_NP ._SENT I_PP do_VVP n't_RB have_VH a_DT husband_NN ._SENT 
+PA_NN :_: Oh_UH ,_, well_UH ,_, apparently_RB you_PP still_RB do_VVP ._SENT 
+[_SYM Dressing_JJ room_NN ]_SYM 
+RORY_NN :_: You_PP have_VHP to_TO sign_VV these_DT ._SENT 
+AMY_NN :_: And_CC then_RB we_PP 're_VBP not_RB married_VVN ?_SENT 
+RORY_NN :_: Just_RB like_IN magic_NN ._SENT 
+(_( Amy_NP signs_NNS ._SENT )_) 
+AMY_NN :_: Ca_MD n't_RB chat_VV ._SENT Working_VVG ._SENT 
+RORY_NN :_: Really_RB ?_SENT Thought_VVD you_PP were_VBD just_RB pouting_VVG at_IN a_DT camera_NN ._SENT 
+AMY_NN :_: Rory_NP ?_SENT 
+(_( Rory_NP leaves_VVZ and_CC Cassandra_NP the_DT make-up_NN artist_NN enters_VVZ ._SENT One_CD of_IN the_DT bulbs_NNS 
+on_IN the_DT make_VV up_RP dresser_NN is_VBZ flashing_VVG ._SENT )_) 
+CASSANDRA_NN :_: Sorry_RB ,_, love_VVP ._SENT Was_VBD I_PP interrupting_VVG ?_SENT 
+AMY_NN :_: No._NN 
+CASSANDRA_NP :_: Gosh_NP ,_, look_NN at_IN you_PP ._SENT You_PP 've_VHP gone_VVN so_RB pale_JJ ._SENT Come_VVN on_IN ,_, take_VV a_DT 
+seat_NN ._SENT We_PP 'll_MD soon_RB sort_VV that_IN/that out_RB ._SENT 
+(_( But_CC Cassandra_NP sprouts_VVZ a_DT Dalek_NP eyepiece_NN instead_RB ._SENT )_) 
+DALEK_NN [_SYM OC_NP ]_SYM :_: Amelia_NP Pond_NP is_VBZ acquired_VVN ._SENT 
+[_SYM Bus_NP ]_SYM 
+(_( Rory_NP gets_VVZ on_IN board_NN ._SENT )_) 
+RORY_NN :_: Cheers_NNS ._SENT 
+(_( He_PP sit_VVP down_RB ._SENT The_DT bus_NN driver_NN stares_NNS at_IN him_PP in_IN his_PP$ mirror_NN ,_, then_RB a_DT Dalek_NP 
+eyepiece_NN grows_VVZ from_IN his_PP$ forehead_NN ._SENT The_DT bus_NN is_VBZ filled_VVN with_IN white_JJ light_NN ._SENT )_) 
+DALEK_NN [_SYM OC_NP ]_SYM :_: Rory_NP Williams_NP is_VBZ acquired_VVN ._SENT 
+[_SYM White_JJ room_NN ]_SYM 
+(_( Rory_NP wakes_VVZ up_RP on_IN the_DT floor_NN of_IN a_DT circular_JJ room_NN ._SENT 
+Amy_NP is_VBZ standing_VVG nearby_RB ._SENT )_) 
+RORY_NP :_: Where_WRB are_VBP we_PP ?_SENT 
+(_( He_PP gets_VVZ up_RB and_CC looks_VVZ out_RP of_IN the_DT small_JJ window_NN ._SENT There_EX is_VBZ a_DT fleet_NN of_IN 
+Dalek_NP saucers_NNS outside_JJ ._SENT )_) 
+RORY_NN :_: So_RB how_WRB much_JJ trouble_NN are_VBP we_PP in_RP ?_SENT 
+(_( The_DT door_NN opens_VVZ and_CC a_DT Dalek_NP enters_VVZ ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: How_WRB much_JJ trouble_NN ,_, Mister_NP Pond_NP ?_SENT 
+(_( The_DT Doctor_NP enters_VVZ ,_, under_IN escort_NN ._SENT )_) 
+DOCTOR_NN :_: Out_RB of_IN ten_CD ?_SENT Eleven_NN ._SENT 
+(_( The_DT ceiling_NN opens_VVZ and_CC the_DT floor_NN rises_NNS ,_, lifting_VVG them_PP into_IN -_: )_) 
+[_SYM Parliament_NP ]_SYM 
+(_( A_DT large_JJ domed_VVN area_NN with_IN a_DT multitude_NN of_IN Daleks_NP in_IN 
+tiers_NNS around_IN them_PP ,_, and_CC the_DT White_NP Supreme_NP Dalek_NP nearby_RB ,_, along_RB with_IN an_DT 
+organic_JJ Dalek_NP and_CC the_DT Tardis_NP ._SENT )_) 
+AMY_NN :_: Where_WRB are_VBP we_PP ?_SENT A_DT spaceship_NN ,_, right_RB ?_SENT 
+DOCTOR_NN :_: Not_RB just_RB any_DT spaceship_NN ._SENT The_DT Parliament_NP of_IN the_DT Daleks_NNS ._SENT Be_VB brave_JJ ._SENT 
+
+AMY_NN :_: What_WP do_VVP we_PP do_VVP ?_SENT 
+DOCTOR_NN :_: Make_VV them_PP remember_VV you_PP ._SENT Well_RB ,_, come_VVN on_IN then_RB ._SENT You_PP 've_VHP got_VVN me_PP ._SENT What_WP 
+are_VBP you_PP waiting_VVG for_IN ?_SENT At_IN long_RB last_JJ ,_, it_PP 's_VBZ Christmas_NP !_SENT Here_RB I_PP am_VBP ._SENT 
+(_( The_DT Doctor_NP closes_VVZ his_PP$ eyes_NNS tight_RB ,_, expecting_VVG to_TO die_VV ._SENT The_DT organic_JJ Dalek_NP 
+speaks_VVZ ._SENT )_) 
+DALEK_NP PM_NP :_: Save_VV us_PP ._SENT You_PP will_MD save_VV us_PP ._SENT 
+DOCTOR_NN :_: I_PP 'll_MD what_WP ?_SENT 
+DALEK_NP :_: You_PP will_MD save_VV the_DT Daleks_NP ._SENT 
+DALEKS_NNS :_: Save_VV the_DT Daleks_NP ._SENT Save_VV the_DT Daleks_NP ._SENT Save_VV the_DT Daleks_NP ._SENT Save_VV the_DT 
+Daleks_NNS ._SENT Save_VV the_DT Daleks_NP ._SENT Save_VV the_DT Daleks_NP ._SENT Save_VV the_DT Daleks_NP ._SENT 
+DOCTOR_NN :_: Well_UH ._SENT 
+DALEKS_NNS :_: Save_VV the_DT Daleks_NP ._SENT 
+DOCTOR_NN :_: This_DT is_VBZ new_JJ ._SENT 
+[_SYM Room_NP ]_SYM 
+(_( A_DT musical_JJ box_NN plays_VVZ Carmen_NP as_IN a_DT young_JJ brunette_NN 
+nails_NNS planks_NNS over_IN the_DT round_NN window_NN ._SENT It_PP is_VBZ a_DT neat_JJ room_NN with_IN a_DT hammock_NN 
+and_CC a_DT microwave_NN ._SENT )_) 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Day_NN three_CD six_CD three_CD ._SENT The_DT terror_NN continues_VVZ ._SENT Also_RB ,_, made_VVD 
+another_DT soufflé_NN ,_, very_RB nearly_RB ._SENT Check_NN defences_NNS ._SENT They_PP came_VVD again_RB last_JJ 
+night_NN ._SENT Still_RB always_RB at_IN night_NN ._SENT Maybe_RB they_PP 're_VBP vampires_NNS ._SENT Oh_UH ,_, and_CC it_PP 's_VBZ my_PP$ 
+mum_NN 's_POS birthday_NN ._SENT Happy_JJ birthday_NN ,_, mum_JJ ._SENT 
+OSWIN_NN :_: I_PP did_VVD make_VV you_PP a_DT soufflé_NN ,_, but_CC it_PP was_VBD too_RB beautiful_JJ to_TO live_VV ._SENT 
+DALEK_NN [_SYM OC_NP ]_SYM :_: You_PP will_MD let_VV us_PP enter_VV !_SENT We_PP will_MD enter_VV !_SENT We_PP will_MD enter_VV !_SENT 
+(_( She_PP turns_VVZ up_RP the_DT volume_NN on_IN Carmen_NP ._SENT Toreador_NN blasts_NNS out_RB ._SENT )_) 
+[_SYM Parliament_NP ]_SYM 
+RORY_NP :_: What_WP 's_VBZ he_PP doing_VVG ?_SENT 
+AMY_NN :_: He_PP 's_VHZ chosen_VVN the_DT most_RBS defendable_JJ area_NN in_IN the_DT room_NN ,_, counted_VVN all_PDT the_DT 
+Daleks_NP ,_, counted_VVN all_PDT the_DT exits_NNS ,_, and_CC now_RB he_PP 's_VBZ calculating_VVG the_DT exact_JJ 
+distance_VV we_PP 're_VBP standing_VVG apart_RB and_CC starting_VVG to_TO worry_VV ._SENT Oh_UH ,_, and_CC look_VV at_IN 
+him_PP frowning_VVG now_RB ._SENT 
+(_( Dalek_NP Darla_NP is_VBZ there_RB ._SENT )_) 
+AMY_NN :_: Something_NN 's_VBZ wrong_JJ with_IN Amy_NP and_CC Rory_NP ,_, and_CC who_WP 's_VBZ going_VVG to_TO fix_VV it_PP ?_SENT 
+And_CC he_PP straightens_VVZ his_PP$ bow_NN tie_NN ._SENT 
+DALEK_NP PM_NP :_: We_PP have_VHP arrived_VVN ._SENT 
+DOCTOR_NN :_: Arrived_VVD where_WRB ?_SENT 
+DALEK_NP PM_NP :_: Doctor_NN ._SENT 
+DARLA_NN :_: The_DT Prime_NP Minister_NP will_MD speak_VV with_IN you_PP now_RB ._SENT 
+DOCTOR_NN :_: Do_VVP you_PP remember_VVP who_WP you_PP were_VBD before_IN they_PP emptied_VVD you_PP out_RP and_CC 
+turned_VVD you_PP into_IN their_PP$ puppet_NN ?_SENT 
+DARLA_NN :_: My_PP$ memories_NNS are_VBP only_RB reactivated_VVN if_IN they_PP are_VBP required_VVN to_TO 
+facilitate_VV cover_VV or_CC disguise_VV ._SENT 
+DOCTOR_NN :_: You_PP had_VHD a_DT daughter_NN ._SENT 
+DARLA_NN :_: I_PP know_VVP ._SENT I_PP 've_VHP read_VVN my_PP$ file_NN ._SENT 
+(_( The_DT Doctor_NP walks_VVZ up_RP to_TO the_DT Prime_NP Minister_NP ,_, who_WP is_VBZ the_DT organic_JJ Dalek_NP ._SENT )_) 
+DOCTOR_NN :_: Well_UH ?_SENT 
+DALEK_NP PM_NP :_: What_WP do_VVP you_PP know_VVP of_IN the_DT Dalek_NP Asylum_NP ?_SENT 
+DOCTOR_NN :_: According_VVG to_TO legend_NN ,_, you_PP have_VHP a_DT dumping_VVG ground_NN ._SENT A_DT planet_NN where_WRB 
+you_PP lock_VVP up_RP all_PDT the_DT Daleks_NNS that_WDT go_VVP wrong_JJ ._SENT The_DT battle-scarred_JJ ,_, the_DT 
+insane_JJ ,_, the_DT ones_NNS even_RB you_PP ca_MD n't_RB control_VV ._SENT It_PP 's_VBZ never_RB made_VVN any_DT sense_VVP to_TO 
+me_FW ._SENT 
+DALEK_NP PM_NP :_: Why_WRB not_RB ?_SENT 
+DOCTOR_NN :_: Because_IN you_PP 'd_MD just_RB kill_VV them_PP ._SENT 
+DALEK_NP PM_NP :_: It_PP is_VBZ offensive_JJ to_TO us_PP to_TO extinguish_VV such_JJ divine_JJ hatred_NN ._SENT 
+DOCTOR_NN :_: Offensive_JJ ?_SENT 
+DALEK_NP PM_NP :_: Does_VVZ it_PP surprise_VV you_PP to_TO know_VV the_DT Daleks_NNS have_VHP a_DT concept_NN of_IN 
+beauty_NN ?_SENT 
+DOCTOR_NN :_: I_PP thought_VVD you_PP 'd_MD run_VV out_RP of_IN ways_NNS to_TO make_VV me_PP sick_JJ ._SENT Hello_UH again_RB ._SENT 
+You_PP think_VVP hatred_NN is_VBZ beautiful_JJ ._SENT 
+DALEK_NP PM_NP :_: Perhaps_RB that_DT is_VBZ why_WRB we_PP have_VHP never_RB been_VBN able_JJ to_TO kill_VV you_PP ._SENT 
+(_( A_DT hole_NN opens_VVZ in_IN the_DT middle_NN of_IN the_DT floor_NN ._SENT The_DT Doctor_NP and_CC Darla_NP walk_NN 
+back_RB to_TO it_PP ._SENT A_DT planet_NN is_VBZ visible_JJ ._SENT )_) 
+DARLA_NN :_: The_DT Asylum_NN ._SENT It_PP occupies_VVZ the_DT entire_JJ planet_NN ,_, right_RB to_TO the_DT core_NN ._SENT 
+DOCTOR_NN :_: How_WRB many_JJ Daleks_NNS are_VBP in_IN there_RB ?_SENT 
+DARLA_NN :_: A_DT count_NN has_VHZ not_RB been_VBN made_VVN ._SENT Millions_NNS ,_, certainly_RB ._SENT 
+DOCTOR_NN :_: All_DT still_RB alive_JJ ?_SENT 
+DARLA_NN :_: It_PP has_VHZ to_TO be_VB assumed_VVN ._SENT The_DT Asylum_NN is_VBZ fully_RB automated_VVN ._SENT Supervision_NP 
+is_VBZ not_RB required_VVN ._SENT 
+AMY_NN :_: Armed_VVN ?_SENT 
+DARLA_NN :_: The_DT Daleks_NNS are_VBP always_RB armed_VVN ._SENT 
+RORY_NP :_: What_WP colour_VVP ?_SENT I_PP 'm_VBP sorry_JJ ,_, there_EX were_VBD n't_RB any_DT good_JJ questions_NNS left_VVD ._SENT 
+DARLA_NN :_: This_DT signal_NN is_VBZ being_VBG received_VVN from_IN the_DT very_JJ heart_NN of_IN the_DT Asylum_NN ._SENT 
+
+(_( Carmen_NP comes_VVZ over_IN the_DT speakers_NNS ._SENT )_) 
+WHITE_NN :_: What_WP is_VBZ the_DT noise_NN ?_SENT Explain_VV ._SENT Explain_VV ._SENT 
+DOCTOR_NN :_: Er_UH ,_, it_PP 's_VBZ me_PP ._SENT 
+RORY_NN :_: Sorry_RB ,_, what_WP ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ me_PP ,_, playing_VVG the_DT triangle_NN ._SENT Okay_RB ,_, I_PP got_VVD buried_VVN in_IN the_DT mix_NN ._SENT 
+Carmen_NP ._SENT Lovely_JJ show_NN ._SENT Someone_NN 's_VBZ transmitting_VVG this_DT ._SENT Have_VHP you_PP considered_VVN 
+tracking_VVG back_RB the_DT signal_NN and_CC talking_VVG to_TO them_PP ?_SENT He_PP asked_VVD the_DT Daleks_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Hello_UH ?_SENT Hello_UH ?_SENT Carmen_NP 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: Hello_UH ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Hello_UH ?_SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Come_VVN in_RP ._SENT Come_VVN in_IN ._SENT 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: Come_VV in_IN ,_, Carmen_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Hello_UH !_SENT Yes_UH ,_, yes_UH ,_, sorry_RB ._SENT Do_VV you_PP read_VV me_PP ?_SENT 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: Yes_UH ,_, reading_VVG you_PP loud_JJ and_CC clear_JJ ._SENT Identify_VV 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Yourself_PP and_CC report_VV your_PP$ status_NN ._SENT 
+OSWIN_NP :_: Hello_UH ._SENT Are_VBP you_PP real_JJ ?_SENT Are_VBP you_PP actually_RB ,_, properly_RB ,_, real_JJ ?_SENT 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: Yes_UH ,_, confirmed_VVD ._SENT Actually_RB ,_, properly_RB ,_, real_JJ ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Oswin_NP Oswald_NP ,_, junior_JJ entertainment_NN officer_NN ,_, starship_NN 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Alaska_NP ._SENT Current_JJ status_NN ,_, crashed_VVD and_NP 
+shipwrecked_VVN somewhere_RB not_RB nice_JJ ._SENT Been_VBN here_RB a_DT year_NN ,_, rest_NN of_IN the_DT crew_NN 
+missing_VVG ._SENT Provisions_NNS good_JJ but_CC keen_JJ to_TO move_VV on_RP ._SENT 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: A_DT year_NN ?_SENT Are_VBP you_PP okay_JJ ?_SENT Are_VBP you_PP under_IN 
+attack_NN ?_SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Some_DT local_JJ lifeforms_NNS ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Been_VBN keeping_VVG them_PP out_RP ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Do_VVP you_PP know_VVP what_WP those_DT lifeforms_NNS are_VBP ?_SENT 
+OSWIN_NN :_: I_PP know_VVP a_DT Dalek_NP when_WRB I_PP hear_VVP one_PP ,_, yeah_RB ._SENT 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: What_WP have_VHP you_PP been_VBN doing_VVG on_IN your_PP$ own_JJ 
+against_IN the_DT Daleks_NP for_IN a_DT year_NN ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Making_VVG soufflés_NNS ?_SENT 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: Soufflés_NNS ?_SENT Against_IN the_DT Daleks_NP ?_SENT Where_WRB 'd_MD you_PP 
+get_VV the_DT milk_NN ?_SENT 
+WHITE_NN :_: This_DT conversation_NN is_VBZ irrelevant_JJ ._SENT 
+DOCTOR_NN :_: No_UH ,_, it_PP is_VBZ n't_RB ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: No_UH !_SENT Hello_UH ?_SENT Hello_UH ?_SENT 
+[_SYM Parliament_NP ]_SYM 
+DOCTOR_NN :_: Because_IN a_DT starliner_NN has_VHZ crashed_VVN into_IN your_PP$ 
+Asylum_NN ,_, and_CC someone_NN 's_VBZ got_VVN in_IN ._SENT And_CC if_IN someone_NN can_MD get_VV in_IN ,_, then_RB 
+everything_NN can_MD get_VV out_RP ._SENT A_DT tsunami_NN of_IN insane_JJ Daleks_NNS ._SENT Even_RB you_PP do_VVP n't_RB want_VV 
+that_RB ._SENT 
+WHITE_NN :_: The_DT Asylum_NN must_MD be_VB cleansed_VVN ._SENT 
+DOCTOR_NN :_: Then_RB why_WRB is_VBZ it_PP still_RB here_RB ?_SENT You_PP 've_VHP enough_JJ firepower_NN on_IN this_DT ship_NN 
+to_TO blast_VV it_PP out_RP of_IN the_DT sky_NN ._SENT 
+DARLA_NN :_: The_DT Asylum_NP forcefield_NN is_VBZ impenetrable_JJ ._SENT 
+DOCTOR_NN :_: Turn_VV it_PP off_RP ._SENT 
+DARLA_NN :_: It_PP can_MD only_RB be_VB turned_VVN off_RP from_IN within_IN the_DT Asylum_NN ._SENT 
+DOCTOR_NN :_: A_DT small_JJ taskforce_NN could_MD sneak_VV through_IN a_DT forcefield_NN ._SENT Send_VV in_IN a_DT 
+couple_NN of_IN Daleks_NP ._SENT Oh_UH ._SENT (_( applauds_VVZ )_) Oh_UH ._SENT Oh_UH ,_, that_WDT 's_VBZ good_JJ ._SENT That_DT 's_VBZ brilliant_JJ ._SENT 
+You_PP 're_VBP all_RB too_RB scared_VVN to_TO go_VV down_RP there_RB ._SENT Not_RB one_CD of_IN you_PP will_MD go_VV ,_, so_RB tell_VV 
+me_PP ,_, what_WP do_VVP the_DT Daleks_NNS do_VVP when_WRB they_PP 're_VBP too_RB scared_VVN ?_SENT 
+WHITE_NN :_: The_DT Predator_NN of_IN the_DT Daleks_NP will_MD be_VB deployed_VVN ._SENT 
+DOCTOR_NN :_: You_PP do_VVP n't_RB have_VH a_DT Predator_NN ,_, and_CC even_RB if_IN you_PP did_VVD ,_, why_WRB would_MD they_PP 
+turn_VV off_RP a_DT forcefield_NN for_IN you_PP ?_SENT 
+DALEK_NP PM_NP :_: Because_IN you_PP will_MD have_VH no_DT other_JJ means_NN of_IN escape_NN ._SENT 
+DARLA_NN :_: May_MD I_PP clarify_VV ?_SENT The_DT Predator_NN is_VBZ the_DT Dalek_NP 's_POS word_NN for_IN you_PP ._SENT 
+DOCTOR_NN :_: Me_FW ?_SENT Me_FW ?_SENT 
+DARLA_NN :_: You_PP will_MD need_VV this_DT ._SENT It_PP will_MD protect_VV you_PP from_IN the_DT nanocloud_NN ._SENT 
+(_( Two_CD humanoids_NNS put_VVD a_DT wristband_NN on_IN the_DT Doctor_NP 's_POS wrist_NN ._SENT )_) 
+DOCTOR_NN :_: The_DT what_WP ?_SENT The_DT nano_NN what_WP ?_SENT 
+DARLA_NN :_: The_DT gravity_NN beam_NN will_MD convey_VV you_PP close_VV to_TO the_DT source_NN of_IN the_DT 
+transmission_NN ._SENT You_PP must_MD find_VV a_DT way_NN to_TO deactivate_VV the_DT forcefield_NN from_IN 
+there_RB ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP going_VVG to_TO fire_VV me_PP at_IN a_DT planet_NN ?_SENT That_DT 's_VBZ your_PP$ plan_NN ?_SENT I_PP get_VVP 
+fired_VVN at_IN a_DT planet_NN and_CC expected_VVN to_TO fix_VV it_PP ._SENT 
+RORY_NN :_: In_IN fairness_NN ,_, that_WDT is_VBZ slightly_RB your_PP$ M_NP O_NP ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB be_VB fair_JJ to_TO the_DT Daleks_NNS when_WRB they_PP 're_VBP firing_VVG me_PP at_IN a_DT planet_NN ._SENT 
+
+(_( Rory_NP and_CC Amy_NP have_VHP wristbands_NNS put_VVN on_IN them_PP ,_, too_RB ._SENT )_) 
+DOCTOR_NN :_: What_WP do_VVP you_PP want_VVP with_IN them_PP ?_SENT 
+WHITE_NN :_: It_PP is_VBZ known_VVN the_DT Doctor_NP required_JJ companions_NNS ._SENT 
+RORY_NP :_: Oh_UH ,_, brilliant_JJ ._SENT Good_JJ oh_UH ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB worry_VV ._SENT We_PP 'll_MD get_VV through_IN this_DT ,_, I_PP promise_VVP ._SENT Do_VVP n't_RB be_VB 
+scared_VVN ._SENT 
+(_( Amy_NP 's_POS Look_NN could_MD melt_VV granite_NN ._SENT )_) 
+AMY_NN :_: Scared_VVN ?_SENT Who_WP 's_VBZ scared_VVN ._SENT Geronimo_NP ._SENT 
+DOCTOR_NN :_: Ha_NP !_SENT Oi_NP !_SENT 
+(_( The_DT humanoids_NNS push_VVP our_PP$ trio_NN into_IN the_DT gravity_NN beam_NN ._SENT )_) 
+[_SYM Gravity_JJ beam_NN ]_SYM 
+ALL_DT :_: Argh_NNS !_SENT 
+RORY_NP :_: Wrong_JJ way_NN up_RB !_SENT Wrong_JJ way_NN up_RB !_SENT 
+(_( Rory_NP plummets_VVZ past_IN the_DT Doctor_NP and_CC Amy_NP ,_, head_NN first_JJ ._SENT )_) 
+AMY_NN :_: Doctor_NN !_SENT 
+(_( The_DT beam_NN splits_VVZ into_IN three_CD ._SENT )_) 
+[_SYM Snowfield_NP ]_SYM 
+(_( Amy_NP lands_NNS on_IN a_DT snowy_JJ landscape_NN with_IN a_DT brilliant_JJ 
+blue_JJ sky_NN ._SENT A_DT black_JJ man_NN in_IN white_JJ thermals_NNS drops_VVZ his_PP$ drill_NN -_: labelled_VVN 
+Alaska_NP -_: and_CC runs_VVZ to_TO them_PP ._SENT )_) 
+HARVEY_NP :_: Hello_UH ?_SENT Hello_UH ?_SENT Who_WP are_VBP you_PP ?_SENT You_PP okay_RB ?_SENT 
+AMY_NN :_: Rory_NP ?_SENT Doctor_NN ?_SENT 
+HARVEY_NN :_: I_PP 'm_VBP Harvey_NP ._SENT No._NN Who_WP 's_VBZ Rory_NP ?_SENT 
+(_( Harvey_NP chases_NNS after_IN Amy_NP ._SENT )_) 
+HARVEY_NP :_: Where_WRB are_VBP you_PP going_VVG ?_SENT 
+(_( Over_IN the_DT ridge_NN ,_, a_DT series_NN of_IN eyepieces_NNS pop_VVP up_RP and_CC down_RP from_IN under_IN the_DT 
+snow_NN to_TO look_VV at_IN the_DT Doctor_NP ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, ha_NP ,_, ha_NP ,_, ha_NP ._SENT 
+(_( Then_RB Carmen_NP plays_VVZ ._SENT )_) 
+OSWIN_NN [_SYM OC_NP }_) :_: Sorry_JJ ,_, sorry_JJ ._SENT Pressed_VVN the_DT wrong_JJ switch_NN ._SENT 
+DOCTOR_NN :_: Soufflé_JJ girl_NN ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: You_PP can_MD always_RB call_VV me_PP Oswin_NP ,_, seeing_VVG as_RB 
+that_DT 's_VBZ my_PP$ name_NN ._SENT You_PP okay_RB ?_SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: How_WRB are_VBP you_PP doing_VVG that_IN/that ,_, eh_NP ?_SENT This_DT is_VBZ Dalek_NP 
+technology_NN ._SENT 
+OSWIN_NN :_: It_PP 's_VBZ very_RB easy_JJ to_TO hack_VV ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: No_UH ,_, it_PP is_VBZ n't_RB ._SENT Where_WRB are_VBP you_PP ?_SENT 
+OSWIN_NN :_: The_DT ship_NN broke_VVD up_RB when_WRB it_PP hit_VVD ._SENT Somewhere_RB underground_RB ,_, I_PP think_VVP ._SENT 
+You_PP coming_VVG to_TO get_VV me_PP ?_SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ?_SENT 
+(_( The_DT picture_NN starts_VVZ to_TO break_VV up_RP ._SENT )_) 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Hey_UH !_SENT Oi_NP !_SENT Soufflé_JJ girl_NN !_SENT 
+OSWIN_NP :_: Damn_UH ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Come_VVN back_RB !_SENT 
+[_SYM Snowfield_NP ]_SYM 
+AMY_NN :_: Doctor_NN !_SENT 
+DOCTOR_NN :_: Amy_NP !_SENT Hey_UH ,_, where_WRB 's_VBZ Rory_NP ?_SENT 
+HARVEY_NP :_: There_EX was_VBD another_DT beam_NN ._SENT There_RB ._SENT Over_IN there_RB ._SENT Are_VBP you_PP the_DT rescue_NN 
+team_NN ?_SENT 
+(_( They_PP run_VVP across_IN the_DT snow_NN ._SENT )_) 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Hello_UH ?_SENT 
+[_SYM Snowfield_NP ]_SYM 
+(_( A_DT shaft_NN has_VHZ been_VBN drilled_VVN through_IN the_DT snow_NN and_CC 
+rock_NN ._SENT )_) 
+AMY_NN :_: Rory_NP ?_SENT Rory_NP !_SENT Rory_NP !_SENT 
+[_SYM Chamber_NP ]_SYM 
+(_( Meltwater_NN pours_VVZ down_RP the_DT walls_NNS ,_, and_CC something_NN 
+green_JJ drips_NNS onto_IN Rory_NP 's_POS face_NN ,_, waking_VVG him_PP up_RP ._SENT There_EX are_VBP lots_NNS of_IN 
+inanimate_JJ Daleks_NNS here_RB ._SENT He_PP touches_VVZ one_CD ,_, but_CC it_PP does_VVZ n't_RB respond_VV so_IN he_PP 
+pushes_VVZ it_PP away_RP ._SENT )_) 
+[_SYM Snowfield_NP ]_SYM 
+HARVEY_NN :_: We_PP came_VVD down_RB two_CD days_NNS ago_RB ._SENT There_EX 's_VBZ twelve_NN 
+of_IN our_PP$ escape_NN pods_NNS ._SENT I_PP do_VVP n't_RB know_VV what_WP happened_VVD to_TO them_PP ._SENT 
+AMY_NN :_: Alaska_NP ?_SENT That_DT 's_VBZ the_DT same_JJ ship_NN as_IN soufflé_JJ girl_NN ._SENT 
+(_( Harvey_NP opens_VVZ a_DT hatch_NN covered_VVN in_IN snow_NN ._SENT )_) 
+DOCTOR_NN :_: Yeah_UH ._SENT Except_IN she_PP 's_VHZ been_VBN here_RB a_DT year_NN ._SENT 
+[_SYM Escape_NP pod_NN ]_SYM 
+HARVEY_NN :_: We_PP should_MD have_VH some_DT climbing_VVG rope_NN long_RB 
+enough_RB for_IN that_DT hole_NN ._SENT 
+DOCTOR_NN :_: Wo_MD n't_RB you_PP introduce_VV us_PP to_TO your_PP$ crew_NN ?_SENT 
+HARVEY_NP :_: Ah_UH ,_, yes_UH ,_, sorry_RB ._SENT Guys_NNS ,_, this_DT is_VBZ the_DT Doctor_NP and_CC Amy_NP ._SENT 
+(_( No_DT response_NN ._SENT )_) 
+HARVEY_NN :_: Guys_NNS ?_SENT 
+(_( The_DT crew_NN are_VBP desiccated_JJ corpses_NNS ._SENT )_) 
+HARVEY_NP :_: Oh_UH ,_, my_PP$ god_NN ._SENT 
+(_( The_DT Doctor_NP does_VVZ a_DT quick_JJ sonic_JJ scan_NN ._SENT )_) 
+DOCTOR_NN :_: They_PP 're_VBP dead_JJ ._SENT All_DT of_IN them_PP ._SENT 
+HARVEY_NP :_: That_WDT 's_VBZ not_RB possible_JJ ._SENT I_PP just_RB spoke_VVD to_TO them_PP ._SENT Two_CD hours_NNS ago_RB ._SENT We_PP 
+were_VBD doing_VVG engine_NN repairs_NNS ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP sure_JJ about_IN that_DT ,_, are_VBP you_PP ?_SENT Because_IN I_PP 'd_MD say_VV they_PP 've_VHP all_DT 
+been_VBN dead_JJ for_IN a_DT very_RB long_JJ time_NN ._SENT 
+HARVEY_NP :_: But_CC they_PP ca_MD n't_RB have_VH been_VBN ._SENT 
+AMY_NN :_: Well_RB ,_, they_PP did_VVD n't_RB get_VV in_IN this_DT state_NN in_IN two_CD hours_NNS ._SENT 
+HARVEY_NP :_: No_UH ,_, of_IN course_NN ._SENT Stupid_JJ me_PP ._SENT 
+AMY_NN :_: Of_IN course_NN what_WP ?_SENT 
+HARVEY_NN :_: I_PP died_VVD outside_JJ ,_, and_CC the_DT cold_NN preserved_VVD my_PP$ body_NN ._SENT I_PP forgot_VVD about_RB 
+dying_VVG ._SENT 
+(_( Out_RB pops_VVZ the_DT Dalek_NP eyepiece_NN ._SENT The_DT Doctor_NP grabs_VVZ a_DT CO2_NP fire_NN extinguisher_NN 
+and_CC lets_VVZ it_PP off_RP in_IN Harvey_NP 's_POS face_NN ._SENT )_) 
+DOCTOR_NN :_: Amy_NP ,_, the_DT door_NN !_SENT 
+AMY_NN :_: Come_VV on_IN ,_, come_VV on_RP ._SENT 
+(_( Harvey_NP is_VBZ backed_VVN through_IN a_DT door_NN that_IN/that Amy_NP manages_VVZ to_TO get_VV open_JJ ,_, then_RB 
+closes_NNS and_CC locks_NNS again_RB ._SENT )_) 
+AMY_NN :_: Explain_VV ._SENT That_DT 's_VBZ what_WP you_PP 're_VBP good_JJ at_IN ._SENT How_WRB 'd_MD he_PP get_VV all_DT Daleked_NP ?_SENT 
+DOCTOR_NN :_: Because_IN he_PP was_VBD n't_RB wearing_VVG one_CD of_IN these_DT ._SENT Oh_UH ,_, ho_NP ,_, ho_NP ._SENT That_DT 's_VBZ 
+clever_JJ ._SENT The_DT nanocloud_NN ._SENT Microorganisms_NNS that_WDT automatically_RB process_VVP any_DT 
+organic_JJ matter_NN ,_, living_NN or_CC dead_JJ ,_, into_IN a_DT Dalek_NP puppet_NN ._SENT Anything_NN attacks_NNS 
+this_DT place_NN ,_, it_PP automatically_RB becomes_VVZ part_NN of_IN the_DT on-site_JJ security_NN ._SENT 
+AMY_NN :_: Living_VVG or_CC dead_JJ ?_SENT 
+DOCTOR_NN :_: These_DT wristbands_NNS protect_VV us_PP ._SENT The_DT only_JJ thing_NN stopping_VVG us_PP going_VVG 
+exactly_RB the_DT way_NN he_PP did_VVD 
+AMY_NN :_: Doctor_NN ,_, shut_VVD up_RP !_SENT Living_NN or_CC dead_JJ ?_SENT 
+DOCTOR_NN :_: Yes_UH ,_, exactly_RB ._SENT Living_NN or_CC ,_, or_CC 
+(_( The_DT corpses_NNS have_VHP glowing_JJ eyepieces_NNS ,_, and_CC are_VBP starting_VVG to_TO move_VV ._SENT )_) 
+DOCTOR_NN :_: Dead_JJ ._SENT Oh_UH dear_RB ._SENT 
+(_( The_DT Doctor_NP kicks_VVZ the_DT zombies_NNS so_IN he_PP and_CC Amy_NP can_MD get_VV into_IN the_DT -_: )_) 
+[_SYM Cockpit_NP ]_SYM 
+(_( He_PP pulls_VVZ Amy_NP 's_POS arm_NN out_RP of_IN the_DT zombie_NN 's_POS grasp_NN and_CC 
+seals_VVZ the_DT bulkhead_NN door_NN ._SENT )_) 
+AMY_NN :_: Is_VBZ it_PP bad_JJ that_IN/that I_PP 've_VHP really_RB missed_VVN this_DT ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+AMY_NN :_: Good_JJ ._SENT 
+DOCTOR_NN :_: I_PP know_VVP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Unauthorised_JJ personnel_NNS may_MD not_RB enter_VV the_DT 
+cockpit_NN ._SENT 
+[_SYM Cockpit_NP ]_SYM 
+DOCTOR_NN :_: Shut_VVN up_RP ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Oh_UH ,_, Mister_NP Grumpy_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Bad_JJ combo_NN ._SENT No_DT sense_NN of_IN humour_NN in_IN that_DT chin_NN ._SENT 
+
+AMY_NN [_SYM on_IN screen_NN ]_SYM :_: Is_VBZ that_IN/that her_PP again_RB ,_, soufflé_JJ girl_NN ?_SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Yeah_UH ,_, she_PP ._SENT Oi_NP ,_, what_WP is_VBZ wrong_JJ with_IN my_PP$ chin_NN ?_SENT 
+OSWIN_NP :_: Careful_JJ ,_, dear_RB ._SENT You_PP 'll_MD put_VV someone_NN 's_POS eye_NN out_RB ._SENT 
+[_SYM Cockpit_NP ]_SYM 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Scanning_VVG you_PP ._SENT You_PP 're_VBP in_IN another_DT of_IN the_DT 
+escape_NN pods_NNS from_IN the_DT Alaska_NP ,_, right_RB ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Same_JJ ship_NN I_PP was_VBD on_IN ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: How_WRB can_MD you_PP hack_VV into_IN everything_NN ?_SENT It_PP should_MD be_VB 
+impossible_JJ ._SENT You_PP 're_VBP in_IN a_DT crashed_VVN ship_NN !_SENT 
+OSWIN_NP :_: Long_JJ story_NN ._SENT Is_VBZ there_RB a_DT word_NN for_IN total_JJ screaming_VVG genius_NN that_RB 
+sounds_NNS modest_JJ and_CC a_DT tiny_JJ bit_NN sexy_JJ ?_SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Doctor_NN ._SENT You_PP call_VVP me_PP the_DT Doctor_NP ._SENT 
+OSWIN_NN :_: See_VV what_WP you_PP did_VVD there_RB ._SENT 
+(_( Beep_NN ._SENT )_) 
+OSWIN_NN :_: Check_VV the_DT floor_NN ._SENT I_PP 'm_VBP picking_VVG up_RP a_DT breach_NN at_IN floor_NN level_NN ._SENT There_RB 
+could_MD be_VB a_DT way_NN out_RP ._SENT See_VV you_PP later_RBR ._SENT 
+[_SYM Cockpit_NP ]_SYM 
+DOCTOR_NN :_: Ah_UH ha_NP !_SENT Hatch_NP ._SENT Looks_NNS like_IN it_PP 's_VHZ been_VBN used_VVN 
+already_RB and_CC they_PP 've_VHP tried_VVN to_TO block_VV it_PP off_RP behind_IN them_PP ._SENT 
+AMY_NN :_: Ca_MD n't_RB imagine_VV why_WRB ._SENT 
+DOCTOR_NN :_: The_DT lower_JJR part_NN of_IN the_DT pod_NN is_VBZ buried_VVN ,_, so_RB this_DT must_MD go_VV straight_RB 
+down_RB to_TO the_DT Asylum_NN ._SENT 
+AMY_NN :_: Where_WRB Rory_NP is_VBZ ._SENT 
+DOCTOR_NN :_: Speaking_VVG of_IN Rory_NP ,_, is_VBZ there_RB anything_NN you_PP want_VVP to_TO tell_VV me_PP ?_SENT 
+AMY_NN :_: Are_VBP we_PP going_VVG to_TO do_VV this_DT now_RB ?_SENT 
+DOCTOR_NN :_: What_WP happened_VVD ?_SENT 
+AMY_NN :_: Oh_UH ,_, stuff_NN ._SENT You_PP know_VVP ._SENT We_PP split_VVD up_RP ._SENT What_WP can_MD you_PP do_VV ?_SENT 
+DOCTOR_NN :_: What_WP can_MD I_PP do_VV ?_SENT 
+AMY_NN :_: Nothing_NN ._SENT It_PP 's_VBZ not_RB one_CD of_IN those_DT things_NNS you_PP can_MD fix_VV like_IN you_PP fix_VVP 
+your_PP$ bowtie_NN ._SENT Do_VVP n't_RB give_VV me_PP those_DT big_JJ wet_JJ eyes_NNS ,_, Raggedy_NP Man_NP ._SENT It_PP 's_VBZ life_NN ._SENT 
+Just_RB life_NN ._SENT That_DT thing_NN that_WDT goes_VVZ on_IN when_WRB you_PP 're_VBP not_RB there_RB ._SENT 
+(_( The_DT Doctor_NP gets_VVZ the_DT hatch_NN open_JJ ._SENT A_DT shaft_NN heads_VVZ down_RP into_IN the_DT planet_NN ,_, 
+with_IN a_DT flexible_JJ metal_NN ladder_NN hanging_VVG down_IN it_PP ._SENT )_) 
+AMY_NN :_: Okay_JJ ,_, so_RB somebody_NN else_RB got_VVD out_RP this_DT way_NN ,_, then_RB ._SENT 
+DOCTOR_NN :_: Yeah_UH ,_, let_VV 's_VBZ go_VV and_CC find_VV them_PP ._SENT Oh_UH ,_, hello_NN ,_, hello_NN ,_, hello_NN ._SENT What_WP are_VBP 
+they_PP up_RB to_TO ?_SENT 
+(_( The_DT zombies_NNS are_VBP on_IN a_DT small_JJ monitor_NN on_IN the_DT wall_NN ,_, waving_VVG something_NN at_IN 
+the_DT camera_NN ._SENT )_) 
+AMY_NN :_: What_WP 's_VBZ that_RB ?_SENT 
+DOCTOR_NN :_: One_CD of_IN these_DT ._SENT (_( a_DT wristband_NN )_) But_CC where_WRB did_VVD they_PP get_VV it_PP ?_SENT 
+(_( They_PP pulled_VVD it_PP off_IN Amy_NP 's_POS wrist_NN a_DT few_JJ minutes_NNS ago_RB ._SENT )_) 
+AMY_NN :_: Doctor_NN ,_, they_PP got_VVD it_PP from_IN me_PP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, Amy_NP ._SENT 
+AMY_NN :_: Doctor_NP ,_, what_WP 's_VBZ going_VVG to_TO happen_VV to_TO me_PP ?_SENT Seriously_RB ._SENT Tell_VV me_PP what_WP ._SENT 
+[_SYM Chamber_NP ]_SYM 
+(_( Rory_NP is_VBZ using_VVG the_DT small_JJ penlight_NN he_PP always_RB 
+carries_VVZ when_WRB he_PP serves_VVZ divorce_NN papers_NNS on_IN his_PP$ wife_NN to_TO explore_VV his_PP$ 
+surroundings_NN ._SENT He_PP kicks_VVZ a_DT piece_NN of_IN metal_NN ,_, and_CC a_DT Dalek_NP 's_POS eyepiece_NN starts_VVZ 
+to_TO glow_VV ._SENT )_) 
+RORY_NN :_: Shush_VV ._SENT 
+(_( Other_JJ Daleks_NNS start_VVP to_TO boot_VV up_RP ,_, too_RB ,_, making_VVG sounds_NNS ._SENT )_) 
+RORY_NP :_: What_WP ?_SENT Sorry_RB ,_, what_WP ?_SENT 
+DALEK_NP :_: Eg_NN eg_NN eg_NN eg_NN eg_NN eg_NN eg_NN ._SENT 
+RORY_NN :_: Eggs_NNS ?_SENT You_PP mean_VVP those_DT things_NNS ?_SENT 
+(_( The_DT roundels_NNS on_IN the_DT Dalek_NP 's_POS casing_NN ._SENT Some_DT have_VHP fallen_VVN off_RP onto_IN the_DT 
+floor_NN ._SENT )_) 
+DALEK_NP :_: Egg_NN ._SENT 
+RORY_NN :_: I_PP do_VVP n't_RB ,_, I_PP do_VVP n't_RB know_VV what_WP you_PP want_VVP ._SENT Those_DT things_NNS ._SENT Are_VBP those_DT 
+things_NNS eggs_NNS ?_SENT This_DT ?_SENT You_PP want_VVP this_DT ._SENT 
+DALEK_NP :_: Egg_NN ._SENT Stir_VV ._SENT Min_NP ._SENT Ate_VVD ._SENT 
+(_( Rory_NP drops_VVZ the_DT ball_NN ._SENT )_) 
+DALEK_NP :_: Exterminate_VV ._SENT 
+DALEKS_NNS :_: Exterminate_VV ._SENT 
+(_( One_CD weapon_NN blast_NN just_RB misses_VVZ him_PP ._SENT Rory_NP tries_VVZ to_TO run_VV the_DT gauntlet_NN ._SENT )_) 
+DALEK_NP :_: Emergency_NN ._SENT Emergency_NN ._SENT Exterminate_VV ._SENT Exterminate_VV ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Run_VVN !_SENT The_DT door_NN at_IN the_DT end_NN ,_, run_VVN for_IN it_PP ._SENT They_PP 're_VBP waking_VVG up_RP ,_, 
+but_CC they_PP 're_VBP slow_JJ ._SENT The_DT door_NN at_IN the_DT end_NN ._SENT Just_RB run_VVN ._SENT Now_RB !_SENT Now_RB !_SENT Now_RB !_SENT 
+DALEKS_NNS :_: Exterminate_VV ._SENT Exterminate_VV ._SENT 
+(_( The_DT door_NN rises_VVZ up_RP as_IN Rory_NP runs_VVZ ._SENT He_PP slides_VVZ underneath_RB and_CC it_PP shuts_VVZ 
+behind_IN him_PP ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: So_RB ,_, anyway_RB ,_, I_PP 'm_VBP Oswin_NP ._SENT What_WP do_VVP I_PP call_VVP 
+you_PP ?_SENT 
+RORY_NP :_: Er_UH ,_, I_PP ca_MD n't_RB remember_VV ._SENT Er_UH ,_, Rory_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Lovely_JJ name_NN ,_, Rory_NP ._SENT First_JJ boy_NN I_PP ever_RB fancied_VVD 
+was_VBD called_VVN Rory_NP ._SENT 
+RORY_NN [_SYM on_IN screen_NN ]_SYM :_: Okay_JJ ._SENT 
+OSWIN_NN :_: Actually_RB ,_, she_PP was_VBD called_VVN Nina_NP ._SENT I_PP was_VBD going_VVG through_IN a_DT phase_NN ._SENT 
+[_SYM Corridor_NP ]_SYM 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Just_RB flirting_VVG to_TO keep_VV you_PP cheerful_JJ ._SENT 
+DALEKS_NN [_SYM OC_NP ]_SYM :_: Exterminate_VV ._SENT Exterminate_VV ._SENT 
+RORY_NP :_: Er_UH ,_, okay_RB ,_, any_DT time_NN you_PP want_VVP to_TO start_VV flirting_VVG again_RB is_VBZ fine_JJ by_IN 
+me_FW ._SENT 
+[_SYM Another_DT corridor_NN ]_SYM 
+(_( The_DT Doctor_NP and_CC Amy_NP are_VBP climbing_VVG down_RP the_DT ladder_NN 
+from_IN the_DT cockpit_NN into_IN another_DT corridor_NN ._SENT )_) 
+AMY_NN :_: So_RB tell_VV me_PP ,_, what_WP 's_VBZ going_VVG to_TO happen_VV to_TO me_PP ?_SENT And_CC do_VVP n't_RB lie_VV ._SENT Because_IN I_PP 
+know_VV when_WRB you_PP 're_VBP lying_VVG to_TO me_PP and_CC I_PP will_MD definitely_RB fall_VV on_IN you_PP ._SENT 
+DOCTOR_NN :_: The_DT air_NN all_RB around_RB is_VBZ full_JJ of_IN micro-machines_NNS ._SENT Robots_NNS the_DT size_NN 
+of_IN molecules_NNS ._SENT Nanogenes_NNS ._SENT Now_RB that_IN/that you_PP 're_VBP unprotected_JJ ,_, you_PP 're_VBP being_VBG 
+re-written_JJ ._SENT 
+AMY_NN :_: So_RB ,_, what_WP happens_VVZ ?_SENT I_PP get_VVP one_PP of_IN those_DT things_NNS sticking_VVG out_RP of_IN my_PP$ 
+head_NN ?_SENT 
+DOCTOR_NN :_: Physical_JJ changes_NNS come_VVP later_RBR ._SENT 
+AMY_NN :_: What_WP comes_VVZ first_JJ ?_SENT How_WRB does_VVZ it_PP start_VV ?_SENT 
+DOCTOR_NN :_: With_IN your_PP$ mind_NN ._SENT Your_PP$ feelings_NNS ,_, your_PP$ memories_NNS ,_, and_CC I_PP 'm_VBP sorry_RB but_RB 
+it_PP 's_VBZ started_VVN already_RB ._SENT 
+AMY_NN :_: How_WRB do_VVP you_PP know_VVP ?_SENT 
+DOCTOR_NN :_: Because_IN we_PP 've_VHP had_VHD this_DT conversation_NN four_CD times_NNS ._SENT 
+AMY_NN :_: Okay_JJ ,_, scared_RB now_RB ._SENT 
+DOCTOR_NN :_: Hang_VV on_IN to_TO scared_JJ ._SENT Scared_JJ is_VBZ n't_RB Dalek_NP ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( Rory_NP 's_POS torch_NN starts_VVZ to_TO flicker_VV ._SENT )_) 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Hey_UH there_RB ,_, beakie_NN boy_NN ._SENT 
+RORY_NN :_: If_IN it_PP 's_VBZ a_DT straight_JJ choice_NN ,_, I_PP prefer_VVP Nina_NP ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Loving_JJ this_NN ._SENT The_DT nose_NN and_CC the_DT chin_NN ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: You_PP two_CD could_MD fence_VV ._SENT There_EX 's_VBZ a_DT door_NN behind_RB 
+you_PP ._SENT 
+(_( The_DT door_NN rises_VVZ and_CC Rory_NP runs_VVZ through_IN into_IN a_DT room_NN with_IN a_DT large_JJ round_NN 
+platform_NN in_IN the_DT middle_NN ._SENT )_) 
+OSWIN_NN :_: In_IN there_RB ,_, quickly_RB ._SENT Okay_RB ,_, you_PP 're_VBP safe_JJ for_IN now_RB ._SENT Pop_VV your_PP$ shirt_NN 
+off_RB ,_, quick_JJ as_IN you_PP like_VVP ._SENT 
+RORY_NN [_SYM on_IN screen_NN ]_SYM :_: Why_WRB ?_SENT 
+OSWIN_NP :_: Does_VVZ there_RB have_VH to_TO be_VB a_DT reason_NN ?_SENT 
+[_SYM Chamber_NP ]_SYM 
+(_( A_DT door_NN rises_VVZ to_TO let_VV Amy_NP and_CC the_DT Doctor_NP into_IN the_DT 
+place_VV where_WRB Rory_NP met_VVD the_DT Daleks_NP ._SENT The_DT bad-tempered_JJ pepperpots_NNS are_VBP still_RB 
+repeating_VVG their_PP$ favourite_JJ word_NN some_DT way_NN away_RB ._SENT The_DT Doctor_NP sniffs_VVZ ._SENT )_) 
+AMY_NN :_: What_WP 's_VBZ that_RB ?_SENT 
+(_( They_PP back_VVP out_RP again_RB ._SENT )_) 
+[_SYM Outside_IN the_DT chamber_NN ]_SYM 
+DOCTOR_NN :_: Keep_VV a_DT look_NN out_RP ._SENT Do_VVP n't_RB open_VV this_DT door_NN ._SENT 
+Oswin_NP !_SENT 
+(_( Amy_NP 's_POS head_NN hurts_VVZ ._SENT )_) 
+DOCTOR_NN :_: Oswin_NP ,_, can_MD you_PP hear_VV me_PP ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Hello_UH ,_, the_DT chin_NN ._SENT I_PP have_VHP visual_JJ on_IN you_PP ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Why_WRB do_VVP n't_RB I_PP have_VHP a_DT visual_JJ on_IN you_PP ?_SENT Why_WRB ca_MD n't_RB I_PP ever_RB 
+see_VV you_PP ?_SENT 
+OSWIN_NP :_: Limited_JJ power_NN ,_, bad_JJ hair_NN ,_, take_VV your_PP$ pick_NN ._SENT There_EX 's_VBZ a_DT door_NN to_TO your_PP$ 
+left_VVD ._SENT Open_VV it_PP ._SENT 
+[_SYM Outside_IN the_DT chamber_NN ]_SYM 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: I_PP 'm_VBP going_VVG to_TO send_VV you_PP a_DT map_NN to_TO that_DT 
+screen_NN ._SENT I_PP put_VVD your_PP$ little_JJ friend_NN somewhere_RB safe_JJ ._SENT I_PP can_MD get_VV you_PP to_TO him_PP ._SENT 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Rory_NP ._SENT You_PP found_VVD Rory_NP ?_SENT 
+OSWIN_NN :_: I_PP call_VVP him_PP Nina_NP ._SENT Personal_JJ thing_NN ._SENT Hush_NP now_RB ._SENT 
+[_SYM Outside_IN the_DT chamber_NN ]_SYM 
+(_( Amy_NP looks_VVZ through_IN the_DT transparent_JJ panels_NNS in_IN the_DT 
+door_NN and_CC sees_VVZ a_DT man_NN in_IN a_DT suit_NN standing_NN in_IN the_DT chamber_NN ._SENT )_) 
+AMY_NN :_: Who_WP are_VBP you_PP ?_SENT Doctor_NN ?_SENT 
+(_( There_EX are_VBP lots_NNS of_IN people_NNS in_IN the_DT chamber_NN now_RB ,_, men_NNS and_CC women_NNS in_IN various_JJ 
+styles_NNS of_IN dress_NN from_IN formal_JJ evening_NN wear_NN to_TO a_DT little_JJ red-haired_JJ girl_NN in_IN 
+a_DT ballet_NN tutu_NN ._SENT Amy_NP opens_VVZ the_DT door_NN and_CC goes_VVZ in_IN ._SENT )_) 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: How_WRB many_JJ Daleks_NNS directly_RB ahead_RB 
+of_IN me_PP right_RB now_RB ?_SENT 
+OSWIN_NNS :_: Ten_CD ,_, twenty_CD ._SENT 
+[_SYM Outside_IN the_DT chamber_NN ]_SYM 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Hard_JJ to_TO say_VV ._SENT Some_DT of_IN them_PP are_VBP 
+catatonic_JJ but_CC they_PP do_VVP have_VH firepower_NN ._SENT 
+DOCTOR_NN :_: How_WRB do_VVP I_PP get_VV past_IN them_PP ?_SENT Amy_NP !_SENT 
+[_SYM Chamber_NP ]_SYM 
+AMY_NN :_: Shush_VV ._SENT It_PP 's_VBZ okay_JJ ,_, it_PP 's_VBZ just_RB people_NNS in_IN here_RB ._SENT 
+It_PP 's_VBZ just_RB people_NNS ._SENT 
+DOCTOR_NN :_: Amy_NP ,_, it_PP 's_VBZ the_DT nanocloud_NN ,_, it_PP 's_VBZ altering_VVG your_PP$ perception_NN ._SENT Look_NN 
+again_RB ._SENT Look_VV again_RB ._SENT Those_DT are_VBP n't_RB people_NNS ._SENT 
+(_( Now_RB she_PP sees_VVZ Daleks_NP ._SENT )_) 
+DOCTOR_NN :_: Amy_NP ,_, come_VVN out_RP ._SENT Take_VV my_PP$ hand_NN ._SENT Run_NN !_SENT Run_NN !_SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( They_PP run_VVP back_RB to_TO the_DT rope_NN ladder_NN ,_, which_WDT is_VBZ moving_VVG 
+under_IN the_DT weight_NN of_IN descending_VVG zombies_NNS ._SENT )_) 
+AMY_NN :_: Look_VV ,_, they_PP 're_VBP coming_VVG down_RP !_SENT 
+DOCTOR_NN :_: Er_UH ,_, oh_UH yes_UH ,_, they_PP are_VBP ._SENT 
+DALEK_NP :_: Intruder_NN ._SENT 
+DOCTOR_NN :_: Run_VV ._SENT 
+DALEK_NP :_: Intruder_NN ._SENT 
+(_( They_PP hide_VV in_IN the_DT cubby_JJ hole_NN Oswin_NP opened_VVD for_IN the_DT Doctor_NP ._SENT )_) 
+DALEK_NP :_: Intruder_NN ._SENT 
+(_( It_PP runs_VVZ out_RP of_IN power_NN ._SENT They_PP come_VVP out_RP of_IN the_DT cubby_JJ hole_NN again_RB ._SENT )_) 
+DOCTOR_NN :_: It_PP 's_VBZ damaged_VVN ._SENT 
+AMY_NN :_: Okay_JJ ,_, but_CC what_WP do_VVP we_PP do_VVP ?_SENT 
+DOCTOR_NN :_: Identify_VV me_PP ._SENT Access_VV your_PP$ files_NNS ._SENT Who_WP am_VBP I_PP ?_SENT Come_VVN on_IN ._SENT Who_WP 's_VBZ your_PP$ 
+daddy_NN ?_SENT 
+DALEK_NP :_: You_PP are_VBP the_DT Predator_NN ._SENT 
+DOCTOR_NN :_: Access_VV your_PP$ standing_NN orders_NNS concerning_VVG the_DT Predator_NN ._SENT 
+DALEK_NP :_: The_DT Predator_NN must_MD be_VB destroyed_VVN ._SENT 
+DOCTOR_NN :_: And_CC how_WRB are_VBP you_PP going_VVG to_TO do_VV that_IN/that ,_, Dalek_NP ?_SENT Without_IN a_DT gun_NN you_PP 're_VBP a_DT 
+tricycle_NN with_IN a_DT roof_NN ._SENT How_WRB are_VBP you_PP going_VVG to_TO destroy_VV me_PP ?_SENT 
+DALEK_NP :_: Self-destruct_NN initiated_VVD ._SENT 
+AMY_NN :_: What_WP 's_VBZ it_PP doing_VVG ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ going_VVG to_TO blow_VV itself_PP up_RP ,_, and_CC I_PP with_IN it_PP ._SENT Only_JJ weapon_NN it_PP 's_VBZ 
+got_VVN left_VVD ._SENT 
+DALEK_NP :_: Self-destruct_NN cannot_MD be_VB countermanded_VVN ._SENT 
+(_( It_PP 's_VBZ internal_JJ clock_NN is_VBZ down_RB to_TO 12._CD The_DT Doctor_NP lifts_VVZ its_PP$ lid_NN and_CC scans_NNS 
+inside_RB ._SENT )_) 
+DOCTOR_NN :_: I_PP 'm_VBP not_RB looking_VVG for_IN a_DT countermand_NN ,_, dear_RB ._SENT I_PP 'm_VBP looking_VVG for_IN 
+reverse_NN ._SENT 
+DALEK_NP :_: Forward_RB ,_, forward_RB ._SENT 
+(_( The_DT Dalek_NP whizzes_NNS backwards_RB into_IN the_DT chamber_NN ,_, bumps_NNS into_IN a_DT colleague_NN 
+and_CC blows_NNS up_RB ._SENT )_) 
+[_SYM Teleport_NP room_NN ]_SYM 
+(_( The_DT explosion_NN is_VBZ felt_VVN here_RB ._SENT )_) 
+RORY_NP :_: Oswin_NP ?_SENT 
+[_SYM Room_NP ]_SYM 
+RORY_NN [_SYM on_IN screen_NN ]_SYM :_: What_WP was_VBD that_DT ?_SENT That_DT was_VBD close_JJ ._SENT 
+[_SYM Chamber_NP ]_SYM 
+(_( Rory_NP runs_VVZ in_IN to_TO see_VV the_DT smoking_NN remains_VVZ of_IN Dalek_NP 
+shells_NNS ._SENT )_) 
+RORY_NP :_: Oswin_NP ?_SENT What_WP happened_VVD ?_SENT Who_WP killed_VVD all_PDT the_DT Daleks_NP ?_SENT 
+(_( The_DT Doctor_NP enters_VVZ from_IN the_DT other_JJ side_NN ,_, carrying_VVG Amy_NP ._SENT )_) 
+DOCTOR_NN :_: Who_WP do_VVP you_PP think_VVP ?_SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+(_( The_DT Doctor_NP lays_VVZ Amy_NP on_IN the_DT teleport_NN pad_NN ._SENT )_) 
+RORY_NN :_: Will_NN sleeping_NN help_VV her_PP ?_SENT Will_MD it_PP slow_VV down_RP the_DT process_NN ?_SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: You_PP 'd_MD better_RBR hope_VV so_RB 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Because_IN pretty_RB soon_RB she_PP 's_VBZ going_VVG to_TO try_VV and_CC 
+kill_VV you_PP ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+DOCTOR_NN :_: Amy_NP ._SENT 
+AMY_NN :_: Ow_NN ._SENT 
+DOCTOR_NN :_: Amy_NP ._SENT Still_RB with_IN us_PP ._SENT 
+RORY_NP :_: Amy_NP ,_, it_PP 's_VBZ me_PP ._SENT Do_VV you_PP remember_VV me_PP ?_SENT 
+(_( Amy_NP slaps_VVZ Rory_NP ._SENT )_) 
+RORY_NN :_: She_PP remembers_VVZ me_PP ._SENT 
+DOCTOR_NN :_: Same_JJ old_JJ Amy_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Do_VVP you_PP know_VVP how_WRB you_PP make_VVP someone_NN into_IN a_DT 
+Dalek_NP ?_SENT Subtract_VV love_VV ,_, add_VV anger_NN ._SENT Does_VVZ n't_RB she_PP seem_VVP a_DT bit_NN too_RB angry_JJ to_TO 
+you_PP ?_SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+AMY_NN :_: Well_RB ,_, somebody_NN 's_VHZ never_RB been_VBN to_TO Scotland_NP ._SENT 
+DOCTOR_NN :_: What_WP about_IN you_PP ,_, though_RB ,_, Oswin_NP ._SENT How_WRB come_VVP you_PP 're_VBP okay_JJ ?_SENT 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Why_WRB has_VHZ n't_RB the_DT nanocloud_NN 
+converted_VVN you_PP ?_SENT 
+OSWIN_NN :_: I_PP mentioned_VVD the_DT genius_NN thing_NN ,_, yeah_RB ?_SENT Shielded_VVN in_IN here_RB ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+DOCTOR_NN :_: Clever_JJ of_IN you_PP ._SENT Now_RB ,_, this_DT place_NN ._SENT The_DT Daleks_NP 
+said_VVD it_PP was_VBD fully_RB automated_VVN ._SENT Look_VV at_IN it_PP ._SENT It_PP 's_VBZ a_DT wreck_NN ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Well_UH ,_, I_PP 've_VHP had_VHN nearly_RB a_DT year_NN to_TO mess_VV with_IN 
+them_PP ,_, and_CC not_RB a_DT lot_NN else_RB to_TO do_VV ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: A_DT junior_JJ entertainment_NN manager_NN hiding_VVG out_RP in_IN a_DT 
+wrecked_VVN ship_NN ,_, hacking_VVG the_DT security_NN systems_NNS of_IN the_DT most_RBS advanced_JJ warrior_NN 
+race_NN 
+[_SYM Teleport_NP room_NN ]_SYM 
+DOCTOR_NN :_: The_DT universe_NN has_VHZ ever_RB seen_VVN ._SENT But_CC you_PP know_VVP 
+what_WP really_RB gets_VVZ me_PP about_IN you_PP ,_, Oswin_NP ?_SENT The_DT soufflés_NNS ._SENT Where_WRB do_VVP you_PP get_VV 
+milk_NN 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: For_IN the_DT soufflés_NNS ?_SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+DOCTOR_NN :_: Seriously_RB ._SENT Is_VBZ no_RB one_CD else_RB wondering_VVG about_RB 
+that_RB ?_SENT 
+RORY_NN :_: No._NN Frankly_RB ,_, no._JJ Twice_RB ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: So_RB ,_, Doctor_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: I_PP 've_VHP been_VBN looking_VVG you_PP up_RP ._SENT You_PP 're_VBP all_RB over_RB 
+the_DT database_NN ._SENT Why_WRB do_VVP the_DT Daleks_NNS call_VVP you_PP the_DT Predator_NN ?_SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: I_PP 'm_VBP not_RB the_DT Predator_NN ,_, I_PP 'm_VBP just_RB a_DT man_NN with_IN a_DT plan_NN ._SENT 
+OSWIN_NN :_: You_PP 've_VHP got_VVN a_DT plan_NN ?_SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+RORY_NP :_: That_WDT 's_VBZ all_DT he_PP is_VBZ ._SENT 
+AMY_NN :_: There_EX 's_VBZ a_DT nose_NN joke_NN going_VVG if_IN someone_NN wants_VVZ to_TO pick_VV that_IN/that one_CD off_RP ._SENT 
+DOCTOR_NN :_: In_IN no_DT particular_JJ order_NN ,_, we_PP need_VVP to_TO neutralise_VV all_PDT the_DT Daleks_NP in_IN 
+this_DT Asylum_NP ,_, rescue_NN Oswin_NP from_IN the_DT wreckage_NN ,_, escape_NN from_IN this_DT planet_NN 
+and_CC fix_VV Amy_NP and_CC Rory_NP 's_POS marriage_NN ._SENT 
+AMY_NN :_: Okay_JJ ,_, I_PP 'm_VBP counting_VVG three_CD lost_VVN causes_NNS ._SENT Anyone_NN else_RB ?_SENT 
+DOCTOR_NN :_: Oswin_NP ,_, there_EX 's_VBZ a_DT Dalek_NP ship_NN in_IN orbit_NN ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Yes_UH ._SENT Got_VVD it_PP on_IN the_DT sensors_NNS 
+DOCTOR_NN :_: The_DT Asylum_NP has_VHZ a_DT forcefield_NN ._SENT The_DT Daleks_NP upstairs_NN are_VBP waiting_VVG 
+for_IN me_PP to_TO turn_VV it_PP off_RP ._SENT Soon_RB as_IN I_PP do_VVP ,_, they_PP 'll_MD burn_VV this_DT whole_JJ world_NN and_CC 
+us_PP with_IN it_PP ._SENT 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: So_RB ,_, Oswin_NP ,_, my_PP$ question_NN is_VBZ 
+this_DT ._SENT How_WRB fast_RB can_MD you_PP drop_VV the_DT forcefield_NN ?_SENT 
+OSWIN_NN :_: Pretty_RB fast_RB ._SENT But_CC why_WRB would_MD I_PP ?_SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Because_IN this_DT is_VBZ a_DT teleport_NN ._SENT Am_VBP I_PP right_RB ,_, Oswin_NP ?_SENT 
+OSWIN_NP :_: Yeah_UH ._SENT Internal_JJ use_NN only_RB ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+DOCTOR_NN :_: I_PP can_MD boost_VV the_DT power_NN ._SENT Once_RB the_DT forcefield_NN 
+is_VBZ down_RB ,_, I_PP can_MD use_VV it_PP to_TO beam_VV us_PP right_RB off_IN this_DT planet_NN ._SENT 
+RORY_NN :_: You_PP said_VVD when_WRB the_DT forcefield_NN is_VBZ down_RB ,_, the_DT Daleks_NP will_MD blow_VV us_PP up_RP ._SENT 
+
+DOCTOR_NN :_: We_PP 'll_MD have_VH to_TO be_VB quick_JJ ,_, yes_UH ._SENT 
+AMY_NN :_: Fine_NN ,_, we_PP 'll_MD be_VB quick_JJ ._SENT But_CC where_WRB do_VVP we_PP beam_VVP to_TO ?_SENT 
+DOCTOR_NN :_: The_DT only_JJ place_NN within_IN range_NN ._SENT The_DT Dalek_NP ship_NN ._SENT 
+AMY_NN :_: They_PP 'll_MD exterminate_VV us_PP on_IN the_DT spot_NN ._SENT 
+RORY_NP :_: Ah_UH ,_, so_RB this_DT is_VBZ the_DT kind_NN of_IN escape_NN plan_NN where_WRB you_PP survive_VVP about_RB 
+four_CD seconds_NNS longer_RBR ._SENT 
+DOCTOR_NN :_: What_WP 's_VBZ wrong_JJ with_IN four_CD seconds_NNS ?_SENT You_PP can_MD do_VV loads_NNS in_IN four_CD 
+seconds_NNS ._SENT Oswin_NP ,_, how_WRB fast_RB can_MD you_PP drop_VV the_DT forcefield_NN ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: I_PP can_MD do_VV it_PP from_IN here_RB ,_, as_RB soon_RB as_IN you_PP come_VVP 
+and_CC get_VV me_PP ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+DOCTOR_NN :_: No_UH ,_, just_RB drop_VV the_DT forcefield_NN and_CC come_VV to_TO 
+us_PP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: There_EX 's_VBZ enough_RB power_NN in_IN that_DT teleport_NN for_IN 
+one_PP go_VVP ._SENT Why_WRB would_MD you_PP wait_VV for_IN me_PP ?_SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+DOCTOR_NN :_: Why_WRB would_MD n't_RB I_PP ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: No_DT idea_NN ._SENT Never_RB met_VVD you_PP ._SENT Sending_VVG you_PP a_DT map_NN 
+so_RB you_PP can_MD come_VV get_VV me_PP ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+RORY_NN :_: This_DT place_NN is_VBZ crawling_VVG with_IN Daleks_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Yeah_UH ._SENT Kind_NN of_IN why_WRB I_PP 'm_VBP anxious_JJ to_TO leave_VV ._SENT 
+Come_VVN up_RP and_CC see_VV me_PP sometime_RB ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+RORY_NN :_: So_RB ,_, are_VBP we_PP going_VVG to_TO go_VV get_VV her_PP ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB think_VV that_IN/that we_PP have_VHP a_DT choice_NN ._SENT Okay_RB ,_, as_RB soon_RB as_IN the_DT 
+forcefield_NN is_VBZ down_RB the_DT Daleks_NP will_MD attack_VV ._SENT If_IN it_PP gets_VVZ too_RB explody-wody_JJ 
+in_IN here_RB ,_, you_PP go_VVP without_IN me_PP ,_, okay_JJ ?_SENT 
+RORY_NN :_: And_CC leave_VV you_PP to_TO die_VV ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, do_VVP n't_RB worry_VV about_IN me_PP ._SENT You_PP 're_VBP the_DT one_CD beaming_VVG up_RP to_TO a_DT Dalek_NP 
+ship_NN to_TO get_VV exterminated_VVN ._SENT 
+RORY_NP :_: Fair_JJ point_NN ._SENT Love_VV this_DT plan_NN ._SENT What_WP about_IN Amy_NP ?_SENT 
+DOCTOR_NN :_: Keep_VV her_PP remembering_VVG ,_, keep_VV her_PP focused_VVD ._SENT That_DT 'll_MD hold_VV back_RB the_DT 
+conversion_NN ._SENT 
+AMY_NN :_: What_WP do_VVP I_PP do_VVP ?_SENT 
+DOCTOR_NN :_: You_PP heard_VVD what_WP she_PP said_VVD ._SENT They_PP 're_VBP subtracting_VVG love_NN ._SENT Do_VVP n't_RB let_VV 
+them_PP ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( The_DT Doctor_NP makes_VVZ his_PP$ way_NN carefully_RB ._SENT )_) 
+DALEKS_NN [_SYM OC_NP ]_SYM :_: Emergency_NN ._SENT Emergency_NN ._SENT Prepare_VV to_TO be_VB annihilated_VVN ._SENT 
+Emergency_NN ._SENT We_PP are_VBP the_DT Daleks_NP ._SENT We_PP are_VBP the_DT Daleks_NP ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+RORY_NN :_: Okay_RB ,_, look_VVP at_IN me_PP ._SENT I_PP 'm_VBP going_VVG to_TO be_VB logical_JJ ._SENT 
+Cold_JJ and_CC logical_JJ ,_, okay_JJ ?_SENT For_IN both_DT of_IN our_PP$ sakes_NNS ,_, for_IN both_DT of_IN us_PP ,_, I_PP 'm_VBP 
+going_VVG to_TO take_VV this_DT off_IN my_PP$ wrist_NN and_CC put_VV it_PP on_IN yours_PP$ ._SENT 
+AMY_NN :_: Why_WRB ?_SENT Then_RB it_PP 'll_MD just_RB start_VV converting_VVG you_PP ._SENT That_DT 's_VBZ not_RB better_JJR ._SENT 
+RORY_NP :_: Yes_UH ,_, but_CC it_PP 'll_MD buy_VV us_PP time_NN ,_, because_IN it_PP 'll_MD take_VV longer_RBR with_IN me_PP ._SENT 
+AMY_NN :_: Sorry_RB ,_, what_WP ?_SENT 
+RORY_NN :_: It_PP subtracts_VVZ love_NN ,_, that_WDT 's_VBZ what_WP she_PP said_VVD ._SENT 
+AMY_NN :_: What_WP 's_VBZ that_RB got_VVN to_TO do_VV with_IN it_PP ?_SENT What_WP does_VVZ that_IN/that even_RB mean_VV ?_SENT 
+RORY_NN :_: It_PP 's_VBZ arithmetic_JJ ._SENT It_PP 'll_MD take_VV longer_RBR with_IN me_PP because_IN we_PP both_CC know_VVP ,_, 
+we_PP 've_VHP always_RB known_VVN ,_, that_RB ._SENT Amy_NP ,_, the_DT basic_JJ fact_NN of_IN our_PP$ relationship_NN is_VBZ 
+that_IN/that I_PP love_VVP you_PP more_JJR than_IN you_PP love_VVP me_PP ,_, which_WDT today_NN is_VBZ good_JJ news_NN because_IN 
+it_PP might_MD just_RB save_VV both_DT of_IN our_PP$ lives_NNS ._SENT 
+AMY_NN :_: How_WRB can_MD you_PP say_VV that_DT ?_SENT 
+RORY_NP :_: Two_CD thousand_CD years_NNS ,_, waiting_VVG for_IN you_PP outside_IN a_DT box_NN ._SENT Do_VVP n't_RB say_VV it_PP 
+is_VBZ n't_RB true_JJ ,_, you_PP know_VVP it_PP 's_VBZ true_JJ ._SENT Give_VV me_PP your_PP$ arm_NN ._SENT Amy_NP !_SENT 
+(_( Amy_NP slaps_VVZ Rory_NP ._SENT )_) 
+AMY_NN :_: Do_VVP n't_RB you_PP dare_VVP say_VV that_IN/that to_TO me_PP ._SENT Do_VVP n't_RB you_PP ever_RB dare_VVP ._SENT 
+RORY_NP :_: Amy_NP ,_, you_PP kicked_VVD me_PP out_RP ._SENT 
+AMY_NN :_: You_PP want_VVP kids_NNS ._SENT You_PP have_VHP always_RB wanted_VVN kids_NNS ._SENT Ever_RB since_IN you_PP were_VBD a_DT 
+kid_NN ._SENT And_CC I_PP ca_MD n't_RB have_VH them_PP ._SENT 
+RORY_NN :_: I_PP know_VVP ._SENT 
+AMY_NN :_: Whatever_WDT they_PP did_VVD to_TO me_PP at_IN Demons_NP Run_NP ,_, I_PP ca_MD n't_RB ever_RB give_VV you_PP 
+children_NNS ._SENT I_PP did_VVD n't_RB kick_VV you_PP out_RP ._SENT I_PP gave_VVD you_PP up_RP ._SENT 
+RORY_NP :_: Amy_NP ,_, I_PP do_VVP n't_RB 
+AMY_NN :_: Do_VVP n't_RB you_PP dare_VVP talk_VV to_TO me_PP about_IN waiting_VVG outside_IN a_DT box_NN ,_, because_RB 
+that_DT is_VBZ nothing_NN ,_, Rory_NP ,_, nothing_NN ,_, compared_VVN to_TO giving_VVG you_PP up_RP ._SENT 
+RORY_NN :_: Just_RB give_VV me_PP your_PP$ arm_NN ._SENT Let_VV me_PP put_VV this_DT on_IN you_PP ._SENT Just_RB give_VV me_PP your_PP$ 
+arm_NN !_SENT 
+AMY_NN :_: Do_VVP n't_RB touch_VV me_PP !_SENT 
+(_( She_PP is_VBZ already_RB wearing_VVG a_DT wristband_NN ._SENT )_) 
+RORY_NN :_: It_PP 's_VBZ the_DT Doctor_NP 's_POS ._SENT When_WRB you_PP were_VBD sleeping_VVG 
+AMY_NN :_: That_IN/that Time_NP Lord_NP ._SENT What_WP 's_VBZ the_DT betting_NN he_PP does_VVZ n't_RB even_RB need_VV it_PP ._SENT 
+RORY_NP :_: Why_WRB did_VVD n't_RB he_PP just_RB tell_VV us_PP ?_SENT 
+(_( Amy_NP sees_VVZ the_DT Doctor_NP straighten_VV his_PP$ bow_NN tie_NN on_IN a_DT monitor_NN ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+DOCTOR_NN :_: Oswin_NP ,_, I_PP think_VVP I_PP 'm_VBP close_JJ ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: You_PP are_VBP ._SENT Less_JJR than_IN twenty_CD feet_NNS away_RB ._SENT Which_WDT 
+is_VBZ the_DT good_JJ news_NN ._SENT 
+[_SYM Corridor_NP ]_SYM 
+DOCTOR_NN :_: Okay_JJ ._SENT And_CC the_DT bad_JJ which_WDT I_PP suddenly_RB feel_VVP is_VBZ 
+coming_VVG ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: You_PP 're_VBP about_RB to_TO pass_VV through_IN Intensive_NP 
+Care_NN ._SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+(_( The_DT Daleks_NNS here_RB are_VBP in_IN cages_NNS ._SENT )_) 
+DOCTOR_NN :_: What_WP 's_VBZ so_RB special_JJ about_IN this_DT lot_NN ,_, then_RB ?_SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Do_VVP n't_RB know_VV ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Survivors_NNS of_IN particular_JJ wars_NNS ._SENT Spiridon_NP ,_, 
+Kembel_NP ,_, Eridius_NP ,_, Vulcan_NP ,_, Exxilon_NP ._SENT Ringing_VVG any_DT bells_NNS ?_SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+DOCTOR_NN :_: All_DT of_IN them_PP ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Yeah_UH ?_SENT How_WRB ?_SENT 
+DOCTOR_NN :_: These_DT are_VBP the_DT Daleks_NP who_WP survived_VVD me_PP ._SENT 
+DALEK_NP :_: Doctor_NN ._SENT 
+DALEK_NP 2_CD :_: Doctor_NN ._SENT 
+DALEKS_NNS :_: Doctor_NN ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: That_WDT 's_VBZ weird_JJ ._SENT Those_DT ones_NNS do_VVP n't_RB usually_RB wake_NN 
+up_RB for_IN anything_NN ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Yeah_UH ,_, well_UH 
+[_SYM Intensive_NP Care_NP ]_SYM 
+DOCTOR_NN :_: Special_JJ visitor_NN ._SENT Okay_RB ,_, door_NN ,_, but_CC it_PP wo_MD n't_RB 
+open_JJ ._SENT I_PP ca_MD n't_RB be_VB far_RB away_RB ,_, though_RB ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Hang_VV on_RP ._SENT Not_RB quite_RB sure_JJ ._SENT There_EX 's_VBZ a_DT release_NN 
+code_NN ._SENT Let_VV me_PP just_RB 
+[_SYM Intensive_JJ care_NN ]_SYM 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Anything_NN out_IN there_RB ?_SENT 
+DOCTOR_NN :_: No._NN 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Hang_VV on_IN ,_, I_PP 'm_VBP trying_VVG to_TO think_VV ._SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+(_( One_CD Dalek_NP has_VHZ been_VBN disarmed_VVN ,_, literally_RB ,_, and_NP 
+chained_VVN up_RP ._SENT )_) 
+DALEK_NP :_: Doctor_NN ._SENT 
+(_( It_PP breaks_VVZ its_PP$ chains_NNS ._SENT )_) 
+DALEKS_NNS :_: Doctor_NN ._SENT Doctor_NN ._SENT 
+DOCTOR_NN :_: Oswin_NP ,_, get_VVP this_DT door_NN open_JJ ._SENT 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Oswin_NP ,_, open_VVP this_DT door_NN !_SENT 
+OSWIN_NN :_: I_PP ca_MD n't_RB !_SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+DOCTOR_NN :_: Oswin_NP ._SENT 
+(_( The_DT Daleks_NNS are_VBP closing_VVG in_IN ._SENT )_) 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Just_RB get_VV this_DT door_NN open_JJ !_SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+DOCTOR_NN :_: Oswin_NP !_SENT Oswin_NP ,_, please_UH !_SENT Get_VV this_DT door_NN open_JJ !_SENT 
+Help_VV me_PP !_SENT 
+(_( A_DT plunger_NN is_VBZ heading_VVG for_IN the_DT Doctor_NP 's_POS face_NN ._SENT )_) 
+DOCTOR_NN :_: Stop_VV !_SENT 
+(_( The_DT Daleks_NP stop_NN ,_, then_RB turn_VV away_RB ._SENT )_) 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: Oh_UH ,_, that_WDT is_VBZ cool_JJ ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Tell_VV me_PP I_PP 'm_VBP cool_JJ ,_, chin_NN boy_NN ._SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+DOCTOR_NN :_: What_WP ,_, what_WP did_VVD you_PP do_VVP ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Hang_VV on_IN ,_, I_PP think_VVP I_PP 've_VHP found_VVN the_DT door_NN 
+thingy_NN ._SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+DOCTOR_NN :_: No_UH ,_, tell_VV me_PP what_WP you_PP did_VVD ._SENT 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: The_DT Daleks_NP ,_, they_PP have_VHP a_DT hive_NN mind_NN ._SENT Well_RB ,_, they_PP do_VVP n't_RB ,_, they_PP 
+have_VHP a_DT sort_NN of_IN telepathic_JJ web_NN ._SENT 
+DOCTOR_NN :_: The_DT path_NN web_NN ,_, yes_UH ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: I_PP hacked_VVD into_IN it_PP ,_, did_VVD a_DT mass_NN delete_VV 
+[_SYM Intensive_NP Care_NP ]_SYM 
+OSWIN_NN [_SYM OC_NP ]_SYM :_: On_IN all_PDT the_DT information_NN connected_VVN with_IN 
+the_DT Doctor_NP ._SENT 
+DOCTOR_NN :_: You_PP made_VVD them_PP forget_VV me_PP ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NP :_: Good_JJ ,_, eh_NP ?_SENT And_CC here_RB comes_VVZ the_DT door_NN ._SENT 
+[_SYM Intensive_NP Care_NP ]_SYM 
+(_( The_DT door_NN rises_VVZ ._SENT )_) 
+DOCTOR_NN :_: I_PP 've_VHP tried_VVN hacking_VVG into_IN the_DT path_NN web_NN ._SENT Even_RB I_PP could_MD n't_RB do_VV it_PP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Come_VV and_CC meet_VV the_DT girl_NN who_WP can_MD ._SENT Hey_UH ,_, you_PP 're_VBP 
+right_RB outside_JJ ._SENT Come_VVN on_IN in_IN ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Oswin_NP ,_, we_PP have_VHP a_DT problem_NN ._SENT 
+OSWIN_NP :_: No_UH ,_, we_PP do_VVP n't_RB ._SENT Do_VV n't_RB even_RB say_VV that_DT ._SENT Joined_VVN the_DT Alaska_NP to_TO see_VV the_DT 
+universe_NN ,_, ended_VVD up_RB stuck_VVN in_IN a_DT shipwreck_NN first_JJ time_NN out_RB ._SENT Rescue_VV me_PP ,_, chin_NN 
+boy_UH ,_, and_CC show_VV me_PP the_DT stars_NNS ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Does_VVZ it_PP look_VV real_JJ to_TO you_PP ?_SENT 
+OSWIN_NP :_: Does_VVZ what_WP look_VVP real_JJ ?_SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Where_WRB you_PP are_VBP right_RB now_RB ._SENT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DOCTOR_NN :_: Does_VVZ it_PP seem_VVP real_JJ ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: It_PP is_VBZ real_JJ ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: It_PP 's_VBZ a_DT dream_NN ,_, Oswin_NP ._SENT You_PP dreamed_VVD it_PP for_IN yourself_PP 
+because_IN the_DT truth_NN was_VBD too_RB terrible_JJ ._SENT 
+OSWIN_NP :_: Where_WRB am_VBP I_PP ?_SENT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+(_( A_DT Dalek_NP has_VHZ chains_NNS draped_VVN over_IN it_PP ._SENT )_) 
+DALEK_NP :_: Where_WRB am_VBP I_PP ?_SENT Where_WRB am_VBP I_PP ?_SENT 
+DOCTOR_NN :_: Because_IN you_PP are_VBP a_DT Dalek_NP ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: I_PP am_VBP not_RB a_DT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DALEK_NP :_: Dalek_NP ._SENT I_PP am_VBP not_RB a_DT Dalek_NP !_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: I_PP 'm_VBP human_JJ ._SENT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DOCTOR_NN :_: You_PP were_VBD human_JJ when_WRB you_PP crashed_VVD here_RB ._SENT It_PP 
+was_VBD you_PP who_WP climbed_VVD out_RP of_IN the_DT pod_NN ._SENT That_DT was_VBD your_PP$ ladder_NN ._SENT 
+OSWIN_NN [_SYM memory_NN ]_SYM :_: Where_WRB am_VBP I_PP ?_SENT Where_WRB am_VBP I_PP ?_SENT Where_WRB am_VBP I_PP ?_SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: You_PP mean_VVP ?_SENT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DALEK_NP :_: Human_JJ ._SENT 
+DOCTOR_NN :_: Not_RB any_DT more_RBR ._SENT Because_IN you_PP 're_VBP right_JJ ._SENT You_PP 're_VBP a_DT genius_NN ._SENT And_CC the_DT 
+Daleks_NNS need_VVP genius_NN ._SENT They_PP did_VVD n't_RB just_RB make_VV you_PP a_DT puppet_NN ,_, they_PP did_VVD a_DT full_JJ 
+conversion_NN ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN [_SYM memory_NN ]_SYM :_: Where_WRB am_VBP I_PP ?_SENT Where_WRB am_VBP I_PP ?_SENT Where_WRB am_VBP 
+I_PP ?_SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Oswin_NP ,_, I_PP am_VBP so_RB sorry_JJ ,_, but_CC you_PP are_VBP a_DT Dalek_NP ._SENT The_DT 
+milk_NN ,_, Oswin_NP ._SENT The_DT milk_NN and_CC the_DT eggs_NNS for_IN the_DT soufflés_NNS ._SENT Where_WRB ,_, where_WRB did_VVD 
+it_PP all_RB come_VVP from_IN ?_SENT 
+OSWIN_NN [_SYM memory_NN ]_SYM :_: Eggs_NNS ._SENT I_PP 'm_VBP human_JJ ._SENT I_PP am_VBP not_RB a_DT Dalek_NP ,_, I_PP am_VBP human_JJ ._SENT I_PP am_VBP not_RB 
+Dalek_NP ,_, I_PP am_VBP human_JJ !_SENT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DALEK_NP :_: Eggs_NNS ._SENT 
+DOCTOR_NN :_: It_PP was_VBD n't_RB real_JJ ._SENT It_PP was_VBD never_RB real_JJ ._SENT 
+OSWIN_NN [_SYM memory_NN ]_SYM :_: I_PP am_VBP a_DT Dalek_NP ._SENT I_PP am_VBP a_DT Dalek_NP ._SENT 
+OSWIN_NN +_SYM DALEK_NP :_: Eggs_NNS ._SENT 
+DALEK_NP :_: Stir_VV ._SENT Min_NP ._SENT Ate_VVD ._SENT 
+DOCTOR_NN :_: Oswin_NP ._SENT 
+DALEK_NP :_: Eggs_NNS ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Stir_VV ._SENT Min_NP ate_VVD ._SENT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DALEK_NP :_: Exterminate_VV ._SENT 
+DOCTOR_NN :_: Oswin_NP ._SENT No_UH ,_, no_UH ,_, no_UH ,_, Oswin_NP ._SENT Oswin_NP ._SENT 
+DALEK_NP :_: Exterminate_VV !_SENT 
+DOCTOR_NN :_: Listen_VV ._SENT Oswin_NP ,_, you_PP do_VVP n't_RB have_VH to_TO do_VV this_DT ._SENT 
+DALEK_NP :_: Exterminate_VV !_SENT 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Oswin_NP !_SENT 
+(_( Oswin_NP is_VBZ crying_VVG ._SENT )_) 
+OSWIN_NP :_: Why_WRB do_VVP they_PP hate_VVP you_PP 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DALEK_NP :_: So_RB much_RB ?_SENT They_PP hate_VVP you_PP so_RB much_RB ._SENT Why_WRB ?_SENT 
+DOCTOR_NN :_: I_PP fought_VVD them_PP many_JJ ,_, many_JJ times_NNS ._SENT 
+DALEK_NP :_: We_PP have_VHP grown_VVN stronger_JJR in_IN fear_NN of_IN you_PP ._SENT 
+DOCTOR_NN :_: I_PP know_VVP ._SENT I_PP tried_VVD to_TO stop_VV ._SENT 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Then_RB run_VVN ._SENT 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: What_WP did_VVD you_PP say_VVP ?_SENT 
+OSWIN_NN :_: I_PP 've_VHP taken_VVN down_RP the_DT forcefield_NN ._SENT 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DALEK_NP :_: The_DT Daleks_NNS above_RB have_VHP begun_VVN their_PP$ attack_NN ._SENT 
+Run_NN !_SENT 
+[_SYM Room_NP ]_SYM 
+DOCTOR_NN [_SYM on_IN screen_NN ]_SYM :_: Oswin_NP ,_, are_VBP you_PP 
+OSWIN_NN :_: I_PP am_VBP Oswin_NP Oswald_NP ._SENT I_PP fought_VVD the_DT Daleks_NP and_CC I_PP am_VBP 
+[_SYM Padded_JJ cell_NN ]_SYM 
+DALEK_NP :_: Human_JJ !_SENT Remember_VV me_PP ._SENT 
+DOCTOR_NN :_: Thank_VV you_PP ._SENT 
+DALEK_NP :_: Run_VVN !_SENT 
+(_( The_DT Doctor_NP runs_VVZ as_IN the_DT bombardment_NN starts_VVZ ._SENT )_) 
+[_SYM Room_NP ]_SYM 
+OSWIN_NN :_: Run_VV ,_, you_PP clever_JJ boy_NN ._SENT And_CC remember_VV ._SENT 
+[_SYM Teleport_NP room_NN ]_SYM 
+RORY_NP :_: How_WRB long_RB can_MD we_PP wait_VV ?_SENT 
+AMY_NN :_: The_DT rest_NN of_IN our_PP$ lives_NNS ._SENT 
+RORY_NP :_: Agreed_VVD ._SENT 
+(_( They_PP kiss_VVP as_IN things_NNS go_VVP bang_NN around_IN them_PP and_CC the_DT Doctor_NP runs_VVZ in_IN ._SENT )_) 
+DOCTOR_NN :_: Right_RB ,_, go_VVP !_SENT Let_VV 's_VBZ go_VV ._SENT We_PP 're_VBP good_JJ ._SENT Let_VV 's_VBZ go_VV ._SENT Oh_UH ,_, for_IN God_NP 's_POS sake_NN ._SENT 
+(_( The_DT Doctor_NP takes_VVZ the_DT control_NN unit_NN from_IN Rory_NP and_CC activates_VVZ it_PP ._SENT Nothing_NN 
+appears_VVZ to_TO happen_VV ._SENT Missiles_NNS streak_VVP in_IN and_CC the_DT entire_JJ planet_NN goes_VVZ 
+KaBOOM_NP !_SENT )_) 
+[_SYM Parliament_NP ]_SYM 
+WHITE_NN :_: The_DT Asylum_NN is_VBZ destroyed_VVN ._SENT 
+DALEK_NP :_: Incoming_JJ teleport_NN from_IN Asylum_NP planet_NN ._SENT We_PP are_VBP under_IN attack_NN ._SENT 
+WHITE_NN :_: Prepare_VV to_TO defend_VV ._SENT Defend_VV ._SENT Defend_VV !_SENT 
+DALEK_NP PM_NP :_: Explain_VV ,_, Dalek_NP Supreme_NP ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: You_PP know_VVP ,_, you_PP guys_VVZ should_MD really_RB have_VH seen_VVN this_DT coming_VVG ._SENT 
+The_DT thing_NN about_IN me_PP and_CC teleports_NNS ,_, I_PP 've_VHP got_VVN a_DT really_RB good_JJ aim_NN ._SENT Pin-point_NN 
+accurate_JJ ,_, in_IN fact_NN ._SENT Or_CC ,_, to_TO put_VV it_PP another_DT way_NN 
+(_( The_DT Doctor_NP looks_VVZ out_RP of_IN the_DT Tardis_NP door_NN ._SENT )_) 
+DOCTOR_NN :_: Suckers_NNS !_SENT 
+DALEK_NP :_: Identify_VV yourself_PP ._SENT Identify_VV ._SENT Identify_VV ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ me_PP ._SENT You_PP know_VVP me_PP ._SENT The_DT Doctor_NP ._SENT The_DT Oncoming_NP Storm_NP ._SENT The_DT 
+Predator_NN ._SENT 
+DARLA_NN :_: Titles_NNS are_VBP not_RB meaningful_JJ in_IN this_DT context_NN ._SENT Doctor_NN who_WP ?_SENT 
+DALEK_NP PM_NP :_: Doctor_VV who_WP ?_SENT 
+DALEKS_NNS :_: Doctor_VV who_WP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, Oswin_NP ._SENT Oh_UH ,_, you_PP did_VVD it_PP to_TO them_PP all_DT ._SENT You_PP beauty_NN ._SENT 
+DALEKS_NNS :_: Doctor_VV who_WP ?_SENT Doctor_NN who_WP ?_SENT 
+DOCTOR_NN :_: Fellas_NNS ,_, you_PP 're_VBP never_RB going_VVG to_TO stop_VV asking_VVG ._SENT 
+(_( He_PP shuts_VVZ the_DT door_NN and_CC the_DT Tardis_NP dematerialises_VVZ ._SENT )_) 
+DALEKS_NNS :_: Doctor_VV who_WP ?_SENT 
+[_SYM Street_NP ]_SYM 
+(_( Amy_NP and_CC Rory_NP wave_NN goodbye_NN as_IN the_DT Tardis_NP 
+dematerialises_VVZ ,_, then_RB she_PP goes_VVZ indoors_RB ._SENT )_) 
+RORY_NP :_: Yes_UH !_SENT Yes_UH !_SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: I_PP can_MD see_VV you_PP ._SENT 
+RORY_NP :_: Okay_JJ ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( The_DT Doctor_NP dances_NNS as_IN he_PP sets_VVZ the_DT controls_NNS ._SENT )_) 
+DOCTOR_NN :_: Doctor_VV who_WP ._SENT Doctor_NN who_WP ._SENT Doctor_NN Who_WP !_SENT 
+

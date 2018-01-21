@@ -1,0 +1,1124 @@
+(_( A_DT 
+shower_NN of_IN snowflakes_NNS with_IN teeth_NNS heads_NNS towards_IN Earth_NP ._SENT )_) 
+[_SYM Park_NP ]_SYM 
+(_( England_NP ,_, 1842._CD A_DT large_JJ hedged_VVN area_NN in_IN a_DT suburb_NN ,_, 
+with_IN one_CD big_JJ tree_NN and_CC lots_NNS of_IN snow_NN on_IN the_DT ground_NN ._SENT The_DT other_JJ children_NNS 
+throw_NN snowballs_NNS whilst_IN a_DT lone_JJ boy_NN builds_VVZ a_DT snowman_NN ._SENT )_) 
+WOMAN_NN :_: Walter_NP ,_, do_VVP n't_RB you_PP want_VVP to_TO go_VV and_CC play_VV with_IN the_DT other_JJ boys_NNS and_CC 
+girls_NNS ?_SENT They_PP 're_VBP very_RB nice_JJ ._SENT 
+WALTER_NN :_: I_PP do_VVP n't_RB need_VV anyone_NN else_RB ._SENT 
+(_( A_DT man_NN comes_VVZ up_RP to_TO her_PP ._SENT )_) 
+WOMAN_NN :_: He_PP never_RB talks_VVZ to_TO anyone_NN ._SENT He_PP 's_VBZ so_RB alone_RB ._SENT It_PP 's_VBZ not_RB right_JJ ._SENT It_PP 's_VBZ 
+not_RB healthy_JJ ._SENT 
+(_( The_DT man_NN and_CC woman_NN walk_VVP back_RB inside_IN a_DT large_JJ building_NN ._SENT )_) 
+WALTER_NN :_: I_PP do_VVP n't_RB want_VV to_TO talk_VV to_TO them_PP ._SENT They_PP 're_VBP silly_JJ ._SENT 
+SNOWMAN_NN :_: They_PP 're_VBP silly_JJ ._SENT Do_VVP n't_RB talk_VV to_TO them_PP ._SENT They_PP 're_VBP silly_JJ ._SENT 
+(_( Walter_NP runs_VVZ away_RB from_IN the_DT snowman_NN ._SENT )_) 
+SNOWMAN_NN :_: Do_VVP n't_RB need_VV anyone_NN else_RB ._SENT I_PP can_MD help_VV you_PP ._SENT 
+WALTER_NN :_: How_WRB ?_SENT 
+[_SYM Institute_NP ]_SYM 
+
+(_( 50_CD years_NNS later_RBR ._SENT The_DT young_JJ boy_NN is_VBZ now_RB a_DT sour_JJ old_JJ 
+man_NN watching_VVG men_NNS scraping_VVG bits_NNS of_IN snow_NN off_IN snowmen_NNS with_IN nasty_JJ toothy_JJ 
+grins_NNS and_CC into_IN Kilner_NP clip-top_JJ jars_NNS ._SENT He_PP transports_VVZ the_DT jars_NNS back_RB to_TO the_DT 
+GI_NP Institute_NP and_CC goes_VVZ into_IN a_DT laboratory_NN ._SENT There_EX is_VBZ a_DT large_JJ globe_NN on_IN legs_NNS 
+three_CD steps_NNS up_RB on_IN a_DT dais_NN ,_, which_WDT also_RB contains_VVZ some_DT snow_NN ._SENT Electricity_NN 
+crackles_NNS around_IN the_DT place_NN ._SENT )_) 
+SIMEON_NN :_: The_DT last_JJ of_IN the_DT arrivals_NNS have_VHP been_VBN sampled_VVN ._SENT 
+SNOWMAN_NN :_: The_DT great_JJ swarm_NN is_VBZ approaching_VVG ._SENT As_IN humanity_NN celebrates_VVZ ,_, so_RB 
+shall_MD it_PP end_VV ._SENT Will_MD the_DT final_JJ piece_NN be_VB ready_JJ ?_SENT 
+SIMEON_NN :_: It_PP 's_VBZ in_IN hand_NN ._SENT I_PP serve_VVP you_PP in_IN this_DT ,_, as_RB in_IN everything_NN else_RB ._SENT 
+(_( Walter_NP Simeon_NP spoons_VVZ the_DT snow_NN from_IN the_DT jars_NNS into_IN the_DT globe_NN ._SENT )_) 
+SNOWMAN_NN :_: And_CC do_VVP you_PP keep_VV my_PP$ secrets_NNS ,_, those_DT men_NNS who_WP helped_VVD us_PP tonight_RB ?_SENT 
+SIMEON_NN :_: It_PP wo_MD n't_RB be_VB a_DT problem_NN ._SENT I_PP promised_VVD to_TO feed_VV them_PP ._SENT 
+[_SYM Courtyard_NP ]_SYM 
+
+(_( Simeon_NP stands_VVZ on_IN a_DT balcony_NN overlooking_VVG the_DT yard_NN 
+full_JJ of_IN men_NNS ._SENT )_) 
+WORKER_NN :_: Beg_NN pardon_NN ,_, Doctor_NP Simeon_NP ._SENT It_PP 's_VHZ been_VBN a_DT long_JJ day_NN ._SENT I_PP do_VVP n't_RB see_VV 
+any_DT food_NN here_RB ._SENT 
+SIMEON_NN :_: I_PP do_VVP ._SENT 
+(_( Toothy_JJ snowmen_NNS rear_VVP up_RP from_IN the_DT ground_NN ._SENT )_) 
+WORKER_NN :_: What_WP is_VBZ this_DT ?_SENT 
+SIMEON_NN :_: I_PP said_VVD I_PP 'd_MD feed_VV you_PP ._SENT I_PP did_VVD n't_RB say_VV who_WP to_TO ._SENT 
+[_SYM Rose_NP &_CC Crown_NP ]_SYM 
+
+(_( A_DT familiar_JJ looking_VVG young_JJ woman_NN gathers_NNS empty_VVP 
+tankards_NNS from_IN the_DT tables_NNS and_CC takes_VVZ the_DT tray_NN outside_NN ._SENT There_EX is_VBZ a_DT toothy_JJ 
+snowman_NN in_IN the_DT yard_NN between_IN the_DT inn_NN and_CC the_DT wash_NN house_NN ._SENT A_DT man_NN walks_VVZ 
+past_IN her_PP ._SENT )_) 
+CLARA_NP :_: Did_VVD you_PP make_VV this_DT snowman_NN ?_SENT 
+DOCTOR_NN :_: No._NN 
+CLARA_NP :_: Well_UH ,_, who_WP did_VVD ?_SENT Because_IN it_PP was_VBD n't_RB there_RB a_DT second_NN ago_RB ._SENT It_PP just_RB 
+appeared_VVD ,_, from_IN nowhere_RB ._SENT 
+(_( The_DT Doctor_NP turns_VVZ and_CC comes_VVZ back_RB to_TO examine_VV it_PP ._SENT )_) 
+DOCTOR_NN :_: Maybe_RB it_PP 's_VBZ snow_NN that_WDT fell_VVD before_RB ._SENT Maybe_RB it_PP remembers_VVZ how_WRB to_TO 
+make_VV snowmen_NNS ._SENT 
+CLARA_NP :_: What_WP ,_, snow_NN that_WDT can_MD remember_VV ?_SENT That_DT 's_VBZ silly_JJ ._SENT 
+DOCTOR_NN :_: What_WP 's_VBZ wrong_JJ with_IN silly_NN ?_SENT 
+CLARA_NN :_: Nothing_NN ._SENT Still_RB talking_VVG to_TO you_PP ,_, ai_VVP n't_RB I_PP ?_SENT 
+DOCTOR_NN :_: What_WP 's_VBZ your_PP$ name_NN ?_SENT 
+CLARA_NP :_: Clara_NP ._SENT 
+DOCTOR_NN :_: Nice_JJ name_NN ._SENT Clara_NP ._SENT You_PP should_MD definitely_RB keep_VV it_PP ._SENT Goodbye_NN !_SENT 
+(_( Clara_NP follows_VVZ him_PP around_IN the_DT corner_NN ._SENT )_) 
+CLARA_NP :_: Oi_NP !_SENT Where_WRB are_VBP you_PP going_VVG ?_SENT I_PP thought_VVD we_PP was_VBD just_RB getting_VVG 
+acquainted_VVN ._SENT 
+Those_DT were_VBD the_DT days._NN 
+(_( The_DT Doctor_NP leaves_VVZ ._SENT Clara_NP starts_VVZ to_TO return_VV to_TO the_DT inn_NN ,_, then_RB changes_VVZ her_PP 
+mind_NN and_CC runs_VVZ after_IN his_PP$ brougham_NN carriage_NN ._SENT It_PP 's_VBZ not_RB a_DT hansom_NN because_RB 
+the_DT driver_NN is_VBZ in_IN front_NN ,_, not_RB behind_RB ._SENT )_) 
+[_SYM Carriage_NP ]_SYM 
+
+VASTRA_NN [_SYM OC_NP ]_SYM :_: How_WRB refreshing_VVG to_TO see_VV you_PP taking_VVG an_DT 
+interest_NN again_RB ._SENT Was_VBD she_PP nice_JJ ?_SENT 
+DOCTOR_NN :_: I_PP just_RB spoke_VVD to_TO her_PP ._SENT 
+(_( This_DT carriage_NN has_VHZ a_DT telephonic_JJ communications_NNS device_NN fitted_VVD ._SENT )_) 
+VASTRA_NN [_SYM OC_NP ]_SYM :_: And_CC made_VVD your_PP$ usual_JJ impact_NN ,_, no_DT doubt_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, no_DT impact_NN at_IN all_DT ._SENT Those_DT days_NNS are_VBP over_RB ._SENT 
+VASTRA_NN [_SYM OC_NP ]_SYM :_: You_PP ca_MD n't_RB help_VV yourself_PP ._SENT 
+[_SYM Vastra_NP 's_POS study_NN ]_SYM 
+
+VASTRA_NN :_: It_PP 's_VBZ the_DT same_JJ story_NN every_DT time_NN ._SENT And_CC it_PP 
+always_RB begins_VVZ with_IN the_DT same_JJ two_CD words_NNS ._SENT 
+[_SYM Carriage_NP ]_SYM 
+
+DOCTOR_NN :_: She_PP 'll_MD never_RB be_VB able_JJ to_TO find_VV me_PP again_RB ._SENT She_PP 
+does_VVZ n't_RB even_RB have_VH the_DT name_NN ._SENT Doctor_NN ._SENT What_WP two_CD words_NNS ?_SENT 
+(_( Clara_NP 's_POS head_NN appears_VVZ through_IN the_DT hatch_NN in_IN the_DT roof_NN ._SENT )_) 
+CLARA_NN :_: Doctor_NN ?_SENT Doctor_NN who_WP ?_SENT 
+
+[_SYM Outside_IN Darkover_NP House_NP ]_SYM 
+
+(_( A_DT carriage_NN drops_VVZ off_RP a_DT middle_JJ aged_JJ man_NN ._SENT He_PP is_VBZ 
+greeted_VVN at_IN the_DT door_NN by_IN a_DT servant_NN ._SENT )_) 
+ALICE_NN :_: Good_JJ evening_NN ,_, sir_NN ._SENT 
+LATIMER_NP :_: Pond_NP 's_VBZ frozen_VVN over_RP ._SENT Has_VHZ n't_RB frozen_VVN since_IN the_DT night_NN 
+SIMEON_NN :_: Since_IN the_DT night_NN your_PP$ children_NNS 's_POS governess_NN died_VVD ,_, a_DT year_NN ago_RB ._SENT 
+ALICE_NN :_: Doctor_NP Simeon_NP ,_, sir_NN ._SENT He_PP insisted_VVD on_IN waiting_VVG ._SENT 
+LATIMER_NN :_: She_PP drowned_VVD in_IN this_DT very_JJ pond_NN ._SENT 
+SIMEON_NN :_: Which_WDT then_RB froze_VVD ._SENT You_PP did_VVD n't_RB find_VV her_PP till_IN a_DT month_NN later_RBR ,_, when_WRB 
+the_DT ice_NN finally_RB melted_VVN ._SENT 
+LATIMER_NN :_: I_PP recall_VVP the_DT incident_NN ._SENT It_PP is_VBZ the_DT sort_NN of_IN thing_NN one_PP remembers_VVZ ._SENT 
+SIMEON_NN :_: The_DT ice_NN remembers_VVZ too_RB ._SENT 
+LATIMER_NP :_: Who_WP are_VBP you_PP ?_SENT What_WP do_VVP you_PP want_VVP here_RB ?_SENT 
+(_( Simeon_NP gives_VVZ him_PP a_DT business_NN card_NN -_: The_DT Great_NP Intelligence_NP Institute_NP ._SENT 
+Memories_NNS of_IN the_DT 
+Abominable_JJ 
+Snowmen_NNS ,_, everyone_NN ?_SENT )_) 
+SIMEON_NN :_: The_DT pond_NN is_VBZ yours_PP$ ,_, Captain_NP Latimer_NP ,_, but_CC what_WP is_VBZ growing_VVG inside_RB 
+it_PP ,_, when_WRB it_PP is_VBZ ready_JJ ,_, is_VBZ ours_JJ ._SENT Good_JJ evening_NN ._SENT 
+[_SYM Alleyway_NP ]_SYM 
+
+(_( A_DT shapely_JJ young_JJ woman_NN in_IN leather_NN trousers_NNS stands_VVZ 
+in_IN Simeon_NP 's_POS path_NN ._SENT )_) 
+JENNY_NN :_: Well_RB ,_, Doctor_NP Simeon_NP ,_, you_PP 're_VBP out_RB very_RB late_JJ tonight_NN ._SENT 
+VASTRA_NN :_: Almost_RB makes_VVZ you_PP wonder_VVP what_WP you_PP 've_VHP been_VBN up_RB to_TO ._SENT But_CC then_RB ,_, I_PP 
+have_VHP often_RB wondered_VVN about_IN the_DT activities_NNS of_IN Doctor_NP Simeon_NP and_CC his_PP$ 
+exceptionally_RB secretive_JJ Institute_NP ._SENT 
+SIMEON_NP :_: Well_UH ,_, I_PP am_VBP honoured_VVN this_DT evening_NN ._SENT The_DT veiled_JJ detective_NN and_CC her_PP 
+fatuous_JJ accomplice_NN ._SENT 
+JENNY_NN :_: At_IN your_PP$ service_NN ._SENT 
+SIMEON_NN :_: You_PP realise_VVP Doctor_NP Doyle_NP is_VBZ almost_RB certainly_RB basing_VVG his_PP$ 
+fantastical_JJ tales_NNS on_IN your_PP$ own_JJ exploits_NNS ?_SENT With_IN a_DT few_JJ choice_NN alterations_NNS ,_, 
+of_IN course_NN ._SENT 
+I_PP doubt_VVP the_DT readers_NNS of_IN The_DT Strand_NP magazine_NN would_MD accept_VV that_IN/that the_DT great_JJ 
+detective_NN is_VBZ ,_, in_IN reality_NN a_DT woman_NN ._SENT 
+(_( Simeon_NP lifts_VVZ Vastra_NP 's_POS veil_NN to_TO reveal_VV that_IN/that she_PP is_VBZ a_DT Silurian_JJ ._SENT )_) 
+SIMEON_NN :_: And_CC her_PP$ suspiciously_RB intimate_JJ companion_NN 
+VASTRA_NN :_: I_PP resent_VVP your_PP$ implication_NN of_IN impropriety_NN ._SENT We_PP are_VBP married_VVN ._SENT 
+JENNY_NN :_: More_JJR than_IN can_MD be_VB said_VVN for_IN you_PP ,_, eh_NP ,_, dear_RB ?_SENT 
+VASTRA_NN :_: Now_RB then_RB ._SENT This_DT snow_NN is_VBZ interesting_JJ ,_, do_VVP n't_RB you_PP think_VVP ?_SENT The_DT ice_NN 
+crystals_NNS seem_VVP to_TO have_VH a_DT low_JJ level_NN telepathic_JJ field_NN ._SENT Almost_RB as_RB if_IN it_PP can_MD 
+detect_VV and_CC respond_VV to_TO the_DT thoughts_NNS and_CC memories_NNS of_IN the_DT people_NNS around_RB 
+it_PP ._SENT Memory_NN snow_NN ._SENT Snow_NN that_WDT learns_VVZ ._SENT 
+SIMEON_NN :_: How_WRB fascinating_JJ ._SENT 
+VASTRA_NN :_: I_PP hope_VVP it_PP 's_VBZ listening_VVG to_TO the_DT right_JJ people_NNS ._SENT It_PP could_MD be_VB a_DT 
+terrible_JJ weapon_NN in_IN the_DT wrong_JJ hands_NNS ,_, do_VVP n't_RB you_PP think_VVP ?_SENT 
+SIMEON_NN :_: I_PP think_VVP winter_NN is_VBZ coming_VVG ._SENT Such_PDT a_DT winter_NN as_IN this_DT world_NN has_VHZ never_RB 
+known_VVN ._SENT The_DT last_JJ winter_NN of_IN humankind_NN ._SENT Do_VV you_PP know_VV why_WRB I_PP 'm_VBP telling_VVG you_PP 
+all_PDT this_DT ?_SENT 
+VASTRA_NN :_: I_PP am_VBP intrigued_VVN ._SENT 
+SIMEON_NN :_: Because_IN there_EX 's_VBZ not_RB a_DT single_JJ thing_NN you_PP can_MD do_VV to_TO stop_VV it_PP ._SENT 
+VASTRA_NN :_: Perhaps_RB I_PP ca_MD n't_RB ,_, but_CC I_PP know_VVP a_DT man_NN who_WP can_MD ._SENT 
+SIMEON_NN :_: I_PP look_VVP forward_RB to_TO meeting_VVG him_PP ._SENT 
+(_( Simeon_NP leaves_VVZ ._SENT )_) 
+JENNY_NN :_: Do_VVP you_PP mean_VV the_DT Doctor_NP ?_SENT He_PP wo_MD n't_RB help_VV us_PP ._SENT He_PP never_RB helps_VVZ any_DT 
+more_RBR ,_, you_PP know_VVP that_RB ._SENT 
+VASTRA_NP :_: Yes_UH ,_, my_PP$ dear_NN ,_, I_PP do_VVP ._SENT So_RB pray_VV for_IN a_DT miracle_NN ,_, because_IN I_PP think_VVP we_PP 
+are_VBP going_VVG to_TO need_VV him_PP ._SENT 
+[_SYM Outside_IN the_DT Institute_NP ]_SYM 
+
+(_( Simeon_NP is_VBZ being_VBG watched_VVN by_IN a_DT manservant_NN with_IN 
+electronic_JJ binoculars_NNS ._SENT Nearby_RB ,_, the_DT Doctor_NP 's_POS carriage_NN is_VBZ rocking_VVG ._SENT )_) 
+STRAX_NN :_: They_PP 've_VHP taken_VVN samples_NNS from_IN snowmen_NNS all_RB over_IN London_NP ._SENT What_WP do_VVP you_PP 
+suppose_VV they_PP 're_VBP doing_VVG in_IN there_RB ?_SENT 
+(_( The_DT manservant_NN is_VBZ a_DT Sontaran_NP ._SENT )_) 
+DOCTOR_NN :_: This_DT snow_NN is_VBZ new_JJ ._SENT Possibly_RB alien_JJ ._SENT When_WRB you_PP find_VVP something_NN brand_NN 
+new_JJ in_IN the_DT world_NN ,_, something_NN you_PP 've_VHP never_RB seen_VVN before_IN ,_, what_WP 's_VBZ the_DT next_JJ 
+thing_NN you_PP look_VVP for_IN ?_SENT 
+STRAX_NN :_: A_DT grenade_NN ._SENT 
+DOCTOR_NN :_: A_DT profit_NN ._SENT That_DT 's_VBZ Victorian_JJ values_NNS for_IN you_PP ._SENT 
+STRAX_NN :_: I_PP suggest_VVP a_DT full_JJ frontal_JJ assault_NN with_IN automated_JJ laser_NN monkeys_NNS ,_, 
+scalpel_NN mines_NNS and_CC acid_NN ._SENT 
+DOCTOR_NN :_: Why_WRB ?_SENT 
+STRAX_NN :_: Could_MD n't_RB we_PP at_IN least_JJS investigate_VV ?_SENT 
+DOCTOR_NN :_: It_PP 's_POS none_NN of_IN our_PP$ business_NN ._SENT 
+STRAX_NN :_: Sir_NP ,_, permission_NN to_TO express_VV my_PP$ opposition_NN to_TO your_PP$ current_JJ apathy_NN ?_SENT 
+
+DOCTOR_NN :_: Permission_NN granted_VVD ._SENT 
+STRAX_NN :_: Sir_NP ,_, I_PP am_VBP opposed_VVN to_TO your_PP$ current_JJ apathy_NN ._SENT 
+CLARA_NN [_SYM OC_NP ]_SYM :_: Let_VV me_PP out_RP !_SENT 
+DOCTOR_NN :_: Thank_VV you_PP ,_, Strax_NP ._SENT And_CC if_IN ever_RB I_PP 'm_VBP in_IN need_NN of_IN advice_NN from_IN a_DT 
+psychotic_JJ potato_NN dwarf_NN ,_, you_PP 'll_MD certainly_RB be_VB the_DT first_JJ to_TO know_VV ._SENT 
+STRAX_NN :_: But_CC if_IN the_DT snow_NN is_VBZ new_JJ and_CC alien_JJ ,_, should_MD n't_RB we_PP be_VB making_VVG some_DT 
+attempt_NN to_TO destroy_VV it_PP ?_SENT Be_VB reasonable_JJ ._SENT 
+CLARA_NN [_SYM OC_NP ]_SYM Let_VV me_PP out_RP !_SENT 
+DOCTOR_NN :_: It_PP is_VBZ not_RB our_PP$ problem_NN ._SENT Over_IN a_DT thousand_CD years_NNS of_IN saving_VVG the_DT 
+universe_NN ,_, Strax_NP ,_, you_PP know_VVP the_DT one_CD thing_NN I_PP learned_VVD ?_SENT The_DT universe_NN does_VVZ n't_RB 
+care_NN ._SENT 
+CLARA_NN [_SYM OC_NP ]_SYM :_: In_IN this_DT cab_NN ._SENT Oi_NP ,_, Doctor_NP !_SENT Let_VV me_PP out_RP !_SENT Are_VBP you_PP listening_VVG to_TO 
+me_FW ?_SENT 
+DOCTOR_NN :_: Now_RB ,_, we_PP have_VHP a_DT problem_NN of_IN our_PP$ own_JJ to_TO worry_VV about_RB ._SENT 
+CLARA_NN [_SYM OC_NP ]_SYM :_: Let_VV me_PP out_RP !_SENT 
+[_SYM Carriage_NP ]_SYM 
+
+CLARA_NP :_: Oi_NP !_SENT 
+DOCTOR_NN :_: Do_VVP n't_RB worry_VV ._SENT No_DT one_CD 's_VBZ going_VVG to_TO hurt_VV you_PP ._SENT 
+CLARA_NP :_: What_WP is_VBZ that_DT thing_NN ?_SENT 
+STRAX_NN :_: Silence_VV ,_, boy_UH !_SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ Strax_NP ._SENT And_CC as_IN you_PP can_MD see_VV ,_, he_PP 's_VBZ easily_RB confused_VVN ._SENT 
+STRAX_NN :_: Silence_NN ,_, girl_NN ._SENT Sorry_RB ,_, lad_NN ._SENT 
+DOCTOR_NN :_: Sontaran_NN ._SENT Clone_NN warrior_NN race_NN ._SENT Factory_NN produced_VVD ,_, whole_JJ legions_NNS 
+at_IN a_DT time_NN ._SENT Two_CD genders_NNS is_VBZ a_DT bit_NN further_RBR than_IN he_PP can_MD count_VV ._SENT 
+STRAX_NN :_: Sir_NP ,_, do_VVP not_RB discuss_VV my_PP$ reproductive_JJ cycle_NN in_IN front_NN of_IN enemy_NN 
+girls_NNS ._SENT It_PP 's_VBZ embarrassing_JJ ._SENT 
+DOCTOR_NN :_: Typical_JJ middle_JJ child_NN of_IN six_CD million_CD ._SENT 
+CLARA_NP :_: Who_WP are_VBP you_PP ?_SENT 
+DOCTOR_NN :_: It_PP does_VVZ n't_RB matter_VV because_IN you_PP 're_VBP about_RB to_TO forget_VV that_IN/that you_PP and_CC I_PP 
+ever_RB met_VVN ._SENT 
+STRAX_NN :_: We_PP 'll_MD need_VV the_DT worm_NN ._SENT 
+STRAX_NN :_: Sir_NP ._SENT 
+CLARA_NN :_: You_PP 'll_MD need_VV the_DT what_WP ?_SENT The_DT worm_NN ?_SENT What_WP worm_NN ?_SENT 
+DOCTOR_NN :_: Do_VVP n't_RB worry_VV ,_, it_PP wo_MD n't_RB hurt_VV ,_, but_CC one_CD touch_NN on_IN your_PP$ bare_JJ skin_NN and_CC 
+you_PP lose_VVP the_DT last_JJ hour_NN of_IN your_PP$ memory_NN ._SENT 
+(_( Strax_NP returns_NNS ._SENT )_) 
+DOCTOR_NN :_: Where_WRB is_VBZ it_PP ?_SENT 
+STRAX_NN :_: Where_WRB 's_VBZ what_WP ,_, sir_NN ?_SENT 
+DOCTOR_NN :_: I_PP sent_VVD you_PP to_TO get_VV the_DT memory_NN worm_NN ._SENT 
+STRAX_NP :_: Did_VVD you_PP ?_SENT When_WRB ?_SENT Who_WP 's_VBZ he_PP ?_SENT What_WP are_VBP we_PP doing_VVG here_RB ?_SENT Look_VV ,_, it_PP 's_VHZ been_VBN 
+snowing_VVG !_SENT 
+DOCTOR_NN :_: You_PP did_VVD n't_RB use_VV the_DT gauntlets_NNS ,_, did_VVD you_PP ?_SENT 
+STRAX_NN :_: Why_WRB would_MD I_PP need_VV the_DT gauntlets_NNS ?_SENT Do_VVP you_PP want_VVP me_PP to_TO get_VV the_DT memory_NN 
+worm_NN ?_SENT 
+DOCTOR_NN :_: You_PP ._SENT 
+[_SYM By_IN the_DT carriage_NN ]_SYM 
+
+(_( A_DT short_JJ time_NN later_RBR ,_, Strax_NP is_VBZ under_IN the_DT carriage_NN ._SENT )_) 
+DOCTOR_NN :_: Well_RB ,_, can_MD you_PP see_VV it_PP ?_SENT 
+STRAX_NN :_: I_PP think_VVP I_PP can_MD hear_VV it_PP ._SENT 
+(_( Clara_NP giggles_VVZ ._SENT )_) 
+DOCTOR_NN :_: Oi_NP ,_, do_VVP n't_RB try_VV to_TO run_VV away_RB ._SENT Stay_VV where_WRB you_PP are_VBP ._SENT 
+CLARA_NP :_: Why_WRB would_MD I_PP run_VV ?_SENT I_PP know_VVP what_WP 's_VBZ going_VVG to_TO happen_VV next_JJ and_CC it_PP 's_VBZ 
+funny_JJ ._SENT 
+DOCTOR_NN :_: What_WP 's_VBZ funny_JJ ?_SENT 
+CLARA_NP :_: Well_UH ,_, your_PP$ little_JJ pal_NN ,_, for_IN a_DT start_NN ._SENT He_PP 's_VBZ an_DT ugly_JJ little_JJ fella_NN ,_, 
+is_VBZ n't_RB he_PP ?_SENT 
+DOCTOR_NN :_: Maybe_RB ._SENT He_PP gave_VVD his_PP$ life_NN for_IN a_DT friend_NN of_IN mine_NN once_RB ._SENT 
+CLARA_NN :_: Then_RB how_WRB come_VVP he_PP 's_VBZ alive_JJ ?_SENT 
+DOCTOR_NN :_: Another_DT friend_NN of_IN mine_PP brought_VVD him_PP back_RB ._SENT I_PP 'm_VBP not_RB sure_JJ all_PDT his_PP$ 
+brains_NNS made_VVD the_DT return_NN trip_NN !_SENT 
+CLARA_NN :_: Neither_CC am_VBP I_PP ._SENT 
+STRAX_NN :_: I_PP can_MD see_VV it_PP ._SENT 
+DOCTOR_NN :_: Ooo_NN !_SENT Can_MD you_PP reach_VV it_PP ?_SENT Have_VHP you_PP got_VVD it_PP ?_SENT 
+STRAX_NP :_: Got_VVD what_WP ,_, sir_NN ?_SENT 
+CLARA_NN :_: Because_IN these_DT are_VBP the_DT gauntlets_NNS ,_, are_VBP n't_RB they_PP ?_SENT 
+STRAX_NN :_: Sir_NP ,_, emergency_NN !_SENT I_PP think_VVP I_PP 've_VHP been_VBN run_VVN over_RP by_IN a_DT cab_NN ._SENT 
+(_( The_DT Doctor_NP uses_VVZ the_DT gauntlets_NNS to_TO get_VV hold_NN of_IN a_DT large_JJ white_JJ worm_NN ._SENT )_) 
+DOCTOR_NN :_: There_RB you_PP go_VVP ._SENT One_CD touch_NN and_CC you_PP lose_VVP about_IN an_DT hour_NN of_IN your_PP$ 
+memory_NN ._SENT Let_VV it_PP bite_VV you_PP and_CC you_PP could_MD lose_VV decades_NNS ._SENT 
+(_( He_PP puts_VVZ it_PP into_IN a_DT jar_NN ._SENT )_) 
+DOCTOR_NN :_: And_CC you_PP 're_VBP still_RB not_RB trying_VVG to_TO run_VV ._SENT 
+CLARA_NN :_: I_PP do_VVP n't_RB understand_VV how_WRB the_DT snowman_NN built_VVD itself_PP ._SENT I_PP 'll_MD run_VV once_RB 
+you_PP 've_VHP explained_VVN ._SENT 
+DOCTOR_NN :_: Clara_NP who_WP ?_SENT 
+CLARA_NN :_: Doctor_VV who_WP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, dangerous_JJ question_NN ._SENT 
+CLARA_NP :_: What_WP 's_VBZ wrong_JJ with_IN dangerous_JJ ?_SENT 
+(_( A_DT snowman_NN appears_VVZ ._SENT )_) 
+DOCTOR_NN :_: The_DT snow_NN emits_VVZ a_DT low_JJ level_NN telepathic_JJ field_NN ._SENT 
+CLARA_NN :_: My_PP$ snowman_NN ._SENT 
+DOCTOR_NN :_: It_PP seems_VVZ to_TO reflect_VV people_NNS 's_POS thoughts_NNS and_CC memories_NNS and_CC because_IN 
+it_PP 's_VBZ unusual_JJ ,_, somehow_RB it_PP carries_VVZ a_DT previous_JJ shape_NN and_CC 
+CLARA_NP :_: No_UH ,_, Doctor_NP ._SENT My_PP$ snowman_NN ._SENT 
+DOCTOR_NN :_: Ah_UH !_SENT Interesting_JJ ._SENT Well_RB ,_, were_VBD you_PP thinking_VVG about_IN it_PP ?_SENT 
+CLARA_NP :_: Yes_UH ._SENT 
+(_( Another_DT one_CD appears_NNS ,_, then_RB others_NNS ._SENT )_) 
+DOCTOR_NN :_: Well_UH ,_, stop_VV ._SENT Clara_NP ,_, stop_NN thinking_NN about_IN the_DT snowmen_NNS !_SENT 
+(_( The_DT nearest_JJS snowman_NN breaths_NNS snowflakes_NNS at_IN them_PP ._SENT )_) 
+DOCTOR_NN :_: Get_VV down_RP !_SENT Clara_NP ,_, listen_VVP to_TO me_PP ._SENT The_DT snow_NN 's_VBZ feeding_VVG off_RP your_PP$ 
+thoughts_NNS ._SENT 
+CLARA_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP caught_VVN in_IN their_PP$ telepathic_JJ field_NN ._SENT They_PP 're_VBP mirroring_VVG you_PP ._SENT 
+The_DT more_JJR you_PP think_VVP about_IN the_DT snowmen_NNS ,_, the_DT more_RBR they_PP appear_VVP ._SENT Imagine_VV 
+them_PP melting_NN ._SENT Picture_VV it_PP ._SENT Picture_NN them_PP melted_VVD !_SENT 
+(_( They_PP get_VVP splashed_VVN with_IN icy_JJ water_NN ._SENT The_DT snowmen_NNS are_VBP gone_VVN ._SENT )_) 
+DOCTOR_NN :_: Well_RB ,_, very_RB good_JJ ._SENT Very_RB ,_, very_RB good_JJ ._SENT Ha_NP !_SENT 
+CLARA_NN :_: Is_VBZ that_IN/that going_VVG to_TO happen_VV again_RB ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, if_IN it_PP does_VVZ ,_, you_PP know_VVP what_WP to_TO do_VV about_IN it_PP ._SENT 
+CLARA_NN :_: Unless_IN I_PP forget_VVP ._SENT 
+(_( The_DT Doctor_NP puts_VVZ Clara_NP into_IN the_DT carriage_NN ._SENT )_) 
+DOCTOR_NN :_: Do_VVP n't_RB come_VV looking_VVG for_IN me_PP ._SENT Forget_VV about_IN me_PP ._SENT You_PP understand_VVP ?_SENT 
+CLARA_NP :_: What_WP about_IN the_DT snow_NN ?_SENT Should_MD n't_RB we_PP be_VB warning_VVG people_NNS ?_SENT 
+DOCTOR_NN :_: Not_RB my_PP$ problem_NN ._SENT Merry_NP Christmas_NP ._SENT Take_VV her_PP back_RB where_WRB we_PP found_VVD 
+her_PP ._SENT 
+STRAX_NN :_: Sir_NP ._SENT 
+(_( Strax_NP drives_VVZ on_IN ,_, but_CC Clara_NP has_VHZ already_RB got_VVN out_RP of_IN the_DT carriage_NN ._SENT She_PP 
+follows_VVZ the_DT Doctor_NP to_TO -_: )_) 
+
+[_SYM Park_NP ]_SYM 
+
+(_( Where_WRB he_PP climbs_VVZ over_IN the_DT railings_NNS and_CC walks_VVZ on_IN ,_, 
+whistling_VVG Silent_NP Night_NP ._SENT Seeing_VVG that_IN/that the_DT coast_NN is_VBZ clear_JJ ,_, he_PP jumps_VVZ up_RP and_CC 
+grabs_VVZ a_DT ladder_NN ,_, which_WDT he_PP pulls_VVZ down_RP ._SENT Clara_NP hides_NNS behind_IN a_DT tree_NN whilst_IN 
+the_DT Doctor_NP climbs_VVZ the_DT ladder_NN and_CC vanishes_NNS ._SENT There_EX is_VBZ a_DT clunk_NN ,_, and_CC the_DT 
+ladder_NN rises_NNS up_RB and_CC disappears_VVZ too_RB ._SENT After_IN a_DT moment_NN ,_, Clara_NP comes_VVZ out_RP and_CC 
+tries_VVZ to_TO jump_VV for_IN the_DT ladder_NN ._SENT She_PP gets_VVZ it_PP on_IN the_DT second_JJ attempt_NN ._SENT )_) 
+CLARA_NP :_: Come_VVN on_RP ._SENT 
+(_( She_PP starts_VVZ to_TO climb_VV ._SENT At_IN the_DT top_NN of_IN the_DT ladder_NN ,_, she_PP waves_VVZ at_IN 
+passers-by_NNS ,_, but_CC they_PP do_VVP not_RB see_VV or_CC hear_VV her_PP ._SENT )_) 
+CLARA_NP :_: Hello_UH ._SENT Invisible_JJ ._SENT 
+(_( She_PP is_VBZ at_IN the_DT base_NN of_IN a_DT spiral_NN staircase_NN ._SENT There_EX are_VBP footsteps_NNS in_IN the_DT 
+air_NN above_IN her_PP ._SENT )_) 
+CLARA_NN :_: An_DT invisible_JJ staircase_NN ._SENT 
+(_( The_DT ladder_NN retracts_VVZ again_RB as_IN she_PP climbs_VVZ ._SENT Soon_RB the_DT rooftops_NNS are_VBP a_DT long_JJ 
+way_NN below_RB ._SENT )_) 
+[_SYM Cloud_NP ]_SYM 
+
+(_( The_DT Tardis_NP is_VBZ here_RB ._SENT Clara_NP tentatively_RB steps_VVZ off_RP 
+the_DT staircase_NN into_IN the_DT cloud_NN ,_, goes_VVZ over_IN and_CC knocks_VVZ on_IN the_DT door_NN ._SENT She_PP 
+hides_NNS around_IN the_DT corner_NN when_WRB the_DT door_NN opens_VVZ ._SENT )_) 
+DOCTOR_NN :_: Hello_UH ?_SENT Hello_UH ?_SENT Hello_UH ?_SENT 
+(_( They_PP both_DT circle_NN the_DT Tardis_NP then_RB Clara_NP heads_VVZ back_RB down_RB the_DT staircase_NN ._SENT 
+The_DT Doctor_NP finds_VVZ her_PP$ shawl_NN ._SENT )_) 
+
+[_SYM Institute_NP ]_SYM 
+
+(_( More_JJR snow_NN samples_NNS are_VBP fed_VVN to_TO the_DT globe_NN ._SENT )_) 
+SNOWMAN_NN :_: Tonight_RB the_DT thaw_NN ._SENT Tomorrow_NN the_DT snow_NN will_MD fall_VV again_RB ,_, yet_RB 
+stronger_JJR ._SENT The_DT drowned_JJ woman_NN and_CC the_DT dreaming_VVG child_NN will_MD give_VV us_PP form_VV at_IN 
+last_JJ ._SENT 
+Tomorrow_NN the_DT snow_NN will_MD fall_VV and_CC so_RB shall_MD mankind_NN ._SENT She_PP is_VBZ coming_VVG ._SENT 
+[_SYM Rose_NP &_CC Crown_NP ]_SYM 
+
+(_( Clara_NP wakes_VVZ in_IN a_DT bed_NN ._SENT She_PP dresses_VVZ and_CC leaves_VVZ ,_, 
+carrying_VVG a_DT Gladstone_NP bag_NN ._SENT )_) 
+CLARA_NP :_: Look_VVP at_IN that_DT ._SENT Must_MD have_VH thawed_VVN in_IN the_DT night_NN ._SENT 
+(_( The_DT landlord_NN follows_VVZ her_PP$ outside_NN ._SENT )_) 
+CHILCOTT_NP :_: I_PP 'm_VBP begging_VVG you_PP ,_, Clara_NP ._SENT I_PP 'm_VBP on_IN my_PP$ knees_NNS ._SENT 
+CLARA_NP :_: Elsie_NP is_VBZ back_RB this_DT afternoon_NN ,_, and_CC I_PP was_VBD only_RB helping_VVG out_RP ._SENT I_PP 've_VHP 
+got_VVD my_PP$ own_JJ work_NN to_TO get_VV back_RB to_TO ._SENT 
+CHILCOTT_NP :_: What_WP work_VVP ?_SENT Why_WRB wo_MD n't_RB you_PP ever_RB tell_VV us_PP ?_SENT 
+CLARA_NN :_: You_PP 'd_MD never_RB believe_VV me_PP ._SENT 
+(_( In_IN a_DT carriage_NN ,_, Clara_NP draws_VVZ down_RP the_DT blinds_NNS and_CC changes_NNS her_PP$ clothes_NNS ._SENT )_) 
+
+[_SYM Outside_IN Darkover_NP House_NP ]_SYM 
+
+(_( Clara_NP steps_VVZ out_RP of_IN the_DT carriage_NN as_IN a_DT prim_JJ and_NP 
+proper_JJ young_JJ woman_NN ,_, to_TO be_VB met_VVN by_IN the_DT maid_NN ._SENT She_PP speaks_VVZ very_RB nicely_RB now_RB ,_, 
+too_RB ._SENT )_) 
+CLARA_NP :_: Alice_NP ,_, how_WRB smart_JJ you_PP look_VVP today_NN ._SENT 
+ALICE_NN :_: The_DT governess_NN should_MD enter_VV by_IN the_DT back_JJ door_NN ,_, unless_IN accompanied_VVN 
+by_IN the_DT children_NNS ._SENT 
+CLARA_NN :_: And_CC how_WRB are_VBP the_DT children_NNS ?_SENT Excited_VVN about_IN tomorrow_NN ?_SENT 
+ALICE_NN :_: Francesca_NP ,_, same_JJ as_IN ever_RB ._SENT Digby_NP says_VVZ he_PP missed_VVD you_PP every_DT day_NN ._SENT 
+Captain_NP Latimer_NP wants_VVZ to_TO see_VV you_PP ._SENT 
+CLARA_NN :_: Of_IN course_NN ._SENT Every_DT day_NN ?_SENT 
+ALICE_NN :_: Twice_RB on_IN Saturdays_NNS ._SENT 
+CLARA_NP :_: That_WDT 's_VBZ better_JJR ._SENT 
+
+[_SYM Study_NP ]_SYM 
+
+CLARA_NP :_: Captain_NP Latimer_NP ._SENT 
+LATIMER_NP :_: Ah_UH ._SENT Miss_NP Montague_NP ,_, you_PP 're_VBP back_RB ._SENT 
+CLARA_NN :_: In_IN time_NN for_IN Christmas_NP ._SENT Apologies_NNS for_IN my_PP$ brief_JJ absence_NN ._SENT Family_NN 
+illness_NN is_VBZ so_RB unpredictable_JJ ._SENT You_PP wanted_VVD to_TO see_VV me_PP ?_SENT 
+LATIMER_NP :_: Francesca_NP has_VHZ been_VBN having_VHG nightmares_NNS ._SENT 
+CLARA_NP :_: Young_JJ girls_NNS often_RB do_VVP ._SENT 
+LATIMER_NN :_: Every_DT night_NN this_DT week_NN ,_, she_PP says_VVZ ._SENT Wo_MD n't_RB tell_VV me_PP about_IN them_PP ._SENT 
+CLARA_NN :_: Perhaps_RB if_IN you_PP asked_VVD her_PP in_IN the_DT right_JJ way_NN ,_, there_EX 's_VBZ no_DT one_CD she_PP 'd_MD 
+rather_RB tell_VV ._SENT 
+LATIMER_NN :_: Children_NNS are_VBP not_RB really_RB my_PP$ area_NN of_IN expertise_NN ._SENT 
+CLARA_NN :_: They_PP are_VBP ,_, however_RB ,_, your_PP$ children_NNS ._SENT 
+LATIMER_NN :_: You_PP have_VHP ,_, if_IN I_PP may_MD say_VV ,_, a_DT remarkable_JJ amount_NN of_IN wisdom_NN in_IN these_DT 
+matters_NNS ,_, for_IN one_CD so_RB very_RB pretty_RB ,_, Miss_NP Montague_NP ._SENT Young_JJ ,_, I_PP mean_VVP ._SENT 
+CLARA_NN :_: I_PP 'll_MD see_VV to_TO the_DT children_NNS now_RB ._SENT 
+
+[_SYM Garden_NP ]_SYM 
+
+(_( A_DT pair_NN of_IN children_NNS are_VBP playing_VVG chase_NN ._SENT )_) 
+FRANCESCA_NP :_: Miss_NP Montague_NP !_SENT 
+DIGBY_NP :_: Miss_NP Montague_NP ,_, you_PP 're_VBP back_RB !_SENT 
+CLARA_NP :_: Ah_UH ,_, ah_NP ,_, ah_NP !_SENT 
+DIGBY_NP :_: Good_JJ morning_NN ,_, Miss_NP Montague_NP ._SENT 
+FRANCESCA_NN :_: Good_JJ morning_NN ,_, Miss_NP Montague_NP ._SENT 
+(_( Clara_NP shakes_VVZ their_PP$ hands_NNS ._SENT )_) 
+CLARA_NP :_: Good_JJ morning_NN ,_, Francesca_NP ._SENT Good_JJ morning_NN ,_, Digby_NP ._SENT Christmas_NP Eve_NP is_VBZ 
+the_DT most_RBS thrilling_JJ day_NN ,_, do_VVP n't_RB you_PP think_VVP ?_SENT Now_RB ,_, what_WP have_VHP you_PP two_CD been_VBN up_RB 
+to_TO while_IN I_PP 've_VHP been_VBN away_RB ?_SENT 
+DIGBY_NN :_: I_PP did_VVD seven_CD drawings_NNS and_CC we_PP saw_VVD a_DT dead_JJ cow_NN ._SENT 
+CLARA_NP :_: Well_UH ,_, how_WRB exciting_JJ ._SENT 
+DIGBY_NP :_: Do_VVP your_PP$ secret_JJ voice_NN ._SENT 
+CLARA_NP :_: Allo_NP ,_, mates_NNS ._SENT 
+(_( Sitting_VVG on_IN a_DT bench_NN ._SENT )_) 
+FRANCESCA_NN :_: They_PP 're_VBP not_RB exactly_RB nightmares_NNS ._SENT Just_RB dreams_NNS ._SENT 
+DIGBY_NN :_: About_IN our_PP$ old_JJ governess_NN ._SENT The_DT one_CD who_WP died_VVD ._SENT She_PP 's_VBZ haunting_VVG 
+Frannie_NP from_IN beyond_IN the_DT grave_NN ._SENT 
+CLARA_NP :_: Have_VHP n't_RB you_PP spoken_JJ to_TO your_PP$ father_NN about_IN this_DT ?_SENT 
+FRANCESCA_NN :_: You_PP ca_MD n't_RB talk_VV about_IN things_NNS like_IN that_WDT to_TO Daddy_NP ._SENT 
+CLARA_NN :_: You_PP could_MD try_VV ._SENT 
+DIGBY_NP :_: Do_VVP you_PP want_VVP to_TO see_VV where_WRB she_PP died_VVD ?_SENT 
+(_( They_PP walk_VVP around_RB to_TO the_DT front_NN ,_, and_CC the_DT formal_JJ pond_NN ._SENT )_) 
+DIGBY_NN :_: She_PP fell_VVD in_IN there_RB ,_, and_CC then_RB it_PP froze_VVD ._SENT She_PP was_VBD in_IN the_DT ice_NN for_IN 
+days_NNS and_CC days._NN I_PP hated_VVD her_PP ._SENT She_PP was_VBD cross_VV all_PDT the_DT time_NN ._SENT In_IN Frannie_NP 's_POS 
+dream_VV she_PP 's_VBZ still_RB down_RB there_RB ,_, waiting_VVG to_TO come_VV back_RB ._SENT 
+CLARA_NN :_: Everything_NN else_RB has_VHZ thawed_VVN ,_, but_CC this_DT pond_NN is_VBZ still_RB frozen_VVN ._SENT 
+DOCTOR_NN [_SYM memory_NN ]_SYM :_: The_DT snow_NN is_VBZ feeding_VVG off_RP your_PP$ thoughts_NNS ._SENT The_DT more_JJR you_PP 
+think_VV about_IN the_DT snowmen_NNS ,_, the_DT more_RBR they_PP appear_VVP ._SENT 
+CLARA_NP :_: Frannie_NP ,_, this_DT is_VBZ important_JJ ._SENT You_PP dream_VVP about_IN her_PP ._SENT What_WP do_VVP you_PP 
+dream_NN ?_SENT 
+FRANCESCA_NN :_: She_PP 's_POS cross_NN with_IN me_PP ._SENT She_PP says_VVZ I_PP 've_VHP been_VBN bad_JJ ,_, and_CC she_PP 's_VBZ going_VVG 
+to_TO come_VV out_RP of_IN the_DT pond_NN and_CC punish_VV me_PP ._SENT 
+CLARA_NP :_: When_WRB ?_SENT 
+FRANCESCA_NN :_: She_PP said_VVD she_PP 'd_MD come_VV back_RB for_IN Christmas_NP ._SENT Tonight_RB ._SENT 
+DIGBY_NN :_: I_PP think_VVP Frannie_NP 's_POS gone_VVN mad_JJ ,_, do_VVP n't_RB you_PP ?_SENT I_PP think_VVP she_PP needs_VVZ a_DT 
+doctor_NN ._SENT 
+
+[_SYM Park_NP ]_SYM 
+
+CLARA_NN :_: Doctor_NN !_SENT Doctor_NN !_SENT 
+MAN_NN :_: What_WP 's_VBZ she_PP looking_VVG at_IN ?_SENT 
+MAN_NN 2_CD :_: She_PP 's_VBZ asking_VVG for_IN a_DT doctor_NN ._SENT 
+(_( A_DT crowd_NN gathers_VVZ to_TO watch_VV Clara_NP jumping_VVG in_IN the_DT air_NN ._SENT )_) 
+CLARA_NN :_: Doctor_NN !_SENT 
+JENNY_NN :_: Now_RB then_RB ,_, that_WDT 's_VBZ enough_JJ noise_NN ._SENT We_PP do_VVP n't_RB want_VV to_TO attract_VV 
+attention_NN ,_, do_VVP we_PP ?_SENT 
+CLARA_NN :_: I_PP 'm_VBP looking_VVG for_IN the_DT Doctor_NP ._SENT Do_VV you_PP know_VV about_IN him_PP ?_SENT The_DT Doctor_NP ?_SENT 
+JENNY_NN :_: Doctor_VV who_WP ?_SENT 
+
+[_SYM Vastra_NP 's_POS home_NN ]_SYM 
+
+STRAX_NP :_: Do_VVP not_RB attempt_VV to_TO escape_VV or_CC you_PP will_MD be_VB 
+obliterated_VVN !_SENT May_MD I_PP take_VV your_PP$ coat_NN ?_SENT 
+(_( Vastra_NN is_VBZ in_IN the_DT conservatory_NN ,_, sitting_VVG in_IN a_DT peacock_NN chair_NN and_NP 
+surrounded_VVN by_IN exotic_JJ greenery_NN ._SENT )_) 
+JENNY_NN :_: Sit_VV ._SENT 
+VASTRA_NN :_: There_EX are_VBP two_CD refreshments_NNS in_IN your_PP$ world_NN the_DT colour_NN of_IN red_NN 
+wine_NN ._SENT This_DT is_VBZ not_RB red_JJ wine_NN ._SENT 
+JENNY_NN :_: Madame_NN Vastra_NP will_MD ask_VV you_PP questions_NNS ._SENT You_PP will_MD confine_VV yourself_PP 
+to_TO single_JJ word_NN responses_NNS ._SENT One_CD word_NN only_RB ,_, do_VVP you_PP understand_VVP ?_SENT 
+CLARA_NP :_: Why_WRB ?_SENT 
+VASTRA_NN :_: Truth_NN is_VBZ singular_JJ ._SENT Lies_NNS are_VBP words_NNS ,_, words_NNS ,_, words_NNS ._SENT You_PP met_VVD the_DT 
+Doctor_NN ,_, did_VVD n't_RB you_PP ?_SENT 
+CLARA_NP :_: Yes_UH ._SENT 
+VASTRA_NN :_: And_CC now_RB you_PP 've_VHP come_VVN looking_VVG for_IN him_PP again_RB ._SENT Why_WRB ?_SENT 
+JENNY_NN :_: Take_VV your_PP$ time_NN ._SENT One_CD word_NN only_RB ._SENT 
+CLARA_NN :_: Curiosity_NN ._SENT 
+VASTRA_NN :_: About_RB ?_SENT 
+CLARA_NN :_: Snow_NN ._SENT 
+VASTRA_NN :_: And_CC about_IN him_PP ?_SENT 
+CLARA_NP :_: Yes_UH ._SENT 
+VASTRA_NP :_: What_WP do_VVP you_PP want_VVP from_IN him_PP ?_SENT 
+CLARA_NN :_: Help_VV ._SENT 
+VASTRA_NP :_: Why_WRB ?_SENT 
+CLARA_NN :_: Danger_NN ._SENT 
+VASTRA_NP :_: Why_WRB would_MD he_PP help_VV you_PP ?_SENT 
+CLARA_NN :_: Kindness_NN ._SENT 
+VASTRA_NN :_: The_DT Doctor_NP is_VBZ not_RB kind_NN ._SENT 
+CLARA_NP :_: No_UH ?_SENT 
+VASTRA_NN :_: No._NN The_DT Doctor_NP does_VVZ n't_RB help_VV people_NNS ._SENT Not_RB anyone_NN ,_, not_RB ever_RB ._SENT He_PP 
+stands_NNS above_IN this_DT world_NN and_CC does_VVZ n't_RB interfere_VV in_IN the_DT affairs_NNS of_IN its_PP$ 
+inhabitants_NNS ._SENT 
+He_PP is_VBZ not_RB your_PP$ salvation_NN ,_, nor_CC your_PP$ protector_NN ._SENT Do_VV you_PP understand_VV what_WP I_PP 
+am_VBP saying_VVG to_TO you_PP ?_SENT 
+CLARA_NN :_: Words_NNS ._SENT 
+VASTRA_NN :_: He_PP was_VBD different_JJ once_RB ,_, a_DT long_JJ time_NN ago_RB ._SENT Kind_RB ,_, yes_UH ._SENT A_DT hero_NN ,_, 
+even_RB ._SENT A_DT saver_NN of_IN worlds_NNS ._SENT But_CC he_PP suffered_VVD losses_NNS which_WDT hurt_VVP him_PP ._SENT 
+Now_RB he_PP prefers_VVZ isolation_NN to_TO the_DT possibility_NN of_IN pain_NN 's_POS return_NN ._SENT Kindly_RB 
+choose_VV a_DT word_NN to_TO indicate_VV your_PP$ understanding_NN of_IN this_DT ._SENT 
+CLARA_NP :_: Man_UH ._SENT 
+VASTRA_NN :_: We_PP are_VBP the_DT Doctor_NP 's_POS friends_NNS ._SENT We_PP assist_VVP him_PP in_IN his_PP$ isolation_NN but_RB 
+that_IN/that does_VVZ not_RB mean_VV we_PP approve_VV of_IN it_PP ._SENT So_RB ,_, a_DT test_NN for_IN you_PP ._SENT Give_VV me_PP a_DT 
+message_NN for_IN the_DT Doctor_NP ._SENT Tell_VV him_PP all_RB about_IN the_DT snow_NN and_CC what_WP fresh_JJ 
+danger_NN you_PP believe_VVP it_PP presents_VVZ ,_, and_CC above_IN all_DT ,_, explain_VV why_WRB he_PP should_MD 
+help_VV you_PP ._SENT But_CC do_VV it_PP in_IN one_CD word_NN ._SENT You_PP 're_VBP thinking_VVG it_PP is_VBZ impossible_JJ that_RB 
+such_PDT a_DT word_NN exists_VVZ ,_, or_CC that_IN/that you_PP could_MD even_RB find_VV it_PP ._SENT 
+Let_VV 's_VBZ see_VV if_IN the_DT gods_NNS are_VBP with_IN you_PP ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+(_( The_DT telephone_NN rings_NNS ._SENT A_DT proper_JJ telephone_NN with_IN a_DT 
+curly_JJ cord_NN ._SENT The_DT Doctor_NP answers_VVZ it_PP ._SENT )_) 
+DOCTOR_NN :_: Yes_UH ?_SENT What_WP ?_SENT I_PP 'm_VBP trying_VVG to_TO read_VV ._SENT 
+VASTRA_NN [_SYM OC_NP ]_SYM :_: Miss_NP Clara_NP and_CC her_PP$ concerns_NNS about_IN the_DT snow_NN ._SENT 
+[_SYM Vastra_NP 's_POS home_NN ]_SYM 
+
+VASTRA_NN :_: I_PP gave_VVD her_PP the_DT one_CD word_NN test_NN ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: That_WDT 's_VBZ always_RB pointless_JJ ._SENT What_WP did_VVD she_PP say_VVP ?_SENT Well_UH ?_SENT Well_UH ?_SENT 
+VASTRA_NP :_: Pond_NP ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+VASTRA_NN [_SYM OC_NP ]_SYM :_: Strax_NN has_VHZ already_RB suggested_VVN where_WRB to_TO 
+start_VV investigating_VVG ._SENT 
+[_SYM Institute_NP ]_SYM 
+
+SNOWMAN_NN ;_: Danger_NP ._SENT Danger_NN ._SENT 
+SIMEON_NP :_: What_WP 's_VBZ wrong_JJ ?_SENT 
+SNOWMAN_NN :_: There_EX is_VBZ danger_NN here_RB ._SENT An_DT intelligence_NN ._SENT An_DT intelligence_NN beyond_RB 
+anything_NN else_RB in_IN this_DT time_NN and_CC place_NN ._SENT 
+SERVANT_NN :_: Doctor_NP Simeon_NP ,_, sir_NN ._SENT There_EX 's_VBZ someone_NN demanding_VVG to_TO see_VV you_PP ._SENT 
+SIMEON_NN :_: No_DT callers_NNS ,_, not_RB in_IN here_RB ,_, not_RB ever_RB ._SENT Did_VVD he_PP leave_VV his_PP$ name_NN ?_SENT 
+SERVANT_NN :_: Sir_NP ,_, it_PP 's_VBZ Sherlock_NP Holmes_NP ._SENT 
+(_( A_DT figure_NN in_IN deerstalker_NN hat_NN ,_, cape_NN ,_, walking_VVG cane_NN ,_, and_CC with_IN a_DT Meerschaum_NP 
+pipe_NN ,_, unlit_NN ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, nice_JJ office_NN ._SENT Big_JJ globey_NN thing_NN ._SENT Now_RB ,_, shut_VVD up_RP ,_, do_VVP n't_RB tell_VV me_PP !_SENT 
+I_PP see_VVP from_IN your_PP$ collar_NN stud_NN you_PP have_VHP an_DT apple_NN tree_NN and_CC a_DT wife_NN with_IN a_DT 
+limp_NN ._SENT Am_VBP I_PP right_JJ ?_SENT 
+SIMEON_NN :_: No._NN 
+DOCTOR_NN :_: Do_VVP you_PP have_VHP a_DT wife_NN ?_SENT 
+SIMEON_NN :_: No._NN 
+DOCTOR_NN :_: Bit_NN of_IN a_DT tree_NN ?_SENT Bit_NN of_IN a_DT wife_NN ?_SENT Some_DT apples_NNS ?_SENT Come_VVN on_IN ,_, work_VV with_IN 
+me_PP here_RB ._SENT 
+SIMEON_NN :_: I_PP enjoy_VVP The_DT Strand_NP magazine_NN as_RB much_RB as_IN the_DT next_JJ man_NN ,_, but_CC I_PP am_VBP 
+perfectly_RB aware_JJ that_IN/that Sherlock_NP Holmes_NP is_VBZ a_DT fictional_JJ character_NN ._SENT Get_VV out_RP !_SENT 
+
+DOCTOR_NN :_: Do_VVP you_PP have_VHP a_DT goldfish_NN named_VVN Colin_NP ?_SENT 
+SERVANT_NN :_: No._NN 
+DOCTOR_NN :_: Thought_VVD not_RB ._SENT Now_RB ,_, ooo_NN ._SENT I_PP see_VVP this_DT is_VBZ one_CD of_IN your_PP$ business_NN 
+cards_NNS ._SENT It_PP says_VVZ so_RB on_IN the_DT front_NN ._SENT 
+SIMEON_NP :_: Who_WP are_VBP you_PP ,_, and_CC What_WP are_VBP you_PP doing_VVG here_RB ?_SENT 
+DOCTOR_NN :_: This_DT ._SENT Wakey_NP ,_, wakey_NP !_SENT 
+(_( The_DT Doctor_NP hits_VVZ the_DT globe_NN with_IN his_PP$ cane_NN ._SENT )_) 
+SIMEON_NN :_: That_WDT is_VBZ highly_RB valuable_JJ equipment_NN ._SENT You_PP must_MD step_VV away_RB now_RB ._SENT 
+SNOWMAN_NN :_: We_PP are_VBP the_DT Intelligence_NP ._SENT 
+DOCTOR_NN :_: Ooo_NN ._SENT Talking_VVG snow_NN ._SENT I_PP love_VVP new_JJ things_NNS ._SENT 
+SNOWMAN_NN :_: You_PP are_VBP not_RB of_IN this_DT world_NN ._SENT 
+DOCTOR_NN :_: Takes_VVZ one_PP to_TO snow_VV one_PP ._SENT Right_RB ,_, let_VV 's_VBZ see_VV ._SENT Multi-nucleate_NN 
+crystalline_JJ organism_NN with_IN the_DT ability_NN to_TO mimic_VV and_CC mirror_VV what_WP it_PP 
+finds_VVZ ._SENT Looks_NNS like_IN snow_NN ._SENT Is_VBZ n't_RB snow_NN ._SENT 
+SIMEON_NN :_: You_PP must_MD leave_VV here_RB now_RB ._SENT 
+DOCTOR_NN :_: Shut_VVN up_RP ,_, I_PP 'm_VBP making_VVG deductions_NNS ._SENT It_PP 's_VBZ very_RB exciting_JJ ._SENT Now_RB ,_, what_WP 
+are_VBP you_PP ,_, eh_NP ?_SENT A_DT flock_NN of_IN space_NN crystals_NNS ?_SENT A_DT swarm_NN ?_SENT The_DT snowmen_NNS are_VBP foot_NN 
+soldiers_NNS ,_, 
+mindless_JJ predators_NNS ._SENT But_CC you_PP ,_, you_PP 're_VBP the_DT clever_JJ one_CD ._SENT You_PP 're_VBP Moriarty_NP ._SENT 
+So_RB ,_, you_PP turn_VVP up_RP on_IN a_DT planet_NN ,_, you_PP generate_VVP a_DT telepathic_JJ field_NN to_TO learn_VV 
+what_WP you_PP can_MD ,_, 
+and_CC when_WRB you_PP 've_VHP learnt_VVN enough_RB ,_, what_WP do_VVP you_PP do_VVP ?_SENT You_PP ca_MD n't_RB conquer_VV the_DT 
+world_NN using_VVG snowmen_NNS ._SENT Snowmen_NNS are_VBP rubbish_JJ in_IN July_NP ._SENT You_PP 'll_MD have_VH to_TO be_VB 
+better_JJR than_IN that_DT ._SENT 
+You_PP 'll_MD have_VH to_TO evolve_VV ._SENT 
+(_( During_IN this_DT speech_NN ,_, the_DT Doctor_NP has_VHZ sonicked_VVN the_DT doors_NNS locked_VVN ._SENT )_) 
+SERVANT_NN [_SYM OC_NP ]_SYM :_: Sir_NP ,_, it_PP appears_VVZ to_TO be_VB stuck_VVN !_SENT 
+SIMEON_NP :_: What_WP have_VHP you_PP done_VVN ?_SENT Have_VHP you_PP locked_VVN the_DT doors_NNS ?_SENT 
+DOCTOR_NN :_: You_PP need_VVP to_TO translate_VV yourself_PP into_IN something_NN more_RBR ,_, well_RB ,_, 
+human_JJ ._SENT 
+SIMEON_NN :_: Kick_VV it_PP down_RP ._SENT 
+DOCTOR_NN :_: To_TO do_VV that_IN/that you_PP 'd_MD need_VV a_DT perfect_JJ duplicate_NN of_IN human_JJ DNA_NN in_IN ice_NN 
+form_NN ._SENT Where_WRB do_VVP you_PP find_VV that_DT ?_SENT 
+SERVANT_NN [_SYM OC_NP ]_SYM :_: Sir_NP ?_SENT 
+SIMEON_NN :_: Get_VV in_IN here_RB ,_, quickly_RB !_SENT 
+SERVANT_NN [_SYM OC_NP ]_SYM :_: I_PP 've_VHP got_VVN a_DT master_NN key_NN somewhere_RB ,_, sir_NN ._SENT 
+DOCTOR_NN :_: Now_RB ,_, let_VV 's_VBZ see_VV ._SENT Most_RBS opened_VVD file_VV ,_, most_RBS viewed_VVN page_NN ._SENT 
+(_( The_DT Doctor_NP tosses_VVZ Simeon_NP 's_POS scrap_NN book_NN in_IN the_DT air_NN ,_, and_CC it_PP lands_VVZ open_VV at_IN 
+a_DT newspaper_NN cutting_NN headed_VVN Tragedy_NP at_IN Darkover_NP House_NP ._SENT )_) 
+DOCTOR_NN :_: You_PP know_VVP ,_, you_PP really_RB should_MD delete_VV your_PP$ history_NN ._SENT Governess_NN 
+frozen_VVN in_IN pond_NN ._SENT Gotcha_NP !_SENT 
+SERVANT_NN [_SYM OC_NP ]_SYM :_: Got_VVN it_PP ,_, sir_NN !_SENT 
+SIMEON_NN :_: Get_VV in_IN here_RB !_SENT Take_VV him_PP downstairs_RB ._SENT 
+(_( But_CC the_DT Doctor_NP has_VHZ already_RB left_VVN by_IN the_DT French_JJ windows_NNS ._SENT )_) 
+[_SYM Outside_IN Darkover_NP House_NP ]_SYM 
+
+DOCTOR_NN :_: Body_NN frozen_VVN in_IN a_DT pond_NN ._SENT The_DT snow_NN gets_VVZ a_DT good_JJ 
+long_JJ look_NN at_IN a_DT human_JJ being_NN ,_, like_IN a_DT full_JJ body_NN scan_NN ._SENT Everything_NN they_PP need_VVP 
+to_TO evolve_VV ._SENT 
+Pond_NP ._SENT Good_JJ point_NN ,_, Clara_NP ._SENT What_WP are_VBP you_PP doing_VVG here_RB ?_SENT 
+(_( Strax_NP is_VBZ holding_VVG an_DT alien_JJ weapon_NN ._SENT )_) 
+STRAX_NN :_: Madame_NN Vastra_NP wondered_VVD if_IN you_PP were_VBD needing_VVG any_DT grenades_NNS ?_SENT 
+DOCTOR_NN :_: Grenades_NNS ?_SENT 
+STRAX_NN :_: She_PP might_MD have_VH said_VVN help_NN ._SENT 
+DOCTOR_NN :_: Help_VV for_IN what_WP ?_SENT 
+STRAX_NP :_: Well_UH ,_, your_PP$ investigation_NN ._SENT 
+DOCTOR_NN :_: Investigation_NN ?_SENT Who_WP says_VVZ I_PP 'm_VBP investigating_VVG ?_SENT Do_VVP you_PP think_VVP I_PP 'm_VBP 
+going_VVG to_TO start_VV investigating_VVG just_RB because_IN some_DT bird_NN smiles_VVZ at_IN me_PP ?_SENT Who_WP 
+do_VVP you_PP think_VVP I_PP am_VBP ?_SENT 
+STRAX_NN :_: Sherlock_NP Holmes_NP ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB be_VB clever_JJ ,_, Strax_NP ._SENT It_PP does_VVZ n't_RB suit_VV you_PP ._SENT 
+STRAX_NN :_: Sorry_RB ,_, sir_NN ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP the_DT clever_JJ one_CD ,_, you_PP 're_VBP the_DT potato_NN one_PP ._SENT 
+STRAX_NP :_: Yes_UH ,_, sir_NN ._SENT 
+DOCTOR_NN :_: Now_RB go_VV away_RB ._SENT 
+STRAX_NP :_: Yes_UH ,_, Mister_NP Holmes_NP ._SENT 
+DOCTOR_NN :_: Oi_NP !_SENT Shut_VVN up_RP ._SENT You_PP 're_VBP not_RB clever_JJ or_CC funny_JJ and_CC you_PP 've_VHP got_VVN tiny_JJ 
+little_JJ legs_NNS !_SENT 
+(_( He_PP sees_VVZ Clara_NP watching_VVG from_IN a_DT window_NN ._SENT She_PP waves_VVZ ,_, and_CC he_PP waves_VVZ back_RB ._SENT )_) 
+DOCTOR_NN :_: Okay_JJ ,_, just_RB tell_VV her_PP you_PP 're_VBP leaving_VVG ,_, you_PP 're_VBP not_RB going_VVG up_RP ._SENT 
+Leaving_VVG ._SENT Not_RB going_VVG up_RP ._SENT 
+(_( But_CC his_PP$ hand_NN says_VVZ five_CD and_CC gives_VVZ the_DT thumbs_NNS up_RB ._SENT )_) 
+DOCTOR_NN :_: What_WP was_VBD that_IN/that about_RB ?_SENT Five_CD minutes_NNS ,_, where_WRB did_VVD that_IN/that come_VVN from_IN ?_SENT 
+You_PP ._SENT 
+(_( He_PP leaves_VVZ the_DT pond_NN ,_, and_CC the_DT ice_NN begins_VVZ to_TO crack_VV ._SENT )_) 
+
+[_SYM Outside_IN the_DT garden_NN walls_NNS ]_SYM 
+
+(_( Strax_NP ,_, Jenny_NP and_CC Vastra_NP watch_VVP a_DT carriage_NN pull_VV up_RP ._SENT )_) 
+
+STRAX_NN :_: It_PP 's_VBZ the_DT human_JJ male_NN from_IN the_DT Institute_NP ._SENT What_WP 's_VBZ he_PP doing_VVG here_RB ?_SENT 
+Suggest_VV we_PP melt_VV his_PP$ brain_NN using_VVG projectile_JJ acid_JJ fish_NN ,_, and_CC then_RB 
+interrogate_VV him_PP ._SENT Other_JJ way_NN round_NN ._SENT 
+[_SYM Bedroom_NP ]_SYM 
+
+FRANCESCA_NP :_: Am_VBP I_PP going_VVG to_TO have_VH the_DT nightmare_NN 
+tonight_RB ?_SENT 
+CLARA_NN :_: Definitely_RB not_RB ._SENT 
+FRANCESCA_NN :_: How_WRB do_VVP you_PP know_VVP ?_SENT 
+CLARA_NN :_: Because_IN someone_NN 's_VBZ coming_VVG to_TO help_VV ._SENT 
+FRANCESCA_NP :_: Who_WP ?_SENT 
+CLARA_NN :_: You_PP would_MD n't_RB believe_VV me_PP if_IN I_PP told_VVD you_PP ._SENT 
+FRANCESCA_NN :_: Is_VBZ it_PP one_CD of_IN your_PP$ stories_NNS ?_SENT Your_PP$ definitely_RB true_JJ ones_NNS ?_SENT 
+CLARA_NP :_: Ha_NP !_SENT All_PDT my_PP$ stories_NNS are_VBP true_JJ ._SENT 
+DIGBY_NN :_: Like_IN how_WRB you_PP were_VBD born_VVN behind_IN the_DT clock_NN face_NN of_IN Big_NP Ben_NP ?_SENT 
+CLARA_NN :_: Accounting_VVG for_IN my_PP$ acute_JJ sense_NN of_IN time_NN ._SENT 
+FRANCESCA_NN :_: And_CC you_PP invented_VVD fish_NN ._SENT 
+CLARA_NN :_: Because_IN I_PP dislike_VVP swimming_VVG alone_RB ._SENT 
+DIGBY_NN :_: So_RB what_WP 's_VBZ this_DT one_PP ?_SENT 
+CLARA_NN :_: There_EX 's_VBZ a_DT man_NN called_VVD the_DT Doctor_NP ._SENT He_PP lives_VVZ on_IN a_DT cloud_NN in_IN the_DT sky_NN ,_, 
+and_CC all_RB he_PP does_VVZ ,_, all_DT day_NN every_DT day_NN ,_, is_VBZ to_TO stop_VV all_PDT the_DT children_NNS in_IN the_DT 
+world_NN ever_RB having_VHG bad_JJ dreams_NNS ._SENT 
+FRANCESCA_NN :_: I_PP 've_VHP been_VBN having_VHG bad_JJ dreams_NNS ._SENT 
+CLARA_NN :_: He_PP 's_VHZ been_VBN on_IN holiday_NN ._SENT But_CC I_PP am_VBP confident_JJ he_PP has_VHZ now_RB returned_VVN to_TO 
+work_NN ._SENT And_CC as_IN a_DT matter_NN of_IN fact_NN ,_, he_PP 's_VBZ right_RB here_RB ._SENT 
+(_( The_DT candle_NN flickers_VVZ as_IN the_DT door_NN opens_VVZ ._SENT )_) 
+CLARA_NP :_: Are_VBP n't_RB you_PP ,_, Doctor_NP ?_SENT 
+(_( A_DT woman_NN made_VVN of_IN ice_NN enters_VVZ ._SENT The_DT children_NNS scream_VVP ._SENT )_) 
+CLARA_NP :_: Bloomin_NP '_POS hell_NN !_SENT 
+GOVERNESS_NN :_: The_DT children_NNS have_VHP been_VBN very_RB naughty_JJ ._SENT 
+CLARA_NN :_: Get_VV back_RB ._SENT Now_RB ._SENT Quickly_RB ._SENT 
+DIGBY_NN :_: You_PP 're_VBP doing_VVG your_PP$ other_JJ voice_NN ._SENT 
+CLARA_NP :_: Yes_UH love_NN ,_, did_VVD you_PP notice_VVP ?_SENT 
+GOVERNESS_NN :_: Naughty_JJ ,_, naughty_JJ children_NNS ._SENT 
+CLARA_NN :_: Run_VV !_SENT 
+[_SYM Schoolroom_NP ]_SYM 
+
+DIGBY_NP :_: What_WP do_VVP we_PP do_VVP ?_SENT 
+CLARA_NP :_: Frannie_NP ,_, Frannie_NP ,_, imagine_VV her_PP$ melting_NN ._SENT 
+FRANCESCA_NP :_: What_WP ?_SENT 
+CLARA_NN :_: In_IN your_PP$ head_NN ._SENT Melt_VV her_PP ._SENT 
+FRANCESCA_NN :_: I_PP ca_MD n't_RB !_SENT 
+GOVERNESS_NN [_SYM OC_NP ]_SYM :_: I_PP 'm_VBP getting_VVG impatient_NN !_SENT 
+(_( She_PP forces_VVZ the_DT adjoining_JJ door_NN open_JJ ._SENT )_) 
+GOVERNESS_NN :_: You_PP have_VHP been_VBN very_RB naughty_JJ !_SENT 
+DIGBY_NP :_: What_WP about_IN the_DT man_NN ?_SENT You_PP said_VVD the_DT man_NN was_VBD here_RB ,_, the_DT cloud_NN man_NN ._SENT 
+CLARA_NP :_: Well_UH ,_, he_PP 's_VBZ not_RB ,_, is_VBZ he_PP ?_SENT 
+DIGBY_NP :_: Where_WRB 's_VBZ the_DT Doctor_NP ?_SENT 
+CLARA_NN :_: I_PP do_VVP n't_RB know_VV !_SENT 
+PUNCH_NN :_: Doctor_NN ?_SENT Doctor_NN ?_SENT Doctor_NN who_WP ?_SENT 
+(_( The_DT Punch_NP puppet_NN aims_VVZ the_DT sonic_JJ screwdriver_NN at_IN the_DT Ice_NP Governess_NP ,_, who_WP 
+shatters_NNS ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ the_DT way_NN to_TO do_VV it_PP ._SENT 
+(_( Punch_NP kisses_VVZ the_DT Doctor_NP ._SENT )_) 
+DOCTOR_NN :_: Oi_NP ._SENT Ow_NN ._SENT 
+(_( Outside_IN the_DT grounds_NNS ,_, Simeon_NP activates_VVZ a_DT device_NN on_IN the_DT back_NN of_IN his_PP$ 
+carriage_NN that_WDT sends_VVZ snow_NN into_IN the_DT air_NN around_IN the_DT house_NN ._SENT )_) 
+FRANCESCA_NN :_: Where_WRB did_VVD she_PP go_VVP ?_SENT Will_MD she_PP come_VV back_RB ?_SENT 
+DOCTOR_NN :_: No_RB ,_, do_VVP n't_RB worry_VV ._SENT She_PP 's_VBZ currently_RB draining_VVG through_IN your_PP$ carpet_NN ._SENT 
+New_JJ setting_NN ._SENT Anti-freeze_NN ._SENT And_CC you_PP 're_VBP very_RB welcome_JJ ,_, by_IN the_DT way_NN ._SENT 
+CLARA_NN :_: I_PP 'm_VBP very_RB grateful_JJ ._SENT I_PP knew_VVD you_PP 'd_MD come_VV ._SENT 
+DOCTOR_NN :_: No_UH ,_, you_PP did_VVD n't_RB ,_, because_IN I_PP do_VVP n't_RB ._SENT Because_IN this_DT is_VBZ n't_RB the_DT sort_NN of_IN 
+thing_NN I_PP do_VVP any_DT more_RBR ._SENT Next_JJ time_NN you_PP 're_VBP in_IN trouble_NN ,_, do_VVP n't_RB expect_VV me_PP to_TO 
+(_( The_DT Doctor_NP is_VBZ distracted_VVN by_IN his_PP$ reflection_NN in_IN a_DT mirror_NN ._SENT )_) 
+CLARA_NP :_: What_WP is_VBZ it_PP ?_SENT What_WP 's_VBZ wrong_JJ ?_SENT 
+DOCTOR_NN :_: Sorry_RB ,_, it_PP 's_VBZ just_RB ._SENT Did_VVD n't_RB know_VV I_PP 'd_MD put_VV it_PP on_RP ._SENT 
+(_( He_PP straightens_VVZ his_PP$ bow_NN tie_NN ,_, while_IN ice_NN forms_NNS on_IN the_DT windows_NNS ._SENT )_) 
+DOCTOR_NN :_: Old_JJ habits_NNS 
+CLARA_NN :_: It_PP 's_VBZ cooler_JJR ._SENT 
+DOCTOR_NN :_: Yeah_UH ,_, it_PP is_VBZ ,_, is_VBZ n't_RB it_PP ?_SENT It_PP is_VBZ very_RB cool_JJ ._SENT Bow_NN ties_NNS are_VBP cool_JJ ._SENT 
+CLARA_NP :_: No_UH ,_, the_DT room_NN ._SENT The_DT room_NN 's_VBZ getting_VVG colder_JJR ._SENT 
+(_( A_DT bulge_NN forms_NNS in_IN the_DT carpet_NN ._SENT )_) 
+DIGBY_NN :_: She_PP 's_VBZ coming_VVG back_RB !_SENT 
+FRANCESCA_NP :_: What_WP 's_VBZ she_PP going_VVG to_TO do_VV ?_SENT Is_VBZ she_PP going_VVG to_TO punish_VV me_PP ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, er_NNS ,_, she_PP 's_VBZ learnt_VVN not_RB to_TO melt_VV ._SENT Of_IN course_NN ,_, she_PP 's_VBZ not_RB really_RB a_DT 
+governess_NN ,_, she_PP 's_VBZ just_RB a_DT beast_NN ._SENT She_PP 's_VBZ going_VVG to_TO eat_VV you_PP ._SENT Run_NN ._SENT 
+[_SYM Entrance_JJ hall_NN ]_SYM 
+
+(_( They_PP run_VVP down_RP the_DT stairs_NNS ._SENT )_) 
+LATIMER_NN :_: Children_NNS ,_, what_WP is_VBZ the_DT expla_NN ._SENT Who_WP the_DT devil_NN are_VBP you_PP ?_SENT What_WP are_VBP 
+you_PP doing_VVG in_IN my_PP$ house_NN ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ okay_JJ ._SENT I_PP am_VBP your_PP$ governess_NN '_POS gentleman_NN friend_NN ,_, and_CC we_PP 've_VHP 
+just_RB been_VBN upstairs_RB kissing_VVG !_SENT 
+ALICE_NN :_: Captain_NP Latimer_NP ._SENT In_IN the_DT garden_NN ,_, there_EX 's_VBZ snowmen_NNS !_SENT And_CC they_PP 're_VBP 
+just_RB growing_VVG out_RP of_IN nowhere_RB ,_, all_DT by_IN themselves_PP ._SENT Look_NN !_SENT 
+(_( Alice_NP runs_VVZ to_TO answer_VV the_DT front_JJ door_NN ._SENT )_) 
+VASTRA_NN :_: Good_JJ evening_NN ._SENT I_PP 'm_VBP a_DT Lizard_NP Woman_NP from_IN the_DT Dawn_NP of_IN Time_NP ,_, and_NP 
+this_DT is_VBZ my_PP$ wife_NN ._SENT 
+(_( Alice_NP screams_VVZ and_CC runs_VVZ back_RB into_IN -_: )_) 
+STRAX_NN :_: This_DT dwelling_NN is_VBZ under_IN attack_NN ._SENT Remain_VV calm_JJ ,_, human_JJ scum_NN ._SENT 
+(_( Alice_NP screams_NNS and_CC faints_NNS ._SENT )_) 
+DOCTOR_NN :_: So_RB ,_, any_DT questions_NNS ?_SENT 
+LATIMER_NN :_: You_PP have_VHP a_DT gentleman_NN friend_NN ?_SENT 
+DOCTOR_NN :_: Vastra_NP ,_, what_WP 's_VBZ happening_VVG ?_SENT 
+VASTRA_NN :_: The_DT snow_NN is_VBZ highly_RB localised_VVN ,_, and_CC on_IN this_DT occasion_NN not_RB 
+naturally_RB occurring_VVG ._SENT 
+JENNY_NN :_: It_PP 's_VBZ coming_VVG out_RP of_IN that_DT cab_NN parked_VVN by_IN the_DT gates_NNS ._SENT 
+STRAX_NN :_: Sir_NP ,_, one_CD pulver_NN grenade_NN would_MD blow_VV these_DT snowmen_NNS to_TO smithereens_NN ._SENT 
+
+DOCTOR_NN :_: They_PP 're_VBP made_VVN of_IN snow_NN ,_, Strax_NP ._SENT They_PP 're_VBP already_RB smithereens_NN ._SENT See_VV ,_, 
+Clara_NP ?_SENT Our_PP$ friends_NNS again_RB ._SENT 
+LATIMER_NP :_: Clara_NP ?_SENT Who_WP 's_VBZ Clara_NP ?_SENT 
+DOCTOR_NN :_: Your_PP$ current_JJ governess_NN is_VBZ in_IN reality_NN a_DT former_JJ barmaid_NN called_VVD 
+Clara_NP ._SENT 
+GOVERNESS_NN :_: That_WDT 's_VBZ the_DT way_NN to_TO do_VV it_PP !_SENT 
+DOCTOR_NN :_: Meanwhile_RB your_PP$ previous_JJ governess_NN is_VBZ now_RB a_DT living_VVG ice_NN sculpture_NN 
+impersonating_VVG Mister_NP Punch_NP ._SENT Jenny_NP ,_, what_WP have_VHP you_PP got_VVD ?_SENT 
+(_( Jenny_NP throws_VVZ a_DT little_JJ ball_NN that_WDT creates_VVZ a_DT forcefield_NN at_IN the_DT top_NN of_IN the_DT 
+stairs_NNS ._SENT )_) 
+JENNY_NN :_: That_WDT should_MD hold_VV it_PP ._SENT 
+STRAX_NN :_: Sir_NP ,_, this_DT room_NN ._SENT One_CD observational_JJ window_NN on_IN the_DT line_NN of_IN attack_NN 
+and_CC one_CD defendable_JJ entrance_NN ._SENT 
+DOCTOR_NN :_: Right_RB ,_, everyone_NN in_IN there_RB ._SENT Now_RB ._SENT Move_VV it_PP ._SENT You_PP ,_, carry_VV her_PP ._SENT 
+VASTRA_NN :_: Nice_JJ to_TO see_VV you_PP off_RP your_PP$ cloud_NN and_CC engaging_VVG again_RB ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP not_RB engaging_VVG again_RB ,_, I_PP 'm_VBP under_IN attack_NN ._SENT 
+VASTRA_NN :_: You_PP missed_VVD this_DT ,_, did_VVD n't_RB you_PP ?_SENT 
+(_( The_DT governess_NN batters_VVZ against_IN the_DT forcefield_NN ._SENT )_) 
+DOCTOR_NN :_: Shut_VVN up_RP ._SENT 
+[_SYM Study_NP ]_SYM 
+
+DOCTOR_NN :_: Strax_NP ,_, how_WRB long_RB have_VH we_PP got_VVD ?_SENT 
+STRAX_NN :_: They_PP 're_VBP not_RB going_VVG to_TO attack_VV ._SENT They_PP made_VVD no_DT attempt_NN to_TO conceal_VV 
+their_PP$ arrival_NN ._SENT An_DT attack_NN force_NN would_MD never_RB abandon_VV surprise_NN so_RB easily_RB ,_, 
+and_CC they_PP 're_VBP clearly_RB in_IN a_DT defence_NN formation_NN ._SENT 
+DOCTOR_NN :_: Way_NN ,_, aye_RB ,_, aye_RB ._SENT Well_RB done_VVN ,_, Straxie_NP ._SENT Still_RB got_VVD it_PP ,_, buddy_NN ._SENT 
+(_( And_CC kisses_VVZ the_DT Sontaran_NP on_IN the_DT top_NN of_IN the_DT head_NN ._SENT )_) 
+STRAX_NN :_: Sir_NP ,_, please_RB do_VVP not_RB noogie_NN me_PP during_IN combat_NN prep_NN ._SENT 
+DOCTOR_NN :_: So_RB there_EX 's_VBZ something_NN here_RB they_PP want_VVP ._SENT 
+CLARA_NN :_: The_DT ice_NN woman_NN ._SENT 
+DOCTOR_NN :_: Exactly_RB ._SENT 
+JENNY_NN :_: Why_WRB 's_VBZ she_PP so_RB important_JJ ?_SENT 
+DOCTOR_NN :_: Because_IN she_PP 's_VBZ a_DT perfect_JJ duplication_NN of_IN human_JJ DNA_NN in_IN ice_NN crystal_NN 
+form_NN ._SENT The_DT ultimate_JJ fusion_NN of_IN snow_NN and_CC humanity_NN ._SENT 
+To_TO live_VV here_RB ,_, the_DT snow_NN needs_VVZ to_TO evolve_VV and_CC she_PP 's_VBZ the_DT blueprint_NN ._SENT She_PP 's_VBZ 
+what_WP they_PP need_VVP to_TO become_VV ._SENT When_WRB the_DT snow_NN melted_VVD last_JJ night_NN ,_, did_VVD the_DT 
+pond_NN ?_SENT 
+CLARA_NN :_: No._NN 
+DOCTOR_NN :_: Living_VVG ice_NN that_WDT will_MD never_RB melt_VV ._SENT If_IN the_DT snow_NN gets_VVZ hold_VV of_IN that_DT 
+creature_NN on_IN the_DT stairs_NNS ,_, it_PP will_MD learn_VV to_TO make_VV more_JJR of_IN them_PP ._SENT 
+It_PP will_MD build_VV an_DT army_NN of_IN ice_NN ._SENT And_CC it_PP will_MD be_VB the_DT last_JJ day_NN of_IN humanity_NN 
+on_IN this_DT planet_NN ._SENT 
+(_( The_DT doorbell_NN rings_NNS ._SENT )_) 
+DOCTOR_NN :_: Stay_VV here_RB ._SENT 
+
+[_SYM Entrance_JJ hall_NN ]_SYM 
+
+DOCTOR_NN :_: Oi_NP ,_, I_PP told_VVD you_PP to_TO stay_VV in_IN there_RB ._SENT 
+CLARA_NP :_: Oh_UH ,_, I_PP did_VVD n't_RB listen_VV ._SENT 
+DOCTOR_NN :_: You_PP do_VVP that_IN/that a_DT lot_NN ._SENT 
+CLARA_NN :_: It_PP 's_VBZ why_WRB you_PP like_VVP me_PP ._SENT 
+DOCTOR_NN :_: Who_WP said_VVD I_PP like_IN you_PP ?_SENT 
+(_( Clara_NP kisses_VVZ the_DT Doctor_NP ._SENT )_) 
+CLARA_NN :_: I_PP think_VVP you_PP just_RB did_VVD ._SENT 
+DOCTOR_NN :_: You_PP kissed_VVD me_PP ._SENT 
+CLARA_NN :_: You_PP blushed_VVD ._SENT And_CC we_PP just_RB ._SENT Shut_VVN up_RP ._SENT 
+(_( The_DT Doctor_NP opens_VVZ the_DT front_JJ door_NN ._SENT )_) 
+SIMEON_NN :_: Release_VV her_PP to_TO us_PP ._SENT You_PP have_VHP five_CD minutes_NNS ._SENT 
+(_( Simeon_NP turns_VVZ away_RB and_CC the_DT Doctor_NP closes_VVZ the_DT door_NN ._SENT )_) 
+DOCTOR_NN :_: We_PP need_VVP to_TO get_VV her_PP out_RP of_IN here_RB but_CC keep_VV her_PP away_RP from_IN them_PP ._SENT 
+CLARA_NP :_: How_WRB ?_SENT 
+(_( The_DT Doctor_NP takes_VVZ an_DT umbrella_NN from_IN the_DT stand_NN ._SENT )_) 
+DOCTOR_NN :_: With_IN this_DT ._SENT Do_VV I_PP always_RB have_VH to_TO state_VV the_DT obvious_JJ ?_SENT 
+LATIMER_NN :_: Those_DT creatures_NNS outside_NN ,_, what_WP are_VBP they_PP ?_SENT 
+DOCTOR_NN :_: No_DT danger_NN to_TO you_PP ,_, as_RB long_RB as_IN I_PP get_VVP that_DT thing_NN out_RP of_IN here_RB ._SENT You_PP ,_, 
+in_IN there_EX ,_, now_RB ._SENT 
+(_( He_PP goes_VVZ up_RP the_DT stairs_NNS and_CC sonicks_NNS the_DT forcefield_NN ._SENT )_) 
+CLARA_NP :_: What_WP are_VBP you_PP doing_VVG ?_SENT 
+DOCTOR_NN :_: Between_IN you_PP and_CC me_PP ,_, I_PP ca_MD n't_RB wait_VV to_TO find_VV out_RP ._SENT 
+(_( The_DT forcefield_NN turns_VVZ off_RP then_RB reforms_NNS behind_IN him_PP and_CC Clara_NP ._SENT )_) 
+DOCTOR_NN :_: Right_RB ,_, if_IN you_PP look_VVP after_IN everyone_NN here_RB ,_, then_RB I_PP can_MD ._SENT Clara_NP !_SENT 
+CLARA_NN :_: Doctor_NN ._SENT 
+(_( They_PP duck_VVP under_IN the_DT Governesses_NP arms_NNS and_CC run_VV up_RP the_DT stairs_NNS ._SENT )_) 
+DOCTOR_NN :_: That_WDT was_VBD stupid_JJ ._SENT 
+CLARA_NN :_: You_PP were_VBD stupid_JJ ,_, too_RB ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP allowed_VVN ._SENT I_PP 'm_VBP good_JJ at_IN stupid_JJ ._SENT 
+GOVERNESS_NN :_: That_WDT 's_VBZ the_DT way_NN to_TO do_VV it_PP !_SENT 
+CLARA_NP :_: Why_WRB does_VVZ she_PP keep_VV saying_VVG that_DT ?_SENT 
+DOCTOR_NN :_: Mirroring_VVG ._SENT Random_JJ mirroring_VVG ._SENT We_PP need_VVP to_TO get_VV on_IN the_DT roof_NN ._SENT 
+CLARA_NN :_: This_DT way_NN !_SENT 
+DOCTOR_NN :_: No_UH ,_, I_PP do_VVP the_DT hand_NN grabbing_VVG ._SENT That_DT 's_VBZ my_PP$ job_NN ._SENT That_DT 's_VBZ always_RB me_PP !_SENT 
+[_SYM Roof_NP ]_SYM 
+
+DOCTOR_NN :_: Come_VV on_IN ,_, quickly_RB !_SENT What_WP are_VBP you_PP doing_VVG ?_SENT 
+CLARA_NN :_: My_PP$ bustle_NN is_VBZ stuck_VVN ._SENT 
+DOCTOR_NN :_: Your_PP$ bustle_NN ?_SENT 
+(_( The_DT Doctor_NP pulls_VVZ Clara_NP through_IN the_DT window_NN ._SENT She_PP lands_VVZ on_IN top_JJ of_IN him_PP ._SENT )_) 
+DOCTOR_NN :_: You_PP 're_VBP going_VVG to_TO have_VH to_TO take_VV those_DT clothes_NNS off_RP ._SENT I_PP did_VVD n't_RB mean_VV ._SENT 
+CLARA_NN :_: I_PP know_VVP ._SENT I_PP understand_VVP ,_, I_PP do_VVP ._SENT 
+DOCTOR_NN :_: Good_JJ ._SENT 
+CLARA_NN :_: Now_RB ,_, what_WP 's_VBZ the_DT plan_NN ?_SENT 
+DOCTOR_NN :_: Who_WP said_VVD I_PP 've_VHP got_VVN a_DT plan_NN ?_SENT 
+CLARA_NN :_: Course_NN you_PP 've_VHP got_VVN a_DT plan_NN ._SENT You_PP took_VVD that_RB ._SENT 
+DOCTOR_NN :_: Maybe_RB I_PP 'm_VBP an_DT idiot_NN ._SENT 
+CLARA_NN :_: You_PP 're_VBP not_RB ._SENT You_PP 're_VBP clever_JJ ._SENT Really_RB clever_JJ ._SENT 
+DOCTOR_NN :_: Are_VBP you_PP ?_SENT 
+(_( He_PP throws_VVZ Clara_NP the_DT umbrella_NN ._SENT )_) 
+DOCTOR_NN :_: If_IN I_PP 've_VHP got_VVN a_DT plan_NN ,_, what_WP is_VBZ it_PP ?_SENT You_PP tell_VVP me_PP ._SENT 
+GOVERNESS_NN :_: That_WDT 's_VBZ the_DT way_NN to_TO do_VV it_PP !_SENT 
+CLARA_NN :_: Is_VBZ this_DT a_DT test_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+CLARA_NP :_: What_WP will_MD it_PP do_VV to_TO us_PP ?_SENT 
+DOCTOR_NN :_: Kill_VV us_PP ._SENT 
+GOVERNESS_NN :_: That_WDT 's_VBZ the_DT way_NN to_TO do_VV it_PP !_SENT 
+(_( The_DT Governess_NN turns_VVZ to_TO snow_VV to_TO get_VV through_IN the_DT window_NN ._SENT )_) 
+DOCTOR_NN :_: So_RB ,_, come_VVN on_IN then_RB ._SENT Plan_NN ._SENT Do_VVP I_PP have_VH one_PP ?_SENT 
+CLARA_NP :_: Oh_UH ,_, I_PP know_VVP what_WP your_PP$ plan_NN is_VBZ ._SENT I_PP knew_VVD straight_RB away_RB ._SENT 
+DOCTOR_NN :_: No_UH ,_, you_PP did_VVD n't_RB ._SENT 
+CLARA_NN :_: Course_NN I_PP did_VVD ._SENT 
+DOCTOR_NN :_: Show_VV me_PP ._SENT 
+CLARA_NP :_: Why_WRB should_MD I_PP ?_SENT 
+DOCTOR_NN :_: Because_IN we_PP 'll_MD be_VB dead_JJ in_IN under_IN thirty_CD seconds_NNS ._SENT Do_VV I_PP have_VHP a_DT 
+plan_NN ?_SENT 
+CLARA_NN :_: If_IN we_PP 'd_VHD been_VBN escaping_VVG ,_, we_PP 'd_MD be_VB climbing_VVG down_RP the_DT building_NN ._SENT If_IN 
+we_PP 'd_VHD been_VBN hiding_VVG ,_, we_PP 'd_MD be_VB on_IN the_DT other_JJ side_NN of_IN the_DT roof_NN ._SENT But_CC no_UH ,_, we_PP 're_VBP 
+standing_VVG right_RB here_RB ._SENT 
+DOCTOR_NN :_: So_RB ?_SENT 
+CLARA_NN :_: So_RB !_SENT 
+(_( Clara_NP reaches_VVZ up_RP with_IN the_DT umbrella_NN and_CC pulls_VVZ the_DT ladder_NN down_RB ._SENT The_DT 
+Governess_NN is_VBZ reforming_VVG on_IN the_DT roof_NN ._SENT )_) 
+CLARA_NN :_: After_IN you_PP ._SENT 
+DOCTOR_NN :_: After_IN you_PP ._SENT 
+CLARA_NN :_: After_IN you_PP ,_, I_PP 'm_VBP wearing_VVG a_DT dress_NN ._SENT Eyes_NNS front_JJ ,_, soldier_NN !_SENT 
+DOCTOR_NN :_: My_PP$ eyes_NNS are_VBP always_RB front_JJ !_SENT 
+CLARA_NN :_: Mine_PP are_VBP n't_RB ._SENT 
+DOCTOR_NN :_: Stop_VV it_PP ._SENT 
+CLARA_NN :_: No._NN I_PP understand_VVP you_PP 're_VBP the_DT previous_JJ governess_NN ._SENT I_PP regret_VVP to_TO 
+inform_VV you_PP the_DT position_NN is_VBZ taken_VVN ._SENT Goodnight_NP ._SENT 
+(_( Clara_NP taps_VVZ the_DT ladder_NN ,_, steps_NNS onto_IN it_PP and_CC is_VBZ raised_VVN into_IN the_DT air_NN ._SENT )_) 
+
+[_SYM Staircase_NP ]_SYM 
+
+CLARA_NN :_: So_RB you_PP can_MD move_VV your_PP$ cloud_NN ?_SENT You_PP can_MD control_VV 
+it_PP ?_SENT 
+DOCTOR_NN :_: No._NN No_DT one_CD can_MD control_VV clouds_NNS ,_, that_WDT would_MD be_VB silly_JJ ._SENT The_DT wind_NN ,_, a_DT 
+little_JJ bit_NN ._SENT 
+CLARA_NN :_: She_PP 's_VBZ following_VVG us_PP ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ the_DT idea_NN ._SENT Keep_VV her_PP away_RP from_IN the_DT snow_NN ._SENT So_RB ._SENT Barmaid_NN or_CC 
+governess_NN ,_, which_WDT is_VBZ it_PP ?_SENT 
+CLARA_NN :_: That_DT thing_NN is_VBZ after_IN us_PP ,_, and_CC you_PP want_VVP a_DT chat_NN ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, we_PP ca_MD n't_RB chat_VV after_IN we_PP 've_VHP been_VBN horribly_RB killed_VVN ,_, can_MD we_PP ?_SENT 
+CLARA_NP :_: How_WRB did_VVD we_PP get_VVP up_RB so_RB high_JJ so_RB quick_JJ ?_SENT 
+DOCTOR_NN :_: Clever_JJ staircase_NN ._SENT It_PP 's_VBZ taller_JJR on_IN the_DT inside_NN ._SENT 
+CLARA_NP :_: What_WP am_VBP I_PP standing_VVG on_IN ,_, what_WP 's_VBZ this_DT made_VVN of_IN ?_SENT 
+DOCTOR_NN :_: Super_JJ dense_JJ water_NN vapour_NN ._SENT Should_MD keep_VV her_PP trapped_VVN for_IN the_DT 
+moment_NN ._SENT 
+[_SYM Cloud_NP ]_SYM 
+
+CLARA_NP :_: Do_VVP you_PP actually_RB live_VVP up_RP here_RB on_IN a_DT cloud_NN ,_, in_RB 
+a_DT box_NN ?_SENT 
+DOCTOR_NN :_: I_PP have_VHP done_VVN for_IN a_DT long_JJ time_NN now_RB ._SENT 
+CLARA_NP :_: Blimey_NP ,_, you_PP really_RB know_VVP how_WRB to_TO sulk_VV ,_, do_VVP n't_RB you_PP ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP not_RB sulking_VVG ._SENT 
+CLARA_NN :_: You_PP live_VVP in_IN a_DT box_NN !_SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ no_RB more_RBR a_DT box_NN than_IN you_PP are_VBP a_DT governess_NN ._SENT 
+CLARA_NP :_: Oh_UH ,_, spoken_VVN like_IN a_DT man_NN ._SENT You_PP know_VVP ,_, you_PP 're_VBP the_DT same_JJ as_IN all_PDT the_DT 
+rest_NN ._SENT Sweet_JJ little_JJ Clara_NP ,_, works_VVZ at_IN the_DT Rose_NP And_CC Crown_NP ,_, ideas_NNS above_IN her_PP 
+station_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+CLARA_NN :_: Well_RB ,_, for_IN your_PP$ information_NN ,_, I_PP 'm_VBP not_RB sweet_JJ on_IN 
+the_DT inside_NN ,_, and_CC I_PP 'm_VBP certainly_RB not_RB 
+(_( The_DT Doctor_NP turns_VVZ on_IN the_DT Tardis_NP light_NN ._SENT He_PP 's_VHZ been_VBN redecorating_VVG ,_, and_CC I_PP 
+like_IN it_PP ._SENT A_DT 
+classic_JJ six_CD sided_VVD free-standing_JJ console_NN with_IN time_NN rotor_NN and_CC no_RB nasty_JJ 
+pseudo-organic_JJ rubbish_NN ._SENT )_) 
+CLARA_NP :_: Little_JJ ._SENT 
+DOCTOR_NN :_: It_PP 's_VHZ called_VVN the_DT Tardis_NP ._SENT It_PP can_MD travel_VV anywhere_RB in_IN time_NN and_CC 
+space_NN ._SENT And_CC it_PP 's_VBZ mine_JJ ._SENT 
+CLARA_NN :_: But_CC it_PP 's_VBZ ._SENT Look_VV at_IN it_PP ,_, it_PP 's_VBZ 
+DOCTOR_NN :_: Go_VV on_IN ,_, say_VV it_PP ._SENT Most_JJS people_NNS do_VVP ._SENT 
+(_( Clara_NP does_VVZ the_DT traditional_JJ circuit_NN of_IN the_DT outside_NN and_CC returns_NNS ._SENT )_) 
+CLARA_NN :_: It_PP 's_VBZ smaller_JJR on_IN the_DT outside_NN ._SENT 
+DOCTOR_NN :_: Okay_NP ,_, that_WDT is_VBZ a_DT first_JJ ._SENT 
+CLARA_NN :_: Is_VBZ it_PP magic_JJ ?_SENT Is_VBZ it_PP a_DT machine_NN ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT ship_NN ._SENT 
+CLARA_NN :_: A_DT ship_NN ?_SENT 
+DOCTOR_NN :_: Best_JJS ship_NN in_IN the_DT universe_NN ._SENT 
+CLARA_NN :_: Is_VBZ there_RB a_DT kitchen_NN ?_SENT 
+DOCTOR_NN :_: Another_DT first_JJ ._SENT 
+CLARA_NN :_: I_PP do_VVP n't_RB know_VV why_WRB I_PP asked_VVD that_RB ._SENT It_PP 's_VBZ just_RB ,_, I_PP like_VVP making_VVG 
+soufflés_NNS ._SENT 
+DOCTOR_NN :_: Soufflés_NNS ?_SENT 
+CLARA_NP :_: Why_WRB are_VBP you_PP showing_VVG me_PP all_PDT this_DT ?_SENT 
+DOCTOR_NN :_: You_PP followed_VVD me_PP ,_, remember_VV ?_SENT I_PP did_VVD n't_RB invite_VV you_PP ._SENT 
+CLARA_NN :_: You_PP 're_VBP nearly_RB a_DT foot_NN taller_JJR than_IN I_PP am_VBP ._SENT You_PP could_MD 've_VH reached_VVN the_DT 
+ladder_NN without_IN this_DT ._SENT You_PP took_VVD it_PP for_IN me_PP ._SENT Why_WRB ?_SENT 
+(_( She_PP throws_VVZ the_DT umbrella_NN to_TO him_PP ._SENT )_) 
+DOCTOR_NN :_: I_PP never_RB know_VV why_WRB ._SENT I_PP only_RB know_VVP who_WP ._SENT 
+(_( The_DT Doctor_NP holds_VVZ up_RP a_DT key_NN ,_, then_RB puts_VVZ it_PP in_IN Clara_NP 's_POS hand_NN ._SENT )_) 
+CLARA_NP :_: What_WP 's_VBZ this_DT ?_SENT 
+DOCTOR_NN :_: Me_FW ._SENT Giving_VVG in_IN ._SENT 
+CLARA_NN :_: I_PP do_VVP n't_RB know_VV why_WRB I_PP 'm_VBP crying_VVG ._SENT 
+DOCTOR_NN :_: I_PP do_VVP ._SENT Remember_VV this_DT ._SENT This_DT right_NN now_RB ,_, remember_VVP all_DT of_IN it_PP ._SENT 
+Because_IN this_DT is_VBZ the_DT day_NN ._SENT This_DT is_VBZ the_DT day_NN ._SENT This_DT is_VBZ the_DT day_NN everything_NN 
+begins_VVZ ._SENT 
+(_( But_CC as_RB he_PP starts_VVZ to_TO crank_VV up_RP the_DT console_NN ,_, the_DT Governess_NP grabs_NNS Clara_NP 
+from_IN behind_RB and_CC drags_VVZ her_PP$ outside_NN ._SENT She_PP drops_VVZ the_DT key_NN ._SENT )_) 
+DOCTOR_NN :_: Clara_NP !_SENT Clara_NP !_SENT 
+
+[_SYM Cloud_NP ]_SYM 
+
+CLARA_NN :_: Get_VV off_RP of_IN me_PP !_SENT 
+DOCTOR_NN :_: Water_NN vapour_NN does_VVZ n't_RB stop_VV ice_NN ._SENT I_PP should_MD 've_VH realised_VVN ._SENT 
+CLARA_NN :_: Get_VV off_RP !_SENT 
+DOCTOR_NN :_: Let_VV her_PP go_VV ._SENT Let_VV her_PP go_VV now_RB !_SENT Now_RB !_SENT 
+CLARA_NN :_: Get_VV off_RP of_IN me_PP !_SENT 
+DOCTOR_NN :_: No._NN Clara_NP !_SENT 
+(_( The_DT Governess_NP and_CC Clara_NP fall_VVP backwards_RB off_IN the_DT cloud_NN ._SENT )_) 
+DOCTOR_NN :_: Nooooo_NP !_SENT 
+[_SYM Study_NP ]_SYM 
+
+(_( There_EX is_VBZ a_DT Whumph_NN !_SENT outside_JJ ._SENT )_) 
+VASTRA_NP :_: What_WP was_VBD that_DT ?_SENT 
+JENNY_NN :_: It_PP 's_VBZ Clara_NP ._SENT 
+(_( Vastra_NP 's_POS steampunk_JJ style_NN tricorder_NN does_VVZ not_RB give_VV good_JJ news_NN ._SENT No_DT life_NN 
+signs_NNS detected_VVD ._SENT )_) 
+LATIMER_NP :_: Dear_NP God_NP ._SENT Oh_UH ,_, dear_JJ God_NP ._SENT Where_WRB did_VVD she_PP fall_VVP from_IN ?_SENT We_PP have_VHP to_TO 
+get_VV her_PP$ inside_NN ._SENT 
+VASTRA_NN :_: Those_DT things_NNS will_MD kill_VV you_PP ._SENT 
+LATIMER_NN :_: She_PP 's_VBZ hurt_VVN ._SENT 
+VASTRA_NN :_: She_PP 's_VBZ dead_JJ ._SENT 
+(_( The_DT sound_NN of_IN the_DT Tardis_NP is_VBZ heard_VVN ._SENT )_) 
+LATIMER_NP :_: What_WP is_VBZ that_RB ?_SENT What_WP is_VBZ happening_VVG ?_SENT 
+(_( The_DT Tardis_NP materialises_VVZ around_IN Clara_NP ._SENT )_) 
+VASTRA_NN :_: He_PP 's_VBZ bringing_VVG her_PP in_RP ._SENT 
+(_( A_DT short_JJ time_NN later_RBR ,_, Clara_NP is_VBZ lying_VVG on_IN a_DT table_NN while_IN Strax_NP uses_VVZ a_DT 
+device_NN ._SENT The_DT Tardis_NP is_VBZ parked_VVN in_IN the_DT corner_NN of_IN the_DT room_NN ._SENT )_) 
+LATIMER_NN :_: That_DT green_JJ woman_NN said_VVD she_PP was_VBD dead_JJ ._SENT How_WRB can_MD she_PP be_VB alive_JJ now_RB ?_SENT 
+STRAX_NN :_: This_DT technology_NN has_VHZ capacities_NNS and_CC abilities_NNS beyond_IN anything_NN 
+your_PP$ puny_JJ human_JJ mind_NN could_MD possibly_RB understand_VV ._SENT Try_VV not_RB to_TO worry_VV ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ scanning_VVG the_DT ice_NN fragments_NNS that_WDT were_VBD 
+around_IN Clara_NP ._SENT )_) 
+VASTRA_NN :_: Is_VBZ n't_RB the_DT creature_NN still_RB a_DT danger_NN ?_SENT It_PP could_MD reform_VV ._SENT 
+DOCTOR_NN :_: No_UH ,_, not_RB in_IN here_RB ._SENT 
+VASTRA_NN :_: Then_RB you_PP should_MD be_VB with_IN Miss_NP Clara_NP ._SENT 
+DOCTOR_NN :_: She_PP 's_VBZ going_VVG to_TO be_VB fine_JJ ._SENT I_PP know_VVP she_PP is_VBZ ._SENT She_PP has_VHZ to_TO be_VB ._SENT 
+STRAX_NN :_: Doctor_NN ,_, her_PP$ injuries_NNS are_VBP severe_JJ ._SENT That_DT equipment_NN will_MD bring_VV back_RB 
+anyone_NN for_IN a_DT while_NN ,_, but_CC long_JJ term_NN 
+DOCTOR_NN :_: It_PP was_VBD my_PP$ fault_NN ._SENT I_PP am_VBP responsible_JJ for_IN what_WP happened_VVD to_TO Clara_NP ._SENT 
+She_PP was_VBD in_IN my_PP$ care_NN ._SENT 
+VASTRA_NP :_: What_WP is_VBZ the_DT point_NN of_IN blaming_VVG yourself_PP ?_SENT 
+DOCTOR_NN :_: None_NN ._SENT Because_IN she_PP 's_VBZ going_VVG to_TO live_VV ._SENT 
+[_SYM Study_NP ]_SYM 
+
+(_( The_DT Doctor_NP hands_VVZ a_DT London_NP Underground_NN souvenir_NN 
+lunchbox_NN 
+to_TO Jenny_NP ._SENT It_PP rattles_VVZ ._SENT )_) 
+DOCTOR_NN :_: Hey_UH ._SENT Hello_UH ._SENT 
+CLARA_NN :_: They_PP all_RB think_VVP I_PP 'm_VBP going_VVG to_TO die_VV ,_, do_VVP n't_RB they_PP ?_SENT 
+DOCTOR_NN :_: And_CC I_PP know_VVP you_PP 're_VBP going_VVG to_TO live_VV ._SENT 
+CLARA_NP :_: How_WRB ?_SENT 
+DOCTOR_NN :_: I_PP never_RB know_VV how_WRB ._SENT I_PP just_RB know_VVP who_WP ._SENT 
+(_( He_PP gives_VVZ her_PP the_DT key_NN again_RB and_CC kisses_VVZ her_PP$ hand_NN ._SENT )_) 
+CLARA_NN :_: The_DT green_JJ lady_NN ._SENT She_PP said_VVD you_PP were_VBD the_DT saver_NN of_IN worlds_NNS once_RB ._SENT Are_VBP 
+you_PP going_VVG to_TO save_VV this_DT one_CD ?_SENT 
+DOCTOR_NN :_: If_IN I_PP do_VVP ,_, will_MD you_PP come_VV away_RB with_IN me_PP ?_SENT 
+CLARA_NP :_: Yes_UH ._SENT 
+DOCTOR_NN :_: Well_RB then_RB ._SENT Merry_NP Christmas_NP ._SENT 
+(_( He_PP straightens_VVZ his_PP$ bow_NN tie_NN ,_, takes_VVZ back_RB the_DT lunch_NN box_NN and_CC answers_VVZ the_DT 
+door_JJ to_TO 
+Simeon_NP ._SENT )_) 
+
+[_SYM Front_NP door_NN ]_SYM 
+
+DOCTOR_NN :_: I_PP have_VHP in_IN my_PP$ hand_NN a_DT piece_NN of_IN the_DT Ice_NP Lady_NP ._SENT 
+Everything_NN you_PP need_VVP to_TO know_VV about_RB how_WRB to_TO make_VV ice_NN people_NNS ._SENT Is_VBZ that_IN/that what_WP 
+you_PP want_VVP ?_SENT See_VV you_PP at_IN the_DT office_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+VASTRA_NN :_: So_RB then_RB ,_, Doctor_NP ,_, saving_VVG the_DT world_NN again_RB ?_SENT 
+Might_MD I_PP ask_VV why_WRB ?_SENT Are_VBP you_PP making_VVG a_DT bargain_NN with_IN the_DT universe_NN ?_SENT You_PP 'll_MD 
+save_VV the_DT world_NN to_TO let_VV her_PP$ live_JJ ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT And_CC do_VVP n't_RB you_PP think_VVP ,_, after_IN all_PDT this_DT time_NN and_CC everything_NN 
+I_PP 've_VHP ever_RB done_VVN ,_, that_IN/that I_PP am_VBP owed_VVN this_DT one_CD ?_SENT 
+VASTRA_NN :_: I_PP do_VVP n't_RB think_VV the_DT universe_NN makes_VVZ bargains_NNS ._SENT 
+DOCTOR_NN :_: It_PP was_VBD my_PP$ fault_NN ._SENT 
+VASTRA_NN :_: Well_RB then_RB ._SENT Better_RBR save_VV the_DT world_NN ._SENT 
+
+[_SYM Institute_NP ]_SYM 
+
+(_( Vastra_NP and_CC the_DT Doctor_NP are_VBP waiting_VVG when_WRB Simeon_NP 
+enters_VVZ ._SENT )_) 
+SIMEON_NN :_: You_PP promised_VVD us_PP something_NN ._SENT Have_VHP you_PP brought_VVD it_PP ?_SENT 
+DOCTOR_NN :_: Big_JJ fella_NN here_RB 's_VHZ been_VBN very_RB quiet_JJ while_IN you_PP 've_VHP been_VBN out_RB ._SENT Which_WDT 
+is_VBZ only_JJ to_TO be_VB expected_VVN ,_, considering_VVG who_WP he_PP really_RB is_VBZ ._SENT Do_VV you_PP know_VV what_WP 
+this_DT is_VBZ ,_, big_JJ fella_NN ?_SENT 
+(_( The_DT Doctor_NP holds_VVZ up_RP the_DT lunch_NN box_NN ._SENT )_) 
+SNOWMAN_NN :_: I_PP do_VVP not_RB understand_VV these_DT markings_NNS ._SENT 
+DOCTOR_NN :_: A_DT map_NN of_IN the_DT London_NP Underground_NP ,_, 1967._CD Key_JJ strategic_JJ weakness_NN 
+in_IN metropolitan_JJ living_NN ,_, if_IN you_PP ask_VVP me_PP ,_, but_CC then_RB I_PP have_VHP never_RB liked_VVN a_DT 
+tunnel_NN ._SENT 
+SNOWMAN_NN :_: Enough_RB of_IN this_DT ._SENT We_PP are_VBP powerful_JJ ,_, but_CC on_IN this_DT planet_NN we_PP are_VBP 
+limited_JJ ._SENT We_PP need_VVP to_TO learn_VV to_TO take_VV human_JJ form_NN ._SENT 
+(_( The_DT Doctor_NP uses_VVZ the_DT sonic_JJ screwdriver_NN ,_, and_CC the_DT Snowman_NP 's_POS voice_NN rises_NNS 
+in_IN pitch_NN ._SENT )_) 
+SNOWMAN_NN :_: The_DT Governess_NN is_VBZ our_PP$ most_RBS perfect_JJ replication_NN of_IN humanity_NN ._SENT 
+VASTRA_NP :_: What_WP 's_VBZ happening_VVG to_TO its_PP$ voice_NN ?_SENT 
+DOCTOR_NN :_: Just_RB stripping_VVG away_RP the_DT disguise_NN ._SENT 
+SNOWMAN_NN :_: No_UH ,_, stop_VV !_SENT Stop_VV that_DT ._SENT Cease_VV ,_, I_PP command_VVP you_PP ._SENT 
+VASTRA_NN :_: It_PP sounds_VVZ like_IN a_DT child_NN ._SENT 
+DOCTOR_NN :_: Of_IN course_NN it_PP sounds_VVZ like_IN a_DT child_NN ._SENT It_PP is_VBZ a_DT child_NN ._SENT Simeon_NP as_IN a_DT 
+child_NN ._SENT The_DT snow_NN has_VHZ no_DT voice_NN without_IN him_PP ._SENT 
+SNOWMAN_NN :_: Do_VVP n't_RB listen_VV to_TO him_PP ,_, he_PP 's_VBZ ruining_VVG everything_NN ._SENT 
+DOCTOR_NN :_: How_WRB long_RB has_VHZ the_DT Intelligence_NN been_VBN talking_VVG to_TO you_PP ?_SENT 
+SIMEON_NN :_: I_PP was_VBD a_DT little_JJ boy_NN ._SENT He_PP was_VBD my_PP$ snowman_NN ._SENT He_PP spoke_VVD to_TO me_PP ._SENT 
+SNOWMAN_NN [_SYM memory_NN ]_SYM :_: They_PP 're_VBP silly_JJ ._SENT 
+DOCTOR_NN :_: But_CC the_DT snow_NN does_VVZ n't_RB talk_VV ,_, does_VVZ it_PP ._SENT It_PP 's_VBZ just_RB a_DT mirror_NN ._SENT 
+WALTER_NN [_SYM memory_NN ]_SYM :_: I_PP do_VVP n't_RB want_VV to_TO talk_VV to_TO them_PP ._SENT They_PP 're_VBP silly_JJ ._SENT 
+SNOWMAN_NN [_SYM memory_NN ]_SYM :_: They_PP 're_VBP silly_JJ ._SENT 
+DOCTOR_NN :_: It_PP just_RB reflects_VVZ back_JJ everything_NN we_PP think_VVP and_CC feel_VVP and_CC fear_VVP ._SENT 
+WALTER_NN [_SYM memory_NN ]_SYM :_: I_PP do_VVP n't_RB need_VV anyone_NN else_RB ._SENT 
+SNOWMAN_NN [_SYM memory_NN ]_SYM :_: Do_VVP n't_RB need_VV anyone_NN else_RB ._SENT 
+DOCTOR_NN :_: You_PP poured_VVD your_PP$ darkest_JJS dreams_NNS into_IN a_DT snowman_NN and_CC look_VV ,_, look_VV 
+what_WP it_PP became_VVD ._SENT 
+VASTRA_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT parasite_NN feeding_NN on_IN the_DT loneliness_NN of_IN a_DT child_NN and_CC the_DT 
+sickness_NN of_IN an_DT old_JJ man_NN ._SENT Carnivorous_JJ snow_NN meets_VVZ Victorian_JJ values_NNS and_CC 
+something_NN terrible_JJ is_VBZ born_VVN ._SENT 
+SNOWMAN_NN :_: We_PP can_MD go_VV on_RP and_CC do_VV everything_NN we_PP planned_VVD ._SENT 
+DOCTOR_NN :_: Oh_UH yes_UH ,_, and_CC what_WP a_DT plan_NN ._SENT A_DT world_NN full_JJ of_IN living_VVG ice_NN people_NNS ._SENT Oh_UH 
+dear_RB me_PP ,_, how_WRB very_RB Victorian_JJ of_IN you_PP ._SENT 
+SIMEON_NP :_: What_WP 's_VBZ wrong_JJ with_IN Victorian_JJ values_NNS ?_SENT 
+(_( Simeon_NP grabs_VVZ the_DT lunch_NN box_NN and_CC opens_VVZ it_PP ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, ah_NP ,_, ah_NP ._SENT Are_VBP you_PP sure_JJ ?_SENT 
+SIMEON_NN :_: I_PP have_VHP always_RB been_VBN sure_JJ ._SENT 
+(_( The_DT memory_NN worm_NN in_IN the_DT box_NN bites_VVZ him_PP ._SENT )_) 
+DOCTOR_NN :_: Good_JJ ._SENT I_PP 'm_VBP glad_JJ you_PP think_VVP so_RB ,_, since_IN your_PP$ entire_JJ adult_NN life_NN is_VBZ 
+about_RB to_TO be_VB erased_VVN ._SENT No_DT parasite_NN without_IN a_DT host_NN ._SENT Without_IN you_PP ,_, it_PP will_MD 
+have_VHP no_DT voice_NN ._SENT Without_IN the_DT governess_NN ,_, it_PP will_MD have_VH no_DT form_NN ._SENT 
+SNOWMAN_NN :_: What_WP ,_, what_WP ,_, what_WP 's_VBZ happening_VVG ?_SENT What_WP 's_VBZ happening_VVG ?_SENT What_WP did_VVD you_PP 
+do_VVP ?_SENT 
+DOCTOR_NN :_: You_PP 've_VHP got_VVN nothing_NN left_VVD to_TO mirror_VV any_DT more_RBR ._SENT Goodbye_NN ._SENT 
+SNOWMAN_NN :_: What_WP did_VVD you_PP ,_, did_VVD you_PP ._SENT 
+(_( The_DT snow_NN suddenly_RB fills_VVZ the_DT globe_NN and_CC its_PP$ voice_NN deepens_VVZ again_RB ._SENT )_) 
+SNOWMAN_NN :_: Did_VVD you_PP really_RB think_VVP it_PP would_MD be_VB so_RB easy_JJ ?_SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ not_RB possible_JJ ._SENT How_WRB is_VBZ that_IN/that possible_JJ ?_SENT 
+VASTRA_NN :_: Doctor_NN ?_SENT 
+
+[_SYM Study_NP ]_SYM 
+
+JENNY_NN :_: They_PP 're_VBP growing_VVG !_SENT The_DT snowmen_NNS are_VBP growing_VVG !_SENT 
+LATIMER_NP :_: What_WP should_MD we_PP do_VV ?_SENT 
+[_SYM Institute_NP ]_SYM 
+
+DOCTOR_NN :_: But_CC you_PP were_VBD just_RB Doctor_NP Simeon_NP ._SENT You_PP 're_VBP not_RB 
+real_JJ ._SENT He_PP dreamed_VVD you_PP ._SENT How_WRB can_MD you_PP still_RB exist_VVP ?_SENT 
+SNOWMAN_NN :_: Now_RB the_DT dream_NN outlives_VVZ the_DT dreamer_NN and_CC can_MD never_RB die_VV ._SENT Once_IN I_PP 
+was_VBD the_DT puppet_NN ._SENT 
+(_( Simeon_NP is_VBZ reanimated_VVN as_IN an_DT icy_JJ ghoul_NN ._SENT )_) 
+SNOWMAN_NN :_: Now_RB I_PP pull_VVP the_DT strings_NNS !_SENT I_PP tried_VVD so_RB long_JJ to_TO take_VV on_IN human_JJ form_NN ._SENT 
+By_IN erasing_VVG Simeon_NP ,_, you_PP made_VVD space_NN for_IN me_PP ._SENT I_PP fill_VVP him_PP now_RB ._SENT 
+(_( Simeon_NP knocks_VVZ Vastra_NP aside_RB and_CC grabs_VVZ the_DT Doctor_NP ._SENT )_) 
+SNOWMAN_NN :_: More_JJR than_IN snow_NN ,_, more_JJR than_IN Simeon_NP ._SENT Even_RB this_DT old_JJ body_NN is_VBZ strong_JJ 
+in_IN my_PP$ control_NN ._SENT 
+DOCTOR_NN :_: Argh_NP !_SENT 
+SNOWMAN_NN :_: Do_VVP you_PP feel_VVP it_PP ?_SENT Winter_NP is_VBZ coming_VVG !_SENT 
+(_( His_PP$ touch_NN starts_VVZ to_TO freeze_VV the_DT Doctor_NP 's_POS skin_NN ._SENT )_) 
+DOCTOR_NN :_: Argh_NP !_SENT 
+SNOWMAN_NN :_: Winter_NN is_VBZ coming_VVG !_SENT 
+[_SYM Study_NP ]_SYM 
+
+STRAX_NP :_: No_UH ,_, you_PP must_MD fight_VV ._SENT Hang_VV on_IN and_CC fight_VV ,_, boy_UH ._SENT 
+You_PP can_MD do_VV it_PP ._SENT 
+CLARA_NP :_: Captain_NP Latimer_NP ._SENT Your_PP$ children_NNS ._SENT They_PP 're_VBP afraid_JJ ._SENT Hold_VV them_PP ._SENT 
+LATIMER_NN :_: It_PP 's_VBZ not_RB really_RB my_PP$ area_NN ._SENT 
+CLARA_NN :_: It_PP is_VBZ now_RB ._SENT 
+(_( A_DT single_JJ tear_NN runs_VVZ down_RP from_IN Clara_NP 's_POS eye_NN ._SENT Outside_RB ,_, thunder_NN rends_VVZ the_DT 
+snowstorm_NN and_CC turns_VVZ it_PP into_IN rain_NN ._SENT )_) 
+
+[_SYM Institute_NP ]_SYM 
+
+(_( The_DT snow_NN globe_NN is_VBZ filled_VVN with_IN melt_NN water_NN ._SENT Simeon_NP 
+leaps_NNS off_IN the_DT Doctor_NP ._SENT )_) 
+SNOWMAN_NN :_: What_WP 's_VBZ happening_VVG ?_SENT 
+VASTRA_NN :_: Doctor_NN ,_, the_DT globe_NN ._SENT It_PP 's_VBZ turning_VVG to_TO rain_VV ._SENT All_DT of_IN it_PP ,_, the_DT snow_NN ,_, 
+look_NN ._SENT 
+(_( Simeon_NP dies_VVZ ._SENT )_) 
+VASTRA_NN :_: He_PP 's_VBZ dead_JJ ._SENT What_WP happened_VVD ?_SENT 
+DOCTOR_NN :_: The_DT snow_NN mirrors_NNS ,_, that_WDT 's_VBZ all_DT it_PP does_VVZ ._SENT It_PP 's_VBZ mirroring_VVG something_NN 
+else_RB now_RB ._SENT Something_NN so_RB strong_JJ ,_, it_PP 's_VBZ drowning_VVG everything_NN else_RB ._SENT 
+(_( The_DT Doctor_NP opens_VVZ a_DT window_NN and_CC holds_VVZ out_RP his_PP$ hand_NN ._SENT )_) 
+DOCTOR_NN :_: There_EX was_VBD a_DT critical_JJ mass_NN of_IN snow_NN at_IN the_DT house_NN ._SENT If_IN something_NN 
+happened_VVN there_RB 
+(_( They_PP both_DT taste_VVP the_DT rain_NN ._SENT )_) 
+VASTRA_NN :_: It_PP 's_VBZ salty_JJ ._SENT Salt_NP water_NN rain_NN ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ not_RB raining_VVG ._SENT It_PP 's_VBZ crying_VVG ._SENT The_DT only_JJ force_NN on_IN Earth_NN that_RB 
+could_MD drown_VV the_DT snow_NN ._SENT A_DT whole_JJ family_NN crying_VVG on_IN Christmas_NP Eve_NP ._SENT 
+
+[_SYM Study_NP ]_SYM 
+
+(_( The_DT Tardis_NP materialises_VVZ ._SENT )_) 
+STRAX_NN :_: I_PP 'm_VBP sorry_JJ ._SENT There_EX was_VBD nothing_NN to_TO be_VB done_VVN ._SENT She_PP has_VHZ moments_NNS only_RB ._SENT 
+DOCTOR_NN :_: We_PP saved_VVD the_DT world_NN ,_, Clara_NP ,_, you_PP and_CC me_PP ._SENT We_PP really_RB ,_, really_RB did_VVD ._SENT 
+CLARA_NP :_: Are_VBP you_PP going_VVG back_RB to_TO your_PP$ cloud_NN ?_SENT 
+DOCTOR_NN :_: No_DT more_JJR cloud_NN ._SENT Not_RB now_RB ._SENT 
+CLARA_NP :_: Why_WRB not_RB ?_SENT 
+DOCTOR_NN :_: It_PP rained_VVD ._SENT 
+CLARA_NN :_: Run_VV ._SENT Run_VV ,_, you_PP clever_JJ boy_NN ._SENT And_CC remember_VV ._SENT 
+(_( The_DT clock_NN chimes_VVZ midnight_NN as_IN Clara_NP dies_VVZ ._SENT )_) 
+DIGBY_NN :_: It_PP 's_VBZ Christmas_NP ._SENT Christmas_NP Day_NP ._SENT 
+[_SYM Graveyard_NP ]_SYM 
+
+(_( Captain_NP Latimer_NP is_VBZ with_IN his_PP$ children_NNS by_IN the_DT 
+graveside_NN ._SENT )_) 
+VASTRA_NN :_: And_CC what_WP about_IN the_DT Intelligence_NP ?_SENT Melted_VVN with_IN the_DT snow_NN ?_SENT 
+DOCTOR_NN :_: No_UH ,_, I_PP should_MD n't_RB think_VV so_RB ._SENT It_PP learned_VVD to_TO survive_VV beyond_IN physical_JJ 
+form_NN ._SENT 
+JENNY_NN :_: Well_RB ,_, we_PP ca_MD n't_RB be_VB in_IN much_JJ danger_NN from_IN a_DT disembodied_JJ Intelligence_NN 
+that_IN/that thinks_VVZ it_PP can_MD invade_VV the_DT world_NN with_IN snowmen_NNS ._SENT 
+VASTRA_NN :_: Or_CC that_IN/that the_DT London_NP Underground_NP is_VBZ a_DT key_JJ strategic_JJ weakness_NN ._SENT 
+DOCTOR_NN :_: The_DT Great_NP Intelligence_NP ._SENT Rings_VVZ a_DT bell_NN ._SENT The_DT Great_NP Intelligence_NP ._SENT 
+(_( He_PP walks_VVZ forward_RB to_TO the_DT grave_NN as_IN the_DT family_NN leave_NN ._SENT )_) 
+JENNY_NN :_: Doctor_NN ?_SENT 
+(_( The_DT gravestone_NN has_VHZ already_RB been_VBN carved_VVN and_CC put_VVN in_IN place_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP never_RB knew_VVD her_PP$ name_NN ._SENT Her_PP$ full_JJ name_NN ._SENT 
+OSWIN_NN [_SYM memory_NN ]_SYM :_: Oswin_NP Oswald_NP ._SENT Junior_NP Entertainment_NP Manager_NP ,_, Starship_NP 
+Alaska_NP ._SENT 
+DOCTOR_NN :_: Soufflé_JJ girl_NN ._SENT Oswin_NP ._SENT It_PP was_VBD her_PP ._SENT 
+OSWIN_NN [_SYM memory_NN ]_SYM :_: Run_VVN ,_, you_PP clever_JJ boy_NN ._SENT 
+CLARA_NN [_SYM memory_NN ]_SYM :_: Run_VVN ,_, you_PP clever_JJ boy_NN ._SENT 
+OSWIN_NN [_SYM memory_NN ]_SYM :_: And_CC remember_VV ._SENT 
+CLARA_NN [_SYM memory_NN ]_SYM :_: And_CC remember_VV ._SENT 
+DOCTOR_NN :_: It_PP was_VBD soufflé_JJ girl_NN again_RB ._SENT I_PP never_RB saw_VVD her_PP face_VVP the_DT first_JJ time_NN 
+with_IN the_DT Daleks_NP ,_, but_CC her_PP$ voice_NN ,_, it_PP was_VBD the_DT same_JJ voice_NN ._SENT 
+JENNY_NN :_: Doctor_NN ?_SENT 
+DOCTOR_NN :_: The_DT same_JJ woman_NN ,_, twice_RB ._SENT And_CC she_PP died_VVD both_DT times_NNS ._SENT The_DT same_JJ woman_NN !_SENT 
+
+VASTRA_NN :_: Doctor_NN ,_, please_UH ,_, what_WP are_VBP you_PP talking_VVG about_RB ?_SENT 
+DOCTOR_NN :_: Something_NN 's_VBZ going_VVG on_RP ._SENT Something_NN impossible_JJ ,_, something_NN ._SENT Right_RB ,_, 
+you_PP two_CD stay_NN here_RB ._SENT Stay_VV right_RB here_RB ._SENT Do_VVP n't_RB move_VV an_DT inch_NN ._SENT 
+VASTRA_NP :_: Are_VBP you_PP coming_VVG back_RB ?_SENT 
+DOCTOR_NN :_: Should_MD n't_RB think_VV so_RB !_SENT 
+VASTRA_NN :_: But_CC where_WRB are_VBP you_PP going_VVG ?_SENT 
+DOCTOR_NN :_: To_TO find_VV her_PP ._SENT To_TO find_VV Clara_NP ._SENT Ha_NP ha_NP ha_NP !_SENT 
+JENNY_NN :_: But_CC Clara_NP 's_POS dead_NN ._SENT What_WP 's_VBZ he_PP talking_VVG about_RB ,_, finding_VVG her_PP ?_SENT 
+(_( Clara_NP Oswin_NP Oswald_NP ._SENT Remember_VV me_PP ,_, we_PP shall_MD meet_VV again_RB ._SENT Born_VVN November_NP 23_CD 
+1866_CD ,_, died_VVN December_NP 24_CD ,_, 1892._CD )_) 
+VASTRA_NN :_: I_PP do_VVP n't_RB know_VV ,_, but_CC perhaps_RB the_DT universe_NN makes_VVZ bargains_NNS after_IN 
+all_RB ._SENT 
+(_( Same_JJ graveyard_NN ,_, over_IN a_DT hundred_CD years_NNS later_RBR and_CC somewhat_RB overgrown_VVN ._SENT )_) 
+GIRL_NN [_SYM OC_NP ]_SYM :_: Where_WRB are_VBP you_PP going_VVG ?_SENT 
+CLARA_NP :_: Short_JJ cut_NN ._SENT 
+GIRL_NN :_: Through_IN there_RB ?_SENT I_PP hate_VVP this_DT place_NN !_SENT Do_VVP n't_RB you_PP think_VVP it_PP 's_VBZ creepy_JJ ?_SENT 
+CLARA_NP :_: Nah_NP ._SENT I_PP do_VVP n't_RB believe_VV in_IN ghosts_NNS ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Clara_NP Oswin_NP Oswald_NP ._SENT Watch_VV me_PP run_VV ._SENT 
+

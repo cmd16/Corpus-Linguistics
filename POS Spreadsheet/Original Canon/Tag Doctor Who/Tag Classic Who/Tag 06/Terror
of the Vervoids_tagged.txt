@@ -1,0 +1,1984 @@
+Part_NN 
+Nine_CD 
+[_SYM Trial_NP room_NN ]_SYM 
+(_( The_DT Doctor_NP returns_NNS to_TO the_DT dock_NN looking_VVG very_RB 
+solemn_JJ ._SENT He_PP speaks_VVZ slowly_RB ,_, and_CC after_IN initial_JJ pauses_NNS to_TO think_VV ._SENT )_) 
+INQUISITOR_NN :_: We_PP are_VBP all_RB aware_JJ of_IN your_PP$ feelings_NNS of_IN sorrow_NN ,_, Doctor_NP ._SENT Has_VHZ 
+the_DT recess_NN given_VVN you_PP sufficient_JJ time_NN to_TO overcome_VV the_DT distress_NN of_IN your_PP$ 
+bereavement_NN ?_SENT 
+DOCTOR_NN :_: I_PP doubt_VVP that_IN/that there_EX will_MD ever_RB be_VB sufficient_JJ time_NN for_IN that_DT ,_, my_PP$ 
+lady_NN ._SENT 
+VALEYARD_NN :_: May_MD we_PP not_RB proceed_VV ,_, my_PP$ lady_NN ?_SENT The_DT cavalier_JJ manner_NN in_IN which_WDT the_DT 
+Doctor_NN permitted_VVD his_PP$ young_JJ companion_NN to_TO be_VB destroyed_VVN militates_VVZ against_IN 
+this_DT charade_NN of_IN concern_NN ._SENT 
+INQUISITOR_NN :_: The_DT Doctor_NP is_VBZ fighting_VVG for_IN his_PP$ life_NN ,_, Valeyard_NP ._SENT However_RB ,_, I_PP 
+do_VV take_VV your_PP$ point_NN ._SENT Doctor_NN ,_, are_VBP you_PP ready_JJ to_TO present_VV your_PP$ evidence_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT Yes_UH ,_, I_PP am_VBP grateful_JJ to_TO you_PP ,_, madam_NN ,_, for_IN according_VVG me_PP the_DT 
+same_JJ privilege_NN as_IN the_DT Valeyard_NP that_WDT allowed_VVD me_PP access_NN to_TO the_DT Matrix_NP ._SENT My_PP$ 
+excursion_NN will_MD be_VB into_IN the_DT future_NN ._SENT 
+VALEYARD_NN :_: The_DT future_NN ?_SENT Is_VBZ it_PP going_VVG to_TO be_VB the_DT Doctor_NP 's_POS defence_NN that_IN/that he_PP 
+improves_VVZ ?_SENT 
+DOCTOR_NN :_: Precisely_RB ._SENT 
+VALEYARD_NN :_: This_DT I_PP must_MD see_VV ._SENT 
+DOCTOR_NN :_: My_PP$ submission_NN concerns_VVZ a_DT crisis_NN which_WDT threatens_VVZ the_DT lives_NNS not_RB 
+only_RB of_IN a_DT group_NN of_IN people_NNS confined_VVN together_RB with_IN no_DT means_NN of_IN escape_NN ,_, 
+but_CC would_MD ,_, if_IN unresolved_JJ ,_, threaten_VVP every_DT mortal_NN being_VBG on_IN the_DT planet_NN 
+Earth_NP ._SENT 
+INQUISITOR_NN :_: Proceed_VV ._SENT 
+DOCTOR_NN :_: Mogar_NP ,_, a_DT planet_NN on_IN the_DT Perseus_NP arm_NN of_IN the_DT Milky_NP Way_NP ._SENT 
+[_SYM Space_NP ]_SYM 
+(_( As_IN we_PP move_VVP in_IN on_IN a_DT red_JJ planet_NN we_PP see_VVP a_DT spacecraft_NN 
+in_IN orbit_NN ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Rich_JJ in_IN rare_JJ metals_NNS ._SENT A_DT top_JJ priority_NN consignment_NN of_IN these_DT 
+precious_JJ metals_NNS is_VBZ being_VBG loaded_VVN aboard_IN Hyperion_NP Three_NP ,_, an_DT intergalactic_JJ 
+liner_NN that_IN/that ferries_NNS between_IN Mogar_NP and_CC Earth_NP ._SENT A_DT scheduled_VVN flight_NN in_IN the_DT 
+Earth_NP year_NN two_CD thousand_CD nine_CD hundred_CD and_CC eighty_CD six_CD ._SENT 
+(_( We_PP travel_VVP along_IN the_DT side_NN of_IN the_DT liner_NN to_TO a_DT window_NN that_WDT looks_VVZ down_RP into_IN 
+a_DT passenger_NN area_NN with_IN rattan_NN chairs_NNS and_CC tables_NNS ._SENT There_EX is_VBZ a_DT spiral_NN 
+staircase_NN from_IN an_DT upper_JJ level_NN ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: The_DT crew_NN is_VBZ aboard_RB ._SENT The_DT last_JJ 
+passengers_NNS are_VBP reporting_VVG in_IN ._SENT Many_DT will_MD never_RB complete_VV the_DT journey_NN ,_, for_IN ,_, 
+in_IN order_NN to_TO protect_VV a_DT secret_NN hidden_VVN on_IN the_DT space_NN liner_NN ,_, one_PP will_MD become_VV 
+a_DT murderer_NN ._SENT 
+(_( A_DT blonde_JJ woman_NN in_IN pink_JJ marches_NNS across_IN the_DT room_NN to_TO the_DT reception_NN desk_NN ._SENT 
+Everyone_NN say_VVP Hi_NP !_SENT to_TO Honor_NP 
+Blackman_NP ,_, aka_NN Cathy_NP Gale_NP or_CC Pussy_NP Galore_JJ ,_, whichever_WDT you_PP 
+prefer_VVP ._SENT )_) 
+LASKY_NP :_: Am_VBP I_PP expected_VVN to_TO trust_VV my_PP$ life_NN for_IN millions_NNS of_IN millions_NNS of_IN miles_NNS 
+to_TO a_DT bunch_NN of_IN incompetents_NNS who_WP ca_MD n't_RB even_RB get_VV my_PP$ luggage_NN aboard_RB without_IN 
+losing_VVG it_PP ?_SENT 
+JANET_NN :_: Your_PP$ luggage_NN ,_, Professor_NP ?_SENT It_PP 's_VBZ not_RB in_IN your_PP$ cabin_NN ?_SENT 
+LASKY_NP :_: Really_RB ,_, do_VVP I_PP have_VHP to_TO repeat_VV myself_PP ?_SENT 
+JANET_NN :_: I_PP 'm_VBP sure_JJ we_PP can_MD sort_VV it_PP out_RP ._SENT 
+(_( An_DT older_JJR man_NN in_IN mostly_RB black_JJ uniform_NN comes_VVZ over_RP ._SENT )_) 
+RUDGE_NN :_: Problems_NNS ,_, Janet_NP ?_SENT Let_VV me_PP help_VV ._SENT 
+LASKY_NP :_: And_CC who_WP are_VBP you_PP ?_SENT 
+RUDGE_NP :_: Security_NP Officer_NP Rudge_NP ,_, Professor_NP ._SENT Now_RB ,_, which_WDT cabin_NN did_VVD you_PP go_VVP 
+to_TO ?_SENT 
+LASKY_NP :_: You_PP 're_VBP asking_VVG ,_, and_CC you_PP 're_VBP the_DT Security_NP Officer_NP ?_SENT Cabin_NN six_CD ,_, where_WRB 
+else_RB ?_SENT 
+RUDGE_NN :_: May_MD I_PP see_VV your_PP$ key_NN ,_, please_UH ?_SENT 
+(_( Lasky_NP hands_VVZ it_PP over_RP ._SENT )_) 
+RUDGE_NP :_: Ah_UH ,_, no._JJ The_DT other_JJ way_NN round_NN ,_, I_PP think_VVP ._SENT You_PP are_VBP in_IN cabin_NN nine_CD ,_, and_CC 
+that_DT is_VBZ where_WRB you_PP will_MD find_VV your_PP$ luggage_NN ,_, Professor_NP ._SENT 
+(_( Lasky_NP snatches_VVZ back_RB the_DT key_NN ._SENT )_) 
+LASKY_NP :_: Let_NP 's_POS hope_NN so_RB ._SENT 
+(_( Lasky_NP rushes_VVZ away_RB ._SENT A_DT middle-aged_JJ man_NN with_IN a_DT bushy_JJ beard_NN and_CC dressed_VVN in_IN 
+a_DT turquoise_JJ suit_NN come_VVN up_RP to_TO sign_VV in_IN ._SENT )_) 
+JANET_NN :_: You_PP 're_VBP in_IN cabin_NN six_CD ,_, Mister_NP Grenville_NP ._SENT 
+GRENVILLE_NN :_: Thank_VV you_PP ._SENT 
+RUDGE_NP :_: Mister_NP Grenville_NP ,_, Security_NP Officer_NP Rudge_NP ._SENT If_IN you_PP have_VHP any_DT 
+problems_NNS 
+(_( They_PP are_VBP interrupted_VVN by_IN an_DT old_JJ man_NN ._SENT )_) 
+KIMBER_NN :_: Mister_NP Hallett_NP ,_, how_WRB pleasant_JJ ._SENT At_IN least_JJS one_CD face_NN not_RB belonging_VVG 
+to_TO a_DT stranger_NN ._SENT 
+GRENVILLE_NN :_: I_PP 'm_VBP sorry_JJ ,_, I_PP think_VVP you_PP must_MD be_VB mistaken_VVN ._SENT 
+KIMBER_NP :_: Oh_UH ,_, surely_RB not_RB ._SENT We_PP met_VVD three_CD years_NNS ago_RB on_IN Stella_NP Stora_NP ._SENT You_PP 
+came_VVD to_TO investigate_VV shortages_NNS in_IN the_DT granary_NN ._SENT 
+GRENVILLE_NN :_: My_PP$ name_NN is_VBZ Grenville_NP ,_, and_CC I_PP 've_VHP never_RB been_VBN to_TO Stella_NP Stora_NP ._SENT 
+You_PP 're_VBP obviously_RB confusing_VVG me_PP with_IN someone_NN else_RB ._SENT 
+(_( Grenville_NP leaves_VVZ with_IN everyone_NN staring_VVG ._SENT )_) 
+RUDGE_NN :_: Maybe_RB the_DT gentleman_NN has_VHZ a_DT doppelganger_NN ._SENT 
+
+KIMBER_NN :_: But_CC I_PP could_MD have_VH sworn_VVN ._SENT Even_RB the_DT voice_NN is_VBZ the_DT same_JJ ._SENT 
+(_( Lasky_NP is_VBZ with_IN her_PP$ assistants_NNS ._SENT )_) 
+BRUCHNER_NP :_: An_DT investigator_NN ?_SENT 
+LASKY_NP :_: Bruchner_NP ,_, go_VV and_CC check_VV the_DT safety_NN measures_VVZ for_IN the_DT Isolation_NN 
+room_NN ,_, immediately_RB ._SENT 
+(_( Grenville_NP goes_VVZ to_TO his_PP$ cabin_NN and_CC throws_VVZ is_VBZ briefcase_NN 
+down_RB ,_, furious_JJ ._SENT Then_RB he_PP has_VHZ an_DT idea_NN ,_, and_CC leaves_VVZ again_RB ._SENT )_) 
+[_SYM Cargo_NP hold_NN ]_SYM 
+(_( Grenville_NP goes_VVZ down_RP to_TO the_DT main_JJ hold_NN ,_, where_WRB 
+workers_NNS in_IN protective_JJ suits_NNS and_CC welders_NNS masks_NNS are_VBP loading_VVG boxes_NNS ._SENT He_PP 
+takes_VVZ a_DT suit_NN to_TO disguise_VV himself_PP ._SENT )_) 
+GUARD_NN :_: That_WDT 's_VBZ the_DT final_JJ batch_NN ._SENT Get_VV your_PP$ men_NNS ashore_RB ._SENT 
+(_( The_DT men_NNS walk_VVP away_RB from_IN the_DT orange_JJ barrier_NN labelled_VVN Warning_NP ._SENT High_JJ 
+intensity_NN light_NN forbidden_VVN ._SENT Infra-spectrum_NN light_NN only_RB ._SENT Grenville_NP joins_VVZ 
+them_PP ._SENT )_) 
+[_SYM Trial_NP room_NN ]_SYM 
+VALEYARD_NN :_: An_DT objection_NN ._SENT 
+INQUISITOR_NN :_: Relevant_JJ ,_, I_PP hope_VVP ._SENT 
+VALEYARD_NN :_: Completely_RB ._SENT When_WRB ,_, may_MD we_PP ask_VV ,_, is_VBZ the_DT Doctor_NP going_VVG to_TO embroil_VV 
+himself_PP in_IN this_DT saga_NN ?_SENT 
+DOCTOR_NN :_: Now_RB I_PP object_VVP ._SENT Am_VBP I_PP not_RB to_TO be_VB protected_VVN from_IN the_DT prosecutor_NN 's_POS 
+insinuations_NNS ?_SENT On_IN what_WP evidence_NN does_VVZ he_PP conclude_VVP that_IN/that I_PP embroil_VVP myself_PP ?_SENT 
+INQUISITOR_NN :_: None_NN ._SENT I_PP shall_MD ignore_VV his_PP$ terminology_NN ._SENT But_CC I_PP do_VVP confess_VV I_PP 
+share_VV his_PP$ curiosity_NN ._SENT 
+DOCTOR_NN :_: I_PP fail_VVP to_TO see_VV why_WRB you_PP 're_VBP so_RB curious_JJ ,_, madam_NN ._SENT Surely_RB you_PP must_MD 
+know_VV where_WRB my_PP$ Tardis_NP is_VBZ ?_SENT 
+VALEYARD_NN :_: Obscurity_NN is_VBZ a_DT recognised_VVN tactic_NN for_IN subterfuge_NN ._SENT 
+DOCTOR_NN :_: And_CC posing_VVG unnecessary_JJ questions_NNS in_IN order_NN to_TO score_VV cheap_JJ points_NNS 
+is_VBZ the_DT tactic_NN of_IN a_DT prosecutor_NN who_WP has_VHZ no_DT case_NN ._SENT You_PP have_VHP been_VBN monitoring_VVG 
+my_PP$ Tardis_NP ._SENT You_PP claim_VVP it_PP 's_VHZ been_VBN bugged_VVN with_IN a_DT listening_VVG device_NN ._SENT So_IN you_PP 
+tell_VV the_DT court_NN where_WRB my_PP$ Tardis_NP is_VBZ ._SENT 
+INQUISITOR_NN :_: I_PP require_VVP you_PP to_TO respond_VV to_TO the_DT challenge_NN ,_, Valeyard_NP ._SENT 
+VALEYARD_NN :_: It_PP has_VHZ entered_VVN the_DT sector_NN the_DT Hyperion_NP Three_NP is_VBZ traversing_VVG ._SENT 
+
+[_SYM Bridge_NP ]_SYM 
+COMPUTER_NN :_: Hyperion_NP flight_NN one_CD one_CD three_CD is_VBZ now_RB in_IN 
+progress_NN ._SENT 
+(_( The_DT space_NN liner_NN leaves_VVZ orbit_NN ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+(_( A_DT slim_JJ young_JJ lady_NN with_IN a_DT mass_NN of_IN curly_JJ red_JJ hair_NN 
+and_CC wearing_VVG a_DT cream_NN cat_NN suit_NN is_VBZ leaning_VVG against_IN the_DT console_NN with_IN a_DT stop_NN 
+watch_NN ._SENT Beat_NN music_NN is_VBZ playing_VVG ._SENT Everyone_NN say_VVP Hi_NP !_SENT or_CC maybe_RB Eek_JJ !_SENT to_TO Bonnie_NP Langford_NP ._SENT )_) 
+MEL_NN :_: Twenty_CD three_CD ,_, twenty_CD four_CD ,_, twenty_CD five_CD 
+(_( The_DT Doctor_NP is_VBZ on_IN an_DT evil_JJ exercise_NN bike_NN where_WRB the_DT handles_NNS drop_VVP down_RP to_TO 
+below_IN his_PP$ knees_NNS with_IN every_DT turn_NN ._SENT )_) 
+MEL_NN +_SYM DOCTOR_NP :_: Twenty_CD six_CD ,_, twenty_CD seven_CD ,_, twenty_CD eight_CD ,_, twenty_CD nine_CD ,_, 
+thirty_CD ,_, thirty_CD one_CD ,_, thirty_CD two_CD ,_, thirty_CD three_CD ,_, thirty_CD four_CD 
+(_( Mel_NP goes_VVZ into_IN the_DT interior_NN and_CC the_DT Doctor_NP stops_VVZ exercises_NNS ,_, but_CC keeps_VVZ 
+counting_VVG ._SENT )_) 
+DOCTOR_NN :_: Thirty_CD five_CD ,_, thirty_CD six_CD ,_, thirty_CD seven_CD ,_, thirty_CD eight_CD 
+(_( Mel_NP comes_VVZ back_RB with_IN two_CD small_JJ glasses_NNS ._SENT He_PP resumes_VVZ ._SENT )_) 
+MEL_NN +_SYM DOCTOR_NP :_: Thirty_CD nine_CD ,_, forty_NN ._SENT 
+MEL_NN :_: This_DT will_MD wake_VV you_PP up_RP ._SENT 
+DOCTOR_NN :_: Carrot_NN juice_NN ?_SENT 
+MEL_NN :_: It_PP 'll_MD do_VV you_PP good_JJ ._SENT Honestly_RB ,_, carrots_NNS are_VBP full_JJ of_IN vitamin_NN A_NP ._SENT 
+DOCTOR_NN :_: Mel_NP ,_, have_VHP you_PP studied_VVD my_PP$ ears_NNS lately_RB ?_SENT 
+MEL_NN :_: It_PP 's_VBZ your_PP$ waistline_NN I_PP 'm_VBP concerned_VVN about_RB ._SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, seriously_RB ,_, though_RB ._SENT Is_VBZ it_PP my_PP$ imagination_NN or_CC have_VH they_PP 
+started_VVN to_TO grow_VV longer_RBR ?_SENT 
+MEL_NN :_: Listen_VV ,_, when_WRB I_PP start_VVP to_TO call_VV you_PP Neddy_NP ,_, then_RB you_PP can_MD worry_VV ._SENT Drink_NN 
+up_RB ._SENT 
+DOCTOR_NN :_: You_PP 'll_MD worry_VV sooner_RBR when_WRB I_PP start_VVP to_TO bray_VV ._SENT 
+(_( The_DT Doctor_NP sips_VVZ his_PP$ juice_NN and_CC pulls_VVZ a_DT long_JJ face_NN ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+(_( The_DT stewardess_NN ,_, Janet_NP ,_, is_VBZ leading_VVG a_DT 
+Mogarian_NP ._SENT This_DT is_VBZ a_DT alien_JJ race_NN who_WP are_VBP completely_RB covered_VVN and_CC wear_VV a_DT 
+metal_NN helmet_NN ._SENT Distant_JJ cousins_NNS of_IN the_DT Breen_NP ,_, perhaps_RB ?_SENT )_) 
+JANET_NN :_: Perhaps_RB when_WRB you_PP 've_VHP unpacked_VVN ,_, you_PP 'd_MD like_VV to_TO join_VV the_DT other_JJ 
+passengers_NNS in_IN the_DT lounge_NN for_IN refreshments_NNS ._SENT 
+(_( Meanwhile_RB ,_, the_DT radar_NN in_IN the_DT Communications_NP room_NN picks_NNS 
+up_IN something_NN ._SENT Warning_NN ,_, unidentified_JJ craft_NN grid_NN reference_IN -22.26.8_CD 
+extreme_JJ range_NN no_DT id_NN possible_JJ ._SENT 
+The_DT stewardess_NN Janet_NP is_VBZ walking_VVG along_IN carrying_VVG a_DT drink_NN when_WRB a_DT gloved_VVN 
+hand_NN touches_VVZ her_PP$ shoulder_NN ._SENT She_PP spins_VVZ round_NN ._SENT )_) 
+JANET_NN :_: You_PP startled_VVD me_PP ._SENT 
+(_( It_PP is_VBZ another_DT Mogarian_NP ._SENT He_PP beeps_VVZ and_CC chirrups_VVZ at_IN her_PP ._SENT )_) 
+JANET_NN :_: You_PP have_VHP n't_RB got_VVN your_PP$ translator_NN switched_VVD on_IN ,_, sir_NN ._SENT 
+ATZA_NP :_: Why_WRB did_VVD we_PP not_RB depart_VVP on_IN schedule_NN ?_SENT 
+JANET_NN :_: We_PP were_VBD delayed_VVN for_IN a_DT late_JJ arrival_NN ._SENT A_DT gentleman_NN from_IN your_PP$ 
+planet_NN ,_, as_IN a_DT matter_NN of_IN fact_NN ._SENT 
+ATZA_NN :_: A_DT Mogarian_NP ?_SENT 
+JANET_NP :_: Yes_UH ,_, sir_NN ._SENT 
+(_( Atza_NP leaves_VVZ ._SENT Janet_NP goes_VVZ through_IN the_DT door_NN at_IN the_DT end_NN of_IN the_DT corridor_NN 
+labelled_VVN Crew_NP Only_RB ._SENT )_) 
+[_SYM Communications_NPS room_NN ]_SYM 
+JANET_NN :_: Anything_NN interesting_JJ ?_SENT 
+EDWARDES_NNS :_: Maybe_RB ._SENT Unidentified_JJ craft_NN ._SENT I_PP 've_VHP tried_VVN all_PDT the_DT standard_NN 
+frequencies_NNS ._SENT 
+JANET_NN :_: Without_IN response_NN ?_SENT 
+EDWARDES_NNS :_: Not_RB a_DT bleep_NN ._SENT 
+JANET_NN :_: Perhaps_RB it_PP 's_VBZ a_DT piece_NN of_IN space_NN flotsam_NN ._SENT 
+EDWARDES_NNS :_: You_PP make_VVP delicious_JJ coffee_NN ,_, Janet_NP ._SENT 
+JANET_NP :_: Oh_UH ,_, well_UH ,_, if_IN you_PP do_VVP n't_RB want_VV the_DT benefit_NN of_IN my_PP$ advice_NN ._SENT 
+(_( Janet_NP leaves_VVZ ._SENT )_) 
+EDWARDES_NNS :_: Let_VV 's_VBZ try_VV you_PP on_IN hyper-frequency_NN ._SENT 
+(_( The_DT door_NN opens_VVZ quietly_RB behind_IN him_PP ,_, and_CC a_DT hand_NN gives_VVZ him_PP an_DT injection_NN 
+in_IN his_PP$ neck_NN ._SENT Edwardes_NP slumps_NNS across_IN the_DT control_NN panel_NN ._SENT The_DT hand_NN then_RB 
+uses_VVZ a_DT knob_NN to_TO send_VV a_DT Morse-style_NP signal_NN ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ getting_VVG tired_JJ watching_VVG Mel_NP use_VV a_DT 
+skipping_VVG rope_NN ._SENT Something_NN beeps_NNS ._SENT )_) 
+MEL_NN :_: Sixty_CD nine_CD ,_, seventy_CD ,_, seventy_CD one_CD ,_, seventy_CD two_CD 
+DOCTOR_NN :_: Quickly_RB ,_, Mel_NP ,_, press_VVP the_DT red_JJ button_NN ._SENT Get_VV the_DT message_NN on_IN the_DT 
+screen_NN ._SENT Press_VV it_PP ._SENT Press_VV it_PP !_SENT 
+MEL_NN :_: I_PP have_VHP ._SENT You_PP said_VVD red_JJ ._SENT 
+DOCTOR_NN :_: Did_VVD I_PP ?_SENT Must_MD be_VB the_DT carrot_NN juice_NN making_VVG me_PP colour_VVP blind_JJ ._SENT 
+MEL_NN :_: Colour_NN blind_NN ?_SENT 
+(_( The_DT message_NN comes_VVZ up_RP on_IN a_DT console_NN monitor_NN ._SENT Mayday_NN ._SENT 
+Perative_JJ traitor_NN be_VB identified_VVN before_IN landing_NN Earth_NN mayday_NN end_NN ._SENT )_) 
+MEL_NN :_: Cryptic_JJ ._SENT 
+DOCTOR_NN :_: Unsigned_JJ ._SENT 
+MEL_NN :_: Mayday_NN call_NN ?_SENT We_PP have_VHP to_TO respond_VV ._SENT 
+DOCTOR_NN :_: Practically_RB on_IN our_PP$ doorstep_NN ._SENT 
+[_SYM Cargo_NP hold_NN ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ ._SENT )_) 
+MEL_NN :_: Come_VV on_IN ,_, Doctor_NP ._SENT Come_VVN on_IN ,_, hurry_NN ._SENT 
+DOCTOR_NN :_: How_WRB I_PP keep_VVP up_RP with_IN you_PP is_VBZ a_DT constant_JJ source_NN of_IN amazement_NN to_TO me_PP ._SENT 
+
+MEL_NN :_: No_DT one_CD sends_VVZ a_DT mayday_NN call_NN unless_IN it_PP 's_VBZ a_DT matter_NN of_IN life_NN and_CC death_NN ._SENT 
+
+DOCTOR_NN :_: Yes_UH ._SENT Let_VV 's_VBZ exercise_VV the_DT grey_JJ cells_NNS for_IN once_RB ,_, shall_MD we_PP ,_, rather_RB 
+than_IN the_DT muscles_NNS ._SENT 
+(_( A_DT guard_NN is_VBZ on_IN the_DT upper_JJ catwalk_NN ._SENT )_) 
+DOCTOR_NN :_: That_WDT was_VBD no_DT ordinary_JJ mayday_NN call_NN ._SENT It_PP was_VBD beamed_VVN specifically_RB at_IN 
+the_DT Tardis_NP ._SENT 
+MEL_NN :_: So_RB it_PP 's_VBZ from_IN someone_NN who_WP knows_VVZ you_PP ._SENT 
+(_( A_DT Mogarian_NP ducks_VVZ out_RP of_IN sight_NN ._SENT )_) 
+DOCTOR_NN :_: In_IN which_WDT case_NN ,_, why_WRB was_VBD n't_RB it_PP signed_VVD ?_SENT 
+MEL_NN :_: Panic_NN ?_SENT Desperation_NN ._SENT Well_RB ,_, we_PP wo_MD n't_RB find_VV out_RP by_IN hanging_VVG about_RB in_IN 
+here_RB ,_, will_MD we_PP ?_SENT 
+DOCTOR_NN :_: We_PP wo_MD n't_RB go_VV blundering_VVG into_IN a_DT trap_NN ,_, either_RB ._SENT 
+MEL_NN :_: I_PP 've_VHP never_RB seen_VVN this_DT side_NN of_IN you_PP before_RB ._SENT You_PP 're_VBP usually_RB the_DT one_CD 
+who_WP goes_VVZ charging_VVG in_IN regardless_RB ._SENT 
+DOCTOR_NN :_: Ca_MD n't_RB you_PP sense_VVP it_PP ,_, Mel_NP ?_SENT 
+MEL_NN :_: Sense_VVP what_WP ?_SENT 
+DOCTOR_NN :_: Evil_JJ ._SENT There_EX 's_VBZ evil_JJ in_IN this_DT place_NN ._SENT 
+(_( A_DT guard_NN sneaks_VVZ past_IN some_DT equipment_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP 've_VHP got_VVN a_DT better_JJR idea_NN ._SENT Let_VV 's_VBZ go_VV to_TO Pyro_NP Shika_NP ,_, a_DT fascinating_JJ 
+planet_NN 
+MEL_NN :_: Doctor_NN !_SENT 
+(_( A_DT guard_NN is_VBZ holding_VVG a_DT weapon_NN to_TO Mel_NP 's_POS head_NN ._SENT )_) 
+MEL_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN :_: So_RB much_RB for_IN your_PP$ enthusiasm_NN ._SENT Let_VV me_PP do_VV the_DT talking_NN ._SENT 
+(_( Another_DT guard_NN jabs_VVZ his_PP$ weapon_NN into_IN the_DT Doctor_NP 's_POS back_NN ._SENT )_) 
+DOCTOR_NN :_: Now_RB listen_VV ,_, my_PP$ man_NN ,_, I_PP can_MD explain_VV ._SENT We_PP 're_VBP 
+GUARD_NN :_: Shut_VVN up_RP ._SENT Move_NN ._SENT 
+DOCTOR_NN :_: I_PP said_VVD I_PP can_MD explain_VV ._SENT 
+GUARD_NN :_: And_CC I_PP said_VVD move_NN ._SENT 
+DOCTOR_NN :_: He_PP did_VVD ,_, did_VVD n't_RB he_PP ._SENT 
+MEL_NN :_: You_PP certainly_RB talked_VVD us_PP out_RP of_IN trouble_NN there_RB ._SENT 
+(_( When_WRB they_PP had_VHD all_RB left_VVN ,_, a_DT Mogarian_NP comes_VVZ out_RP of_IN hiding_NN and_CC examines_VVZ 
+the_DT barrier_NN across_IN the_DT back_NN of_IN the_DT cargo_NN hold_NN ._SENT )_) 
+[_SYM Bridge_NP ]_SYM 
+RUDGE_NN :_: You_PP never_RB heard_VVD anything_NN ?_SENT 
+EDWARDES_NNS :_: Not_RB a_DT sound_NN ._SENT 
+RUDGE_NN :_: Nor_CC saw_VVD anything_NN ?_SENT 
+EDWARDES_NNS :_: I_PP 've_VHP already_RB told_VVN you_PP ._SENT 
+RUDGE_NN :_: No_DT one_CD 's_VBZ blaming_VVG you_PP ,_, laddie_NN ,_, but_CC I_PP thought_VVD perhaps_RB now_RB that_RB 
+your_PP$ head_NN is_VBZ clearer_JJR ._SENT 
+EDWARDES_NNS :_: I_PP was_VBD concentrating_VVG on_IN the_DT unidentified_JJ craft_NN ._SENT 
+RUDGE_NN :_: From_IN which_WDT you_PP failed_VVD to_TO get_VV a_DT response_NN ._SENT 
+TRAVERS_NP :_: Mister_NP Edwardes_NP ,_, what_WP about_IN the_DT security_NN tape_NN ?_SENT 
+EDWARDES_NP :_: Deactivated_VVD ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: Which_WDT indicates_VVZ knowledge_NN of_IN our_PP$ procedures_NNS ._SENT 
+RUDGE_NN :_: Just_RB my_PP$ thoughts_NNS too_RB ,_, Commodore_NP ._SENT 
+TRAVERS_NNS :_: I_PP 'm_VBP sure_JJ ._SENT How_WRB about_RB the_DT rest_NN of_IN the_DT equipment_NN ?_SENT 
+EDWARDES_NNS :_: In_IN perfect_JJ order_NN ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: That_WDT leaves_VVZ only_RB one_CD objective_NN your_PP$ assailant_NN could_MD have_VH had_VHD ._SENT 
+RUDGE_NN :_: To_TO send_VV a_DT message_NN ._SENT 
+TRAVERS_NNS :_: I_PP was_VBD trying_VVG not_RB to_TO state_VV the_DT obvious_JJ ,_, Mister_NP Rudge_NP ._SENT That_DT 'll_MD 
+do_VVP ._SENT Report_NN to_TO the_DT medic_NN before_IN returning_VVG to_TO duty_NN ._SENT 
+EDWARDES_NNS :_: Thank_VV you_PP ,_, sir_NN ._SENT 
+DOCTOR_NN :_: Will_MD you_PP please_VV stop_VV poking_VVG that_DT contraption_NN into_IN my_PP$ spine_NN ._SENT 
+(_( The_DT Doctor_NP and_CC Mel_NP are_VBP escorted_VVN in_IN ._SENT )_) 
+GUARD_NN :_: We_PP heard_VVD a_DT noise_NN in_IN the_DT cargo_NN hold_NN ,_, Mister_NP Rudge_NP ,_, and_CC found_VVD 
+these_DT two_CD ._SENT 
+DOCTOR_NN :_: Is_VBZ it_PP ?_SENT Yes_UH ,_, it_PP is_VBZ ._SENT Captain_NP Tonker_NP Travers_NP ._SENT 
+TRAVERS_NP :_: Commodore_NP ._SENT 
+DOCTOR_NN :_: Oh_UH ._SENT 
+TRAVERS_NNS :_: Of_IN all_PDT the_DT places_NNS in_IN this_DT infinite_JJ universe_NN ,_, you_PP have_VHP to_TO turn_VV 
+up_RB on_IN my_PP$ ship_NN ._SENT 
+DOCTOR_NN :_: Commodore_NP ?_SENT That_DT means_VVZ this_DT is_VBZ a_DT grade_NN one_CD security_NN craft_NN ._SENT 
+RUDGE_NP :_: Yes_UH ,_, and_CC I_PP should_MD like_VV to_TO know_VV how_WRB you_PP got_VVD here_RB ._SENT 
+TRAVERS_NNS :_: Do_VVP n't_RB bother_VV ,_, Rudge_NP ._SENT I_PP know_VVP how_WRB ._SENT What_WP I_PP do_VVP n't_RB know_VV is_VBZ why_WRB ._SENT 
+DOCTOR_NN :_: But_CC did_VVD n't_RB you_PP send_VVP the_DT mayday_NN call_NN ?_SENT 
+TRAVERS_NNS :_: Me_FW ?_SENT 
+MEL_NN :_: We_PP had_VHD to_TO respond_VV ._SENT 
+EDWARDES_NNS :_: That_WDT 's_VBZ true_JJ ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: I_PP am_VBP fully_RB conversant_JJ with_IN the_DT navigational_JJ code_NN ,_, Mister_NP 
+Edwardes_NP ._SENT I_PP thought_VVD you_PP were_VBD reporting_VVG to_TO the_DT medic_NN ._SENT 
+EDWARDES_NP :_: Yes_UH ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: I_PP authorised_VVD no_DT mayday_NN signal_NN ._SENT My_PP$ Communications_NP officer_NN is_VBZ 
+attacked_VVN and_CC then_RB you_PP appear_VVP ._SENT 
+MEL_NN :_: And_CC a_DT fat_JJ lot_NN of_IN thanks_NNS we_PP 've_VHP got_VVN for_IN our_PP$ pains_NNS ._SENT 
+TRAVERS_NNS :_: If_IN I_PP seem_VVP to_TO lack_VV gratitude_NN ,_, young_JJ woman_NN 
+DOCTOR_NN :_: Melanie_NP ._SENT Known_VVN as_IN Mel_NP ._SENT 
+TRAVERS_NNS :_: It_PP is_VBZ because_IN on_IN the_DT previous_JJ occasion_NN that_IN/that the_DT Doctor_NP 's_POS path_NN 
+crossed_VVN mine_NN ,_, I_PP found_VVD myself_PP involved_VVD in_IN a_DT web_NN of_IN mayhem_NN and_CC intrigue_NN ._SENT 
+(_( This_DT was_VBD not_RB a_DT televised_JJ story_NN ,_, however_RB ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, saved_VVD your_PP$ ship_NN ,_, though_RB ,_, Commodore_NP ._SENT 
+TRAVERS_NP :_: Yes_UH ,_, you_PP did_VVD ,_, though_RB whether_IN it_PP would_MD have_VH been_VBN at_IN risk_NN 
+without_IN your_PP$ intervention_NN is_VBZ another_DT matter_NN ._SENT 
+MEL_NN :_: Whatever_WDT happened_VVD in_IN the_DT past_NN does_VVZ n't_RB alter_VV the_DT fact_NN that_IN/that a_DT mayday_NN 
+call_NN was_VBD sent_VVN ._SENT 
+DOCTOR_NN :_: Not_RB by_IN you_PP ,_, though_RB ,_, Commodore_NP ,_, so_RB let_VV 's_VBZ make_VV this_DT hail_NN and_CC 
+farewell_NN ,_, shall_MD we_PP ?_SENT 
+TRAVERS_NNS :_: Stand_VVP easy_RB ,_, Doctor_NP ._SENT You_PP 're_VBP not_RB leaving_VVG ._SENT 
+DOCTOR_NN :_: We_PP 're_VBP not_RB ?_SENT 
+TRAVERS_NNS :_: I_PP 'd_MD rather_RB have_VH you_PP where_WRB I_PP can_MD see_VV you_PP than_IN swanning_VVG around_RP 
+outside_JJ ._SENT Conduct_VV them_PP to_TO the_DT lounge_NN ._SENT Consider_VV yourself_PP restricted_JJ to_TO 
+passenger_NN quarters_NNS ._SENT 
+MEL_NN :_: In_IN other_JJ words_NNS ,_, welcome_VV aboard_RB ._SENT 
+(_( Mel_NP and_CC the_DT Doctor_NP are_VBP escorted_VVN away_RP ,_, still_RB at_IN gunpoint_NN ._SENT )_) 
+RUDGE_NN :_: Stowaways_NNS ._SENT I_PP could_MD have_VH done_VVN without_IN that_DT on_IN my_PP$ final_JJ service_NN 
+report_NN ._SENT 
+TRAVERS_NNS :_: If_IN you_PP 're_VBP expecting_VVG an_DT easy_JJ ride_NN on_IN your_PP$ last_JJ voyage_NN ,_, Mister_NP ,_, 
+I_PP 'm_VBP afraid_JJ you_PP 're_VBP not_RB going_VVG to_TO get_VV it_PP ._SENT 
+RUDGE_NN :_: I_PP think_VVP you_PP 're_VBP being_VBG a_DT mite_NN unfair_JJ ,_, sir_NN ._SENT 
+TRAVERS_NP :_: Am_VBP I_PP ?_SENT Well_RB ,_, do_VVP n't_RB be_VB too_RB diligent_JJ in_IN policing_VVG the_DT Doctor_NP ._SENT 
+RUDGE_NN :_: Can_MD I_PP have_VH clarification_NN of_IN that_DT instruction_NN ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: Give_VV him_PP enough_JJ rope_NN and_CC he_PP will_MD snare_VV our_PP$ culprit_NN for_IN us_PP ._SENT 
+(_( Down_RB in_IN the_DT cargo_NN hold_NN ,_, a_DT Mogarian_NP has_VHZ broken_VVN into_IN the_DT curtained-off_NN 
+area_NN ._SENT Here_RB there_EX are_VBP man-sized_JJ pods_NNS with_IN green_JJ light_NN pulsing_VVG inside_RB 
+where_WRB the_DT light_NN from_IN the_DT small_JJ laboratory_NN touches_VVZ them_PP ._SENT The_DT Mogarian_NP 
+pours_VVZ a_DT pile_NN of_IN silver_JJ discs_NNS from_IN a_DT jar_NN labelled_VVN Demeter_NP ,_, turns_VVZ off_RP the_DT 
+light_NN and_CC leaves_VVZ ._SENT The_DT pulsing_VVG stops_NNS ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT Doctor_NP has_VHZ his_PP$ feet_NNS up_RP on_IN one_CD of_IN the_DT small_JJ 
+tables_NNS ._SENT He_PP picks_VVZ up_RP a_DT bowl_NN of_IN nibbles_NNS ,_, but_CC Mel_NP makes_VVZ him_PP put_VVD 
+them_PP down_RB again_RB ._SENT )_) 
+DOCTOR_NN :_: Far_RB cry_NN from_IN the_DT carefree_JJ life_NN of_IN Pease_NP Pottage_NP ,_, eh_NP ,_, Mel_NP ?_SENT 
+MEL_NN :_: I_PP 'm_VBP not_RB complaining_VVG ._SENT You_PP 're_VBP really_RB worried_VVN ,_, are_VBP n't_RB you_PP ?_SENT 
+DOCTOR_NN :_: I_PP ca_MD n't_RB rid_VV myself_PP of_IN the_DT feeling_NN I_PP 'm_VBP being_VBG used_VVN ._SENT Whoever_WP sent_VVD 
+that_DT message_NN knew_VVD me_PP ._SENT 
+MEL_NN :_: There_EX 's_VBZ a_DT made_VVN to_TO measure_VV candidate_NN ._SENT 
+DOCTOR_NN :_: There_EX is_VBZ ?_SENT 
+MEL_NN :_: The_DT Commodore_NP ._SENT He_PP 's_VHZ met_VVN you_PP before_IN ._SENT 
+DOCTOR_NN :_: He_PP 'd_MD have_VH said_VVN ._SENT 
+MEL_NN :_: Would_MD he_PP admit_VVP he_PP needs_VVZ outside_JJ assistance_NN ?_SENT 
+DOCTOR_NN :_: Intriguing_JJ possibility_NN ,_, but_CC that_DT 's_VBZ all_RB ._SENT 
+(_( A_DT Mogarian_NP walks_VVZ past_JJ ._SENT )_) 
+MEL_NN :_: Look_VV ,_, the_DT quickest_JJS way_NN out_RB of_IN this_DT is_VBZ to_TO solve_VV the_DT mystery_NN ._SENT 
+DOCTOR_NN :_: That_WDT could_MD also_RB be_VB the_DT quickest_JJS way_NN into_IN trouble_NN ._SENT 
+MEL_NN :_: Why_WRB do_VVP n't_RB you_PP ask_VVP for_IN a_DT passenger_NN list_NN ?_SENT 
+DOCTOR_NN :_: Do_VVP n't_RB hustle_VV me_PP ,_, Mel_NP ._SENT 
+MEL_NN :_: Who_WP 's_VBZ hustling_VVG ?_SENT All_RB I_PP 'm_VBP saying_VVG is_VBZ that_IN/that you_PP might_MD recognise_VV a_DT name_NN ._SENT 
+Simple_JJ ,_, is_VBZ n't_RB it_PP ?_SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT Meanwhile_RB ?_SENT 
+MEL_NN :_: Meanwhile_RB ,_, I_PP wander_VVP around_RP ,_, poke_VV my_PP$ nose_NN into_IN a_DT few_JJ nooks_NNS and_CC 
+crannie_NN and_CC see_VV if_IN anyone_NN tries_VVZ to_TO make_VV contact_NN ._SENT Remember_VV ,_, we_PP were_VBD 
+restricted_VVN to_TO the_DT passenger_NN quarters_NNS ._SENT This_DT is_VBZ only_RB the_DT lounge_NN ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( Mel_NP is_VBZ about_RB to_TO go_VV into_IN cabin_NN 8_CD when_WRB Rudge_NP comes_VVZ 
+along_RB ._SENT She_PP turns_VVZ to_TO look_VV at_IN a_DT diagram_NN of_IN the_DT ship_NN on_IN the_DT wall_NN instead_RB ._SENT )_) 
+
+RUDGE_NN :_: Looking_VVG for_IN something_NN ,_, miss_VVP ?_SENT 
+MEL_NN :_: I_PP see_VVP you_PP 've_VHP a_DT gymnasium_NN ._SENT 
+RUDGE_NN :_: Needed_VVN on_IN a_DT long_JJ trip_NN like_IN this_DT ._SENT 
+MEL_NN :_: I_PP thought_VVD I_PP might_MD do_VV a_DT bit_NN of_IN limbering_VVG up_RP ._SENT 
+RUDGE_NN :_: That_WDT 's_VBZ the_DT spirit_NN ._SENT Let_VV me_PP take_VV you_PP there_RB ._SENT 
+MEL_NN :_: So_RB you_PP can_MD keep_VV tabs_NNS on_IN me_PP ?_SENT 
+RUDGE_NN :_: Why_WRB would_MD I_PP want_VV to_TO do_VV that_DT ?_SENT 
+MEL_NN :_: This_DT way_NN ?_SENT 
+(_( Rudge_NP follows_VVZ Mel_NP out_IN of_IN sight_NN ._SENT A_DT guard_NN takes_VVZ up_RP position_NN by_IN a_DT door_NN ._SENT )_) 
+
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT Doctor_NP goes_VVZ to_TO the_DT reception_NN desk_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP wonder_VVP if_IN you_PP can_MD help_VV me_PP ._SENT 
+JANET_NN :_: I_PP 'll_MD do_VV my_PP$ best_JJS ._SENT 
+DOCTOR_NN :_: I_PP 'd_MD like_VV to_TO see_VV a_DT copy_NN of_IN the_DT passenger_NN list_NN ._SENT 
+(_( A_DT man_NN in_IN a_DT surgical_JJ gown_NN pulls_VVZ a_DT mask_NN over_IN his_PP$ face_NN and_CC enters_VVZ the_DT 
+Isolation_NN room_NN ._SENT A_DT guard_NN stands_VVZ outside_JJ ._SENT )_) 
+[_SYM Gymnasium_NP ]_SYM 
+(_( Rudge_NP watches_VVZ through_IN a_DT window_NN as_IN Professor_NP Lasky_NP 
+does_VVZ some_DT serious_JJ sit_NN ups_NNS and_CC Mel_NP swaps_VVZ her_PP$ boots_NNS for_IN plimsolls_NNS ._SENT )_) 
+RUDGE_NN :_: Put_VV the_DT headset_NN on_IN ,_, Miss._NP 
+(_( Mel_NP does_VVZ ,_, and_CC Rudge_NP slides_VVZ the_DT volume_NN to_TO max_NN ._SENT She_PP pulls_VVZ the_DT earpiece_NN 
+away_RB ._SENT )_) 
+RUDGE_NN :_: Sorry_JJ ._SENT If_IN you_PP get_VVP tired_JJ of_IN aerobics_NN ,_, just_RB select_VV another_DT tape_NN ._SENT 
+They_PP come_VVP complete_JJ with_IN instructions_NNS and_CC music_NN ._SENT 
+MEL_NN :_: Thank_VV you_PP ._SENT 
+(_( Rudge_NP leaves_VVZ ._SENT Doland_NP comes_VVZ in_IN and_CC whispers_NNS to_TO Lasky_NP while_IN Mel_NP skips_NNS ._SENT )_) 
+DOLAND_NN :_: Professor_NN ,_, we_PP have_VHP a_DT problem_NN in_IN the_DT Hydroponic_NP Centre_NP ._SENT 
+LASKY_NP :_: The_DT Hydroponic_NP Centre_NP ?_SENT What_WP 's_VBZ happened_VVN ?_SENT 
+DOLAND_NN :_: It_PP 's_VHZ been_VBN broken_VVN into_IN ._SENT 
+LASKY_NP :_: Get_VVP Bruchner_NP down_RB there_RB ._SENT He_PP 's_VBZ in_IN the_DT Isolation_NP Room_NP ._SENT 
+(_( Doland_NP leaves_VVZ ._SENT Lasky_NP grabs_VVZ a_DT towel_NN from_IN a_DT passing_VVG attendant_NN and_CC 
+follows_VVZ him_PP ._SENT Someone_NN switches_NNS off_IN Mel_NP 's_POS aerobics_NN tape_NN ._SENT )_) 
+MEL_NN :_: Yes_UH ?_SENT Yes_UH ,_, I_PP heard_VVD ,_, but_CC who_WP 's_VBZ speaking_VVG ?_SENT 
+(_( The_DT control_NN booth_NN is_VBZ empty_JJ as_IN Mel_NP rushes_VVZ in_IN and_CC through_IN to_TO the_DT 
+corridor_NN ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT Doctor_NP produces_VVZ a_DT fake_JJ bouquet_NN with_IN a_DT 
+flourish_VV ._SENT )_) 
+JANET_NN :_: You_PP 're_VBP very_RB persuasive_JJ ,_, Doctor_NP ,_, but_CC I_PP ca_MD n't_RB possibly_RB 
+(_( Rudge_NP enters_VVZ ._SENT )_) 
+JANET_NP :_: Ah_UH ,_, here_RB 's_VBZ the_DT man_NN who_WP could_MD give_VV you_PP permission_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, do_VVP n't_RB bother_VV ._SENT 
+RUDGE_NN :_: Permission_NN for_IN what_WP ?_SENT 
+DOCTOR_NN :_: Ah_UH ,_, it_PP 's_VBZ not_RB important_JJ ._SENT It_PP 's_VBZ just_RB a_DT whim_NN ._SENT I_PP 'm_VBP subject_JJ to_TO whims_NNS ,_, 
+so_RB I_PP 'm_VBP told_VVN ._SENT 
+JANET_NN :_: The_DT Doctor_NP wants_VVZ a_DT passenger_NN list_NN ._SENT 
+RUDGE_NN :_: Why_WRB not_RB ?_SENT Indeed_RB ,_, the_DT idea_NN makes_VVZ good_JJ sense_NN ._SENT 
+DOCTOR_NN :_: Mmm_NP ._SENT Well_RB ,_, if_IN I_PP could_MD I_PP could_MD just_RB spot_VV a_DT familiar_JJ name_NN 
+RUDGE_NN :_: We_PP 'd_MD get_VV our_PP$ culprit_NN ,_, you_PP 'd_MD bid_VV us_PP farewell_NN ._SENT I_PP should_MD have_VH 
+thought_NN of_IN that_WDT myself_PP ,_, Doctor_NP ._SENT Sign_NN of_IN age_NN ._SENT I_PP 'm_VBP due_JJ to_TO retire_VV after_IN 
+this_DT voyage_NN ._SENT 
+(_( The_DT Doctor_NP looks_VVZ down_RP the_DT PADD_NN ._SENT Mel_NP enters_VVZ ._SENT )_) 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, all_DT complete_JJ strangers_NNS ,_, I_PP 'm_VBP afraid_JJ ._SENT 
+RUDGE_NN :_: Pity_NN ._SENT 
+DOCTOR_NN :_: Thank_VV you_PP ._SENT 
+(_( The_DT Doctor_NP goes_VVZ over_RP to_TO Mel_NP ._SENT )_) 
+MEL_NN :_: He_PP 's_VHZ been_VBN in_IN touch_NN ._SENT He_PP wants_VVZ you_PP to_TO meet_VV him_PP in_IN cabin_NN six_CD ._SENT 
+DOCTOR_NN :_: Did_VVD you_PP see_VVP him_PP ,_, get_VV a_DT name_NN ?_SENT 
+MEL_NN :_: No_UH ,_, just_RB a_DT message_NN ._SENT Let_VV 's_VBZ go_VV ._SENT 
+DOCTOR_NN :_: Now_RB ,_, before_IN you_PP go_VVP rushing_VVG off_RP ,_, Mel_NP ,_, do_VVP you_PP know_VVP what_WP a_DT Judas_NN 
+goat_NN is_VBZ ?_SENT 
+MEL_NN :_: Er_UH ,_, yes_UH ._SENT It_PP 's_VBZ a_DT decoy_NN goat_NN that_WDT 's_VBZ tied_VVN to_TO the_DT stake_NN to_TO lure_VV the_DT 
+tiger_NN out_RB into_IN the_DT open_JJ ._SENT 
+DOCTOR_NN :_: Getting_VVG badly_RB mauled_VVN in_IN the_DT process_NN ._SENT I_PP think_VVP I_PP shall_MD refuse_VV the_DT 
+role_NN ._SENT 
+MEL_NN :_: Then_RB where_WRB are_VBP you_PP going_VVG ?_SENT 
+DOCTOR_NN :_: For_IN a_DT non-provocative_JJ stroll_NN around_IN the_DT deck_NN ._SENT 
+MEL_NN :_: But_CC what_WP about_IN cabin_NN six_CD ?_SENT 
+DOCTOR_NN :_: Tiger_NP trap_NN ._SENT 
+[_SYM Cargo_NP hold_NN ]_SYM 
+(_( It_PP would_MD appear_VV that_IN/that the_DT Hydroponics_NP centre_NN is_VBZ 
+the_DT bit_NN behind_IN the_DT orange_JJ plastic_NN ._SENT Bruchner_NP goes_VVZ straight_RB in_IN ._SENT )_) 
+LASKY_NP :_: You_PP appalling_JJ dunderhead_NN ,_, Doland_NP ._SENT Could_MD n't_RB you_PP have_VHP repaired_VVN this_DT ?_SENT 
+DOLAND_NN :_: I_PP assumed_VVD you_PP 'd_MD want_VV to_TO see_VV the_DT damage_NN for_IN yourself_PP ,_, Professor_NP ._SENT 
+
+LASKY_NP :_: And_CC I_PP suppose_VVP it_PP never_RB penetrated_VVD your_PP$ thick_JJ academic_JJ skull_NN to_TO 
+check_VV the_DT pods_NNS ._SENT 
+DOLAND_NN :_: That_WDT was_VBD the_DT first_JJ thing_NN I_PP did_VVD ._SENT They_PP 're_VBP stable_JJ ._SENT 
+(_( Bruchner_NP comes_VVZ out_RP with_IN the_DT empty_JJ jar_NN ._SENT )_) 
+BRUCHNER_NP :_: Professor_NP Lasky_NP !_SENT The_DT Demeter_NP seeds_NNS ,_, they_PP 're_VBP gone_VVN ._SENT 
+[_SYM Cabin_NP 6_CD ]_SYM 
+(_( Mel_NP knocks_VVZ and_CC enters_VVZ to_TO a_DT total_JJ mess_NN ._SENT The_DT seeds_NNS 
+are_VBP scattered_VVN on_IN a_DT file_NN on_IN a_DT table_NN ,_, and_CC single_JJ shoe_NN sits_VVZ on_IN an_DT open_JJ 
+plastic_JJ case_NN on_IN the_DT bed_NN ._SENT )_) 
+MEL_NN :_: Hello_UH ?_SENT Anyone_NN at_IN home_NN ?_SENT 
+(_( The_DT bathroom_NN door_NN slides_VVZ open_JJ and_CC she_PP grabs_VVZ the_DT shoe_NN ._SENT )_) 
+DOCTOR_NN :_: You_PP 're_VBP not_RB supposed_VVN to_TO be_VB in_IN here_RB ._SENT 
+MEL_NN :_: And_CC what_WP about_IN you_PP ?_SENT 
+DOCTOR_NN :_: Hmm_NP ?_SENT 
+MEL_NN :_: Going_VVG for_IN a_DT stroll_NN ?_SENT You_PP just_RB said_VVD that_IN/that to_TO put_VV me_PP off_RP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, there_EX 's_VBZ no_DT sense_NN in_IN putting_VVG two_CD heads_NNS into_IN the_DT noose_NN ._SENT 
+MEL_NN :_: Ever_RB heard_VVN of_IN safety_NN in_IN numbers_NNS ?_SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT 
+MEL_NN :_: Looks_VVZ like_IN someone_NN 's_VHZ been_VBN in_IN a_DT fight_NN for_IN their_PP$ life_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT The_DT question_NN is_VBZ ,_, did_VVD they_PP succeed_VV ?_SENT 
+(_( He_PP picks_VVZ up_RP the_DT Demeter_NP seeds_NNS and_CC examines_VVZ them_PP ._SENT )_) 
+[_SYM Bridge_NP ]_SYM 
+(_( Commodore_NP Travers_NP answers_VVZ the_DT comm_NP ._SENT beep_NN ._SENT )_) 
+TRAVERS_NP :_: Yes_UH ?_SENT 
+RUDGE_NN [_SYM OC_NP ]_SYM :_: Would_MD you_PP come_VV down_RB ,_, sir_NN ?_SENT 
+TRAVERS_NP :_: Where_WRB ?_SENT 
+RUDGE_NN [_SYM OC_NP ]_SYM :_: Waste_NN disposal_NN unit_NN ._SENT There_EX 's_VHZ been_VBN an_DT accident_NN ._SENT 
+TRAVERS_NNS :_: Accident_NN ?_SENT Ca_MD n't_RB you_PP deal_VVP with_IN it_PP ?_SENT 
+RUDGE_NN [_SYM OC_NP ]_SYM :_: I_PP think_VVP you_PP should_MD be_VB here_RB ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: Very_RB well_RB ._SENT What_WP I_PP have_VHP done_VVN to_TO be_VB landed_VVN with_IN him_PP ,_, I_PP fail_VVP to_TO 
+comprehend_VV ._SENT Take_VV over_RP ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( An_DT alarm_NN is_VBZ sounding_VVG ._SENT )_) 
+DOCTOR_NN :_: What_WP is_VBZ it_PP ?_SENT 
+JANET_NN :_: Emergency_NN in_IN the_DT waste_NN disposal_NN unit_NN ._SENT 
+MEL_NN :_: This_DT way_NN ._SENT 
+DOCTOR_NN :_: Yeah_UH ,_, this_DT way_NN ._SENT 
+[_SYM Waste_NP disposal_NN ]_SYM 
+(_( The_DT Commodore_NP is_VBZ kneeling_VVG by_IN an_DT injured_JJ crewman_NN ._SENT 
+Rudge_NP is_VBZ next_JJ to_TO the_DT glowing_JJ red_JJ entrance_NN to_TO the_DT actual_JJ waste_NN disposal_NN 
+unit_NN ._SENT )_) 
+TRAVERS_NNS :_: I_PP see_VVP ._SENT Cut_VV the_DT klaxon_NN ._SENT Accident_NN ?_SENT Why_WRB ca_MD n't_RB 
+you_PP use_VVP plain_JJ language_NN ,_, mister_NN ?_SENT Whoever_WP 's_VHZ been_VBN dumped_VVN in_IN there_EX has_VHZ been_VBN 
+pulverised_VVN into_IN fragments_NNS and_CC sent_VVD floating_VVG in_IN space_NN ,_, and_CC in_IN my_PP$ book_NN 
+that_DT 's_VBZ murder_NN ._SENT Have_VHP you_PP called_VVD a_DT medic_NN for_IN this_DT man_NN ?_SENT 
+RUDGE_NN :_: Of_IN course_NN ,_, sir_NN ._SENT Straight_RB away_RB ._SENT 
+TRAVERS_NNS :_: Then_RB I_PP suggest_VVP you_PP begin_VV earning_VVG your_PP$ salary_NN and_CC find_VV out_RP who_WP 
+that_IN/that belongs_VVZ to_TO ._SENT 
+(_( Rudge_NP is_VBZ holding_VVG a_DT shoe_NN like_IN the_DT one_CD from_IN Cabin_NP 6._CD The_NP Doctor_NP and_CC Mel_NP 
+enter_VV ._SENT )_) 
+DOCTOR_NN :_: I_PP may_MD be_VB able_JJ to_TO help_VV you_PP there_RB ,_, Commodore_NP ._SENT 
+TRAVERS_NNS :_: Somehow_RB ,_, that_WDT does_VVZ n't_RB surprise_VV me_PP ._SENT 
+DOCTOR_NN :_: If_IN you_PP 'd_MD rather_RB I_PP left_VVD it_PP to_TO Mister_NP Rudge_NP ?_SENT 
+MEL_NN :_: The_DT passenger_NN in_IN cabin_NN six_CD sent_VVN for_IN the_DT Doctor_NP ._SENT When_WRB we_PP got_VVD there_RB ,_, 
+he_PP was_VBD gone_VVN ._SENT 
+TRAVERS_NNS :_: Does_VVZ n't_RB follow_VV that_IN/that he_PP wound_VVD up_RP in_IN the_DT pulveriser_NN ._SENT 
+DOCTOR_NN :_: The_DT room_NN was_VBD a_DT wreck_NN ._SENT 
+MEL_NN :_: And_CC there_EX was_VBD a_DT single_JJ shoe_NN ,_, exactly_RB the_DT same_JJ pattern_NN as_IN that_DT ._SENT 
+DOCTOR_NN :_: To_TO be_VB complete_JJ ,_, the_DT syllogism_NN only_RB requires_VVZ its_PP$ grim_JJ 
+conclusion_NN ._SENT 
+TRAVERS_NNS :_: And_CC naturally_RB you_PP have_VHP never_RB met_VVN the_DT man_NN or_CC know_VV why_WRB he_PP sent_VVD 
+for_IN you_PP ._SENT 
+MEL_NN :_: We_PP do_VVP n't_RB even_RB know_VV his_PP$ name_NN ._SENT 
+RUDGE_NN :_: It_PP was_VBD Grenville_NP ,_, sir_NN ._SENT A_DT mineralogist_NN ._SENT 
+TRAVERS_NNS :_: Any_DT suggestions_NNS why_WRB a_DT mineralogist_NN who_WP wanted_VVD to_TO see_VV you_PP 
+should_MD be_VB killed_VVN ?_SENT 
+DOCTOR_NN :_: None_NN at_IN all_DT ._SENT 
+TRAVERS_NNS :_: Or_CC why_WRB it_PP is_VBZ that_IN/that every_DT time_NN you_PP appear_VVP on_IN the_DT scene_NN ,_, people_NNS 
+begin_VV to_TO die_VV ?_SENT 
+MEL_NN :_: Hey_UH ,_, I_PP do_VVP n't_RB care_VV who_WP you_PP are_VBP ,_, you_PP 've_VHP no_DT right_NN to_TO say_VV that_IN/that to_TO the_DT 
+Doctor_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, he_PP does_VVZ ,_, Mel_NP ._SENT He_PP has_VHZ every_DT right_NN ._SENT It_PP happens_VVZ to_TO 
+be_VB true_JJ ._SENT 
+[_SYM Lounge_NP ]_SYM 
+(_( Professor_NP Lasky_NP is_VBZ reading_VVG Murder_NP on_IN the_DT Orient_NN 
+Express_VV when_WRB Bruchner_NP enters_VVZ ._SENT )_) 
+LASKY_NP :_: Well_UH ?_SENT 
+(_( Mogarians_NNS walk_VVP past_JJ ._SENT )_) 
+LASKY_NP :_: Never_RB mind_VV them_PP ._SENT Is_VBZ the_DT Isolation_NP Room_NP safe_JJ ?_SENT 
+BRUCHNER_NP :_: Yes_UH ,_, the_DT emergency_NN was_VBD in_IN the_DT waste_NN disposal_NN unit_NN ._SENT 
+LASKY_NP :_: Then_RB we_PP can_MD relax_VV ._SENT Nothing_NN to_TO do_VV with_IN us_PP ._SENT 
+BRUCHNER_NP :_: That_WDT 's_VBZ your_PP$ assessment_NN ,_, is_VBZ it_PP ,_, Professor_NP ?_SENT The_DT danger_NN 's_POS 
+passed_VVN ?_SENT 
+[_SYM Gymnasium_NP ]_SYM 
+DOCTOR_NN :_: Well_RB ,_, that_WDT 's_VBZ it_PP ,_, then_RB ._SENT End_NN of_IN the_DT line_NN ._SENT 
+MEL_NN :_: What_WP do_VVP you_PP mean_VVP ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, our_PP$ contact_NN ._SENT Obviously_RB he_PP 's_VBZ the_DT one_CD who_WP 's_VHZ been_VBN 
+pulverised_VVD ._SENT 
+MEL_NN :_: So_RB we_PP give_VVP up_RP ?_SENT 
+DOCTOR_NN :_: What_WP else_RB ?_SENT 
+(_( Someone_NN leaves_VVZ the_DT control_NN booth_NN ._SENT )_) 
+MEL_NN :_: The_DT Hydroponic_NP Centre_NP ._SENT I_PP told_VVD you_PP about_IN the_DT sudden_JJ panic_NN when_WRB I_PP 
+was_VBD in_IN here_RB ._SENT 
+DOCTOR_NN :_: Irrelevant_JJ and_CC immaterial_JJ ._SENT 
+MEL_NN What_WP ?_SENT 
+DOCTOR_NN :_: My_PP$ dear_JJ Melanie_NP ,_, if_IN you_PP wish_VVP to_TO pursue_VV this_DT 
+completely_RB arbitrary_JJ course_NN ,_, pray_VV hurry_NN along_IN to_TO the_DT Hydroponic_NP Centre_NP 
+and_CC leave_VV me_PP to_TO my_PP$ static_JJ and_CC solitary_JJ peregrinations_NNS ._SENT 
+(_( The_DT Doctor_NP uses_VVZ the_DT treadmill_NN ._SENT )_) 
+[_SYM Trial_NP room_NN ]_SYM 
+DOCTOR_NN :_: Hold_VV it_PP !_SENT Just_RB a_DT minute_NN ,_, I_PP do_VVP n't_RB remember_VV 
+that_RB ._SENT 
+INQUISITOR_NN :_: How_WRB could_MD you_PP remember_VV ?_SENT These_DT events_NNS are_VBP in_IN your_PP$ future_NN ._SENT 
+DOCTOR_NN :_: But_CC ,_, I_PP reviewed_VVD that_DT section_NN earlier_RBR when_WRB I_PP was_VBD preparing_VVG my_PP$ 
+defence_NN ._SENT There_EX have_VHP been_VBN changes_NNS ._SENT That_DT is_VBZ n't_RB what_WP happened_VVN ._SENT The_DT girl_NN ,_, 
+Melanie_NP ._SENT Her_PP$ information_NN was_VBD important_JJ ._SENT I_PP would_MD n't_RB have_VH just_RB ignored_VVN 
+it_PP ._SENT Completely_RB uncharacteristic_JJ ._SENT And_CC the_DT words_NNS ,_, misused_VVD ,_, did_VVD n't_RB even_RB 
+sound_NN like_IN mine_NN ._SENT 
+VALEYARD_NP :_: What_WP is_VBZ n't_RB completely_RB uncharacteristic_JJ is_VBZ this_DT resort_NN to_TO 
+excuses_NNS and_CC subterfuge_NN ._SENT To_TO gloss_VV over_IN the_DT death_NN of_IN Peri_NP ,_, the_DT Doctor_NP 
+conveniently_RB presents_VVZ us_PP with_IN another_DT companion_NN ._SENT 
+INQUISITOR_NN :_: Hardly_RB a_DT convenience_NN ,_, Valeyard_NP ._SENT These_DT events_NNS are_VBP in_IN the_DT 
+Doctor_NN 's_POS future_NN ._SENT He_PP would_MD not_RB have_VH met_VVN the_DT young_JJ woman_NN yet_RB ._SENT 
+VALEYARD_NN :_: I_PP stand_VVP corrected_VVN ._SENT But_CC my_PP$ assumption_NN of_IN why_WRB he_PP has_VHZ pursued_VVN 
+such_PDT an_DT arbitrary_JJ course_NN in_IN aborting_VVG this_DT tale_NN still_RB remains_VVZ ._SENT 
+DOCTOR_NN :_: Arbitrary_JJ course_NN ?_SENT 
+INQUISITOR_NN :_: Your_PP$ assumption_NN ,_, Valeyard_NP ?_SENT 
+VALEYARD_NN :_: That_WDT she_PP ,_, too_RB ,_, is_VBZ going_VVG to_TO her_PP$ death_NN ._SENT 
+DOCTOR_NN :_: No_UH !_SENT No_UH ,_, look_VV ,_, I_PP 'm_VBP sorry_JJ ,_, madam_NN ,_, I_PP ca_MD n't_RB explain_VV ,_, but_CC I_PP have_VHP a_DT 
+feeling_VVG I_PP am_VBP being_VBG manipulated_VVN ,_, that_IN/that the_DT evidence_NN is_VBZ being_VBG distorted_VVN ._SENT 
+VALEYARD_NN :_: Preposterous_JJ !_SENT Absolutely_RB preposterous_JJ !_SENT Forgive_VV me_PP ,_, Sagacity_NP ._SENT 
+The_DT idea_NN the_DT Matrix_NP could_MD lie_VV ._SENT No_UH ,_, it_PP is_VBZ we_PP who_WP are_VBP being_VBG manipulated_VVN ._SENT 
+DOCTOR_NN :_: No_UH !_SENT 
+VALEYARD_NN :_: To_TO obscure_VV the_DT damaging_JJ truth_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, this_DT is_VBZ total_JJ fabrication_NN ._SENT 
+VALEYARD_NN :_: The_DT truth_NN ,_, Doctor_NP !_SENT You_PP sent_VVD your_PP$ companion_NN down_IN the_DT cargo_NN 
+hold_VV into_IN a_DT situation_NN which_WDT you_PP described_VVD ,_, I_PP quote_VVP ,_, ca_MD n't_RB you_PP sense_VVP it_PP ,_, 
+Mel_NP ?_SENT Evil_JJ ._SENT There_EX 's_VBZ evil_JJ in_IN this_DT place_NN ._SENT 
+DOCTOR_NN :_: No_UH !_SENT No_RB ,_, this_DT is_VBZ all_RB wrong_JJ ._SENT Every_DT instinct_NN of_IN which_WDT I_PP am_VBP capable_JJ 
+would_MD have_VH made_VVN me_PP prevent_VV her_PP ._SENT 
+VALEYARD_NN :_: Yet_RB you_PP did_VVD not_RB ._SENT 
+INQUISITOR_NN :_: Doctor_NN ,_, either_CC you_PP continue_VVP with_IN your_PP$ submission_NN or_CC I_PP must_MD 
+consider_VV the_DT evidence_NN for_IN the_DT defence_NN to_TO be_VB concluded_VVN ._SENT 
+[_SYM Cargo_NP hold_NN ]_SYM 
+EDWARDES_NNS :_: What_WP are_VBP you_PP doing_VVG prowling_VVG around_RP down_RB 
+here_RB ?_SENT 
+MEL_NN :_: Prowling_VVG ?_SENT Why_WRB should_MD I_PP be_VB prowling_VVG ?_SENT 
+EDWARDES_NNS :_: Because_IN this_DT if_IN off-limits_JJ ,_, and_CC I_PP suspect_VVP you_PP know_VVP it_PP ._SENT 
+MEL_NN :_: I_PP just_RB wanted_VVD to_TO have_VH a_DT peep_NN at_IN the_DT Hydroponics_NP Centre_NP ._SENT 
+EDWARDES_NNS :_: Any_DT reason_NN in_IN particular_JJ ?_SENT 
+MEL_NN :_: I_PP think_VVP it_PP might_MD tie_VV in_IN with_IN that_DT mysterious_JJ mayday_NN call_NN ._SENT I_PP 'm_VBP not_RB 
+going_VVG to_TO touch_VV anything_NN ._SENT What_WP harm_NN could_MD it_PP do_VV ?_SENT 
+EDWARDES_NNS :_: I_PP 'll_MD no_RB doubt_VV regret_VV this_DT ,_, but_CC come_VV on_RP ,_, a_DT conducted_VVN tour_NN 
+only_RB ._SENT No_DT wandering_VVG off_RP on_IN your_PP$ own_JJ ._SENT 
+MEL_NN :_: Tell_VV me_PP ,_, who_WP 's_VBZ the_DT woman_NN with_IN the_DT dragon_NN 's_POS voice_NN ?_SENT 
+EDWARDES_NP :_: Professor_NP Sarah_NP Lasky_NP ._SENT She_PP 's_VBZ an_DT agronomist_NN ._SENT So_RB are_VBP her_PP two_CD 
+assistants_NNS ,_, Bruchner_NP and_CC Doland_NP ._SENT 
+MEL_NN :_: So_RB was_VBD the_DT Hydroponics_NP Centre_NP set_VVD up_RP specially_RB for_IN them_PP ?_SENT 
+EDWARDES_NP :_: Yes_UH ,_, we_PP had_VHD to_TO allocate_VV part_NN of_IN the_DT hold_NN ._SENT 
+MEL_NN :_: Why_WRB is_VBZ only_RB low_JJ spectrum_NN light_NN allowed_VVN in_IN the_DT place_NN ?_SENT 
+EDWARDES_NNS :_: Something_NN to_TO do_VV with_IN photosynthesis_NN ._SENT Low_JJ spectrum_NN light_NN 
+allows_VVZ the_DT plants_NNS to_TO stay_VV dormant_JJ ._SENT 
+(_( Edwardes_NP uses_VVZ a_DT palm_NN print_NN lock_NN ._SENT )_) 
+EDWARDES_NNS :_: Now_RB ,_, I_PP 'll_MD go_VV first_JJ ._SENT We_PP do_VVP n't_RB want_VV you_PP breaking_VVG your_PP$ neck_NN ._SENT At_IN 
+least_JJS ,_, not_RB until_IN 
+(_( Edwards_NP touches_VVZ a_DT metal_NN mesh_NN and_CC gets_VVZ electrocuted_VVN ._SENT Mel_NP screams_VVZ in_IN 
+perfect_JJ pitch_NN with_IN the_DT theme_NN tune_NN ._SENT The_DT electricity_NN runs_VVZ through_IN the_DT 
+hydroponics_NN area_NN ,_, and_CC several_JJ pods_NNS become_VVP active_JJ ._SENT )_) 
+Part_NN Ten_CD 
+
+[_SYM Cargo_NP hold_NN ]_SYM 
+(_( Mel_NP runs_VVZ past_IN the_DT Tardis_NP into_IN the_DT arms_NNS of_IN two_CD 
+guards_NNS ._SENT )_) 
+GUARD_NN :_: What_WP are_VBP you_PP doing_VVG here_RB ?_SENT You_PP were_VBD told_VVN not_RB to_TO come_VV down_RP 
+MEL_NN :_: Back_RB there_RB !_SENT Edwardes_NP ,_, he_PP 's_VBZ dead_JJ !_SENT He_PP just_RB touched_VVD the_DT fences_NNS ._SENT 
+(_( The_DT other_JJ guard_NN rushes_VVZ to_TO the_DT Hydroponics_NP Centre_NP ._SENT )_) 
+GUARD_NN :_: Save_VV your_PP$ explanations_NNS for_IN the_DT Commodore_NP ,_, lady_NN ._SENT 
+GUARD_NN 2_CD :_: He_PP 's_VBZ dead_JJ ,_, all_DT right_NN ._SENT 
+GUARD_NN :_: Stay_VV with_IN him_PP ._SENT I_PP 'll_MD send_VV help_VV ._SENT Move_NN ._SENT 
+(_( The_DT guard_NN takes_VVZ Mel_NP with_IN him_PP ._SENT In_IN the_DT Hydroponics_NP Centre_NP ,_, something_NN 
+creeps_VVZ up_RP on_IN the_DT other_JJ guard_NN ._SENT )_) 
+[_SYM Trial_NP room_NN ]_SYM 
+VALEYARD_NN :_: Another_DT death_NN ,_, Doctor_NP ?_SENT But_CC for_IN the_DT 
+caprice_NN of_IN chance_NN ,_, the_DT victim_NN would_MD have_VH been_VBN your_PP$ companion_NN ,_, Mel_NP ._SENT Your_PP$ 
+culpability_NN is_VBZ beyond_IN question_NN ._SENT 
+INQUISITOR_NN :_: You_PP could_MD have_VH prevented_VVN her_PP from_IN going_VVG into_IN the_DT cargo_NN 
+hold_VV ._SENT Instead_RB ,_, you_PP appear_VVP to_TO encourage_VV her_PP ._SENT 
+DOCTOR_NN :_: When_WRB I_PP viewed_VVD the_DT Matrix_NN earlier_RBR ,_, that_WDT is_VBZ n't_RB what_WP happened_VVN ._SENT 
+VALEYARD_NN :_: More_JJR futile_JJ grasping_VVG at_IN straws_NNS ._SENT When_WRB the_DT facts_NNS tell_VVP against_IN 
+you_PP ,_, you_PP cry_VVP fraud_NN ._SENT 
+INQUISITOR_NN :_: Do_VVP you_PP wish_VVP to_TO reconsider_VV ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: No_UH ,_, madam_NN ._SENT I_PP am_VBP being_VBG manipulated_VVN ,_, but_CC the_DT only_JJ way_NN to_TO discover_VV 
+why_WRB ,_, and_CC by_IN whom_WP ,_, is_VBZ to_TO press_VV on_RP ._SENT 
+[_SYM Outside_IN the_DT Isolation_JJ room_NN ]_SYM 
+(_( There_EX is_VBZ the_DT sound_NN of_IN breaking_VVG glass_NN and_CC plates_VVZ ,_, 
+then_RB Doland_NP comes_VVZ out_IN carrying_VVG a_DT large_JJ platter_NN ,_, with_IN half_PDT the_DT food_NN 
+splattered_VVN on_IN his_PP$ scrubs_NNS ._SENT )_) 
+DOLAND_NN :_: Just_RB an_DT accident_NN ._SENT No_DT cause_NN for_IN concern_NN ._SENT The_DT stewardess_NN will_MD 
+take_VV care_NN of_IN that_DT ._SENT 
+(_( Doland_NP hands_VVZ the_DT platter_NN to_TO the_DT guard_NN and_CC leaves_VVZ ._SENT )_) 
+[_SYM Gymnasium_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ stationary_JJ on_IN the_DT treadmill_NN ,_, 
+winding_VVG his_PP$ pocket_NN watch_NN ._SENT Lasky_NP enters_VVZ ._SENT )_) 
+LASKY_NP :_: Why_WRB are_VBP n't_RB you_PP wearing_VVG a_DT pulsometer_NN ?_SENT The_DT heart_NN should_MD be_VB 
+monitored_VVN while_IN exercising_VVG ._SENT 
+DOCTOR_NN :_: Which_WDT heart_NN would_MD you_PP suggest_VV ,_, madam_NN ?_SENT Unfortunately_RB ,_, that_RB 
+does_VVZ n't_RB register_VV a_DT double_JJ pulse_NN ._SENT 
+LASKY_NP :_: A_DT double_JJ pulse_NN ?_SENT What_WP are_VBP you_PP ,_, a_DT comedian_NN ?_SENT 
+DOCTOR_NN :_: No_RB ,_, more_RBR a_DT sort_NN of_IN clown_NN ,_, actually_RB ._SENT Would_MD you_PP care_VV to_TO hear_VV my_PP$ 
+rendering_VVG of_IN On_IN With_IN The_DT Motley_NP ?_SENT 
+(_( Lasky_NP moves_VVZ away_RB ._SENT Rudge_NP enters_VVZ with_IN two_CD guards_NNS ._SENT )_) 
+RUDGE_NN :_: Doctor_NN ,_, you_PP 're_VBP required_VVN on_IN the_DT bridge_NN ._SENT 
+DOCTOR_NN :_: Ah_UH !_SENT The_DT Commodore_NP wants_VVZ a_DT chat_NN ._SENT Good_JJ ,_, I_PP shall_MD enjoy_VV that_DT ._SENT 
+RUDGE_NN :_: I_PP do_VVP n't_RB think_VV you_PP 'll_MD find_VV enjoyment_NN 's_VBZ on_IN the_DT agenda_NN ._SENT 
+[_SYM Bridge_NP ]_SYM 
+MEL_NN :_: I_PP do_VVP n't_RB need_VV anyone_NN to_TO speak_VV up_RP for_IN me_PP ._SENT I_PP 'm_VBP 
+quite_RB capable_JJ of_IN defending_VVG myself_PP ._SENT 
+(_( Rudge_NP and_CC the_DT Doctor_NP enter_VV ._SENT )_) 
+TRAVERS_NP :_: How_WRB long_RB have_VH you_PP known_VVN this_DT woman_NN ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, time_NN is_VBZ a_DT comparative_JJ concept_NN ,_, Commodore_NP ._SENT 
+MEL_NN :_: Not_RB now_RB ,_, Doctor_NP ._SENT Just_RB answer_VV the_DT question_NN ._SENT 
+TRAVERS_NNS :_: I_PP should_MD accept_VV that_DT advice_NN and_CC drop_VV the_DT sophistry_NN ._SENT Can_MD you_PP 
+vouch_NN for_IN her_PP ?_SENT 
+DOCTOR_NN :_: Completely_RB ._SENT Utterly_RB ._SENT What_WP 's_VBZ all_RB this_DT about_RB ,_, Mel_NP ?_SENT 
+MEL_NN :_: The_DT Communication_NP 's_POS officer_NN 's_VBZ dead_JJ ,_, and_CC they_PP think_VVP I_PP did_VVD it_PP ._SENT 
+RUDGE_NN :_: She_PP was_VBD caught_VVN running_VVG from_IN the_DT scene_NN ._SENT She_PP ca_MD n't_RB deny_VV that_DT ._SENT 
+MEL_NN :_: I_PP have_VHP n't_RB tried_VVN ._SENT I_PP persuaded_VVD Edwardes_NP to_TO show_VV me_PP the_DT Hydroponic_NP 
+Centre_NP ._SENT It_PP was_VBD booby-trapped_VVN ._SENT 
+DOCTOR_NN :_: Booby-trapped_VVN ?_SENT 
+(_( Rudge_NP 's_POS communicator_NN beeps_NNS ._SENT )_) 
+MEL_NN :_: If_IN it_PP had_VHD n't_RB been_VBN for_IN Edwardes_NP ,_, it_PP would_MD have_VH been_VBN me_PP who_WP was_VBD 
+killed_VVN ._SENT 
+RUDGE_NN :_: (_( into_IN comm_NP ._SENT )_) What_WP ?_SENT are_VBP you_PP certain_JJ ?_SENT 
+TRAVERS_NNS :_: What_WP is_VBZ it_PP ?_SENT 
+RUDGE_NN :_: It_PP 's_VBZ the_DT medical_JJ team_NN ._SENT They_PP say_VVP they_PP ca_MD n't_RB find_VV Edwardes_NP 
+anywhere_RB in_IN the_DT hold_NN ,_, sir_NN ._SENT 
+MEL_NN :_: But_CC he_PP must_MD be_VB there_RB ._SENT 
+DOCTOR_NN :_: Or_CC perhaps_RB he_PP was_VBD n't_RB dead_JJ ._SENT The_DT weird_JJ atmosphere_NN down_RB there_RB 
+could_MD lead_VV to_TO phantasmagoria_NN ._SENT 
+MEL_NN :_: Oh_UH ,_, come_VV on_RP ,_, you_PP know_VVP me_PP ._SENT Am_VBP I_PP prone_JJ to_TO that_DT sort_NN of_IN imagination_NN ?_SENT 
+DOCTOR_NN :_: Well_UH ._SENT 
+TRAVERS_NNS :_: I_PP thought_VVD you_PP 'd_VHD left_VVN a_DT man_NN down_RB there_RB ._SENT 
+GUARD_NN :_: I_PP did_VVD ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: Well_RB ,_, where_WRB is_VBZ he_PP ?_SENT Rudge_NP ?_SENT 
+RUDGE_NN :_: They_PP say_VVP there_EX 's_VBZ no_DT sign_NN of_IN him_PP either_RB ,_, sir_NN ._SENT 
+MEL_NN :_: The_DT guard_NN 's_VBZ disappeared_VVN too_RB ?_SENT Well_RB ,_, now_RB perhaps_RB you_PP 'll_MD accept_VV that_DT 
+I_PP 'm_VBP not_RB responsible_JJ ._SENT You_PP 've_VHP had_VHD me_PP in_IN custody_NN !_SENT 
+DOCTOR_NN :_: The_DT perfect_JJ alibi_NN ,_, Commodore_NP ._SENT 
+TRAVERS_NNS :_: Organise_VV a_DT search_NN ,_, Mister_NP Rudge_NP ._SENT I_PP want_VVP those_DT men_NNS found_VVD ._SENT 
+RUDGE_NP :_: Yes_UH ,_, sir_NN ._SENT 
+(_( Rudge_NP and_CC the_DT guard_NN leave_NN ._SENT )_) 
+TRAVERS_NNS :_: Now_RB ,_, since_IN you_PP 've_VHP put_VVN in_IN an_DT appearance_NN ,_, first_RB a_DT passenger_NN ,_, now_RB 
+my_PP$ communications_NNS officer_NN and_CC a_DT guard_NN have_VHP gone_VVN missing_VVG ._SENT Two_CD ,_, if_IN not_RB 
+all_DT three_CD ,_, murdered_VVN ._SENT You_PP ,_, standing_VVG there_RB in_IN your_PP$ divine_JJ state_NN of_IN 
+innocence_NN ,_, you_PP ca_MD n't_RB tell_VV me_PP what_WP 's_VBZ happening_VVG ,_, can_MD you_PP ?_SENT 
+MEL_NN :_: I_PP can_MD ._SENT The_DT answer_NN 's_POS simple_JJ enough_NN ._SENT You_PP 've_VHP got_VVN a_DT killer_NN on_IN board_NN ._SENT 
+(_( Down_RB in_IN the_DT Hydroponics_NP Centre_NP ,_, a_DT Mogarian_NP is_VBZ creeping_VVG around_RP ._SENT It_PP 
+picks_VVZ up_RP a_DT leaf_NN ,_, then_RB stops_VVZ to_TO listen_VV to_TO a_DT noise_NN ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+(_( The_DT Doctor_NP and_CC Mel_NP walk_VVP past_IN the_DT guard_NN on_IN duty_NN 
+outside_IN the_DT Isolation_NN room_NN ,_, then_RB round_VV the_DT corner_NN ._SENT )_) 
+MEL_NN :_: Look_NN ,_, Doctor_NP ,_, you_PP ca_MD n't_RB just_RB play_VV a_DT passive_JJ role_NN ._SENT We_PP were_VBD sent_VVN 
+for_IN ,_, remember_VV ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP cogitating_VVG ._SENT 
+MEL_NN :_: About_RB what_WP ?_SENT 
+DOCTOR_NN :_: Whether_IN his_PP$ job_NN is_VBZ to_TO keep_VV unwanted_JJ visitors_NNS out_IN or_CC 
+MEL_NN :_: Keep_VV someone_NN in_IN ._SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT Intriguing_JJ ,_, is_VBZ n't_RB it_PP ._SENT 
+MEL_NN :_: Does_VVZ seem_VV strange_JJ ,_, I_PP admit_VVP ._SENT An_DT armed_JJ guard_NN outside_IN an_DT Isolation_NN 
+Room_NN ._SENT 
+[_SYM Cargo_NP hold_NN ]_SYM 
+(_( A_DT Mogarian_NP hides_NNS ._SENT )_) 
+BRUCHNER_NP :_: No_DT matter_NN how_WRB you_PP and_CC Professor_NP Lasky_NP rationalise_VV the_DT 
+situation_NN ,_, we_PP should_MD never_RB have_VH proceeded_VVN to_TO the_DT point_NN we_PP 've_VHP reached_VVN ._SENT 
+DOLAND_NP :_: How_WRB you_PP became_VVD a_DT scientist_NN ,_, Bruchner_NP ,_, baffles_VVZ me_PP ._SENT You_PP have_VHP the_DT 
+temperament_NN of_IN an_DT overcautious_JJ rabbit_NN ._SENT Did_VVD you_PP leave_VVP the_DT gates_NNS open_VVP ?_SENT 
+[_SYM Hydroponics_NP centre_NN ]_SYM 
+BRUCHNER_NP :_: Doland_NP ,_, the_DT pods_NNS !_SENT 
+(_( The_DT pods_NNS have_VHP burst_VVN open_RP ._SENT )_) 
+BRUCHNER_NP :_: Every_DT one_CD of_IN them_PP ._SENT Empty_JJ ._SENT 
+DOLAND_NN :_: Some_DT fool_NN must_MD have_VH introduced_VVN high_JJ intensity_NN light_NN into_IN the_DT 
+Centre_NP ._SENT 
+BRUCHNER_NP :_: We_PP 're_VBP confronted_VVN with_IN a_DT catastrophe_NN and_CC that_DT 's_VBZ your_PP$ reaction_NN ?_SENT 
+Do_VVP n't_RB you_PP realise_VVP what_WP 's_VHZ been_VBN unleashed_VVN ?_SENT 
+[_SYM Outside_IN the_DT Isolation_JJ room_NN ]_SYM 
+(_( The_DT guard_NN hands_VVZ another_DT rejected_VVN meal_NN to_TO Janet_NP ._SENT )_) 
+RUDGE_NN :_: Not_RB again_RB ._SENT 
+JANET_NP :_: What_WP 's_VBZ going_VVG on_RP in_IN there_RB ?_SENT 
+RUDGE_NP :_: Do_VVP n't_RB ask_VV me_PP ,_, I_PP 'm_VBP only_RB the_DT Security_NP officer_NN ._SENT 
+[_SYM Lounge_NP ]_SYM 
+(_( Lasky_NP and_CC Kimber_NP are_VBP sitting_VVG reading_NN ._SENT )_) 
+MEL_NN :_: Where_WRB are_VBP they_PP ?_SENT 
+DOCTOR_NN :_: Where_WRB are_VBP who_WP ?_SENT 
+MEL_NN :_: You_PP know_VVP exactly_RB what_WP I_PP mean_VVP ._SENT Where_WRB are_VBP the_DT seeds_NNS ?_SENT The_DT ones_NNS you_PP 
+picked_VVN up_RP in_IN the_DT wrecked_VVN cabin_NN ,_, or_CC did_VVD you_PP think_VVP I_PP 'd_VHD forgotten_VVN ._SENT 
+(_( The_DT Doctor_NP takes_VVZ them_PP from_IN his_PP$ pocket_NN but_CC holds_VVZ them_PP out_RP of_IN Mel_NP 's_POS 
+reach_VV ._SENT )_) 
+DOCTOR_NN :_: Uh_UH huh_NP ._SENT 
+MEL_NN :_: Oh_UH ,_, come_VV on_RP ._SENT 
+DOCTOR_NN :_: What_WP do_VVP you_PP want_VVP them_PP for_IN ?_SENT 
+MEL_NN :_: Professor_NP Lasky_NP ._SENT She_PP 's_VBZ an_DT agronomist_NN ._SENT I_PP 'm_VBP going_VVG to_TO ask_VV her_PP ._SENT 
+DOCTOR_NN :_: Is_VBZ she_PP ?_SENT An_DT agronomist_NN ,_, huh_NP ?_SENT You_PP 'd_MD better_RBR leave_VV me_PP to_TO cope_VV with_IN 
+this_DT ._SENT 
+MEL_NN :_: You_PP ?_SENT 
+DOCTOR_NN :_: Mmm_NP ._SENT This_DT is_VBZ a_DT situation_NN that_WDT requires_VVZ tact_NN and_CC finesse_NN ._SENT 
+Fortunately_RB ,_, I_PP am_VBP blessed_VVN with_IN both_DT ._SENT 
+(_( He_PP goes_VVZ over_RP to_TO the_DT Professor_NP ._SENT )_) 
+DOCTOR_NN :_: Professor_NP Lasky_NP ._SENT 
+LASKY_NP :_: Oh_UH ,_, it_PP 's_VBZ you_PP ,_, the_DT comedian_NN ._SENT What_WP do_VVP you_PP want_VVP ?_SENT 
+DOCTOR_NN :_: I_PP understand_VVP that_IN/that you_PP 're_VBP an_DT agronomist_NN ._SENT 
+LASKY_NP :_: A_DT thremmatologist_NN ,_, to_TO be_VB precise_JJ ._SENT 
+DOCTOR_NN :_: A_DT thremmatologist_NN ?_SENT Then_RB you_PP 're_VBP well_RB qualified_VVN to_TO tell_VV me_PP about_RB 
+these_DT ._SENT 
+(_( The_DT Doctor_NP shows_VVZ her_PP the_DT Demeter_NP seeds_NNS ._SENT )_) 
+LASKY_NP :_: Stewardess_NN !_SENT Stewardess_NN !_SENT 
+(_( Janet_NP comes_VVZ over_RP ._SENT )_) 
+JANET_NN :_: Something_NN wrong_NN ,_, Professor_NP ?_SENT 
+LASKY_NP :_: Fetch_VV the_DT Security_NP officer_NN ._SENT 
+JANET_NN :_: Can_MD I_PP help_VV ?_SENT 
+LASKY_NP :_: At_IN once_RB !_SENT 
+JANET_NN :_: May_MD I_PP be_VB told_VVN what_WP 's_VBZ wrong_JJ ,_, Professor_NP ?_SENT 
+LASKY_NP :_: This_DT man_NN 's_VBZ a_DT thief_NN ._SENT 
+(_( Janet_NP uses_VVZ her_PP$ comm_NNS ._SENT device_NN ._SENT )_) 
+JANET_NP :_: Mister_NP Rudge_NP to_TO the_DT passenger_NN lounge_NN ,_, please_UH ._SENT 
+MEL_NN :_: Tact_NN ._SENT Finesse_NN ._SENT Now_RB what_WP have_VHP you_PP landed_VVD us_PP 
+in_RB ?_SENT 
+[_SYM Hydroponics_NP Centre_NP ]_SYM 
+(_( In_IN the_DT doorway_NN to_TO the_DT small_JJ lab_NN at_IN the_DT back_NN ._SENT )_) 
+BRUCHNER_NP :_: What_WP was_VBD that_DT ?_SENT 
+(_( Something_NN runs_NNS away_RB ._SENT )_) 
+DOLAND_NN :_: Nothing_NN ._SENT Pull_VV yourself_PP together_RB ,_, Bruchner_NP ._SENT 
+BRUCHNER_NP :_: There_EX 's_VBZ someone_NN in_IN the_DT hold_NN ._SENT 
+DOLAND_NP :_: Bruchner_NP ,_, you_PP 're_VBP allowing_VVG hysteria_NN to_TO take_VV 
+BRUCHNER_NP :_: I_PP know_VVP what_WP I_PP saw_VVD ._SENT There_EX was_VBD a_DT movement_NN ._SENT 
+(_( The_DT Mogarian_JJ hides_NNS behind_IN some_DT barrels_NNS ._SENT Eventually_RB he_PP makes_VVZ a_DT 
+break_VV for_IN it_PP ,_, and_CC Bruchner_NP and_CC Doland_NP give_VVP chase_NN ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+LASKY_NP :_: That_WDT puts_VVZ an_DT entirely_RB different_JJ complexion_NN 
+on_IN the_DT situation_NN ._SENT Pity_VV your_PP$ friend_NN the_DT comedian_NN was_VBD n't_RB as_RB lucid_JJ ._SENT 
+DOCTOR_NN :_: I_PP never_RB had_VHD a_DT chance_NN to_TO be_VB 
+LASKY_NP :_: I_PP ca_MD n't_RB understand_VV why_WRB they_PP were_VBD in_IN cabin_NN six_CD ,_, or_CC why_WRB a_DT 
+mineralogist_NN would_MD steal_VV them_PP ._SENT 
+MEL_NN :_: Are_VBP they_PP special_JJ ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: Yes_UH ,_, just_RB what_WP I_PP was_VBD going_VVG to_TO 
+LASKY_NP :_: Demeter_NP seeds_NNS ?_SENT Yes_UH ,_, they_PP are_VBP ._SENT They_PP represent_VVP a_DT tremendous_JJ 
+advance_NN ,_, a_DT colossal_JJ leap_NN ._SENT 
+DOCTOR_NN :_: Do_VV they_PP ?_SENT 
+MEL_NN :_: What_WP did_VVD you_PP call_VVP them_PP ?_SENT The_DT Demeter_NP seeds_NNS ?_SENT 
+DOCTOR_NN :_: The_DT name_NN of_IN a_DT god_NN 
+LASKY_NP :_: Food_NN of_IN the_DT gods_NNS ._SENT Bruchner_NP ,_, my_PP$ assistant_NN ,_, bit_NN of_IN a_DT romantic_JJ ,_, 
+highly_RB strung_VVN ,_, he_PP christened_VVD them_PP ._SENT 
+(_( Rudge_NP enters_VVZ and_CC talks_VVZ with_IN Janet_NP ._SENT )_) 
+DOCTOR_NN :_: That_WDT still_RB does_VVZ n't_RB explain_VV 
+LASKY_NP :_: He_PP was_VBD n't_RB just_RB being_VBG pretentious_JJ ._SENT They_PP 'll_MD increase_VV potential_JJ 
+yield_VV threefold_RB ._SENT And_CC even_RB more_JJR ,_, they_PP 'll_MD grow_VV in_IN desert_NN sand_NN ._SENT 
+RUDGE_NP :_: Er_UH ._SENT 
+LASKY_NP :_: What_WP is_VBZ it_PP ,_, man_UH ?_SENT Do_VVP n't_RB stand_VV there_RB hovering_VVG ._SENT 
+DOCTOR_NN :_: You_PP sent_VVD for_IN him_PP ._SENT 
+LASKY_NP :_: I_PP did_VVD ?_SENT Oh_UH ,_, yes_UH ._SENT Not_RB to_TO worry_VV ._SENT 
+RUDGE_NN :_: But_CC I_PP do_VVP worry_NN ,_, especially_RB when_WRB serious_JJ allegations_NNS are_VBP made_VVN ._SENT 
+You_PP accused_VVD the_DT Doctor_NP of_IN being_VBG a_DT thief_NN ._SENT 
+LASKY_NP :_: Oh_UH ,_, that_RB ._SENT A_DT mistake_NN ._SENT The_DT fellow_NN may_MD be_VB a_DT fool_NN ,_, but_CC he_PP 's_VBZ not_RB a_DT 
+criminal_JJ ._SENT 
+(_( The_DT Doctor_NP huffs_NNS ,_, tosses_VVZ a_DT Demeter_NP seed_NN into_IN the_DT air_NN ,_, catches_VVZ it_PP in_RP 
+his_PP$ mouth_NN and_CC eats_VVZ it_PP ._SENT )_) 
+[_SYM Bridge_NP ]_SYM 
+TRAVERS_NNS :_: Project_VV our_PP$ course_NN through_IN the_DT sector_NN 
+ahead_RB ._SENT Put_VV us_PP onto_IN a_DT straighter_JJR course_NN ._SENT Reduce_VV the_DT diversion_NN to_TO a_DT point_NN 
+naught_RB three_CD safety_NN margin_NN ._SENT 
+OFFICER_NN :_: I_PP estimate_VVP that_WDT brings_VVZ our_PP$ ETA_NP forward_NN by_IN seventy_CD two_CD hours_NNS ,_, 
+sir_NN ._SENT 
+TRAVERS_NNS :_: Seventy_CD two_CD hours_NNS closer_JJR to_TO getting_VVG expert_NN investigators_NNS on_RB 
+board_NN ._SENT Carry_VV on_IN ._SENT 
+[_SYM Lounge_NP ]_SYM 
+(_( Two_CD Mogarians_NP are_VBP playing_VVG Space_NN Invaders_NNS on_IN a_DT 
+hologram_NN screen_NN between_IN them_PP ._SENT The_DT game_NN finishes_NNS and_CC the_DT screen_NN 
+vanishes_NNS ._SENT Janet_NP brings_VVZ Mel_NP and_CC the_DT Doctor_NP tea_NN and_CC biscuits_NNS ._SENT )_) 
+MEL_NN :_: No_UH ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: No._NN 
+(_( The_DT Doctor_NP lets_VVZ go_VV of_IN the_DT biscuit_NN ,_, and_CC Janet_NP moves_VVZ on_IN ._SENT )_) 
+KIMBER_NP :_: No_UH ,_, thank_VV you_PP ._SENT 
+(_( The_DT liner_NN judders_NNS ,_, and_CC Kimber_NP staggers_NNS ._SENT Commodore_NP Travers_NP catches_VVZ 
+him_PP ._SENT )_) 
+TRAVERS_NNS :_: No_DT need_NN for_IN concern_NN ._SENT Just_RB a_DT navigational_JJ adjustment_NN ._SENT As_IN you_PP 
+can_MD see_VV ,_, it_PP does_VVZ n't_RB even_RB require_VV my_PP$ presence_NN on_IN the_DT bridge_NN ._SENT Now_RB ,_, for_IN 
+your_PP$ information_NN ,_, the_DT change_NN of_IN course_NN will_MD bring_VV our_PP$ landfall_NN forward_RB 
+by_IN seventy_CD two_CD hours_NNS ._SENT 
+(_( The_DT Mogarians_NP chatter_NN at_IN him_PP ._SENT )_) 
+TRAVERS_NNS :_: Switch_VV on_IN your_PP$ translator_NN ._SENT 
+ATZA_NN :_: Surely_RB we_PP are_VBP approaching_VVG the_DT sector_NN with_IN the_DT Black_NP Hole_NP of_IN 
+Tartarus_NP ._SENT 
+TRAVERS_NNS :_: That_WDT 's_VBZ correct_JJ ._SENT 
+ATZA_NN :_: If_IN you_PP are_VBP saving_VVG time_NN ,_, we_PP must_MD be_VB going_VVG closer_RBR to_TO the_DT black_NN 
+hole_NN ._SENT 
+(_( A_DT third_JJ Mogarian_NP joins_VVZ them_PP ._SENT )_) 
+TRAVERS_NNS :_: There_EX 's_VBZ no_DT danger_NN ._SENT The_DT safety_NN margin_NN is_VBZ more_JJR than_IN adequate_JJ ._SENT 
+(_( The_DT second_JJ Mogarian_NP turns_VVZ on_IN his_PP$ translator_NN ._SENT )_) 
+ORTEZO_NP :_: That_WDT is_VBZ hardly_RB a_DT denial_NN ._SENT 
+(_( The_DT third_JJ Mogarian_NP speaks_VVZ without_IN his_PP$ translator_NN on_RP ._SENT The_DT Doctor_NP 
+notices_NNS ._SENT )_) 
+ENZU_NN :_: Simply_RB a_DT bromide_NN ._SENT 
+TRAVERS_NNS :_: You_PP sought_VVD reassurance_NN ,_, I_PP 've_VHP given_VVN it_PP ._SENT 
+ORTEZO_NN :_: That_DT word_NN reassurance_NN ,_, bears_VVZ sinister_JJ undertones_NNS for_IN we_PP 
+Mogarians_NP ._SENT 
+TRAVERS_NP :_: Indeed_UH ?_SENT 
+ORTEZO_NN :_: It_PP is_VBZ the_DT word_NN the_DT Earthlings_NNS used_VVD when_WRB first_JJ they_PP persuaded_VVD us_PP 
+to_TO allow_VV them_PP to_TO sink_VV mines_NNS on_IN Mogar_NP ._SENT 
+ATZA_NN :_: A_DT limited_JJ concession_NN was_VBD all_DT they_PP requested_VVD ,_, and_CC now_RB they_PP are_VBP 
+stripping_VVG our_PP$ planet_NN bare_JJ ._SENT 
+ENZU_NN :_: Truth_NN is_VBZ a_DT stranger_NN to_TO the_DT Earthlings_NNS ._SENT 
+TRAVERS_NNS :_: If_IN you_PP 'll_MD excuse_VV me_PP ,_, politics_NNS do_VVP not_RB come_VV into_IN my_PP$ realm_NN of_IN 
+influence_NN ._SENT 
+(_( Doland_NP and_CC Bruchner_NP are_VBP talking_VVG to_TO Janet_NP ._SENT )_) 
+DOCTOR_NN :_: Then_RB they_PP should_MD ._SENT 
+(_( Travers_NP leaves_VVZ ._SENT )_) 
+ATZA_NP :_: Who_WP are_VBP you_PP ?_SENT Another_DT prospector_NN ?_SENT 
+DOCTOR_NN :_: Only_RB of_IN knowledge_NN ._SENT I_PP have_VHP visited_VVN your_PP$ planet_NN ._SENT It_PP 's_VBZ very_RB rich_JJ 
+in_IN natural_JJ resources_NNS ._SENT 
+ORTEZO_NP :_: Which_WDT will_MD soon_RB be_VB exhausted_VVN if_IN these_DT Earthlings_NNS are_VBP not_RB 
+restrained_JJ ._SENT They_PP are_VBP going_VVG through_IN the_DT universe_NN like_IN a_DT plague_NN of_IN 
+interplanetary_JJ locusts_NNS ._SENT 
+[_SYM Trial_NP room_NN ]_SYM 
+VALEYARD_NP :_: Are_VBP we_PP to_TO be_VB subjected_VVN to_TO a_DT dissertation_NN 
+on_IN interplanetary_JJ politics_NNS now_RB ,_, Sagacity_NP ?_SENT 
+DOCTOR_NN :_: Is_VBZ that_IN/that all_RB you_PP think_VVP it_PP was_VBD ?_SENT 
+VALEYARD_NN :_: Mining_NN rights_NNS ,_, Mogarians_NP versus_CC Earthlings_NP ._SENT What_WP else_RB would_MD 
+you_PP call_VVP that_RB ?_SENT 
+DOCTOR_NN :_: You_PP are_VBP so_RB pathetically_RB intent_JJ on_IN incriminating_VVG me_PP you_PP have_VHP n't_RB 
+been_VBN watching_VVG what_WP 's_VBZ going_VVG on_RP !_SENT 
+VALEYARD_NN :_: My_PP$ eyes_NNS never_RB left_VVD the_DT screen_NN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, you_PP may_MD have_VH been_VBN selected_VVN to_TO prosecute_VV me_PP ,_, Valeyard_NP ,_, but_RB 
+I_PP hope_VVP you_PP 'll_MD never_RB be_VB chosen_VVN to_TO defend_VV me_PP ._SENT 
+VALEYARD_NN :_: An_DT occasion_NN that_WDT will_MD not_RB arise_VV ,_, Doctor_NP ._SENT Your_PP$ lives_NNS are_VBP 
+forfeit_VV ,_, as_IN I_PP have_VHP ably_RB proven_VVN ._SENT 
+DOCTOR_NN :_: Something_NN vital_JJ just_RB happened_VVN in_IN that_DT scene_NN ,_, and_CC the_DT Valeyard_NP 
+perversely_RB switched_VVN our_PP$ attention_NN to_TO more_JJR trivial_JJ matters_NNS ._SENT 
+VALEYARD_NN :_: Then_RB for_IN pity_NN 's_POS sake_NN tell_VV us_PP what_WP it_PP was_VBD that_RB happened_VVN and_CC 
+enjoy_VV your_PP$ moment_NN of_IN triumph_NN ._SENT 
+DOCTOR_NN :_: Triumph_NN ?_SENT There_EX 's_VBZ no_DT cause_NN for_IN celebration_NN ._SENT One_CD of_IN the_DT occupants_NNS 
+of_IN that_DT lounge_NN is_VBZ about_RB to_TO die_VV ._SENT 
+VALEYARD_NN :_: Another_DT murder_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT And_CC if_IN you_PP had_VHD been_VBN watching_VVG ,_, you_PP would_MD know_VV who_WP was_VBD the_DT 
+intended_JJ victim_NN ._SENT 
+INQUISITOR_NN :_: Gentlemen_NNS ,_, is_VBZ this_DT case_NN to_TO be_VB resolved_VVN with_IN a_DT battle_NN of_IN 
+words_NNS or_CC to_TO be_VB conducted_VVN via_IN the_DT Matrix_NP ?_SENT 
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT three_CD Mogarians_NNS are_VBP sitting_VVG at_IN a_DT table_NN ._SENT Janet_NP 
+brings_VVZ Enzu_NP a_DT drink_NN and_CC he_PP sips_VVZ it_PP through_IN a_DT straw_NN ._SENT 
+Travers_NP and_CC Rudge_NP are_VBP on_IN an_DT upper_JJ catwalk_NN ,_, watching_VVG ._SENT )_) 
+TRAVERS_NNS :_: You_PP 've_VHP drawn_VVN a_DT blank_NN where_WRB Edwardes_NP is_VBZ concerned_VVN ?_SENT 
+RUDGE_NP :_: Yes_UH ,_, sir_NN ._SENT Perhaps_RB we_PP should_MD search_VV the_DT passenger_NN cabins_NNS ._SENT 
+TRAVERS_NNS :_: No._NN The_DT passengers_NNS are_VBP already_RB uneasy_JJ ._SENT Do_VVP you_PP want_VVP them_PP to_TO 
+realise_VV they_PP 're_VBP trapped_VVN with_IN a_DT killer_NN on_IN the_DT loose_JJ ?_SENT 
+(_( Professor_NP Lasky_NP gets_VVZ up_RB and_CC goes_VVZ to_TO whisper_VV with_IN Bruchner_NP and_CC Doland_NP ._SENT )_) 
+
+DOCTOR_NN :_: You_PP 're_VBP very_RB quiet_JJ ,_, Mel_NP ._SENT Not_RB quite_PDT your_PP$ style_NN to_TO go_VV into_IN a_DT brown_NN 
+study_NN ._SENT 
+MEL_NN :_: Brown_NP study_NN ?_SENT Is_VBZ the_DT vocabulary_NN of_IN all_PDT the_DT Time_NP Lords_NPS so_RB 
+antediluvian_JJ ?_SENT 
+(_( Enzu_NP gets_VVZ up_RP ,_, choking_VVG then_RB collapses_VVZ ._SENT The_DT Doctor_NP rushes_VVZ over_IN and_CC tries_VVZ 
+to_TO remove_VV his_PP$ face_NN plate_NN ._SENT Travers_NP stops_VVZ him_PP ._SENT )_) 
+TRAVERS_NP :_: Are_VBP you_PP trying_VVG to_TO kill_VV him_PP ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP trying_VVG to_TO save_VV him_PP !_SENT 
+ATZA_NN :_: He_PP will_MD die_VV if_IN you_PP remove_VV his_PP$ helmet_NN ._SENT 
+RUDGE_NN :_: Mogarians_NNS ca_MD n't_RB breathe_VV oxygen_NN ._SENT Surely_RB you_PP 're_VBP aware_JJ of_IN that_DT ?_SENT 
+DOCTOR_NN :_: He_PP 's_VBZ not_RB a_DT Mogarian_NP !_SENT 
+MEL_NN :_: He_PP 's_VBZ not_RB ?_SENT 
+TRAVERS_NNS :_: Then_RB who_WP is_VBZ he_PP ?_SENT 
+DOCTOR_NN :_: If_IN you_PP 'll_MD kindly_RB allow_VV me_PP to_TO remove_VV his_PP$ face_NN plate_NN ?_SENT I_PP fear_VVP this_DT 
+poor_JJ fellow_NN is_VBZ beyond_IN help_NN ._SENT 
+JANET_NN :_: It_PP 's_VBZ Grenville_NP !_SENT 
+DOCTOR_NN :_: Grenville_NP ?_SENT 
+RUDGE_NN :_: The_DT passenger_NN from_IN cabin_NN six_CD ._SENT 
+TRAVERS_NNS :_: The_DT man_NN who_WP 's_VBZ supposed_VVN to_TO have_VH been_VBN dumped_VVN in_IN the_DT pulveriser_NN ._SENT 
+DOCTOR_NN :_: His_PP$ name_NN is_VBZ n't_RB Grenville_NP ._SENT It_PP 's_VBZ Hallett_NP ._SENT 
+(_( Travers_NP checks_NNS for_IN a_DT pulse_NN then_RB uses_VVZ his_PP$ comm_NP ._SENT )_) 
+TRAVERS_NNS :_: Send_VV a_DT stretcher_NN party_NN to_TO the_DT lounge_NN ._SENT 
+[_SYM Bridge_NP ]_SYM 
+OFFICER_NN :_: Yes_UH ,_, sir_NN ._SENT I_PP 'll_MD organise_VV that_IN/that immediately_RB ._SENT 
+
+[_SYM Lounge_NP ]_SYM 
+TRAVERS_NNS :_: Carry_VV on_IN ,_, Mister_NP Rudge_NP ._SENT 
+(_( Travers_NP leaves_VVZ ._SENT )_) 
+KIMBER_NN :_: Poor_NP Mister_NP Hallett_NP ._SENT I_PP knew_VVD it_PP was_VBD Hallett_NP ._SENT I_PP recognised_VVD him_PP ,_, 
+remember_VV ?_SENT 
+DOCTOR_NN :_: You_PP recognised_VVD him_PP ?_SENT 
+KIMBER_NP :_: Yes_UH ._SENT 
+RUDGE_NN :_: But_CC he_PP denied_VVD it_PP ._SENT He_PP insisted_VVD his_PP$ name_NN was_VBD Grenville_NP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, he_PP would_MD ._SENT 
+MEL_NN :_: Well_RB ,_, whether_IN his_PP$ name_NN 's_POS Grenville_NP or_CC Hallett_NP ,_, why_WRB did_VVD he_PP stage_NN 
+his_PP$ own_JJ death_NN in_IN the_DT pulveriser_NN ?_SENT 
+DOCTOR_NN :_: This_DT gentleman_NN 's_VBZ just_RB given_VVN us_PP the_DT answer_NN ._SENT 
+KIMBER_NN :_: I_PP have_VHP ?_SENT 
+DOCTOR_NN :_: Hallett_NP had_VHD presumably_RB been_VBN assigned_VVN to_TO investigate_VV something_NN 
+or_CC somebody_NN on_IN this_DT ship_NN ._SENT Then_RB he_PP had_VHD the_DT bad_JJ fortune_NN to_TO be_VB recognised_VVN ._SENT 
+A_DT chance_NN encounter_NN that_WDT put_VVD his_PP$ entire_JJ mission_NN in_IN jeopardy_NN ._SENT 
+RUDGE_NP :_: Are_VBP you_PP saying_VVG we_PP had_VHD an_DT undercover_JJ agent_NN aboard_RB and_CC I_PP was_VBD n't_RB 
+informed_VVN ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, you_PP may_MD have_VH been_VBN a_DT suspect_NN ._SENT 
+RUDGE_NN :_: Me_FW ?_SENT 
+DOCTOR_NN :_: Together_RB with_IN everyone_NN else_RB on_IN this_DT voyage_NN ._SENT 
+RUDGE_NN :_: Is_VBZ all_PDT this_DT guesswork_NN ,_, or_CC have_VH you_PP any_DT more_JJR tricks_NNS up_IN your_PP$ 
+sleeve_NN ?_SENT 
+DOCTOR_NN :_: No_DT tricks_NNS ,_, Mister_NP Rudge_NP ._SENT I_PP knew_VVD Hallett_NP ,_, and_CC admired_VVD him_PP ._SENT But_CC I_PP 
+assure_VV you_PP ,_, until_IN I_PP removed_VVD that_IN/that face_NN plate_NN I_PP had_VHD no_DT idea_NN he_PP was_VBD on_IN 
+board_NN ._SENT 
+RUDGE_NN :_: All_DT nice_JJ and_CC lily_NN white_NN ,_, Doctor_NP ,_, but_CC it_PP does_VVZ leave_VV one_PP nasty_JJ 
+little_JJ problem_NN ._SENT 
+DOCTOR_NN :_: It_PP does_VVZ ?_SENT 
+RUDGE_NN :_: How_WRB did_VVD you_PP know_VVP the_DT dead_JJ man_NN was_VBD n't_RB a_DT Mogarian_NP ?_SENT 
+[_SYM Trial_NP room_NN ]_SYM 
+VALEYARD_NP :_: Yes_UH ,_, how_WRB did_VVD you_PP know_VVP ?_SENT Have_VHP you_PP been_VBN 
+editing_VVG the_DT Matrix_NP and_CC denying_VVG the_DT court_NN all_RB the_DT evidence_NN to_TO which_WDT it_PP 
+is_VBZ entitled_VVN ?_SENT 
+INQUISITOR_NN :_: That_WDT would_MD be_VB a_DT serious_JJ offence_NN ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: At_IN the_DT risk_NN of_IN appearing_VVG impertinent_JJ ,_, Sagacity_NP ,_, I_PP would_MD point_VV 
+out_RB that_IN/that you_PP ,_, the_DT Valeyard_NP ,_, and_CC everyone_NN here_RB present_JJ could_MD have_VH 
+acquired_VVN the_DT same_JJ knowledge_NN ._SENT 
+INQUISITOR_NN :_: Perhaps_RB we_PP may_MD hear_VV your_PP$ explanation_NN ._SENT 
+DOCTOR_NN :_: With_IN respect_NN ,_, you_PP will_MD not_RB hear_VV it_PP from_IN me_PP ._SENT 
+(_( The_DT Doctor_NP turns_VVZ on_IN the_DT Matrix_NP screen_NN ._SENT It_PP has_VHZ gone_VVN back_RB to_TO the_DT point_NN 
+where_WRB the_DT Mogarians_NP first_JJ approach_NN Travers_NP about_IN the_DT course_NN 
+correction_NN ._SENT )_) 
+TRAVERS_NN [_SYM on_IN screen_NN ]_SYM :_: Switch_NN on_IN your_PP$ translator_NN ._SENT 
+ATZA_NN [_SYM on_IN screen_NN ]_SYM :_: Surely_RB we_PP are_VBP approaching_VVG the_DT sector_NN with_IN the_DT Black_NP 
+Hole_NN of_IN Tartarus_NP ._SENT 
+(_( The_DT Doctor_NP winds_NNS forward_RB ._SENT )_) 
+TRAVERS_NN [_SYM on_IN screen_NN ]_SYM :_: There_EX 's_VBZ no_DT danger_NN ._SENT The_DT safety_NN margin_NN is_VBZ more_JJR than_IN 
+adequate_JJ ._SENT 
+(_( The_DT second_JJ Mogarian_NP turns_VVZ on_IN his_PP$ translator_NN ._SENT )_) 
+ORTEZO_NN [_SYM on_IN screen_NN ]_SYM :_: That_WDT is_VBZ hardly_RB a_DT denial_NN ._SENT 
+ENZU_NN [_SYM on_IN screen_NN ]_SYM :_: Simply_RB a_DT bromide_NN ._SENT 
+DOCTOR_NN :_: As_IN you_PP saw_VVD ,_, the_DT bogus_JJ Mogarian_NP did_VVD not_RB switch_VV on_IN his_PP$ 
+translator_NN ._SENT 
+VALEYARD_NN :_: Very_RB astute_JJ of_IN you_PP ,_, Doctor_NP ,_, but_CC do_VVP n't_RB stop_VV there_RB ._SENT Let_VV us_PP 
+assume_VV the_DT murdered_VVN man_NN was_VBD responsible_JJ for_IN the_DT mayday_NN call_NN ._SENT Perhaps_RB 
+you_PP 'll_MD now_RB direct_VV your_PP$ deductive_JJ gifts_NNS towards_IN justifying_VVG his_PP$ 
+extraordinary_JJ behaviour_NN ._SENT 
+INQUISITOR_NN :_: Yes_UH ,_, the_DT investigator_NN Hallett_NP 's_POS methods_NNS were_VBD very_RB 
+unorthodox_JJ ._SENT 
+DOCTOR_NN :_: Agreed_VVD ,_, and_CC I_PP am_VBP indebted_JJ to_TO the_DT prosecutor_NN for_IN putting_VVG his_PP$ 
+finger_NN on_IN the_DT nub_NN of_IN my_PP$ defence_NN ,_, the_DT reason_NN why_WRB I_PP could_MD no_RB longer_RBR stay_VV 
+on_IN the_DT sidelines_NNS ._SENT 
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT Doctor_NP and_CC Mel_NP are_VBP looking_VVG down_RP from_IN the_DT 
+catwalk_NN ._SENT )_) 
+MEL_NN :_: Anyone_NN there_EX could_MD have_VH poisoned_VVN his_PP$ drink_NN ._SENT 
+DOCTOR_NN :_: Providing_VVG us_PP with_IN a_DT plethora_NN of_IN suspects_NNS ._SENT 
+MEL_NN :_: Us_PP ?_SENT Do_VV I_PP detect_VV a_DT commitment_NN at_IN last_JJ ?_SENT Because_IN of_IN Hallett_NP 's_POS death_NN ?_SENT 
+You_PP said_VVD you_PP admired_VVD him_PP ._SENT 
+DOCTOR_NN :_: I_PP did_VVD ._SENT He_PP was_VBD one_CD of_IN a_DT rare_JJ breed_NN ._SENT A_DT maverick_NN ._SENT Even_RB the_DT highly_RB 
+organised_VVN society_NN of_IN the_DT thirtieth_JJ century_NN has_VHZ need_NN of_IN his_PP$ kind_NN ._SENT He_PP 'll_MD 
+be_VB missed_VVN ._SENT And_CC he_PP left_VVD these_DT seeds_NNS for_IN me_PP to_TO find_VV ._SENT 
+MEL_NN :_: To_TO lead_VV you_PP to_TO where_WRB I_PP 've_VHP been_VBN telling_VVG you_PP all_DT along_RP ._SENT The_DT 
+Hydroponic_JJ Centre_NP ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( The_DT guard_NN on_IN duty_NN at_IN the_DT Isolation_NN room_NN goes_VVZ to_TO 
+investigate_VV a_DT rattling_VVG grill_NN ._SENT )_) 
+BRUCHNER_NP :_: What_WP are_VBP you_PP doing_VVG away_RB from_IN your_PP$ post_NN ?_SENT The_DT Isolation_NN room_NN is_VBZ 
+under_IN no_DT circumstances_NNS to_TO be_VB left_VVN unguarded_JJ ._SENT If_IN it_PP happens_VVZ again_RB ,_, I_PP 
+shall_MD report_VV you_PP to_TO the_DT Commodore_NP ._SENT 
+[_SYM Cargo_NP hold_NN ]_SYM 
+MEL_NN :_: Hallett_NP must_MD have_VH sent_VVN that_DT mayday_NN call_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, he_PP wanted_VVD me_PP here_RB as_IN a_DT catalyst_NN ,_, and_CC to_TO divert_VV attention_NN 
+away_RB from_IN his_PP$ own_JJ activities_NNS ._SENT 
+MEL_NN :_: You_PP 'd_MD do_VV that_IN/that without_IN being_VBG asked_VVN ._SENT 
+DOCTOR_NN :_: Hallett_NP was_VBD an_DT unorthodox_JJ man_NN ,_, but_CC he_PP was_VBD also_RB a_DT subtle_JJ man_NN ._SENT So_RB 
+why_WRB did_VVD he_PP resort_VVP to_TO such_JJ blunderbuss_NN tactics_NNS ?_SENT Why_WRB use_VVP me_PP as_IN a_DT Judas_NN 
+goat_NN ?_SENT 
+MEL_NN :_: Well_RB ,_, he_PP was_VBD running_VVG out_RP of_IN time_NN ._SENT The_DT mayday_NN message_NN said_VVD as_RB much_RB ._SENT 
+Perative_JJ traitor_NN be_VB identified_VVN before_IN landing_NN Earth_NN ._SENT I_PP 'd_MD guess_VV the_DT 
+incomplete_JJ word_NN was_VBD imperative_JJ ,_, would_MD n't_RB you_PP ?_SENT 
+DOCTOR_NN :_: Do_VVP you_PP know_VVP ,_, I_PP 've_VHP always_RB envied_VVN you_PP that_DT ._SENT 
+MEL_NN :_: I_PP shall_MD probably_RB regret_VV this_DT ,_, but_CC go_VV on_RP ,_, I_PP 'll_MD buy_VV it_PP ._SENT Envied_VVD me_PP 
+what_WP ?_SENT 
+DOCTOR_NN :_: Your_PP$ amazing_JJ ability_NN for_IN almost_RB total_JJ recall_NN ._SENT 
+MEL_NN :_: Compliments_NNS ._SENT You_PP are_VBP undergoing_VVG a_DT change_NN ._SENT 
+DOCTOR_NN :_: I_PP could_MD have_VH been_VBN comparing_VVG you_PP to_TO an_DT elephant_NN ._SENT Well_UH ,_, 
+figuratively_RB speaking_VVG ._SENT They_PP never_RB forget_VV ._SENT 
+MEL_NN :_: Doctor_NN ,_, I_PP realise_VVP you_PP 're_VBP trying_VVG to_TO take_VV my_PP$ mind_NN off_IN poor_JJ Edwardes_NP ._SENT 
+
+DOCTOR_NN :_: If_IN you_PP 'd_MD rather_RB wait_VV here_RB 
+MEL_NN :_: No._NN 
+[_SYM Hydroponics_NP centre_NN ]_SYM 
+MEL_NN :_: What_WP have_VHP you_PP got_VVN there_RB ?_SENT 
+DOCTOR_NN :_: A_DT leaf_NN from_IN Hallett_NP 's_POS pocket_NN ._SENT 
+MEL_NN :_: I_PP did_VVD n't_RB see_VV you_PP take_VV it_PP ._SENT 
+DOCTOR_NN :_: Ah_UH ha_NP !_SENT Neither_DT did_VVD anyone_NN else_RB ._SENT Another_DT one_CD of_IN my_PP$ tricks_NNS ._SENT 
+(_( He_PP makes_VVZ the_DT leaf_NN disappear_VVP from_IN one_CD hand_NN and_CC reappear_VV in_IN the_DT other_JJ ._SENT )_) 
+DOCTOR_NN :_: What_WP do_VVP you_PP make_VV of_IN these_DT pods_NNS ,_, Mel_NP ?_SENT 
+MEL_NN :_: I_PP 'm_VBP not_RB into_IN agronomy_NN ._SENT Ask_VV the_DT professor_NN ._SENT 
+DOCTOR_NN :_: Ah_UH ._SENT Thremmatology_NN ._SENT The_DT professor_NN said_VVD she_PP was_VBD a_DT 
+thremmatologist_NN ._SENT 
+MEL_NN :_: You_PP 're_VBP going_VVG to_TO have_VH to_TO enlighten_VV me_PP ._SENT It_PP 's_VBZ out_RB of_IN my_PP$ range_NN ._SENT 
+DOCTOR_NN :_: The_DT science_NN of_IN breeding_VVG or_CC propagating_VVG animals_NNS and_CC plants_NNS under_IN 
+domestication_NN ._SENT 
+MEL_NN :_: I_PP 'm_VBP not_RB much_RB wiser_JJR ._SENT 
+DOCTOR_NN :_: Well_RB ,_, think_VVP ,_, Mel_NP ._SENT You_PP 've_VHP got_VVN a_DT good_JJ brain_NN ._SENT Think_VVP ._SENT 
+(_( The_DT Doctor_NP steps_NNS inside_IN an_DT empty_JJ pod_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP wonder_VVP what_WP came_VVD out_RP of_IN this_DT ?_SENT 
+(_( Probably_RB the_DT thing_NN with_IN green-tinged_JJ vision_NN making_VVG its_PP$ way_NN through_IN the_DT 
+service_NN tunnels_NNS of_IN the_DT liner_NN ._SENT )_) 
+[_SYM Gymnasium_NP ]_SYM 
+BRUCHNER_NP :_: Will_MD you_PP end_VV this_DT charade_NN ,_, this_DT pathetic_JJ 
+pretence_NN at_IN normality_NN ._SENT Ca_MD n't_RB you_PP accept_VVP we_PP 're_VBP on_IN the_DT brink_NN of_IN disaster_NN ?_SENT 
+
+DOLAND_NP :_: Bruchner_NP ,_, will_MD you_PP stop_VV panicking_VVG ?_SENT Our_PP$ work_NN must_MD remain_VV secret_JJ 
+whatever_WDT the_DT cost_NN ._SENT 
+BRUCHNER_NP :_: You_PP 're_VBP completely_RB without_IN conscience_NN ,_, Doland_NP ,_, I_PP 'm_VBP aware_JJ of_IN 
+that_IN/that ,_, but_CC I_PP expected_VVD the_DT professor_NN to_TO grasp_VV the_DT enormity_NN of_IN our_PP$ folly_NN ._SENT 
+DOLAND_NN :_: So_RB you_PP 're_VBP suggesting_VVG that_IN/that we_PP jeopardise_VVP years_NNS of_IN scientific_JJ 
+research_NN for_IN the_DT sake_NN of_IN some_DT hypothetical_JJ danger_NN ?_SENT 
+LASKY_NP :_: Exactly_RB ._SENT We_PP 've_VHP no_DT reason_NN to_TO believe_VV the_DT results_NNS of_IN our_PP$ 
+experiments_NNS are_VBP other_JJ than_IN benign_JJ ._SENT 
+BRUCHNER_NP :_: Benign_JJ ?_SENT Have_VHP you_PP been_VBN in_IN the_DT Isolation_NP Room_NP lately_RB ?_SENT 
+LASKY_NP :_: An_DT unfortunate_JJ mishap_NN that_WDT has_VHZ no_DT relevance_NN to_TO this_DT situation_NN ._SENT 
+In_IN any_DT case_NN ,_, it_PP 's_VBZ academic_JJ now_RB ._SENT 
+BRUCHNER_NP :_: I_PP lack_VVP your_PP$ lofty_JJ detachment_NN ._SENT 
+LASKY_NP :_: Do_VVP you_PP also_RB lack_VVP loyalty_NN ,_, Bruchner_NP ,_, to_TO your_PP$ colleagues_NNS ._SENT Before_RB 
+we_PP left_VVD Mogar_NP ,_, we_PP agreed_VVD that_IN/that our_PP$ discovery_NN should_MD be_VB divulged_VVN to_TO no_DT 
+one_CD ,_, no_RB one_CD ,_, until_IN we_PP reached_VVD Earth_NP ._SENT Unless_IN you_PP have_VHP concrete_JJ evidence_NN 
+to_TO prove_VV there_EX is_VBZ danger_NN ,_, I_PP expect_VVP you_PP to_TO keep_VV your_PP$ word_NN ._SENT 
+BRUCHNER_NP :_: You_PP simply_RB do_VVP n't_RB understand_VV ,_, do_VV you_PP ._SENT The_DT crime_NN we_PP are_VBP 
+committing_VVG in_IN the_DT name_NN of_IN science_NN will_MD make_VV us_PP infamous_JJ !_SENT 
+(_( Something_NN is_VBZ watching_VVG them_PP through_IN a_DT grill_NN ._SENT )_) 
+BRUCHNER_NP :_: That_WDT 's_VBZ assuming_VVG there_EX 's_VBZ anyone_NN left_VVN to_TO pass_VV judgement_NN ._SENT 
+[_SYM Outside_JJ cabin_NN 8_CD ]_SYM 
+(_( Just_RB down_RB from_IN the_DT Isolation_NN room_NN ._SENT )_) 
+JANET_NP :_: Decided_VVD to_TO get_VV some_DT rest_NN ,_, Mister_NP Kimber_NP ?_SENT 
+KIMBER_NP :_: Yes_UH ,_, though_IN I_PP doubt_VVP if_IN I_PP 'll_MD sleep_VV ._SENT At_IN my_PP$ age_NN ,_, one_PP does_VVZ n't_RB like_VV 
+to_TO be_VB reminded_VVN of_IN mortality_NN ._SENT 
+JANET_NN :_: May_MD I_PP fetch_VV you_PP a_DT warm_JJ drink_NN ?_SENT It_PP might_MD help_VV ._SENT 
+KIMBER_NN :_: Thank_VV you_PP ._SENT That_DT 's_VBZ very_RB gracious_JJ ._SENT 
+(_( Janet_NP leaves_VVZ ._SENT 
+Inside_IN his_PP$ cabin_NN ,_, something_NN watches_NNS him_PP undress_VVP from_IN the_DT bathroom_NN ._SENT 
+Kimber_NP slides_VVZ the_DT door_NN back_RB and_CC gets_VVZ a_DT thorn_NN stuck_VVN into_IN his_PP$ neck_NN by_IN a_DT 
+hand_NN made_VVD up_RP of_IN leaves_NNS ._SENT He_PP collapses_VVZ ._SENT 
+Janet_NP returns_NNS with_IN the_DT hot_JJ drink_NN and_CC knocks_VVZ on_IN the_DT door_NN ._SENT )_) 
+JANET_NN :_: It_PP 's_VBZ the_DT stewardess_NN ,_, sir_NN ._SENT 
+[_SYM Cabin_NP 8_CD ]_SYM 
+(_( Janet_NP knocks_VVZ on_IN the_DT bathroom_NN door_NN ._SENT )_) 
+JANET_NN :_: I_PP 've_VHP brought_VVN your_PP$ warm_JJ drink_NN ,_, sir_NN ._SENT Shall_MD I_PP leave_VV it_PP on_IN the_DT 
+dressing_VVG table_NN ?_SENT 
+(_( The_DT leafy_JJ hand_NN turns_VVZ on_IN the_DT shower_NN ._SENT Janet_NP leaves_VVZ ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+(_( The_DT Doctor_NP and_CC Mel_NP pass_VVP Janet_NP ,_, and_CC see_VV Lasky_NP 
+leaving_VVG the_DT Isolation_NN room_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP 's_VBZ a_DT thremmatologist_NN doing_VVG in_IN an_DT isolation_NN room_NN wearing_VVG a_DT 
+surgical_JJ mask_NN ?_SENT 
+MEL_NN :_: Seeing_VVG as_IN there_EX 's_VBZ only_RB one_CD way_NN to_TO find_VV out_RP ,_, you_PP 've_VHP got_VVN two_CD 
+problems_NNS ._SENT 
+DOCTOR_NN :_: Two_CD ?_SENT 
+MEL_NN :_: Apart_RB from_IN getting_VVG rid_JJ of_IN the_DT guard_NN ,_, you_PP 're_VBP going_VVG to_TO need_VV a_DT mask_NN ,_, 
+and_CC you_PP can_MD hardly_RB ask_VV the_DT professor_NN to_TO lend_VV you_PP hers_PP ._SENT 
+(_( Something_NN rattles_VVZ in_IN the_DT bulkheads_NNS ._SENT The_DT Doctor_NP takes_VVZ an_DT axe_NN and_CC sets_NNS 
+off_IN the_DT fire_NN alarm_NN ._SENT )_) 
+MEL_NN :_: Did_VVD you_PP hear_VVP that_RB ?_SENT 
+(_( The_DT guard_NN rushes_VVZ up_RP ._SENT )_) 
+DOCTOR_NN :_: Quickly_RB ,_, the_DT lounge_NN !_SENT There_EX are_VBP passengers_NNS trapped_VVN !_SENT On_IN the_DT 
+double_RB ,_, man_UH !_SENT There_EX are_VBP lives_NNS at_IN stake_NN ._SENT 
+(_( The_DT guard_NN takes_VVZ the_DT axe_NN and_CC runs_VVZ off_RP ._SENT )_) 
+(_( The_DT Doctor_NP and_CC Mel_NP take_VVP smoke_NN masks_NNS from_IN the_DT fire_NN point_NN and_CC enter_VV -_: )_) 
+[_SYM Isolation_JJ room_NN ]_SYM 
+(_( The_DT Doctor_NP turns_VVZ on_IN the_DT lights_NNS and_CC raises_VVZ the_DT 
+corner_NN of_IN a_DT black_JJ plastic_NN tent_NN over_IN coffin_NN sized_VVD box_NN by_IN the_DT wall_NN ._SENT There_RB 
+is_VBZ a_DT woman_NN there_RB with_IN strange_JJ growths_NNS over_IN her_PP$ face_NN ._SENT She_PP opens_VVZ her_PP 
+remaining_VVG eye_NN and_CC Mel_NP does_VVZ her_PP$ perfect_JJ pitch_NN scream_NN ._SENT )_) 
+Part_NP Eleven_NP 
+
+[_SYM Isolation_JJ room_NN ]_SYM 
+RUTH_NN :_: No._NN Stop_VV her_PP ._SENT Stop_NP Lasky_NP ._SENT 
+(_( Ruth_NP starts_VVZ to_TO sit_VV up_RP and_CC we_PP see_VVP that_IN/that she_PP has_VHZ a_DT large_JJ leaf_NN growing_VVG up_RP 
+behind_IN her_PP$ head_NN ._SENT )_) 
+RUTH_NN :_: Got_VVD to_TO stop_VV her_PP ,_, stop_VV her_PP ._SENT Stop_NP Lasky_NP ._SENT 
+(_( Lasky_NP enters_VVZ with_IN Doland_NP and_CC Bruchner_NP ._SENT )_) 
+DOLAND_NN :_: Out_RB !_SENT Out_RB !_SENT 
+(_( The_DT men_NNS hustle_VVP the_DT Doctor_NP and_CC Mel_NP out_IN while_IN Lasky_NP puts_VVZ a_DT gas_NN mask_NN with_IN 
+a_DT small_JJ canister_NN over_IN Ruth_NP 's_POS face_NN ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+DOCTOR_NN :_: What_WP 's_VBZ going_VVG on_RP in_IN there_RB ?_SENT What_WP are_VBP you_PP 
+trying_VVG to_TO hide_VV ?_SENT Will_MD you_PP please_VV stop_VV mauling_VVG me_PP ?_SENT 
+DOLAND_NN :_: I_PP should_MD drop_VV the_DT innocent_JJ party_NN act_NN if_IN I_PP were_VBD you_PP ._SENT Any_DT moment_NN 
+now_RB ,_, that_DT guard_NN will_MD be_VB back_RB ._SENT He_PP 's_VBZ going_VVG to_TO be_VB even_RB less_RBR enchanted_VVN by_IN 
+your_PP$ antics_NNS ._SENT 
+MEL_NN :_: Never_RB mind_VV the_DT guard_NN ._SENT That_DT monstrosity_NN ,_, what_WP is_VBZ it_PP in_IN there_RB ?_SENT 
+DOCTOR_NN :_: Does_VVZ the_DT Commodore_NP know_VVP what_WP 's_VBZ being_VBG isolated_VVN in_IN there_RB ?_SENT 
+DOLAND_NN :_: I_PP do_VVP n't_RB know_VV by_IN whose_WP$ authority_NN you_PP ask_VVP ,_, but_CC if_IN it_PP 'll_MD put_VV a_DT 
+stop_VV you_PP your_PP$ meddling_NN ,_, I_PP 'll_MD explain_VV ._SENT That_DT monstrosity_NN ,_, as_IN you_PP call_VVP 
+her_PP ,_, is_VBZ my_PP$ lab_NN assistant_NN ,_, Ruth_NP Baxter_NP ._SENT We_PP 're_VBP taking_VVG her_PP to_TO Earth_NN in_IN the_DT 
+hope_VVP that_IN/that we_PP can_MD reverse_VV her_PP$ condition_NN ._SENT Our_PP$ facilities_NNS on_IN Mogar_NP were_VBD 
+too_RB primitive_JJ ._SENT 
+MEL_NN :_: What_WP happened_VVD ?_SENT How_WRB did_VVD she_PP get_VV in_IN that_DT state_NN ?_SENT 
+DOLAND_NN :_: The_DT experimental_JJ nature_NN of_IN our_PP$ work_NN entails_VVZ some_DT calculated_VVN 
+risks_NNS ._SENT 
+DOCTOR_NN :_: Calculated_VVN risks_NNS ?_SENT Are_VBP you_PP telling_VVG me_PP that_DT sad_JJ travesty_NN is_VBZ a_DT 
+statistical_JJ possibility_NN ?_SENT 
+MEL_NN :_: The_DT word_NN should_MD be_VB criminal_JJ ._SENT 
+DOLAND_NN :_: Very_RB well_RB ,_, perhaps_RB I_PP should_MD have_VH said_VVN unforeseen_JJ ._SENT During_IN a_DT 
+particularly_RB delicate_JJ cross-fertilisation_NN ,_, a_DT speck_NN of_IN pollen_NN penetrated_VVN 
+a_DT minute_JJ scratch_NN on_IN my_PP$ assistant_NN 's_POS thumb_NN ._SENT She_PP should_MD never_RB have_VH left_VVN 
+the_DT wound_NN uncovered_VVD ._SENT 
+GUARD_NN :_: There_RB he_PP is_VBZ !_SENT Halt_NN ,_, or_CC I_PP 'll_MD fire_VV ._SENT 
+RUDGE_NP :_: Oh_UH ,_, Doctor_NP ,_, you_PP do_VVP have_VH the_DT knack_NN of_IN landing_VVG yourself_PP in_IN hot_JJ 
+water_NN ._SENT 
+DOCTOR_NN :_: Satiable_JJ curtiosity_NN ,_, like_IN the_DT Elephant_NP 's_POS Child_NN ._SENT 
+MEL_NN :_: Never_RB mind_VV the_DT Just_RB So_IN stories_NNS ._SENT That_DT guard_NN looks_VVZ trigger_VV happy_JJ to_TO 
+me_FW ._SENT 
+RUDGE_NN :_: Simply_RB doing_VVG his_PP$ duty_NN ,_, miss._VVG The_DT regulations_NNS are_VBP quite_RB specific_JJ ._SENT 
+Anyone_NN setting_VVG off_RP a_DT false_JJ alarm_NN on_IN an_DT intergalactic_JJ liner_NN is_VBZ to_TO be_VB 
+arrested_VVN forthwith_RB ._SENT 
+DOCTOR_NN :_: No_DT need_NN to_TO quote_VV the_DT book_NN ._SENT I_PP can_MD explain_VV ._SENT 
+RUDGE_NN :_: Not_RB to_TO me_PP ,_, to_TO the_DT Commodore_NP ._SENT He_PP 's_VBZ expecting_VVG you_PP ._SENT Take_VV him_PP ._SENT 
+DOCTOR_NN :_: No_UH ,_, that_WDT 's_VBZ all_DT right_NN ._SENT I_PP know_VVP the_DT way_NN ._SENT 
+MEL_NN :_: Doctor_NN ?_SENT 
+DOCTOR_NN :_: Hmm_NP ?_SENT 
+MEL_NN :_: That_DT way_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, I_PP know_VVP ._SENT It_PP 's_VBZ that_DT way_NN ._SENT 
+[_SYM Trial_NP room_NN ]_SYM 
+VALEYARD_NN :_: Stop_VV the_DT Matrix_NP ._SENT I_PP fail_VVP to_TO comprehend_VV 
+this_DT evidence_NN ._SENT The_DT Doctor_NP is_VBZ on_IN trial_NN for_IN his_PP$ life_NN ,_, yet_RB in_IN his_PP$ defence_NN 
+he_PP presents_VVZ us_PP with_IN a_DT situation_NN in_IN which_WDT he_PP is_VBZ deliberately_RB flouting_VVG 
+accepted_JJ authority_NN ._SENT 
+INQUISITOR_NN :_: Much_RB of_IN your_PP$ evidence_NN does_VVZ seem_VV to_TO contradict_VV your_PP$ stated_JJ 
+aim_NN ,_, Doctor_NP ._SENT Are_VBP you_PP saying_VVG the_DT Matrix_NP is_VBZ again_RB being_VBG falsified_VVN ?_SENT 
+DOCTOR_NN :_: No._NN And_CC if_IN the_DT Valeyard_NP would_MD exercise_VV the_DT same_JJ restraint_NN as_IN I_PP 
+showed_VVN during_IN his_PP$ presentation_NN of_IN his_PP$ case_NN against_IN me_PP 
+VALEYARD_NN :_: Ha_NP !_SENT 
+DOCTOR_NN :_: And_CC could_MD suppress_VV his_PP$ bloodlust_NN 
+INQUISITOR_NN :_: Doctor_NN !_SENT This_DT court_NN is_VBZ dedicated_VVN to_TO giving_VVG you_PP a_DT fair_JJ trial_NN ._SENT 
+Do_VVP not_RB abuse_VV its_PP$ indulgence_NN ._SENT 
+DOCTOR_NN :_: I_PP apologise_VVP ._SENT 
+INQUISITOR_NN :_: The_DT Matrix_NP ,_, Doctor_NP ._SENT I_PP suggest_VVP we_PP return_VV to_TO the_DT Hyperion_NP 
+Three_NP ._SENT 
+[_SYM Bridge_NP ]_SYM 
+(_( The_DT space_NN liner_NN is_VBZ making_VVG another_DT course_NN 
+correction_NN ._SENT )_) 
+TRAVERS_NNS :_: Bring_VV us_PP in_IN closer_RBR ._SENT Reduce_VV the_DT margin_NN by_IN a_DT factor_NN of_IN point_NN 
+naught_RB one_CD to_TO naught_RB two_CD ._SENT 
+DOCTOR_NN :_: Very_RB narrow_JJ margin_NN of_IN safety_NN ,_, Commodore_NP ._SENT 
+TRAVERS_NNS :_: Not_RB to_TO a_DT ship_NN of_IN the_DT Hyperion_NP class_NN ._SENT 
+DOCTOR_NN :_: Still_RB risky_JJ ,_, though_RB ._SENT Quirky_JJ phenomena_NNS ,_, black_JJ holes_NNS ._SENT They_PP can_MD 
+gulp_NN with_IN unpredictable_JJ turbulence_NN ._SENT 
+TRAVERS_NP :_: When_WRB I_PP want_VVP your_PP$ advice_NN ,_, I_PP 'll_MD ask_VV for_IN it_PP ._SENT (_( to_TO guard_VV )_) I_PP 'll_MD 
+handle_VV this_DT ._SENT Get_VV back_RB on_IN duty_NN ._SENT 
+(_( The_DT guard_NN leaves_VVZ ._SENT )_) 
+TRAVERS_NNS :_: What_WP I_PP do_VVP want_VV to_TO hear_VV from_IN you_PP is_VBZ a_DT reason_NN why_WRB I_PP should_MD n't_RB 
+throw_VV you_PP in_IN the_DT brig._JJ Fire_NN alarms_NNS are_VBP not_RB playthings_NNS for_IN irresponsible_JJ 
+buffoons_NNS ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( Rudge_NP and_CC Mel_NP are_VBP putting_VVG the_DT smoke_NN masks_VVZ back_RB at_IN 
+the_DT fire_NN point_NN when_WRB Janet_NP comes_VVZ running_VVG ._SENT )_) 
+JANET_NP :_: Mister_NP Rudge_NP !_SENT Mister_NP Rudge_NP ._SENT 
+RUDGE_NP :_: What_WP is_VBZ it_PP ,_, Janet_NP ?_SENT 
+JANET_NP :_: Mister_NP Kimber_NP has_VHZ disappeared_VVN ._SENT He_PP did_VVD n't_RB report_VV to_TO the_DT fire_NN 
+assembly_NN point_NN and_CC he_PP 's_VBZ not_RB in_IN his_PP$ cabin_NN ._SENT 
+[_SYM Cabin_NP 8_CD ]_SYM 
+JANET_NN :_: He_PP has_VHZ n't_RB touched_VVN the_DT drink_NN I_PP brought_VVD him_PP ._SENT 
+RUDGE_NN :_: Well_RB ,_, maybe_RB he_PP just_RB wandered_VVD off_RP ,_, absent_VV minded_VVN ._SENT 
+JANET_NN :_: Without_IN his_PP$ jacket_NN or_CC his_PP$ watch_NN ?_SENT 
+RUDGE_NN :_: Now_RB ,_, when_WRB did_VVD you_PP last_RB see_VVP him_PP ?_SENT 
+JANET_NN :_: I_PP did_VVD n't_RB ._SENT See_VV him_PP ,_, that_WDT is_VBZ ._SENT He_PP was_VBD in_IN the_DT shower_NN ._SENT I_PP spoke_VVD to_TO him_PP 
+through_IN the_DT door_NN ._SENT 
+(_( Rudge_NP looks_VVZ inside_IN the_DT bathroom_NN ._SENT )_) 
+JANET_NN :_: Where_WRB can_MD he_PP have_VHP got_VVN to_TO ?_SENT With_IN all_PDT these_DT killings_NNS 
+RUDGE_NN :_: That_WDT 'll_MD do_VV ._SENT Pull_VV yourself_PP together_RB ._SENT Going_VVG to_TO pieces_NNS wo_MD n't_RB help_VV ._SENT 
+We_PP 'll_MD search_VV the_DT passenger_NN quarters_NNS before_IN we_PP start_VVP assuming_VVG the_DT worst_JJS ._SENT 
+
+(_( Mel_NP ,_, who_WP has_VHZ been_VBN listening_VVG outside_JJ ,_, waits_VVZ until_IN Rudge_NP and_CC Janet_NP have_VHP 
+gone_VVN down_RP the_DT corridor_NN ,_, then_RB slips_VVZ inside_IN the_DT cabin_NN ._SENT She_PP finds_VVZ a_DT large_JJ 
+leaf_NN in_IN the_DT grating_NN under_IN the_DT sink_NN ,_, and_CC runs_VVZ out_RP with_IN it_PP ._SENT 
+Meanwhile_RB ,_, in_IN the_DT service_NN ducts_NNS ,_, several_JJ large_JJ plant_NN beings_NNS are_VBP piling_VVG 
+up_IN bodies_NNS ._SENT They_PP look_VVP like_IN what_WP Ruth_NP is_VBZ turning_VVG into_IN ._SENT )_) 
+[_SYM Bridge_NP ]_SYM 
+TRAVERS_NNS :_: A_DT grim_JJ picture_NN ._SENT 
+DOCTOR_NN :_: I_PP 've_VHP no_DT reason_NN to_TO lie_VV ,_, Commodore_NP ._SENT 
+TRAVERS_NNS :_: I_PP 'm_VBP not_RB questioning_VVG your_PP$ honesty_NN ,_, simply_RB your_PP$ methods_NNS ._SENT 
+However_RB ,_, I_PP 'm_VBP left_VVN with_IN little_JJ alternative_NN but_CC to_TO begin_VV to_TO cooperate_VV ._SENT 
+DOCTOR_NN :_: Begin_VV ?_SENT I_PP take_VVP it_PP you_PP mean_VVP begin_VV overtly_RB to_TO cooperate_VV ._SENT You_PP 've_VHP 
+been_VBN using_VVG me_PP ,_, Commodore_NP ._SENT I_PP would_MD never_RB have_VH been_VBN allowed_VVN to_TO run_VV free_JJ 
+if_IN you_PP had_VHD n't_RB condoned_VVN it_PP ._SENT 
+TRAVERS_NNS :_: Fair_JJ comment_NN ._SENT 
+DOCTOR_NN :_: Frankly_RB ,_, I_PP think_VVP you_PP should_MD notify_VV the_DT authorities_NNS about_IN the_DT 
+death_NN of_IN the_DT investigator_NN Hallett_NP ,_, and_CC insist_VVP on_IN being_VBG given_VVN full_JJ 
+details_NNS of_IN his_PP$ mission_NN ._SENT 
+TRAVERS_NNS :_: You_PP underestimate_VVP me_PP to_TO that_DT extent_NN ,_, do_VVP you_PP ?_SENT 
+DOCTOR_NN :_: Sorry_JJ ._SENT They_PP refused_VVD ._SENT 
+TRAVERS_NNS :_: Top_JJ secret_NN ._SENT By_IN the_DT time_NN they_PP 've_VHP gone_VVN through_IN channels_NNS ,_, we_PP 'll_MD 
+probably_RB have_VHP docked_VVN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, that_WDT ca_MD n't_RB happen_VV ._SENT 
+TRAVERS_NNS :_: No_DT one_CD will_MD be_VB allowed_VVN to_TO disembark_VV ._SENT The_DT murderer_NN wo_MD n't_RB 
+escape_NN ._SENT 
+DOCTOR_NN :_: Murderer_NN ?_SENT Yes_UH ._SENT You_PP 'll_MD let_VV me_PP know_VV as_RB soon_RB as_IN you_PP get_VVP a_DT reply_NN ?_SENT 
+TRAVERS_NNS :_: Certainly_RB ,_, Doctor_NP ._SENT I_PP 'll_MD match_VV you_PP for_IN candour_NN ._SENT 
+[_SYM Lounge_NP ]_SYM 
+(_( Janet_NP puts_VVZ down_RP the_DT reception_NN desk_NN telephone_NN as_RB 
+Rudge_NP enters_VVZ ._SENT )_) 
+JANET_NP :_: Did_VVD you_PP find_VV him_PP ?_SENT 
+RUDGE_NN :_: Not_RB a_DT sign_NN ._SENT And_CC you_PP ?_SENT 
+(_( Janet_NP shakes_VVZ her_PP$ head_NN ._SENT )_) 
+RUDGE_NN :_: I_PP left_VVD a_DT report_NN we_PP 've_VHP lost_VVN another_DT passenger_NN ._SENT That_DT 'll_MD improve_VV 
+the_DT Commodore_NP 's_POS temper_NN ,_, I_PP 'll_MD guarantee_VV ._SENT 
+ATZA_NP :_: Mister_NP Rudge_NP ._SENT 
+RUDGE_NP :_: Er_UH ,_, later_RBR ._SENT 
+ATZA_NN :_: Wait_VV ._SENT Come_VV here_RB ._SENT We_PP want_VVP to_TO know_VV what_WP is_VBZ happening_VVG ._SENT 
+ORTEZO_NP :_: Yes_UH ,_, where_WRB was_VBD the_DT fire_NN ?_SENT 
+RUDGE_NN :_: It_PP was_VBD a_DT false_JJ alarm_NN ._SENT There_EX is_VBZ nothing_NN to_TO worry_VV about_RB ._SENT You_PP must_MD 
+excuse_VV me_PP ._SENT I_PP have_VHP urgent_JJ things_NNS to_TO do_VV ._SENT 
+ORTEZO_NP :_: Sit_VVP down_RB ,_, Rudge_NP ._SENT 
+ATZA_NN :_: There_EX is_VBZ only_RB one_CD thing_NN you_PP have_VHP got_VVN to_TO do_VV ._SENT 
+ORTEZO_NP :_: That_WDT is_VBZ to_TO tell_VV us_PP exactly_RB what_WP is_VBZ going_VVG on_RP ._SENT 
+ATZA_NN :_: And_CC I_PP suggest_VVP you_PP do_VVP so_RB right_RB now_RB ._SENT 
+[_SYM Bridge_NP ]_SYM 
+(_( In_IN a_DT corridor_NN ,_, the_DT guard_NN investigates_VVZ a_DT rattling_VVG 
+grill_NN ._SENT One_NP Vervoid_NP attacks_VVZ him_PP from_IN the_DT front_NN ,_, another_DT comes_VVZ out_RP of_IN the_DT 
+grill_NN and_CC sticks_VVZ a_DT thorn_NN in_IN his_PP$ neck_NN ._SENT He_PP falls_VVZ with_IN his_PP$ activated_VVN 
+communicator_NN in_IN his_PP$ hand_NN ._SENT )_) 
+TRAVERS_NP :_: Yes_UH ?_SENT What_WP is_VBZ it_PP ?_SENT 
+[_SYM Corridor_NP ]_SYM 
+TRAVERS_NN [_SYM OC_NP ]_SYM :_: State_VV your_PP$ position_NN ._SENT 
+VERVOID_NN :_: Help_VV me_PP with_IN this_DT ._SENT 
+(_( The_DT two_CD Vervoids_NNS carry_VVP the_DT guard_NN into_IN the_DT service_NN ducts_NNS ._SENT )_) 
+[_SYM Bridge_NP ]_SYM 
+TRAVERS_NNS :_: Who_WP the_DT blazes_NNS was_VBD that_RB ?_SENT Trace_VV that_DT call_NN ._SENT 
+
+[_SYM Hydroponics_NP Centre_NP ]_SYM 
+(_( Doland_NP goes_VVZ into_IN the_DT small_JJ lab_NN at_IN the_DT back_RB to_TO 
+find_VV Bruchner_NP destroying_VVG computer_NN printouts_NNS ._SENT )_) 
+DOLAND_NP :_: Have_VHP you_PP gone_VVN out_RP of_IN your_PP$ mind_NN ?_SENT 
+BRUCHNER_NP :_: I_PP have_VHP been_VBN ,_, but_CC not_RB any_DT more_RBR ._SENT I_PP 've_VHP regained_VVN my_PP$ sanity_NN ._SENT 
+DOLAND_NN :_: It_PP 's_VBZ not_RB only_RB your_PP$ own_JJ work_NN you_PP 're_VBP destroying_VVG ._SENT Other_JJ people_NNS 
+have_VHP contributed_VVN ._SENT You_PP 've_VHP no_DT right_NN to_TO do_VV this_DT !_SENT 
+BRUCHNER_NP :_: You_PP long_RB ago_RB lost_VVN sight_NN of_IN the_DT difference_NN between_IN right_JJ and_NP 
+wrong_JJ ._SENT 
+DOLAND_NP :_: Why_WRB ?_SENT Because_IN of_IN some_DT unexplained_JJ incidents_NNS ?_SENT 
+BRUCHNER_NP :_: On_IN my_PP$ way_NN down_RB here_RB ,_, I_PP heard_VVD of_IN another_DT unexplained_JJ incident_NN ._SENT 
+That_DT harmless_JJ old_JJ man_NN is_VBZ missing_VVG ._SENT How_WRB many_JJ more_JJR ,_, Doland_NP ,_, before_IN you_PP and_CC 
+Lasky_NP accept_VVP responsibility_NN ?_SENT 
+(_( Bruchner_NP continues_VVZ to_TO shred_VV paper_NN so_IN Doland_NP locks_VVZ him_PP in_IN the_DT little_JJ 
+room_NN ._SENT )_) 
+[_SYM Gymnasium_NP ]_SYM 
+(_( The_DT professor_NN is_VBZ on_IN the_DT static_JJ bicycle_NN ._SENT )_) 
+LASKY_NP :_: I_PP 've_VHP no_DT time_NN for_IN a_DT horticultural_JJ discussion_NN now_RB ,_, young_JJ woman_NN ._SENT 
+You_PP and_CC your_PP$ erratic_JJ friend_NN have_VHP already_RB disrupted_VVN my_PP$ routine_NN ._SENT 
+MEL_NN :_: I_PP only_RB asked_VVD you_PP if_IN you_PP 'd_MD tell_VV what_WP this_DT leaf_NN is_VBZ ._SENT 
+LASKY_NP :_: After_IN my_PP$ workout_NN ,_, and_CC that_WDT 's_VBZ final_JJ ._SENT 
+(_( Doland_NP enters_VVZ ._SENT )_) 
+DOLAND_NN :_: I_PP need_VVP to_TO speak_VV with_IN you_PP privately_RB ,_, Professor_NP ._SENT 
+LASKY_NP :_: Really_RB !_SENT Not_RB now_RB ,_, Doland_NP !_SENT 
+(_( Mel_NP moves_VVZ away_RB ._SENT )_) 
+DOLAND_NN :_: I_PP know_VVP how_WRB much_JJ you_PP object_VVP to_TO your_PP$ work_NN schedule_NN being_VBG 
+interrupted_VVN ,_, but_CC this_DT is_VBZ absolutely_RB vital_JJ ._SENT 
+LASKY_NP :_: Well_UH ?_SENT 
+DOLAND_NN :_: You_PP must_MD speak_VV with_IN Bruchner_NP ,_, calm_VV him_PP down_RP ._SENT 
+LASKY_NP :_: Ca_MD n't_RB you_PP ?_SENT 
+DOLAND_NP :_: Look_VVP ,_, he_PP wo_MD n't_RB listen_VV to_TO me_PP ._SENT 
+LASKY_NP :_: Where_WRB is_VBZ he_PP ?_SENT 
+DOLAND_NN :_: In_IN the_DT Hydroponic_NP Centre_NP ._SENT 
+(_( Lasky_NP throws_VVZ her_PP$ towel_NN at_IN Doland_NP and_CC leaves_VVZ ._SENT )_) 
+MEL_NN :_: Mister_NP Doland_NP ._SENT 
+(_( Mel_NP opens_VVZ the_DT laundry_NN box_NN and_CC he_PP puts_VVZ the_DT towel_NN in_IN ._SENT )_) 
+MEL_NN :_: Let_VV 's_VBZ pick_VV up_RP where_WRB we_PP left_VVD off_RP while_IN you_PP 're_VBP in_IN the_DT mood_NN for_IN 
+explanations_NNS ._SENT 
+DOLAND_NP :_: Did_VVD I_PP give_VVP you_PP that_DT impression_NN ?_SENT 
+MEL_NN :_: What_WP are_VBP those_DT pods_NNS in_IN the_DT Hydroponic_NP Centre_NP ?_SENT 
+DOLAND_NN :_: The_DT results_NNS of_IN another_DT experiment_NN ._SENT 
+MEL_NN :_: I_PP could_MD have_VH made_VVN an_DT educated_VVN guess_NN at_IN that_DT ._SENT What_WP was_VBD in_IN them_PP ?_SENT 
+DOLAND_NN :_: Giant_JJ fruit_NN ._SENT And_CC anticipating_VVG your_PP$ next_JJ question_NN ,_, we_PP left_VVD the_DT 
+fruit_NN on_IN Mogar_NP ._SENT We_PP 're_VBP merely_RB taking_VVG the_DT shucks_NNS as_IN an_DT example_NN to_TO fellow_NN 
+agronomists_NNS in_IN earthbound_JJ laboratories_NNS ._SENT Now_RB ,_, if_IN you_PP 'll_MD excuse_VV me_PP ._SENT 
+(_( Doland_NP leaves_VVZ ._SENT Mel_NP hears_VVZ heavy_JJ breathing_NN coming_VVG from_IN the_DT air_NN vent_NN near_RB 
+the_DT ceiling_NN ._SENT She_PP climbs_VVZ the_DT wall_NN bars_VVZ to_TO listen_VV ,_, then_RB goes_VVZ back_RB down_RB 
+and_CC gets_VVZ one_CD of_IN the_DT aerobics_NN headsets_NNS and_CC puts_VVZ its_PP$ microphone_NN through_RP 
+the_DT vent_NN before_IN running_VVG into_IN the_DT control_NN booth_NN ._SENT )_) 
+MEL_NN :_: Think_VVP ,_, think_VVP ._SENT 
+(_( She_PP starts_VVZ adjusting_VVG controls_NNS ._SENT )_) 
+MEL_NN :_: Amplifier_NN ._SENT 
+VERVOID_NN [_SYM OC_NP ]_SYM :_: We_PP must_MD not_RB make_VV animal-kind_NN aware_JJ of_IN our_PP$ existence_NN ._SENT They_PP 
+still_RB outnumber_VV us_PP ._SENT If_IN we_PP are_VBP to_TO kill_VV them_PP all_DT ,_, we_PP must_MD hunt_VV them_PP down_RP 
+secretly_RB ._SENT 
+(_( A_DT hand_NN in_IN a_DT white_JJ glove_NN puts_VVZ an_DT anaesthetic_JJ gas_NN mask_NN over_IN Mel_NP 's_POS face_NN ._SENT 
+She_PP screams_VVZ ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT Doctor_NP enters_VVZ ._SENT It_PP is_VBZ deserted_VVN ._SENT )_) 
+DOCTOR_NN :_: Is_VBZ there_RB anybody_NN there_RB ,_, said_VVD the_DT traveller_NN ._SENT Perhaps_RB she_PP 's_VBZ in_IN 
+the_DT gym_NN ._SENT 
+[_SYM Gymnasium_NP ]_SYM 
+(_( Mel_NP is_VBZ in_IN laundry_NN basket_NN number_NN 126._CD Someone_NN puts_NNS 
+a_DT towel_NN over_IN her_PP and_CC shuts_VVZ the_DT lid_NN ,_, then_RB a_DT worker_NN enters_VVZ and_CC exchanges_NNS 
+it_PP for_IN a_DT new_JJ one_CD ._SENT The_DT Doctor_NP enters_VVZ by_IN another_DT door_NN ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, allow_VV me_PP ._SENT Wish_VVP I_PP could_MD get_VV rid_JJ of_IN my_PP$ waste_NN as_IN easily_RB ,_, eh_NP ?_SENT 
+(_( He_PP pats_VVZ his_PP$ waistline_NN ._SENT The_DT worker_NN leaves_VVZ silently_RB ._SENT The_DT Doctor_NP goes_VVZ 
+into_IN the_DT control_NN booth_NN and_CC sees_VVZ the_DT Record_NP light_NN flashing_VVG on_IN the_DT 
+console_NN ._SENT He_PP stops_VVZ it_PP ,_, rewinds_VVZ the_DT tape_NN and_CC plays_VVZ ._SENT )_) 
+VERVOID_NN [_SYM OC_NP ]_SYM :_: We_PP must_MD not_RB make_VV animal-kind_NN aware_JJ of_IN our_PP$ existence_NN ._SENT 
+(_( The_DT worker_NN takes_VVZ the_DT laundry_NN basket_NN to_TO the_DT waste_NN disposal_NN ,_, where_WRB 
+others_NNS are_VBP being_VBG emptied_VVN into_IN the_DT pulveriser_NN ._SENT )_) 
+VERVOID_NN [_SYM OC_NP ]_SYM :_: We_PP must_MD hunt_VV them_PP down_RP secretly_RB ._SENT (_( Mel_NP screaming_VVG ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Ah_UH ,_, allow_VV me_PP ._SENT Wish_VVP I_PP could_MD get_VV rid_JJ of_IN my_PP$ waste_NN as_IN easily_RB ,_, 
+eh_NP ?_SENT 
+[_SYM Lounge_NP ]_SYM 
+DOCTOR_NN :_: The_DT waste_NN bins_NNS ,_, where_WRB do_VVP they_PP go_VV ?_SENT 
+JANET_NN :_: Waste_NN bins_NNS ?_SENT 
+DOCTOR_NN :_: Quickly_RB ,_, woman_NN ._SENT Where_WRB are_VBP they_PP taken_VVN ?_SENT 
+JANET_NN :_: Well_RB ,_, the_DT pulveriser_NN ,_, but_CC why_WRB 
+DOCTOR_NN :_: The_DT pulveriser_NN !_SENT 
+[_SYM Waste_NP disposal_NN ]_SYM 
+(_( The_DT Doctor_NP runs_VVZ through_IN the_DT corridors_NNS ._SENT Mel_NP 's_POS bin_NN 
+is_VBZ next_JJ in_IN line_NN for_IN the_DT machine_NN ._SENT )_) 
+DOCTOR_NN :_: Stop_VV !_SENT 
+(_( Just_RB in_IN time_NN ._SENT The_DT Doctor_NP removes_VVZ the_DT lid_NN and_CC then_RB the_DT towel_NN to_TO reveal_VV 
+Mel_NP ._SENT She_PP begins_VVZ to_TO wake_NN ._SENT )_) 
+DOCTOR_NN :_: Do_VVP n't_RB throw_VV the_DT towel_NN in_IN ,_, Mel_NP ._SENT 
+[_SYM Bridge_NP ]_SYM 
+(_( The_DT space_NN liner_NN is_VBZ approaching_VVG the_DT area_NN of_IN the_DT 
+black_JJ hole_NN ._SENT )_) 
+TRAVERS_NP :_: Why_WRB in_IN Hades_NP have_VHP n't_RB you_PP reported_VVD before_RB now_RB ?_SENT As_IN a_DT security_NN 
+officer_NN ,_, you_PP 're_VBP an_DT unmitigated_JJ disaster_NN ._SENT 
+RUDGE_NN :_: That_WDT 's_VBZ hardly_RB fair_JJ ,_, sir_NN ._SENT 
+TRAVERS_NNS :_: We_PP 've_VHP had_VHD a_DT passenger_NN murdered_VVN ._SENT According_VVG to_TO you_PP ,_, another_DT 
+one_PP 's_VBZ disappeared_VVN ._SENT Three_CD crew_NN members_NNS are_VBP missing_JJ ,_, unaccounted_JJ for_IN ,_, and_NP 
+you_PP have_VHP n't_RB a_DT clue_NN as_IN to_TO why_WRB they_PP 've_VHP gone_VVN or_CC where_WRB they_PP are_VBP ._SENT 
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+(_( The_DT guard_NN is_VBZ added_VVN to_TO the_DT pile_NN of_IN bodies_NNS ._SENT )_) 
+VERVOID_NN :_: We_PP are_VBP doing_VVG splendidly_RB ._SENT 
+VERVOID_NP 2_CD :_: Congratulations_NNS must_MD be_VB delayed_VVN until_IN that_DT is_VBZ full_JJ ._SENT 
+VERVOID_NN :_: We_PP shall_MD not_RB have_VH long_JJ to_TO wait_VV ._SENT 
+[_SYM Gymnasium_NP ]_SYM 
+(_( The_DT Doctor_NP runs_VVZ into_IN the_DT control_NN booth_NN ,_, followed_VVD 
+by_IN Mel_NP ._SENT )_) 
+DOCTOR_NN :_: Doh_NN !_SENT It_PP 's_VBZ gone_VVN ._SENT 
+MEL_NN :_: What_WP has_VHZ ?_SENT 
+DOCTOR_NN :_: The_DT tape_NN ._SENT The_DT proof_NN we_PP need_VVP to_TO force_VV Lasky_NP 's_POS hand_NN ._SENT 
+MEL_NN :_: It_PP 's_VBZ a_DT waste_NN of_IN time_NN ._SENT Our_PP$ killer_NN 's_VBZ obviously_RB removed_VVN it_PP ._SENT 
+DOCTOR_NN :_: Just_RB as_IN he_PP tried_VVD to_TO remove_VV you_PP ._SENT 
+MEL_NN :_: He_PP ?_SENT Why_WRB not_RB she_PP ?_SENT 
+DOCTOR_NN :_: Lasky_NP ?_SENT 
+MEL_NN :_: Or_CC the_DT stewardess_NN ,_, Janet_NP ._SENT 
+DOCTOR_NN :_: Janet_NP ?_SENT No._NN 
+MEL_NN :_: It_PP would_MD n't_RB have_VH taken_VVN a_DT man_NN 's_POS strength_NN to_TO lift_VV my_PP$ weight_NN ._SENT A_DT woman_NN 
+could_MD have_VH dumped_VVN me_PP in_IN the_DT waste_NN bin_NN ._SENT 
+(_( They_PP climb_VV the_DT wall_NN bars_VVZ to_TO where_WRB the_DT headset_NN is_VBZ still_RB stuck_VVN in_IN the_DT 
+grill_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP are_VBP they_PP ,_, and_CC how_WRB do_VVP they_PP link_VV with_IN these_DT murders_NNS ?_SENT 
+MEL_NN :_: Whatever_WDT they_PP are_VBP ,_, they_PP 're_VBP not_RB human_JJ ._SENT And_CC we_PP 're_VBP all_RB to_TO be_VB 
+destroyed_VVN ,_, remember_VVP ?_SENT 
+(_( They_PP jump_VVP down_RB again_RB ._SENT )_) 
+DOCTOR_NN :_: Still_RB got_VVD that_DT bit_NN of_IN leaf_NN ?_SENT 
+(_( The_DT Doctor_NP compares_VVZ her_PP$ specimen_NN to_TO his_PP$ ._SENT )_) 
+MEL_NN :_: Where_WRB are_VBP you_PP off_JJ to_TO ?_SENT 
+DOCTOR_NN :_: Hydroponic_JJ Centre_NP ._SENT There_EX has_VHZ to_TO be_VB a_DT connection_NN ._SENT 
+MEL_NN :_: And_CC what_WP about_IN me_PP ?_SENT 
+DOCTOR_NN :_: Follow_VV your_PP$ lead_NN ._SENT See_VV if_IN Janet_NP has_VHZ got_VVN the_DT tape_NN ._SENT But_CC Mel_NP ,_, be_VB 
+careful_JJ ,_, hmm_NP ?_SENT 
+MEL_NN :_: You_PP too_RB ,_, Doctor_NP ._SENT 
+[_SYM Lounge_NP ]_SYM 
+JANET_NN :_: Can_MD I_PP tempt_VV you_PP with_IN a_DT coffee_NN ,_, sir_NN ?_SENT 
+ATZA_NP :_: No_UH ,_, thank_VV you_PP ._SENT 
+JANET_NN :_: How_WRB about_RB you_PP ,_, sir_NN ?_SENT 
+(_( The_DT other_JJ Mogarian_NP knocks_VVZ the_DT tray_NN out_RP of_IN Janet_NP 's_POS hands_NNS ,_, spilling_VVG the_DT 
+coffee_NN down_IN her_PP$ uniform_NN ._SENT )_) 
+ORTEZO_NN :_: Sorry_JJ ._SENT 
+JANET_NN :_: Not_RB to_TO worry_VV ._SENT It_PP 's_VBZ easily_RB changed_VVN ._SENT 
+(_( While_IN Mel_NP searches_VVZ Janet_NP 's_POS wardrobe_NN ,_, a_DT shadow_NN falls_VVZ across_IN the_DT door_NN 
+outside_JJ ._SENT Then_RB we_PP switch_VVP to_TO a_DT view_NN of_IN the_DT Doctor_NP holding_VVG an_DT axe_NN amid_IN 
+wrecked_VVN computer_NN equipment_NN ._SENT )_) 
+[_SYM Trial_NP room_NN ]_SYM 
+DOCTOR_NN :_: I_PP did_VVD n't_RB do_VV that_DT !_SENT 
+INQUISITOR_NN :_: Stop_VV the_DT Matrix_NP ._SENT 
+VALEYARD_NP :_: Are_VBP we_PP to_TO be_VB subjected_VVN to_TO more_JJR chicanery_NN ,_, Sagacity_NP ?_SENT 
+DOCTOR_NN :_: It_PP was_VBD n't_RB me_PP in_IN there_RB ._SENT 
+VALEYARD_NN :_: Ridiculous_JJ ._SENT We_PP all_RB saw_VVD you_PP ._SENT You_PP 're_VBP hardly_RB mistakable_JJ in_IN that_DT 
+outfit_NN ._SENT 
+DOCTOR_NN :_: I_PP did_VVD n't_RB smash_VV the_DT equipment_NN !_SENT 
+INQUISITOR_NN :_: Are_VBP you_PP saying_VVG the_DT communications_NNS equipment_NN was_VBD not_RB 
+sabotaged_VVD ?_SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, it_PP had_VHD to_TO be_VB to_TO prevent_VV the_DT Commodore_NP getting_VVG 
+information_NN from_IN Earth_NP ,_, but_CC I_PP did_VVD n't_RB do_VV it_PP ._SENT 
+INQUISITOR_NN :_: Then_RB who_WP did_VVD ?_SENT 
+DOCTOR_NN :_: The_DT murderer_NN ._SENT 
+VALEYARD_NN :_: The_DT murderer_NN ?_SENT I_PP think_VVP ,_, Inquisitor_NP ,_, the_DT Doctor_NP is_VBZ telling_VVG us_PP 
+more_JJR than_IN he_PP realises_VVZ ._SENT 
+DOCTOR_NN :_: The_DT prosecutor_NN delights_VVZ in_IN scoring_VVG cheap_JJ victories_NNS ,_, my_PP$ lady_NN ._SENT I_PP 
+swear_VV to_TO you_PP ,_, when_WRB I_PP viewed_VVD that_DT section_NN earlier_RBR ,_, I_PP was_VBD nowhere_RB near_JJ 
+the_DT Communications_NP room_NN ._SENT 
+VALEYARD_NN :_: So_RB once_RB again_RB the_DT defendant_NN is_VBZ accusing_VVG the_DT Matrix_NP of_IN being_VBG 
+wrong_JJ ._SENT 
+INQUISITOR_NN :_: Are_VBP you_PP ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: Yes_UH !_SENT Yes_UH ,_, I_PP am_VBP ._SENT 
+INQUISITOR_NN :_: If_IN you_PP are_VBP questioning_VVG its_PP$ veracity_NN ,_, is_VBZ there_RB any_DT point_NN in_IN 
+continuing_VVG with_IN the_DT Matrix_NP ?_SENT 
+DOCTOR_NN :_: But_CC what_WP else_RB have_VHP I_PP got_VVD ?_SENT Without_IN evidence_NN to_TO prove_VV my_PP$ 
+innocence_NN ,_, I_PP 'm_VBP condemned_VVN ._SENT 
+VALEYARD_NN :_: And_CC with_IN it_PP you_PP are_VBP also_RB condemned_VVN ,_, it_PP seems_VVZ ,_, Doctor_NP ._SENT Shall_MD 
+we_PP continue_VVP ?_SENT 
+INQUISITOR_NN :_: Doctor_NN ?_SENT Shall_MD we_PP continue_VV ?_SENT You_PP had_VHD ,_, as_RB before_RB ,_, sent_VVD your_PP$ 
+companion_NN into_IN danger_NN ._SENT 
+[_SYM Communications_NPS room_NN ]_SYM 
+(_( In_IN Janet_NP 's_POS cabin_NN ,_, Mel_NP hears_VVZ the_DT doorknob_NN turning_VVG ,_, 
+and_CC hides_NNS in_IN the_DT shower_NN ._SENT It_PP is_VBZ a_DT Vervoid_NN ._SENT Meanwhile_RB ,_, the_DT sabotage_NN has_VHZ 
+been_VBN discovered_VVN ._SENT }_) 
+TRAVERS_NNS :_: Let_VV 's_VBZ hope_VV we_PP do_VVP n't_RB need_VV to_TO call_VV for_IN outside_JJ help_NN ._SENT There_EX 's_VBZ no_RB 
+way_RB we_PP can_MD repair_VV this_DT ._SENT We_PP 're_VBP completely_RB isolated_VVN ._SENT 
+[_SYM Hydroponics_NP Centre_NP ]_SYM 
+(_( Lasky_NP tips_NNS burnt_VVD paper_NN from_IN the_DT waste_NN bin_NN onto_IN 
+the_DT bench_NN ._SENT )_) 
+LASKY_NP :_: Sheer_JJ vandalism_NN ,_, and_CC utterly_RB useless_JJ ._SENT 
+BRUCHNER_NP :_: Is_VBZ that_IN/that how_WRB you_PP see_VVP it_PP ,_, Professor_NP ?_SENT 
+LASKY_NP :_: How_WRB else_RB ?_SENT 
+BRUCHNER_NP :_: Because_IN I_PP put_VVD an_DT end_NN to_TO this_DT obscene_JJ experiment_NN ?_SENT 
+LASKY_NP :_: I_PP should_MD think_VV that_IN/that when_WRB man_NN first_JJ discovered_VVN fire_NN there_EX were_VBD 
+those_DT who_WP were_VBD equally_RB appalled_VVN and_CC wanted_VVD it_PP suppressed_VVD ._SENT 
+(_( Vervoids_NNS are_VBP listening_VVG through_IN a_DT grating_NN ._SENT )_) 
+LASKY_NP :_: If_IN they_PP 'd_VHD prevailed_VVN ,_, the_DT human_JJ race_NN would_MD still_RB be_VB cowering_VVG in_IN 
+caves_NNS ._SENT 
+BRUCHNER_NP :_: To_TO use_VV your_PP$ own_JJ phrase_NN ,_, that_WDT 's_VBZ all_RB academic_JJ now_RB ._SENT 
+LASKY_NP :_: If_IN you_PP were_VBD rational_JJ ,_, you_PP 'd_MD realise_VV how_WRB pointless_JJ this_DT is_VBZ ._SENT We_PP 
+ca_MD n't_RB unlearn_VV knowledge_NN ._SENT You_PP 're_VBP no_RB illiterate_JJ ._SENT How_WRB often_RB does_VVZ a_DT great_JJ 
+advance_VV produce_VV this_DT reaction_NN ._SENT Think_VV of_IN Galileo_NP ._SENT 
+BRUCHNER_NP :_: Galileo_NP ?_SENT Oh_UH ,_, is_VBZ that_IN/that it_PP ?_SENT You_PP see_VVP the_DT name_NN Lasky_NP inscribed_VVD in_IN 
+the_DT history_NN books_NNS ._SENT 
+LASKY_NP :_: Rubbish_NN ._SENT This_DT has_VHZ been_VBN a_DT team_NN effort_NN ._SENT 
+BRUCHNER_NP :_: With_IN you_PP as_IN leader_NN ._SENT Well_RB ,_, you_PP fulfil_VVP that_DT role_NN to_TO the_DT last_JJ ._SENT 
+You_PP 've_VHP led_VVN me_PP to_TO see_VV the_DT fault_NN in_IN my_PP$ strategy_NN ._SENT You_PP ,_, me_PP ,_, Doland_NP ,_, even_RB 
+the_DT creatures_NNS we_PP 've_VHP spawned_VVN ,_, the_DT sole_JJ representatives_NNS of_IN this_DT great_JJ 
+advance_NN ,_, and_CC we_PP 're_VBP all_RB encapsulated_VVN on_IN this_DT ship_NN ._SENT On_IN this_DT ship_NN ._SENT 
+(_( Bruchner_NP suddenly_RB grabs_VVZ something_NN from_IN the_DT bench_NN and_CC attacks_NNS Lasky_NP ._SENT )_) 
+[_SYM Cargo_NP hold_NN ]_SYM 
+(_( Bruchner_NP pushes_VVZ past_IN the_DT Doctor_NP as_IN he_PP runs_VVZ away_RB ._SENT )_) 
+
+DOCTOR_NN :_: I_PP did_VVD n't_RB even_RB hear_VV the_DT dinner_NN gong_NN ._SENT 
+(_( The_DT Doctor_NP finds_VVZ Lasky_NP unconscious_NN ._SENT )_) 
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+VERVOID_NP 2_CD :_: That_DT man_NN must_MD be_VB stopped_VVN ._SENT We_PP are_VBP 
+unique_JJ ,_, the_DT only_JJ members_NNS of_IN the_DT Vervoid_JJ species_NN ._SENT If_IN he_PP succeeds_VVZ in_IN 
+eliminating_VVG us_PP ,_, Vervoids_NNS will_MD cease_VV to_TO exist_VV ._SENT 
+VERVOID_NN :_: Forget_VV your_PP$ previous_JJ orders_NNS ._SENT Bruchner_NP 's_POS death_NN is_VBZ now_RB our_PP$ 
+priority_NN ._SENT He_PP cannot_MD be_VB permitted_VVN to_TO prevent_VV us_PP from_IN reaching_VVG planet_NN 
+Earth_NP ._SENT 
+[_SYM Hydroponics_NP Centre_NP ]_SYM 
+(_( Bruchner_NP knocks_VVZ out_RP a_DT guard_NN outside_IN cabin_NN nine_CD ._SENT )_) 
+LASKY_NP :_: I_PP do_VVP n't_RB care_VV what_WP you_PP heard_VVD on_IN some_DT mythical_JJ tape_NN ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP letting_VVG arrogance_NN blinker_NN you_PP ,_, Professor_NP ._SENT It_PP may_MD not_RB be_VB 
+your_PP$ intention_NN ,_, but_CC you_PP are_VBP in_IN danger_NN of_IN joining_VVG an_DT extensive_JJ roll_NN of_IN 
+dishonour_NN ._SENT Misguided_JJ scientists_NNS who_WP claim_VVP the_DT pursuit_NN of_IN truth_NN as_IN an_DT 
+excuse_NN for_IN immoral_JJ experiments_NNS ._SENT 
+LASKY_NP :_: This_DT is_VBZ no_DT time_NN to_TO debate_NN ethics_NNS ._SENT I_PP made_VVD that_DT mistake_NN with_IN 
+Bruchner_NP ._SENT I_PP tell_VVP you_PP the_DT man_NN 's_VBZ demented_VVN ._SENT He_PP 's_VBZ out_RB to_TO destroy_VV this_DT ship_NN 
+and_CC everyone_NN on_IN it_PP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, but_RB 
+(_( Lasky_NP pushes_VVZ the_DT Doctor_NP out_RP ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+(_( In_IN a_DT corridor_NN ,_, a_DT grating_NN opens_VVZ and_CC a_DT Vervoid_NN 
+tries_VVZ to_TO get_VV at_IN Bruchner_NP ._SENT He_PP slams_VVZ the_DT grating_NN shut_VVD and_CC runs_VVZ ._SENT 
+Meanwhile_RB ,_, the_DT Vervoid_NP trashes_VVZ Janet_NP 's_POS cabin_NN ._SENT The_DT Doctor_NP and_CC Lasky_NP find_VVP 
+the_DT fallen_VVN guard_NN ._SENT )_) 
+LASKY_NP :_: First_JJ things_NNS first_JJ ._SENT Let_VV 's_VBZ find_VV Bruchner_NP ._SENT 
+DOCTOR_NN :_: But_RB ._SENT He_PP 'll_MD live_VV ._SENT 
+[_SYM Bridge_NP ]_SYM 
+(_( Bruchner_NP zaps_VVZ Travers_NP '_POS hand_NN away_RB from_IN the_DT 
+controls_NNS ._SENT )_) 
+BRUCHNER_NP :_: Get_VV out_RP of_IN here_RB ._SENT Now_RB !_SENT Or_CC I_PP 'll_MD kill_VV both_DT of_IN you_PP ._SENT 
+(_( Travers_NP and_CC the_DT officer_NN leave_NN ,_, and_CC Bruchner_NP seals_VVZ the_DT doors_NNS ._SENT Then_RB he_PP 
+sits_VVZ at_IN the_DT controls_NNS and_CC starts_NNS altering_VVG the_DT ship_NN 's_POS course_NN ._SENT )_) 
+[_SYM Outside_IN the_DT Bridge_NN ]_SYM 
+TRAVERS_NNS :_: Later_RBR ._SENT Get_VV the_DT laser_NN lance_NN up_RB here_RB 
+immediately_RB ._SENT 
+(_( The_DT officer_NN leaves_VVZ ._SENT The_DT Doctor_NP and_CC Lasky_NP arrive_VVP ,_, and_CC see_VV the_DT 
+Commodore_NP 's_POS burnt_JJ hand_NN ._SENT )_) 
+LASKY_NP :_: Bruchner_NP ?_SENT 
+TRAVERS_NP :_: Yes_UH ,_, but_CC why_WRB ?_SENT What_WP 's_VBZ his_PP$ motive_NN ?_SENT 
+DOCTOR_NN :_: I_PP rather_RB think_VVP his_PP$ intention_NN is_VBZ the_DT vital_JJ question_NN ._SENT 
+TRAVERS_NNS :_: All_DT right_NN then_RB ,_, what_WP 's_VBZ ?_SENT (_( pain_NN )_) Just_RB tell_VV me_PP ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: He_PP 's_VBZ determined_VVN to_TO destroy_VV this_DT ship_NN ._SENT 
+LASKY_NP :_: And_CC the_DT rest_NN of_IN us_PP with_IN it_PP ._SENT 
+TRAVERS_NNS :_: Does_VVZ the_DT lunatic_NN know_VVP anything_NN about_IN flying_VVG a_DT spacecraft_NN ?_SENT 
+LASKY_NP :_: Bruchner_NP 's_VHZ been_VBN trained_VVN as_IN an_DT astronaut_NN ._SENT One_CD of_IN the_DT team_NN had_VHD to_TO 
+be_VB ._SENT Obligatory_JJ requirement_NN ._SENT 
+TRAVERS_NNS :_: Very_RB thorough_JJ ._SENT 
+(_( The_DT Hyperion_NP changes_NNS course_NN and_CC heads_VVZ directly_RB for_IN the_DT black_JJ hole_NN ._SENT )_) 
+DOCTOR_NN :_: Can_MD the_DT power_NN to_TO the_DT bridge_NN be_VB cut_VVN off_RP ?_SENT 
+TRAVERS_NP :_: No_UH ,_, it_PP 's_VBZ designed_VVN to_TO be_VB hijack_VV proof_NN ._SENT 
+(_( The_DT ship_NN starts_VVZ shaking_VVG ._SENT The_DT Vervoid_NN in_IN Janet_NP 's_POS cabin_NN starts_VVZ 
+steaming_VVG ._SENT )_) 
+LASKY_NP :_: What_WP 's_VBZ happening_VVG ?_SENT 
+TRAVERS_NNS :_: Is_VBZ n't_RB that_DT obvious_JJ ?_SENT We_PP 're_VBP running_VVG into_IN turbulence_NN ._SENT 
+DOCTOR_NN :_: I_PP 'd_MD say_VV rather_RB more_JJR than_IN turbulence_NN ._SENT 
+LASKY_NP :_: Do_VVP n't_RB talk_VV in_IN riddles_NNS ,_, man_NN ._SENT 
+DOCTOR_NN :_: Your_PP$ colleague_NN is_VBZ aiming_VVG the_DT Hyperion_NP Three_NP into_IN the_DT eye_NN of_IN the_DT 
+Black_NP Hole_NP of_IN Tartarus_NP ._SENT 
+Part_NP Twelve_NP 
+
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+VERVOID_NN :_: Bruchner_NP must_MD be_VB stopped_VVN ._SENT Get_VV every_DT 
+Vervoid_NN to_TO the_DT bridge_NN area_NN ._SENT 
+[_SYM Outside_IN the_DT bridge_NN ]_SYM 
+(_( In_IN Janet_NP 's_POS bathroom_NN ,_, pots_NNS fall_VVP from_IN the_DT shelves_NNS 
+as_IN the_DT Vervoid_JJ crawls_NNS into_IN the_DT air_NN duct_NN ._SENT Mel_NP escapes_NNS ,_, coughing_VVG on_IN the_DT 
+gas_NN the_DT Vervoid_NN was_VBD secreting_VVG ._SENT 
+Meanwhile_RB ,_, the_DT laser_NN cutter_NN has_VHZ arrived_VVN ,_, and_CC the_DT Doctor_NP is_VBZ helping_VVG the_DT 
+officer_NN use_VV it_PP ._SENT )_) 
+LASKY_NP :_: How_WRB long_JJ before_IN the_DT ship_NN reaches_VVZ the_DT point_NN of_IN no_DT 
+return_NN ,_, Commodore_NP ?_SENT 
+TRAVERS_NNS :_: That_WDT 's_VBZ a_DT question_NN no_DT one_CD has_VHZ survived_VVN to_TO answer_VV ._SENT 
+(_( In_IN the_DT passenger_NN lounge_NN ,_, Janet_NP and_CC the_DT Mogarians_NNS are_VBP 
+hanging_VVG onto_IN stanchions_NNS for_IN dear_JJ life_NN ._SENT 
+The_DT Vervoids_NP batter_NN at_IN the_DT grill_NN in_IN the_DT bridge_NN then_RB expel_VV gas_NN ._SENT 
+The_DT Doctor_NP and_CC the_DT officer_NN finish_NN cutting_VVG the_DT door_NN lock_NN and_CC the_DT officer_NN 
+punches_NNS in_IN the_DT hole_NN ._SENT Gas_NN pours_VVZ out_RP and_CC they_PP plug_VVP it_PP again_RB ._SENT Inside_RB ,_, 
+Bruchner_NP collapses_VVZ ._SENT )_) 
+DOCTOR_NN :_: Marsh_NP gas_NN ?_SENT 
+LASKY_NP :_: A_DT methane_NN derivative_NN ._SENT 
+TRAVERS_NP :_: Marsh_NP gas_NN ?_SENT Where_WRB the_DT devil_NN 's_VBZ that_IN/that come_VVN from_IN ?_SENT What_WP is_VBZ it_PP you_PP 
+two_CD know_VVP that_IN/that I_PP do_VVP n't_RB ?_SENT 
+DOCTOR_NN :_: Questions_NNS later_RBR ._SENT Will_MD smoke_NN masks_NNS be_VB any_DT good_JJ ?_SENT 
+LASKY_NP :_: No_UH ,_, they_PP 'd_MD be_VB completely_RB inadequate_JJ ._SENT 
+TRAVERS_NNS :_: You_PP 're_VBP saying_VVG that_DT none_NN of_IN us_PP can_MD go_VV in_IN there_RB ?_SENT 
+LASKY_NP :_: It_PP 'd_MD be_VB suicide_NN ._SENT 
+DOCTOR_NN :_: Here_RB ,_, let_VV me_PP ._SENT 
+TRAVERS_NNS :_: It_PP 's_VBZ my_PP$ ship_NN ._SENT If_IN there_EX 's_VBZ a_DT risk_NN to_TO be_VB taken_VVN ,_, I_PP 'll_MD take_VV it_PP ._SENT 
+DOCTOR_NN :_: No_UH !_SENT 
+RUDGE_NN :_: There_EX 's_VBZ no_DT need_NN for_IN heroics_NNS from_IN either_CC of_IN you_PP ._SENT 
+(_( Rudge_NP speaks_VVZ into_IN his_PP$ communicator_NN ._SENT )_) 
+RUDGE_NN :_: Come_VV to_TO the_DT bridge_NN ._SENT 
+(_( The_DT two_CD Mogarians_NNS enter_VVP the_DT bridge_NN and_CC sit_VV at_IN the_DT controls_NNS ._SENT )_) 
+TRAVERS_NNS :_: If_IN they_PP make_VVP a_DT hash_NN of_IN it_PP in_IN there_RB ,_, we_PP 're_VBP finished_VVN ._SENT 
+RUDGE_NN :_: I_PP doubt_VVP if_IN that_WDT will_MD happen_VV ,_, Commodore_NP ._SENT 
+(_( The_DT Hyperion_NP veers_VVZ away_RB from_IN the_DT black_JJ hole_NN and_CC the_DT gas_NN clears_VVZ ._SENT )_) 
+[_SYM Trial_NP room_NN ]_SYM 
+VALEYARD_NN :_: The_DT mortality_NN rate_NN that_WDT attends_VVZ 
+your_PP$ meddling_NN is_VBZ appalling_JJ ._SENT 
+DOCTOR_NN :_: You_PP hold_VVP me_PP responsible_JJ for_IN Bruchner_NP 's_POS death_NN ?_SENT 
+VALEYARD_NN :_: Can_MD you_PP nominate_VV a_DT single_JJ incident_NN where_WRB your_PP$ presence_NN has_VHZ 
+stemmed_VVD the_DT tide_NN of_IN disaster_NN ?_SENT 
+INQUISITOR_NN :_: Are_VBP you_PP arguing_VVG that_IN/that the_DT submission_NN for_IN the_DT defence_NN should_MD 
+be_VB curtailed_VVN ?_SENT 
+VALEYARD_NN :_: A_DT verdict_NN of_IN guilty_JJ can_MD be_VB the_DT only_JJ conclusion_NN ._SENT 
+INQUISITOR_NN :_: Sit_VV down_RB ,_, Valeyard_NP ._SENT In_IN my_PP$ court_NN ,_, I_PP decide_VVP the_DT verdict_NN ._SENT 
+Proceed_VV ,_, Doctor_NP ._SENT 
+[_SYM Outside_IN the_DT bridge_NN ]_SYM 
+
+TRAVERS_NNS :_: I_PP 'm_VBP grateful_JJ to_TO you_PP both_DT ._SENT Now_RB that_IN/that the_DT 
+air_NN is_VBZ breathable_JJ ,_, I_PP 'll_MD resume_VV command_NN ._SENT 
+RUDGE_NN :_: I_PP 'm_VBP afraid_JJ that_WDT is_VBZ n't_RB going_VVG to_TO be_VB possible_JJ ,_, Commodore_NP ._SENT 
+ATZA_NP :_: What_WP he_PP is_VBZ stating_VVG ,_, in_IN the_DT usually_RB devious_JJ human_JJ manner_NN ,_, is_VBZ that_RB 
+we_PP are_VBP taking_VVG over_IN the_DT ship_NN ._SENT 
+DOCTOR_NN :_: A_DT hijack_VV ?_SENT But_CC you_PP Mogarians_NP are_VBP a_DT peace-loving_JJ race_NN ._SENT Violence_NN 
+is_VBZ repugnant_JJ to_TO you_PP ._SENT 
+ATZA_NN :_: No_DT one_CD will_MD be_VB harmed_VVN if_IN they_PP obey_VVP orders_NNS ._SENT 
+TRAVERS_NP :_: Rudge_NP ,_, I_PP will_MD personally_RB see_VV to_TO it_PP that_IN/that you_PP rot_VVP in_IN jail_NN ._SENT 
+RUDGE_NN :_: I_PP should_MD restrain_VV that_DT tongue_NN of_IN yours_PP$ ,_, Commodore_NP ._SENT The_DT Mogarians_NP 
+may_MD not_RB believe_VV in_IN violence_NN ,_, but_CC I_PP do_VVP n't_RB share_VV their_PP$ qualms_NNS ._SENT All_PDT my_PP$ 
+life_NN ,_, someone_NN like_IN you_PP has_VHZ been_VBN patronising_VVG me_PP ,_, treating_VVG me_PP with_IN 
+contempt_NN ._SENT Well_RB ,_, I_PP 'd_MD welcome_VV the_DT opportunity_NN of_IN settling_VVG the_DT score_NN ._SENT 
+ATZA_NP :_: Mister_NP Rudge_NP ,_, take_VVP the_DT hostages_NNS to_TO the_DT passenger_NN lounge_NN ._SENT 
+[_SYM Lounge_NP ]_SYM 
+DOLAND_NN :_: Surely_RB you_PP can_MD contact_VV the_DT bridge_NN now_RB ?_SENT 
+JANET_NN :_: Still_RB not_RB responding_VVG ,_, Mister_NP Doland_NP ._SENT I_PP 've_VHP just_RB tried_VVN ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( The_DT Doctor_NP sees_VVZ Mel_NP approaching_VVG ,_, and_CC gives_VVZ her_PP a_DT 
+chance_NN to_TO run_VV ._SENT )_) 
+DOCTOR_NN :_: Hold_VV on_IN ,_, Rudge_NP ._SENT If_IN we_PP are_VBP being_VBG hijacked_VVN ,_, I_PP think_VVP we_PP deserve_VVP an_DT 
+explanation_NN ._SENT 
+RUDGE_NN :_: Any_DT more_RBR unexpected_JJ moves_NNS ,_, and_CC it_PP wo_MD n't_RB be_VB an_DT explanation_NN you_PP 'll_MD 
+get_VV ._SENT 
+[_SYM Lounge_NP ]_SYM 
+MEL_NN :_: We_PP 're_VBP being_VBG hijacked_VVN !_SENT If_IN you_PP do_VVP n't_RB want_VV to_TO 
+get_VV caught_VVN ,_, come_VVN on_IN !_SENT Quickly_RB !_SENT 
+(_( Mel_NP ,_, Doland_NP and_CC Janet_NP get_VVP out_RP underneath_IN a_DT descending_VVG shutter_NN ._SENT The_DT 
+Doctor_NN enters_VVZ and_CC sprints_VVZ for_IN the_DT far_JJ exit_NN ._SENT )_) 
+RUDGE_NP :_: Oh_UH no_UH ,_, Doctor_NP ._SENT Over_IN there_EX ,_, away_RB from_IN the_DT door_NN ._SENT Then_RB you_PP wo_MD n't_RB be_VB 
+tempted_VVN to_TO try_VV anything_NN stupid_JJ ._SENT One_CD moment_NN ,_, Commodore_NP ._SENT I_PP 'll_MD take_VV the_DT 
+keys_NNS to_TO the_DT vault_NN ._SENT 
+TRAVERS_NNS :_: The_DT blazes_NNS you_PP will_MD ._SENT 
+(_( Travers_NP turns_VVZ away_RB ,_, so_RB Rudge_NP hits_VVZ him_PP on_IN the_DT back_NN of_IN the_DT neck_NN ._SENT He_PP 
+falls_VVZ ._SENT )_) 
+RUDGE_NN :_: Stay_VV back_RB ._SENT Professor_NP Lasky_NP ,_, reach_NN into_IN the_DT Commodore_NP 's_POS pocket_NN 
+and_CC take_VV out_RP the_DT keys_NNS ._SENT Carefully_RB ._SENT 
+DOCTOR_NN :_: Now_RB ,_, what_WP do_VVP you_PP want_VVP in_IN the_DT vault_NN ?_SENT 
+RUDGE_NN :_: For_IN me_PP ,_, not_RB a_DT thing_NN ._SENT The_DT Mogarians_NNS are_VBP after_IN the_DT consignment_NN of_IN 
+precious_JJ metals_NNS ._SENT Got_VVN this_DT quaint_JJ notion_NN it_PP was_VBD plundered_VVN from_IN their_PP$ 
+planet_NN and_CC they_PP 're_VBP just_RB recovering_VVG stolen_JJ property_NN ._SENT 
+DOCTOR_NN :_: That_WDT ca_MD n't_RB be_VB your_PP$ motive_NN ._SENT 
+LASKY_NP :_: It_PP 's_POS greed_NN ._SENT 
+(_( She_PP throws_VVZ the_DT bunch_NN of_IN keys_NNS to_TO Rudge_NP ._SENT )_) 
+RUDGE_NN :_: Not_RB completely_RB ._SENT Pride_NN as_IN well_RB ._SENT After_IN this_DT voyage_NN I_PP was_VBD being_VBG 
+written_VVN off_RP as_IN a_DT has-been_NN and_CC put_VV out_RP to_TO grass_VV ,_, so_RB I_PP decided_VVD to_TO arrange_VV 
+a_DT more_RBR comfortable_JJ retirement_NN ._SENT 
+LASKY_NP :_: If_IN you_PP 've_VHP any_DT decency_NN left_VVD ,_, you_PP 'll_MD get_VV this_DT man_NN some_DT medical_JJ 
+treatment_NN ._SENT 
+RUDGE_NN :_: There_EX 's_VBZ a_DT first_JJ aid_NN kit_NN in_IN the_DT cabinet_NN ._SENT 
+(_( The_DT officer_NN goes_VVZ to_TO fetch_VV it_PP ._SENT )_) 
+DOCTOR_NN :_: Rudge_NP ,_, this_DT hijack_VVP is_VBZ just_RB a_DT sideshow_NN ._SENT There_EX 's_VBZ a_DT much_RB greater_JJR 
+menace_NN ._SENT 
+RUDGE_NN :_: Not_RB my_PP$ problem_NN ,_, Doctor_NP ._SENT In_IN less_JJR than_IN an_DT hour_NN ,_, we_PP will_MD rendezvous_VV 
+with_IN our_PP$ pickup_NN ._SENT 
+DOCTOR_NN :_: Here_RB ,_, let_VV me_PP ._SENT After_IN all_DT ,_, I_PP am_VBP a_DT doctor_NN ._SENT 
+(_( The_DT Doctor_NP sees_VVZ to_TO Travers_NP ._SENT )_) 
+LASKY_NP :_: Rudge_NP ,_, you_PP 're_VBP nothing_NN but_CC a_DT squalid_JJ criminal_NN ._SENT 
+RUDGE_NN :_: If_IN I_PP am_VBP ,_, where_WRB does_VVZ that_DT place_NN you_PP ,_, Professor_NP ?_SENT 
+[_SYM Corridor_NP ]_SYM 
+ATZA_NN [_SYM OC_NP ]_SYM :_: Pay_NN attention_NN ._SENT The_DT 
+Hyperion_NP Three_NP is_VBZ no_RB longer_RBR under_IN the_DT command_NN of_IN Commodore_NP Travers_NP ._SENT He_PP 
+is_VBZ our_PP$ prisoner_NN ,_, together_RB with_IN three_CD other_JJ hostages_NNS ._SENT All_RB 
+personnel_NNS must_MD remain_VV at_IN their_PP$ posts_NNS ._SENT If_IN there_EX is_VBZ any_DT attempt_NN to_TO 
+approach_VV the_DT lounge_NN or_CC the_DT bridge_NN ,_, the_DT hostages_NNS will_MD be_VB killed_VVN ._SENT 
+MEL_NN :_: I_PP 'll_MD put_VV out_RP a_DT call_NN for_IN help_NN ._SENT 
+[_SYM Communications_NPS room_NN ]_SYM 
+MEL_NN :_: Oh_UH ,_, great_JJ ._SENT 
+[_SYM Outside_IN the_DT Communications_NPS room_NN ]_SYM 
+
+MEL_NN :_: Millions_NNS of_IN miles_NNS from_IN anywhere_RB and_CC we_PP 're_VBP 
+completely_RB isolated_VVN ._SENT 
+DOLAND_NN :_: Can_MD you_PP organise_VV a_DT squad_NN of_IN guards_NNS ?_SENT 
+JANET_NN :_: But_CC you_PP heard_VVD what_WP the_DT Mogarian_NP said_VVD ._SENT They_PP 'll_MD kill_VV the_DT hostages_NNS ._SENT 
+
+DOLAND_NP :_: What_WP makes_VVZ you_PP think_VVP they_PP wo_MD n't_RB anyway_RB ._SENT You_PP 're_VBP surely_RB not_RB naive_JJ 
+enough_RB to_TO accept_VV the_DT word_NN of_IN a_DT hijacker_NN ?_SENT 
+MEL_NN :_: He_PP 's_VBZ right_JJ ,_, we_PP ca_MD n't_RB just_RB do_VV nothing_NN ._SENT 
+JANET_NN :_: But_CC if_IN the_DT guards_NNS go_VVP crashing_VVG in_IN ,_, they_PP 'll_MD be_VB signing_VVG four_CD death_NN 
+warrants_NNS ._SENT 
+MEL_NN :_: Not_RB unless_IN we_PP can_MD find_VV a_DT way_NN of_IN warning_VVG the_DT hostages_NNS ._SENT 
+(_( Mel_NP opens_VVZ a_DT grating_NN and_CC steps_NNS through_RB ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+TRAVERS_NNS :_: You_PP do_VVP n't_RB believe_VV that_IN/that Rudge_NP is_VBZ behind_RB 
+these_DT killings_NNS ,_, do_VVP you_PP ._SENT 
+DOCTOR_NN :_: No._NN No_RB ,_, he_PP 's_VBZ just_RB a_DT weak_JJ man_NN gone_VVN rogue_NN ._SENT 
+TRAVERS_NNS :_: So_RB ,_, whatever_WDT the_DT outcome_NN of_IN this_DT hijack_VVP ,_, we_PP 're_VBP still_RB at_IN the_DT 
+mercy_NN of_IN a_DT murderer_NN ._SENT 
+DOCTOR_NN :_: Or_CC murderers_NNS ._SENT 
+[_SYM Bridge_NP ]_SYM 
+RUDGE_NN [_SYM OC_NP ]_SYM :_: Have_VHP you_PP got_VVD a_DT sighting_VVG 
+yet_RB ?_SENT 
+ATZA_NP :_: No_UH ,_, but_CC we_PP are_VBP on_IN schedule_NN for_IN our_PP$ 
+rendezvous_NN ._SENT We_PP should_MD complete_VV the_DT mission_NN as_IN planned_VVN if_IN your_PP$ humans_NNS 
+refrain_NN from_IN interference_NN ._SENT What_WP are_VBP you_PP doing_VVG here_RB ?_SENT 
+ORTEZO_NN :_: We_PP did_VVD not_RB request_VV refreshment_NN ._SENT 
+(_( Someone_NN throws_VVZ liquid_JJ onto_IN their_PP$ face_NN plates_NNS ,_, and_CC they_PP fall_VVP to_TO the_DT 
+floor_NN ,_, screaming_VVG ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+(_( Mel_NP has_VHZ made_VVN her_PP$ way_NN safely_RB to_TO a_DT grill_NN high_JJ in_IN 
+the_DT lounge_NN wall_NN ._SENT )_) 
+MEL_NN :_: Doctor_NN ._SENT The_DT air_NN duct_NN ._SENT 
+(_( The_DT Doctor_NP looks_VVZ across_IN at_IN Rudge_NP ,_, standing_NN by_IN the_DT reception_NN desk_NN and_NP 
+yawning_VVG ,_, then_RB gets_VVZ up_RB and_CC leans_VVZ against_IN the_DT wall_NN below_IN the_DT grill_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP are_VBP you_PP doing_VVG in_IN there_RB ?_SENT Do_VVP n't_RB you_PP know_VVP how_WRB dangerous_JJ it_PP 
+is_VBZ ?_SENT 
+MEL_NN :_: Shall_MD I_PP join_VV you_PP ?_SENT There_EX 's_VBZ going_VVG to_TO be_VB an_DT attack_NN on_IN the_DT lounge_NN ._SENT 
+When_WRB you_PP hear_VVP the_DT fire_NN alarm_NN ,_, dive_NN for_IN cover_NN ._SENT 
+DOCTOR_NN :_: No._NN 
+MEL_NN :_: What_WP do_VVP you_PP mean_VV ,_, no_UH ?_SENT 
+DOCTOR_NN :_: Too_RB risky_JJ ._SENT Attack_VV the_DT bridge_NN ._SENT 
+MEL_NN :_: The_DT bridge_NN ?_SENT 
+DOCTOR_NN :_: You_PP heard_VVD ._SENT Now_RB get_VV out_RP of_IN that_DT air_NN duct_NN ,_, quickly_RB ._SENT 
+MEL_NN :_: Okay_JJ ._SENT 
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+VERVOID_NP 2_CD :_: It_PP is_VBZ not_RB only_RB we_PP who_WP kill_VVP animal-kind_NN ._SENT 
+They_PP kill_VVP each_DT other_JJ ._SENT 
+VERVOID_NN :_: They_PP have_VHP no_DT respect_NN for_IN any_DT form_NN of_IN life_NN ._SENT We_PP shall_MD resume_VV the_DT 
+hunt_NN ._SENT 
+[_SYM Bridge_NP ]_SYM 
+(_( Doland_NP ,_, Mel_NP and_CC Janet_NP have_VHP found_VVN the_DT dead_NN 
+Mogarians_NP ._SENT )_) 
+DOLAND_NN :_: Death_NN must_MD have_VH been_VBN instantaneous_JJ ._SENT Oxygen_NN 's_POS 
+toxic_JJ to_TO a_DT Mogarian_NP ._SENT 
+MEL_NN :_: Yes_UH ,_, but_CC how_WRB ?_SENT I_PP mean_VVP ,_, who_WP could_MD have_VH done_VVN this_DT ?_SENT 
+DOLAND_NN :_: Forget_VV playing_VVG the_DT detective_NN ._SENT Let_NP 's_POS concentrate_NN on_IN the_DT living_NN ._SENT 
+Rudge_NP has_VHZ to_TO be_VB convinced_VVN that_IN/that the_DT hijack_VVP 's_VBZ a_DT lost_JJ cause_NN ,_, and_CC that_DT 's_VBZ 
+going_VVG to_TO take_VV more_JJR than_IN words_NNS ._SENT 
+MEL_NN :_: Well_RB ,_, those_DT face_NN plates_NNS ._SENT They_PP 'll_MD do_VV the_DT trick_NN ._SENT 
+(_( Meanwhile_RB ,_, a_DT Vervoid_NN gets_VVZ into_IN the_DT Isolation_NP Room_NP ,_, rips_VVZ back_RB the_DT cover_NN 
+and_CC stabs_VVZ the_DT half-Vervoid_JJ Ruth_NP as_IN she_PP screams_VVZ ._SENT )_) 
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ pacing_VVG when_WRB someone_NN knocks_VVZ on_IN the_DT 
+door_NN ._SENT )_) 
+MEL_NN [_SYM OC_NP ]_SYM :_: Mister_NP Rudge_NP ,_, hold_VVP your_PP$ fire_NN ._SENT We_PP 're_VBP coming_VVG in_IN ._SENT 
+(_( Mel_NP ,_, Janet_NP and_CC Doland_NP enter_VVP with_IN hands_NNS raised_VVD ._SENT )_) 
+JANET_NN :_: The_DT Mogarians_NNS are_VBP dead_JJ ._SENT 
+(_( Doland_NP is_VBZ holding_VVG the_DT face_NN plates_NNS ._SENT He_PP drops_VVZ them_PP and_CC knocks_VVZ the_DT gun_NN 
+out_RB of_IN Rudge_NP 's_POS hand_NN ._SENT Travers_NP catches_VVZ it_PP ._SENT Rudge_NP flees_VVZ ._SENT )_) 
+TRAVERS_NNS :_: Leave_VV him_PP to_TO the_DT guards_NNS ._SENT Get_VV up_RB on_IN the_DT bridge_NN ,_, now_RB ._SENT 
+(_( The_DT officer_NN leaves_VVZ ._SENT )_) 
+TRAVERS_NNS :_: Once_RB I_PP get_VVP this_DT ship_NN back_RB on_IN course_NN ,_, I_PP 'll_MD want_VV some_DT answers_NNS 
+from_IN you_PP ,_, Professor_NP ._SENT And_CC that_DT goes_VVZ for_IN you_PP too_RB ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: I_PP have_VHP n't_RB been_VBN holding_VVG out_RP on_IN you_PP ,_, Commodore_NP ._SENT There_EX 's_VBZ a_DT 
+audiotape_NN that_WDT 'll_MD explain_VV everything_NN ._SENT 
+TRAVERS_NNS :_: Then_RB why_RB have_VH n't_RB I_PP heard_VVD it_PP ?_SENT 
+DOCTOR_NN :_: Because_IN it_PP 's_VHZ been_VBN stolen_VVN ._SENT I_PP would_MD like_VV carte_NN blanche_NN to_TO search_NN 
+all_PDT the_DT cabins_NNS ._SENT 
+TRAVERS_NNS :_: You_PP 've_VHP got_VVN it_PP ._SENT 
+DOCTOR_NN :_: Another_DT request_NN ._SENT I_PP need_VVP a_DT phaser_NN ._SENT 
+(_( Travers_NP gives_VVZ him_PP the_DT one_CD Rudge_NP was_VBD using_VVG ._SENT The_DT Doctor_NP gives_VVZ Travers_NP a_DT 
+slip_NN of_IN paper_NN ._SENT Travers_NP leaves_VVZ ._SENT )_) 
+MEL_NN :_: A_DT phaser_NN ?_SENT You_PP ?_SENT 
+DOCTOR_NN :_: Exceptional_JJ circumstances_NNS require_VVP exceptional_JJ measures_NNS ._SENT 
+MEL_NN :_: I_PP do_VVP n't_RB buy_VV that_DT ._SENT And_CC why_WRB the_DT public_JJ announcement_NN about_IN the_DT tape_NN ?_SENT 
+Everyone_NN could_MD hear_VV ._SENT 
+DOCTOR_NN :_: Could_MD they_PP ?_SENT 
+MEL_NN :_: I_PP recognise_VVP that_IN/that innocent_JJ tone_NN ._SENT What_WP 's_VBZ going_VVG on_RP ?_SENT 
+DOCTOR_NN :_: Mel_NP ,_, I_PP entered_VVD this_DT affair_NN as_IN a_DT Judas_JJ goat_NN ._SENT I_PP intend_VVP to_TO 
+re-adopt_VVG the_DT role_NN ._SENT Now_RB ,_, if_IN Professor_NP Lasky_NP had_VHD the_DT tape_NN ,_, where_WRB do_VVP you_PP 
+think_VV she_PP 'd_MD hide_VV it_PP ?_SENT 
+MEL_NN :_: Lasky_NP ?_SENT 
+DOCTOR_NN :_: Mmm_NP ._SENT 
+MEL_NN :_: Her_PP$ cabin_NN ,_, or_CC her_PP$ locker_NN in_IN the_DT gym_NN ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( The_DT fleeing_VVG Rudge_NP is_VBZ surrounded_VVN by_IN Vervoids_NP ._SENT )_) 
+RUDGE_NP :_: What_WP are_VBP you_PP ?_SENT 
+(_( He_PP is_VBZ stabbed_VVN and_CC carried_VVN into_IN the_DT service_NN ducts_NNS ._SENT )_) 
+[_SYM Cabin_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ looking_VVG under_IN the_DT pillow_NN when_WRB 
+Doland_NP enters_VVZ ._SENT )_) 
+DOLAND_NN :_: If_IN you_PP 're_VBP looking_VVG for_IN a_DT certain_JJ tape_NN ,_, Doctor_NP ,_, I_PP do_VVP n't_RB think_VV 
+you_PP 'll_MD find_VV it_PP in_IN there_RB ._SENT 
+DOCTOR_NN :_: Does_VVZ that_RB mean_VV you_PP 've_VHP hidden_VVN it_PP somewhere_RB else_RB ?_SENT 
+DOLAND_NN :_: Obviously_RB a_DT denial_NN is_VBZ n't_RB going_VVG to_TO impress_VV you_PP ._SENT May_MD I_PP know_VV of_IN 
+what_WP I_PP 'm_VBP accused_VVN ?_SENT 
+DOCTOR_NN :_: Murder_NN ,_, amongst_IN other_JJ things_NNS ._SENT 
+DOLAND_NN :_: Murder_NN ?_SENT Am_VBP I_PP supposed_VVN to_TO treat_VV this_DT seriously_RB ?_SENT 
+DOCTOR_NN :_: I_PP have_VHP narrowed_VVN the_DT suspects_NNS down_RB to_TO two_CD ._SENT You_PP and_CC Professor_NP 
+Lasky_NP ._SENT 
+DOLAND_NN :_: Then_RB I_PP suggest_VVP you_PP search_VVP the_DT professor_NN 's_POS cabin_NN ._SENT 
+DOCTOR_NN :_: I_PP already_RB have_VHP ._SENT 
+DOLAND_NN :_: You_PP really_RB are_VBP serious_JJ ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP never_RB frivolous_JJ about_IN murder_NN ._SENT 
+DOLAND_NN :_: So_RB ,_, this_DT tape_NN ,_, it_PP 's_VBZ important_JJ ?_SENT 
+DOCTOR_NN :_: Crucial_JJ ._SENT 
+DOLAND_NN :_: I_PP see_VVP ._SENT Well_RB ,_, I_PP know_VVP I_PP 'm_VBP innocent_JJ ,_, and_CC I_PP ca_MD n't_RB believe_VV the_DT 
+professor_NN 's_VBZ guilty_JJ ,_, but_CC if_IN it_PP 'll_MD end_VV this_DT nonsense_NN ,_, then_RB ,_, I_PP know_VVP of_IN 
+another_DT place_NN where_WRB the_DT professor_NN keeps_VVZ things_NNS ._SENT 
+[_SYM Gymnasium_NP ]_SYM 
+(_( Mel_NP is_VBZ going_VVG through_IN the_DT contents_NNS of_IN Lasky_NP 's_POS 
+locker_NN ._SENT )_) 
+LASKY_NP :_: If_IN you_PP 've_VHP finished_VVN with_IN my_PP$ tracksuit_NN ?_SENT 
+MEL_NN :_: I_PP was_VBD just_RB admiring_VVG the_DT er_NN ,_, the_DT design_NN ._SENT 
+LASKY_NP :_: Do_VVP n't_RB bother_VV to_TO lie_VV ._SENT You_PP 're_VBP not_RB very_RB good_JJ at_IN it_PP ._SENT No_DT tape_NN ._SENT That_DT 's_VBZ 
+what_WP you_PP were_VBD hoping_VVG to_TO find_VV ,_, was_VBD n't_RB it_PP ?_SENT 
+[_SYM Hydroponics_NP Centre_NP ]_SYM 
+(_( The_DT locked_JJ drawer_NN wo_MD n't_RB open_VV ._SENT )_) 
+DOLAND_NN :_: I_PP 'm_VBP afraid_JJ the_DT professor_NN has_VHZ the_DT only_RB key_JJ ._SENT 
+DOCTOR_NN :_: And_CC you_PP 're_VBP not_RB going_VVG to_TO object_VV if_IN I_PP force_VVP it_PP open_JJ ?_SENT 
+(_( The_DT Doctor_NP puts_VVZ a_DT box-like_JJ device_NN on_IN the_DT drawer_NN ,_, it_PP burbles_VVZ and_CC the_DT 
+drawer_NN opens_VVZ ._SENT The_DT Doctor_NP puts_VVZ the_DT phaser_NN down_RB to_TO riffle_VV through_IN the_DT 
+contents_NNS ._SENT )_) 
+DOLAND_NN :_: Doctor_NN ._SENT Your_PP$ tape_NN ._SENT 
+(_( Doland_NP tosses_VVZ it_PP to_TO the_DT Doctor_NP and_CC picks_VVZ up_RP the_DT phaser_NN ._SENT )_) 
+DOLAND_NN :_: Not_RB that_IN/that it_PP 'll_MD do_VV you_PP much_RB good_JJ ._SENT I_PP 've_VHP wiped_VVN it_PP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, I_PP rather_RB thought_VVD you_PP might_MD have_VH done_VVN ._SENT 
+DOLAND_NN :_: You_PP still_RB suspected_VVD me_PP ,_, yet_CC you_PP came_VVD down_RB here_RB ?_SENT 
+DOCTOR_NN :_: A_DT reckless_JJ streak_NN ._SENT I_PP 'm_VBP prone_JJ to_TO them_PP ._SENT It_PP was_VBD n't_RB difficult_JJ to_TO 
+pinpoint_VV you_PP ._SENT The_DT first_JJ murder_NN could_MD only_RB have_VH been_VBN carried_VVN out_RP by_IN 
+someone_NN with_IN access_NN to_TO this_DT unit_NN ._SENT The_DT second_JJ needed_JJ poison_NN ._SENT Even_RB the_DT 
+abortive_JJ attempt_NN on_IN Mel_NP 's_POS life_NN could_MD only_RB have_VH been_VBN committed_VVN by_IN 
+someone_NN who_WP could_MD go_VV unchallenged_JJ into_IN the_DT Isolation_NP Room_NP and_CC get_VV the_DT 
+anaesthetic_JJ ._SENT 
+DOLAND_NN :_: All_PDT this_DT could_MD have_VH applied_VVN to_TO Lasky_NP ._SENT 
+DOCTOR_NN :_: No_UH ,_, not_RB the_DT Mogarians_NP ._SENT She_PP was_VBD a_DT hostage_NN when_WRB they_PP were_VBD 
+slaughtered_VVN ._SENT 
+DOLAND_NN :_: And_CC my_PP$ motive_NN ?_SENT 
+DOCTOR_NN :_: Could_MD be_VB jealousy_NN ,_, professional_JJ envy_NN ._SENT I_PP 'd_MD say_VV it_PP was_VBD the_DT more_RBR 
+commonplace_JJ avarice_NN ._SENT 
+DOLAND_NN :_: Then_RB you_PP 're_VBP not_RB as_RB astute_JJ as_IN I_PP thought_VVD ,_, Doctor_NP ._SENT Those_DT 
+creatures_NNS ,_, we_PP call_VVP them_PP Vervoids_NNS ,_, represent_VVP vast_JJ economic_JJ power_NN ._SENT 
+(_( And_CC one_PP is_VBZ listening_VVG to_TO this_DT conversation_NN ._SENT )_) 
+DOCTOR_NN :_: Provided_VVD you_PP can_MD get_VV them_PP back_RB to_TO Earth_NP ._SENT 
+DOLAND_NP :_: Oh_UH ,_, but_CC I_PP shall_MD ,_, no_DT matter_NN what_WP the_DT cost_NN ._SENT Then_RB robots_NNS can_MD be_VB 
+dumped_VVN on_IN the_DT scrap_NN heap_NN ._SENT Vervoids_NNS will_MD run_VV the_DT factories_NNS and_CC farms_NNS at_IN 
+practically_RB no_DT cost_NN ._SENT All_RB they_PP need_VVP is_VBZ sunlight_NN and_CC water_NN ._SENT 
+DOCTOR_NN :_: I_PP take_VVP it_PP you_PP have_VHP someone_NN willing_JJ to_TO finance_VV this_DT 
+exploitation_NN ?_SENT 
+DOLAND_NN :_: A_DT consortium_NN with_IN the_DT vision_NN to_TO recognise_VV the_DT potential_NN of_IN the_DT 
+Vervoids_NNS ._SENT 
+(_( The_DT Vervoid_JJ leaves_NNS ._SENT )_) 
+DOCTOR_NN :_: Vision_NN ?_SENT You_PP 're_VBP talking_VVG about_IN slave_NN labour_NN ._SENT 
+DOLAND_NN :_: The_DT most_RBS enduring_JJ and_CC spectacular_JJ empire_NN ,_, Rome_NP ,_, was_VBD built_VVN on_RP 
+slave_NN labour_NN ._SENT 
+DOCTOR_NN :_: Came_VVD to_TO a_DT pretty_RB unpleasant_JJ end_NN ,_, though_RB ._SENT 
+DOLAND_NN :_: Which_WDT brings_VVZ us_PP neatly_RB to_TO you_PP ._SENT 
+(_( Doland_NP squeezes_VVZ the_DT phaser_NN trigger_NN ,_, but_CC it_PP does_VVZ n't_RB go_VV off_RP ._SENT )_) 
+DOCTOR_NN :_: I_PP took_VVD the_DT precaution_NN of_IN disarming_VVG it_PP ._SENT 
+(_( Doland_NP leaves_VVZ the_DT lab_NN and_CC walks_VVZ straight_RB into_IN Travers_NP and_CC two_CD guards_NNS ._SENT )_) 
+
+DOCTOR_NN :_: I_PP also_RB took_VVD the_DT precaution_NN of_IN taking_VVG the_DT Commodore_NP into_IN my_PP$ 
+confidence_NN ._SENT 
+TRAVERS_NNS :_: Throw_VV him_PP in_IN the_DT brig._NN 
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+(_( The_DT pile_NN of_IN bodies_NNS grows_VVZ ._SENT )_) 
+VERVOID_NN :_: Doland_NP will_MD soon_RB be_VB joining_VVG them_PP ._SENT 
+[_SYM Corridor_NP ]_SYM 
+(_( A_DT guard_NN is_VBZ pushing_VVG Doland_NP down_RP a_DT corridor_NN when_WRB a_DT 
+Vervoid_NP comes_VVZ out_RP of_IN a_DT grating_NN and_CC kills_VVZ him_PP ._SENT Doland_NP runs_VVZ round_VV the_DT 
+corner_JJ to_TO be_VB surrounded_VVN by_IN more_JJR of_IN them_PP ._SENT )_) 
+DOLAND_NP :_: No_UH ,_, no._NN I_PP 'm_VBP not_RB your_PP$ enemy_NN ._SENT Without_IN me_PP ,_, you_PP would_MD n't_RB exist_VV ._SENT I_PP 'm_VBP 
+your_PP$ friend_NN ._SENT 
+(_( Doland_NP tries_VVZ shaking_VVG the_DT '_'' hand_NN '_'' of_IN one_CD of_IN them_PP ._SENT It_PP shoots_VVZ a_DT thorn_NN into_IN 
+his_PP$ palm_NN ._SENT )_) 
+[_SYM Bridge_NP ]_SYM 
+(_( Mel_NP and_CC Professor_NP Lasky_NP have_VHP joined_VVN Commodore_NP 
+Travers_NP and_CC the_DT Doctor_NP ._SENT )_) 
+TRAVERS_NNS :_: You_PP created_VVD these_DT psychopaths_NNS ._SENT Now_RB tell_VV me_PP how_WRB to_TO get_VV rid_JJ of_IN 
+them_PP ._SENT 
+DOCTOR_NN :_: The_DT Vervoids_NNS are_VBP not_RB psychopaths_NNS ._SENT 
+MEL_NN :_: Doctor_NN ,_, I_PP heard_VVD them_PP say_VVP they_PP intended_VVD to_TO wipe_VV us_PP out_RP ._SENT 
+LASKY_NP :_: Something_NN must_MD have_VH gone_VVN wrong_JJ ,_, radically_RB wrong_JJ ._SENT A_DT malfunction_NN 
+of_IN the_DT DNA_NN ._SENT 
+DOCTOR_NN :_: Why_WRB is_VBZ it_PP none_NN of_IN you_PP can_MD see_VV what_WP 's_VBZ so_RB glaringly_RB obvious_JJ ?_SENT 
+TRAVERS_NNS :_: Maybe_RB we_PP lack_VVP your_PP$ divine_JJ insight_NN ._SENT 
+DOCTOR_NN :_: No_DT divine_JJ insight_NN ,_, just_RB logic_NN ._SENT 
+MEL_NN :_: Logic_NN ?_SENT 
+DOCTOR_NN :_: When_WRB you_PP overheard_VVD the_DT Vervoids_NP ,_, Mel_NP ,_, how_WRB did_VVD they_PP describe_VVP us_PP ?_SENT 
+
+MEL_NN :_: Er_UH ,_, wait_VV a_DT second_NN ._SENT Animal-kind_NP ._SENT 
+DOCTOR_NN :_: Not_RB human_JJ beings_NNS ,_, not_RB Mogarians_NP ,_, animal-kind_NN ._SENT 
+TRAVERS_NNS :_: I_PP hope_VVP this_DT is_VBZ relevant_JJ ._SENT 
+LASKY_NP :_: It_PP is_VBZ ._SENT He_PP 's_VBZ making_VVG sense_NN ._SENT The_DT Vervoids_NNS are_VBP plants_NNS ._SENT 
+DOCTOR_NN :_: At_IN some_DT stage_NN ,_, directly_RB or_CC indirectly_RB ,_, all_DT animal-kind_NN consumes_VVZ 
+plant_NN life_NN ._SENT Without_IN it_PP ,_, we_PP 'd_MD perish_VV ._SENT 
+LASKY_NP :_: I_PP must_MD have_VH been_VBN blinded_VVN by_IN professional_JJ vanity_NN ._SENT Bruchner_NP saw_VVD 
+it_PP ._SENT I_PP should_MD have_VH ,_, too_RB ._SENT 
+MEL_NN :_: Doctor_NN ,_, if_IN you_PP 're_VBP right_JJ ,_, then_RB coexistence_NN with_IN the_DT Vervoids_NP is_VBZ an_DT 
+impossibility_NN ._SENT 
+TRAVERS_NNS :_: It_PP 's_VBZ a_DT question_NN of_IN self-preservation_NN ._SENT Kill_VV or_CC be_VB killed_VVN ._SENT 
+DOCTOR_NN :_: A_DT conflict_NN in_IN which_WDT there_EX can_MD be_VB no_DT justice_NN ._SENT 
+TRAVERS_NNS :_: Equally_RB ,_, there_EX 's_VBZ no_DT choice_NN ,_, and_CC that_WDT goes_VVZ for_IN you_PP too_RB ,_, Doctor_NP ._SENT 
+We_PP need_VVP your_PP$ undivided_JJ commitment_NN ._SENT 
+[_SYM Trial_NP room_NN ]_SYM 
+DOCTOR_NN :_: And_CC there_RB you_PP have_VH it_PP ._SENT The_DT direct_JJ request_NN ._SENT 
+I_PP did_VVD not_RB meddle_VV ._SENT I_PP was_VBD presented_VVN with_IN an_DT appeal_NN ,_, and_CC not_RB just_RB from_IN 
+anybody_NN ,_, but_CC from_IN the_DT man_NN in_IN whom_WP authority_NN was_VBD vested_VVN ._SENT 
+INQUISITOR_NN :_: I_PP accept_VVP your_PP$ argument_NN ._SENT Nor_CC ,_, Valeyard_NP ,_, can_MD you_PP refute_VV it_PP ._SENT 
+VALEYARD_NN :_: Perhaps_RB we_PP should_MD await_VV the_DT outcome_NN of_IN this_DT adventure_NN ,_, my_PP$ 
+lady_NN ._SENT 
+INQUISITOR_NN :_: Doctor_NN ,_, do_VVP you_PP wish_VVP to_TO continue_VV ?_SENT 
+DOCTOR_NN :_: Providing_VVG we_PP can_MD trust_VV the_DT Matrix_NP ,_, my_PP$ lady_NN ._SENT And_CC 
+I_PP wo_MD n't_RB know_VV that_IN/that until_IN I_PP see_VVP it_PP ._SENT 
+(_( The_DT Doctor_NP starts_VVZ up_RP the_DT Matrix_NP again_RB ._SENT )_) 
+[_SYM Hydroponics_NP Centre_NP ]_SYM 
+LASKY_NP :_: There_EX 's_VBZ not_RB enough_RB left_VVN to_TO make_VV up_RP a_DT 
+spoonful_NN of_IN herbicide_NN ._SENT The_DT Vervoids_NNS must_MD have_VH got_VVN here_RB first_JJ ._SENT 
+MEL_NN :_: Any_DT more_JJR ideas_NNS ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: Why_WRB ca_MD n't_RB I_PP rid_VV myself_PP of_IN the_DT feeling_NN we_PP 're_VBP approaching_VVG this_DT 
+the_DT wrong_JJ way_NN round_NN ?_SENT Professor_NN ,_, do_VVP Vervoid_JJ chloroplasts_NNS function_VVP 
+normally_RB ?_SENT 
+LASKY_NP :_: A_DT cytogeneticist_NN now_RB ?_SENT You_PP 're_VBP a_DT man_NN of_IN varied_JJ talents_NNS ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB prevaricate_VV ,_, Professor_NP ._SENT 
+LASKY_NP :_: Yes_UH ,_, Vervoid_JJ chloroplasts_NNS trap_NN sunlight_NN as_RB is_VBZ normal_JJ with_IN all_DT 
+plants_NNS ._SENT 
+MEL_NN :_: Doctor_NN ,_, there_EX 's_VBZ something_NN out_IN there_RB ._SENT 
+(_( Lots_NNS of_IN Vervoids_NP ._SENT )_) 
+DOCTOR_NN :_: Is_VBZ there_RB another_DT exit_NN ?_SENT 
+LASKY_NP :_: Not_RB this_DT side_NN of_IN the_DT hold_NN ._SENT I_PP 'm_VBP going_VVG to_TO talk_VV to_TO them_PP ._SENT 
+DOCTOR_NN :_: They_PP wo_MD n't_RB listen_VV ._SENT 
+LASKY_NP :_: Perhaps_RB they_PP will_MD ,_, to_TO me_PP ._SENT I_PP was_VBD n't_RB going_VVG to_TO exploit_VV them_PP like_VV 
+Doland_NP ._SENT They_PP 'll_MD know_VV that_DT ._SENT 
+DOCTOR_NN :_: They_PP 'll_MD spare_VV no_RB one_CD ._SENT 
+LASKY_NP :_: I_PP have_VHP to_TO try_VV ._SENT 
+(_( Mel_NP finds_VVZ an_DT entrance_NN to_TO the_DT service_NN ducts_NNS behind_IN the_DT little_JJ lab_NN ._SENT )_) 
+MEL_NN :_: Doctor_NN !_SENT 
+(_( Lasky_NP walks_VVZ up_RP to_TO the_DT Vervoids_NP ._SENT )_) 
+LASKY_NP :_: You_PP must_MD know_VV who_WP I_PP am_VBP ._SENT 
+VERVOID_NN :_: Yes_UH ,_, Professor_NP Lasky_NP ,_, we_PP do_VVP ._SENT 
+LASKY_NP :_: Then_RB you_PP must_MD also_RB be_VB aware_JJ that_IN/that I_PP mean_VVP you_PP no_DT harm_NN ._SENT 
+VERVOID_NN :_: All_DT animal-kind_NN is_VBZ our_PP$ enemy_NN ,_, Professor_NP ._SENT Even_RB you_PP ._SENT 
+(_( They_PP stab_VVP her_PP and_CC carry_VV her_PP away_RP ._SENT 
+(_( Meanwhile_RB ,_, a_DT worker_NN has_VHZ managed_VVN to_TO push_VV one_CD Vervoid_NN into_IN the_DT 
+pulveriser_NN ,_, before_IN another_DT gets_VVZ him_PP in_IN the_DT back_NN ._SENT )_) 
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+(_( Mel_NP has_VHZ lead_VVN the_DT Doctor_NP into_IN the_DT ducts_NNS ,_, and_CC they_PP 
+have_VHP found_VVN the_DT stash_NN of_IN bodies_NNS ._SENT )_) 
+MEL_NN :_: How_WRB could_MD they_PP ?_SENT It_PP 's_VBZ obscene_JJ ._SENT 
+DOCTOR_NN :_: Not_RB to_TO a_DT Vervoid_NN ._SENT 
+MEL_NN :_: You_PP ca_MD n't_RB justify_VV it_PP ._SENT It_PP 's_VBZ just_RB 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT matter_NN of_IN perspective_NN ,_, Mel_NP ._SENT In_IN your_PP$ house_NN in_IN Pease_NP 
+Pottage_NN ,_, you_PP had_VHD a_DT large_JJ garden_NN ._SENT What_WP did_VVD you_PP do_VVP with_IN the_DT plants_NNS and_CC 
+weeds_VVZ you_PP uprooted_VVD ?_SENT 
+MEL_NN :_: Put_VV them_PP on_IN a_DT compost_NN heap_NN ._SENT 
+DOCTOR_NN :_: They_PP 're_VBP obeying_VVG instinct_NN ,_, like_IN migrating_VVG birds_NNS or_CC salmon_NN 
+swimming_VVG relentlessly_RB upstream_RB to_TO spawn_VV even_RB though_IN they_PP may_MD die_VV ._SENT A_DT 
+compulsive_JJ following_NN of_IN the_DT life_NN cycle_NN ._SENT Come_VVN on_IN ,_, Mel_NP ._SENT 
+[_SYM Lounge_NP ]_SYM 
+(_( The_DT wicker_NN furniture_NN is_VBZ n't_RB making_VVG a_DT very_RB good_JJ 
+barricade_NN ._SENT Janet_NP reports_VVZ in_IN on_IN her_PP$ comm_NNS ._SENT device_NN ._SENT )_) 
+JANET_NN :_: It_PP 's_VBZ useless_JJ ,_, Commodore_NP ._SENT 
+[_SYM Bridge_NP ]_SYM 
+JANET_NN [_SYM OC_NP ]_SYM :_: They_PP 're_VBP everywhere_RB !_SENT 
+DOCTOR_NN :_: We_PP need_VVP your_PP$ help_NN ,_, Commodore_NP ._SENT 
+TRAVERS_NNS :_: Name_VV it_PP ._SENT 
+DOCTOR_NN :_: Like_IN the_DT Vervoids_NNS ,_, we_PP 're_VBP being_VBG driven_VVN by_IN blind_JJ instinct_NN ._SENT Kill_VV 
+or_CC be_VB killed_VVN ._SENT 
+TRAVERS_NNS :_: We_PP 've_VHP been_VBN over_IN that_DT ._SENT 
+DOCTOR_NN :_: What_WP if_IN instead_RB of_IN bringing_VVG their_PP$ lives_NNS to_TO an_DT abrupt_JJ end_NN we_PP did_VVD 
+the_DT opposite_NN ,_, accelerated_VVD the_DT Vervoid_JJ life_NN cycle_NN ?_SENT 
+TRAVERS_NP :_: How_WRB the_DT blazes_NNS do_VVP we_PP do_VVP that_RB ?_SENT 
+DOCTOR_NN :_: Vionesium_NN ._SENT 
+MEL_NN :_: Vionesium_NN ?_SENT 
+DOCTOR_NN :_: A_DT rare_JJ metal_NN found_VVN on_IN the_DT airless_JJ planet_NN of_IN Mogar_NP ._SENT 
+TRAVERS_NNS :_: And_CC worth_JJ a_DT prince_NN 's_POS ransom_NN ._SENT 
+DOCTOR_NN :_: Or_CC a_DT hijack_VVP ._SENT 
+MEL_NN :_: You_PP mean_VVP there_EX 's_VBZ a_DT consignment_NN on_IN board_NN ?_SENT 
+TRAVERS_NNS :_: That_WDT 's_VBZ right_JJ ,_, in_IN the_DT vault_NN ._SENT 
+MEL_NN :_: But_CC how_WRB will_MD this_DT vionesium_NN accelerate_VV the_DT Vervoid_JJ life_NN cycle_NN ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT substance_NN similar_JJ to_TO magnesium_NN ._SENT Exposed_VVN to_TO oxygenated_VVN 
+air_NN ,_, it_PP releases_VVZ incredibly_RB intense_JJ light_NN and_CC carbon_NN dioxide_NN ._SENT Spring_NN ,_, 
+summer_NN ,_, autumn_NN ,_, all_DT condensed_JJ into_IN a_DT few_JJ moments_NNS ._SENT 
+TRAVERS_NNS :_: Seasons_NNS which_WDT I_PP may_MD be_VB a_DT long_JJ time_NN enjoying_VVG again_RB if_IN I_PP go_VVP 
+robbing_VVG my_PP$ own_JJ vault_NN ._SENT 
+MEL_NN :_: Seasons_NNS you_PP can_MD forget_VV if_IN you_PP do_VVP n't_RB ._SENT We_PP 've_VHP seen_VVN what_WP these_DT 
+creatures_NNS can_MD do_VV ._SENT 
+DOCTOR_NN :_: You_PP 've_VHP no_DT alternative_NN ,_, Commodore_NP ._SENT 
+MEL_NN :_: You_PP ca_MD n't_RB send_VV for_IN outside_JJ help_NN ,_, the_DT ship_NN 's_VBZ completely_RB cut_VVN off_RP ._SENT 
+The_DT Doctor_NP 's_VBZ the_DT only_RB hope_VVP you_PP 've_VHP got_VVN ._SENT 
+TRAVERS_NNS :_: All_DT right_NN ,_, Doctor_NP ,_, you_PP can_MD have_VH the_DT vionesium_NN ._SENT What_WP 's_VBZ the_DT 
+drill_NN ?_SENT 
+DOCTOR_NN :_: First_RB ,_, you_PP must_MD drive_VV the_DT Vervoids_NNS back_RB to_TO their_PP$ lair_NN ._SENT 
+TRAVERS_NNS :_: Me_FW ?_SENT 
+DOCTOR_NN :_: Plunge_VV the_DT ship_NN into_IN darkness_NN ._SENT 
+[_SYM Lounge_NP ]_SYM 
+JANET_NN :_: They_PP 're_VBP never_RB going_VVG to_TO give_VV up_RP !_SENT 
+[_SYM Lounge_NP ]_SYM 
+TRAVERS_NNS :_: Attention_NN all_DT passengers_NNS and_CC crew_NN ._SENT A_DT 
+major_JJ fault_NN has_VHZ developed_VVN in_IN the_DT generators_NNS ._SENT 
+[_SYM Service_NP duct_NN ]_SYM 
+(_( A_DT Vervoid_NN stops_VVZ to_TO listen_VV ._SENT )_) 
+TRAVERS_NN [_SYM OC_NP ]_SYM :_: To_TO effect_VV necessary_JJ repairs_NNS ,_, the_DT heating_NN will_MD be_VB shut_VVN 
+down_JJ and_CC auxiliary_JJ lighting_NN only_RB will_MD be_VB in_IN operation_NN ._SENT 
+(_( The_DT red_JJ emergency_NN lighting_NN comes_VVZ on_IN ._SENT )_) 
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+VERVOID_NN :_: Are_VBP all_RB the_DT Vervoids_NNS here_RB ?_SENT 
+VERVOID_NP 2_CD :_: There_EX is_VBZ still_RB another_DT to_TO come_VV ._SENT 
+(_( The_DT Doctor_NP and_CC others_NNS are_VBP listening_VVG ._SENT )_) 
+VERVOID_NN :_: This_DT power_NN fault_NN could_MD be_VB a_DT trick_NN ._SENT 
+VERVOID_NP 2_CD :_: What_WP can_MD they_PP gain_VV ?_SENT Animal-kind_NN need_VVP the_DT life_NN support_NN 
+system_NN ._SENT They_PP must_MD repair_VV the_DT generator_NN to_TO survive_VV ._SENT 
+(_( The_DT last_JJ Vervoid_NN approaches_VVZ Mel_NP 's_POS position_NN ._SENT She_PP screams_VVZ ._SENT The_DT rest_NN of_IN 
+the_DT Vervoids_NNS turn_VVP on_IN her_PP ._SENT )_) 
+MEL_NN :_: No_UH !_SENT 
+DOCTOR_NN :_: The_DT vionesium_NN ,_, Mel_NP !_SENT 
+(_( The_DT Doctor_NP throws_VVZ down_RP a_DT globe_NN and_CC it_PP burst_VVP into_IN an_DT intense_JJ white_NN 
+light_JJ fireball_NN ._SENT The_DT others_NNS throw_VVP their_PP$ globes_NNS and_CC the_DT Doctor_NP pulls_VVZ Mel_NP 
+clear_JJ of_IN the_DT disorientated_VVN Vervoids_NNS ,_, who_WP begin_VVP to_TO go_VV brown_JJ and_NP 
+collapse_NN ,_, wailing_VVG in_IN the_DT autumn_NN of_IN their_PP$ lives_NNS ._SENT Soon_RB there_EX is_VBZ nothing_NN 
+left_VVN but_CC silence_NN and_CC leaf_NN litter_NN ._SENT The_DT Doctor_NP contacts_NNS the_DT bridge_NN ._SENT )_) 
+DOCTOR_NN :_: You_PP can_MD restore_VV power_NN ._SENT It_PP 's_VBZ over_RB ._SENT 
+[_SYM Bridge_NP ]_SYM 
+TRAVERS_NNS :_: Restore_VV power_NN ._SENT 
+[_SYM Vervoid_JJ lair_NN ]_SYM 
+(_( The_DT lights_NNS come_VVP back_RB up_RP ._SENT The_DT Doctor_NP picks_VVZ up_RP a_DT 
+leaf_NN and_CC watches_VVZ it_PP disintegrate_VV in_IN his_PP$ hand_NN ._SENT )_) 
+[_SYM Cargo_NP hold_NN ]_SYM 
+JANET_NN :_: Till_IN we_PP meet_VVP again_RB ,_, Mel_NP ._SENT 
+MEL_NN :_: Yes_UH ._SENT 
+JANET_NN :_: Doctor_NN ._SENT 
+TRAVERS_NNS :_: No_RB ,_, do_VVP n't_RB say_VV that_DT ._SENT I_PP owe_VVP you_PP my_PP$ thanks_NNS ,_, Doctor_NP ,_, but_CC let_VVP 's_POS 
+make_VV this_DT the_DT sweet_JJ sorrow_NN of_IN a_DT final_JJ parting_NN ,_, hmm_NP ?_SENT 
+MEL_NN :_: I_PP shall_MD remember_VV that_IN/that the_DT next_JJ time_NN we_PP get_VVP a_DT mayday_NN call_NN ._SENT 
+DOCTOR_NN :_: She_PP means_VVZ that_IN/that ,_, too_RB ._SENT Memory_NN like_IN an_DT elephant_NN ._SENT 
+MEL_NN :_: That_WDT 's_VBZ his_PP$ idea_NN of_IN a_DT compliment_NN ,_, comparing_VVG me_PP to_TO an_DT elephant_NN ._SENT 
+DOCTOR_NN :_: But_CC so_RB ludicrously_RB appropriate_JJ ,_, I_PP find_VVP it_PP amusing_JJ ._SENT 
+MEL_NN :_: Well_RB ,_, at_IN least_JJS if_IN you_PP 're_VBP laughing_VVG you_PP ca_MD n't_RB be_VB singing_VVG ._SENT Have_VHP you_PP 
+ever_RB heard_VVN his_PP$ rendering_NN of_IN On_NP With_IN The_DT Motley_NP ?_SENT Count_VV your_PP$ blessings_NNS ._SENT 
+Bye_NP ._SENT 
+(_( Mel_NP follows_VVZ the_DT Doctor_NP into_IN the_DT Tardis_NP and_CC it_PP dematerialises_VVZ to_TO the_DT 
+sound_NN of_IN the_DT Doctor_NP singing_NN ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Vesti_NN la_DT guibba_NN e_SYM la_FW faccia_NP 
+[_SYM Trial_NP room_NN ]_SYM 
+INQUISITOR_NN :_: Did_VVD none_NN of_IN the_DT unfortunate_JJ creatures_NNS 
+survive_VV ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: No_UH ,_, my_PP$ lady_NN ._SENT Had_VHD even_RB a_DT leaf_NN survived_VVN and_CC fallen_VVN on_IN fertile_JJ 
+soil_NN ,_, a_DT Vervoid_NP would_MD have_VH grown_VVN ._SENT 
+VALEYARD_NN :_: Every_DT Vervoid_NN was_VBD destroyed_VVN by_IN your_PP$ ingenious_JJ plan_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+VALEYARD_NN :_: Whether_IN or_CC not_RB the_DT Doctor_NP has_VHZ proved_VVN himself_PP innocent_JJ of_IN 
+meddling_NN is_VBZ no_RB longer_RBR the_DT cardinal_NN issue_NN before_IN this_DT court_NN ._SENT He_PP has_VHZ 
+proved_VVD himself_PP guilty_JJ of_IN a_DT far_RB greater_JJR crime_NN ._SENT 
+INQUISITOR_NN :_: You_PP refer_VVP to_TO Article_NP seven_CD of_IN Gallifreyan_NP law_NN ?_SENT 
+DOCTOR_NN :_: No_UH ,_, my_PP$ lady_NN ,_, that_WDT cannot_MD apply_VV !_SENT Had_VHD a_DT single_JJ Vervoid_NN reached_VVD 
+Earth_NP ,_, the_DT human_JJ race_NN would_MD have_VH been_VBN eliminated_VVN !_SENT 
+VALEYARD_NN :_: Article_NN seven_CD permits_NNS no_DT exceptions_NNS ._SENT The_DT Doctor_NP has_VHZ destroyed_VVN 
+a_DT complete_JJ species_NN ._SENT The_DT charge_NN must_MD now_RB be_VB genocide_NN ._SENT 
+To_TO Part_NP Thirteen_NP >_SYM 
+

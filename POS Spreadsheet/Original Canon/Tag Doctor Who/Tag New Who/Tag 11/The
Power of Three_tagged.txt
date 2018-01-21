@@ -1,0 +1,800 @@
+AMY_NN 
+[_SYM OC_NP ]_SYM :_: Life_NN with_IN the_DT Doctor_NP was_VBD like_IN this_DT ._SENT 
+(_( Lots_NNS of_IN flashes_NNS of_IN action_NN clips_NNS ._SENT )_) 
+AMY_NN [_SYM OC_NP ]_SYM :_: Real_JJ life_NN was_VBD like_IN this_DT ._SENT 
+[_SYM Kitchen_NP -_: July_NP ]_SYM 
+
+(_( There_EX are_VBP 59_CD messages_NNS on_IN the_DT telephone_NN 
+answerphone_NN ._SENT Rory_NP it_PP putting_VVG clothes_NNS from_IN a_DT suitcase_NN into_IN the_DT washing_NN 
+machine_NN while_IN Amy_NP checks_VVZ the_DT fridge_NN ._SENT )_) 
+WOMAN_NN [_SYM answerphone_NN ]_SYM :_: It_PP 's_VBZ Lane_NP 's_POS Opticians_NP ._SENT Just_RB reminding_VVG you_PP your_PP$ 
+reading_NN glasses_NNS are_VBP ready_JJ for_IN collection_NN ._SENT Bye_NP !_SENT 
+AMY_NN :_: Milk_NN two_CD months_NNS out_RB of_IN date_NN ._SENT Yogurt_NN ._SENT 
+(_( It_PP smells_VVZ and_CC looks_VVZ so_RB bad_JJ she_PP drops_VVZ it_PP ._SENT )_) 
+AMY_NN :_: Eek_NN !_SENT Do_VVP n't_RB ask_VV ._SENT 
+RORY_NN :_: We_PP 've_VHP run_VVN out_RP of_IN washing_VVG tablets_NNS ._SENT 
+[_SYM Back_JJ garden_NN ]_SYM 
+
+RORY_NN :_: We_PP have_VHP two_CD lives_NNS ._SENT Real_JJ life_NN and_CC Doctor_NP life_NN ._SENT 
+Except_IN real_JJ life_NN does_VVZ n't_RB get_VV much_RB of_IN a_DT look_NN in_IN ._SENT 
+AMY_NN :_: What_WP do_VVP we_PP do_VVP ?_SENT 
+RORY_NN :_: Choose_VV ?_SENT 
+(_( The_DT sound_NN of_IN a_DT Tardis_NP materialising_VVG ._SENT )_) 
+AMY_NN :_: Not_RB today_NN ,_, though_RB ._SENT 
+RORY_NP :_: Nah_NP ,_, not_RB today_NN ._SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: Every_DT time_NN we_PP flew_VVD away_RB with_IN the_DT Doctor_NP ,_, we_PP 'd_MD just_RB become_VV 
+part_NN of_IN his_PP$ life_NN ._SENT But_CC he_PP never_RB stood_VVD still_RB long_RB enough_JJ to_TO become_VV part_NN 
+of_IN ours_PP ._SENT Except_IN once_RB ._SENT The_DT year_NN of_IN the_DT slow_JJ invasion_NN ._SENT The_DT time_NN the_DT 
+Doctor_NN came_VVD to_TO stay_VV ._SENT 
+(_( As_IN Rory_NP and_CC Amy_NP sleep_NN ,_, a_DT black_JJ box_NN appears_VVZ downstairs_NN and_CC floats_VVZ onto_IN 
+a_DT shelf_NN ._SENT )_) 
+
+[_SYM Front_NP door_NN ]_SYM 
+
+(_( Rory_NP and_CC Amy_NP are_VBP woken_VVN by_IN the_DT doorbell_NN ._SENT They_PP look_VVP 
+out_RB of_IN their_PP$ bedroom_NN window_NN ._SENT )_) 
+RORY_NP :_: Dad_NP ,_, it_PP 's_VBZ half_DT past_JJ six_CD in_IN the_DT morning_NN ._SENT 
+BRIAN_NP :_: What_WP are_VBP you_PP doing_VVG lying_VVG around_RP ?_SENT Have_VHP n't_RB you_PP seen_JJ them_PP ?_SENT 
+(_( He_PP has_VHZ one_CD of_IN the_DT boxes_NNS ,_, and_CC there_EX are_VBP lots_NNS of_IN them_PP scattered_VVD around_RP 
+the_DT street_NN like_IN three_CD inch_NN square_JJ black_JJ hailstones_NNS ._SENT )_) 
+RORY_NP :_: What_WP are_VBP they_PP ?_SENT 
+BRIAN_NP :_: Nobody_NN knows_VVZ ._SENT They_PP 're_VBP everywhere_RB ._SENT 
+AMY_NN :_: Well_RB ,_, where_WRB have_VH they_PP come_VVN from_IN ?_SENT Wait_VV ._SENT 
+(_( A_DT man_NN in_IN a_DT tweed_NN jacket_NN is_VBZ sitting_VVG on_IN top_NN of_IN a_DT child_NN 's_POS climbing_VVG frame_NN 
+examining_VVG a_DT box_NN ._SENT )_) 
+AMY_NN :_: Doctor_NN !_SENT 
+DOCTOR_NN :_: Invasion_NN of_IN the_DT very_RB small_JJ cubes_NNS ._SENT That_DT 's_VBZ new_JJ ._SENT 
+(_( The_DT BBC_NP News_NP channel_NN provides_VVZ information_NN ._SENT )_) 
+BBC_NP replaced-url_NP NONE_NONE (_( Matthew_NP Amroliwala_NP )_) World_NP leaders_NNS are_VBP appealing_VVG for_IN calm_NN ._SENT 
+BBC_NP replaced-url_NP NONE_NONE (_( Joanna_NP Gosling_NP ?_SENT )_) After_IN the_DT global_JJ appearance_NN of_IN millions_NNS of_IN 
+small_JJ cubes_NNS ._SENT Despite_IN official_JJ warnings_NNS ,_, people_NNS have_VHP been_VBN taking_VVG the_DT 
+cubes_NNS from_IN the_DT streets_NNS into_IN offices_NNS and_CC homes_NNS ._SENT 
+MATTHEW_NN [_SYM on_IN TV_NP ]_SYM :_: What_WP are_VBP they_PP ?_SENT 
+JOANNA_NN [_SYM on_IN TV_NP ]_SYM :_: Where_WRB do_VVP they_PP come_VV from_IN ?_SENT 
+MATTHEW_NN [_SYM on_IN TV_NP ]_SYM :_: And_CC why_WRB are_VBP they_PP here_RB ?_SENT 
+PROF_NN BRIAN_NP COX_NP [_SYM on_IN TV_NP ]_SYM :_: Well_RB ,_, they_PP 're_VBP certainly_RB not_RB random_JJ space_NN 
+debris_NN ._SENT They_PP 're_VBP too_RB perfectly_RB formed_VVN for_IN that_DT ._SENT Are_VBP they_PP 
+extra-terrestrial_JJ in_IN origin_NN ?_SENT Well_RB ,_, you_PP 'll_MD have_VH to_TO ask_VV a_DT better_JJR man_NN than_IN 
+me_FW ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: All_DT absolutely_RB identical_JJ ._SENT Not_RB a_DT single_JJ 
+molecule_NN 's_POS difference_NN between_IN them_PP ._SENT No_DT blemishes_NNS ,_, imperfections_NNS ,_, 
+individualities_NNS ._SENT 
+BRIAN_NP :_: What_WP if_IN they_PP 're_VBP bombs_NNS ?_SENT Billions_NNS of_IN tiny_JJ bombs_NNS ?_SENT Or_CC transport_NN 
+capsules_NNS maybe_RB ,_, with_IN a_DT mini_JJ robot_NN inside_NN ._SENT Or_CC deadly_JJ hard_JJ drives_NNS ._SENT Or_CC 
+alien_JJ eggs_NNS ?_SENT Or_CC messages_NNS needing_VVG decoding_VVG ._SENT Or_CC they_PP 're_VBP all_DT parts_NNS of_IN a_DT 
+bigger_JJR whole_NN ._SENT Jigsaw_NN puzzles_NNS that_WDT need_VVP fitting_JJ together_RB ._SENT 
+DOCTOR_NN :_: Very_RB thorough_JJ ,_, Brian_NP ._SENT Very_RB ,_, very_RB thorough_JJ ._SENT Well_RB done_VVN ._SENT Stay_VV 
+here_RB ._SENT Watch_VV these_DT ._SENT Yell_VV if_IN anything_NN happens_VVZ ._SENT 
+AMY_NN :_: Doctor_NN ,_, is_VBZ this_DT an_DT alien_JJ invasion_NN ?_SENT Because_IN that_DT 's_VBZ what_WP it_PP feels_VVZ 
+like_JJ ._SENT 
+RORY_NN :_: There_EX could_MD n't_RB be_VB life-forms_NNS in_IN every_DT cube_NN ,_, could_MD there_RB ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV ._SENT And_CC I_PP really_RB do_VVP n't_RB like_VV not_RB knowing_VVG ._SENT 
+[_SYM Kitchen_NP ]_SYM 
+
+(_( The_DT Tardis_NP is_VBZ parked_VVN in_IN the_DT lounge_NN ._SENT )_) 
+DOCTOR_NN :_: Right_RB ,_, I_PP need_VVP to_TO use_VV your_PP$ kitchen_NN as_IN a_DT lab_NN ._SENT Cook_NP up_IN some_DT cubes_NNS ._SENT 
+See_VV what_WP happens_VVZ ._SENT 
+RORY_NN :_: Right_RB ,_, I_PP 'm_VBP due_JJ at_IN work_NN ._SENT 
+DOCTOR_NN :_: What_WP ?_SENT You_PP 've_VHP got_VVN a_DT job_NN ?_SENT 
+RORY_NN :_: Of_IN course_NN I_PP 've_VHP got_VVN a_DT job_NN ._SENT What_WP do_VVP you_PP think_VVP we_PP do_VVP when_WRB we_PP 're_VBP not_RB 
+with_IN you_PP ?_SENT 
+DOCTOR_NN :_: I_PP imagined_VVD mostly_RB kissing_NN ._SENT 
+AMY_NN :_: I_PP write_VVP travel_NN articles_NNS for_IN magazines_NNS and_CC Rory_NP heals_VVZ the_DT sick_JJ ._SENT 
+RORY_NN :_: My_PP$ shift_NN starts_VVZ in_IN an_DT hour_NN ._SENT You_PP do_VVP n't_RB know_VV where_WRB my_PP$ scrubs_NNS are_VBP ?_SENT 
+AMY_NN :_: In_IN the_DT lounge_NN ,_, where_WRB you_PP left_VVD them_PP ._SENT 
+[_SYM Alleyway_NP ]_SYM 
+
+(_( A_DT suburban_JJ one_CD ,_, not_RB a_DT city_NN one_CD ._SENT Military_JJ types_NNS 
+pile_VV out_RP of_IN 4x4s_JJ ._SENT )_) 
+MAN_NN [_SYM OC_NP ]_SYM :_: Approaching_VVG site_NN ._SENT Quite_RB strong_JJ likeness_NN detected_VVD ._SENT Target_NN 
+unconfirmed_JJ ._SENT May_MD be_VB hostile_JJ ._SENT 
+SOLDIER_NN :_: Approaching_VVG source_NN now_RB ._SENT Area_NN will_MD be_VB secure_JJ in_IN sixty_CD seconds_NNS ._SENT 
+Ultimate_JJ force_NN available_JJ ._SENT 
+(_( And_CC run_VV up_RP to_TO a_DT certain_JJ front_NN door_NN ._SENT )_) 
+
+[_SYM Kitchen_NP ]_SYM 
+
+DOCTOR_NN :_: All_PDT the_DT Ponds_NP ,_, with_IN their_PP$ house_NN and_CC their_PP$ 
+jobs_NNS and_CC their_PP$ everyday_JJ lives_NNS ._SENT The_DT journalist_NN and_CC the_DT nurse_NN ._SENT Long_JJ way_NN 
+from_IN Leadworth_NP ._SENT 
+(_( The_DT Doctor_NP is_VBZ sonicking_VVG a_DT gizmo_NN together_RB ._SENT )_) 
+AMY_NN :_: We_PP think_VVP it_PP 's_VHZ been_VBN ten_CD years_NNS ._SENT Not_RB for_IN you_PP or_CC Earth_NP ,_, but_CC for_IN us_PP ._SENT 
+Ten_CD years_NNS older_JJR ._SENT Ten_CD years_NNS of_IN you_PP ,_, on_IN and_CC off_RB ._SENT 
+DOCTOR_NN :_: Look_VV at_IN you_PP now_RB ._SENT All_DT grown_VVN up_RP ._SENT 
+(_( The_DT front_JJ door_NN is_VBZ smashed_VVN down_RP ._SENT )_) 
+MAN_NN :_: Clear_JJ !_SENT Trap_NN one_CD ,_, kitchen_NN secured_VVD ._SENT 
+MAN_NN 2_CD :_: Trap_NN three_CD ,_, back_RB garden_NN secured_VVN ._SENT 
+(_( The_DT rest_NN of_IN the_DT squad_NN are_VBP outside_IN the_DT patio_NN doors_NNS ._SENT Rory_NP is_VBZ marched_VVN in_IN 
+at_IN gunpoint_NN ._SENT )_) 
+RORY_NN :_: There_EX are_VBP soldiers_NNS all_RB over_IN my_PP$ house_NN ,_, and_CC I_PP 'm_VBP in_IN my_PP$ pants_NNS ._SENT 
+AMY_NN :_: My_PP$ whole_JJ life_NN I_PP 've_VHP dreamed_VVN of_IN saying_VVG that_IN/that ,_, and_CC I_PP miss_VVP it_PP by_IN being_VBG 
+someone_NN else_RB ._SENT 
+(_( A_DT woman_NN enters_VVZ the_DT house_NN ._SENT )_) 
+KATE_NN :_: All_PDT these_DT muscles_NNS ,_, and_CC they_PP still_RB do_VVP n't_RB know_VV how_WRB to_TO knock_VV ._SENT Sorry_RB 
+about_IN the_DT raucous_JJ entrance_NN ._SENT Spike_NP in_IN Artron_NP energy_NN reading_NN at_IN this_DT 
+address_NN ._SENT In_IN the_DT light_NN of_IN the_DT last_JJ twenty_CD four_CD hours_NNS ,_, we_PP had_VHD to_TO check_VV it_PP 
+out_RB ,_, and_CC the_DT dogs_NNS do_VVP love_VV a_DT run_NN out_RP ._SENT Hello_UH ._SENT Kate_NP Stewart_NP ,_, head_NN of_IN 
+scientific_JJ research_NN at_IN UNIT_NP ._SENT And_CC with_IN dress_NN sense_NN like_IN that_DT ._SENT 
+(_( She_PP holds_VVZ out_RP a_DT scanner_NN ,_, which_WDT shows_VVZ two_CD hearts_NNS beating_VVG in_IN his_PP$ chest_NN ._SENT )_) 
+
+KATE_NN :_: You_PP must_MD be_VB the_DT Doctor_NP ._SENT I_PP hoped_VVD it_PP would_MD be_VB you_PP ._SENT 
+DOCTOR_NN :_: Tell_VV me_PP ,_, since_RB when_WRB did_VVD science_NN run_VV the_DT military_NN ,_, Kate_NP ?_SENT 
+KATE_NN :_: Since_IN me_PP ._SENT UNIT_NN 's_VHZ been_VBN adapting_VVG ._SENT Well_RB ,_, I_PP dragged_VVD them_PP along_RP ,_, 
+kicking_VVG and_CC screaming_VVG ,_, which_WDT made_VVD it_PP sound_VV like_IN more_JJR fun_NN than_IN it_PP 
+actually_RB was_VBD ._SENT 
+DOCTOR_NN :_: What_WP do_VVP we_PP know_VVP about_IN these_DT cubes_NNS ?_SENT 
+KATE_NN :_: Far_RB less_JJR than_IN we_PP need_VVP to_TO ._SENT We_PP 've_VHP been_VBN freighting_VVG them_PP in_IN from_IN 
+around_IN the_DT world_NN for_IN testing_NN ._SENT So_RB far_RB ,_, we_PP 've_VHP subjected_VVN them_PP to_TO 
+temperatures_NNS of_IN plus_NN and_CC minus_IN two_CD hundred_CD Celsius_JJ ,_, simulated_VVD a_DT water_NN 
+depth_NN of_IN five_CD miles_NNS ,_, dropped_VVD one_PP out_RP of_IN a_DT helicopter_NN at_IN ten_CD thousand_CD 
+feet_NNS and_CC rolled_VVD our_PP$ best_JJS tank_NN over_IN it_PP ._SENT Always_RB intact_JJ ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ impressive_JJ ._SENT I_PP do_VVP n't_RB want_VV them_PP to_TO be_VB impressive_JJ ._SENT I_PP want_VVP 
+them_PP vulnerable_JJ with_IN a_DT nice_JJ Achilles_NP heel_NN ._SENT 
+KATE_NN :_: We_PP do_VVP n't_RB know_VV how_WRB they_PP got_VVD here_RB ,_, what_WP they_PP 're_VBP made_VVN of_IN ,_, or_CC why_WRB 
+they_PP 're_VBP here_RB ._SENT 
+DOCTOR_NN :_: And_CC all_DT around_IN the_DT world_NN ,_, people_NNS are_VBP picking_VVG them_PP up_RP and_CC taking_VVG 
+them_PP home_RB ._SENT 
+KATE_NN :_: Like_IN iPads_NNS have_VHP dropped_VVN out_RP of_IN the_DT sky_NN ._SENT Taking_VVG them_PP to_TO work_VV ,_, 
+taking_VVG pictures_NNS ,_, making_VVG films_NNS ,_, posting_VVG them_PP on_IN Flickr_NP and_CC YouTube_NP ._SENT 
+Within_IN three_CD hours_NNS ,_, the_DT cubes_NNS had_VHD a_DT thousand_CD separate_JJ Twitter_NP accounts_NNS ._SENT 
+
+DOCTOR_NN :_: Twitter_NN ?_SENT 
+KATE_NN :_: I_PP 've_VHP recommended_VVN we_PP treat_VV this_DT as_IN a_DT hostile_JJ incursion_NN ._SENT Gather_VV 
+them_PP all_DT up_RP and_CC lock_VV them_PP in_IN a_DT secure_JJ facility_NN ._SENT But_CC that_WDT would_MD take_VV 
+massive_JJ international_JJ agreement_NN and_CC co-operation_NN ._SENT 
+DOCTOR_NN :_: We_PP need_VVP evidence_NN ._SENT The_DT cubes_NNS arrived_VVN in_IN plain_JJ sight_NN ,_, in_IN vast_JJ 
+quantities_NNS ,_, as_IN the_DT sun_NN rose_VVD ._SENT So_RB ,_, what_WP does_VVZ that_RB tell_VV us_PP ?_SENT 
+AMY_NN :_: Maybe_RB they_PP wanted_VVD to_TO be_VB seen_VVN ._SENT Noticed_VVD ._SENT 
+DOCTOR_NN :_: Or_CC more_JJR than_IN that_DT ,_, they_PP want_VVP to_TO be_VB observed_VVN ._SENT So_RB we_PP observe_VVP 
+them_PP ._SENT Stay_VV with_IN them_PP round_VVP the_DT clock_NN ._SENT Watch_VV the_DT cubes_NNS ,_, day_NN and_CC night_NN ._SENT 
+Record_NN absolutely_RB everything_NN about_IN them_PP ._SENT Team_NN cube_NN ,_, in_IN it_PP together_RB ._SENT 
+[_SYM Lounge_NP ]_SYM 
+
+DOCTOR_NN :_: Four_CD days._NN Nothing_NN !_SENT Nothing_NN !_SENT Not_RB a_DT single_JJ 
+change_NN in_IN any_DT cube_NN anywhere_RB in_IN the_DT world_NN ._SENT Four_CD days_NNS ,_, and_CC I_PP am_VBP still_RB in_IN 
+your_PP$ lounge_NN !_SENT 
+AMY_NN :_: You_PP were_VBD the_DT one_CD who_WP wanted_VVD to_TO observe_VV them_PP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, well_UH ,_, I_PP thought_VVD they_PP 'd_MD do_VV something_NN ,_, did_VVD n't_RB I_PP ?_SENT Not_RB just_RB 
+sit_VV there_RB while_IN everyone_NN eats_VVZ endless_JJ cereal_NN !_SENT 
+RORY_NN :_: You_PP said_VVD we_PP had_VHD to_TO be_VB patient_JJ ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, you_PP !_SENT You_PP ,_, not_RB me_PP !_SENT I_PP hate_VVP being_JJ patient_NN ._SENT Patience_NN is_VBZ for_IN 
+wimps_NNS ._SENT I_PP ca_MD n't_RB live_VV like_IN this_DT ._SENT Do_VVP n't_RB make_VV me_PP ._SENT I_PP need_VVP to_TO be_VB busy_JJ ._SENT 
+AMY_NN :_: Fine_NN !_SENT Be_VB busy_JJ !_SENT We_PP 'll_MD watch_VV the_DT cubes_NNS ._SENT 
+(_( So_IN the_DT Doctor_NP creosotes_NNS the_DT garden_NN fence_NN ,_, plays_VVZ a_DT little_JJ football_NN ,_, 
+mows_VVZ the_DT lawn_NN and_CC does_VVZ something_NN to_TO their_PP$ car_NN ._SENT )_) 
+DOCTOR_NN :_: (_( keeping_VVG the_DT football_NN off_IN the_DT ground_NN ._SENT )_) Ninety_CD eight_CD ,_, ninety_CD 
+nine_CD ,_, one_CD hundred_CD ._SENT Amy_NP !_SENT 
+(_( He_PP also_RB vacuums_VVZ the_DT house_NN ._SENT )_) 
+DOCTOR_NN :_: Four_CD million_CD nine_NN hundred_CD ninety_CD nine_CD ,_, five_CD million_CD ._SENT 
+(_( He_PP returns_VVZ to_TO the_DT sofa_NN ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ better_JJR ._SENT Nothing_NN like_IN a_DT bit_NN of_IN activity_NN to_TO pass_VV the_DT time_NN ._SENT 
+How_WRB long_RB was_VBD I_PP gone_VVN ?_SENT 
+RORY_NP :_: Er_UH ,_, about_IN an_DT hour_NN ._SENT 
+DOCTOR_NN :_: I_PP ca_MD n't_RB do_VV it_PP ._SENT No._NN 
+AMY_NN :_: Where_WRB are_VBP you_PP going_VVG ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Brian_NP ,_, you_PP 're_VBP still_RB here_RB ._SENT 
+BRIAN_NN :_: You_PP told_VVD me_PP to_TO watch_VV the_DT cubes_NNS ._SENT 
+DOCTOR_NN :_: Four_CD days_NNS ago_RB ._SENT 
+BRIAN_NP :_: Ah_UH !_SENT Does_VVZ n't_RB time_VV fly_VV when_WRB you_PP 're_VBP alone_RB with_IN your_PP$ thoughts_NNS ?_SENT 
+RORY_NN :_: You_PP ca_MD n't_RB just_RB leave_VV ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, of_IN course_NN I_PP can_MD ._SENT Quick_JJ jaunt_NN ,_, restore_VV sanity_NN ._SENT Ooo_NP ,_, hey_UH ,_, 
+come_VV if_IN you_PP like_VVP ._SENT 
+BRIAN_NN :_: They_PP ca_MD n't_RB just_RB go_VV off_RP like_IN that_DT ._SENT 
+DOCTOR_NN :_: Ca_MD n't_RB they_PP ?_SENT Ca_MD n't_RB you_PP ?_SENT That_DT 's_VBZ how_WRB it_PP goes_VVZ ,_, is_VBZ n't_RB it_PP ?_SENT 
+RORY_NN :_: I_PP 've_VHP got_VVN my_PP$ job_NN ._SENT 
+DOCTOR_NN :_: Oh_UH yes_UH ,_, Rory_NP ._SENT The_DT universe_NN is_VBZ awaiting_VVG ,_, but_CC you_PP have_VHP a_DT little_JJ 
+job_NN to_TO ._SENT 
+RORY_NN :_: It_PP 's_VBZ not_RB little_JJ ._SENT It_PP 's_VBZ important_JJ to_TO me_PP ._SENT Look_NN ,_, what_WP you_PP do_VVP is_VBZ n't_RB 
+all_RB there_EX is_VBZ ._SENT 
+DOCTOR_NN :_: I_PP never_RB said_VVD it_PP was_VBD ._SENT 
+DOCTOR_NN :_: All_DT right_NN ._SENT Fine_NN ._SENT I_PP 'll_MD be_VB back_RB soon_RB ._SENT Monitor_VV the_DT cubes_NNS ._SENT Call_VV me_PP ._SENT 
+I_PP 'll_MD have_VH the_DT Tardis_NP set_VVD to_TO every_DT Earth_NN 
+news_NN feed_NN ._SENT 
+JOANNA_NN [_SYM on_IN TV_NP ]_SYM :_: At_IN the_DT end_NN of_IN a_DT week_NN of_IN cubic_JJ questions_NNS and_CC theories_NNS ,_, 
+but_CC no_DT answers_NNS ,_, could_MD this_RB be_VB the_DT greatest_JJS stealth_NN marketing_NN campaign_NN 
+in_IN business_NN history_NN ?_SENT And_CC if_IN it_PP is_VBZ ,_, will_MD those_DT behind_IN it_PP ever_RB come_VVP 
+forward_RB and_CC explain_VV exactly_RB what_WP it_PP 's_VBZ for_IN ?_SENT 
+
+[_SYM Party_NP -_: October_NP ]_SYM 
+
+AMY_NN :_: I_PP 'm_VBP so_RB pleased_JJ for_IN you_PP two_CD ._SENT It_PP 's_VBZ about_RB time_NN 
+you_PP made_VVD an_DT honest_JJ woman_NN of_IN her_PP ._SENT 
+LAURA_NP :_: Amy_NP ,_, about_IN bridesmaids_NNS ._SENT You_PP 've_VHP missed_VVN quite_PDT a_DT few_JJ things_NNS the_DT 
+last_JJ year_NN or_CC two_CD ._SENT 
+AMY_NN :_: I_PP 'm_VBP so_RB totally_RB there_RB ._SENT Whatever_WDT you_PP need_VVP ._SENT 
+[_SYM Hospital_NP ]_SYM 
+
+RANJIT_NP :_: :_: Everyone_NN here_RB loves_VVZ you_PP ._SENT The_DT nurses_NNS ,_, the_DT 
+doctors_NNS ._SENT You_PP 're_VBP a_DT life-saver_NN ,_, mate_NN ,_, literally_RB ._SENT 
+RORY_NP :_: Ah_UH ,_, well_UH ,_, thanks_NNS ._SENT 
+RANJIT_NP :_: But_CC there_EX are_VBP months_NNS when_WRB we_PP do_VVP n't_RB see_VV you_PP ._SENT And_CC we_PP ca_MD n't_RB do_VV 
+without_IN you_PP ._SENT I_PP want_VVP you_PP to_TO go_VV full_JJ time_NN ._SENT 
+RORY_NP :_: Full_JJ time_NN ?_SENT Blimey_NP ._SENT Er_UH ._SENT 
+[_SYM Bedroom_NP ]_SYM 
+
+RORY_NN :_: I_PP said_VVD yes_UH ._SENT I_PP committed_VVD ._SENT 
+AMY_NN :_: And_CC I_PP committed_VVD to_TO being_VBG a_DT bridesmaid_NN ._SENT Months_NNS in_IN advance_NN ._SENT Like_IN I_PP 
+know_VV I_PP 'm_VBP going_VVG to_TO be_VB here_RB ._SENT 
+RORY_NN :_: So_RB the_DT Doctor_NP 's_POS God_NP knows_VVZ where_WRB ,_, the_DT cubes_NNS are_VBP n't_RB doing_VVG anything_NN 
+at_IN all_DT ._SENT Did_VVD real_JJ life_NN just_RB get_VV started_VVN ?_SENT 
+AMY_NN :_: I_PP like_VVP it_PP ._SENT 
+RORY_NN :_: So_RB do_VVP I_PP ._SENT 
+[_SYM Lounge_NP ]_SYM 
+
+(_( Brian_NP is_VBZ keeping_VVG a_DT video_JJ diary_NN ._SENT )_) 
+BRIAN_NP :_: Brian_NP 's_POS log_NN ,_, day_NN sixty_CD seven_CD ._SENT 
+RORY_NN :_: You_PP ,_, er_NNS ,_, you_PP ca_MD n't_RB call_VV it_PP that_DT ._SENT Brian_NP 's_POS log_NN ?_SENT 
+BRIAN_NP :_: Brian_NP 's_POS log_NN ,_, day_NN sixty_CD seven_CD ._SENT Cube_NN was_VBD quiet_JJ all_DT night_NN ,_, 0nce_NN 
+again_RB ._SENT Cube_NN was_VBD quiet_JJ all_DT day_NN ,_, as_RB per_IN previously_RB ._SENT No_DT movement_NN ._SENT No_UH 
+change_NN in_IN measurements_NNS ._SENT End_NN of_IN entry_NN ._SENT 
+RORY_NN :_: You_PP stay_VVP up_RP and_CC watch_VVP it_PP all_PDT the_DT time_NN ._SENT 
+BRIAN_NN :_: I_PP film_VVP it_PP while_IN I_PP 'm_VBP asleep_JJ ._SENT When_WRB I_PP wake_VVP up_RP ,_, I_PP watch_VVP the_DT footage_NN 
+on_IN fast_RB forward_RB ._SENT I_NP e-mail_NP the_DT result_NN to_TO UNIT_NP ._SENT My_PP$ middle_JJ name_NN is_VBZ 
+diligence_NN ._SENT 
+RORY_NN :_: Wow_NN ._SENT I_PP ca_MD n't_RB wait_VV to_TO see_VV day_NN sixty_CD eight_CD ._SENT 
+BRIAN_NP :_: Do_VVP n't_RB mock_VV my_PP$ log_NN ._SENT I_PP 'm_VBP doing_VVG what_WP the_DT Doctor_NP asked_VVD ._SENT 
+[_SYM Hospital_NP -_: December_NP ]_SYM 
+
+(_( The_DT decorations_NNS are_VBP up_RB and_CC Noddy_NP Holder_NP is_VBZ singing_VVG 
+Merry_NP Christmas_NP Everybody_NN ._SENT )_) 
+RORY_NP :_: That_WDT 's_VBZ it_PP ._SENT Er_UH ,_, Mister_NP Ryan_NP ,_, please_UH ._SENT 
+(_( A_DT young_JJ man_NN with_IN his_PP$ foot_NN stuck_VVN in_IN a_DT toilet_NN bowl_NN ._SENT )_) 
+RORY_NN :_: Again_RB ?_SENT 
+(_( Rory_NP wheels_VVZ him_PP away_RP ._SENT We_PP zoom_VVP in_IN on_IN a_DT young_JJ girl_NN ._SENT Her_PP$ eyes_NNS flare_VVP blue_JJ ,_, 
+then_RB so_RB does_VVZ the_DT cube_NN she_PP is_VBZ holding_VVG ._SENT )_) 
+
+[_SYM Ward_NP ]_SYM 
+
+(_( A_DT old_JJ man_NN is_VBZ lying_VVG on_IN a_DT bed_NN ,_, reading_VVG a_DT paperback_NN ._SENT 
+A_DT man_NN enters_VVZ wearing_VVG a_DT mask_NN and_CC draws_VVZ the_DT curtain_NN ._SENT )_) 
+ARNOLD_NP :_: I_PP 'm_VBP fine_JJ ._SENT I_PP 've_VHP been_VBN done_VVN ._SENT 
+ORDERLY_RB :_: What_WP seems_VVZ to_TO be_VB the_DT matter_NN ?_SENT 
+ARNOLD_NP :_: I_PP 'm_VBP just_RB waiting_VVG for_IN a_DT prescription_NN ._SENT 
+ORDERLY_JJ :_: Where_WRB does_VVZ it_PP hurt_VVD ?_SENT 
+(_( A_DT second_JJ identical_JJ man_NN enters_VVZ ._SENT )_) 
+ARNOLD_NP :_: I_PP said_VVD I_PP 'm_VBP fine_JJ ._SENT Will_MD you_PP tell_VV your_PP$ colleague_NN here_RB that_IN/that I_PP ._SENT 
+Stop_VV !_SENT 
+(_( Arnold_NP Underwood_NP pulls_VVZ down_RP the_DT orderlies_NNS masks_NNS ._SENT They_PP have_VHP snouts_NNS with_IN 
+grills_NNS rather_RB than_IN noses_NNS and_CC mouths_NNS ._SENT The_DT box_NN by_IN his_PP$ bed_NN glows_NNS red_JJ as_IN he_PP 
+screams_NNS ._SENT 
+In_IN an_DT office_NN ,_, the_DT boxes_NNS are_VBP used_VVN to_TO put_VV post-it_NN notes_NNS on_IN ,_, create_VV 
+targets_NNS for_IN putting_VVG practice_NN ,_, and_CC as_IN paperweights_NNS ._SENT 
+In_IN the_DT streets_NNS ,_, there_EX are_VBP piles_NNS of_IN them_PP by_IN waste_NN bins_NNS ._SENT )_) 
+
+[_SYM Back_RB garden_NN -_: June_NP ]_SYM 
+
+(_( The_DT Williams_NP are_VBP hosting_VVG a_DT barbeque_NN ._SENT Amy_NP makes_VVZ a_DT 
+telephone_NN call_NN ._SENT )_) 
+AMY_NN :_: Hey_UH !_SENT Doctor_NN ,_, it_PP 's_VBZ me_PP ._SENT Hello_UH ._SENT So_RB ,_, the_DT UN_NP classified_VVD the_DT cubes_NNS as_RB 
+provisionally_RB safe_JJ ,_, whatever_WDT that_RB means_VVZ ,_, and_CC Banksy_NP and_CC Damien_NP Hirst_NP 
+put_VVN out_IN statements_NNS saying_VVG the_DT cubes_NNS are_VBP nothing_NN to_TO do_VV with_IN them_PP ._SENT And_CC 
+the_DT cubes_NNS ,_, well_RB ,_, they_PP 're_VBP just_RB here_RB ._SENT Still_RB ._SENT What_WP 's_VBZ it_PP been_VBN ,_, nine_CD months_NNS ?_SENT 
+People_NNS are_VBP just_RB taking_VVG them_PP for_IN granted_VVN ._SENT Maybe_RB we_PP 'll_MD never_RB know_VV why_WRB 
+they_PP came_VVD ._SENT But_CC anyway_RB ._SENT I_PP got_VVD to_TO Laura_NP 's_POS wedding_NN ._SENT It_PP was_VBD great_JJ ._SENT She_PP 's_VBZ 
+here_RB tonight_NN ,_, being_VBG as_IN it_PP 's_VBZ our_PP$ wedding_NN anniversary_NN ._SENT We_PP thought_VVD you_PP 
+might_MD have_VH dropped_VVN by_IN ._SENT I_PP left_VVD you_PP messages_NNS ._SENT 
+(_( A_DT man_NN carries_VVZ a_DT large_JJ bouquet_NN of_IN flowers_NNS up_RB behind_IN Amy_NP ._SENT )_) 
+DOCTOR_NN :_: I_PP know_VVP !_SENT Happy_JJ anniversary_NN !_SENT Come_VV with_IN me_PP ._SENT And_CC bring_VV your_PP$ 
+husband_NN ._SENT 
+[_SYM Savoy_NP Hotel_NP ]_SYM 
+
+DOCTOR_NN :_: 26th_JJ of_IN June_NP ,_, 1890._CD The_DT recently_RB opened_VVN 
+Savoy_NP Hotel_NP ._SENT Dinner_NN ,_, bed_NN and_CC breakfast_NN for_IN two_CD ._SENT Bonjour_NP ,_, bonjour_NN ._SENT 
+Merci_NP ,_, Auguste_NP ._SENT You_PP 'll_MD be_VB back_RB before_IN the_DT party_NN 's_VBZ over_RP ._SENT They_PP wo_MD n't_RB even_RB 
+notice_NN you_PP went_VVD ._SENT No_DT complications_NNS ,_, I_PP promise_VVP ._SENT 
+(_( Rory_NP kisses_VVZ the_DT Doctor_NP continental_JJ style_NN ._SENT )_) 
+DOCTOR_NN :_: Ooo_NN !_SENT 
+[_SYM Street_NP ]_SYM 
+
+(_( Still_RB dressed_VVN for_IN 1890_CD ,_, and_CC it_PP is_VBZ snowing_VVG ._SENT )_) 
+DOCTOR_NN :_: Bit_NN of_IN a_DT shock_NN ,_, Zygon_NP ship_NN under_IN the_DT Savoy_NP ,_, half_PDT the_DT staff_NN 
+impostors_NNS ._SENT Still_RB ,_, it_PP 's_VBZ all_RB fixed_VVN now_RB ,_, eh_NP ?_SENT 
+[_SYM Bedchamber_NP ]_SYM 
+
+HENRY_NN [_SYM OC_NP ]_SYM :_: Gentlemen_NNS ,_, open_VV the_DT doors_NNS !_SENT 
+AMY_NN :_: I_PP thought_VVD we_PP were_VBD going_VVG home_NN ?_SENT 
+DOCTOR_NN :_: You_PP ca_MD n't_RB miss_VV a_DT good_JJ wedding_NN ._SENT Under_IN the_DT bed_NN ._SENT Under_IN the_DT bed_NN !_SENT 
+(_( The_DT trio_NN hide_NN under_IN the_DT big_JJ four-poster_NN ._SENT )_) 
+DOCTOR_NN :_: Shush_VV !_SENT 
+AMY_NN :_: It_PP was_VBD n't_RB my_PP$ fault_NN ._SENT 
+RORY_NN :_: It_PP was_VBD totally_RB your_PP$ fault_NN !_SENT 
+AMY_NN :_: Somebody_NN was_VBD talking_VVG ,_, and_CC I_PP just_RB said_VVD yes_UH ._SENT 
+RORY_NN :_: To_TO wedding_NN vows_NNS !_SENT You_PP just_RB married_VVD Henry_NP VIII_NP on_IN our_PP$ anniversary_NN ._SENT 
+(_( The_DT monarch_NN enters_VVZ ._SENT The_DT Doctor_NP sneezes_NNS ._SENT )_) 
+DOCTOR_NN :_: Sorry_JJ ._SENT 
+[_SYM Lounge_NP -_: June_NP ..._: again_RB ]_SYM 
+
+(_( A_DT party_NN )_) 
+(_( Brian_NP goes_VVZ up_RP to_TO the_DT Doctor_NP ._SENT )_) 
+BRIAN_NP :_: How_WRB long_JJ were_VBD they_PP away_RB ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV what_WP you_PP 're_VBP talking_VVG about_RB ,_, Brian_NP ._SENT 
+BRIAN_NN :_: Because_IN they_PP 're_VBP wearing_VVG totally_RB different_JJ clothes_NNS from_IN earlier_RBR ._SENT 
+DOCTOR_NN :_: Seven_CD weeks_NNS ._SENT I_PP got_VVD side-tracked_VVN ._SENT A_DT lot_NN ._SENT 
+BRIAN_NP :_: What_WP happened_VVD to_TO the_DT other_JJ people_NNS who_WP travel_VVP with_IN you_PP ?_SENT 
+DOCTOR_NN :_: Some_DT left_VVD me_PP ._SENT Some_DT got_VVD left_VVN behind_RB ._SENT And_CC some_DT ,_, not_RB many_JJ but_CC ,_, 
+some_DT died_VVD ._SENT Not_RB them_PP ._SENT Not_RB them_PP ,_, Brian_NP ._SENT Never_RB them_PP ._SENT 
+[_SYM Back_JJ garden_NN ]_SYM 
+
+DOCTOR_NN :_: Can_MD I_PP stay_VV here_RB ,_, with_IN you_PP and_CC Rory_NP ,_, for_IN a_DT 
+bit_NN ._SENT Keep_VV an_DT eye_NN on_IN the_DT cubes_NNS ._SENT However_RB long_RB that_DT takes_VVZ ._SENT 
+AMY_NN :_: I_PP thought_VVD it_PP would_MD drive_VV you_PP mad_JJ ._SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, no._NN I_PP mean_VVP ,_, I_PP 'll_MD be_VB better_JJR at_IN it_PP this_DT time_NN ._SENT I_PP miss_VVP you_PP ._SENT 
+
+[_SYM Brian_NP 's_POS lounge_NN -_: July_NP ]_SYM 
+
+BRIAN_NP :_: Brian_NP 's_POS log_NN ,_, day_NN three_CD hundred_CD and_CC sixty_CD 
+one_CD ._SENT Eight_CD fifty_CD pm_NN ._SENT No_DT movement_NN ._SENT And_CC I_PP am_VBP cream_NN crackered_JJ ._SENT 
+(_( Brian_NP falls_VVZ asleep_RB ._SENT )_) 
+
+[_SYM Lounge_NP ]_SYM 
+
+LORD_NN SUGAR_NN [_SYM on_IN TV_NP ]_SYM :_: I_PP sent_VVD you_PP out_RP to_TO sell_VV as_RB many_JJ 
+cubes_NNS as_IN you_PP could_MD in_IN twenty_CD four_CD hours_NNS ._SENT And_CC look_VV at_IN you_PP ,_, you_PP 've_VHP made_VVN a_DT 
+right_JJ hash_NN of_IN it_PP ,_, have_VHP n't_RB you_PP ._SENT Well_RB ,_, Craig_NP ,_, you_PP 're_VBP fired_VVN ._SENT 
+(_( The_DT Doctor_NP ,_, Amy_NP and_CC Rory_NP are_VBP eating_VVG what_WP looks_VVZ like_IN fish_NN fingers_NNS and_CC 
+custard_NN ._SENT )_) 
+DOCTOR_NN :_: If_IN I_PP had_VHD a_DT restaurant_NN ,_, this_DT 'd_MD be_VB all_RB I_PP 'd_MD serve_VV ._SENT 
+AMY_NN :_: Yeah_UH ,_, right_RB ._SENT You_PP running_VVG a_DT restaurant_NN ._SENT 
+DOCTOR_NN :_: I_PP 've_VHP run_VVN restaurants_NNS ._SENT Who_WP do_VVP you_PP think_VVP invented_VVD the_DT Yorkshire_NP 
+pudding_NN ?_SENT 
+RORY_NN :_: You_PP did_VVD n't_RB ._SENT 
+DOCTOR_NN :_: Pudding_NN ,_, yet_RB savoury_JJ ._SENT Sound_JJ familiar_JJ ?_SENT 
+[_SYM Brian_NP 's_POS lounge_NN ]_SYM 
+
+(_( Something_NN jolts_NNS Brian_NP awake_RB ._SENT It_PP is_VBZ the_DT box_NN moving_VVG ._SENT 
+He_PP dozes_VVZ off_RP again_RB and_CC reawakens_VVZ when_WRB it_PP starts_VVZ to_TO spin_VV around_RP ._SENT )_) 
+BRIAN_NP :_: Do_VVP it_PP again_RB ._SENT 
+[_SYM Kitchen_NP ]_SYM 
+
+AMY_NN :_: Good_JJ job_NN ,_, mister_NN ._SENT Civilisations_NNS saved_VVD ,_, 
+surfaces_NNS wiped_VVD ._SENT What_WP more_JJR could_MD any_DT woman_NN ask_VV for_IN ?_SENT 
+RORY_NP :_: Ha_NP ,_, ha_NP ._SENT 
+AMY_NN :_: I_PP mean_VVP it_PP ._SENT 
+RORY_NP :_: Where_WRB 's_VBZ the_DT Doctor_NP ?_SENT 
+AMY_NN :_: On_IN the_DT Wii_NP again_RB ._SENT I_PP 'm_VBP going_VVG for_IN a_DT bath_NN ._SENT 
+(_( The_DT cube_NN on_IN the_DT work_NN surface_NN opens_VVZ its_PP$ lid_NN and_CC closes_VVZ it_PP again_RB ._SENT )_) 
+
+[_SYM Lounge_NP ]_SYM 
+
+DOCTOR_NN :_: Oh_UH ,_, yes_UH !_SENT Second_JJ set_NN ,_, Doctor_NP !_SENT Ha_NP ha_NP !_SENT Oh_UH ,_, if_IN 
+Fred_NP Perry_NP could_MD see_VV me_PP now_RB ,_, eh_NP ?_SENT He_PP 'd_MD probably_RB ask_VV for_IN his_PP$ shorts_NNS back_RB ._SENT 
+
+[_SYM Bathroom_NP ]_SYM 
+
+(_( Amy_NP sees_VVZ the_DT cube_NN in_IN here_RB glowing_JJ ._SENT She_PP puts_VVZ her_PP 
+hand_NN on_IN it_PP and_CC gets_VVZ stabbed_VVN by_IN a_DT square_NN of_IN 25_CD short_JJ needles_NNS ._SENT )_) 
+AMY_NN :_: Ow_NN !_SENT 
+(_( The_DT needles_NNS disappear_VVP back_RB inside_IN the_DT cube_NN then_RB a_DT heartbeat_NN line_NN 
+appears_NNS through_IN the_DT middle_NN of_IN it_PP ._SENT 
+(_( Down_RB in_IN the_DT kitchen_NN ,_, Rory_NP spots_VVZ the_DT cube_NN opening_NN and_CC closing_NN ._SENT He_PP tries_VVZ 
+to_TO see_VV what_WP is_VBZ inside_IN it_PP ._SENT )_) 
+
+[_SYM Lounge_NP ]_SYM 
+
+DOCTOR_NN :_: Third_JJ set_NN decider_NN ,_, come_VVN on_IN ,_, then_RB ._SENT 
+(_( A_DT cube_NN flies_VVZ around_IN him_PP and_CC blocks_VVZ his_PP$ view_NN ._SENT )_) 
+DOCTOR_NN :_: Out_RB of_IN the_DT way_NN ,_, dear_RB ,_, I_PP 'm_VBP trying_VVG to_TO ._SENT Whatever_WDT you_PP are_VBP ,_, this_RB 
+planet_NN ,_, these_DT people_NNS ,_, are_VBP precious_JJ to_TO me_PP ._SENT And_CC I_PP will_MD defend_VV them_PP to_TO my_PP$ 
+last_JJ breath_NN ._SENT Is_VBZ that_IN/that all_RB you_PP can_MD do_VV ,_, hover_VV ?_SENT I_PP had_VHD a_DT metal_NN dog_NN could_MD do_VV 
+that_RB ._SENT 
+(_( The_DT cube_NN points_VVZ a_DT tube_NN at_IN him_PP ._SENT )_) 
+DOCTOR_NN :_: What_WP 's_VBZ that_RB ?_SENT 
+(_( The_DT cube_NN fires_NNS ,_, the_DT Doctor_NP dodges_NNS and_CC a_DT vase_NN shatters_NNS ._SENT The_DT Doctor_NP 
+escapes_NNS after_IN two_CD more_JJR pot_NN shots_NNS ,_, then_RB the_DT cube_NN settles_VVZ in_IN front_NN of_IN the_DT 
+TV_NN cum_IN computer_NN console_NN and_CC images_NNS flicker_VVP across_IN the_DT screen_NN very_RB 
+quickly_RB ._SENT )_) 
+[_SYM Hallway_NP ]_SYM 
+
+(_( The_DT Doctor_NP looks_VVZ in_IN round_NN the_DT door_NN ._SENT )_) 
+DOCTOR_NN :_: Ooo_NP ,_, you_PP really_RB have_VHP woken_VVN up_RP ._SENT 
+RORY_NN :_: Doctor_NN ?_SENT Hi_UH ._SENT Er_UH ,_, the_DT cube_NN in_IN there_RB ,_, it_PP just_RB opened_VVD ._SENT 
+AMY_NN :_: The_DT cube_NN upstairs_NN just_RB spiked_VVD me_PP and_CC took_VVD my_PP$ pulse_NN !_SENT 
+DOCTOR_NN :_: Ha_NP !_SENT Really_RB ?_SENT Mine_PP fired_VVD laser_NN bolts_NNS and_CC now_RB it_PP 's_VBZ surfing_VVG the_DT 
+net_JJ ._SENT 
+(_( Brian_NP enters_VVZ ._SENT )_) 
+BRIAN_NN :_: You_PP 're_VBP never_RB going_VVG to_TO believe_VV this_DT ._SENT My_PP$ cube_NN just_RB moved_VVD ._SENT It_PP 
+rattled_VVN ._SENT 
+(_( Rory_NP answers_VVZ his_PP$ mobile_JJ phone_NN ._SENT )_) 
+RORY_NP :_: Hello_UH ?_SENT 
+[_SYM Hospital_NP ]_SYM 
+
+RANJIT_NP :_: Rory_NP ,_, mate_NN ,_, I_PP 'm_VBP desperate_JJ for_IN help_NN ._SENT People_NNS 
+are_VBP saying_VVG they_PP 've_VHP been_VBN attacked_VVN by_IN the_DT cubes_NNS ._SENT It_PP 's_VBZ going_VVG to_TO be_VB a_DT long_JJ 
+night_NN ._SENT 
+(_( The_DT little_JJ girl_NN is_VBZ still_RB sitting_VVG there_RB with_IN a_DT glowing_JJ cube_NN ._SENT Since_RB 
+December_NP ?_SENT )_) 
+RORY_NN [_SYM OC_NP ]_SYM :_: Okay_JJ ,_, I_PP 'm_VBP on_IN my_PP$ way_NN ._SENT 
+[_SYM Hallway_NP ]_SYM 
+
+RORY_NN :_: I_PP have_VHP to_TO get_VV to_TO work_VV ._SENT They_PP need_VVP all_PDT the_DT help_NN 
+they_PP can_MD get_VV ._SENT 
+BRIAN_NN :_: Let_VV me_PP come_VV ,_, help_VV out_RP ._SENT 
+RORY_NN :_: Take_VV your_PP$ dad_NN to_TO work_VV night_NN ,_, brilliant_JJ !_SENT Okay_RB ,_, are_VBP you_PP going_VVG to_TO be_VB 
+all_DT right_NN here_RB ?_SENT 
+AMY_NN :_: Keep_VV away_RB from_IN the_DT cubes_NNS ._SENT 
+RORY_NN :_: Right_RB ._SENT 
+(_( Rory_NP and_CC Brian_NP leave_VVP ._SENT The_DT Doctor_NP is_VBZ looking_VVG at_IN his_PP$ psychic_JJ paper_NN ._SENT )_) 
+AMY_NN :_: What_WP are_VBP you_PP grinning_VVG about_RB ?_SENT 
+DOCTOR_NN :_: We_PP 're_VBP wanted_VVN at_IN the_DT Tower_NP of_IN London_NP ._SENT 
+[_SYM Tower_NP of_IN London_NP ]_SYM 
+
+(_( They_PP arrive_VVP by_IN car_NN ._SENT )_) 
+KATE_NN :_: Every_DT cube_NN across_IN the_DT whole_JJ world_NN activated_VVN at_IN the_DT same_JJ moment_NN ._SENT 
+DOCTOR_NN :_: Now_RB we_PP 're_VBP in_IN business_NN ._SENT You_PP sent_VVD me_PP a_DT message_NN to_TO my_PP$ psychic_NN 
+paper_NN ._SENT You_PP know_VVP what_WP ?_SENT I_PP 'm_VBP almost_RB impressed_VVN ._SENT 
+
+[_SYM UNIT_NP HQ_NP ]_SYM 
+
+AMY_NN :_: Secret_JJ base_NN beneath_IN the_DT Tower_NP ._SENT Hope_VV we_PP 're_VBP not_RB 
+here_RB because_IN we_PP know_VVP too_RB much_RB ._SENT 
+KATE_NP :_: Yes_UH ,_, I_PP 've_VHP got_VVN officers_NNS trained_VVN in_IN beheading_NN ._SENT Also_RB ravens_VVZ of_IN 
+death_NN ._SENT 
+AMY_NN :_: I_PP like_VVP her_PP ._SENT 
+(_( They_PP enter_VVP an_DT area_NN with_IN lots_NNS of_IN individual_JJ armoured_JJ cubicles_NNS ,_, each_DT 
+containing_VVG a_DT cube_NN ._SENT )_) 
+KATE_NN :_: There_EX are_VBP fifty_CD being_VBG monitored_VVN ,_, and_CC more_RBR coming_VVG in_IN all_PDT the_DT time_NN ._SENT 
+I_PP do_VVP n't_RB know_VV how_WRB useful_JJ it_PP is_VBZ ._SENT Every_DT cube_NN is_VBZ behaving_VVG individually_RB ._SENT 
+There_EX 's_VBZ no_DT meaningful_JJ pattern_NN ._SENT Some_DT respond_NN to_TO proximity_NN ._SENT Some_DT create_VVP 
+mood_NN swings_NNS ._SENT 
+(_( Amy_NP touches_VVZ one_CD cubicle_NN and_CC the_DT cube_NN produces_VVZ a_DT flames_NNS ._SENT In_IN another_DT ,_, a_DT 
+woman_NN weeps_VVZ ._SENT )_) 
+AMY_NN :_: Er_UH ,_, what_WP 's_VBZ this_DT one_PP ?_SENT 
+KATE_NN :_: Try_VV the_DT door_NN ._SENT 
+(_( Amy_NP opens_VVZ the_DT door_NN and_CC the_DT Birdie_NP Song_NP starts_VVZ playing_VVG ._SENT )_) 
+KATE_NN :_: On_IN a_DT loop_NN !_SENT 
+(_( Amy_NP shuts_VVZ the_DT door_NN again_RB quickly_RB ._SENT )_) 
+KATE_NN :_: This_DT is_VBZ the_DT latest_JJS ._SENT 
+DOCTOR_NN :_: Oh_UH dear_RB ._SENT Systems_NNS breach_VVP at_IN the_DT Pentagon_NP ,_, China_NP ,_, every_DT African_NP 
+nation_NN ,_, the_DT Middle_NP East_NP ._SENT 
+KATE_NN :_: I_PP 've_VHP got_VVN governments_NNS screaming_VVG for_IN explanations_NNS and_CC no_DT idea_NN what_WP 
+to_TO tell_VV them_PP ._SENT I_PP 'm_VBP lost_VVN ,_, Doctor_NP ._SENT We_PP all_RB are_VBP ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB despair_VV ,_, Kate_NP ._SENT Your_PP$ dad_NN never_RB did_VVD ._SENT Kate_NP Stewart_NP ,_, heading_VVG 
+up_IN UNIT_NP ,_, changing_VVG the_DT way_NN they_PP work_VVP ._SENT How_WRB could_MD you_PP not_RB be_VB ?_SENT Why_WRB did_VVD you_PP 
+drop_NN Lethbridge_NP ?_SENT 
+KATE_NN :_: I_PP did_VVD n't_RB want_VV any_DT favours_NNS ._SENT Though_IN he_PP guided_VVD me_PP ,_, even_RB to_TO the_DT end_NN ._SENT 
+Science_NP leads_VVZ ,_, he_PP always_RB told_VVD me_PP ._SENT Said_VVD he_PP 'd_VHD learned_VVN that_IN/that from_IN an_DT old_JJ 
+friend_NN ._SENT 
+DOCTOR_NN :_: We_PP do_VVP n't_RB let_VV him_PP down_RP ._SENT We_PP do_VVP n't_RB let_VV this_DT planet_NN down_RB ._SENT 
+RESEARCHER_NN :_: They_PP 've_VHP stopped_VVN ._SENT The_DT cubes_NNS ,_, across_IN the_DT world_NN ,_, they_PP just_RB 
+shut_VVN down_RB ._SENT 
+KATE_NN :_: Active_JJ for_IN forty_NN seven_CD minutes_NNS ,_, and_CC then_RB they_PP just_RB die_VVP ?_SENT 
+DOCTOR_NN :_: Not_RB dead_JJ ._SENT Dormant_JJ ,_, maybe_RB ._SENT 
+AMY_NN :_: Then_RB why_WRB shut_VVN down_RP ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP do_VVP n't_RB know_VV ._SENT I_PP need_VVP to_TO think_VV ._SENT I_PP need_VVP some_DT air_NN ._SENT 
+Who_WP has_VHZ an_DT underground_JJ base_NN ?_SENT Terrible_JJ ventilation_NN ._SENT 
+[_SYM By_IN the_DT Thames_NPS ]_SYM 
+
+DOCTOR_NN :_: The_DT moment_NN they_PP arrived_VVD ,_, I_PP should_MD have_VH made_VVN 
+sure_RB they_PP were_VBD collected_VVN and_CC burned_VVN ._SENT That_DT is_VBZ what_WP I_PP should_MD have_VH done_VVN ._SENT 
+AMY_NN :_: How_WRB ?_SENT Nobody_NN would_MD have_VH listened_VVN ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP thinking_VVG of_IN stopping_NN ,_, are_VBP n't_RB you_PP ?_SENT You_PP and_CC Rory_NP ._SENT 
+AMY_NN :_: No._NN I_PP mean_VVP ,_, we_PP have_VHP n't_RB made_VVN a_DT decision_NN ._SENT 
+DOCTOR_NN :_: But_CC you_PP 're_VBP considering_VVG it_PP ._SENT 
+AMY_NN :_: Maybe_RB ._SENT I_PP do_VVP n't_RB know_VV ._SENT We_PP do_VVP n't_RB know_VV ._SENT Well_RB ,_, our_PP$ lives_NNS have_VHP changed_VVN 
+so_RB much_RB ._SENT But_CC there_EX was_VBD a_DT time_NN ,_, there_EX were_VBD years_NNS ,_, when_WRB I_PP could_MD n't_RB live_VV 
+without_IN you_PP ._SENT When_WRB just_RB the_DT whole_JJ everyday_JJ thing_NN would_MD drive_VV me_PP crazy_JJ ._SENT 
+But_CC since_IN you_PP dropped_VVD us_PP back_RB here_RB ,_, since_IN you_PP gave_VVD us_PP this_DT house_NN ,_, you_PP 
+know_VV ,_, we_PP 've_VHP built_VVN a_DT life_NN ._SENT I_PP do_VVP n't_RB know_VV if_IN I_PP can_MD have_VH both_DT ._SENT 
+DOCTOR_NN :_: Why_WRB ?_SENT 
+AMY_NN :_: Because_IN they_PP pull_VVP at_IN each_DT other_JJ ._SENT Because_IN they_PP pull_VVP at_IN me_PP ,_, and_NP 
+because_IN the_DT travelling_VVG is_VBZ starting_VVG to_TO feel_VV like_IN running_VVG away_RP ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ not_RB what_WP it_PP is_VBZ ._SENT 
+AMY_NN :_: Oh_UH ,_, come_VV on_RP ._SENT Look_VV at_IN you_PP ,_, four_CD days_NNS in_IN a_DT lounge_NN and_CC you_PP go_VVP crazy_JJ ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP not_RB running_VVG away_RB ._SENT But_CC this_DT is_VBZ one_CD corner_NN of_IN one_CD country_NN in_IN 
+one_CD continent_NN on_IN one_CD planet_NN that_WDT 's_VBZ a_DT corner_NN of_IN a_DT galaxy_NN that_WDT 's_VBZ a_DT corner_NN 
+of_IN a_DT universe_NN that_WDT is_VBZ forever_RB growing_VVG and_CC shrinking_VVG and_CC creating_VVG and_CC 
+destroying_VVG and_CC never_RB remaining_VVG the_DT same_JJ for_IN a_DT single_JJ millisecond_NN ._SENT And_CC 
+there_EX is_VBZ so_RB much_JJ ,_, so_RB much_JJ to_TO see_VV ,_, Amy_NP ._SENT Because_IN it_PP goes_VVZ so_RB fast_RB ._SENT I_PP 'm_VBP not_RB 
+running_VVG away_RB from_IN things_NNS ,_, I_PP am_VBP running_VVG to_TO them_PP before_IN they_PP flare_VVP and_CC 
+fade_VV forever_RB ._SENT And_CC it_PP 's_VBZ all_DT right_NN ._SENT Our_PP$ lives_NNS wo_MD n't_RB run_VV the_DT same_JJ ._SENT They_PP 
+ca_MD n't_RB ._SENT One_CD day_NN ,_, soon_RB maybe_RB ,_, you_PP 'll_MD stop_VV ._SENT I_PP 've_VHP known_VVN for_IN a_DT while_NN ._SENT 
+AMY_NN :_: Then_RB why_WRB do_VVP you_PP keep_VV coming_VVG back_RB for_IN us_PP ?_SENT 
+DOCTOR_NN :_: Because_IN you_PP were_VBD the_DT first_JJ ._SENT The_DT first_JJ face_NN this_DT face_NN saw_VVD ._SENT And_CC 
+you_PP 're_VBP seared_VVN onto_IN my_PP$ hearts_NNS ,_, Amelia_NP Pond_NP ._SENT You_PP always_RB will_MD be_VB ._SENT I_PP 'm_VBP 
+running_VVG to_TO you_PP ,_, and_CC Rory_NP ,_, before_IN you_PP fade_VVP from_IN me_PP ._SENT 
+AMY_NN :_: Do_VVP n't_RB be_VB nice_JJ to_TO me_PP ._SENT I_PP do_VVP n't_RB want_VV you_PP to_TO be_VB nice_JJ to_TO me_PP ._SENT 
+DOCTOR_NN :_: Yeah_UH ,_, you_PP do_VVP ,_, Pond_NP ,_, and_CC you_PP always_RB get_VVP what_WP you_PP want_VVP ._SENT They_PP got_VVD 
+what_WP they_PP wanted_VVD ._SENT 
+AMY_NN :_: What_WP ?_SENT Who_WP did_VVD ?_SENT 
+DOCTOR_NN :_: The_DT cubes_NNS ._SENT That_DT 's_VBZ why_WRB they_PP stopped_VVD ._SENT Come_VVN on_IN ._SENT 
+[_SYM UNIT_NP HQ_NP ]_SYM 
+
+DOCTOR_NN :_: Kate_NP ?_SENT Before_IN they_PP shut_VVD down_RB ,_, they_PP scanned_VVD 
+everything_NN ,_, from_IN your_PP$ medical_JJ limits_NNS to_TO your_PP$ military_JJ response_NN 
+patterns_NNS ._SENT They_PP made_VVD a_DT complete_JJ assessment_NN of_IN Planet_NP Earth_NP and_CC its_PP$ 
+inhabitants_NNS ._SENT That_DT 's_VBZ what_WP the_DT surge_NN of_IN activity_NN was_VBD ._SENT 
+(_( The_DT power_NN cuts_VVZ off_RP ._SENT )_) 
+DOCTOR_NN :_: Problem_NN with_IN the_DT power_NN ?_SENT 
+KATE_NN :_: Not_RB possible_JJ ._SENT We_PP 've_VHP got_VVN back-ups_NNS ._SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT 
+AMY_NN :_: Doctor_NN ?_SENT Look_NN ._SENT 
+DOCTOR_NN :_: What_WP ?_SENT 
+KATE_NN :_: Why_WRB do_VVP they_PP all_DT say_VVP seven_CD ?_SENT 
+(_( Every_DT cube_NN is_VBZ showing_VVG the_DT same_JJ number_NN ._SENT )_) 
+DOCTOR_NN :_: Seven_CD ._SENT Seven_NP ,_, what_WP 's_VBZ important_JJ about_IN seven_CD ?_SENT Seven_CD wonders_NNS of_IN 
+the_DT world_NN ,_, seven_CD streams_NNS of_IN the_DT River_NP Ota_NP ,_, seven_CD sides_NNS of_IN a_DT cube_NN ._SENT 
+AMY_NN :_: A_DT cube_NN has_VHZ six_CD sides_NNS ._SENT 
+DOCTOR_NN :_: Not_RB if_IN you_PP count_VVP the_DT inside_NN ._SENT 
+(_( Clunk_VV ,_, six_CD ._SENT )_) 
+DOCTOR_NN :_: It_PP has_VHZ to_TO be_VB a_DT countdown_NN ._SENT 
+KATE_NN :_: Not_RB in_IN minutes_NNS ._SENT 
+DOCTOR_NN :_: Why_WRB would_MD it_PP be_VB minutes_NNS ?_SENT Kate_NP ,_, we_PP have_VHP to_TO get_VV humanity_NN away_RB 
+from_IN those_DT cubes_NNS ._SENT God_NP knows_VVZ what_WP they_PP 'll_MD do_VV if_IN they_PP hit_VVD zero_NN ._SENT Get_VV the_DT 
+information_NN out_IN any_DT way_NN you_PP can_MD ._SENT News_NN channels_NNS ,_, websites_NNS ,_, radio_NN ,_, text_NN 
+messages_NNS ._SENT People_NNS have_VHP to_TO know_VV that_IN/that the_DT cubes_NNS are_VBP dangerous_JJ ._SENT 
+AMY_NN :_: Okay_JJ ,_, but_CC why_WRB is_VBZ this_DT starting_VVG now_RB ?_SENT I_PP mean_VVP ,_, the_DT cubes_NNS arrived_VVD 
+months_NNS ago_RB ._SENT Why_WRB wait_VV this_DT long_JJ ?_SENT 
+DOCTOR_NN :_: Because_IN they_PP 're_VBP clever_JJ ._SENT Allow_VV people_NNS enough_JJ time_NN to_TO collect_VV 
+them_PP ,_, take_VV them_PP into_IN their_PP$ homes_NNS ,_, their_PP$ lives_NNS ._SENT Humans_NNS ,_, the_DT great_JJ early_JJ 
+adopters_NNS ._SENT And_CC then_RB ,_, wham_NN !_SENT Profile_VV every_DT inch_NN of_IN Earth_NP 's_POS existence_NN ._SENT 
+KATE_NP :_: Discover_VVP how_WRB best_JJS to_TO attack_VV us_PP ._SENT 
+DOCTOR_NN :_: Get_VV that_DT information_NN out_IN any_DT way_NN you_PP can_MD ._SENT Go_VV !_SENT 
+KATE_NN :_: Right_RB ._SENT 
+(_( The_DT computers_NNS are_VBP still_RB working_VVG ._SENT )_) 
+DOCTOR_NN :_: Every_DT cube_NN was_VBD activated_VVN ._SENT There_EX must_MD be_VB signals_NNS ,_, energy_NN 
+fluctuations_NNS on_IN a_DT colossal_JJ scale_NN ,_, there_EX must_MD be_VB some_DT trace_NN ._SENT There_EX ca_MD n't_RB 
+not_RB be_VB ._SENT We_PP need_VVP to_TO think_VV of_IN all_PDT the_DT variables_NNS ,_, all_PDT the_DT possibilities_NNS ,_, 
+okay_JJ ?_SENT Go_VV ,_, go_VV ,_, go_VV ,_, go_VV ,_, go_VV !_SENT 
+MATTHEW_NN [_SYM on_IN TV_NP ]_SYM :_: This_DT is_VBZ a_DT national_JJ security_NN alert_NN ._SENT The_DT Government_NN 
+advises_VVZ that_IN/that members_NNS of_IN the_DT public_JJ dispose_NN of_IN all_DT cubes_NNS ._SENT If_IN there_EX are_VBP 
+cubes_NNS inside_IN your_PP$ house_NN ,_, remove_VV them_PP immediately_RB ._SENT 
+(_( The_DT number_NN drops_VVZ from_IN five_CD to_TO four_CD ._SENT )_) 
+
+[_SYM Hospital_NP ]_SYM 
+
+RORY_NN :_: We_PP 've_VHP get_VV them_PP out_RP of_IN the_DT building_NN ._SENT Away_RB from_IN 
+here_RB ,_, as_RB far_RB as_IN you_PP can_MD ,_, and_CC get_VV back_RB here_RB before_IN it_PP hits_VVZ zero_CD ._SENT Dad_NP ,_, 
+could_MD you_PP go_VV and_CC get_VV me_PP a_DT box_NN of_IN tape_NN for_IN dressings_NNS ?_SENT It_PP 's_VBZ just_RB the_DT 
+cupboard_NN round_NN the_DT corner_NN ._SENT 
+BRIAN_NP :_: Yes_UH ,_, boss_NN ._SENT 
+[_SYM Corridor_NP ]_SYM 
+
+(_( Brian_NP is_VBZ nearly_RB knocked_VVN over_RP by_IN the_DT twin_JJ orderlies_NNS 
+pushing_VVG a_DT trolley_NN ._SENT )_) 
+BRIAN_NP :_: Sorry_JJ ._SENT Er_UH ,_, excuse_VV me_PP ?_SENT I_PP 'm_VBP looking_VVG for_IN the_DT supplies_NNS cupboard_NN ._SENT I_PP 
+said_VVD ,_, I_PP 'm_VBP looking_VVG for_IN the_DT supplies_NNS cupboard_NN ._SENT 
+(_( The_DT orderlies_NNS turn_NN and_CC advance_NN towards_IN Brian_NP ._SENT Three_NP ._SENT 
+
+[_SYM Hospital_NP ]_SYM 
+
+RORY_NP :_: Have_VHP you_PP seen_VVN my_PP$ dad_NN ?_SENT 
+NURSE_NN :_: No_UH ,_, sorry_RB ._SENT 
+[_SYM Corridor_NP ]_SYM 
+
+(_( Rory_NP sees_VVZ the_DT orderlies_NNS at_IN the_DT far_JJ end_NN ,_, with_IN Brian_NP 
+on_IN the_DT trolley_NN ._SENT )_) 
+RORY_NP :_: Hey_UH ._SENT Dad_NP !_SENT Hey_UH !_SENT Hey_UH !_SENT 
+(_( The_DT orderlies_NNS run_VVN into_IN a_DT goods_NNS lift_VVP with_IN Do_VVP Not_RB Use_VV tape_NN all_RB over_IN it_PP ._SENT 
+Rory_NP presses_VVZ the_DT button_NN ,_, the_DT doors_NNS open_VVP again_RB but_CC it_PP is_VBZ empty_JJ ._SENT He_PP goes_VVZ 
+in_IN and_CC tries_VVZ the_DT floor_NN buttons_NNS ._SENT The_DT doors_NNS close_NN ._SENT Rory_NP touches_VVZ the_DT wall_NN 
+opposite_JJ and_CC it_PP wibbles_VVZ ._SENT He_PP walks_VVZ through_IN and_CC onto_IN a_DT spaceship_NN in_IN 
+geosyncronous_JJ 
+orbit_NN above_IN an_DT Earth_NN surrounded_VVN by_IN clouds_NNS ._SENT ._SENT )_) 
+[_SYM UNIT_NP HQ_NP ]_SYM 
+
+AMY_NN :_: Doctor_NN ,_, please_UH ._SENT You_PP do_VVP n't_RB have_VH to_TO do_VV this_DT ._SENT 
+KATE_NN :_: She_PP 's_VBZ right_JJ ._SENT You_PP do_VVP n't_RB have_VH to_TO be_VB in_IN there_RB ._SENT We_PP can_MD do_VV this_DT 
+remotely_RB ._SENT 
+DOCTOR_NN :_: Remotely_RB is_VBZ n't_RB my_PP$ style_NN ._SENT See_VV you_PP after_IN ._SENT 
+(_( The_DT Doctor_NP enters_VVZ a_DT cubicle_NN as_IN the_DT number_NN on_IN the_DT cube_NN changes_NNS to_TO two_CD ._SENT 
+Then_RB it_PP goes_VVZ to_TO one_PP rather_RB quickly_RB ,_, and_CC finally_RB zero_CD ._SENT Then_RB it_PP switches_VVZ 
+off_RB and_CC opens_VVZ its_PP$ lid_NN ._SENT )_) 
+DOCTOR_NN :_: Geronimo_NP ._SENT 
+KATE_NP :_: What_WP 's_VBZ happening_VVG ?_SENT 
+AMY_NN :_: Well_UH ?_SENT What_WP 's_VBZ in_IN there_RB ?_SENT 
+DOCTOR_NN :_: There_EX is_VBZ nothing_NN in_IN here_RB ._SENT 
+AMY_NN :_: Er_UH ,_, well_UH ,_, that_WDT 's_VBZ good_JJ ._SENT It_PP 's_VBZ not_RB ,_, it_PP 's_VBZ not_RB bombs_NNS ,_, it_PP 's_VBZ not_RB aliens_NNS ._SENT 
+DOCTOR_NN :_: Why_WRB ?_SENT Why_WRB is_VBZ there_RB nothing_NN inside_RB ?_SENT Why_WRB ?_SENT It_PP does_VVZ n't_RB make_VV any_DT 
+sense_NN ._SENT 
+(_( The_DT Doctor_NP comes_VVZ out_RP of_IN the_DT cubicle_NN and_CC goes_VVZ to_TO the_DT bespectacled_JJ 
+Researcher_NN ._SENT )_) 
+DOCTOR_NN :_: Glasses_NNS ,_, is_VBZ it_PP the_DT same_JJ ?_SENT Is_VBZ it_PP the_DT same_JJ all_RB around_IN the_DT world_NN ?_SENT 
+KATE_NN :_: They_PP 're_VBP empty_JJ ._SENT We_PP 're_VBP safe_JJ ,_, right_RB ?_SENT 
+DOCTOR_NN :_: Ah_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, we_PP are_VBP very_RB far_RB from_IN safe_JJ ._SENT All_RB along_RB ,_, every_DT 
+action_NN has_VHZ been_VBN deliberate_JJ ._SENT Why_WRB draw_VVP attention_NN to_TO the_DT cubes_NNS if_IN they_PP 
+do_VVP n't_RB contain_VV anything_NN ?_SENT 
+AMY_NN :_: Doctor_NN ,_, look_VVP ._SENT 
+(_( On_IN the_DT monitors_NNS ,_, people_NNS are_VBP clutching_VVG at_IN their_PP$ chests_NNS in_IN pain_NN as_IN they_PP 
+walk_NN near_IN cubes_NNS on_IN the_DT ground_NN ._SENT )_) 
+RESEARCHER_NN :_: They_PP 're_VBP CCTV_NP feeds_VVZ from_IN across_IN the_DT world_NN ._SENT They_PP 're_VBP showing_VVG 
+the_DT same_JJ ._SENT 
+KATE_NNS :_: People_NNS are_VBP dying_VVG ._SENT 
+DOCTOR_NN :_: What_WP ?_SENT They_PP ca_MD n't_RB be_VB dying_VVG ._SENT How_WRB ?_SENT How_WRB are_VBP they_PP dying_VVG ?_SENT 
+KATE_NN :_: I_PP want_VVP information_NN on_IN how_WRB people_NNS are_VBP being_VBG affected_VVN ._SENT 
+DOCTOR_NN :_: The_DT cubes_NNS brought_VVD people_NNS close_VV together_RB ._SENT They_PP opened_VVD and_CC then_RB 
+argh_NP !_SENT 
+(_( The_DT Doctor_NP clutches_VVZ his_PP$ chest_NN ._SENT )_) 
+AMY_NN :_: Doctor_NP ,_, what_WP 's_VBZ the_DT matter_NN ?_SENT 
+DOCTOR_NN :_: Argh_NNS ._SENT Ah_UH ,_, I_PP do_VVP n't_RB know_VV !_SENT 
+RESEARCHER_NN :_: Hospitals_NNS are_VBP logging_VVG a_DT global_JJ surge_NN in_IN heart_NN failures_NNS ._SENT 
+Cardiac_JJ arrests_NNS ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ it_PP ._SENT Oh_UH !_SENT Oh_UH !_SENT Oh_UH !_SENT Only_RB one_CD heart_NN ._SENT Other_JJ one_PP 's_VBZ not_RB working_VVG ._SENT 
+
+AMY_NN :_: Okay_JJ ,_, I_PP 'm_VBP going_VVG to_TO get_VV you_PP to_TO the_DT hospital_NN !_SENT 
+DOCTOR_NN :_: Oh_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, no._NP Just_RB a_DT short_JJ circuit_NN ._SENT Turn_VV around_RB ,_, turn_VV 
+around_RB ._SENT Tell_VV me_PP ,_, show_VV me_PP ._SENT Ten_CD seconds_NNS after_IN the_DT cubes_NNS opened_VVD ,_, show_VV me_PP 
+the_DT patterns_NNS in_IN their_PP$ electrical_JJ currents_NNS ._SENT 
+(_( A_DT heartbeat_NN ._SENT )_) 
+DOCTOR_NN :_: See_VV ?_SENT 
+KATE_NP :_: No_UH !_SENT 
+DOCTOR_NN :_: Yes_UH ,_, the_DT power_NN cut_NN ._SENT They_PP zapped_VVD the_DT power_NN and_CC then_RB argh_JJ !_SENT 
+They_PP 're_VBP signal_NN boxes_NNS ._SENT People_NNS leaning_VVG in_IN ,_, wham_VV ._SENT Pure_JJ electrical_JJ surge_NN 
+out_RB of_IN the_DT cube_NN targeted_VVN at_IN the_DT nearest_JJS human_JJ heart_NN ._SENT The_DT heart_NN ,_, an_DT 
+organ_NN powered_VVN by_IN electrical_JJ currents_NNS ,_, short-circuited_VVN ._SENT How_WRB to_TO destroy_VV a_DT 
+human_JJ ?_SENT Go_VV for_IN the_DT heart_NN ._SENT Ow_NN ._SENT 
+Crikey_NP Moses_NP ._SENT 
+KATE_NN :_: Doctor_NN ,_, the_DT scan_NN you_PP set_VVD running_VVG ._SENT The_DT transmitter_NN locations_NNS ._SENT It_PP 's_VBZ 
+found_VVD them_PP ._SENT 
+DOCTOR_NN :_: And_CC look_VV at_IN them_PP all_RB ,_, pulsing_VVG bold_JJ as_IN brass_NN ._SENT Seven_CD of_IN them_PP ,_, all_RB 
+across_IN the_DT world_NN ._SENT Ow_NN !_SENT Seven_CD stations_NNS ,_, seven_CD minutes_NNS ._SENT Why_WRB is_VBZ that_RB 
+important_JJ ?_SENT Argh_NP !_SENT Ow_NP ,_, ow_NN ._SENT How_WRB do_VVP you_PP people_NNS manage_VVP ?_SENT One_CD heart_NN ,_, it_PP is_VBZ 
+pitiful_JJ ._SENT A_DT wormhole_NN ,_, bridging_VVG two_CD dimensions_NNS ._SENT Seven_CD of_IN them_PP hitched_VVD 
+onto_IN this_DT planet_NN ,_, but_CC where_WRB 's_VBZ the_DT closest_JJS one_CD ?_SENT Glasses_NNS ,_, zoom_VV in_RP ._SENT 
+AMY_NN :_: It_PP 's_VBZ the_DT hospital_NN where_WRB Rory_NP works_VVZ ._SENT 
+[_SYM Spaceship_NP ]_SYM 
+
+(_( Rory_NP spots_VVZ his_PP$ father_NN amongst_IN the_DT people_NNS lying_VVG on_IN 
+slabs_NNS here_RB ._SENT )_) 
+RORY_NP :_: Dad_NP ._SENT Dad_NP !_SENT 
+(_( The_DT alien_JJ orderlies_NNS are_VBP there_RB ._SENT )_) 
+RORY_NN :_: Just_RB get_VV away_RB from_IN him_PP ._SENT 
+(_( The_DT orderlies_NNS draw_VVP hypodermics_NNS and_CC advance_NN ._SENT )_) 
+
+[_SYM Hospital_NP ]_SYM 
+
+DOCTOR_NN :_: How_WRB many_JJ deaths_NNS have_VHP been_VBN recorded_VVN ?_SENT 
+KATE_NN :_: We_PP do_VVP n't_RB know_VV ._SENT We_PP think_VVP it_PP could_MD be_VB a_DT third_JJ of_IN the_DT population_NN ._SENT 
+DOCTOR_NN :_: Kate_NP ,_, I_PP have_VHP to_TO find_VV the_DT wormhole_NN ,_, but_CC the_DT attacks_NNS could_MD still_RB 
+happen_VV ._SENT Tell_VV the_DT world_NN ._SENT Tell_VV them_PP how_WRB to_TO deal_VV with_IN this_DT ._SENT The_DT world_NN 
+needs_VVZ your_PP$ leadership_NN right_RB now_RB ._SENT 
+KATE_NN :_: I_PP 'll_MD do_VV my_PP$ best_JJS ._SENT 
+DOCTOR_NN :_: Of_IN course_NN you_PP will_MD ._SENT Good_JJ luck_NN ,_, Kate_NP ._SENT Argh_NP !_SENT Argh_NP !_SENT 
+AMY_NN :_: Okay_RB ,_, how_WRB long_JJ are_VBP you_PP going_VVG to_TO last_VV with_IN only_RB one_CD heart_NN ?_SENT 
+DOCTOR_NN :_: Not_RB much_RB longer_RBR ._SENT I_PP need_VVP to_TO locate_VV the_DT wormhole_NN portal_NN ._SENT 
+(_( The_DT sonic_JJ screwdriver_NN zuzzes_NNS ._SENT )_) 
+DOCTOR_NN :_: Hello_UH ._SENT Hello_UH !_SENT 
+(_( He_PP finds_VVZ the_DT little_JJ girl_NN ._SENT )_) 
+DOCTOR_NN :_: You_PP are_VBP giving_VVG off_RP some_DT very_RB strange_JJ signals_NNS ._SENT 
+(_( The_DT girl_NN 's_POS face_NN glows_NNS blue_JJ ._SENT )_) 
+AMY_NN :_: Oh_UH ,_, my_PP$ God_NP ._SENT 
+DOCTOR_NN :_: Outlier_NN droid_NN ,_, monitoring_VVG everything_NN ._SENT If_IN I_PP shut_VVD her_PP down_RP ,_, I_PP 
+can_MD ._SENT 
+(_( He_PP does_VVZ ,_, then_RB staggers_VVZ again_RB ._SENT )_) 
+[_SYM Corridor_NP ]_SYM 
+
+DOCTOR_NN :_: Ah_UH ._SENT It_PP 's_VBZ all_DT right_NN ,_, it_PP 's_VBZ all_DT right_NN ._SENT I_PP 
+ca_MD n't_RB ,_, Amy_NP ._SENT I_PP ca_MD n't_RB do_VV it_PP ._SENT I_PP need_VVP both_DT hearts_NNS !_SENT 
+(_( Amy_NP grabs_VVZ a_DT portable_JJ defibrillator_NN ._SENT )_) 
+AMY_NN :_: All_DT right_NN ._SENT Desperate_JJ measures_NNS ._SENT 
+DOCTOR_NN :_: What_WP ?_SENT No._NN No_RB ,_, no_RB ,_, no._VVG That_DT wo_MD n't_RB work_VV ._SENT I_PP 'm_VBP a_DT Time_NP Lord_NP ._SENT 
+AMY_NN :_: All_DT right_NN ,_, clear_JJ !_SENT 
+DOCTOR_NN :_: Whoo_NN !_SENT Ooo_NP ._SENT Ooo_NP !_SENT Welcome_JJ back_NN ,_, lefty_NN !_SENT Whoa-ho_NP !_SENT Two_CD hearts_NNS !_SENT Woo_NP !_SENT 
+Back_RB in_IN the_DT game_NN ._SENT Ah_UH ._SENT Never_RB do_VVP that_IN/that to_TO me_PP again_RB ._SENT 
+(_( The_DT goods_NNS lift_VVP bell_NN dings_NNS ._SENT )_) 
+AMY_NN :_: Ah_UH ,_, portal_NN to_TO another_DT dimension_NN in_IN a_DT goods_NNS lift_VVP ?_SENT 
+DOCTOR_NN :_: The_DT energy_NN signals_NNS converge_VVP here_RB ._SENT Does_NNS seem_VVP a_DT bit_NN cramped_VVD ,_, 
+though_RB ._SENT 
+(_( They_PP find_VVP the_DT wibbly_JJ wall_NN ._SENT )_) 
+DOCTOR_NN :_: Through_IN the_DT looking_VVG glass_NN ,_, Amelia_NP ?_SENT 
+[_SYM Spaceship_NP ]_SYM 
+
+AMY_NN :_: Where_WRB are_VBP we_PP ?_SENT 
+DOCTOR_NN :_: We_PP 're_VBP in_IN orbit_NN ._SENT One_CD dimension_NN to_TO the_DT left_NN ._SENT 
+AMY_NN :_: Rory_NP !_SENT 
+(_( Laid_VVN out_RP on_IN a_DT slab_NN next_JJ to_TO Brian_NP ._SENT The_DT Doctor_NP produces_VVZ a_DT small_JJ vial_NN ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ._SENT Soborian_JJ smelling_VVG salts_NNS ._SENT Outlawed_VVN in_IN seven_CD galaxies_NNS ._SENT 
+(_( Amy_NP waves_VVZ it_PP under_IN Rory_NP 's_POS nose_NN and_CC he_PP sits_VVZ up_RP quickly_RB ._SENT Someone_NN shoots_NNS 
+at_IN them_PP ._SENT )_) 
+DOCTOR_NN :_: Whoa_NP !_SENT Whoa_NP !_SENT What_WP kind_NN of_IN a_DT welcome_NN do_VVP you_PP call_VVP that_RB ?_SENT Get_VV them_PP 
+out_RB of_IN here_RB ._SENT You_PP too_RB ._SENT Now_RB !_SENT 
+AMY_NN :_: What_WP are_VBP you_PP going_VVG to_TO do_VV ?_SENT 
+DOCTOR_NN :_: Absolutely_RB no_DT idea_NN ._SENT Get_VV him_PP to_TO the_DT portal_NN ._SENT 
+(_( Brian_NP wakes_VVZ as_RB soon_RB as_IN they_PP move_VVP his_PP$ trolley_NN ._SENT The_DT alien_JJ shoots_NNS again_RB ._SENT )_) 
+
+DOCTOR_NN :_: Whoa_NP !_SENT 
+SHAKRI_NNS :_: So_RB many_JJ of_IN them_PP crawling_VVG the_DT planet_NN ,_, seeping_VVG into_IN every_DT corner_NN ._SENT 
+
+(_( Amy_NP ,_, Rory_NP and_CC Brian_NP leave_VVP ._SENT The_DT alien_JJ vanishes_NNS then_RB reappears_VVZ in_IN front_NN 
+of_IN a_DT bank_NN of_IN monitors_NNS ._SENT )_) 
+DOCTOR_NN :_: It_PP 's_VBZ not_RB possible_JJ ._SENT I_PP thought_VVD the_DT Shakri_NP were_VBD a_DT myth_NN ._SENT A_DT myth_NN to_TO 
+keep_VV the_DT young_JJ of_IN Gallifrey_NP in_IN their_PP$ place_NN ._SENT 
+SHAKRI_NP :_: The_DT Shakri_NP exist_VVP in_IN all_DT of_IN time_NN ,_, and_CC none_NN ._SENT We_PP travel_VVP alone_RB and_CC 
+together_RB ._SENT The_DT Seven_NP ._SENT 
+DOCTOR_NN :_: The_DT Shakri_NP craft_NN ,_, connected_VVN to_TO Earth_NP ,_, through_IN seven_CD portals_NNS and_CC 
+seven_CD minutes_NNS ._SENT Ah_UH ,_, but_CC why_WRB ?_SENT 
+SHAKRI_NNS :_: Serving_VVG the_DT word_NN of_IN the_DT Tally_NP ._SENT 
+DOCTOR_NN :_: Why_WRB the_DT cubes_NNS ?_SENT Why_WRB Earth_NP ?_SENT 
+SHAKRI_NNS :_: Not_RB Earth_NP ,_, humanity_NN ._SENT The_DT Shakri_NP will_MD halt_VV the_DT human_JJ plague_NN 
+before_IN the_DT spread_NN ._SENT 
+DOCTOR_NN :_: Erase_VV humanity_NN before_IN it_PP colonises_VVZ space_NN ._SENT We_PP thought_VVD the_DT cubes_NNS 
+were_VBD an_DT invasion_NN ._SENT The_DT start_NN of_IN war_NN ._SENT 
+SHAKRI_NP :_: The_DT human_JJ contagion_NN only_RB must_MD be_VB eliminated_VVN ._SENT 
+(_( Rory_NP and_CC Amy_NP return_NN ._SENT )_) 
+AMY_NN :_: Who_WP are_VBP you_PP calling_VVG a_DT contagion_NN ?_SENT 
+DOCTOR_NN :_: Oi_NP !_SENT Did_VVD n't_RB I_PP tell_VVP you_PP two_CD to_TO go_VV ?_SENT 
+RORY_NN :_: You_PP should_MD have_VH learned_VVN by_IN now_RB ._SENT 
+AMY_NN :_: Yeah_UH ,_, and_CC what_WP is_VBZ this_DT Tally_NP anyway_RB ?_SENT 
+DOCTOR_NN :_: Some_DT people_NNS call_VVP it_PP Judgment_NN Day_NN ,_, or_CC the_DT Reckoning_NP ._SENT 
+AMY_NN :_: Do_VVP n't_RB you_PP know_VVP ?_SENT 
+DOCTOR_NN :_: I_PP 've_VHP never_RB wanted_VVN to_TO find_VV out_RP ._SENT 
+SHAKRI_NP :_: Before_IN the_DT Closure_NN ,_, there_EX is_VBZ the_DT Tally_NP ._SENT The_DT Shakri_NP serves_VVZ the_DT 
+Tally_NN ._SENT 
+DOCTOR_NN :_: The_DT pest_NN controllers_NNS of_IN the_DT universe_NN ,_, that_WDT 's_VBZ how_WRB the_DT tales_NNS 
+went_VVD ,_, is_VBZ n't_RB it_PP ?_SENT 
+AMY_NN :_: Wow_NN ._SENT That_DT 's_VBZ some_DT seriously_RB weird_JJ bedtime_NN story_NN ._SENT 
+DOCTOR_NN :_: You_PP can_MD talk_VV ._SENT Wolf_NP in_IN your_PP$ grandmother_NN 's_POS nightdress_NN ?_SENT So_RB ,_, here_RB 
+you_PP are_VBP ,_, depositing_VVG slug_NN pellets_NNS all_RB over_IN the_DT Earth_NN ,_, made_VVN attractive_JJ so_RB 
+humans_NNS will_MD collect_VV them_PP ,_, hoping_VVG to_TO find_VV something_NN beautiful_JJ inside_NN ._SENT 
+Because_IN that_DT 's_VBZ what_WP they_PP are_VBP ._SENT Not_RB pests_NNS or_CC plague_NN ,_, creatures_NNS of_IN hope_NN ,_, 
+forever_RB building_VVG and_CC reaching_VVG ._SENT Making_VVG mistakes_NNS ,_, of_IN course_NN ,_, every_DT life_NN 
+form_NN does_VVZ ._SENT But_CC ,_, but_CC they_PP learn_VVP ._SENT And_CC they_PP strive_VVP for_IN greater_JJR ,_, and_CC they_PP 
+achieve_VV it_PP ._SENT You_PP want_VVP a_DT tally_NN ._SENT Put_VV their_PP$ achievements_NNS against_IN their_PP$ 
+failings_NNS through_IN the_DT whole_NN of_IN time_NN ,_, I_PP will_MD back_VV humanity_NN against_IN the_DT 
+Shakri_NP every_DT time_NN ._SENT 
+SHAKRI_NP :_: The_DT Tally_NP must_MD be_VB met_VVN ._SENT The_DT second_JJ wave_NN will_MD be_VB released_VVN ._SENT 
+AMY_NN :_: What_WP does_VVZ that_DT mean_NN ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ going_VVG to_TO release_VV more_JJR cubes_NNS to_TO kill_VV more_JJR people_NNS ._SENT 
+[_SYM Hospital_NP ]_SYM 
+
+KATE_NN :_: Tell_VV the_DT Secretary_NP General_NP it_PP 's_VBZ not_RB just_RB 
+hospitals_NNS and_CC equipment_NN ,_, it_PP 's_POS people_NNS ._SENT Our_PP$ best_JJS hope_NN now_RB is_VBZ each_DT other_JJ ._SENT 
+[_SYM Spaceship_NP ]_SYM 
+
+SHAKRI_NP :_: The_DT human_JJ plague_NN breeding_VVG and_CC fighting_VVG ._SENT And_CC 
+when_WRB cornered_VVN ,_, their_PP$ rage_NN to_TO destroy_VV ._SENT You_PP 're_VBP too_RB late_RB ,_, Doctor_NP ._SENT The_DT 
+Tally_NN shall_MD be_VB met_VVN ._SENT 
+(_( The_DT alien_JJ vanishes_NNS ._SENT )_) 
+AMY_NN :_: He_PP 's_VBZ gone_VVN ?_SENT 
+DOCTOR_NN :_: He_PP was_VBD never_RB really_RB here_RB ._SENT Just_RB the_DT ship_NN 's_POS automated_JJ interface_NN ,_, 
+like_IN a_DT talking_VVG propaganda_NN poster_NN ._SENT I_PP can_MD stop_VV the_DT second_JJ wave_NN ._SENT I_PP can_MD 
+disconnect_VV all_PDT the_DT Shakri_NP craft_NN from_IN their_PP$ portals_NNS ,_, leave_VV them_PP drifting_VVG 
+in_IN the_DT darkspace_NN ._SENT Ah_UH ,_, but_CC all_PDT those_DT people_NNS who_WP were_VBD near_IN the_DT cubes_NNS ,_, so_RB 
+many_JJ of_IN them_PP will_MD have_VH died_VVN ._SENT 
+AMY_NN :_: I_PP restarted_VVD one_CD of_IN your_PP$ hearts_NNS ._SENT 
+RORY_NN :_: You_PP 'd_MD need_VV mass_JJ defibrillation_NN ._SENT 
+DOCTOR_NN :_: Of_IN course_NN ._SENT Ah_UH ,_, beautiful_JJ ._SENT But_CC ,_, Ponds_NP ,_, Ponds_NP ._SENT We_PP are_VBP going_VVG to_TO go_VV 
+one_CD better_JJR than_IN that_DT ._SENT The_DT Shakri_NP used_VVD the_DT cubes_NNS to_TO turn_VV people_NNS 's_POS hearts_NNS 
+off_RB ._SENT Bingo_NN !_SENT We_PP 're_VBP going_VVG to_TO use_VV them_PP to_TO turn_VV them_PP back_RB on_IN again_RB ._SENT 
+AMY_NN :_: Will_MD that_RB work_VV ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, creatures_NNS of_IN hope_NN ._SENT Has_VHZ to_TO ._SENT 
+(_( The_DT Doctor_NP finishes_VVZ sonicking_VVG the_DT alien_JJ computer_NN ._SENT )_) 
+DOCTOR_NN :_: Thirty_CD seconds_NNS ._SENT Do_VVP n't_RB let_VV me_PP down_RP ,_, cubes_NNS ,_, you_PP 're_VBP working_VVG for_IN me_PP 
+now_RB ._SENT Oh_UH dear_RB ._SENT All_PDT these_DT cubes_NNS ._SENT There_EX 's_VBZ going_VVG to_TO be_VB a_DT terrible_JJ wave_NN of_IN 
+energy_NN ricocheting_VVG around_IN here_RB any_DT second_NN ._SENT Run_NN ._SENT 
+RORY_NN :_: I_PP 'm_VBP going_VVG to_TO miss_VV this_DT ._SENT 
+(_( The_DT spaceship_NN goes_VVZ KaBOOM_NP !_SENT The_DT Doctor_NP ,_, Amy_NP and_CC Rory_NP land_NN in_IN the_DT 
+corridor_NN ._SENT All_DT around_IN the_DT world_NN ,_, people_NNS start_VVP to_TO get_VV up_RP off_IN the_DT ground_NN ._SENT )_) 
+
+[_SYM OC_NP ]_SYM :_: Emergency_NN hospitals_NNS and_CC field_NN units_NNS are_VBP working_VVG at_IN full_JJ capacity_NN 
+around_IN the_DT world_NN ,_, as_IN millions_NNS of_IN survivors_NNS of_IN cardiac_JJ arrests_NNS are_VBP 
+nursed_VVN back_RB to_TO health_NN after_IN an_DT unprecedented_JJ night_NN across_IN the_DT globe_NN ._SENT 
+[_SYM Tower_NP of_IN London_NP ]_SYM 
+
+KATE_NN :_: You_PP ,_, er_NNS ,_, you_PP really_RB are_VBP as_RB remarkable_JJ as_IN Dad_NP 
+said_VVD ._SENT 
+(_( She_PP kisses_VVZ the_DT Doctor_NP on_IN the_DT cheek_NN ._SENT )_) 
+KATE_NN :_: Thank_VV you_PP ._SENT 
+DOCTOR_NN :_: My_PP$ !_SENT A_DT kiss_NN from_IN a_DT Lethbridge_NP Stewart_NP ._SENT That_DT is_VBZ new_JJ ._SENT Oh_UH dear_RB ,_, I_PP 'm_VBP 
+late_RB for_IN dinner_NN ._SENT 
+(_( The_DT Doctor_NP salutes_VVZ Kate_NP before_IN getting_VVG into_IN the_DT UNIT_NP Range_NP Rover_NP ._SENT 
+[_SYM Kitchen_NP ]_SYM 
+
+(_( A_DT family_NN meal_NN ,_, Chinese_JJ with_IN chopsticks_NNS ._SENT )_) 
+DOCTOR_NN :_: Dear_RB me_PP ._SENT I_PP 'd_MD better_RBR get_VV going_VVG ._SENT Things_NNS to_TO do_VV ,_, worlds_NNS to_TO save_VV ,_, 
+swings_NNS to_TO swing_VV on_RP ._SENT Look_VV ,_, I_PP know_VVP ,_, you_PP both_CC have_VH lives_NNS here_RB ._SENT Beautiful_JJ ,_, 
+messy_JJ lives_NNS ._SENT That_DT is_VBZ what_WP makes_VVZ you_PP so_RB fabulously_RB human_JJ ._SENT You_PP do_VVP n't_RB want_VV 
+to_TO give_VV them_PP up_RP ._SENT I_PP understand_VVP ._SENT 
+BRIAN_NN :_: Actually_RB ,_, it_PP 's_VBZ you_PP they_PP ca_MD n't_RB give_VV up_RP ,_, Doctor_NP ._SENT And_CC I_PP do_VVP n't_RB think_VV 
+they_PP should_MD ._SENT Go_VV with_IN him_PP ._SENT Go_VV save_VV every_DT world_NN you_PP can_MD find_VV ._SENT Who_WP else_RB 
+has_VHZ that_DT chance_NN ?_SENT Life_NP will_MD still_RB be_VB here_RB ._SENT 
+DOCTOR_NN :_: You_PP could_MD come_VV ,_, Brian_NP ._SENT 
+BRIAN_NP :_: Somebody_NN 's_VBZ got_VVN to_TO water_VV the_DT plants_NNS ._SENT Just_RB bring_VV them_PP back_RB safe_JJ ._SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: So_IN that_WDT was_VBD the_DT year_NN of_IN the_DT slow_JJ invasion_NN ,_, when_WRB the_DT Earth_NN got_VVD 
+cubed_VVN ,_, and_CC the_DT Doctor_NP came_VVD to_TO stay_VV ._SENT It_PP was_VBD also_RB when_WRB we_PP realised_VVD 
+something_NN the_DT Shakri_NP never_RB understood_VVD ._SENT What_WP cubed_VVD actually_RB means_VVZ ._SENT The_DT 
+power_NN of_IN three_CD ._SENT 
+

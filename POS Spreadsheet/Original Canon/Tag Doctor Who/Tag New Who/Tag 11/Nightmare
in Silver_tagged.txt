@@ -1,0 +1,882 @@
+[_SYM Spacey_NP 
+Zoomer_NN ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ in_IN a_DT exhibit_NN which_WDT looks_VVZ 
+like_IN the_DT moon_NN 's_POS surface_NN ,_, complete_JJ with_IN US_PP flag_VVP out_RP straight_RB as_RB if_IN there_RB 
+was_VBD no_DT air_NN or_CC gravity_NN ,_, and_CC half_PDT an_DT Earth_NN in_IN the_DT dark_JJ sky_NN ._SENT The_DT Doctor_NP ,_, 
+Clara_NP ,_, then_RB Angie_NP and_CC Artie_NP Maitland_NP put_VVD their_PP$ heads_NNS out_RP of_IN the_DT door_NN ._SENT )_) 
+DOCTOR_NN :_: Well_RB ,_, here_RB we_PP are_VBP ._SENT Hedgewick_NP 's_POS World_NP ._SENT The_DT biggest_JJS and_CC best_JJS 
+amusement_NN park_NN there_RB will_MD ever_RB be_VB ,_, and_CC we_PP 've_VHP got_VVN a_DT golden_JJ ticket_NN ._SENT Eh_NP ?_SENT 
+Eh_NP ?_SENT Fun_NN ._SENT 
+CLARA_NN :_: Fun_NN ?_SENT 
+ANGIE_NN :_: Your_PP$ stupid_JJ box_NN ca_MD n't_RB even_RB get_VV us_PP to_TO the_DT right_JJ place_NN ._SENT This_DT is_VBZ 
+like_IN a_DT moon_NN base_NN or_CC something_NN ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ not_RB the_DT moon_NN ._SENT 
+ARTIE_NN :_: Actually_RB ,_, I_PP think_VVP it_PP does_VVZ look_VV like_IN the_DT moon_NN ,_, only_RB dirtier_JJR ._SENT 
+DOCTOR_NN :_: Hey_UH ._SENT Guys_NNS ._SENT It_PP 's_VBZ not_RB the_DT moon_NN ,_, okay_JJ ?_SENT It_PP 's_VBZ a_DT Spacey_NP Zoomer_NP ride_NN ,_, 
+or_CC it_PP was_VBD ._SENT 
+(_( A_DT door_NN opens_VVZ in_IN one_CD of_IN the_DT large_JJ rocks_NNS ,_, and_CC a_DT man_NN wearing_VVG a_DT tall_JJ hat_NN 
+looks_VVZ out_RP ._SENT )_) 
+WEBLEY_NP :_: Psst_NP ._SENT Excuse_VV I_PP ._SENT I_PP do_VVP n't_RB suppose_VV you_PP happen_VV to_TO be_VB my_PP$ lift_NN off_RP 
+planet_NN ?_SENT Dave_NP 's_POS Discount_NP Interstellar_NP Removals_NP ?_SENT 
+CLARA_NP :_: Afraid_JJ not_RB ._SENT 
+WEBLEY_NN :_: They_PP were_VBD meant_VVN to_TO be_VB here_RB six_CD months_NNS ago_RB ._SENT Well_RB ,_, that_WDT 's_VBZ Dave_JJ 
+for_IN you_PP ,_, see_VV ?_SENT Unreliable_JJ ._SENT 
+(_( A_DT woman_NN 's_POS voice_NN cuts_NNS through_IN the_DT air_NN ._SENT )_) 
+CAPTAIN_NN [_SYM OC_NP ]_SYM :_: Stay_VV where_WRB you_PP are_VBP !_SENT 
+WEBLEY_NP :_: Oops_NP ._SENT 
+(_( Webley_NP ducks_VVZ back_RB inside_RB as_IN the_DT military_JJ run_NN in_IN ._SENT )_) 
+CAPTAIN_NN :_: Throw_VV down_RP your_PP$ weapons_NNS and_CC identify_VV yourselves_NNS ._SENT 
+DOCTOR_NN :_: No._NN No_DT weapons_NNS ._SENT Golden_JJ ticket_NN ._SENT Spacey_NP Zoomer_NP ._SENT Free_JJ ice_NN cream_NN ?_SENT 
+CAPTAIN_NN :_: Who_WP are_VBP you_PP ?_SENT This_DT planet_NN is_VBZ closed_VVN ,_, by_IN Imperial_NP order_NN ._SENT 
+DOCTOR_NN :_: How_WRB 's_VBZ this_DT ?_SENT 
+(_( He_PP holds_VVZ up_RP his_PP$ psychic_JJ paper_NN ._SENT )_) 
+CAPTAIN_NN :_: Oh_UH ._SENT Welcome_UH ,_, Proconsul_NP ._SENT I_PP wish_VVP they_PP 'd_VHD told_VVN us_PP you_PP were_VBD coming_VVG ._SENT 
+Any_DT news_NN of_IN the_DT Emperor_NP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, the_DT Emperor_NP ._SENT No_UH ,_, no._JJ None_NN that_IN/that you_PP 'd_VHD er_NNS 
+CAPTAIN_NN :_: We_PP pray_VVP for_IN his_PP$ return_NN ._SENT If_IN there_EX is_VBZ anything_NN you_PP need_VVP ,_, my_PP$ 
+platoon_NN is_VBZ at_IN your_PP$ service_NN ._SENT 
+DOCTOR_NN :_: Right_RB ._SENT Righty-o_NP ._SENT Well_RB ,_, carry_VVP on_IN ,_, Captain_NP ._SENT 
+CAPTAIN_NN :_: Platoon_NN ,_, let_VVN 's_POS move_NN out_RB !_SENT On_IN the_DT double_JJ ._SENT Two_CD ,_, three_CD ,_, four_CD ._SENT Two_CD ,_, 
+three_CD ,_, four_CD ._SENT Two_CD ,_, three_CD ,_, four_CD ._SENT 
+(_( The_DT military_NN run_VVN off_RP ,_, and_CC Webley_NP pokes_VVZ his_PP$ head_NN out_RP again_RB ._SENT )_) 
+WEBLEY_NP :_: Have_VHP they_PP gone_VVN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+WEBLEY_NN :_: Uniforms_NNS give_VVP me_PP the_DT heebie-jeebies_NNS ._SENT Come_VVN on_IN ._SENT They_PP ca_MD n't_RB stop_VV 
+me_PP being_VBG here_RB ,_, but_CC they_PP do_VVP n't_RB like_VV it_PP ._SENT 
+(_( He_PP leads_VVZ them_PP away_RP from_IN the_DT Zoomer_NP for_IN a_DT view_NN of_IN the_DT whole_JJ amusement_NN 
+park_NN ._SENT )_) 
+DOCTOR_NN :_: Ha_NP ,_, ha_NP !_SENT You_PP see_VVP ?_SENT I_PP told_VVD you_PP it_PP was_VBD amazing_JJ ._SENT Well_RB ,_, it_PP used_VVD to_TO 
+be_VB ._SENT 
+(_( Wrecked_VVD mega-scenic_JJ rollercoaster_NN and_CC other_JJ rides_NNS ._SENT Grass_NN is_VBZ growing_VVG in_RP 
+the_DT cracks_NNS in_IN the_DT concrete_NN ._SENT )_) 
+WEBLEY_NN :_: It_PP closed_VVD down_RP ._SENT Wish_VV I_PP 'd_VHD known_VVN that_IN/that before_IN I_PP landed_VVD here_RB ._SENT But_RB 
+let_VV me_PP show_VV you_PP my_PP$ collection_NN ._SENT Come_VV along_RB ._SENT Follow_VV me_PP ._SENT This_DT way_NN ._SENT This_DT 
+way_NN in_IN ,_, come_VV on_RP ._SENT 
+[_SYM Webley_NP 's_POS room_NN ]_SYM 
+(_( Down_RB some_DT steps_NNS into_IN a_DT comfortably_RB furnished_JJ room_NN 
+with_IN lots_NNS of_IN waxworks_NNS on_IN display_NN ,_, all_DT lit_NN by_IN chandeliers_NNS hanging_VVG from_IN 
+the_DT ceiling_NN ._SENT )_) 
+WEBLEY_NP :_: Welcome_UH to_TO my_PP$ show_NN ._SENT Webley_NP 's_POS World_NP of_IN Wonders_NP ._SENT Miracles_NNS ,_, 
+marvels_NNS and_CC more_JJR await_VVP you_PP ._SENT I_PP am_VBP Impresario_NP Webley_NP ._SENT You_PP see_VVP before_IN you_PP 
+waxwork_NN representations_NNS of_IN the_DT famous_JJ and_CC the_DT infamous_JJ ._SENT Anybody_NN here_RB 
+play_NN chess_NN ?_SENT 
+(_( The_DT Doctor_NP puts_VVZ his_PP$ hand_NN up_RP ._SENT )_) 
+WEBLEY_NN :_: Perhaps_RB you_PP ,_, young_JJ man_NN ?_SENT 
+ARTIE_NN :_: Actually_RB ,_, I_PP 'm_VBP in_IN my_PP$ school_NN chess_NN club_NN ._SENT 
+WEBLEY_NP :_: Ah_UH ._SENT Follow_VV me_PP ._SENT 
+[_SYM Chess_NP room_NN ]_SYM 
+WEBLEY_NN :_: Now_RB ,_, let_VV demonstrate_VV to_TO you_PP all_PDT the_DT wonder_NN 
+of_IN the_DT age_NN ,_, the_DT miracle_NN of_IN modernity_NN ._SENT 
+(_( Sitting_VVG by_IN the_DT chess_NN board_NN is_VBZ something_NN covered_VVN in_IN a_DT satin_NN cloth_NN ._SENT )_) 
+WEBLEY_NN :_: We_PP defeated_VVD them_PP all_PDT a_DT thousand_CD years_NNS ago_RB ,_, but_CC now_RB he_PP 's_VBZ back_RB ,_, 
+to_TO destroy_VV you_PP ._SENT Behold_VV ,_, the_DT enemy_NN !_SENT 
+(_( Webley_NP whips_VVZ the_DT cloth_NN off_IN a_DT slightly_RB tarnished_VVN silver_JJ coloured_JJ robot_NN ,_, 
+which_WDT raises_VVZ its_PP$ head_NN ._SENT )_) 
+DOCTOR_NN :_: Cyberman_NN !_SENT Get_VV down_RB !_SENT 
+WEBLEY_NP :_: No_DT need_NN to_TO panic_VV ,_, my_PP$ young_JJ friends_NNS ._SENT We_PP all_RB know_VVP there_EX are_VBP no_RB 
+more_JJR living_NN Cybermen_NNS ._SENT What_WP you_PP are_VBP seeing_VVG is_VBZ a_DT miracle_NN ._SENT The_DT six_CD hundred_CD 
+and_CC ninety_CD ninth_JJ wonder_NN of_IN the_DT universe_NN ,_, as_RB displayed_VVN before_IN the_DT 
+Imperial_JJ court_NN ,_, and_CC only_RB here_RB to_TO destroy_VV you_PP at_IN chess_NN ._SENT 
+(_( The_DT Doctor_NP is_VBZ scanning_VVG and_CC investigating_VVG ._SENT )_) 
+WEBLEY_NP :_: Careful_JJ now_RB ._SENT An_DT empty_JJ shell_NN ,_, and_CC yet_RB it_PP moves_VVZ ._SENT How_WRB ?_SENT 
+ANGIE_NP :_: Magic_JJ ._SENT 
+WEBLEY_NP :_: That_WDT might_MD well_RB be_VB ,_, young_JJ lady_NN ,_, but_CC a_DT single_JJ penny_NN wins_VVZ you_PP 
+five_CD Imperial_NP shillings_NNS 
+(_( Two_CD tiny_JJ slim_JJ metallic_JJ bugs_NNS with_IN a_DT flashing_VVG blue_JJ eye_NN are_VBP watching_VVG from_IN 
+a_DT waxwork_NN Blowfish_NN head_NN ._SENT Something_NN is_VBZ using_VVG them_PP to_TO watch_VV the_DT scene_NN ._SENT )_) 
+WEBLEY_NP :_: If_IN you_PP can_MD beat_VV this_DT empty_JJ shell_NN at_IN chess_NN ._SENT 
+ARTIE_NN :_: I_PP have_VHP n't_RB got_VVN a_DT penny_NN ,_, but_CC I_PP 've_VHP got_VVN a_DT sandwich_NN ._SENT 
+WEBLEY_NP :_: All_DT right_NN ,_, take_VV a_DT seat_NN ._SENT It_PP is_VBZ free_JJ of_IN all_DT devices_NNS ,_, and_CC yet_RB it_PP 
+has_VHZ never_RB been_VBN beaten_VVN ._SENT Would_MD you_PP like_VV to_TO make_VV the_DT first_JJ move_NN ,_, young_JJ 
+man_UH ?_SENT 
+(_( Artie_NP moves_VVZ his_PP$ King_NP 's_POS Bishop_NP 's_POS pawn_NN one_CD space_NN ._SENT The_DT Cyberman_NP counters_NNS 
+by_IN moving_VVG its_PP$ King_NP 's_POS pawn_NN two_CD spaces_NNS ._SENT )_) 
+DOCTOR_NN :_: Oh_UH no_UH ,_, Artie_NP ._SENT No_RB ,_, do_VVP n't_RB do_VV that_WDT ,_, it_PP 
+(_( Artie_NP advances_VVZ his_PP$ King_NP 's_POS Knight_NP 's_POS pawn_NN two_CD spaces_NNS ._SENT Up_RB comes_VVZ the_DT Black_NP 
+Queen_NN to_TO end_VV the_DT game_NN ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ a_DT fool_NN 's_POS mate_NN ._SENT 
+WEBLEY_NP :_: If_IN you_PP can_MD tell_VV me_PP how_WRB it_PP works_VVZ ,_, I_PP 'll_MD give_VV you_PP a_DT silver_NN penny_NN ._SENT 
+ANGIE_NN :_: I_PP think_VVP you_PP do_VVP it_PP with_IN mirrors_NNS ?_SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT Mirrors_NNS ._SENT Clever_JJ girl_NN ._SENT Well_RB ,_, let_VV 's_VBZ see_VV ,_, hey_UH ?_SENT Low_JJ tech_NN ._SENT It_PP 's_VBZ 
+a_DT puppet_NN ._SENT Monofilament_NN strings_NNS ,_, which_WDT means_VVZ the_DT brains_NNS are_VBP in_IN 
+(_( The_DT Doctor_NP opens_VVZ a_DT door_NN in_IN the_DT Cyberman_NP 's_POS chair_NN to_TO reveal_VV a_DT little_JJ man_NN 
+with_IN a_DT control_NN box_NN ._SENT )_) 
+PORRIDGE_NN :_: Hello_UH ._SENT 
+DOCTOR_NN :_: Hello_UH ._SENT 
+PORRIDGE_NN :_: I_PP 'm_VBP the_DT brains_NNS ._SENT 
+DOCTOR_NN :_: Hello_UH ._SENT 
+PORRIDGE_NN :_: Give_VV us_PP a_DT hand_NN ._SENT 
+(_( The_DT Doctor_NP helps_VVZ Porridge_NP out_IN of_IN the_DT small_JJ space_NN ._SENT )_) 
+PORRIDGE_NN :_: They_PP call_VVP me_PP Porridge_NN ._SENT Oh_UH ,_, it_PP 's_VBZ good_JJ to_TO be_VB out_RP of_IN that_DT box_NN ._SENT 
+WEBLEY_NP :_: For_IN you_PP ,_, Miss_NP ,_, an_DT Imperial_NP penny_NN ._SENT 
+(_( Which_WDT Webley_NP apparently_RB produces_VVZ from_IN Angie_NP 's_POS ear_NN ._SENT The_DT Doctor_NP notices_NNS 
+a_DT small_JJ swarm_NN of_IN tiny_JJ metal_NN bugs_NNS slithering_VVG across_IN the_DT floor_NN ._SENT )_) 
+[_SYM Webley_NP 's_POS room_NN ]_SYM 
+WEBLEY_NN :_: I_PP have_VHP not_RB one_CD but_CC three_CD Cybermen_NNS in_IN my_PP$ 
+collection_NN ._SENT 
+(_( The_DT exhibit_NN is_VBZ labelled_VVN The_DT Great_NP Enemy_NP ._SENT The_DT Doctor_NP checks_NNS that_WDT they_PP 
+are_VBP inert_JJ ._SENT Angie_NP looks_VVZ at_IN another_DT waxwork_NN ,_, a_DT tall_JJ man_NN with_IN a_DT familiar_JJ 
+face_NN ._SENT )_) 
+ANGIE_NP :_: Is_VBZ that_IN/that the_DT King_NP ?_SENT 
+PORRIDGE_NN :_: Emperor_NN ._SENT Ludens_NP Nimrod_NP Kendrick_NP ,_, etc_FW ,_, etc_FW ,_, the_DT forty_NN first_RB ._SENT 
+Defender_NN of_IN Humanity_NP ,_, Imperator_NN of_IN known_VVN space_NN ._SENT 
+CLARA_NN :_: He_PP looks_VVZ a_DT bit_NN full_JJ of_IN himself_PP ._SENT 
+PORRIDGE_NN :_: Do_VVP n't_RB say_VV things_NNS like_IN that_DT about_IN the_DT Imperial_NP family_NN ._SENT You_PP can_MD 
+end_NN up_RB on_IN the_DT run_NN for_IN the_DT rest_NN of_IN your_PP$ life_NN ._SENT 
+ARTIE_NN :_: They_PP do_VVP n't_RB sound_VV very_RB nice_JJ ._SENT 
+PORRIDGE_NN :_: Go_VV on_RP ._SENT If_IN the_DT kids_NNS want_VVP to_TO ride_VV the_DT Spacey_NP Zoomer_NP ,_, then_RB I_PP can_MD 
+operate_VV the_DT gravity_NN console_NN ._SENT 
+(_( Angie_NP compares_VVZ the_DT image_NN on_IN the_DT coin_NN to_TO the_DT waxwork_NN ._SENT )_) 
+ARTIE_NP :_: Angie_NP !_SENT 
+[_SYM Spacey_NP Zoomer_NP ]_SYM 
+(_( Artie_NP and_CC Angie_NP enjoy_VVP flying_VVG around_RP in_IN 
+microgravity_NN ._SENT Clara_NP takes_VVZ photographs_NNS with_IN her_PP$ phone_NN ._SENT )_) 
+ARTIE_NN :_: Wow_NN !_SENT 
+CLARA_NN :_: Smile_NN !_SENT Say_VV ,_, Spacey_NP Zoomer_NP ._SENT 
+ARTIE_NN :_: Look_VV at_IN us_PP ,_, Doctor_NP ._SENT We_PP 're_VBP flying_VVG !_SENT 
+DOCTOR_NN :_: Having_VHG a_DT good_JJ time_NN ?_SENT 
+(_( Porridge_NN turns_VVZ off_RP the_DT anti-gravity_NN ._SENT )_) 
+ARTIE_NN :_: I_PP think_VVP that_WDT was_VBD the_DT most_JJS fun_NN I_PP 've_VHP had_VHD in_IN my_PP$ whole_JJ life_NN ._SENT 
+ANGIE_NN :_: It_PP was_VBD (_( pause_NN )_) okay_JJ ._SENT 
+ARTIE_NP :_: Clara_NP ,_, I_PP think_VVP outer_JJ space_NN is_VBZ actually_RB very_RB interesting_JJ ._SENT 
+CLARA_NN :_: Right_RB ._SENT Wonderful_JJ day_NN out_RB ,_, Doctor_NP ,_, but_CC time_NN to_TO get_VV the_DT kids_NNS home_NN ._SENT 
+
+(_( The_DT Doctor_NP is_VBZ scanning_VVG with_IN the_DT sonic_JJ screwdriver_NN ._SENT )_) 
+DOCTOR_NN :_: Yeah_UH ._SENT Er_UH ,_, no._JJ Not_RB actually_RB ready_JJ to_TO leave_VV ._SENT 
+CLARA_NP :_: Why_WRB not_RB ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV ._SENT Reasons_NNS ._SENT 
+CLARA_NP :_: What_WP reasons_VVZ ?_SENT 
+DOCTOR_NN :_: Insects_NNS ._SENT Funny_JJ insects_NNS ._SENT I_PP should_MD a_DT them_PP to_TO my_PP$ funny_JJ insect_NN 
+collection_NN ._SENT 
+CLARA_NN :_: You_PP collect_VVP funny_JJ insects_NNS ?_SENT 
+DOCTOR_NN :_: Yeah_UH ,_, I_PP 'm_VBP starting_VVG to_TO ,_, right_RB now_RB ._SENT 
+[_SYM Webley_NP 's_POS room_NN ]_SYM 
+(_( Angie_NP and_CC Artie_NP are_VBP lying_VVG on_IN the_DT sofas_NNS ,_, ready_JJ to_TO 
+sleep_NN ._SENT )_) 
+ANGIE_NP :_: How_WRB long_RB do_VVP we_PP have_VHP to_TO stay_VV here_RB ?_SENT 
+DOCTOR_NN :_: Not_RB long_RB ._SENT Have_VHP a_DT nap_NN ._SENT I_PP 'll_MD wake_VV you_PP when_WRB we_PP 're_VBP ready_JJ to_TO leave_VV ._SENT 
+PORRIDGE_NN :_: Comfy_JJ ?_SENT 
+CLARA_NP :_: Sleep_VVP well_RB ._SENT 
+PORRIDGE_NN :_: Good_JJ night_NN ._SENT 
+(_( The_DT Doctor_NP turns_VVZ the_DT lights_NNS out_RP as_IN he_PP leaves_VVZ ._SENT Clara_NP and_CC Porridge_NP 
+follow_VV ._SENT )_) 
+DOCTOR_NN :_: Do_VVP n't_RB wander_VV off_RP ._SENT Now_RB ,_, I_PP 'm_VBP not_RB just_RB saying_VVG do_VVP n't_RB wander_VV off_RP ,_, I_PP 
+mean_VV it_PP ._SENT Otherwise_RB you_PP 'll_MD wander_VV off_RP and_CC the_DT next_JJ thing_NN you_PP know_VVP ,_, 
+somebody_NN 's_VBZ going_VVG to_TO have_VH to_TO start_VV rescuing_VVG somebody_NN ._SENT 
+ANGIE_NN :_: From_IN what_WP ?_SENT 
+DOCTOR_NN :_: Nothing_NN ._SENT Nobody_NN needs_NNS rescuing_VVG from_IN anything_NN ._SENT Do_VVP n't_RB wander_VV off_RP ._SENT 
+Sweet_JJ dreams_NNS ._SENT 
+[_SYM Chess_NP room_NN ]_SYM 
+(_( Webley_NP takes_VVZ a_DT drink_NN from_IN a_DT hip_JJ flask_NN ,_, then_RB 
+enjoys_VVZ the_DT sandwich_NN he_PP won_VVD from_IN Artie_NP ._SENT )_) 
+WEBLEY_NP :_: Total_JJ takings_NNS for_IN the_DT day_NN ,_, one_CD sandwich_NN ._SENT Better_JJR than_IN no_DT 
+sandwich_NN ,_, of_IN course_NN ._SENT Not_RB as_RB good_JJ as_IN two_CD sandwiches_NNS ,_, or_CC even_RB a_DT chicken_NN ._SENT 
+(_( The_DT Cyberman_NP grabs_VVZ his_PP$ arms_NNS ._SENT )_) 
+WEBLEY_NP :_: That_WDT 's_VBZ a_DT bit_NN odd_JJ ._SENT That_DT 's_VBZ not_RB funny_JJ ._SENT Give_VV me_PP my_PP$ hands_NNS back_RB ._SENT 
+(_( Lots_NNS of_IN the_DT micro-Cybermats_NNS rush_VVP out_RP of_IN the_DT Cyberman_NP 's_POS eye_NN sockets_VVZ and_CC 
+across_IN to_TO Webley_NP ._SENT )_) 
+CYBERMAN_NN :_: Upgrade_VV in_IN progress_NN ._SENT 
+(_( Webley_NP screams_VVZ ._SENT )_) 
+[_SYM Webley_NP 's_POS room_NN ]_SYM 
+(_( Angie_NP and_CC Artie_NP are_VBP being_VBG monitored_VVN ._SENT )_) 
+ANGIE_NN :_: I_PP hate_VVP the_DT future_NN ._SENT It_PP 's_VBZ stupid_JJ ._SENT There_EX 's_VBZ not_RB even_RB phone_NN service_NN ._SENT 
+I_PP 'm_VBP out_RB of_IN here_RB ._SENT 
+ARTIE_NN :_: The_DT Doctor_NP said_VVD not_RB to_TO wander_VV off_RP ._SENT 
+ANGIE_NN :_: He_PP said_VVD that_IN/that ,_, and_CC then_RB he_PP wandered_VVD off_RP ._SENT 
+(_( The_DT mini-Cybermats_NNS find_VVP Angie_NP 's_POS discarded_VVN mobile_JJ phone_NN and_CC swarm_NN all_RB 
+over_IN it_PP ._SENT )_) 
+ARTIE_NN :_: I_PP do_VVP n't_RB think_VV Clara_NP would_MD like_VV that_DT ._SENT 
+ANGIE_NN :_: She_PP 's_VBZ not_RB our_PP$ mum_NN ._SENT 
+ARTIE_NP :_: Do_VVP n't_RB leave_VV me_PP here_RB ._SENT 
+(_( The_DT monitor_NN display_NN says_VVZ Disassembly_NP required_VVN ,_, then_RB Upgrade_JJ will_NN 
+commence_VV ._SENT )_) 
+[_SYM Hedgewick_NP 's_POS World_NP ]_SYM 
+(_( Clara_NP and_CC Porridge_NP walk_VVP together_RB ._SENT )_) 
+CLARA_NP :_: Was_VBD this_DT really_RB the_DT biggest_JJS amusement_NN park_NN in_IN the_DT universe_NN ?_SENT 
+PORRIDGE_NN :_: Yeah_UH ._SENT Hedgewick_NP bought_VVD the_DT planet_NN cheap_NN ._SENT It_PP 'd_VHD been_VBN trashed_VVN in_RP 
+the_DT Cyberwars_NP ._SENT 
+CLARA_NP :_: Who_WP were_VBD we_PP fighting_VVG ?_SENT 
+PORRIDGE_NN :_: Cybermen_NNS ._SENT Technologically_RB upgraded_VVN warriors_NNS ._SENT We_PP could_MD n't_RB win_VV ._SENT 
+Sometimes_RB we_PP fought_VVD to_TO a_DT draw_NN ,_, but_CC then_RB they_PP 'd_MD upgrade_VV themselves_PP ,_, fix_VV 
+their_PP$ weaknesses_NNS and_CC destroy_VV us_PP ._SENT It_PP 's_VBZ hard_JJ to_TO fight_VV an_DT enemy_NN that_WDT uses_VVZ 
+your_PP$ armies_NNS as_IN spare_JJ parts_NNS ._SENT 
+CLARA_NN :_: You_PP beat_VVP them_PP ,_, though_RB ._SENT Beat_VV them_PP or_CC you_PP would_MD n't_RB be_VB here_RB ._SENT How_WRB ?_SENT 
+PORRIDGE_NN :_: Look_VV up_RP there_RB ._SENT That_DT corner_NN of_IN sky_NN ?_SENT What_WP do_VVP you_PP see_VVP ?_SENT 
+CLARA_NN :_: Nothing_NN ._SENT It_PP 's_VBZ just_RB black_JJ ._SENT No_DT stars_NNS ,_, no_DT nothing_NN ._SENT 
+PORRIDGE_NN :_: It_PP use_VVP to_TO be_VB the_DT Tiberion_NP Spiral_NP Galaxy_NP ._SENT A_DT million_CD star_NN 
+systems_NNS ,_, a_DT hundred_CD million_CD worlds_NNS ,_, a_DT billion_CD trillion_CD people_NNS ._SENT It_PP 's_VBZ not_RB 
+there_RB any_DT more_RBR ._SENT No_DT more_JJR Tiberion_NP Galaxy_NP ._SENT No_DT more_JJR Cybermen_NNS ._SENT It_PP was_VBD 
+effective_JJ ._SENT 
+CLARA_NN :_: It_PP 's_VBZ horrible_JJ ._SENT 
+PORRIDGE_NN :_: Yeah_UH ._SENT I_PP feel_VVP like_IN a_DT monster_NN sometimes_RB ._SENT 
+CLARA_NP :_: Why_WRB ?_SENT 
+PORRIDGE_NN :_: Because_IN instead_RB of_IN mourning_VVG a_DT billion_CD trillion_CD dead_JJ people_NNS ,_, I_PP 
+just_RB feel_VV sorry_RB for_IN the_DT poor_JJ blighter_NN who_WP had_VHD to_TO press_VV the_DT button_NN and_CC 
+blow_VV it_PP all_DT up_RP ._SENT 
+DOCTOR_NN :_: Clara_NP ,_, did_VVD you_PP tell_VV Angie_NP she_PP could_MD go_VV to_TO the_DT barracks_NN ?_SENT 
+CLARA_NN :_: You_PP know_VVP I_PP did_VVD n't_RB ._SENT She_PP has_VHZ n't_RB ._SENT 
+DOCTOR_NN :_: She_PP 's_VBZ just_RB gone_VVN in_IN there_RB ._SENT 
+CLARA_NP :_: Come_VVN on_RP ._SENT 
+[_SYM Barracks_NP ]_SYM 
+BEAUTY_NN :_: I_PP ca_MD n't_RB fix_VV this_DT ._SENT 
+CAPTAIN_NN :_: It_PP ca_MD n't_RB be_VB broken_VVN ._SENT It_PP 's_VBZ a_DT solid_JJ state_NN subether_NN ansible_JJ class_NN 
+communicator_NN ._SENT Just_RB run_VV the_DT diagnostics_NNS ._SENT 
+BEAUTY_NN :_: There_EX 's_VBZ nothing_NN left_VVN to_TO diagnose_VV ._SENT It_PP 's_VBZ not_RB broken_VVN ,_, it_PP 's_VBZ empty_JJ ._SENT 
+All_PDT the_DT components_NNS have_VHP gone_VVN ._SENT 
+CAPTAIN_NN :_: Well_RB ,_, you_PP must_MD have_VH replacement_NN parts_NNS ._SENT 
+BEAUTY_NN :_: Not_RB enough_JJ to_TO build_VV a_DT new_JJ one_CD ._SENT 
+BRAINS_NNS :_: Captain_NN ,_, the_DT weather_NN controller_NN is_VBZ malfunctioning_VVG again_RB ._SENT 
+There_EX 's_VBZ storms_NNS ,_, heat_NN waves_NNS ,_, snow_NN ._SENT 
+ANGIE_NP :_: Hello_UH ,_, I_PP 'm_VBP bored_VVN ._SENT 
+CAPTAIN_NN :_: Where_WRB 's_VBZ your_PP$ big_JJ sister_NN ?_SENT 
+ANGIE_NP :_: Clara_NP ?_SENT She_PP 's_VBZ not_RB my_PP$ sister_NN ._SENT She_PP 's_VBZ stupid_JJ ._SENT She_PP 's_VBZ talking_VVG to_TO 
+Porridge_NN ._SENT 
+CAPTAIN_NN :_: She_PP talks_VVZ to_TO her_PP$ porridge_NN ?_SENT 
+ANGIE_NP :_: Porridge_NN ._SENT That_DT little_JJ bloke_NN ?_SENT 
+CAPTAIN_NN :_: We_PP need_VVP to_TO have_VH a_DT chat_NN ._SENT 
+[_SYM Webley_NP 's_POS collection_NN ]_SYM 
+(_( Artie_NP ca_MD n't_RB sleep_VV with_IN all_PDT the_DT waxworks_NNS staring_VVG 
+at_IN him_PP ._SENT )_) 
+ARTIE_NN :_: I_PP 'm_VBP not_RB scared_VVN ,_, if_IN you_PP 're_VBP wondering_VVG ._SENT I_PP just_RB think_VVP I_PP ought_MD to_TO 
+turn_VV the_DT lights_NNS back_RB on_IN ._SENT 
+(_( Artie_NP makes_VVZ his_PP$ nervous_JJ way_NN to_TO the_DT light_JJ switch_NN and_CC turns_VVZ it_PP on_RP ._SENT Then_RB 
+a_DT Cyberman_NP grabs_VVZ him_PP from_IN behind_RB ._SENT )_) 
+[_SYM Barracks_NP ]_SYM 
+CAPTAIN_NN :_: So_RB ,_, tell_VV me_PP about_IN the_DT little_JJ bloke_NN ._SENT 
+ANGIE_NP :_: Well_UH ,_, you_PP must_MD have_VH seen_VVN him_PP ._SENT 
+CLARA_NP :_: Angie_NP !_SENT Angie_NP !_SENT 
+(_( Clara_NP and_CC the_DT Doctor_NP enter_VV ._SENT )_) 
+ANGIE_NN :_: She_PP always_RB has_VHZ to_TO turn_VV up_RP and_CC spoil_VV everything_NN ._SENT I_PP was_VBD n't_RB doing_VVG 
+anything_NN ._SENT Why_WRB ca_MD n't_RB you_PP just_RB leave_VVP me_PP alone_RB ?_SENT 
+(_( A_DT big_JJ crash_NN ,_, and_CC enter_VV a_DT Cyberman_NP ._SENT )_) 
+CAPTAIN_NN :_: Cyberman_NN !_SENT 
+CLARA_NP :_: Angie_NP !_SENT 
+CAPTAIN_NN :_: Attack_NN formation_NN ._SENT 
+(_( The_DT Cyberman_NP moves_VVZ faster_RBR than_IN a_DT blur_NN while_IN the_DT platoon_NN try_VVP to_TO sort_VV 
+themselves_PP out_RB ._SENT A_DT fat_JJ man_NN -_: Ha-Ha_NP -_: runs_VVZ forward_RB whilst_IN 
+another_DT man_NN with_IN a_DT pony-tail_NN grabs_VVZ a_DT chair_NN ._SENT The_DT fat_JJ man_NN gets_VVZ swatted_VVN 
+aside_RB ._SENT )_) 
+CAPTAIN_NN :_: No_UH !_SENT Attack_NN formation_NN ,_, quickly_RB ._SENT 
+(_( They_PP start_VVP shooting_VVG at_IN the_DT Cyberman_NP ._SENT )_) 
+CYBERMAN_NN :_: Upgrade_VV in_IN progress_NN ._SENT 
+CLARA_NP :_: Angie_NP !_SENT 
+(_( The_DT Cyberman_NP moves_NNS through_IN the_DT group_NN as_RB if_IN they_PP are_VBP standing_VVG still_RB and_CC 
+puts_VVZ Angie_NP over_IN his_PP$ shoulder_NN ,_, carrying_VVG her_PP off_RP ._SENT )_) 
+CLARA_NP :_: Angie_NP !_SENT 
+DOCTOR_NN :_: Clara_NP ._SENT Clara_NP !_SENT 
+(_( He_PP drags_VVZ Clara_NP back_RB ._SENT )_) 
+CAPTAIN_NN :_: That_WDT was_VBD a_DT Cyberman_NP ._SENT But_CC they_PP 're_VBP extinct_JJ ._SENT 
+DOCTOR_NN :_: Listen_VV to_TO me_PP ._SENT I_PP will_MD get_VV her_PP$ back_NN ._SENT Captain_NN ,_, a_DT word_NN please_RB ._SENT Now_RB ,_, 
+correct_VV me_PP if_IN I_PP 'm_VBP wrong_JJ ,_, but_CC I_PP take_VV it_PP your_PP$ platoon_NN does_VVZ n't_RB do_VV much_RB 
+fighting_VVG ._SENT 
+CAPTAIN_NN :_: What_WP do_VVP you_PP expect_VVP ?_SENT 
+CLARA_NP :_: What_WP ?_SENT 
+CAPTAIN_NN :_: We_PP 're_VBP a_DT punishment_NN platoon_NN ._SENT It_PP 's_VBZ why_WRB they_PP sent_VVD us_PP out_RP here_RB ,_, so_RB 
+we_PP ca_MD n't_RB get_VV into_IN trouble_NN ._SENT 
+DOCTOR_NN :_: Right_RB ,_, right_RB ,_, well_RB ,_, okay_JJ ._SENT As_IN Imperial_NP Consul_NP ,_, I_PP 'm_VBP putting_VVG Clara_NP 
+in_IN charge_NN ._SENT 
+(_( The_DT Doctor_NP pins_VVZ the_DT Captain_NP 's_POS insignia_NNS on_IN Clara_NP 's_POS jacket_NN ._SENT )_) 
+DOCTOR_NN :_: Clara_NP ,_, stay_VVP alive_JJ until_IN I_PP get_VVP back_RB ,_, and_CC do_VVP n't_RB let_VV anyone_NN blow_NN 
+up_IN this_DT planet_NN ._SENT 
+CLARA_NN :_: Is_VBZ that_DT something_NN they_PP 're_VBP likely_JJ to_TO do_VV ?_SENT 
+DOCTOR_NN :_: Get_VV to_TO somewhere_RB defensible_JJ ._SENT 
+CLARA_NP :_: Where_WRB are_VBP you_PP going_VVG ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP getting_VVG Angie_NP ,_, finding_VVG Artie_NP and_CC looking_VVG for_IN funny_JJ insects_NNS ._SENT 
+Stay_VV alive_RB ._SENT And_CC you_PP lot_RB ,_, no_RB blowing_VVG up_RP this_DT planet_NN !_SENT 
+(_( The_DT Doctor_NP leaves_VVZ ._SENT )_) 
+[_SYM Chess_NP room_NN ]_SYM 
+ANGIE_NN :_: Put_VV me_PP down_RP !_SENT I_PP hate_VVP you_PP !_SENT 
+(_( The_DT Cyberman_NP puts_VVZ her_PP down_RP ._SENT She_PP sees_VVZ Artie_NP with_IN a_DT single_JJ blue_JJ light_NN 
+flashing_VVG at_IN the_DT side_NN of_IN his_PP$ head_NN ,_, and_CC Webley_NP ,_, who_WP is_VBZ semi-Borgified_JJ ._SENT )_) 
+ANGIE_NP :_: Artie_NP ?_SENT Artie_NP ,_, what_WP 's_VBZ happening_VVG ?_SENT 
+ARTIE_NP :_: Please_UH stand_VV by_IN ._SENT You_PP will_MD be_VB upgraded_VVN ._SENT 
+(_( Angie_NP screams_VVZ ._SENT )_) 
+[_SYM Barracks_NP ]_SYM 
+CAPTAIN_NN :_: Cyberiad_NN class_NN weaponry_NN ._SENT I_PP 've_VHP taken_VVN it_PP 
+out_RB of_IN storage_NN ._SENT 
+CLARA_NP :_: Good_JJ ._SENT We_PP need_VVP to_TO find_VV somewhere_RB defensible_JJ ._SENT Where_WRB ?_SENT 
+(_( The_DT Captain_NP shows_VVZ her_PP a_DT large_JJ advertising_NN overview_NN of_IN Hedgewick_NP 's_POS 
+World_NP ._SENT )_) 
+CAPTAIN_NN :_: The_DT beach_NN ,_, the_DT Giant_NP 's_POS Cauldron_NP ,_, Natty_NP Longshoe_NP 's_POS Comical_NP 
+Castle_NP ._SENT 
+CLARA_NP :_: Real_JJ castle_NN ?_SENT Drawbridge_NN ?_SENT Moat_NN ?_SENT 
+CAPTAIN_NN :_: Yes_UH ,_, but_CC comical_JJ ._SENT 
+CLARA_NN :_: We_PP 'll_MD go_VV there_RB ._SENT 
+CAPTAIN_NN :_: Ma'am_NN ,_, my_PP$ platoon_NN can_MD deal_VV with_IN one_CD Cyberman_NP ,_, and_CC there_EX are_VBP 
+protocols_NNS if_IN we_PP cannot_MD immediately_RB find_VV and_CC destroy_VV it_PP ._SENT 
+CLARA_NN :_: Blowing_VVG up_RP the_DT planet_NN protocols_NNS ?_SENT 
+CAPTAIN_NN :_: Respectfully_RB ,_, ma'am_NN ._SENT 
+CLARA_NN :_: Somewhere_RB defensible_JJ ._SENT No_DT blowing_VVG up_RP the_DT planet_NN ._SENT 
+PORRIDGE_NN :_: She_PP 's_VBZ your_PP$ commanding_JJ officer_NN now_RB ,_, is_VBZ n't_RB she_PP ,_, Captain_NP ?_SENT 
+CAPTAIN_NN :_: Yes_UH ._SENT Sir_NP ._SENT 
+(_( Clara_NP leaves_VVZ ._SENT )_) 
+PORRIDGE_NN :_: You_PP really_RB saw_VVD a_DT Cyberman_NP ?_SENT 
+CAPTAIN_NN :_: We_PP really_RB did_VVD ._SENT 
+PORRIDGE_NN :_: Have_VHP you_PP reported_VVD it_PP to_TO the_DT Imperium_NN ?_SENT 
+CAPTAIN_NN :_: No_DT communicators_NNS ._SENT 
+PORRIDGE_NN :_: So_RB you_PP 're_VBP going_VVG to_TO do_VV what_WP she_PP says_VVZ ._SENT Right_RB ,_, let_VVP 's_VBZ all_RB spend_VV 
+the_DT night_NN at_IN Natty_NP Longshoe_NP 's_POS Comical_NP Castle_NP ._SENT 
+[_SYM Webley_NP 's_POS room_NN ]_SYM 
+DOCTOR_NN :_: Artie_NP ?_SENT 
+(_( He_PP spots_VVZ a_DT mini-Cybermat_NN and_CC speaks_VVZ to_TO it_PP ._SENT )_) 
+DOCTOR_NN :_: Firstly_RB ,_, if_IN anybody_NN 's_VBZ watching_VVG this_DT ,_, those_DT children_NNS are_VBP under_IN 
+my_PP$ protection_NN ._SENT I_PP 'm_VBP coming_VVG to_TO get_VV them_PP ._SENT And_CC secondly_RB ,_, little_JJ metal_NN 
+machine_NN ,_, you_PP are_VBP beautiful_JJ ._SENT 
+(_( He_PP sonicks_VVZ it_PP into_IN dormancy_NN and_CC picks_VVZ it_PP up_RP ._SENT )_) 
+DOCTOR_NN :_: Not_RB even_RB a_DT Cybermat_NP any_DT more_JJR ,_, eh_NP ?_SENT Cybermites_NNS ._SENT 
+[_SYM Chess_NP room_NN ]_SYM 
+DOCTOR_NN :_: Now_RB ,_, there_EX 's_VBZ a_DT local_JJ transmat_NN link_NN open_JJ to_TO 
+your_PP$ home_NN ._SENT If_IN I_PP can_MD just_RB find_VV the_DT frequency_NN 
+(_( Zap_VV ._SENT )_) 
+[_SYM Cyberlab_NP ]_SYM 
+DOCTOR_NN :_: Hey_UH ,_, that_WDT really_RB should_MD n't_RB have_VH worked_VVN ._SENT 
+ARTIE_NN :_: Doctor_NN ,_, help_VV us_PP ._SENT 
+DOCTOR_NN :_: Angie_NP ?_SENT Artie_NP ?_SENT 
+(_( Both_DT children_NNS are_VBP unresponsive_JJ ._SENT )_) 
+DOCTOR_NN :_: Webley_NP ._SENT 
+WEBLEY_NN :_: We_PP needed_VVD children_NNS ,_, but_CC the_DT children_NNS had_VHD stopped_VVN coming_VVG ._SENT You_PP 
+brought_VVN us_PP children_NNS ._SENT Hail_NN to_TO you_PP ,_, the_DT Doctor_NP ,_, saviour_NN of_IN the_DT Cybermen_NP !_SENT 
+[_SYM Outside_IN the_DT Castle_NP ]_SYM 
+CLARA_NP :_: What_WP would_MD the_DT Empire_NP do_VVP if_IN they_PP were_VBD 
+alerted_VVD ?_SENT 
+CAPTAIN_NN :_: I_PP told_VVD you_PP ,_, tell_VV me_PP to_TO blow_VV up_RP the_DT planet_NN ._SENT 
+CLARA_NN :_: After_IN they_PP got_VVD us_PP off_RP ._SENT 
+PORRIDGE_NN :_: Captain_NN ,_, you_PP want_VVP to_TO take_VV that_IN/that one_PP ?_SENT 
+CAPTAIN_NN :_: No_UH ,_, ma'am_NN ._SENT Just_RB blow_VV the_DT sucker_NN up_RB ._SENT 
+CLARA_NN :_: Drawbridge_NN ,_, moat_NN ,_, brilliant_JJ ._SENT 
+BRAINS_NNS :_: With_IN respect_NN ,_, ma'am_NN ,_, we_PP ought_MD to_TO be_VB hunting_VVG the_DT creature_NN ._SENT 
+CLARA_NN :_: The_DT only_JJ reason_NN I_PP 'm_VBP still_RB alive_JJ is_VBZ that_IN/that I_PP do_VVP what_WP the_DT Doctor_NP 
+says_VVZ ._SENT Can_MD you_PP guarantee_VV me_PP you_PP 'd_MD bring_VV back_RB my_PP$ children_NNS alive_JJ and_NP 
+unharmed_JJ ?_SENT 
+(_( Brains_NNS shakes_VVZ his_PP$ head_NN ._SENT )_) 
+CLARA_NN :_: I_PP trust_VVP the_DT Doctor_NP ._SENT 
+CAPTAIN_NN :_: You_PP think_VVP he_PP knows_VVZ what_WP he_PP 's_VBZ doing_VVG ?_SENT 
+CLARA_NN :_: I_PP 'm_VBP not_RB sure_JJ I_PP 'd_MD go_VV that_IN/that far_RB ._SENT 
+[_SYM Cyberlab_NP ]_SYM 
+WEBLEY_NP :_: As_IN the_DT battle_NN raged_VVN between_IN humanity_NN and_CC 
+the_DT Cyberiad_NP ,_, the_DT Cyberplanners_NP built_VVD a_DT Valkyrie_NN ,_, to_TO save_VV critically_RB 
+damaged_JJ units_NNS and_CC bring_VV them_PP here_RB ,_, and_CC one_CD by_IN one_CD ,_, repair_VV them_PP ._SENT 
+DOCTOR_NN :_: The_DT people_NNS who_WP vanished_VVD from_IN the_DT amusement_NN park_NN ,_, they_PP were_VBD 
+spare_JJ parts_NNS for_IN repairs_NNS ._SENT 
+WEBLEY_NN :_: We_PP 've_VHP upgraded_VVN ourselves_PP ._SENT The_DT next_JJ model_NN will_MD be_VB undefeatable_JJ ._SENT 
+DOCTOR_NN :_: Nothing_NN 's_VBZ undefeatable_JJ ._SENT 
+WEBLEY_NN :_: We_PP needed_VVD children_NNS to_TO build_VV a_DT new_JJ Cyberplanner_NP ._SENT A_DT child_NN 's_POS 
+brain_NN ,_, with_IN its_PP$ infinite_JJ potential_NN ,_, is_VBZ perfect_JJ for_IN our_PP$ needs_NNS ._SENT But_CC we_PP no_RB 
+longer_RBR need_VV the_DT children_NNS ._SENT The_DT Cybermites_NNS have_VHP been_VBN scanning_VVG your_PP$ brain_NN ,_, 
+Doctor_NN ._SENT It_PP 's_VBZ quite_RB remarkable_JJ ._SENT 
+DOCTOR_NN :_: Also_RB completely_RB useless_JJ to_TO you_PP ._SENT Cybermen_NNS use_VVP human_JJ parts_NNS ._SENT I_PP 'm_VBP 
+not_RB human_JJ ._SENT You_PP ca_MD n't_RB convert_VV non-humans_NNS ._SENT 
+WEBLEY_NP :_: Well_UH ,_, that_WDT was_VBD true_JJ a_DT long_JJ time_NN ago_RB ._SENT But_CC we_PP 've_VHP upgraded_VVN 
+ourselves_PP ._SENT Current_JJ Cyberunits_NNS use_VVP almost_RB any_DT living_VVG components_NNS ._SENT 
+(_( Webley_NP throws_VVZ some_DT Cybermites_NNS onto_IN the_DT Doctor_NP ._SENT They_PP get_VVP inside_RB and_CC he_PP 
+screams_NNS ._SENT The_DT Doctor_NP acquires_VVZ some_DT silver_JJ components_NNS on_IN left_JJ side_NN of_IN his_PP$ 
+face_NN ._SENT He_PP is_VBZ now_RB a_DT split_NN personality_NN ._SENT Cyberplanner_NP Doctor_NP will_MD be_VB 
+designated_VVN C-Doctor_NN ._SENT Resistance_NN is_VBZ futile_JJ ._SENT )_) 
+C-DOCTOR_NP :_: Incorporated_VVN ._SENT Yes_UH ._SENT Ah_UH ._SENT Unfamiliar_JJ pulmonary_JJ set-up_NN ._SENT Nervous_JJ 
+system_NN hyperconductive_NN ._SENT Remarkable_JJ brain_NN processing_NN speed_NN ._SENT Ho_NP ,_, ho_NP ._SENT 
+Amazing_JJ ._SENT 
+DOCTOR_NN :_: Get_VV out_RP of_IN my_PP$ head_NN !_SENT 
+[_SYM Cyberiad_NP ]_SYM 
+(_( The_DT Doctor_NP confronts_VVZ the_DT Cyberplanner_NP in_IN 
+cyberspace_NN ._SENT )_) 
+DOCTOR_NN :_: Stop_VV rummaging_VVG in_IN my_PP$ mind_NN ._SENT 
+C-DOCTOR_NN :_: Just_RB you_PP try_VV and_CC stop_VV me_PP ._SENT Ooo_NP ,_, who_WP 's_VBZ Clara_NP ._SENT Why_WRB are_VBP you_PP 
+thinking_VVG about_IN her_PP$ so_RB much_JJ ?_SENT 
+DOCTOR_NN :_: Enough_RB ._SENT 
+C-DOCTOR_NP :_: Fascinating_JJ ._SENT A_DT complete_JJ mental_JJ block_NN ._SENT Highly_RB effective_JJ ._SENT 
+[_SYM Cyberlab_NP ]_SYM 
+C-DOCTOR_NN :_: Relax_VV ,_, relax_VV ._SENT If_IN you_PP just_RB relax_VVP ,_, you_PP 
+will_MD find_VV this_DT a_DT perfectly_RB pleasant_JJ experience_NN ._SENT You_PP are_VBP being_VBG upgraded_VVN 
+and_CC incorporated_VVN into_IN the_DT Cyberiad_NP as_IN a_DT Cyberplanner_NP ._SENT 
+DOCTOR_NN :_: Get_VV out_RP of_IN my_PP$ head_NN !_SENT 
+[_SYM Cyberiad_NP ]_SYM 
+DOCTOR_NN :_: What_WP is_VBZ this_DT place_NN ,_, a_DT network_NN ?_SENT A_DT hive_NN ?_SENT 
+You_PP 're_VBP getting_VVG signals_NNS from_IN every_DT Cyberman_NP everywhere_RB ._SENT How_WRB many_JJ of_IN you_PP 
+are_VBP there_RB ?_SENT 
+[_SYM Cyberlab_NP ]_SYM 
+C-DOCTOR_NP :_: Oh_UH ,_, this_DT is_VBZ brilliant_JJ ._SENT I_PP 'm_VBP so_RB clever_JJ 
+already_RB ,_, and_CC now_RB I_PP 'm_VBP a_DT million_CD times_NNS more_RBR clever_JJ ._SENT And_CC what_WP a_DT brain_NN ._SENT Not_RB 
+a_DT human_JJ brain_NN ,_, not_RB even_RB slightly_RB human_JJ ._SENT I_PP mean_VVP ,_, I_PP 'm_VBP going_VVG to_TO have_VH to_TO 
+completely_RB rework_VV the_DT neural_JJ interface_NN ,_, but_CC this_DT is_VBZ going_VVG to_TO be_VB the_DT 
+most_RBS efficient_JJ Cyberplanner_NP ._SENT Not_RB a_DT great_JJ name_NN ,_, that_WDT ,_, is_VBZ it_PP ?_SENT I_PP could_MD 
+call_VV myself_PP Mister_NP Clever_NP ._SENT So_RB much_RB raw_JJ data_NNS ._SENT Time_NP Lords_NPS ._SENT There_EX 's_VBZ 
+information_NN on_IN the_DT Time_NP Lords_NPS in_IN here_RB ._SENT Oh_UH ,_, this_DT is_VBZ just_RB dreamy_JJ ._SENT 
+[_SYM Cyberiad_NP ]_SYM 
+DOCTOR_NN :_: Right_RB ,_, I_PP 'm_VBP allowing_VVG you_PP access_NN to_TO memories_NNS 
+on_IN Time_NP Lord_NP regeneration_NN ._SENT 
+(_( The_DT ten_CD known_VVN faces_NNS of_IN the_DT Doctor_NP flash_NN through_IN behind_IN them_PP ._SENT )_) 
+C-DOCTOR_NP :_: Fantastic_JJ !_SENT 
+DOCTOR_NN :_: I_PP could_MD regenerate_VV right_RB now_RB ._SENT A_DT big_JJ blast_NN of_IN regeneration_NN 
+energy_NN ,_, burn_VV out_RP any_DT little_JJ Cyberwidgets_NNS in_IN my_PP$ brain_NN ,_, along_RB with_IN 
+everything_NN you_PP 're_VBP connected_VVN to_TO ._SENT Do_VVP n't_RB want_VV to_TO ._SENT You_PP use_VVP this_DT me_PP up_RB ,_, who_WP 
+knows_VVZ what_WP we_PP 'll_MD get_VV next_JJ ?_SENT But_CC I_PP can_MD ._SENT 
+[_SYM Cyberlab_NP ]_SYM 
+C-DOCTOR_NP :_: Stalemate_NN ,_, then_RB ._SENT One_CD of_IN us_PP needs_VVZ to_TO 
+control_VV this_DT head_NN ._SENT We_PP 're_VBP too_RB well-balanced_JJ ._SENT What_WP did_VVD you_PP say_VVP ?_SENT No_UH ,_, no_UH ,_, 
+no_UH ,_, no_UH ,_, no._NP I_PP heard_VVD you_PP ._SENT Rhetorical_JJ device_NN to_TO keep_VV me_PP thinking_VVG about_IN it_PP 
+a_DT bit_NN more_RBR ._SENT Stalemate_NN ?_SENT 
+[_SYM Cyberiad_NP ]_SYM 
+C-DOCTOR_NN :_: We_PP each_DT control_NN forty_NN nine_CD point_NN eight_CD 
+eight_CD one_CD percent_NN of_IN this_DT brain_NN ._SENT Point_NN two_CD three_CD eight_CD of_IN the_DT brain_NN is_VBZ 
+still_RB in_IN the_DT balance_NN ._SENT Whoever_WP gets_VVZ this_DT gets_VVZ the_DT whole_JJ thing_NN ._SENT 
+DOCTOR_NN :_: Do_VVP you_PP play_VV chess_NN ?_SENT 
+C-DOCTOR_NP :_: The_DT rules_NNS of_IN chess_NN are_VBP in_IN my_PP$ memory_NN banks_NNS ._SENT You_PP 're_VBP proposing_VVG 
+we_PP play_VVP chess_NN to_TO end_VV the_DT stalemate_NN ?_SENT 
+DOCTOR_NN :_: Winner_NN takes_VVZ all_RB ._SENT Nobody_NN can_MD access_VV that_DT portion_NN of_IN the_DT brain_NN 
+without_IN winning_VVG the_DT game_NN ._SENT 
+(_( They_PP shake_VVP on_IN it_PP ._SENT )_) 
+[_SYM Cyberlab_NP ]_SYM 
+C-DOCTOR_NN :_: You_PP ca_MD n't_RB win_VV ._SENT 
+DOCTOR_NN :_: Try_VV me_PP ._SENT 
+C-DOCTOR_NN :_: You_PP understand_VVP ,_, when_WRB I_PP do_VVP win_VV ,_, the_DT Cyberiad_NP gets_VVZ your_PP$ brains_NNS 
+and_CC memories_NNS ._SENT All_DT of_IN it_PP ._SENT 
+DOCTOR_NN :_: When_WRB I_PP win_VVP ,_, you_PP get_VVP out_RP of_IN my_PP$ head_NN ,_, you_PP let_VVP the_DT children_NNS go_VVP ,_, 
+and_CC nobody_NN dies_NNS ._SENT You_PP got_VVD that_RB ?_SENT Nobody_NN dies_NNS !_SENT 
+[_SYM Power_NP station_NN ]_SYM 
+BRAINS_NNS [_SYM on_IN radio_NN ]_SYM :_: Castle_NN 's_VBZ clear_JJ ._SENT Missy_NP ,_, confirm_VVP 
+status_FW ._SENT 
+MISSY_NN :_: All_DT clear_JJ in_IN the_DT power_NN station_NN ._SENT 
+(_( Thud_VV !_SENT )_) 
+MISSY_NN :_: It_PP 's_VBZ Missy_NP ._SENT Something_NN 's_VBZ out_RB there_RB ._SENT 
+BRAINS_NNS [_SYM on_IN radio_NN ]_SYM :_: What_WP do_VVP you_PP mean_VVP ?_SENT Is_VBZ it_PP the_DT Cyberman_NP ?_SENT 
+MISSY_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP could_MD n't_RB see_VV it_PP ._SENT It_PP was_VBD only_RB for_IN a_DT moment_NN ._SENT Can_MD I_PP 
+hide_VV ?_SENT Is_VBZ it_PP okay_JJ if_IN I_PP hide_VV ?_SENT 
+(_( The_DT Cyberman_NP stomps_VVZ in_IN ._SENT )_) 
+MISSY_NN :_: Do_VVP n't_RB move_VV !_SENT I_PP 'm_VBP in_IN the_DT army_NN !_SENT 
+(_( It_PP advances_VVZ ,_, she_PP runs_VVZ and_CC hides_VVZ amongst_IN some_DT scaffolding_NN poles_NNS ._SENT It_PP 
+walks_NNS past_JJ and_CC she_PP breathes_VVZ out_RP ._SENT It_PP stops_VVZ ,_, turns_VVZ ,_, and_CC drops_VVZ a_DT hand_NN ._SENT 
+Cyber-Thing_NN scuttles_NNS across_IN the_DT ground_NN and_CC leaps_NNS onto_IN her_PP$ face_NN ._SENT )_) 
+[_SYM Castle_NP ]_SYM 
+BRAINS_NNS :_: Er_UH ,_, ma'am_NN ._SENT Missy_NP said_VVD she_PP saw_VVD something_NN ,_, 
+and_CC then_RB she_PP went_VVD quiet_JJ ._SENT 
+CLARA_NN :_: It_PP 's_VBZ on_IN its_PP$ way_NN ,_, then_RB ._SENT Weapons_NNS ._SENT Show_VV me_PP ._SENT Only_RB one_CD gun_NN ?_SENT 
+CAPTAIN_NN :_: Cybermen_NNS have_VHP been_VBN extinct_JJ for_IN a_DT thousand_CD years_NNS ._SENT Even_RB one_CD 
+Anti-Cyber_NN gun_NN is_VBZ a_DT miracle_NN ._SENT These_DT things_NNS are_VBP hand-pulsers_NNS ._SENT Touch_VV the_DT 
+back_RB of_IN a_DT Cyberman_NP 's_POS head_NN ,_, the_DT electomagnetic_JJ pulse_NN deactivates_VVZ it_PP ._SENT 
+CLARA_NP :_: What_WP 's_VBZ this_DT for_IN ?_SENT Just_RB a_DT mad_JJ guess_NN here_RB ,_, it_PP blows_VVZ up_RP the_DT planet_NN ?_SENT 
+CAPTAIN_NN :_: Implodes_VVZ it_PP ._SENT There_EX 's_VBZ also_RB a_DT trigger_NN unit_NN ._SENT 
+CLARA_NN :_: I_PP 'll_MD have_VH that_DT ,_, then_RB ._SENT Is_VBZ there_RB any_DT other_JJ way_NN to_TO activate_VV the_DT 
+bomb_NN ?_SENT 
+CAPTAIN_NN :_: It_PP 's_VBZ set_VVN to_TO respond_VV to_TO my_PP$ voice_NN ._SENT I_PP have_VHP the_DT verbal_JJ code_NN ._SENT 
+CLARA_NN :_: You_PP will_MD not_RB activate_VV it_PP without_IN a_DT direct_JJ order_NN from_IN me_PP ._SENT 
+CAPTAIN_NN :_: I_PP will_MD follow_VV my_PP$ orders_NNS ._SENT 
+CLARA_NN :_: Your_PP$ orders_NNS come_VVP from_IN me_PP ,_, do_VVP n't_RB they_PP ?_SENT 
+BRAINS_NNS :_: You_PP 'll_MD need_VV to_TO sign_VV for_IN that_DT trigger_NN unit_NN ,_, ma'am_NN ._SENT 
+CLARA_NN :_: Thanks_NNS ._SENT 
+(_( Porridge_NN picks_NNS up_IN a_DT hand-pulser_NN ._SENT )_) 
+PORRIDGE_NN :_: Mind_VV if_IN I_PP take_VVP one_PP of_IN these_DT ?_SENT Might_MD be_VB handy_JJ ._SENT 
+CAPTAIN_NN :_: Help_VV yourself_PP ._SENT I_PP 'll_MD teach_VV you_PP how_WRB to_TO use_VV it_PP ._SENT Upstairs_NN ._SENT Now_RB !_SENT 
+[_SYM Cyberlab_NP ]_SYM 
+(_( The_DT chess_NN board_NN is_VBZ in_IN place_NN ._SENT )_) 
+C-DOCTOR_NN :_: There_RB ._SENT That_DT was_VBD easy_JJ ._SENT The_DT game_NN has_VHZ just_RB started_VVN ._SENT Doctor_NN ,_, why_WRB 
+is_VBZ there_RB no_DT record_NN of_IN you_PP anywhere_RB in_IN the_DT databanks_NNS of_IN the_DT Cyberiad_NP ?_SENT 
+Oh_UH ,_, you_PP 're_VBP good_JJ ._SENT Oh_UH ,_, you_PP 've_VHP been_VBN eliminating_VVG yourself_PP from_IN history_NN ._SENT You_PP 
+know_VV you_PP could_MD be_VB reconstructed_VVN by_IN the_DT hole_NN you_PP 've_VHP left_VVN ._SENT 
+DOCTOR_NN :_: Good_JJ point_NN ._SENT I_PP 'll_MD do_VV something_NN about_IN that_DT ._SENT 
+[_SYM Cyberiad_NP ]_SYM 
+C-DOCTOR_NP :_: The_DT rules_NNS of_IN chess_NN allow_VVP only_RB a_DT finite_NN 
+number_NN of_IN moves_NNS ,_, and_CC I_PP can_MD use_VV other_JJ Cyberunits_NNS as_IN remote_JJ processors_NNS ._SENT 
+You_PP cannot_MD possibly_RB win_VV ._SENT 
+DOCTOR_NN :_: I_PP can_MD ._SENT I_PP know_VVP things_NNS you_PP do_VVP n't_RB ._SENT For_IN example_NN ,_, did_VVD you_PP know_VVP very_RB 
+early_JJ versions_NNS of_IN the_DT Cyber_NP operating_VVG system_NN could_MD be_VB seriously_RB 
+scrambled_VVN by_IN exposure_NN to_TO things_NNS ,_, like_IN gold_NN ,_, or_CC cleaning_VVG fluid_NN ?_SENT And_CC 
+what_WP 's_VBZ interesting_JJ is_VBZ ,_, you_PP 're_VBP still_RB running_VVG some_DT of_IN that_DT code_NN ._SENT 
+C-DOCTOR_NN :_: Really_RB ._SENT That_DT 's_VBZ your_PP$ secret_JJ weapon_NN ?_SENT Cleaning_VVG fluid_NN ?_SENT 
+[_SYM Cyberlab_NP ]_SYM 
+DOCTOR_NN :_: Nope_RB ,_, gold_NN ._SENT 
+(_( And_CC slaps_VVZ the_DT golden_JJ ticket_NN onto_IN his_PP$ implants_NNS ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ho_NN ,_, ho_NP !_SENT Like_IN a_DT charm_NN ._SENT Right_RB ,_, you_PP ,_, Cyber_NP Webley_NP ,_, and_CC you_PP kid_VVP 
+things_NNS ._SENT I_PP 'll_MD bring_VV the_DT chessboard_NN ._SENT Let_VV 's_VBZ get_VV out_RP of_IN here_RB ._SENT 
+[_SYM Castle_NP battlements_NNS ]_SYM 
+PORRIDGE_NN :_: You_PP knew_VVD it_PP was_VBD me_PP ._SENT 
+CAPTAIN_NN :_: I_PP was_VBD in_IN the_DT Imperial_NP Guard_NP on_IN Caspertine_NP ._SENT Mostly_RB just_RB 
+parades_NNS ,_, but_CC I_PP had_VHD the_DT honour_NN to_TO guard_VV the_DT old_JJ Emperor_NN during_IN the_DT ice_NN 
+picnic_NN ._SENT 
+PORRIDGE_NN :_: When_WRB the_DT snow_NN bears_NNS came_VVD and_CC danced_VVD for_IN us_PP ._SENT That_DT was_VBD a_DT day_NN ._SENT 
+(_( They_PP are_VBP being_VBG watched_VVN by_IN a_DT Cybermite_NP ._SENT )_) 
+CAPTAIN_NN :_: We_PP 're_VBP a_DT punishment_NN platoon_NN ._SENT We_PP ca_MD n't_RB beat_VV a_DT Cyberman_NP ._SENT The_DT 
+Imperium_NN has_VHZ to_TO know_VV what_WP 's_VBZ happening_VVG ._SENT 
+PORRIDGE_NN :_: Like_IN you_PP said_VVD ,_, the_DT communicators_NNS are_VBP out_RB ._SENT The_DT only_JJ way_NN you_PP 
+can_MD report_VV this_DT now_RB is_VBZ to_TO activate_VV the_DT bomb_NN ._SENT 
+CAPTAIN_NN :_: Yes_UH ._SENT 
+PORRIDGE_NN :_: And_CC I_PP forbid_VV you_PP to_TO do_VV that_DT ._SENT 
+CLARA_NN :_: I_PP do_VVP n't_RB get_VV it_PP ._SENT Why_WRB would_MD you_PP blow_VV up_RP a_DT whole_JJ planet_NN and_CC 
+everybody_NN on_IN it_PP just_RB to_TO get_VV rid_JJ of_IN one_CD Cyberman_NP ?_SENT 
+PORRIDGE_NN :_: We_PP tried_VVD other_JJ ways_NNS ,_, but_CC they_PP only_RB work_VVP sometimes_RB ,_, so_RB now_RB we_PP 
+take_VV drastic_JJ action_NN ._SENT And_CC it_PP works_VVZ ._SENT 
+CAPTAIN_NN :_: If_IN you_PP find_VVP a_DT Cyberman_NP and_CC you_PP ca_MD n't_RB destroy_VV it_PP immediately_RB ,_, 
+you_PP implode_VVP the_DT planet_NN ._SENT I_PP was_VBD sent_VVN here_RB because_IN I_PP did_VVD n't_RB follow_VV orders_NNS ._SENT 
+I_PP can_MD make_VV up_RP for_IN that_DT ._SENT 
+CLARA_NN :_: Put_VV it_PP down_RP ._SENT I_PP forbid_VV you_PP ._SENT 
+PORRIDGE_NN :_: Yeah_UH ._SENT What_WP she_PP said_VVD ._SENT 
+CAPTAIN_NN :_: You_PP ran_VVD away_RB ._SENT I_PP will_MD do_VV what_WP I_PP was_VBD brought_VVN up_RP to_TO do_VV ._SENT Live_VV for_IN 
+the_DT Empire_NP ,_, fight_NN for_IN the_DT Empire_NP ,_, die_NN for_IN the_DT Empire_NN ._SENT This_DT is_VBZ Captain_NP 
+Alice_NP Ferrin_NP ,_, Imperial_NP ID_NNS one_CD nine_CD delta_NN one_CD three_CD B_NN ._SENT Activate_VVP 
+(_( The_DT Captain_NP is_VBZ shot_VVN by_IN a_DT Cyberman_NP on_IN the_DT other_JJ side_NN of_IN the_DT moat_NN ._SENT )_) 
+PORRIDGE_NN :_: Cyberman_NN !_SENT Get_VV down_RB !_SENT 
+CLARA_NN :_: The_DT Doctor_NP said_VVD to_TO get_VV somewhere_RB easily_RB defensible_JJ ,_, but_CC if_IN we_PP 
+just_RB stay_VV in_IN the_DT castle_NN it_PP 'll_MD pick_VV us_PP off_IN one_CD by_IN one_CD ._SENT We_PP have_VHP to_TO take_VV 
+it_PP out_RB ._SENT 
+HA-HA_NN :_: Is_VBZ that_IN/that an_DT order_NN ,_, ma'am_NN ?_SENT 
+CLARA_NP :_: Yes_UH ._SENT 
+HA-HA_NN :_: Good_JJ ._SENT 
+CLARA_NN :_: You_PP know_VVP what_WP to_TO do_VV ._SENT 
+BRAINS_NNS :_: Pulse_NN to_TO the_DT back_NN of_IN the_DT head_NN ._SENT Fry_VV the_DT brain_NN circuit_NN interface_NN ._SENT 
+
+CLARA_NN :_: It_PP 's_VBZ going_VVG to_TO be_VB hard_JJ to_TO get_VV in_IN close_JJ enough_NN ._SENT 
+[_SYM Hedgewick_NP 's_POS World_NP ]_SYM 
+(_( Somewhere_RB in_IN the_DT amusement_NN park_NN ,_, one_CD of_IN the_DT women_NNS 
+soldiers_NNS spots_VVZ the_DT Cyberman_NP ._SENT She_PP runs_VVZ forward_RB to_TO touch_VV the_DT back_NN of_IN its_PP$ 
+head_NN ,_, but_CC its_PP$ body_NN grabs_VVZ her_PP and_CC kills_VVZ her_PP ._SENT Then_RB it_PP puts_VVZ its_PP$ head_NN back_RB 
+on_RB ._SENT Elsewhere_RB ,_, two_CD more_JJR soldiers_NNS die_VVP in_IN front_NN of_IN Ha-Ha_NP ._SENT )_) 
+HA-HA_NN :_: I_PP 've_VHP heard_VVN about_IN the_DT Cybermen_NP since_IN I_PP was_VBD in_IN my_PP$ cradle_NN ._SENT I_PP 'm_VBP not_RB 
+afraid_JJ of_IN you_PP ._SENT 
+CLARA_NN :_: Now_RB !_SENT 
+(_( The_DT Cyberman_NP moves_NNS forward_RB ,_, Fats_NP jinks_VVZ to_TO the_DT side_NN and_CC Clara_NP atomises_VVZ 
+it_PP with_IN a_DT long_JJ blast_NN from_IN the_DT Anti-Cyber_NP gun_NN ,_, as_IN she_PP stands_VVZ behind_RB 
+sandbags_NNS ._SENT )_) 
+HA-HA_NN :_: Hold_VV it_PP right_RB there_RB ._SENT 
+CLARA_NP :_: What_WP 's_VBZ happening_VVG to_TO them_PP ?_SENT 
+(_( The_DT two_CD dead_JJ soldiers_NNS have_VHP been_VBN upgraded_VVN ._SENT )_) 
+CLARA_NP :_: One_CD more_JJR step_NN and_CC I_NN fire_NN ._SENT 
+HA-HA_NN :_: Do_VVP n't_RB fire_VV that_DT ._SENT A_DT pulse_NN will_MD deactivate_VV them_PP ._SENT 
+(_( Two_CD other_JJ soldiers_NNS do_VVP that_DT ._SENT )_) 
+HA-HA_NN :_: And_CC anyway_RB ,_, it_PP 's_VBZ a_DT waste_NN of_IN charge_NN ._SENT We_PP may_MD need_VV it_PP again_RB ._SENT 
+CLARA_NN :_: You_PP do_VVP n't_RB think_VV that_WDT was_VBD the_DT only_JJ one_CD ,_, then_RB ?_SENT 
+[_SYM Outside_IN the_DT Castle_NP ]_SYM 
+(_( They_PP meet_VVP up_RP with_IN the_DT Doctor_NP ,_, Angie_NP and_CC Artie_NP ,_, 
+and_CC Webley_NP ._SENT )_) 
+DOCTOR_NN :_: Argh_NNS !_SENT Do_VVP n't_RB shoot_VV ,_, do_VVP n't_RB shoot_VV ,_, I_PP 'm_VBP nice_JJ ._SENT Please_UH ,_, do_VVP n't_RB shoot_VV ._SENT 
+Hey_UH ,_, Clara_NP ,_, you_PP have_VHP n't_RB let_VV them_PP blow_VV up_RP the_DT planet_NN ._SENT Good_JJ job_NN ._SENT 
+CLARA_NP :_: Did_VVD you_PP get_VV the_DT kids_NNS ?_SENT Are_VBP they_PP all_DT right_NN ?_SENT What_WP 's_VBZ going_VVG on_RP ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, a_DT bit_NN of_IN a_DT good_JJ news_NN ,_, bad_JJ news_NN ,_, good_JJ news_NN again_RB thing_NN going_VVG 
+on_RB ._SENT So_RB ,_, good_JJ news_NN ,_, I_PP 've_VHP kidnapped_VVN the_DT Cyberplanner_NP and_CC right_RB now_RB I_PP 'm_VBP 
+sort_NN of_IN in_IN control_NN of_IN this_DT Cyberman_NP ._SENT 
+CLARA_NP :_: Bad_JJ news_NN ?_SENT 
+DOCTOR_NN :_: Bad_JJ news_NN ,_, the_DT Cyberplanner_NP 's_POS in_IN my_PP$ head_NN ._SENT And_CC ,_, different_JJ bad_JJ 
+news_NN ,_, the_DT kids_NNS are_VBP ,_, well_UH ,_, it_PP 's_VBZ complicated_JJ ._SENT 
+CLARA_NP :_: Complicated_VVD how_WRB ?_SENT 
+DOCTOR_NN :_: Complicated_VVN as_RB in_IN walking_VVG coma_NN ._SENT 
+(_( He_PP hides_VVZ behind_IN the_DT chess_NN board_NN he_PP is_VBZ holding_VVG ._SENT )_) 
+CLARA_NP :_: Please_UH tell_VV me_PP you_PP can_MD wake_VV them_PP up_RP ._SENT 
+DOCTOR_NN :_: Hope_VVP so_RB ._SENT 
+CLARA_NP :_: Other_JJ good_JJ news_NN ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, in_IN other_JJ good_JJ news_NN ,_, there_EX are_VBP a_DT few_JJ more_RBR repaired_VVN and_CC 
+reactivated_VVN Cybermen_NNS on_IN the_DT way_NN ,_, and_CC the_DT Cyberplanner_NP 's_VBZ installing_VVG a_DT 
+patch_NN for_IN the_DT gold_JJ thing_NN ._SENT No_UH ,_, wait_VV ,_, that_WDT is_VBZ n't_RB good_JJ news_NN ,_, is_VBZ it_PP ._SENT Er_UH ,_, 
+so_RB ,_, good_JJ news_NN ,_, I_PP have_VHP a_DT very_RB good_JJ chance_NN of_IN winning_VVG my_PP$ chess_NN match_NN ._SENT 
+CLARA_NP :_: What_WP ?_SENT 
+DOCTOR_NN :_: I_PP 'll_MD explain_VV later_RBR ._SENT In_IN a_DT bit_NN of_IN a_DT hurry_NN ._SENT Get_VV me_PP to_TO a_DT table_NN ,_, and_NP 
+somebody_NN tie_VV me_PP up_RP !_SENT Need_NN hands_NNS free_JJ for_IN chess_NN ._SENT And_CC immobilise_VV me_PP ,_, 
+quickly_RB ._SENT 
+[_SYM Throne_NP room_NN ]_SYM 
+(_( Clara_NP ties_VVZ the_DT Doctor_NP to_TO a_DT chair_NN with_IN thick_JJ 
+rope_NN ._SENT )_) 
+DOCTOR_NN :_: Right_NN ,_, that_WDT 's_VBZ good_JJ ._SENT I_PP wo_MD n't_RB be_VB able_JJ to_TO move_VV ,_, but_CC hands_NNS free_JJ ._SENT 
+Good_JJ ._SENT 
+CLARA_NN :_: You_PP 're_VBP playing_VVG chess_NN with_IN yourself_PP ?_SENT 
+DOCTOR_NN :_: And_CC winning_VVG ._SENT 
+(_( Then_RB he_PP tears_VVZ off_RP the_DT gold_JJ ticket_NN from_IN the_DT implants_NNS ,_, and_CC acquires_VVZ a_DT 
+northern_JJ accent_NN -_: eighth_JJ Doctor_NP style_NN ._SENT )_) 
+C-DOCTOR_NN :_: Actually_RB ,_, he_PP has_VHZ no_RB better_JJR than_IN a_DT twenty_CD five_CD percent_NN chance_NN 
+of_IN winning_VVG at_IN this_DT stage_NN in_IN the_DT game_NN ._SENT Some_DT very_RB dodgy_JJ moves_NNS at_IN the_DT 
+beginning_NN ._SENT Hello_UH ,_, flesh_NN girl_NN ._SENT Fantastic_JJ ._SENT I_PP 'm_VBP the_DT Cyberplanner_NP ._SENT 
+CLARA_NN :_: Doctor_NN ?_SENT 
+C-DOCTOR_NP :_: Afraid_JJ not_RB ._SENT I_PP 'm_VBP working_VVG the_DT mouth_NN now_RB ._SENT Allons-y_NP ._SENT Oh_UH ,_, you_PP 
+should_MD see_VV the_DT state_NN of_IN these_DT neurons_NNS ._SENT He_PP 's_VHZ had_VHN some_DT cowboys_NNS in_IN here_RB ._SENT 
+Ten_CD complete_JJ re-jigs_NNS ._SENT 
+CLARA_NN :_: You_PP are_VBP n't_RB the_DT Doctor_NP ._SENT 
+C-DOCTOR_NP :_: No_UH ,_, but_CC I_PP know_VVP who_WP you_PP are_VBP ._SENT You_PP 're_VBP the_DT impossible_JJ girl_NN ._SENT Oh_UH ,_, 
+he_PP 's_VBZ very_RB interested_JJ in_IN you_PP ._SENT 
+CLARA_NP :_: Why_WRB am_VBP I_PP impossible_JJ ?_SENT 
+C-DOCTOR_NP :_: Has_VHZ n't_RB he_PP told_VVD you_PP ?_SENT The_DT sly_JJ devil_NN ._SENT Oh_UH ,_, dear_RB me_PP ._SENT Listen_VV ,_, soon_RB 
+we_PP 'll_MD wake_VV ._SENT We_PP 'll_MD strip_VV you_PP down_RP for_IN spare_JJ parts_NNS ,_, then_RB build_VV a_DT 
+spaceship_NN and_CC move_VV on_RP ._SENT 
+CLARA_NN :_: More_JJR Cybermen_NNS ._SENT 
+C-DOCTOR_NN :_: They_PP 're_VBP waking_VVG from_IN their_PP$ tomb_NN right_RB now_RB ._SENT You_PP can_MD either_RB die_VV 
+or_CC live_VV on_IN as_RB one_CD of_IN us_PP ._SENT 
+(_( Meanwhile_RB ,_, his_PP$ right_JJ hand_NN is_VBZ writing_VVG Hit_VVN Me_PP on_IN a_DT notepad_NN ._SENT )_) 
+CLARA_NN :_: The_DT Doctor_NP will_MD stop_VV you_PP ._SENT 
+C-DOCTOR_NN :_: He_PP ca_MD n't_RB even_RB access_VV the_DT lips_NNS ._SENT 
+(_( Clara_NP hits_VVZ him_PP ._SENT Hard_RB ._SENT )_) 
+DOCTOR_NN :_: Argh_NP !_SENT Ow_NN !_SENT Oh_UH ,_, that_DT hurt_NN ._SENT No_UH ,_, stop_VV ._SENT Enough_RB ,_, Bit_NN of_IN pain_NN ,_, neural_JJ 
+surge_NN ._SENT Just_RB what_WP I_PP needed_VVD ._SENT Thank_VV you_PP ._SENT 
+CLARA_NP :_: Why_WRB am_VBP I_PP the_DT impossible_JJ girl_NN ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ just_RB a_DT thing_NN in_IN my_PP$ head_NN ._SENT I_PP 'll_MD explain_VV later_RBR ._SENT 
+CLARA_NN :_: Chess_NN game_NN ._SENT Stakes_NNS ?_SENT 
+DOCTOR_NN :_: If_IN he_PP wins_VVZ ,_, I_PP give_VVP up_RP my_PP$ mind_NN and_CC he_PP gets_VVZ access_NN to_TO all_DT my_PP$ 
+memories_NNS ,_, along_RB with_IN knowledge_NN of_IN time_NN travel_NN ._SENT But_CC ,_, if_IN I_PP win_VVP ,_, he_PP 'll_MD 
+break_VV his_PP$ promises_NNS to_TO get_VV out_RP of_IN my_PP$ head_NN and_CC then_RB kill_VV us_PP all_RB anyway_RB ._SENT 
+CLARA_NP :_: That_WDT 's_VBZ not_RB reassuring_JJ ._SENT 
+DOCTOR_NN :_: No._NN 
+CLARA_NP :_: Please_UH tell_VV me_PP you_PP can_MD fix_VV whatever_WDT happened_VVD to_TO the_DT children_NNS ._SENT 
+DOCTOR_NN :_: Children_NNS ._SENT Yeah_UH ._SENT They_PP 're_VBP fine_JJ ._SENT I_PP mean_VVP ,_, right_RB now_RB their_PP$ brains_NNS 
+are_VBP just_RB in_IN stand_NN by_IN mode_NN ._SENT 
+CLARA_NP :_: That_WDT is_VBZ not_RB fine_JJ !_SENT 
+C-DOCTOR_NP :_: Listen_VVP ,_, right_RB now_RB they_PP have_VHP a_DT much_RB better_JJR chance_NN of_IN getting_VVG 
+out_RB of_IN this_DT situation_NN alive_JJ than_IN you_PP do_VVP ._SENT 
+CLARA_NP :_: Which_WDT one_CD of_IN you_PP said_VVD that_RB ?_SENT 
+C-DOCTOR_NN :_: Me_FW ._SENT Cyberplanner_NP ._SENT Mister_NP Clever_NP ._SENT Now_RB ,_, if_IN you_PP do_VVP n't_RB mind_VV ,_, I_PP 
+have_VHP a_DT chess_NN game_NN to_TO finish_VV ,_, and_CC you_PP have_VHP to_TO die_VV ,_, pointlessly_RB and_CC very_RB 
+far_RB from_IN home_NN ._SENT Toodle-oo_NP ._SENT 
+[_SYM Castle_NP drawbridge_NN ]_SYM 
+CLARA_NN :_: Apparently_RB there_EX are_VBP more_JJR Cybermen_NNS on_IN the_DT 
+way_NN ._SENT 
+BRAINS_NNS :_: There_EX 's_VBZ at_IN least_JJS a_DT dozen_NN more_JJR shots_NNS left_VVN in_IN the_DT gun_NN before_IN it_PP 
+needs_VVZ to_TO recharge_VV ._SENT 
+CLARA_NN :_: We_PP might_MD have_VH more_JJR than_IN a_DT dozen_NN Cybermen_NNS to_TO worry_VV about_RB ._SENT What_WP 's_VBZ 
+that_DT cable_NN ?_SENT 
+PORRIDGE_NN :_: Power_NN line_NN for_IN the_DT park_NN ._SENT 
+CLARA_NP :_: What_WP wouldd_RB happen_VVP if_IN we_PP unhooked_VVD the_DT end_NN ,_, dropped_VVD it_PP into_IN the_DT 
+moat_NN and_CC turned_VVD it_PP on_RP ?_SENT 
+HA-HA_NN :_: Fry_NN anything_NN alive_JJ that_WDT entered_VVD the_DT water_NN ._SENT 
+CLARA_NN :_: Can_MD Cybermen_NNS fly_VV ?_SENT 
+BRAINS_NNS :_: No_RB ,_, ma'am_NN ._SENT 
+CLARA_NP :_: First_JJ good_JJ news_NN of_IN the_DT day_NN ._SENT Do_VV it_PP ._SENT 
+(_( So_IN they_PP electrify_VVP the_DT moat_NN and_CC raise_VV the_DT drawbridge_NN ._SENT )_) 
+[_SYM Cyberiad_NP ]_SYM 
+(_( The_DT CyberDoctor_NN gets_VVZ jolted_VVN into_IN cyberspace_NN ._SENT )_) 
+DOCTOR_NN :_: Stop_VV that_DT ._SENT I_PP felt_VVD that_RB ._SENT 
+C-DOCTOR_NP :_: Of_IN course_NN you_PP did_VVD ._SENT It_PP 's_VBZ time_NN to_TO get_VV up_RP ._SENT Wakey_NP ,_, wakey_NN ,_, boys_NNS 
+and_CC girls_NNS ._SENT Wakey_NP ,_, wakey_NP ._SENT 
+(_( Somewhere_NP ,_, a_DT army_NN of_IN Cybermen_NP activates_VVZ and_CC marches_VVZ forward_RB from_IN their_PP$ 
+multilevel_JJ cryogenic_JJ '_'' tombs_NNS '_POS ._SENT )_) 
+[_SYM Castle_NP courtyard_NN ]_SYM 
+(_( Porridge_NN ladles_NNS something_NN into_IN a_DT cup_NN ._SENT )_) 
+PORRIDGE_NN :_: There_RB ,_, get_VVP that_IN/that in_IN you_PP ._SENT Warm_VV you_PP up_RP ._SENT 
+CLARA_NP :_: Oh_UH ,_, thank_VV you_PP ,_, Porridge_NP ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Oi_NP ,_, Clara_NP !_SENT 
+CLARA_NN :_: I_PP 'll_MD see_VV what_WP he_PP wants_VVZ ._SENT Call_VV me_PP if_IN there_EX 's_VBZ any_DT change_NN ._SENT 
+PORRIDGE_NN :_: Right_RB ._SENT 
+[_SYM Throne_NP room_NN ]_SYM 
+DOCTOR_NN :_: Hey_UH !_SENT Clara_NP ,_, there_RB you_PP are_VBP ._SENT Now_RB ,_, quick_JJ 
+rundown_NN ._SENT What_WP 's_VBZ our_PP$ weapons_NNS strength_NN ?_SENT 
+CLARA_NP :_: One_CD big_JJ gun_NN ,_, five_CD of_IN those_DT hand-pulser_NN units_NNS and_CC a_DT shiny_JJ black_NN 
+bomb_NN that_WDT implodes_VVZ the_DT planet_NN ._SENT 
+DOCTOR_NN :_: Yeah_UH ._SENT Yeah_UH ,_, that_WDT one_CD ._SENT Now_RB ,_, tell_VV me_PP ,_, does_VVZ it_PP happen_VV possibly_RB to_TO 
+have_VHP a_DT remote_JJ triggery_NN thing_NN ?_SENT 
+(_( Clara_NP takes_VVZ it_PP from_IN her_PP$ jacket_NN pocket_NN ._SENT )_) 
+DOCTOR_NN :_: Brilliant_JJ ._SENT Pass_VV it_PP here_RB ._SENT 
+CLARA_NN :_: No._NN 
+DOCTOR_NN :_: Why_WRB not_RB ?_SENT 
+CLARA_NN :_: In_IN case_NN you_PP 're_VBP not_RB you_PP right_RB now_RB ._SENT Or_CC even_RB if_IN you_PP are_VBP ,_, just_RB in_IN 
+case_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, do_VVP n't_RB worry_VV ._SENT The_DT Cyberplanner_NP 's_VBZ hibernating_VVG between_IN moves_NNS 
+right_RB now_RB ._SENT Shush_VV ._SENT 
+CLARA_NN :_: Prove_VV you_PP 're_VBP you_PP ._SENT Tell_VV me_PP something_NN only_RB the_DT Doctor_NP knows_VVZ ._SENT 
+DOCTOR_NN :_: Clara_NP ,_, I_PP suppose_VVP I_PP 'm_VBP the_DT only_JJ one_CD who_WP knows_VVZ how_WRB I_PP feel_VVP about_RB 
+you_PP right_RB now_RB ._SENT How_WRB funny_JJ you_PP are_VBP ._SENT So_RB funny_JJ ._SENT And_CC pretty_RB ._SENT And_CC the_DT truth_NN 
+is_VBZ ,_, I_PP 'm_VBP starting_VVG to_TO like_VV you_PP in_IN a_DT way_NN that_WDT is_VBZ more_JJR than_IN just_RB 
+(_( She_PP hits_VVZ him_PP ._SENT )_) 
+DOCTOR_NN :_: Ow_NN !_SENT Ow_NN !_SENT Ow_NN !_SENT Ow_NN !_SENT Yes_UH !_SENT It_PP 's_VBZ me_PP ._SENT That_DT really_RB hurt_VVN ._SENT How_WRB did_VVD you_PP 
+know_VV that_WDT was_VBD him_PP ?_SENT 
+CLARA_NN :_: Because_IN even_RB if_IN that_DT was_VBD true_JJ ,_, which_WDT it_PP is_VBZ obviously_RB not_RB ,_, I_PP know_VVP 
+you_PP well_RB enough_JJ to_TO know_VV that_IN/that you_PP would_MD rather_RB die_VV than_IN say_VVP it_PP ._SENT Finish_NN 
+your_PP$ stupid_JJ game_NN ._SENT 
+(_( CyberDoctor_NP grabs_VVZ Clara_NP 's_POS arm_NN ._SENT )_) 
+CLARA_NN :_: Doctor_NN ,_, let_VV go_VV ._SENT 
+DOCTOR_NN :_: I_PP ca_MD n't_RB ._SENT He_PP 's_VBZ got_VVN control_NN of_IN the_DT left_JJ arm_NN ._SENT Argh_NP ,_, argh_NP ,_, no_RB !_SENT No_UH !_SENT 
+(_( The_DT CyberDoctor_NN gets_VVZ the_DT remote_JJ trigger_NN and_CC destroys_VVZ it_PP ._SENT )_) 
+CLARA_NN :_: Doctor_NN ?_SENT 
+DOCTOR_NN :_: He_PP got_VVD what_WP he_PP wanted_VVD ._SENT He_PP destroyed_VVD the_DT trigger_NN ._SENT My_PP$ move_NN ._SENT 
+CLARA_NP :_: What_WP do_VVP you_PP mean_VVP ,_, he_PP got_VVD what_WP he_PP wanted_VVD ?_SENT 
+C-DOCTOR_NN :_: He_PP means_VVZ ,_, good_JJ news_NN ,_, boys_NNS and_CC girls_NNS ._SENT They_PP 're_VBP here_RB !_SENT 
+[_SYM Castle_NP ]_SYM 
+(_( Rows_NNS of_IN Cybermen_NP stretching_VVG from_IN the_DT Tomb_NP 
+entrance_NN to_TO the_DT moat_NN ._SENT )_) 
+CLARA_NP :_: One_CD gun_NN ,_, five_CD hand-pulsers_NNS and_CC a_DT planet_NN smashing_VVG bomb_NN that_RB 
+does_VVZ n't_RB work_VV any_DT more_RBR ._SENT 
+BRAINS_NNS :_: Why_WRB not_RB ?_SENT 
+CLARA_NP :_: Broken_VVN trigger_NN unit_NN ._SENT 
+BRAINS_NNS :_: But_CC you_PP signed_VVD for_IN that_DT ._SENT 
+[_SYM Throne_NP room_NN ]_SYM 
+C-DOCTOR_NN :_: I_PP 've_VHP learned_VVN so_RB much_RB from_IN you_PP ,_, Doctor_NP ._SENT 
+It_PP 's_VHZ been_VBN an_DT education_NN ._SENT But_CC now_RB ,_, it_PP 's_VBZ time_NN for_IN the_DT endgame_NN ._SENT 
+[_SYM Castle_NP ]_SYM 
+(_( The_DT first_JJ Cyberman_NP steps_NNS into_IN the_DT moat_NN and_CC gets_VVZ 
+electrocuted_VVD ._SENT )_) 
+CLARA_NP :_: Brilliant_JJ ._SENT 
+(_( Then_RB it_PP recovers_VVZ ._SENT )_) 
+CYBERMAN_NN :_: Upgrade_VV in_IN progress_NN ._SENT 
+CLARA_NP :_: Damn_UH ._SENT Who_WP 's_VBZ our_PP$ best_JJS shot_NN ?_SENT 
+HA-HA_NN :_: Probably_RB it_PP 's_VBZ me_PP ._SENT 
+CLARA_NN :_: Shoot_VV any_DT of_IN them_PP who_WP make_VVP it_PP across_RP ._SENT The_DT rest_NN of_IN you_PP ,_, take_VV 
+defensive_JJ positions_NNS ._SENT Porridge_NN ?_SENT 
+PORRIDGE_NN :_: Yes_UH ?_SENT 
+CLARA_NN :_: Keep_VV yourself_PP safe_JJ ._SENT 
+(_( The_DT first_JJ Cyberman_NP comes_VVZ through_IN the_DT castle_NN gate_NN ,_, and_CC gets_VVZ atomised_VVN ._SENT 
+Then_RB more_RBR come_VV through_RP ._SENT Porridge_NN heads_NNS for_IN the_DT planet_NN bomb_NN ._SENT )_) 
+PORRIDGE_NN :_: Alice_NP Ferrin_NP ,_, you_PP should_MD have_VH destroyed_VVN this_DT planet_NN when_WRB you_PP 
+had_VHD the_DT chance_NN ._SENT 
+[_SYM Throne_NP room_NN ]_SYM 
+C-DOCTOR_NN :_: They_PP 're_VBP nearly_RB here_RB ._SENT Now_RB ,_, you_PP can_MD take_VV 
+my_PP$ bishop_NN and_CC keep_VV limping_VVG on_IN for_IN a_DT little_RB longer_JJR ,_, or_CC you_PP can_MD sacrifice_VV 
+your_PP$ queen_NN and_CC get_VV the_DT children_NNS back_RB ._SENT But_CC it_PP 's_VBZ mate_NN in_IN five_CD moves_NNS ,_, and_NP 
+I_PP get_VVP your_PP$ mind_NN ._SENT 
+(_( Another_DT Cyberman_NP gets_VVZ killed_VVN ._SENT )_) 
+DOCTOR_NN :_: Takes_VVZ my_PP$ queen_NN ,_, and_CC give_VV me_PP back_VV the_DT children_NNS ._SENT 
+C-DOCTOR_NP :_: Emotions_NNS ._SENT Ca_MD n't_RB you_PP see_VVP what_WP a_DT foolish_JJ move_NN that_WDT was_VBD ?_SENT You_PP 've_VHP 
+lost_VVN the_DT game_NN ._SENT 
+DOCTOR_NN :_: Kids_NNS back_RB now_RB ._SENT 
+(_( Angie_NP and_CC Artie_NP crumple_NN ._SENT )_) 
+C-DOCTOR_NP :_: Emotions_NNS ,_, Doctor_NP ,_, all_DT for_IN two_CD human_JJ children_NNS you_PP barely_RB know_VVP ._SENT 
+And_CC it_PP was_VBD a_DT pointless_JJ sacrifice_NN anyway_RB ._SENT So_RB ,_, Doctor_NP ,_, do_VVP you_PP think_VVP the_DT 
+children_NNS 's_POS death_NN will_MD affect_VV your_PP$ relationship_NN with_IN Miss_NP Clara_NP ?_SENT 
+(_( Porridge_NN runs_NNS in_IN with_IN the_DT bomb_NN ._SENT Clara_NP and_CC the_DT platoon_NN are_VBP retreating_VVG 
+under_IN fire_NN ._SENT )_) 
+WEBLEY_NP :_: Welcome_UH to_TO Webley_NP 's_POS World_NP of_IN Wonders_NP ,_, children_NNS ._SENT Now_RB presenting_VVG 
+delights_NNS ,_, delicacies_NNS ,_, and_CC death_NN ._SENT 
+ANGIE_NP :_: Doctor_NN !_SENT 
+(_( Porridge_NN grabs_NNS at_IN Webley_NP 's_POS leg_NN with_IN the_DT hand-pulser_NN but_CC gets_VVZ thrown_VVN 
+off_RB ,_, landing_NN under_IN the_DT chess_NN table_NN ._SENT Sparks_NNS fly_VVP from_IN Webley_NP 's_POS cybernetic_JJ 
+bits_NNS ._SENT )_) 
+DOCTOR_NN :_: Angie_NP ,_, are_VBP you_PP okay_JJ ?_SENT Just_RB look_VV after_IN Artie_NP ,_, okay_JJ ?_SENT 
+(_( Dark_NN is_VBZ about_RB to_TO touch_VV the_DT back_NN of_IN a_DT Cyberman_NP 's_POS head_NN ,_, when_WRB it_PP swivels_VVZ 
+around_RB and_CC looks_VVZ at_IN her_PP ._SENT Fat_NP shoots_VVZ another_DT Cyberman_NP ._SENT )_) 
+DOCTOR_NN :_: Your_PP$ move_NN ._SENT But_CC before_IN you_PP take_VVP it_PP ,_, just_RB so_IN you_PP know_VVP ,_, 
+sacrificing_VVG my_PP$ queen_NN was_VBD the_DT best_RBS possible_JJ move_NN I_PP could_MD have_VH made_VVN ._SENT The_DT 
+Time_NP Lords_NPS invented_VVD chess_NN ._SENT It_PP 's_VBZ our_PP$ game_NN ._SENT And_CC if_IN you_PP do_VVP n't_RB avoid_VV my_PP$ 
+trap_NN ,_, it_PP gives_VVZ me_PP mate_NN in_IN three_CD moves_NNS ._SENT 
+C-DOCTOR_NP :_: How_WRB ?_SENT 
+[_SYM Castle_NP ]_SYM 
+HA-HA_NN :_: I_PP 've_VHP got_VVN no_DT charge_NN left_VVD ._SENT 
+(_( Clara_NP picks_VVZ up_RP a_DT heavy_JJ mace_NN ._SENT )_) 
+[_SYM Throne_NP room_NN ]_SYM 
+C-DOCTOR_NP :_: How_WRB ?_SENT 
+(_( The_DT Cyberman_NP disarms_VVZ Clara_NP ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, come_VV on_RP ._SENT Call_VV yourself_PP a_DT chess_NN playing_VVG robot_NN ?_SENT 
+C-DOCTOR_NP :_: How_WRB !_SENT 
+DOCTOR_NN :_: You_PP figure_VVP it_PP out_RP ._SENT Or_CC do_VVP n't_RB you_PP have_VHP the_DT processing_NN power_NN ,_, hmm_NP ?_SENT 
+
+[_SYM Castle_NP ]_SYM 
+CYBERMAN_NP :_: Please_UH stand_VV by_IN ._SENT You_PP will_MD be_VB upgraded_VVN ._SENT 
+Welcome_JJ to_TO the_DT Cyberiad_NP ._SENT You_PP will_MD be_VB upgraded_VVN ._SENT Welcome_JJ to_TO the_DT Cyberiad_NP ._SENT 
+You_PP will_MD be_VB upgraded_VVN ._SENT 
+(_( Clara_NP ,_, Brains_NP and_CC Ha-Ha_NP are_VBP pinned_VVN up_RP against_IN a_DT wall_NN ._SENT Then_RB the_DT 
+Cybermen_NNS slow_VV down_RP and_CC stop_VV ._SENT )_) 
+[_SYM Throne_NP room_NN ]_SYM 
+DOCTOR_NN :_: What_WP are_VBP you_PP doing_VVG ?_SENT 
+C-DOCTOR_NP :_: Doctor_NN ._SENT Doctor_NN ,_, Doctor_NP ,_, Doctor_NP ,_, Doctor_NP ,_, Doctor_NP ,_, Doctor_NP ,_, 
+Doctor_NN ._SENT I_PP 'm_VBP pulling_VVG in_IN extra_JJ processing_NN power_NN ._SENT Three_CD million_CD 
+Cyberbrains_NNS are_VBP working_VVG on_IN one_CD tiny_JJ chess_NN problem_NN ._SENT How_WRB long_RB do_VV you_PP 
+think_VV it_PP 's_VBZ going_VVG to_TO take_VV us_PP to_TO solve_VV it_PP ?_SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ cheating_VVG ._SENT 
+C-DOCTOR_NP :_: No_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, no._JJ Just_RB pulling_VVG in_IN the_DT local_JJ resources_NNS ._SENT 
+(_( Clara_NP ,_, Brains_NP and_CC Ha-Ha_NP get_VVP away_RB ._SENT )_) 
+C-DOCTOR_NP :_: There_EX 's_VBZ no_DT way_NN you_PP can_MD get_VV to_TO mate_VV in_IN three_CD moves_NNS ._SENT 
+DOCTOR_NN :_: Three_CD moves_NNS ._SENT Want_VVP to_TO know_VV what_WP they_PP are_VBP ?_SENT 
+C-DOCTOR_NN :_: You_PP 're_VBP lying_VVG ._SENT 
+(_( The_DT Doctor_NP picks_NNS up_IN Porridge_NP 's_POS hand_NN pulser_NN ._SENT )_) 
+DOCTOR_NN :_: Move_NN one_CD ,_, turn_NN on_IN sonic_JJ screwdriver_NN ._SENT Move_NN two_CD ,_, activate_VVP pulser_NN ._SENT 
+Move_NN three_CD ,_, amplify_VV pulser_NN ._SENT See_VV you_PP ._SENT 
+(_( After_IN a_DT brief_JJ struggle_NN with_IN his_PP$ other_JJ arm_NN ,_, the_DT Doctor_NP gets_VVZ the_DT pulser_NN 
+to_TO the_DT cybernetic_JJ implants_NNS on_IN his_PP$ face_NN ._SENT )_) 
+C-DOCTOR_NP :_: That_WDT 's_VBZ cheating_VVG !_SENT 
+(_( Clara_NP ,_, Brains_NP and_CC Ha-Ha_NP run_VVP in_IN ._SENT The_DT Doctor_NP sits_VVZ up_RP with_IN no_DT implants_NNS ._SENT )_) 
+DOCTOR_NN :_: Just_RB taking_VVG advantage_NN of_IN the_DT local_JJ resources_NNS ._SENT Ah_UH ,_, hello_NN ._SENT Can_MD 
+someone_NN untie_VVP me_PP ,_, please_UH ?_SENT 
+CLARA_NP :_: Do_VVP you_PP think_VVP I_PP 'm_VBP pretty_RB ?_SENT 
+DOCTOR_NN :_: No._NN You_PP 're_VBP too_RB short_JJ and_CC bossy_JJ ,_, and_CC your_PP$ nose_NN is_VBZ all_RB funny_JJ ._SENT 
+CLARA_NP :_: Good_JJ enough_NN ._SENT What_WP happened_VVD to_TO the_DT Cyberplanner_NP ?_SENT 
+(_( She_PP unties_VVZ him_PP ._SENT )_) 
+DOCTOR_NN :_: Out_RB of_IN my_PP$ head_NN and_CC redistributed_VVN across_IN three_CD million_CD Cybermen_NP 
+right_RB now_RB ,_, and_CC about_RB to_TO wake_VV them_PP all_DT up_RP ,_, kill_VV us_PP and_CC start_VV 
+constructing_VVG a_DT spaceship_NN ._SENT We_PP need_VVP to_TO destroy_VV this_DT planet_NN before_IN they_PP 
+can_MD get_VV off_IN it_PP ._SENT 
+(_( He_PP goes_VVZ to_TO the_DT bomb_NN ._SENT )_) 
+DOCTOR_NN :_: Okay_JJ ,_, it_PP has_VHZ a_DT fallback_JJ voice_NN activation_NN ._SENT 
+HA-HA_NN :_: The_DT Captain_NP ,_, but_CC she_PP 's_VBZ dead_JJ ._SENT 
+ANGIE_NN :_: I_PP think_VVP you_PP should_MD ask_VV Porridge_NP ._SENT 
+CLARA_NP :_: Why_WRB ?_SENT 
+ANGIE_NP :_: Well_UH ,_, he_PP is_VBZ the_DT Emperor_NN ._SENT I_PP bet_VVD he_PP knows_VVZ the_DT activation_NN codes_NNS ._SENT 
+Oh_UH ,_, come_VV on_RP ._SENT It_PP 's_VBZ obvious_JJ ._SENT He_PP looks_VVZ exactly_RB like_IN he_PP does_VVZ on_IN the_DT coin_NN ,_, 
+and_CC on_IN the_DT waxwork_NN ,_, except_IN they_PP made_VVD him_PP a_DT bit_NN taller_JJR ,_, but_CC look_VVP ,_, am_VBP I_PP 
+the_DT only_JJ one_CD paying_JJ attention_NN to_TO anything_NN around_IN here_RB ?_SENT 
+CLARA_NN :_: You_PP are_VBP full_JJ of_IN surprises_NNS ._SENT Porridge_NN ?_SENT 
+PORRIDGE_NN :_: She_PP 's_VBZ right_JJ ._SENT 
+CLARA_NN :_: So_RB you_PP can_MD save_VV us_PP ?_SENT 
+PORRIDGE_NN :_: We_PP all_RB die_VVP in_IN the_DT end_NN ._SENT Does_VVZ it_PP matter_VV how_WRB ?_SENT 
+HA-AH_NP :_: What_WP do_VVP we_PP do_VVP ?_SENT 
+PORRIDGE_NN :_: I_PP do_VVP n't_RB want_VV to_TO be_VB Emperor_NP ._SENT If_IN I_PP activate_VVP that_DT bomb_NN ,_, it_PP 's_VBZ all_RB 
+over_RB ._SENT 
+DOCTOR_NN :_: And_CC if_IN you_PP do_VVP n't_RB ,_, three_CD million_CD Cybermen_NNS will_MD spread_VV across_IN the_DT 
+galaxy_NN ._SENT Is_VBZ n't_RB that_DT worth_NN dying_VVG for_IN ?_SENT 
+PORRIDGE_NN :_: Doctor_NN 
+DOCTOR_NN :_: Three_CD million_CD Cybermen_NP !_SENT 
+(_( Who_WP have_VHP now_RB reactivated_VVN ._SENT )_) 
+PORRIDGE_NN :_: The_DT bomb_NN ,_, the_DT throne_NN ,_, it_PP 's_VBZ all_RB connected_VVN ._SENT I_PP just_RB have_VH to_TO say_VV 
+this_DT is_VBZ Emperor_NP Ludens_NP Nimrod_NP Kendrick_NP ,_, called_VVD Longstaff_NP the_DT forty_NN 
+first_RB ,_, the_DT Defender_NP of_IN Humanity_NP ,_, Imperator_NN of_IN known_VVN space_NN ._SENT Activate_VV the_DT 
+Desolator_NN ._SENT And_CC it_PP 's_VBZ done_VVN ._SENT 
+(_( The_DT bomb_NN is_VBZ armed_VVN ._SENT )_) 
+PORRIDGE_NN :_: It_PP 'll_MD blow_VV in_IN about_RB eighty_CD seconds_NNS ._SENT Easily_RB long_RB enough_RB for_IN 
+the_DT Imperial_NP Flagship_NP to_TO locate_VV me_PP from_IN my_PP$ identification_NN ,_, warp_NN jump_NN 
+into_IN orbit_NN ,_, and_CC transmat_VV us_PP to_TO the_DT State_NP Room_NP ._SENT 
+[_SYM State_NP Room_NP ]_SYM 
+DOCTOR_NN :_: Oh_UH yeah_RB ._SENT Nice_JJ ship_NN ._SENT Bit_NN big_JJ ._SENT Not_RB blue_JJ 
+enough_RB ._SENT Listen_VV ,_, there_EX is_VBZ a_DT large_JJ blue_JJ box_NN at_IN coordinates_VVZ six_CD ultra_NN 
+nineteen_CD P_NN ._SENT I_PP need_VVP it_PP transmatted_VVD up_RP here_RB right_RB away_RB ._SENT 
+PORRIDGE_NN :_: Right_RB ._SENT Did_VVD you_PP get_VV that_DT ?_SENT 
+(_( The_DT officer_NN nods_VVZ and_CC works_VVZ her_PP$ console_NN ._SENT The_DT Cyberman_NP walk_NN past_IN Webley_NP 
+in_IN the_DT castle_NN Throne_NP room_NN as_IN the_DT bomb_NN countdown_NN passes_VVZ 11._CD )_) 
+PORRIDGE_NN :_: And_CC that_DT 's_VBZ that_DT ._SENT Seventy_CD six_CD ,_, seventy_CD seven_CD ,_, seventy_CD eight_CD ,_, 
+seventy_CD nine_CD 
+(_( The_DT planet_NN goes_VVZ KaBOOM_NP ,_, rocking_VVG the_DT Imperial_NP spaceship_NN ._SENT )_) 
+PORRIDGE_NN :_: Farewell_NN ,_, Cyberiad_NP ._SENT You_PP know_VVP ,_, it_PP was_VBD good_JJ to_TO get_VV away_RB ._SENT Good_JJ 
+to_TO be_VB a_DT person_NN and_CC not_RB to_TO be_VB lonely_JJ ,_, or_CC Emperor_NP of_IN a_DT thousand_CD galaxies_NNS 
+with_IN everyone_NN waiting_VVG for_IN me_PP to_TO tell_VV them_PP what_WP to_TO do_VV ._SENT 
+ARTIE_NN :_: Ca_MD n't_RB you_PP run_VVP away_RB again_RB ?_SENT 
+PORRIDGE_NN :_: They_PP 'll_MD be_VB keeping_VVG a_DT close_JJ eye_NN on_IN me_PP this_DT time_NN ._SENT That_DT 's_VBZ what_WP 
+happens_VVZ when_WRB you_PP 're_VBP Emperor_JJ ._SENT Loneliest_JJS job_NN in_IN the_DT universe_NN ._SENT 
+CLARA_NN :_: You_PP do_VVP n't_RB have_VH to_TO be_VB lonely_JJ ._SENT 
+PORRIDGE_NN :_: I_PP do_VVP n't_RB ._SENT Clara_NP ,_, will_MD you_PP marry_VV me_PP ?_SENT 
+CLARA_NP :_: What_WP ?_SENT 
+ARTIE_NN :_: He_PP said_VVD 
+ANGIE_NN :_: She_PP heard_VVD what_WP he_PP said_VVD ._SENT 
+PORRIDGE_NN :_: You_PP 're_VBP smart_JJ and_CC you_PP 're_VBP beautiful_JJ ,_, and_CC I_PP 've_VHP never_RB met_VVN anyone_NN 
+like_IN you_PP before_RB ._SENT And_CC being_JJ Emperor_NP wo_MD n't_RB be_VB as_RB hard_JJ if_IN you_PP 're_VBP by_IN my_PP$ 
+side_NN ._SENT And_CC you_PP 'd_MD rule_VV a_DT thousand_CD galaxies_NNS ._SENT 
+DOCTOR_NN :_: This_DT sounds_NNS like_IN an_DT actual_JJ marriage_NN proposal_NN ._SENT Tricky_JJ ._SENT Now_RB ,_, if_IN 
+you_PP want_VVP my_PP$ advice_NN 
+CLARA_NN :_: You_PP ,_, not_RB one_CD word_NN ._SENT This_DT is_VBZ between_IN me_PP and_CC the_DT Emperor_NP ._SENT Porridge_NN ,_, 
+I_PP do_VVP n't_RB want_VV to_TO rule_VV a_DT thousand_CD galaxies_NNS ._SENT 
+PORRIDGE_NN :_: Yeah_UH ._SENT Silly_RB of_IN me_PP ._SENT 
+CLARA_NN :_: I_PP 'm_VBP really_RB sorry_JJ ._SENT 
+ANGIE_NP :_: But_CC that_WDT 's_VBZ stupid_JJ ._SENT You_PP could_MD be_VB Queen_NP of_IN the_DT universe_NN ._SENT How_WRB can_MD 
+you_PP say_VVP no_RB to_TO that_DT ?_SENT When_WRB someone_NN asks_VVZ you_PP if_IN you_PP want_VVP to_TO be_VB Queen_NP of_IN 
+the_DT universe_NN ,_, you_PP say_VVP yes_RB ._SENT You_PP watch_VVP ._SENT One_CD day_NN ,_, I_PP 'll_MD be_VB Queen_NP of_IN the_DT 
+universe_NN ._SENT 
+PORRIDGE_NN :_: Of_IN course_NN ,_, I_PP could_MD have_VH you_PP all_RB executed_VVD ,_, which_WDT is_VBZ what_WP a_DT 
+proper_JJ Emperor_NP would_MD do_VV ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP not_RB actually_RB going_VVG to_TO do_VV that_IN/that ,_, though_RB ,_, are_VBP you_PP ?_SENT Oh_UH ,_, 
+you_PP 're_VBP ._SENT Hey_UH ?_SENT 
+PORRIDGE_NN :_: Go_VV on_IN ,_, get_VV out_RP of_IN here_RB ,_, all_DT of_IN you_PP ,_, before_IN I_PP change_VVP my_PP$ mind_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+ARTIE_NN :_: Thank_VV you_PP for_IN having_VHG me_PP ._SENT It_PP was_VBD very_RB 
+interesting_JJ ._SENT 
+DOCTOR_NN :_: My_PP$ pleasure_NN ._SENT Thank_VV you_PP for_IN coming_VVG ._SENT Now_RB ,_, I_PP 've_VHP got_VVN something_NN for_IN 
+you_PP ._SENT It_PP 's_VBZ not_RB from_IN me_PP ,_, it_PP 's_VBZ from_IN the_DT Tardis_NP ._SENT Ah_UH ._SENT New_JJ phone_NN ._SENT 
+ANGIE_NN :_: Thanks_NNS ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP welcome_JJ ._SENT 
+ANGIE_NN :_: Sorry_RB I_PP said_VVD this_DT box_NN was_VBD stupid_JJ ._SENT 
+DOCTOR_NN :_: Bye_NN ._SENT 
+ANGIE_NP :_: Bye_NN ._SENT Thanks_NNS ,_, Clara_NP ._SENT 
+ARTIE_NN :_: Thanks_NNS ,_, Clara_NP 's_POS boyfriend_NN ._SENT 
+(_( Angie_NP and_CC Artie_NP leave_VVP ._SENT )_) 
+CLARA_NN :_: Thank_VV you_PP ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: For_IN what_WP ?_SENT 
+CLARA_NP :_: Kid_NP 's_POS day_NN out_RB ._SENT Getting_VVG us_PP off_RP the_DT planet_NN alive_RB ._SENT Whatever_WDT you_PP 
+were_VBD doing_VVG with_IN the_DT Cybermen_NP ._SENT Good_JJ night_NN ._SENT See_VV you_PP next_JJ Wednesday_NP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, a_DT Wednesday_NP ,_, definitely_RB ._SENT Next_NP Wednesday_NP ,_, last_JJ Wednesday_NP 
+(_( Clara_NP leaves_VVZ ._SENT )_) 
+DOCTOR_NN :_: One_CD of_IN the_DT Wednesdays_NNS ._SENT Impossible_JJ girl_NN ._SENT A_DT mystery_NN wrapped_VVN in_IN an_DT 
+enigma_NN squeezed_VVD into_IN a_DT skirt_NN that_WDT 's_VBZ just_RB a_DT little_JJ bit_NN too_RB tight_RB ._SENT Oh_UH 
+yeah_RB ._SENT What_WP are_VBP you_PP ?_SENT 
+[_SYM State_NP Room_NP ]_SYM 
+PORRIDGE_NN :_: Signs_NNS of_IN any_DT Cybertech_NP remaining_VVG ?_SENT 
+GLORIA_NN :_: No_UH ,_, Majesty_NP ._SENT 
+PORRIDGE_NN :_: You_PP ever_RB wanted_VVD to_TO be_VB Emperor_NP ,_, Gloria_NP ?_SENT 
+GLORIA_NN :_: No_UH ,_, Majesty_NP ._SENT 
+PORRIDGE_NN :_: That_WDT 's_VBZ the_DT right_JJ answer_NN ._SENT Come_VVN on_IN ._SENT Let_NP 's_POS go_JJ home_NN ._SENT 
+(_( Nearby_JJ in_IN space_NN ,_, a_DT piece_NN of_IN debris_NN blinks_NNS with_IN a_DT blue_JJ light_NN ._SENT )_) 
+

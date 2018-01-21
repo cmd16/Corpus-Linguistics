@@ -1,0 +1,742 @@
+WOMAN_NN 
+[_SYM OC_NP ]_SYM :_: When_WRB I_PP was_VBD a_DT child_NN ,_, my_PP$ favourite_JJ story_NN was_VBD about_RB a_DT man_NN who_WP lived_VVD 
+forever_RB ,_, but_CC whose_WP$ eyes_NNS were_VBD heavy_JJ with_IN the_DT weight_NN of_IN all_DT he_PP 'd_VHD seen_VVN ._SENT A_DT 
+man_NN who_WP fell_VVD from_IN the_DT stars_NNS ._SENT 
+
+[_SYM Desert_NP ]_SYM 
+
+(_( Night_NP ._SENT A_DT small_JJ satellite_NN arrives_VVZ ,_, and_CC its_PP$ observer_NN 
+gets_VVZ the_DT instruction_NN '_POS Terminate_NP '_POS ._SENT So_RB he_PP does_VVZ ._SENT )_) 
+MAS_NNS :_: I_PP knew_VVD you_PP 'd_MD find_VV me_PP eventually_RB ._SENT 
+(_( Kahler-Mas_NP ._SENT Terminate_VV ._SENT )_) 
+GUNSLINGER_NN :_: Make_VV peace_NN with_IN your_PP$ gods_NNS ._SENT 
+MAS_NNS :_: Once_RB they_PP were_VBD your_PP$ gods_NNS ,_, too_RB ._SENT 
+GUNSLINGER_NN :_: Not_RB any_DT more_RBR ._SENT 
+(_( The_DT man_NN turns_VVZ his_PP$ back_NN and_CC reaches_VVZ for_IN his_PP$ space_NN weapon_NN ._SENT The_DT 
+Gunslinger_NN shoots_VVZ him_PP ._SENT We_PP now_RB see_VVP that_IN/that he_PP is_VBZ a_DT Cyborg_NP with_IN a_DT cybernetic_JJ 
+eye_NN ,_, a_DT gun_NN arm_NN -_: literally_RB -_: and_CC a_DT penchant_NN for_IN gunslinger_NN clothes_NNS ._SENT )_) 
+MAN_NN :_: Am_VBP I_PP ,_, am_VBP I_PP the_DT last_JJ one_CD ?_SENT 
+GUNSLINGER_NN :_: There_EX 's_VBZ one_CD more_JJR ._SENT The_DT Doctor_NP ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+(_( The_DT Old_NP West_NP of_IN the_DT USA_NP ._SENT The_DT Doctor_NP stands_VVZ just_RB 
+outside_IN the_DT entrance_NN to_TO Main_NP Street_NP ,_, in_IN front_NN of_IN a_DT wooden_JJ frame_NN with_IN a_DT 
+cattle_NNS skull_NN on_IN it_PP ,_, a_DT Keep_NP Out_NP sign_NN and_CC the_DT residents_NNS count_VVP recently_RB 
+changed_VVN from_IN 80_CD to_TO 81._CD )_) 
+DOCTOR_NN :_: Mercy_NN ._SENT Eighty_CD one_CD residents_NNS ._SENT 
+(_( Now_RB we_PP see_VVP he_PP is_VBZ not_RB alone_RB ._SENT )_) 
+AMY_NN :_: Look_VV at_IN this_DT ._SENT It_PP 's_VBZ a_DT load_NN of_IN stones_NNS and_CC lumps_NNS of_IN wood_NN ._SENT What_WP is_VBZ it_PP ?_SENT 
+
+DOCTOR_NN :_: A_DT load_NN of_IN stones_NNS and_CC lumps_NNS of_IN wood_NN ._SENT 
+(_( The_DT Gunslinger_NP is_VBZ watching_VVG from_IN a_DT distance_NN ._SENT )_) 
+RORY_NN :_: The_DT sign_NN does_VVZ say_RB Keep_VV Out_RB ._SENT 
+DOCTOR_NN :_: I_PP see_VVP Keep_VV Out_IN signs_NNS as_IN suggestions_NNS more_JJR than_IN actual_JJ orders_NNS ,_, 
+like_IN Dry_NP Clean_NP only_RB ._SENT 
+(_( They_PP step_VVP over_IN the_DT load_NN of_IN stones_NNS and_CC lumps_NNS of_IN wood_NN that_DT circle_NN the_DT 
+town_NN and_CC head_VV down_RP the_DT street_NN ,_, towards_IN the_DT Grand_NP Central_NP Bank_NP ._SENT The_DT 
+residents_NNS watch_VVP silently_RB ._SENT An_DT electric_JJ street_NN lamp_NN outside_IN the_DT Post_NP 
+Office_NN sparks_NNS ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ not_RB right_JJ ._SENT 
+RORY_NN :_: It_PP 's_VBZ a_DT street_NN lamp_NN ._SENT 
+DOCTOR_NN :_: An_DT electric_JJ street_NN lamp_NN about_IN ten_CD years_NNS too_RB early_RB ._SENT 
+RORY_NN :_: It_PP 's_VBZ only_RB a_DT few_JJ years_NNS out_RB ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ what_WP you_PP said_VVD when_WRB you_PP left_VVD your_PP$ phone_NN charger_NN in_IN Henry_NP 
+the_DT Eighth_NP 's_POS en-suite_NN ._SENT 
+AMY_NN :_: Doctor_NN ,_, er_NN 
+DOCTOR_NN :_: Anachronistic_JJ electricity_NN ,_, Keep_VV Out_IN signs_NNS ,_, aggressive_JJ stares_NNS ._SENT 
+Has_VHZ someone_NN been_VBN peeking_VVG at_IN my_PP$ Christmas_NP list_NN ?_SENT 
+AMY_NN :_: Doctor_NN ._SENT 
+(_( He_PP starts_VVZ chewing_VVG on_IN a_DT toothpick_NN and_CC walks_VVZ on_IN ._SENT )_) 
+
+[_SYM Saloon_NP ]_SYM 
+
+(_( The_DT piano_NN playing_NN and_CC the_DT conversations_NNS stop_VVP dead_JJ 
+when_WRB our_PP$ trio_NN walk_VV in_IN ._SENT The_DT Doctor_NP goes_VVZ to_TO the_DT bar_NN ._SENT )_) 
+DOCTOR_NN :_: Tea_NN ._SENT But_CC the_DT strong_JJ stuff_NN ._SENT Leave_VV the_DT bag_NN in_IN ._SENT 
+SADIE_NP :_: What_WP 're_VBP you_PP doing_VVG here_RB ,_, son_NN ?_SENT 
+DOCTOR_NN :_: Son_NN ?_SENT You_PP can_MD stay_VV ._SENT 
+(_( An_DT African_JJ American_NP in_IN a_DT natty_JJ black_JJ suit_NN speaks_VVZ ._SENT )_) 
+PREACHER_NN :_: Sir_NP ,_, might_MD I_PP enquire_VV who_WP you_PP is_VBZ ?_SENT 
+DOCTOR_NN :_: Of_IN course_NN ._SENT I_PP 'm_VBP the_DT Doctor_NP ._SENT This_DT is_VBZ 
+(_( Everyone_NN stands_VVZ up_RP ._SENT )_) 
+DOCTOR_NN :_: No_DT need_NN to_TO stand_VV ._SENT You_PP see_VVP that_RB ?_SENT Manners_NNS ._SENT Oh_UH ,_, thank_VV you_PP ._SENT 
+(_( A_DT man_NN in_IN a_DT top_JJ hat_NN starts_VVZ measuring_VVG the_DT Doctor_NP ._SENT )_) 
+DOCTOR_NN :_: But_CC I_PP do_VVP n't_RB need_VV a_DT new_JJ suit_NN ._SENT 
+ABRAHAM_NN :_: I_PP 'm_VBP the_DT undertaker_NN ,_, sir_NN ._SENT 
+(_( A_DT younger_JJR man_NN in_IN a_DT brown_JJ suit_NN and_CC bowler_NN hat_NN steps_NNS forward_RB ._SENT I_PP 'm_VBP 
+guessing_VVG at_IN the_DT 
+character_NN name_NN ._SENT It_PP might_MD be_VB Dockery_NP instead_RB ._SENT )_) 
+WALTER_NN :_: I_PP got_VVD a_DT question_NN ._SENT Is_VBZ you_PP an_DT alien_NN ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, er_NNS ,_, bit_NN personal_JJ ._SENT It_PP 's_VBZ all_RB relative_JJ ,_, is_VBZ n't_RB it_PP ?_SENT I_PP mean_VVP ,_, I_PP 
+think_VV you_PP 're_VBP the_DT aliens_NNS ,_, but_CC in_IN this_DT context_NN ,_, yes_UH ._SENT Yes_UH ,_, I_PP suppose_VVP I_PP am_VBP ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ hoisted_VVN up_RP and_CC carried_VVD out_RP shoulder_NN 
+high_JJ ._SENT )_) 
+DOCTOR_NN :_: Guys_NNS !_SENT 
+(_( Amy_NP and_CC Rory_NP are_VBP dragged_VVN along_RP too_RB ._SENT )_) 
+AMY_NN :_: Doctor_NN !_SENT Put_VV him_PP down_RP !_SENT 
+SADIE_NP :_: Do_VVP n't_RB think_VV we_PP wo_MD n't_RB kill_VV you_PP ._SENT 
+RORY_NN :_: Leave_VV him_PP alone_RB !_SENT 
+DOCTOR_NN :_: Rory_NP ,_, everything_NN is_VBZ completely_RB under_IN control_NN ._SENT Guys_NNS ,_, guys_NNS ,_, guys_NNS ._SENT 
+
+(_( They_PP throw_VVP the_DT Doctor_NP out_RP of_IN town_NN ._SENT Literally_RB ._SENT )_) 
+DOCTOR_NN :_: Ow_NN ._SENT 
+(_( When_WRB he_PP turns_VVZ around_RP ,_, they_PP all_RB point_VVP their_PP$ revolvers_NNS at_IN him_PP ._SENT The_DT 
+Gunslinger_NN suddenly_RB appears_VVZ in_IN the_DT distance_NN ._SENT )_) 
+PREACHER_NN :_: He_PP 's_VBZ coming_VVG ._SENT Oh_NP God_NP ,_, he_PP 's_VBZ coming_VVG ._SENT 
+WALTER_NN :_: Preacher_NN ,_, say_VVP something_NN ._SENT 
+PREACHER_NN :_: Our_NP Father_NP who_WP art_NN in_IN heaven_NN ,_, hallowed_JJ be_VB thy_JJ name_NN ._SENT 
+(_( The_DT Doctor_NP turns_VVZ around_RP to_TO see_VV the_DT Cyborg_NP approaching_VVG by_IN dimension_NN 
+jumps_NNS ._SENT He_PP is_VBZ scared_VVN ._SENT )_) 
+PREACHER_NN :_: Thy_JJ kingdom_NN come_VVN ._SENT Thy_NNS will_MD be_VB done_VVN ._SENT 
+(_( A_DT mustachioed_JJ man_NN fires_VVZ a_DT shot_NN in_IN the_DT air_NN ._SENT Ben_NP Browder_NP ,_, everyone_NN ._SENT )_) 
+ISAAC_NN :_: You_PP ,_, bow_VV tie_NN ._SENT Get_VV back_RB across_IN that_DT line_NN ._SENT 
+(_( He_PP pulls_VVZ back_VV his_PP$ coat_NN to_TO reveal_VV a_DT six_CD pointed_JJ metal_NN star_NN with_IN the_DT 
+word_NN Marshal_NP 
+on_IN it_PP ._SENT )_) 
+ISAAC_NN :_: Now_RB ._SENT 
+(_( The_DT Doctor_NP steps_NNS over_IN the_DT rocks_NNS and_CC wood_NN ,_, and_CC the_DT Cyborg_NP stops_VVZ then_RB 
+vanishes_NNS ._SENT )_) 
+WALTER_NN :_: Isaac_NP ,_, he_PP said_VVD he_PP was_VBD a_DT doctor_NN ._SENT An_DT alien_JJ doctor_NN ._SENT 
+ISAAC_NN :_: That_IN/that a_DT reason_NN to_TO hand_VV him_PP to_TO his_PP$ death_NN ?_SENT 
+WALTER_NN :_: Isaac_NP ,_, it_PP could_MD be_VB him_PP ._SENT 
+ISAAC_NN :_: You_PP know_VVP it_PP ai_VVP n't_RB ._SENT 
+(_( Isaac_NP walks_VVZ back_RB down_RB the_DT street_NN ,_, nodding_VVG to_TO Amy_NP ._SENT )_) 
+ISAAC_NN :_: Ma'am_NN ._SENT 
+WALTER_NN :_: Just_RB letting_VVG him_PP go_VV like_IN that_DT ?_SENT Be_VB seeing_VVG you_PP ,_, boy_UH ._SENT 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+DOCTOR_NN :_: What_WP was_VBD that_DT outside_NN ?_SENT 
+ISAAC_NN :_: The_DT Gunslinger_NP ._SENT Showed_VVD up_RB three_CD weeks_NNS back_RB ._SENT We_PP 've_VHP been_VBN prisoners_NNS 
+ever_RB since_RB ._SENT See_VV that_IN/that border_NN line_NN stretching_VVG round_NN the_DT town_NN ?_SENT Woke_VVD up_RB one_CD 
+morning_NN ,_, there_RB it_PP was_VBD ._SENT Nothing_NN gets_VVZ past_IN it_PP ,_, in_IN or_CC out_IN ._SENT No_DT supply_NN 
+wagons_NNS ,_, no_DT reinforcements_NNS ._SENT Pretty_RB soon_RB the_DT whole_JJ town_NN 's_VBZ going_VVG to_TO starve_VV 
+to_TO death_NN ._SENT 
+RORY_NN :_: But_CC you_PP let_VVP us_PP in_RP ._SENT 
+ISAAC_NN :_: You_PP ai_VVP n't_RB carrying_VVG any_DT food_NN ._SENT Just_RB three_CD more_JJR mouths_NNS to_TO feed_VV ._SENT 
+We_PP 'll_MD all_RB die_VV even_RB sooner_RBR now_RB ._SENT 
+DOCTOR_NN :_: What_WP happens_VVZ if_IN someone_NN crosses_VVZ the_DT line_NN ?_SENT 
+(_( Isaac_NP throws_VVZ the_DT Doctor_NP a_DT Stetson_NP with_IN a_DT neat_JJ hole_NN in_IN it_PP ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, well_UH ,_, he_PP was_VBD n't_RB a_DT very_RB good_JJ shot_NN ,_, then_RB ._SENT 
+ISAAC_NN :_: He_PP was_VBD aiming_VVG for_IN the_DT hat_NN ._SENT 
+DOCTOR_NN :_: He_PP shoots_VVZ people_NNS 's_POS hats_NNS ?_SENT 
+AMY_NN :_: It_PP was_VBD a_DT warning_NN shot_NN ._SENT 
+DOCTOR_NN :_: Ah_UH ,_, no_UH ,_, yes_UH ._SENT I_PP see_VVP ._SENT Hmm_NP ._SENT 
+AMY_NN :_: What_WP does_VVZ he_PP want_VVP ?_SENT Has_VHZ he_PP issued_VVN some_DT kind_NN of_IN demand_NN ?_SENT 
+ISAAC_NN :_: Says_VVZ he_PP wants_VVZ us_PP to_TO give_VV him_PP the_DT alien_JJ doctor_NN ._SENT 
+AMY_NN :_: But_CC that_WDT 's_VBZ you_PP ._SENT Why_WRB would_MD he_PP want_VV to_TO kill_VV you_PP ?_SENT Unless_IN he_PP 's_VBZ met_VVN 
+you_PP ._SENT 
+RORY_NN :_: And_CC how_WRB could_MD he_PP know_VV that_IN/that we_PP 'd_MD be_VB here_RB ?_SENT (_( sotto_NP )_) We_PP did_VVD n't_RB even_RB 
+know_VV we_PP 'd_MD be_VB here_RB ._SENT 
+AMY_NN :_: We_PP were_VBD aiming_VVG for_IN Mexico_NP ._SENT The_DT Doctor_NP was_VBD taking_VVG us_PP to_TO see_VV the_DT Day_NN 
+of_IN the_DT Dead_NP Festival_NP ._SENT 
+ISAAC_NP :_: Mexico_NP 's_POS two_CD hundred_CD miles_NNS due_RB south_RB ._SENT 
+DOCTOR_NN :_: Well_RB ,_, that_WDT 's_VBZ what_WP happens_VVZ when_WRB people_NNS get_VVP toast_NN crumbs_NNS on_IN the_DT 
+console_NN ._SENT Anyway_RB ,_, I_PP think_VVP it_PP 's_VBZ about_RB time_NN I_PP met_VVD him_PP ,_, do_VVP n't_RB you_PP ?_SENT 
+ISAAC_NP :_: Who_WP ?_SENT 
+DOCTOR_NN :_: The_DT chap_NN outside_RB said_VVD I_PP could_MD be_VB the_DT alien_JJ doctor_NN ,_, but_CC you_PP said_VVD 
+I_PP was_VBD n't_RB ,_, so_IN you_PP already_RB know_VVP who_WP it_PP is_VBZ ._SENT Two_CD alien_JJ doctors_NNS ._SENT We_PP 're_VBP like_JJ 
+buses_NNS ._SENT Resident_NN eighty_CD one_CD ,_, I_PP presume_VVP ,_, so_RB beloved_JJ by_IN the_DT townsfolk_NN he_PP 
+warranted_VVN an_DT alteration_NN to_TO the_DT sign_NN ._SENT Probably_RB because_IN he_PP rigged_VVD up_RP 
+these_DT electrics_NNS ,_, and_CC I_PP 'm_VBP guessing_VVG he_PP 's_VBZ in_IN here_RB ,_, because_IN if_IN half_PDT the_DT 
+town_NN suddenly_RB wanted_VVD to_TO throw_VV me_PP to_TO my_PP$ death_NN ,_, this_DT is_VBZ where_WRB I_PP 'd_MD want_VV to_TO 
+be_VB ._SENT 
+ISAAC_NN :_: I_PP do_VVP n't_RB know_VV what_WP you_PP 
+(_( The_DT man_NN in_IN the_DT cell_NN throws_VVZ back_VV his_PP$ blanket_NN ._SENT He_PP has_VHZ a_DT curved_VVN mark_NN down_RB 
+the_DT left_NN 
+side_NN of_IN his_PP$ face_NN ,_, similar_JJ but_CC not_RB the_DT same_JJ as_IN Mas_NP had_VHD ._SENT )_) 
+JEX_NP :_: Isaac_NP ,_, I_PP think_VVP the_DT time_NN for_IN subterfuge_NN has_VHZ passed_VVN ._SENT Good_JJ afternoon_NN ._SENT 
+My_PP$ name_NN is_VBZ Kahler-Jex_NP ._SENT I_PP 'm_VBP the_DT doctor_NN ._SENT 
+(_( The_DT Gunslinger_NP watches_VVZ the_DT town_NN from_IN a_DT distant_JJ ridge_NN ._SENT )_) 
+DOCTOR_NN :_: The_DT Kahler_NP ._SENT I_PP love_VVP the_DT Kahler_NP ._SENT They_PP 're_VBP one_CD of_IN the_DT most_JJS 
+ingenious_JJ races_NNS in_IN the_DT galaxy_NN ._SENT Seriously_RB ,_, they_PP could_MD build_VV a_DT spaceship_NN 
+out_RB of_IN 
+Tupperware_NP and_CC moss_NN ._SENT 
+AMY_NN :_: All_DT right_NN ._SENT How_WRB did_VVD you_PP get_VVP here_RB ?_SENT 
+JEX_NN :_: My_PP$ craft_NN crashed_VVD about_IN a_DT mile_NN or_CC so_RB out_RB of_IN town_NN ._SENT I_PP would_MD have_VH died_VVN 
+if_IN Isaac_NP and_CC the_DT others_NNS had_VHD n't_RB pulled_VVN me_PP from_IN the_DT wreckage_NN ._SENT 
+DOCTOR_NN :_: And_CC you_PP stayed_VVD ,_, as_IN their_PP$ doctor_NN ._SENT 
+JEX_NN :_: On_IN my_PP$ world_NN I_PP was_VBD a_DT surgeon_NN ,_, so_RB it_PP seemed_VVD logical_JJ ._SENT And_CC it_PP gave_VVD me_PP 
+an_DT opportunity_NN to_TO repay_VV my_PP$ debt_NN to_TO them_PP ._SENT 
+ISAAC_NN :_: Listen_VV to_TO him_PP ._SENT Talking_VVG like_IN it_PP was_VBD nothing_NN ._SENT Tell_VV them_PP about_IN the_DT 
+cholera_NN ._SENT 
+JEX_NN :_: Now_RB ,_, Isaac_NP ,_, I_PP 'm_VBP sure_JJ our_PP$ guests_NNS are_VBP 
+ISAAC_NN :_: Two_CD years_NNS after_IN he_PP arrived_VVD ,_, there_EX was_VBD an_DT outbreak_NN of_IN cholera_NN ._SENT 
+Thanks_NNS to_TO the_DT doc_NN here_RB ,_, not_RB a_DT single_JJ person_NN died_VVD ._SENT 
+JEX_NN :_: A_DT minor_JJ infection_NN we_PP 'd_VHD found_VVN a_DT treatment_NN for_IN centuries_NNS ago_RB ._SENT 
+ISAAC_NP :_: No_UH ,_, no_UH ,_, what_WP ,_, what_WP do_VVP you_PP call_VVP them_PP ?_SENT The_DT electrics_NNS ?_SENT 
+JEX_NN :_: Using_VVG my_PP$ ship_NN as_IN a_DT generator_NN ,_, I_PP was_VBD able_JJ to_TO rig_VV up_RP some_DT 
+rudimentary_JJ heating_NN and_CC lighting_NN for_IN the_DT town_NN ._SENT 
+DOCTOR_NN :_: So_RB why_WRB does_VVZ the_DT Gunslinger_NP want_VVP you_PP ?_SENT 
+ISAAC_NN :_: It_PP do_VVP n't_RB matter_VV ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP just_RB saying_VVG ,_, if_IN we_PP knew_VVD that_RB 
+ISAAC_NP :_: America_NP 's_VBZ the_DT land_NN of_IN second_JJ chances_NNS ._SENT We_PP called_VVD this_DT town_NN Mercy_NP 
+for_IN a_DT reason_NN ._SENT Others_NNS ,_, some_DT round_NN here_RB ,_, do_VVP n't_RB feel_VV that_DT way_NN ._SENT 
+JEX_NN :_: Now_RB ,_, Isaac_NP ,_, we_PP 've_VHP discussed_VVN this_DT ._SENT 
+ISAAC_NN :_: People_NNS whose_WP$ lives_NNS you_PP 've_VHP saved_VVN are_VBP suddenly_RB saying_VVG we_PP should_MD 
+hand_VV you_PP over_RP ._SENT 
+JEX_NN :_: They_PP 're_VBP scared_VVN ,_, that_WDT 's_VBZ all_RB ._SENT You_PP can_MD hardly_RB blame_VV them_PP ._SENT 
+ISAAC_NN :_: Them_PP being_VBG scared_VVN scares_NNS me_PP ._SENT War_NP only_RB ended_VVD five_CD years_NNS back_RB ._SENT 
+That_DT old_JJ violence_NN is_VBZ still_RB under_IN the_DT surface_NN ._SENT We_PP give_VVP up_RP Doc_NP Jex_NP ,_, then_RB 
+we_PP hand_VVP the_DT keys_NNS of_IN the_DT town_NN over_RP to_TO chaos_NN ._SENT 
+DOCTOR_NN :_: Did_VVD you_PP try_VVP to_TO repair_VV your_PP$ craft_NN ?_SENT Surely_RB someone_NN with_IN your_PP$ 
+skills_NNS 
+JEX_NN :_: It_PP really_RB was_VBD very_RB badly_RB damaged_VVN ._SENT 
+DOCTOR_NN :_: We_PP evacuate_VVP the_DT town_NN ._SENT Our_PP$ ship_NN 's_VBZ just_RB over_IN the_DT hills_NNS ,_, room_NN for_IN 
+everyone_NN ._SENT I_PP 'll_MD pop_VV out_RP ,_, bring_VV it_PP back_RB here_RB ,_, Robert_NP 's_VBZ your_PP$ uncle_NN ._SENT 
+AMY_NN :_: Really_RB ?_SENT Simple_JJ as_IN that_DT ._SENT No_DT crazy_JJ schemes_NNS ,_, no_DT negotiations_NNS ._SENT 
+DOCTOR_NN :_: I_PP 've_VHP matured_VVN ._SENT I_PP 'm_VBP twelve_NN hundred_CD years_NNS old_JJ now_RB ._SENT Plus_CC I_PP do_VVP n't_RB 
+want_VVP to_TO miss_VV The_DT Archers_NNS ._SENT 
+AMY_NN :_: Oh_UH ,_, so_RB you_PP 're_VBP not_RB even_RB a_DT tiny_JJ bit_NN curious_JJ ?_SENT 
+DOCTOR_NN :_: Why_WRB would_MD I_PP be_VB curious_JJ ?_SENT It_PP 's_VBZ a_DT mysterious_JJ space_NN cowboy_NN 
+assassin_NN ._SENT Curious_JJ ?_SENT Of_IN course_NN I_PP 'm_VBP not_RB curious_JJ ._SENT 
+ISAAC_NN :_: Son_NN ?_SENT You_PP 've_VHP still_RB got_VVN to_TO get_VV past_IN the_DT Gunslinger_NP ._SENT How_WRB you_PP going_VVG 
+to_TO do_VV that_DT ?_SENT 
+(_( The_DT Doctor_NP puts_VVZ on_IN the_DT Stetson_NP ._SENT )_) 
+DOCTOR_NN :_: With_IN a_DT little_JJ sleight_NN of_IN hand_NN ._SENT 
+
+[_SYM Desert_NP ]_SYM 
+
+(_( Isaac_NP and_CC Rory_NP run_VVP across_IN the_DT parched_JJ waste_NN ._SENT )_) 
+ISAAC_NN :_: You_PP okay_RB ?_SENT 
+RORY_NN :_: I_PP 'm_VBP fine_RB ,_, yes_UH ._SENT 
+ISAAC_NN :_: Keep_VV moving_VVG ._SENT Next_JJ time_NN ,_, you_PP get_VVP to_TO wear_VV Jex_NP 's_POS clothes_NNS ._SENT 
+(_( The_DT Gunslinger_NP spots_VVZ them_PP ,_, but_CC his_PP$ computer_NN tells_VVZ him_PP there_EX is_VBZ an_DT 87_CD %_NN 
+chance_NN of_IN injury_NN to_TO innocent_JJ ,_, disengage_VV ,_, so_IN he_PP does_VVZ ._SENT )_) 
+
+[_SYM Mercy_NP ]_SYM 
+
+DOCTOR_NN :_: Can_MD I_PP borrow_VV your_PP$ horse_NN ,_, please_UH ?_SENT It_PP 's_VBZ 
+official_JJ Marshal_NP business_NN ._SENT 
+PREACHER_NN :_: He_PP 's_VHZ called_VVN Joshua_NP ._SENT It_PP 's_VBZ from_IN the_DT Bible_NN ._SENT It_PP means_VVZ the_DT 
+Deliverer_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, he_PP is_VBZ n't_RB ._SENT I_PP speak_VVP horse_NN ._SENT He_PP 's_VHZ called_VVN Susan_NP ,_, and_CC he_PP wants_VVZ 
+you_PP to_TO respect_VV his_PP$ life_NN choices_NNS ._SENT 
+(_( The_DT Doctor_NP gallops_VVZ out_RP of_IN town_NN ._SENT )_) 
+
+[_SYM Cliff_NP face_NN ]_SYM 
+
+(_( Isaac_NP is_VBZ leading_VVG Rory_NP in_IN front_NN of_IN a_DT cliff_NN when_WRB the_DT 
+rock_NN explodes_VVZ between_IN them_PP ._SENT )_) 
+RORY_NP :_: Er_UH ,_, I_PP think_VVP he_PP 's_VHZ seen_VVN us_PP ._SENT 
+ISAAC_NN :_: This_DT way_NN ._SENT 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+AMY_NN :_: When_WRB this_DT is_VBZ all_RB done_VVN ,_, do_VVP you_PP want_VVP us_PP to_TO take_VV 
+you_PP home_RB ?_SENT 
+JEX_NN :_: Thank_VV you_PP ,_, but_CC I_PP 've_VHP already_RB given_VVN everything_NN I_PP have_VHP to_TO the_DT Kahler_NP ._SENT 
+My_PP$ skills_NNS ,_, energy_NN ,_, all_DT that_WDT was_VBD good_JJ in_IN me_PP ._SENT Here_RB ,_, I_PP could_MD start_VV afresh_RB ._SENT 
+I_PP could_MD remember_VV myself_PP and_CC help_VV people_NNS ._SENT That_DT 's_VBZ all_DT I_PP ever_RB wanted_VVD to_TO 
+do_VV ,_, end_NN suffering_NN ._SENT 
+AMY_NN :_: Here_RB ._SENT 
+(_( She_PP puts_VVZ Isaac_NP 's_POS coat_NN over_IN Jex_NP 's_POS shoulders_NNS ._SENT )_) 
+JEX_NN :_: You_PP 're_VBP a_DT mother_NN ,_, are_VBP n't_RB you_PP ._SENT 
+AMY_NN :_: How_WRB did_VVD you_PP know_VVP ?_SENT 
+JEX_NN :_: There_EX 's_VBZ kindness_NN in_IN your_PP$ eyes_NNS ._SENT And_CC sadness_NN ,_, but_CC a_DT ferocity_NN too_RB ._SENT 
+AMY_NN :_: Life_NN 's_VBZ not_RB exactly_RB straight_RB forward_RB ._SENT 
+JEX_NN :_: It_PP seldom_RB is_VBZ ._SENT 
+AMY_NN :_: And_CC what_WP about_IN you_PP ?_SENT Are_VBP you_PP a_DT father_NN ?_SENT 
+JEX_NP :_: Yes_UH ._SENT In_IN a_DT way_NN ,_, I_PP suppose_VVP I_PP am_VBP ._SENT 
+[_SYM Ridge_NP ]_SYM 
+
+ISAAC_NN :_: So_RB ,_, we_PP 're_VBP waiting_VVG till_IN the_DT Doctor_NP comes_VVZ to_TO 
+pick_VV us_PP up_RP in_IN your_PP$ ship_NN ._SENT 
+RORY_NP :_: Yes_UH ,_, I_PP know_VVP ._SENT I_PP was_VBD there_RB when_WRB we_PP agreed_VVD it_PP ._SENT 
+ISAAC_NP :_: Yeah_UH ,_, I_PP said_VVD that_IN/that more_JJR for_IN my_PP$ benefit_NN than_IN yours_PP$ ._SENT 
+
+[_SYM Desert_NP ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ galloping_VVG down_RP the_DT road_NN when_WRB he_PP 
+slows_VVZ up_RP ._SENT )_) 
+DOCTOR_NN :_: Whoa_NP ,_, whoa_NP ,_, whoa_NP ,_, whoa_NP ,_, whoa_NN ._SENT Yes_UH ,_, I_PP know_VVP we_PP 're_VBP in_IN a_DT hurry_NN ._SENT I_PP 
+just_RB want_VVP to_TO check_VV something_NN out_RP ._SENT Two_CD ticks_NNS ._SENT 
+(_( He_PP dismounts_VVZ ._SENT )_) 
+DOCTOR_NN :_: There_EX 's_VBZ something_NN niggling_VVG me_PP ._SENT Yes_UH ,_, yes_UH ,_, it_PP could_MD be_VB important_JJ ._SENT 
+Oi_NP ,_, do_VVP n't_RB swear_VV ._SENT 
+(_( He_PP rummages_VVZ in_IN the_DT dust_NN and_CC finds_VVZ the_DT shiny_JJ power_NN cable_NN that_WDT connects_VVZ 
+Jex_NP 's_POS ship_NN to_TO the_DT town_NN ._SENT Jex_NP notices_VVZ the_DT light_NN in_IN the_DT office_NN flickering_VVG ._SENT 
+The_DT Doctor_NP rides_NNS on_IN until_IN he_PP reaches_VVZ the_DT source_NN of_IN the_DT power_NN covered_VVN in_IN 
+a_DT tarpaulin_NN ._SENT )_) 
+DOCTOR_NN :_: Whoa_NP ,_, whoa_NP ,_, whoa_NN ._SENT Yes_UH ,_, I_PP wear_VVP a_DT Stetson_NP now_RB ._SENT 
+(_( The_DT Doctor_NP uncovers_VVZ the_DT gleaming_VVG white_JJ egg-shaped_JJ object_NN ._SENT )_) 
+DOCTOR_NN :_: Yes_UH ,_, a_DT good_JJ point_NN ,_, Susan_NP ._SENT Where_WRB is_VBZ the_DT damage_NN ?_SENT 
+(_( The_DT Gunslinger_NP stands_VVZ on_IN the_DT ridge_NN above_IN Isaac_NP and_CC Rory_NP ._SENT Target_NN 
+located_VVN ._SENT Terminate_VV ._SENT Meanwhile_RB ,_, the_DT Doctor_NP is_VBZ trying_VVG to_TO get_VV into_IN Jex_NP 's_POS 
+ship_NN ._SENT His_PP$ sonic_JJ screwdriver_NN sets_VVZ off_RP an_DT alarm_NN then_RB a_DT hatch_NN opens_VVZ ._SENT The_DT 
+Gunslinger_NN hears_VVZ it_PP ._SENT Kahler_NP 
+Alarm_NN Detected_NP ._SENT It_PP powers_VVZ down_RP its_PP$ gun_NN and_CC goes_VVZ to_TO investigate_VV ._SENT )_) 
+
+[_SYM Mercy_NP ]_SYM 
+
+(_( The_DT alarm_NN can_MD even_RB be_VB heard_VVN in_IN town_NN ._SENT )_) 
+JEX_NN :_: That_WDT 's_VBZ the_DT alarm_NN on_IN my_PP$ ship_NN ._SENT 
+AMY_NN :_: Maybe_RB the_DT Doctor_NP wants_VVZ to_TO get_VV it_PP working_VVG again_RB ?_SENT 
+JEX_NN :_: But_CC that_WDT was_VBD n't_RB the_DT plan_NN ._SENT He_PP 's_VBZ not_RB following_VVG the_DT plan_NN ._SENT 
+AMY_NN :_: Welcome_VV to_TO my_PP$ world_NN ._SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+(_( The_DT Doctor_NP drops_VVZ straight_RB down_RB into_IN the_DT pilot_NN 
+seat_NN ._SENT )_) 
+COMPUTER_NN :_: Security_NN breach_NN ._SENT You_PP have_VHP ten_CD seconds_NNS to_TO enter_VV the_DT pass_NN code_NN ._SENT 
+
+(_( The_DT hatch_NN closes_VVZ and_CC the_DT Doctor_NP starts_VVZ waving_VVG the_DT sonic_JJ screwdriver_NN 
+around_RB ._SENT )_) 
+COMPUTER_NN :_: Or_CC this_DT vehicle_NN will_NN self-destruct_NN ._SENT Thank_VV you_PP for_IN choosing_VVG 
+Abarakas_NP Security_NP software_NN ._SENT Incinerating_VVG intruders_NNS for_IN three_CD centuries_NNS ._SENT 
+Nine_CD ,_, eight_CD ,_, seven_CD ._SENT Self-destruct_NN overridden_VVN ._SENT 
+DOCTOR_NN :_: This_DT is_VBZ an_DT awful_JJ lot_NN of_IN security_NN for_IN a_DT titchy_JJ spacecraft_NN ._SENT 
+COMPUTER_NN :_: Awaiting_VVG command_NN ._SENT 
+DOCTOR_NN :_: Tell_VV me_PP everything_NN you_PP can_MD about_IN the_DT Gunslinger_NP ._SENT 
+COMPUTER_NN :_: File_VV not_RB found_VVN ._SENT Please_UH choose_VV from_IN Technical_JJ Specifications_NNS ,_, 
+Flight_NP Recorder_NP ,_, Personal_NP Files_NP ,_, Maps_NP and_CC Charts_NP ._SENT 
+DOCTOR_NN :_: Personal_JJ files_NNS of_IN Doctor_NP Kahler-Jex_NP ._SENT 
+(_( Experimental_JJ Cyborg_NP Program_NP Military_NP Science_NP Unit_NP ._SENT )_) 
+JEX_NN [_SYM OC_NP ]_SYM :_: Names_NNS of_IN deceased_JJ subjects_NNS can_MD be_VB found_VVN on_IN the_DT drop_NN down_RB 
+menu_NN ._SENT 
+(_( We_PP hear_VVP the_DT screams_NNS of_IN the_DT subjects_NNS but_CC only_RB see_VV scrolling_VVG text_NN 
+reflected_VVN on_IN the_DT Doctor_NP 's_POS face_NN ._SENT )_) 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+(_( Amy_NP enters_VVZ to_TO discover_VV Jex_NP pointing_VVG a_DT revolver_NN at_IN 
+her_PP$ head_NN ._SENT )_) 
+JEX_NN :_: I_PP 'm_VBP sorry_JJ ,_, Amy_NP ._SENT He_PP really_RB should_MD have_VH followed_VVN the_DT plan_NN ._SENT 
+
+[_SYM Desert_NP ]_SYM 
+
+(_( The_DT Doctor_NP pops_VVZ out_RP of_IN the_DT spaceship_NN to_TO find_VV the_DT 
+Gunslinger_NN is_VBZ right_RB behind_IN him_PP ._SENT He_PP ducks_VVZ back_RB inside_RB 
+briefly_RB then_RB out_RB again_RB ._SENT )_) 
+DOCTOR_NN :_: Do_VVP n't_RB shoot_VV ,_, do_VVP n't_RB shoot_VV ,_, do_VVP n't_RB shoot_VV ._SENT I_PP know_VVP who_WP you_PP are_VBP ,_, and_NP 
+who_WP Jex_NP is_VBZ ,_, too_RB ._SENT 
+(_( The_DT Gunslinger_NP powers_NNS down_IN his_PP$ weapon_NN ._SENT )_) 
+DOCTOR_NN :_: Now_RB ,_, what_WP I_PP do_VVP n't_RB understand_VV is_VBZ why_WRB you_PP have_VHP n't_RB just_RB walked_VVD 
+into_IN town_NN and_CC killed_VVD him_PP ._SENT 
+GUNSLINGER_NN :_: People_NNS will_MD get_VV in_IN the_DT way_NN ._SENT 
+DOCTOR_NN :_: You_PP want_VVP justice_NN ,_, you_PP deserve_VVP justice_NN ,_, but_CC this_DT is_VBZ n't_RB the_DT way_NN ._SENT 
+We_PP can_MD put_VV him_PP on_IN trial_NN 
+GUNSLINGER_NN :_: When_WRB he_PP starts_VVZ killing_VVG your_PP$ people_NNS ,_, you_PP can_MD use_VV your_PP$ 
+justice_NN ._SENT 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+JEX_NP :_: Isaac_NP says_VVZ he_PP does_VVZ n't_RB care_VV about_IN my_PP$ past_NN ,_, but_RB 
+things_NNS may_MD have_VH been_VBN uncovered_VVN that_IN/that even_RB he_PP might_MD struggle_VV to_TO forgive_VV ,_, 
+so_RB it_PP 's_VBZ best_RBS we_PP beat_VVP a_DT hasty_JJ retreat_NN ._SENT 
+AMY_NN :_: We_PP ?_SENT I_PP 'm_VBP coming_VVG with_IN you_PP ?_SENT 
+JEX_NN :_: It_PP 's_VBZ unlikely_RB the_DT Gunslinger_NP will_MD shoot_VV if_IN I_PP 'm_VBP with_IN you_PP ._SENT As_RB far_RB as_RB 
+I_PP can_MD tell_VV ,_, he_PP 's_VBZ programmed_VVN to_TO take_VV innocent_JJ lives_NNS only_RB if_IN absolutely_RB 
+necessary_JJ ._SENT 
+AMY_NN :_: Oh_UH ,_, well_UH ,_, colour_VV me_PP reassured_VVN ._SENT 
+(_( Jex_NP opens_VVZ the_DT door_NN and_CC gets_VVZ a_DT gun_NN in_IN the_DT back_NN of_IN his_PP$ neck_NN ._SENT )_) 
+ISAAC_NP :_: Doc_NP ?_SENT What_WP are_VBP you_PP doing_VVG ?_SENT 
+
+[_SYM Desert_NP ]_SYM 
+
+GUNSLINGER_NN :_: No_DT more_JJR warning_NN shots_NNS ._SENT I_PP 'll_MD kill_VV the_DT 
+next_JJ person_NN to_TO step_VV over_IN that_DT line_NN ._SENT Make_VV sure_JJ it_PP 's_VBZ Jex_NP ._SENT 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+JEX_NN :_: It_PP was_VBD stupid_JJ of_IN me_PP ,_, I_PP realise_VVP that_IN/that now_RB ._SENT I_PP 
+just_RB thought_VVD I_PP 'd_MD put_VV you_PP all_RB in_IN enough_JJ danger_NN ._SENT Perhaps_RB if_IN I_PP left_VVD 
+(_( The_DT Doctor_NP enters_VVZ ._SENT )_) 
+DOCTOR_NN :_: He_PP 's_VBZ lying_VVG ._SENT Every_DT word_NN ,_, every_DT thing_NN he_PP says_VVZ ,_, it_PP 's_VBZ all_DT lies_NNS ._SENT 
+This_DT man_NN is_VBZ a_DT murderer_NN ._SENT 
+JEX_NN :_: I_PP am_VBP a_DT scientist_NN ._SENT 
+DOCTOR_NN :_: Sit_VV down_RP ._SENT Sit_VV down_RB !_SENT Tell_VV them_PP what_WP you_PP are_VBP ._SENT 
+JEX_NP :_: What_WP am_VBP I_PP ?_SENT A_DT war_NN hero_NN ._SENT 
+ISAAC_NP :_: Okay_NP ,_, somebody_NN want_VVP to_TO tell_VV me_PP what_WP is_VBZ going_VVG on_RP ?_SENT 
+DOCTOR_NN :_: The_DT Gunslinger_NP is_VBZ a_DT Cyborg_NP ._SENT 
+ISAAC_NN :_: A_DT what_WP ?_SENT 
+DOCTOR_NN :_: Half_DT man_NN ,_, half_DT machine_NN ._SENT A_DT weapon_NN ._SENT Jex_NP built_VVD it_PP ._SENT He_PP and_CC his_PP$ team_NN 
+took_VVD volunteers_NNS ,_, told_VVD them_PP they_PP 'd_VHD been_VBN selected_VVN for_IN special_JJ training_NN ,_, 
+then_RB experimented_VVN on_IN them_PP ,_, fused_VVD their_PP$ bodies_NNS with_IN weaponry_NN ,_, and_NP 
+programmed_VVN them_PP to_TO kill_VV ._SENT 
+ISAAC_NN :_: Okay_JJ ._SENT Why_WRB ?_SENT Why_WRB would_MD you_PP do_VV that_IN/that ,_, Doc_NP ?_SENT 
+JEX_NN :_: We_PP 'd_VHD been_VBN at_IN war_NN for_IN nine_CD years_NNS ._SENT A_DT war_NN that_WDT had_VHD already_RB decimated_VVN 
+half_DT of_IN our_PP$ planet_NN ._SENT Our_PP$ task_NN was_VBD to_TO bring_VV peace_NN ,_, and_CC we_PP did_VVD ._SENT We_PP built_VVD 
+an_DT army_NN that_WDT routed_VVD the_DT enemy_NN and_CC ended_VVD the_DT war_NN in_IN less_JJR than_IN a_DT week_NN ._SENT Do_VVP 
+you_PP want_VVP me_PP to_TO repent_VV ,_, to_TO beg_VV forgiveness_NN for_IN saving_VVG millions_NNS of_IN lives_NNS ?_SENT 
+
+DOCTOR_NN :_: And_CC how_WRB many_JJ died_VVD screaming_VVG on_IN the_DT operating_VVG table_NN before_IN you_PP 
+had_VHD found_VVN your_PP$ advantage_NN ?_SENT 
+JEX_NP :_: War_NP is_VBZ another_DT world_NN ._SENT You_PP cannot_MD apply_VV the_DT politics_NNS of_IN peace_NN to_TO 
+what_WP I_PP did_VVD ._SENT To_TO what_WP any_DT of_IN us_PP did_VVD ._SENT 
+RORY_NP :_: What_WP happened_VVD then_RB ?_SENT How_WRB come_VVP you_PP 're_VBP here_RB ?_SENT 
+JEX_NN :_: When_WRB the_DT war_NN ended_VVD we_PP had_VHD the_DT Cyborgs_NP decommissioned_VVD ,_, but_CC one_CD of_IN 
+them_PP must_MD have_VH got_VVN its_PP$ circuitry_NN damaged_VVN in_IN battle_NN ._SENT It_PP went_VVD offline_NP and_NP 
+began_VVD hunting_VVG down_RP the_DT team_NN that_WDT created_VVD it_PP until_IN just_RB two_CD of_IN us_PP were_VBD 
+left_VVD ._SENT We_PP fled_VVD ,_, and_CC our_PP$ ships_NNS crashed_VVD here_RB ._SENT 
+RORY_NN :_: So_RB ,_, what_WP do_VVP we_PP do_VVP with_IN Jex_NP ?_SENT 
+ISAAC_NP :_: What_WP do_VVP we_PP do_VVP with_IN him_PP ?_SENT 
+RORY_NP :_: Yeah_UH ._SENT I_PP mean_VVP ,_, he_PP 's_VBZ a_DT war_NN criminal_NN ._SENT 
+ISAAC_NP :_: No_UH ,_, he_PP 's_VBZ the_DT guy_NN that_WDT saved_VVD the_DT town_NN from_IN cholera_NN ,_, the_DT guy_NN that_RB 
+gave_VVD us_PP heat_NN and_CC light_NN ._SENT 
+AMY_NN :_: Look_NN ,_, Jex_NP may_MD be_VB a_DT criminal_JJ and_CC yeah_RB ,_, kind_NN of_IN creepy_JJ 
+JEX_NN :_: And_CC still_RB in_IN the_DT room_NN ._SENT 
+AMY_NN :_: But_CC I_PP think_VVP we_PP should_MD put_VV aside_RP what_WP he_PP did_VVD and_CC find_VV another_DT 
+solution_NN ._SENT 
+RORY_NN :_: Another_DT solution_NN ?_SENT It_PP 's_VBZ him_PP or_CC us_PP ._SENT 
+AMY_NN :_: When_WRB did_VVD we_PP start_VV letting_VVG people_NNS get_VV executed_VVN ?_SENT Did_VVD I_PP miss_VVP a_DT memo_NN ?_SENT 
+Doctor_NN ,_, tell_VV him_PP ._SENT 
+DOCTOR_NN :_: Hmm_NP ?_SENT Yes_UH ._SENT I_PP do_VVP n't_RB know_VV ._SENT Whatever_WDT Amy_NP said_VVD ._SENT 
+JEX_NN :_: Looking_VVG at_IN you_PP ,_, Doctor_NP ,_, is_VBZ like_IN looking_VVG into_IN a_DT mirror_NN ,_, almost_RB ._SENT 
+There_EX 's_VBZ rage_NN there_RB ,_, like_IN me_PP ._SENT Guilt_NN ,_, like_IN me_PP ._SENT Solitude_NN ._SENT Everything_NN but_RB 
+the_DT nerve_NN to_TO do_VV what_WP needs_VVZ to_TO be_VB done_VVN ._SENT Thank_VV the_DT gods_NNS my_PP$ people_NNS were_VBD n't_RB 
+relying_VVG on_IN you_PP to_TO save_VV them_PP ._SENT 
+DOCTOR_NN :_: No._NN No_RB ,_, but_CC these_DT people_NNS are_VBP ._SENT Out_RB !_SENT Out_RB !_SENT Out_RB !_SENT 
+(_( Rory_NP stops_VVZ Amy_NP at_IN the_DT door_NN ._SENT )_) 
+AMY_NN :_: Oh_UH ,_, you_PP 're_VBP really_RB letting_VVG him_PP do_VVP this_DT ?_SENT 
+RORY_NN :_: Save_VV us_PP all_DT ?_SENT Yeah_UH ,_, I_PP really_RB am_VBP ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+JEX_NP :_: No_UH !_SENT 
+(_( The_DT Doctor_NP pushes_VVZ Jex_NP along_IN the_DT street_NN ._SENT )_) 
+DOCTOR_NN :_: Go_VV on_RP ._SENT 
+(_( The_DT townsfolk_NN follow_VV Isaac_NP to_TO see_VV the_DT Doctor_NP push_NN Jex_NP over_IN the_DT 
+boundary_NN ._SENT )_) 
+DOCTOR_NN :_: Get_VV over_RP ,_, and_CC do_VVP n't_RB come_VV back_RB ._SENT 
+(_( The_DT Doctor_NP takes_VVZ a_DT gun_NN from_IN a_DT man_NN 's_POS holster_NN and_CC points_VVZ it_PP at_IN Jex_NP as_IN he_PP 
+tries_VVZ to_TO return_VV ._SENT )_) 
+JEX_NN :_: You_PP would_MD n't_RB ._SENT 
+DOCTOR_NN :_: I_PP genuinely_RB do_VVP n't_RB know_VV ._SENT 
+ISAAC_NN :_: Doctor_NN ._SENT Doctor_NN ._SENT 
+(_( Amy_NP gets_VVZ another_DT gun_NN and_CC fires_NNS in_IN the_DT air_NN ._SENT )_) 
+AMY_NN :_: Let_VV him_PP come_VV back_RB ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Or_CC what_WP ?_SENT You_PP wo_MD n't_RB shoot_VV me_PP ,_, Amy_NP ._SENT 
+AMY_NN :_: How_WRB do_VVP you_PP know_VVP ?_SENT Maybe_RB I_PP 've_VHP changed_VVN ._SENT I_PP mean_VVP ,_, you_PP 've_VHP clearly_RB been_VBN 
+taking_VVG stupid_JJ lessons_NNS since_IN I_PP saw_VVD you_PP last_JJ ._SENT 
+(_( Her_PP$ gun_NN fires_NNS again_RB ._SENT )_) 
+AMY_NN :_: I_PP did_VVD n't_RB mean_VV to_TO do_VV that_DT ._SENT 
+(_( So_RB Isaac_NP fires_VVZ to_TO get_VV everyone_NN 's_POS attention_NN ._SENT )_) 
+ISAAC_NN :_: Everyone_NN who_WP is_VBZ n't_RB an_DT American_JJ ,_, drop_VV your_PP$ gun_NN ._SENT 
+DOCTOR_NN :_: We_PP can_MD end_VV this_DT right_NN now_RB ._SENT We_PP could_MD save_VV everyone_NN right_RB now_RB ._SENT 
+AMY_NN :_: This_DT is_VBZ not_RB how_WRB we_PP roll_VVP ,_, and_CC you_PP know_VVP it_PP ._SENT What_WP happened_VVD to_TO you_PP ,_, 
+Doctor_NN ?_SENT When_WRB did_VVD killing_VVG someone_NN become_VV an_DT option_NN ?_SENT 
+DOCTOR_NN :_: Jex_NP has_VHZ to_TO answer_VV for_IN his_PP$ crimes_NNS ._SENT 
+AMY_NN :_: And_CC what_WP then_RB ?_SENT Are_VBP you_PP going_VVG to_TO hunt_VV down_RP everyone_NN who_WP 's_VHZ made_VVN a_DT 
+gun_NN or_CC a_DT bullet_NN or_CC a_DT bomb_NN ?_SENT 
+DOCTOR_NN :_: But_CC they_PP coming_VVG back_RB ,_, do_VVP n't_RB you_PP see_VVP ?_SENT Every_DT time_NN I_PP negotiate_VVP ,_, I_PP 
+try_VV to_TO understand_VV ._SENT Well_RB ,_, not_RB today_NN ._SENT No._NN Today_NN ,_, I_PP honour_VVP the_DT victims_NNS 
+first_JJ ._SENT His_PP$ ,_, the_DT Master_NP 's_POS ,_, the_DT Dalek_NP 's_POS ,_, all_PDT the_DT people_NNS who_WP died_VVD because_IN 
+of_IN my_PP$ mercy_NN !_SENT 
+AMY_NN :_: You_PP see_VVP ,_, this_DT is_VBZ what_WP happens_VVZ when_WRB you_PP travel_VVP alone_RB for_IN too_RB long_JJ ._SENT 
+Well_RB ,_, listen_VVP to_TO me_PP ,_, Doctor_NP ._SENT We_PP ca_MD n't_RB be_VB like_IN him_PP ._SENT We_PP have_VHP to_TO be_VB better_JJR 
+than_IN him_PP ._SENT 
+DOCTOR_NN :_: Amelia_NP Pond_NP ._SENT Fine_NP ,_, fine_NN ._SENT We_PP think_VVP of_IN something_NN else_RB ._SENT But_RB 
+frankly_RB ,_, I_PP 'm_VBP betting_VVG on_IN the_DT Gunslinger_NP ._SENT 
+(_( The_DT Doctor_NP gives_VVZ his_PP$ gun_NN back_RB and_CC holds_VVZ out_RP his_PP$ hand_NN ._SENT )_) 
+DOCTOR_NN :_: Jex_NP ,_, move_NN over_IN the_DT line_NN ._SENT Now_RB ._SENT 
+(_( Because_IN the_DT Gunslinger_NP is_VBZ right_RB behind_IN him_PP ._SENT Jex_NP turns_VVZ around_RP ._SENT )_) 
+GUNSLINGER_NN :_: Make_VV peace_NN with_IN your_PP$ gods_NNS ._SENT 
+JEX_NP :_: Kahler-Tek_NP ,_, is_VBZ n't_RB it_PP ?_SENT I_PP remember_VVP all_PDT your_PP$ names_NNS ,_, even_RB now_RB ._SENT I_PP 'll_MD 
+never_RB hurt_VVN anyone_NN again_RB ._SENT I_PP 'm_VBP even_RB helping_VVG people_NNS here_RB ._SENT 
+GUNSLINGER_NN :_: Last_JJ chance_NN ._SENT Make_VV peace_NN with_IN your_PP$ gods_NNS ._SENT 
+ISAAC_NP :_: No_UH !_SENT 
+(_( Isaac_NP pushes_VVZ Jex_NP out_IN of_IN the_DT way_NN and_CC takes_VVZ the_DT Gunslinger_NP 's_POS shot_NN 
+instead_RB ._SENT )_) 
+DOCTOR_NN :_: Isaac_NP ._SENT Isaac_NP ._SENT Isaac_NP ._SENT It_PP 's_VBZ okay_JJ ,_, it_PP 's_VBZ okay_JJ ._SENT We_PP can_MD get_VV you_PP to_TO 
+Jex_NP 's_POS surgery_NN ._SENT He_PP can_MD save_VV you_PP ._SENT 
+(_( Life_NP Signs_NP Deteriorating_NP ._SENT )_) 
+ISAAC_NN :_: Listen_VV to_TO me_PP ._SENT You_PP 've_VHP got_VVN to_TO stay_VV ._SENT You_PP 've_VHP got_VVN to_TO look_VV after_IN 
+everyone_NN ._SENT 
+DOCTOR_NN :_: It_PP wo_MD n't_RB come_VV to_TO that_DT ,_, Isaac_NP ._SENT 
+ISAAC_NN :_: Protect_VV Jex_NP ._SENT Protect_VV my_PP$ town_NN ._SENT You_PP 're_VBP both_DT good_JJ men_NNS ._SENT You_PP just_RB 
+forget_VV it_PP sometimes_RB ._SENT 
+(_( Isaac_NP dies_VVZ ,_, handing_VVG on_IN his_PP$ Marshal_NP 's_POS badge_NN ._SENT The_DT Doctor_NP stands_VVZ up_RP and_CC 
+pins_VVZ it_PP on_IN his_PP$ jacket_NN ._SENT )_) 
+DOCTOR_NN :_: Take_VV Jex_NP to_TO his_PP$ cell_NN ._SENT If_IN anything_NN happens_VVZ to_TO him_PP ,_, you_PP 'll_MD have_VH 
+me_PP to_TO answer_VV to_TO ._SENT 
+(_( Jex_NP is_VBZ escorted_VVN away_RB ._SENT The_DT Doctor_NP speaks_VVZ to_TO the_DT Gunslinger_NP ._SENT )_) 
+DOCTOR_NN :_: This_DT has_VHZ gone_VVN on_IN long_RB enough_JJ ._SENT 
+GUNSLINGER_NN :_: You_PP are_VBP right_JJ ._SENT You_PP 've_VHP got_VVN until_IN noon_NN tomorrow_NN ._SENT Give_VV him_PP to_TO 
+me_PP or_CC I_PP 'll_MD kill_VV you_PP all_DT ._SENT 
+(_( The_DT Gunslinger_NP vanishes_VVZ ._SENT )_) 
+AMY_NN :_: Oh_UH ,_, my_PP$ god_NN ._SENT You_PP 're_VBP the_DT Marshal_NP ._SENT 
+DOCTOR_NN :_: Yeah_UH ._SENT And_CC you_PP 're_VBP the_DT Deputy_NP ._SENT 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+(_( Night_NP ._SENT Someone_NN hammers_NNS on_IN the_DT door_NN ._SENT )_) 
+DOCTOR_NN :_: Come_VV in_IN ._SENT 
+PREACHER_NN :_: Marshal_NN ._SENT Ma'am_NN ._SENT Fella_NN ._SENT You_PP need_VVP to_TO come_VV outside_JJ ._SENT 
+DOCTOR_NN :_: Why_WRB ,_, what_WP 's_VBZ wrong_JJ ?_SENT 
+PREACHER_NN :_: Just_RB come_VV outside_JJ ._SENT And_CC you_PP should_MD put_VV that_IN/that on_IN ._SENT 
+(_( The_DT gun_NN belt_NN ._SENT )_) 
+
+[_SYM Outside_IN the_DT Marshal_NP 's_POS Office_NP ]_SYM 
+
+(_( The_DT townsfolk_NN have_VHP gathered_VVN ._SENT )_) 
+DOCTOR_NN :_: What_WP 's_VBZ going_VVG on_RP ?_SENT 
+WALTER_NN :_: He_PP in_RB there_RB ?_SENT Leave_VV the_DT keys_NNS and_CC take_VV a_DT walk_NN ._SENT By_IN the_DT time_NN you_PP 
+get_VV back_RB ,_, this_DT 'll_MD all_RB be_VB done_VVN ._SENT 
+DOCTOR_NN :_: I_PP promised_VVD Isaac_NP I_PP 'd_MD protect_VV him_PP ._SENT 
+WALTER_NN :_: Protecting_VVG him_PP got_VVD Isaac_NP dead_NN ._SENT Tomorrow_NN ,_, it_PP 's_VBZ going_VVG to_TO be_VB us_PP 
+all_RB ,_, dead_JJ ._SENT 
+DOCKERY_NN :_: We_PP thought_VVD Isaac_NP was_VBD right_JJ to_TO fight_VV ,_, but_CC it_PP 's_VBZ different_JJ now_RB ._SENT 
+We_PP 've_VHP got_VVN to_TO say_VV ,_, all_DT right_NN we_PP lost_VVD ,_, and_CC give_VVP that_IN/that thing_NN what_WP it_PP wants_VVZ ._SENT 
+
+SADIE_NP :_: What_WP it_PP wants_VVZ is_VBZ to_TO kill_VV our_PP$ friend_NN ._SENT 
+WALTER_NN :_: We_PP do_VVP n't_RB got_VV any_DT ill_JJ feeling_NN towards_IN the_DT Doc_NP ._SENT We_PP just_RB thinking_VVG 
+about_IN our_PP$ families_NNS ._SENT Hand_VV him_PP over_RP and_CC we_PP all_RB safe_JJ again_RB ._SENT 
+DOCTOR_NN :_: You_PP know_VVP I_PP ca_MD n't_RB do_VV that_DT ._SENT 
+WALTER_NN :_: We_PP got_VVD us_PP a_DT problem_NN ._SENT 
+DOCTOR_NN :_: Please_RB do_VVP n't_RB do_VV this_DT ._SENT 
+WALTER_NN :_: Why_WRB ,_, reckon_VVP you_PP 're_VBP quicker_JJR than_IN me_PP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, certainly_RB not_RB ,_, but_CC this_DT ?_SENT Lynch_NP mobs_NNS ?_SENT A_DT town_NN turning_VVG against_IN 
+itself_PP ?_SENT This_DT is_VBZ everything_NN Isaac_NP did_VVD n't_RB want_VV ._SENT 
+(_( Walter_NP draws_VVZ his_PP$ gun_NN and_CC cocks_VVZ it_PP ._SENT )_) 
+DOCTOR_NN :_: How_WRB old_JJ are_VBP you_PP ?_SENT 
+WALTER_NN :_: Nearly_RB nineteen_CD ._SENT 
+(_( The_DT Doctor_NP is_VBZ slowly_RB walking_VVG forward_RB ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ eighteen_CD ,_, then_RB ._SENT Too_RB young_JJ to_TO have_VH fought_VVN in_IN the_DT war_NN ,_, so_RB 
+I_PP 'm_VBP guessing_VVG you_PP 've_VHP never_RB shot_VVN anyone_NN before_RB ,_, have_VH you_PP ?_SENT 
+WALTER_NN :_: First_JJ time_NN for_IN everything_NN ._SENT 
+DOCTOR_NN :_: But_CC that_DT 's_VBZ how_WRB all_PDT this_DT started_VVD ._SENT Jex_NP turned_VVD someone_NN into_IN a_DT 
+weapon_NN ._SENT Now_RB that_DT same_JJ story_NN 's_VBZ going_VVG to_TO make_VV you_PP a_DT killer_NN ,_, too_RB ._SENT Do_VV n't_RB 
+you_PP see_VVP ?_SENT Violence_NN does_VVZ n't_RB end_VV violence_NN ,_, it_PP extends_VVZ it_PP ,_, and_CC I_PP do_VVP n't_RB 
+think_VVP you_PP want_VVP to_TO do_VV this_DT ._SENT I_PP do_VVP n't_RB think_VV you_PP want_VVP to_TO become_VV that_DT man_NN ._SENT 
+WALTER_NN :_: There_EX 's_VBZ kids_NNS here_RB ._SENT 
+DOCTOR_NN :_: I_PP know_VVP ,_, who_WP I_PP can_MD save_VV if_IN you_PP 'll_MD let_VV me_PP ._SENT 
+WALTER_NN :_: He_PP really_RB worth_JJ the_DT risk_NN ?_SENT 
+DOCTOR_NN :_: Do_VVP n't_RB know_VV ._SENT But_CC you_PP are_VBP ._SENT 
+(_( Walter_NP lowers_VVZ his_PP$ gun_NN and_CC walks_VVZ away_RB ._SENT The_DT crowd_NN disperses_VVZ ._SENT )_) 
+DOCTOR_NN :_: Frightened_JJ people_NNS ._SENT Give_VV me_PP a_DT Dalek_NP any_DT day_NN ._SENT 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+(_( The_DT Doctor_NP removes_VVZ the_DT gun_NN belt_NN ._SENT )_) 
+ABRAHAM_NP :_: Fresh_JJ coffee_NN ,_, Marshal_NP ._SENT For_IN what_WP it_PP 's_VBZ worth_JJ ,_, I_PP know_VVP you_PP 're_VBP 
+going_VVG to_TO save_VV us_PP ._SENT Isaac_NP made_VVD you_PP Marshal_NP for_IN a_DT reason_NN ,_, and_CC if_IN you_PP 're_VBP 
+good_JJ enough_NN for_IN him_PP ,_, you_PP 're_VBP good_JJ enough_RB for_IN me_PP ._SENT Reckon_VV you_PP should_MD know_VV 
+that_RB ._SENT 
+DOCTOR_NN :_: Thank_VV you_PP ._SENT 
+(_( Abraham_NP continues_VVZ to_TO take_VV his_PP$ measurements_NNS ._SENT )_) 
+DOCTOR_NN :_: Oi_NP ._SENT Get_VV out_RP of_IN it_PP ._SENT 
+(_( Abraham_NP leaves_VVZ ._SENT )_) 
+JEX_NN :_: Let_VV me_PP guess_VV ._SENT The_DT good_JJ folk_NN of_IN Mercy_NP wanted_VVD me_PP to_TO take_VV a_DT little_JJ 
+stroll_NN into_IN the_DT desert_NN ._SENT You_PP could_MD turn_VV a_DT blind_JJ eye_NN ._SENT No_DT one_CD would_MD blame_VV 
+you_PP ._SENT You_PP 'd_MD be_VB a_DT hero_NN ._SENT 
+DOCTOR_NN :_: But_CC I_PP ca_MD n't_RB ,_, can_MD I_PP ._SENT Because_IN then_RB Isaac_NP 's_POS death_NN would_MD mean_VV 
+nothing_NN ._SENT Just_RB another_DT casualty_NN in_IN your_PP$ endless_JJ bloody_JJ war_NN ._SENT Do_VV you_PP want_VV 
+me_PP to_TO hand_VV you_PP over_RP ?_SENT Is_VBZ that_IN/that what_WP you_PP want_VVP ?_SENT Do_VV you_PP even_RB know_VVP ?_SENT 
+JEX_NN :_: You_PP think_VVP I_PP 'm_VBP unaffected_JJ by_IN what_WP I_PP did_VVD ?_SENT That_IN/that I_PP do_VVP n't_RB hear_VV them_PP 
+screaming_VVG every_DT time_NN I_PP close_VVP my_PP$ eyes_NNS ?_SENT It_PP would_MD be_VB so_RB much_RB simpler_JJR if_IN I_PP 
+was_VBD just_RB one_CD thing_NN ,_, would_MD n't_RB it_PP ?_SENT The_DT mad_JJ scientist_NN who_WP made_VVD that_RB 
+killing_VVG machine_NN ,_, or_CC the_DT physician_NN who_WP 's_VHZ dedicated_VVN his_PP$ life_NN to_TO serving_VVG 
+this_DT town_NN ._SENT The_DT fact_NN that_IN/that I_PP 'm_VBP both_DT bewilders_VVZ you_PP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, I_PP know_VVP exactly_RB what_WP you_PP are_VBP ,_, and_CC I_PP see_VVP this_DT reformation_NN for_IN 
+what_WP it_PP really_RB is_VBZ ._SENT You_PP committed_VVD an_DT atrocity_NN and_CC chose_VVD this_DT as_IN your_PP$ 
+punishment_NN ._SENT Do_VVP n't_RB get_VV me_PP wrong_JJ ,_, good_JJ choice_NN ._SENT Civilised_JJ hours_NNS ,_, lots_NNS of_IN 
+adulation_NN ,_, nice_JJ weather_NN ,_, but_RB ,_, but_CC justice_NN does_VVZ n't_RB work_VV like_IN that_DT ._SENT You_PP 
+do_VVP n't_RB get_VV to_TO decide_VV when_WRB and_CC how_WRB your_PP$ debt_NN is_VBZ paid_VVN ._SENT 
+JEX_NN :_: In_IN my_PP$ culture_NN ,_, we_PP believe_VVP that_IN/that when_WRB you_PP die_VVP your_PP$ spirit_NN has_VHZ to_TO 
+climb_VV a_DT mountain_NN carrying_VVG the_DT souls_NNS of_IN everyone_NN you_PP wronged_VVD in_IN your_PP$ 
+lifetime_NN ._SENT Imagine_VV the_DT weight_NN I_PP will_MD have_VH to_TO lift_VV ._SENT The_DT monsters_NNS I_PP 
+created_VVN ,_, the_DT people_NNS they_PP killed_VVD ._SENT Isaac_NP ,_, he_PP was_VBD my_PP$ friend_NN ._SENT Now_RB his_PP$ soul_NN 
+will_MD be_VB in_IN my_PP$ arms_NNS ,_, too_RB ._SENT Can_MD you_PP see_VV now_RB why_WRB I_PP fear_VVP death_NN ?_SENT You_PP want_VVP to_TO 
+hand_VV me_PP over_RP ._SENT There_EX 's_VBZ no_DT shame_NN in_IN that_DT ._SENT But_CC you_PP wo_MD n't_RB ._SENT We_PP all_RB carry_VVP our_PP$ 
+prisons_NNS with_IN us_PP ._SENT Mine_PP is_VBZ my_PP$ past_NN ._SENT Yours_PP$ is_VBZ your_PP$ morality_NN ._SENT 
+DOCTOR_NN :_: We_PP all_RB carry_VVP our_PP$ prisons_NNS with_IN us_PP ._SENT Ha_NP !_SENT 
+
+[_SYM Chapel_NP ]_SYM 
+
+(_( Getting_VVG close_NN to_TO high_JJ noon_NN ._SENT Marshal_NP Doctor_NP is_VBZ out_RP 
+on_IN the_DT street_NN in_IN front_NN of_IN the_DT Bank_NP ._SENT The_DT townsfolk_NN have_VHP gathered_VVN 
+together_RB to_TO pray_VV ._SENT )_) 
+PREACHER_NN :_: Help_VV me_PP ._SENT Help_VV me_PP to_TO 
+(_( Inside_IN the_DT Marshal_NP 's_POS office_NN ,_, Amy_NP and_CC Jex_NP hear_VVP the_DT whoosh_NN of_IN the_DT 
+Gunslinger_NN dimension-shifting_NN towards_IN town_NN ._SENT The_DT clock_NN strikes_VVZ 12_CD as_IN he_PP 
+steps_NNS across_IN the_DT barrier_NN ._SENT When_WRB it_PP finishes_VVZ striking_JJ ,_, the_DT Gunslinger_NP 
+raises_VVZ his_PP$ weapon_NN ._SENT The_DT Doctor_NP brandishes_VVZ the_DT sonic_JJ screwdriver_NN ,_, 
+disrupting_VVG his_PP$ systems_NNS and_CC ruining_VVG his_PP$ aim_NN ._SENT Several_JJ windows_NNS and_CC the_DT 
+Bank_NN clock_NN suffer_VVP as_IN the_DT Doctor_NP runs_VVZ away_RB ._SENT )_) 
+
+[_SYM Marshal_NP 's_POS Office_NP ]_SYM 
+
+AMY_NN :_: Ready_JJ ?_SENT 
+(_( She_PP unlocks_VVZ the_DT cell_NN ._SENT )_) 
+
+[_SYM Mercy_NP ]_SYM 
+
+RORY_NP :_: Ready_JJ ?_SENT 
+(_( He_PP and_CC Walter_NP have_VHP replicas_NNS of_IN Jex_NP 's_POS identifying_VVG mark_NN on_IN their_PP$ faces_NNS ._SENT 
+So_RB do_VVP several_JJ other_JJ men_NNS ._SENT They_PP run_VVP ,_, confusing_VVG the_DT Gunslinger_NP ._SENT Error_NN :_: 
+Invalid_JJ Visual_NP Match_NP ._SENT )_) 
+GUNSLINGER_NN :_: Disengage_VV ._SENT It_PP 's_VBZ a_DT trick_NN ._SENT 
+
+[_SYM Chapel_NP ]_SYM 
+
+(_( The_DT Gunslinger_NP stomps_VVZ past_JJ ._SENT )_) 
+PREACHER_NN :_: (_( sotto_NP )_) Save_VV us_PP ,_, O_NP Lord_NP ._SENT 
+(_( A_DT little_JJ girl_NN gets_VVZ up_RB and_CC knocks_VVZ over_IN some_DT hymnals_NNS ._SENT The_DT Gunslinger_NP 
+hears_VVZ it_PP and_CC blasts_VVZ his_PP$ way_NN in_RP ._SENT The_DT people_NNS start_VVP screaming_VVG ._SENT )_) 
+
+[_SYM Mercy_NP ]_SYM 
+
+(_( Jex_NP hesitates_VVZ at_IN the_DT sound_NN ._SENT )_) 
+DOCTOR_NN :_: Go_VV !_SENT Just_RB go_VV !_SENT I_PP ca_MD n't_RB save_VV them_PP while_IN you_PP 're_VBP here_RB ._SENT 
+(_( The_DT Gunslinger_NP looks_VVZ into_IN the_DT little_JJ girl_NN 's_POS eyes_NNS ,_, and_CC leaves_VVZ the_DT 
+Chapel_NP ._SENT Jex_NP runs_VVZ out_RP of_IN town_NN and_CC back_RB to_TO his_PP$ little_JJ spaceship_NN ._SENT )_) 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+COMPUTER_NN :_: Nine_CD ,_, eight_CD ,_, seven_CD ._SENT Self_NN destruct_VV 
+overridden_VVN ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+GUNSLINGER_NN :_: Deactivate_VV automatic_JJ targeting_VVG ._SENT Switch_NN 
+to_TO manual_JJ ._SENT 
+(_( He_PP locates_VVZ the_DT Doctor_NP hiding_NN around_IN the_DT corner_NN of_IN a_DT building_NN ._SENT He_PP 's_VBZ got_VVN 
+the_DT Jex_NP mark_NN ,_, too_RB ._SENT )_) 
+DOCTOR_NN :_: Right_RB ._SENT 
+GUNSLINGER_NN :_: Where_WRB is_VBZ he_PP ?_SENT 
+DOCTOR_NN :_: He_PP 's_VBZ gone_VVN ._SENT 
+GUNSLINGER_NN :_: Where_WRB ?_SENT Answer_VV me_PP ._SENT 
+DOCTOR_NN :_: Away_RB from_IN here_RB ._SENT Look_VV up_RB ._SENT Any_DT second_NN now_RB you_PP 'll_MD see_VV the_DT vapour_NN 
+trail_NN of_IN his_PP$ ship_NN ._SENT This_DT is_VBZ their_PP$ home_NN ,_, not_RB the_DT backdrop_NN for_IN your_PP$ 
+revenge_NN ._SENT Lookup_NP ,_, go_VVP after_IN him_PP ,_, take_VV this_DT battle_NN away_RB from_IN 
+JEX_NN [_SYM OC_NP ]_SYM :_: Kahler-Tek_NNS ._SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NP :_: Kahler-Tek_NP ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+GUNSLINGER_NN :_: Jex_NP ._SENT Coward_NN ._SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+GUNSLINGER_NN [_SYM OC_NP ]_SYM :_: Where_WRB are_VBP you_PP ?_SENT 
+JEX_NN :_: I_PP 'm_VBP in_IN my_PP$ ship_NN ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+DOCTOR_NN :_: What_WP are_VBP you_PP doing_VVG ?_SENT Just_RB go_VV !_SENT 
+JEX_NN [_SYM OC_NP ]_SYM :_: Where_WRB are_VBP you_PP from_IN ?_SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NN :_: Where_WRB on_IN Kahler_NP ?_SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+DOCTOR_NN :_: Now_RB ?_SENT You_PP 're_VBP asking_VVG him_PP this_DT now_RB ?_SENT 
+GUNSLINGER_NN :_: Gabriah_NN ._SENT 
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NN :_: I_PP know_VVP it_PP ._SENT It_PP 's_VBZ beautiful_JJ there_RB ._SENT When_WRB this_DT is_VBZ 
+over_RB ,_, will_MD you_PP go_VV back_RB ?_SENT 
+GUNSLINGER_NN [_SYM OC_NP ]_SYM :_: How_WRB can_MD I_PP ?_SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+GUNSLINGER_NN :_: I_PP am_VBP a_DT monster_NN now_RB ._SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NN :_: So_RB am_VBP I_PP ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+DOCTOR_NN :_: Just_RB go_VV !_SENT Finish_VV this_DT !_SENT 
+GUNSLINGER_NN :_: I_PP 'll_MD find_VV you_PP ._SENT If_IN I_PP have_VHP to_TO tear_VV this_DT universe_NN apart_RB ,_, I_PP 
+will_MD find_VV you_PP ._SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NN :_: I_PP do_VVP n't_RB doubt_VV that_DT ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+JEX_NN [_SYM OC_NP ]_SYM :_: You_PP 'll_MD chase_VV me_PP to_TO another_DT planet_NN 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NN :_: And_CC another_DT race_NN will_MD be_VB caught_VVN in_IN the_DT 
+cross-fire_NN ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+GUNSLINGER_NN :_: Face_VV me_PP !_SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+COMPUTER_NN :_: Count_VV down_RP to_TO self-destruct_NN resumed_VVD ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+GUNSLINGER_NN :_: Face_VV me_PP !_SENT 
+JEX_NN :_: No._NN You_PP 've_VHP killed_VVN enough_RB ._SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NN :_: I_PP 'm_VBP ending_VVG the_DT war_NN for_IN you_PP ,_, too_RB ._SENT 
+COMPUTER_NN :_: Count_VV down_RP to_TO self-destruct_NN 
+
+[_SYM Mercy_NP ]_SYM 
+
+COMPUTER_NN [_SYM OC_NP ]_SYM :_: Resumed_VVN ._SENT 
+DOCTOR_NN :_: What_WP 's_VBZ going_VVG on_RP ?_SENT 
+COMPUTER_NN [_SYM OC_NP ]_SYM :_: Ten_NN ._SENT 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: The_DT count_NN down_RB ._SENT 
+
+[_SYM Mercy_NP ]_SYM 
+
+DOCTOR_NN :_: What_WP 's_VBZ going_VVG on_RP ?_SENT Jex_NP !_SENT 
+JEX_NN [_SYM OC_NP ]_SYM :_: Thank_VV you_PP ,_, Doctor_NP ._SENT I_PP have_VHP to_TO face_VV 
+
+[_SYM Jex_NP 's_POS spaceship_NN ]_SYM 
+
+JEX_NN :_: The_DT souls_NNS of_IN those_DT I_PP 've_VHP wronged_VVN ._SENT 
+COMPUTER_NN :_: Five_CD 
+JEX_NN :_: Perhaps_RB they_PP will_MD be_VB kind_JJ ._SENT 
+COMPUTER_NN :_: Three_CD ,_, two_CD ,_, one_CD ,_, zero_CD ._SENT 
+(_( The_DT white_JJ egg_NN goes_VVZ KaBOOM_NP ._SENT )_) 
+
+[_SYM Mercy_NP ]_SYM 
+
+(_( The_DT black_JJ smoke_NN rises_NNS above_IN the_DT roof_NN tops_NNS ._SENT The_DT 
+Gunslinger_NN bows_VVZ his_PP$ head_NN ._SENT )_) 
+GUNSLINGER_NN :_: He_PP behaved_VVD with_IN honour_NN at_IN the_DT end_NN ._SENT Maybe_RB more_RBR than_IN me_PP ._SENT 
+DOCTOR_NN :_: We_PP could_MD take_VV you_PP back_RB to_TO your_PP$ world_NN ._SENT You_PP could_MD help_VV with_IN the_DT 
+reconstruction_NN ._SENT 
+GUNSLINGER_NN :_: I_PP will_MD walk_VV into_IN the_DT desert_NN and_CC self-destruct_NN ._SENT I_PP 'm_VBP a_DT 
+creature_NN of_IN war_NN ._SENT I_PP have_VHP no_DT role_NN to_TO play_VV during_IN peace_NN ._SENT 
+DOCTOR_NN :_: Except_IN maybe_RB to_TO protect_VV it_PP ._SENT 
+(_( Later_JJR ,_, the_DT Doctor_NP runs_VVZ out_RP of_IN the_DT Marshal_NP 's_POS Office_NP ._SENT The_DT Tardis_NP is_VBZ 
+parked_VVN in_IN the_DT middle_NN of_IN the_DT street_NN ._SENT )_) 
+DOCTOR_NN :_: Okay_JJ ,_, so_RB ,_, our_PP$ next_JJ trip_NN ._SENT Oh_UH !_SENT You_PP know_VVP all_PDT the_DT monkeys_NNS and_CC dogs_NNS 
+they_PP sent_VVD into_IN space_NN in_IN the_DT fifties_NNS and_CC sixties_NNS ?_SENT You_PP will_MD never_RB guess_VV 
+what_WP really_RB happened_VVD to_TO them_PP ._SENT 
+AMY_NN :_: Could_MD we_PP leave_VV it_PP a_DT while_NN ?_SENT Our_PP$ friends_NNS are_VBP going_VVG to_TO start_VV noticing_VVG 
+that_IN/that we_PP 're_VBP aging_VVG faster_RBR than_IN them_PP ._SENT 
+DOCTOR_NN :_: Another_DT time_NN ?_SENT No_DT worry_NN ._SENT 
+(_( Amy_NP waves_NNS farewell_NN to_TO Walter_NP and_CC the_DT Preacher_NP ,_, then_RB she_PP and_CC Rory_NP go_VVP 
+into_IN the_DT Tardis_NP ._SENT The_DT Doctor_NP and_CC Walter_NP do_VVP a_DT mock_JJ quick_JJ draw_NN ,_, which_WDT the_DT 
+Doctor_NN wins_NNS ,_, then_RB he_PP goes_VVZ inside_RB and_CC the_DT Tardis_NP dematerialies_NNS ._SENT The_DT 
+little_JJ girl_NN goes_VVZ out_RP of_IN town_NN and_CC looks_VVZ up_RP to_TO a_DT distant_JJ ridge_NN where_WRB the_DT 
+Gunslinger_NN is_VBZ standing_VVG guard_NN over_IN the_DT town_NN ._SENT )_) 
+WOMAN_NN [_SYM OC_NP ]_SYM :_: By_IN the_DT time_NN the_DT Gunslinger_NP arrived_VVD ,_, the_DT people_NNS of_IN Mercy_NP 
+were_VBD used_VVN to_TO the_DT strange_JJ ,_, the_DT impossible_JJ ._SENT Where_WRB he_PP came_VVD from_IN did_VVD n't_RB 
+matter_NN ._SENT As_IN a_DT man_NN once_RB said_VVD ,_, America_NP is_VBZ a_DT land_NN of_IN second_JJ chances_NNS ._SENT Do_VV I_PP 
+believe_VV the_DT story_NN ?_SENT I_PP do_VVP n't_RB know_VV ._SENT My_PP$ great-grandmother_NN must_MD have_VH been_VBN a_DT 
+little_JJ girl_NN when_WRB he_PP arrived_VVD ._SENT But_CC next_JJ time_NN you_PP 're_VBP in_IN Mercy_NP ,_, ask_VVP someone_NN 
+why_WRB they_PP do_VVP n't_RB have_VH a_DT Marshal_NP or_CC Sheriff_NP or_CC policeman_NN there_RB ._SENT We_PP 've_VHP got_VVN 
+our_PP$ own_JJ arrangement_NN ,_, they_PP 'll_MD say_VV ,_, then_RB they_PP 'll_MD smile_VV like_IN they_PP got_VVD a_DT 
+secret_JJ ._SENT Like_IN they_PP 've_VHP got_VVN their_PP$ own_JJ special_JJ angel_NN watching_VVG out_RP for_IN them_PP ._SENT 
+Their_PP$ very_RB own_JJ angel_NN who_WP fell_VVD from_IN the_DT stars_NNS ._SENT 
+

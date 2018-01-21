@@ -1,0 +1,749 @@
+[_SYM On_NP 
+deck_NN ]_SYM 
+(_( A_DT group_NN of_IN seventeenth_JJ century_NN sailors_NNS row_NN back_RB 
+to_TO their_PP$ ship_NN ,_, becalmed_JJ in_IN the_DT mist_NN ._SENT )_) 
+BOATSWAIN_NN :_: What_WP 's_VBZ wrong_JJ ?_SENT 
+MILLIGAN_NN :_: Man_NN wounded_VVN ._SENT 
+BOATSWAIN_NN :_: Wake_VVP him_PP ._SENT 
+
+[_SYM Captain_NP 's_POS cabin_NN ]_SYM 
+
+(_( Lots_NNS of_IN gold_JJ loot_NN lying_VVG around_RP ._SENT )_) 
+BOATSWAIN_NN :_: He_PP slipped_VVD in_IN the_DT bilge_NN water_NN ,_, Cap'n_NP and_CC fell_VVD on_IN to_TO the_DT 
+rigger_NN ._SENT His_PP$ hand_NN ._SENT I_PP Do_VVP n't_RB know_VV if_IN he_PP 'll_MD survive_VV ._SENT 
+(_( The_DT Captain_NP turns_VVZ and_CC looks_VVZ at_IN the_DT tiny_JJ cut_NN on_IN the_DT man_NN 's_POS middle_NN 
+finger_NN ._SENT )_) 
+AVERY_NN :_: You_PP 're_VBP a_DT dead_JJ man_NN ,_, McGrath_NP ._SENT 
+(_( His_PP$ other_JJ hand_NN has_VHZ a_DT black_JJ spot_NN on_IN the_DT palm_NN ._SENT )_) 
+AVERY_NN :_: Same_JJ as_IN all_PDT the_DT others_NNS ._SENT 
+(_( A_DT woman_NN 's_POS voice_NN starts_VVZ singing_NN ._SENT )_) 
+AVERY_NN :_: She_PP 's_VBZ here_RB ._SENT 
+BOATSWAIN_NN :_: Oh_UH ,_, save_VV our_PP$ souls_NNS ._SENT 
+McGRATH_NN :_: I_PP 've_VHP got_VVN to_TO escape_VV !_SENT 
+BOATSWAIN_NN :_: Do_VVP n't_RB go_VV out_RP there_RB !_SENT McGrath_NP ,_, do_VVP n't_RB listen_VV ,_, for_IN God_NP 's_POS sake_NN ._SENT 
+The_DT siren_NN is_VBZ a-calling_VVG ._SENT 
+(_( McGrath_NP grabs_VVZ a_DT duelling_VVG piece_NN and_CC runs_VVZ out_RP onto_IN the_DT deck_NN ._SENT Captain_NN 
+Avery_NP locks_VVZ himself_PP and_CC his_PP$ crew_NN into_IN his_PP$ cabin_NN ._SENT The_DT singing_NN stops_VVZ ,_, 
+there_EX is_VBZ a_DT scream_NN and_CC then_RB silence_VV ._SENT )_) 
+
+[_SYM On_IN deck_NN ]_SYM 
+
+(_( Captain_NP Avery_NP picks_VVZ up_RP his_PP$ duelling_VVG piece_NN ._SENT )_) 
+AVERY_NN :_: Same_JJ as_IN all_PDT the_DT others_NNS ._SENT No_DT sign_NN of_IN a_DT struggle_NN ,_, no_DT bones_NNS or_CC 
+blood_NN ._SENT 
+BOATSWAIN_NN :_: We_PP 're_VBP shark_NN bait_NN ,_, every_DT single_JJ one_CD of_IN us_PP ._SENT Stuck_VVN on_IN the_DT 
+ocean_NN ,_, waiting_VVG ._SENT 
+AVERY_NN :_: Until_IN the_DT wind_NN changes_NNS ._SENT 
+(_( There_EX is_VBZ a_DT thumping_VVG from_IN below_IN decks_NNS ._SENT )_) 
+AVERY_NP :_: What_WP 's_VBZ that_RB ?_SENT 
+BOATSWAIN_NN :_: It_PP 's_VBZ the_DT creature_NN ._SENT It_PP 's_VBZ returned_VVN ._SENT 
+(_( The_DT hatch_NN to_TO the_DT hold_NN bursts_VVZ open_JJ ._SENT )_) 
+DOCTOR_NN :_: Yo_NP ho_NP ho_NP !_SENT Or_CC does_VVZ nobody_NN actually_RB say_VVP that_DT ?_SENT 
+
+[_SYM Captain_NP 's_POS cabin_NN ]_SYM 
+
+AVERY_NN :_: We_PP made_VVD no_DT signal_NN ._SENT 
+DOCTOR_NN :_: Our_PP$ sensors_NNS picked_VVD you_PP up_RP ._SENT Ship_NN in_IN distress_NN ._SENT 
+AVERY_NN :_: Sensors_NNS ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT Okay_RB ,_, problem_NN word_NN ._SENT Seventeenth_JJ century_NN ._SENT My_PP$ ship_NN 
+automatically_RB ,_, er_NNS ,_, noticed-ish_JJ that_IN/that your_PP$ ship_NN was_VBD having_VHG some_DT bother_NN ._SENT 
+AVERY_NN :_: That_DT big_JJ blue_JJ crate_NN ?_SENT 
+BOATSWAIN_NN :_: That_WDT is_VBZ more_RBR magic_JJ ,_, Captain_NP Avery_NP ._SENT They_PP 're_VBP spirits_NNS ._SENT How_WRB else_RB 
+would_MD they_PP have_VHP found_VVN their_PP$ way_NN below_IN decks_NNS ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, er_NNS ,_, I_PP want_VVP to_TO say_VV multidimensional_JJ engineering_NN ,_, but_CC since_IN 
+you_PP had_VHD a_DT problem_NN with_IN sensors_NNS ,_, I_PP wo_MD n't_RB go_VV there_RB ._SENT Look_VV ,_, I_PP 'm_VBP the_DT Doctor_NP ._SENT 
+This_DT is_VBZ Amy_NP ,_, Rory_NP ._SENT We_PP 're_VBP sailors_NNS ,_, same_JJ as_IN you_PP ._SENT Ooo_NN ar_NNS ._SENT Except_IN for_IN the_DT 
+gun_NN thing_NN ._SENT And_CC the_DT beardiness_NN ._SENT 
+AVERY_NN :_: You_PP 're_VBP stowaways_NNS ._SENT Only_JJ explanation_NN ._SENT Eight_CD days_NNS ,_, we_PP 've_VHP been_VBN 
+stranded_VVN here_RB ,_, becalmed_JJ ._SENT You_PP must_MD have_VH stowed_VVN away_RB before_IN we_PP sailed_VVD ._SENT 
+BOATSWAIN_NN :_: Now_RB what_WP do_VVP we_PP do_VVP with_IN '_'' em_NN ?_SENT 
+AVERY_NP :_: Oh_UH ,_, I_PP think_VVP they_PP deserve_VVP our_PP$ hospitality_NN ._SENT 
+[_SYM On_IN deck_NN ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ being_VBG made_VVN to_TO walk_VV the_DT plank_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP suppose_VVP that_IN/that laughing_VVG like_IN that_WDT is_VBZ in_IN the_DT job_NN description_NN ._SENT 
+Can_MD you_PP do_VV the_DT laugh_NN ?_SENT Check_NN ._SENT Grab_VV yourself_PP a_DT parrot_NN ._SENT Welcome_VV aboard_RB ._SENT 
+AVERY_NN ;_: Stocks_NNS are_VBP low_JJ ._SENT Only_RB one_CD barrel_NN of_IN water_NN remains_VVZ ._SENT We_PP do_VVP n't_RB need_VV 
+three_CD more_JJR empty_JJ bellies_NNS to_TO fill_VV ._SENT Take_VV the_DT doxy_NN below_RB to_TO the_DT galley_NN ._SENT 
+Set_VV her_PP to_TO work_VV ._SENT She_PP wo_MD n't_RB need_VV much_JJ feeding_NN ._SENT 
+AMY_NN :_: Rory_NP ?_SENT A_DT little_JJ help_NN ?_SENT 
+(_( Rory_NP is_VBZ being_VBG held_VVN by_IN Dancer_NP ,_, an_DT African_JJ born_VVN sailor_NN ._SENT )_) 
+RORY_NP :_: Yeah_UH ._SENT Hey_UH ,_, listen_VV ,_, right_RB ?_SENT She_PP 's_VBZ not_RB a_DT doxy_NN ._SENT 
+AMY_NN :_: I_PP did_VVD n't_RB mean_VV just_RB tell_VV him_PP off_RP ._SENT Thanks_NNS anyway_RB ._SENT 
+AVERY_NN :_: If_IN you_PP 're_VBP lucky_JJ you_PP 'll_MD drown_VV before_IN the_DT sharks_NNS can_MD take_VV a_DT bite_NN ._SENT 
+DOCTOR_NN :_: If_IN this_DT is_VBZ just_RB because_IN I_PP 'm_VBP a_DT captain_NN too_RB ,_, you_PP know_VVP ,_, you_PP 
+should_MD n't_RB feel_VV threatened_VVN ._SENT Your_PP$ ship_NN is_VBZ much_RB bigger_JJR than_IN mine_NN ._SENT And_CC I_PP 
+do_VVP n't_RB have_VH the_DT cool_JJ boots_NNS ._SENT Or_CC a_DT hat_NN ,_, even_RB ._SENT 
+AVERY_NN :_: Time_NN to_TO go_VV ._SENT 
+DOCTOR_NN :_: A_DT bit_NN more_JJR laughter_NN ,_, guys_NNS ?_SENT 
+(_( Amy_NP has_VHZ gone_VVN to_TO the_DT hold_NN and_CC found_VVD a_DT crate_NN of_IN cutlasses_NNS ._SENT )_) 
+DOCTOR_NN :_: Where_WRB are_VBP the_DT rest_NN of_IN the_DT crew_NN ?_SENT This_DT is_VBZ a_DT big_JJ ship_NN ._SENT Big_JJ for_IN 
+five_CD of_IN you_PP ._SENT I_PP suppose_VVP the_DT rest_NN of_IN them_PP are_VBP hiding_VVG some_DT place_NN ,_, and_NP 
+they_PP 're_VBP going_VVG to_TO jump_VV out_RP and_CC shout_VV boo_VV ._SENT 
+AMY_NN :_: Boo_VV !_SENT 
+(_( Amy_NP has_VHZ taken_VVN the_DT time_NN to_TO don_VV a_DT coat_NN and_CC tricorn_JJ hat_NN ._SENT )_) 
+AMY_NN :_: Throw_VV the_DT gun_NN down_RB ._SENT 
+(_( Avery_NP obeys_VVZ ._SENT She_PP kicks_VVZ it_PP away_RP ._SENT )_) 
+AMY_NN :_: The_DT rest_NN of_IN you_PP ,_, on_IN your_PP$ knees_NNS ._SENT 
+DOCTOR_NN :_: Amy_NP ,_, what_WP are_VBP you_PP doing_VVG ?_SENT 
+AMY_NN :_: Saving_VVG your_PP$ life_NN ._SENT Okay_JJ with_IN that_DT ,_, are_VBP you_PP ?_SENT 
+AVERY_NN :_: Put_VV down_RP the_DT sword_NN ._SENT A_DT sword_NN could_MD kill_VV us_PP all_RB ,_, girl_NN ._SENT 
+AMY_NN :_: Yeah_UH ,_, thanks_NNS ._SENT That_DT is_VBZ actually_RB why_WRB I_PP 'm_VBP pointing_VVG it_PP at_IN you_PP ._SENT 
+(_( The_DT rest_NN of_IN the_DT sailors_NNS start_VVP a_DT sword_NN fight_NN with_IN Amy_NP ,_, using_VVG wooden_JJ 
+staves_NNS ,_, while_IN Avery_NP holds_VVZ on_IN to_TO the_DT Doctor_NP ._SENT This_DT might_MD be_VB a_DT good_JJ time_NN 
+to_TO point_VV out_RP that_IN/that there_EX was_VBD an_DT Avery_NP mentioned_VVD in_IN The_DT Smugglers_NP who_WP 
+hid_VVD his_PP$ gold_NN in_IN the_DT Cornish_JJ church_NN ._SENT However_RB ,_, the_DT sailors_NNS are_VBP terrified_VVN 
+of_IN getting_VVG even_RB the_DT smallest_JJS cut_NN from_IN Amy_NP 's_POS blade_NN ._SENT Amy_NP runs_VVZ up_RP some_DT 
+steps_NNS then_RB swings_VVZ across_IN on_IN a_DT rope_NN ,_, slashing_VVG at_IN the_DT sailor_NN holding_VVG Rory_NP 
+as_IN she_PP goes_VVZ ._SENT )_) 
+DANCER_NN :_: You_PP have_VHP killed_VVN me_PP ._SENT 
+AMY_NN :_: No_DT way_NN ._SENT It_PP 's_VBZ just_RB a_DT cut_NN ._SENT 
+(_( The_DT black_JJ spot_NN appears_VVZ on_IN his_PP$ palm_NN ._SENT )_) 
+AMY_NN :_: What_WP kind_NN of_IN rubbish_JJ pirates_NNS are_VBP you_PP ?_SENT 
+AVERY_NN :_: One_CD drop_NN ,_, that_WDT 's_VBZ all_DT it_PP takes_VVZ ._SENT One_CD drop_NN of_IN blood_NN and_CC she_PP 'll_MD rise_VV 
+out_RB of_IN the_DT ocean_NN ._SENT 
+AMY_NN :_: Come_VV on_IN ,_, I_PP barely_RB even_RB scratched_VVN him_PP ._SENT What_WP are_VBP you_PP all_RB in_IN such_PDT a_DT 
+huff_NN about_RB ?_SENT 
+(_( Amy_NP makes_VVZ another_DT swing_NN and_CC is_VBZ grabbed_VVN ._SENT She_PP is_VBZ drops_NNS the_DT cutlass_NN and_CC 
+Rory_NP grabs_NNS for_IN it_PP ,_, cutting_VVG himself_PP ._SENT )_) 
+RORY_NN :_: Ow_NN !_SENT Argh_NP !_SENT 
+(_( The_DT black_JJ spot_NN appears_VVZ ._SENT )_) 
+RORY_NP :_: Er_UH ,_, Doctor_NP ,_, what_WP 's_VBZ happening_VVG to_TO me_PP ?_SENT 
+AVERY_NN :_: She_PP can_MD smell_VV the_DT blood_NN on_IN your_PP$ skin_NN ._SENT She_PP 's_VHZ marked_VVN you_PP for_IN 
+death_NN ._SENT 
+RORY_NN :_: She_PP ?_SENT 
+AVERY_NN :_: A_DT demon_NN ,_, out_RB there_RB in_IN the_DT ocean_NN ._SENT 
+DOCTOR_NN :_: Okay_JJ ._SENT Groovy_JJ ._SENT So_RB not_RB just_RB pirates_VVZ today_NN ._SENT We_PP 've_VHP managed_VVN to_TO bagsy_NN 
+a_DT ship_NN where_WRB there_EX 's_VBZ a_DT demon_NN popping_VVG in_IN ._SENT Very_RB efficient_JJ ._SENT I_PP mean_VVP ,_, if_IN 
+something_NN 's_VBZ going_VVG to_TO kill_VV you_PP ,_, it_PP 's_VBZ nice_JJ that_IN/that it_PP drops_VVZ you_PP a_DT note_VVP to_TO 
+remind_VV you_PP ._SENT 
+(_( The_DT wordless_JJ singing_NN starts_NNS ._SENT )_) 
+BOATSWAIN_NN :_: Quickly_RB now_RB ,_, block_VV out_RP the_DT sound_NN ._SENT 
+RORY_NP :_: What_WP ?_SENT 
+AVERY_NN :_: The_DT creature_NN ._SENT She_PP charms_VVZ all_PDT her_PP$ victims_NNS with_IN that_DT song_NN ._SENT 
+RORY_NP :_: Oh_UH ,_, great_JJ ._SENT So_RB put_VV my_PP$ fingers_NNS in_IN my_PP$ ears_NNS ,_, that_WDT 's_VBZ your_PP$ plan_NN ?_SENT 
+Doctor_NN ,_, come_VVN on_IN ._SENT Let_VV 's_VBZ go_VV ._SENT Let_VV 's_VBZ get_VV back_RB to_TO the_DT er_NN ,_, back_RB to_TO the_DT er_NN 
+(_( Rory_NP and_CC Dancer_NP start_VVP giggling_VVG ._SENT )_) 
+BOATSWAIN_NN :_: The_DT music_NN ._SENT It_PP 's_VBZ working_VVG on_IN him_PP ._SENT Look_NN ._SENT 
+RORY_NN :_: You_PP are_VBP so_RB beautiful_JJ ._SENT 
+AMY_NN :_: What_WP ?_SENT 
+RORY_NN :_: I_PP love_VVP your_PP$ get_VV up_RP ._SENT That_DT 's_VBZ great_JJ ._SENT You_PP should_MD dress_VV as_IN a_DT pirate_NN 
+more_RBR often_RB ._SENT Hey_UH ,_, hey_UH ,_, cuddle_VV me_PP ,_, shipmate_NN ._SENT 
+AMY_NN :_: Rory_NP ,_, stop_NN ._SENT 
+RORY_NN :_: Everything_NN is_VBZ totally_RB brilliant_JJ ,_, is_VBZ n't_RB it_PP ?_SENT Look_VV at_IN these_DT 
+brilliant_JJ pirates_NNS ._SENT Look_VV at_IN their_PP$ brilliant_JJ beards_NNS ._SENT I_PP 'd_MD like_VV a_DT beard_NN ._SENT 
+I_PP 'm_VBP going_VVG to_TO grow_VV a_DT beard_NN ._SENT 
+AMY_NN :_: You_PP 're_VBP not_RB ._SENT 
+AVERY_NN :_: The_DT music_NN turns_VVZ them_PP into_IN fools_NNS ._SENT 
+AMY_NN :_: Oh_UH ,_, my_PP$ God_NP ._SENT 
+(_( A_DT bright_JJ light_NN is_VBZ rising_VVG up_RP through_IN the_DT water_NN ._SENT A_DT female_JJ figure_NN then_RB 
+flies_NNS up_RB and_CC gently_RB lands_NNS on_IN the_DT deck_NN ._SENT Dancer_NN goes_VVZ towards_IN her_PP$ while_NN 
+Amy_NP tries_VVZ to_TO hold_VV Rory_NP back_RB ._SENT When_WRB Dancer_NP touches_VVZ her_PP$ finger_NN ,_, he_PP 
+explodes_VVZ in_IN a_DT cloud_NN of_IN soot_NN ._SENT )_) 
+RORY_NN :_: I_PP have_VHP to_TO touch_VV her_PP ._SENT Let_VV me_PP touch_VV her_PP ._SENT 
+AMY_NN :_: Sorry_RB ,_, but_CC he_PP is_VBZ spoken_VVN for_IN ._SENT 
+(_( The_DT Siren_NP turns_VVZ from_IN white_NN to_TO angry_JJ red_NN ,_, and_CC a_DT blast_NN of_IN energy_NN throws_VVZ 
+Amy_NP backwards_RB ._SENT )_) 
+DOCTOR_NN :_: Amy_NP !_SENT Everybody_NN into_IN the_DT hold_NN ._SENT Rory_NP !_SENT Come_VVN on_IN !_SENT 
+(_( The_DT Doctor_NP drags_VVZ Rory_NP away_RB ._SENT )_) 
+RORY_NP :_: Hey_UH !_SENT Wait_VV !_SENT 
+
+[_SYM Hold_VVP ]_SYM 
+
+(_( There_EX is_VBZ bilge_NN water_NN a_DT few_JJ inches_NNS deep_JJ in_IN here_RB ._SENT )_) 
+AMY_NN :_: What_WP is_VBZ that_DT thing_NN ?_SENT 
+AVERY_NN :_: The_DT legend_NN ._SENT The_DT siren_NN ._SENT Many_RB a_DT merchant_NN ship_NN laden_VVN with_IN treasure_NN 
+has_VHZ fallen_VVN prey_NN to_TO her_PP ._SENT She_PP 's_VHZ been_VBN hunting_VVG us_PP ever_RB since_IN we_PP were_VBD 
+becalmed_JJ ,_, picking_VVG off_RP the_DT injured_JJ ._SENT 
+BOATSWAIN_NN :_: Like_IN a_DT shark_NN ._SENT A_DT shark_NN can_MD smell_VV blood_NN ._SENT 
+DOCTOR_NN :_: Okay_JJ ._SENT Just_RB like_IN a_DT shark_NN ,_, in_IN a_DT dress_NN ._SENT And_CC singing_NN ._SENT And_CC green_JJ ?_SENT A_DT 
+green_JJ singing_NN shark_NN in_IN an_DT evening_NN gown_NN ._SENT 
+AVERY_NN :_: The_DT ship_NN is_VBZ cursed_VVN !_SENT 
+DOCTOR_NN :_: Yeah_UH ,_, right_RB ._SENT Cursed_JJ is_VBZ big_JJ with_IN humans_NNS ._SENT It_PP means_VVZ bad_JJ things_NNS are_VBP 
+happening_VVG but_CC you_PP ca_MD n't_RB be_VB bothered_VVN to_TO find_VV an_DT explanation_NN ._SENT 
+RORY_NN :_: She_PP 's_VBZ the_DT most_RBS beautiful_JJ thing_NN I_PP 've_VHP ever_RB seen_VVN ._SENT 
+AMY_NN :_: Actually_RB ,_, I_PP think_VVP you_PP 'll_MD find_VV she_PP is_VBZ n't_RB ._SENT 
+RORY_NN :_: She_PP is_VBZ ._SENT 
+AMY_NN :_: We_PP have_VHP to_TO leave_VV right_RB now_RB ._SENT 
+AVERY_NN :_: That_DT thing_NN of_IN yours_PP$ really_RB is_VBZ a_DT ship_NN ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, it_PP 's_VBZ not_RB propelled_VVN by_IN the_DT wind_NN ._SENT 
+AVERY_NN :_: Show_VV me_PP ._SENT Weigh_NN anchor_NN ._SENT Make_VV it_PP sail_VV ._SENT 
+DOCTOR_NN :_: And_CC the_DT gun_NN 's_POS back_NN ._SENT You_PP 're_VBP big_JJ on_IN the_DT gun_NN thing_NN ,_, are_VBP n't_RB you_PP ._SENT 
+Freud_NP would_MD say_VV you_PP 're_VBP compensating_VVG ._SENT Ever_RB met_VVN Freud_NP ?_SENT No_UH ?_SENT Comfy_JJ sofa_NN ._SENT 
+DE_NP FLORRES_NP :_: Leave_VVP the_DT cursed_JJ one_CD ,_, Captain_NP ._SENT The_DT creature_NN can_MD have_VH him_PP ._SENT 
+RORY_NP :_: Yes_UH ,_, please_UH ._SENT 
+AVERY_NN :_: We_PP do_VVP n't_RB want_VV the_DT siren_NN coming_VVG after_IN us_PP ._SENT 
+(_( Something_NN latches_NNS onto_IN Mulligan_NP 's_POS bare_JJ leg_NN ._SENT )_) 
+AMY_NN :_: It_PP 's_VBZ a_DT leech_NN !_SENT 
+DOCTOR_NN :_: Everyone_NN out_IN of_IN the_DT water_NN !_SENT 
+DE_NP FLORRES_NP :_: It_PP 's_VHZ bitten_VVN me_PP ._SENT I_PP 'm_VBP bleeding_VVG ._SENT 
+DOCTOR_NN :_: She_PP wants_VVZ blood_NN ._SENT Why_WRB does_VVZ she_PP want_VVP blood_NN ?_SENT 
+AMY_NN :_: What_WP were_VBD you_PP saying_VVG about_IN leaving_VVG the_DT cursed_JJ ones_NNS behind_RB ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ okay_JJ ,_, we_PP 're_VBP safe_JJ down_RB here_RB ._SENT No_DT curse_NN is_VBZ getting_VVG through_RP 
+three_CD solid_JJ inches_NNS of_IN timber_NN ._SENT 
+(_( And_CC there_RB she_PP is_VBZ ._SENT )_) 
+DOCTOR_NN :_: Oh_UH !_SENT Ah_UH ._SENT Hello_UH again_RB ._SENT 
+(_( De_NP Florres_NP is_VBZ drawn_VVN towards_IN her_PP ._SENT )_) 
+ALL_DT :_: No_UH !_SENT No_UH !_SENT No_UH !_SENT 
+(_( De_NP Florres_NP explodes_VVZ ,_, just_RB leaving_VVG his_PP$ hat_NN behind_RB ._SENT )_) 
+[_SYM Mess_NP deck_NN ]_SYM 
+
+(_( A_DT hammock_NN ,_, sacks_NNS of_IN food_NN ._SENT )_) 
+AMY_NN :_: Safe_JJ ?_SENT 
+DOCTOR_NN :_: I_PP have_VHP my_PP$ good_JJ days_NNS and_CC my_PP$ bad_JJ days._NN 
+AVERY_NN :_: How_WRB did_VVD she_PP get_VV in_IN ?_SENT 
+DOCTOR_NN :_: Bilge_NN water_NN ._SENT She_PP 's_VBZ using_VVG water_NN like_IN a_DT portal_NN ,_, a_DT door_NN ._SENT She_PP can_MD 
+materialise_VV through_IN a_DT single_JJ drop_NN ._SENT We_PP need_VVP to_TO go_VV somewhere_RB with_IN no_DT 
+water_NN ._SENT 
+AMY_NN :_: Well_UH ,_, thank_VV God_NP we_PP 're_VBP not_RB in_IN the_DT middle_NN of_IN the_DT ocean_NN ._SENT 
+RORY_NP :_: Did_VVD you_PP see_VVP her_PP$ eyes_NNS ?_SENT Like_IN crystal_NN pools_NNS ._SENT 
+AMY_NN :_: You_PP are_VBP in_IN enough_JJ trouble_NN ._SENT 
+AVERY_NN :_: The_DT magazine_NN ._SENT 
+AMY_NN :_: What_WP ?_SENT 
+DOCTOR_NN :_: He_PP means_VVZ the_DT armoury_NN where_WRB the_DT powder_NN 's_VBZ stored_VVN ._SENT 
+AVERY_NN :_: It_PP 's_VBZ dry_JJ as_IN a_DT bone_NN ._SENT 
+DOCTOR_NN :_: Good_JJ ._SENT Let_VV 's_VBZ go_VV there_RB ._SENT 
+AVERY_NN :_: I_PP give_VVP the_DT orders_NNS ._SENT 
+DOCTOR_NN :_: Ah_UH ._SENT Worried_VVN because_IN I_PP 'm_VBP wearing_VVG a_DT hat_NN now_RB ?_SENT Nobody_NN touch_NN 
+anything_NN sharp_JJ !_SENT 
+AMY_NN :_: Come_VV on_IN ,_, Rory_NP ._SENT 
+(_( The_DT Boatswain_NP shuffles_NNS through_IN his_PP$ collection_NN of_IN keys_NNS ._SENT )_) 
+AVERY_NN :_: Quickly_RB ,_, man_UH ._SENT 
+BOATSWAIN_NN :_: I_PP ca_MD n't_RB find_VV the_DT key_NN ._SENT Tis_NNS gone_VVN ,_, Cap'n_NP ._SENT 
+AVERY_NN :_: How_WRB can_MD it_PP have_VHP gone_VVN ?_SENT 
+(_( The_DT door_NN is_VBZ unlocked_VVN ._SENT )_) 
+DOCTOR_NN :_: Someone_NN else_RB had_VHD the_DT same_JJ idea_NN ._SENT 
+
+[_SYM Magazine_NP ]_SYM 
+
+AVERY_NN :_: Barricade_VV the_DT door_NN ._SENT Careful_JJ of_IN that_DT lantern_NN ._SENT 
+Every_DT barrel_NN is_VBZ full_JJ of_IN powder_NN ._SENT 
+DOCTOR_NN :_: Who_WP 's_VHZ been_VBN sleeping_VVG in_IN my_PP$ gun_NN room_NN ?_SENT 
+(_( Someone_NN coughs_NNS ._SENT Avery_NP opens_VVZ a_DT barrel_NN and_CC pulls_VVZ out_RP a_DT boy_NN ._SENT )_) 
+AVERY_NN :_: You_PP fool_VVP !_SENT You_PP fool_VV ,_, boy_UH ._SENT What_WP are_VBP you_PP doing_VVG here_RB ?_SENT 
+DOCTOR_NN :_: Who_WP is_VBZ he_PP ?_SENT What_WP ,_, he_PP 's_VBZ not_RB one_CD of_IN the_DT crew_NN ?_SENT 
+AVERY_NN :_: No._NN He_PP 's_VBZ my_PP$ son_NN ._SENT What_WP in_IN God_NP 's_POS name_NN possessed_VVD you_PP ,_, boy_UH ?_SENT Your_PP$ 
+mother_NN will_MD be_VB searching_VVG for_IN you_PP ._SENT When_WRB ?_SENT 
+TOBY_NP :_: Last_JJ winter_NN ._SENT Fever_NN ._SENT She_PP told_VVD me_PP all_RB about_IN you_PP ._SENT How_WRB you_PP were_VBD a_DT 
+Captain_NN in_IN the_DT Navy_NP ._SENT An_DT honourable_JJ man_NN ,_, she_PP said_VVD ._SENT How_WRB I_PP 'd_MD be_VB proud_JJ to_TO 
+know_VV you_PP ._SENT I_PP 've_VHP come_VVN to_TO join_VV your_PP$ crew_NN ._SENT 
+AVERY_NN :_: I_PP do_VVP n't_RB want_VV you_PP here_RB ._SENT 
+TOBY_NN :_: You_PP ca_MD n't_RB send_VV me_PP back_RB ._SENT It_PP 's_VBZ too_RB late_JJ ._SENT We_PP 're_VBP a_DT hundred_CD miles_NNS from_IN 
+home_NN ._SENT 
+AVERY_NN :_: It_PP 's_VBZ dangerous_JJ here_RB ._SENT There_EX is_VBZ a_DT monster_NN aboard_RB ._SENT She_PP leaves_VVZ a_DT 
+mark_NN on_IN men_NNS 's_POS skin_NN ._SENT 
+TOBY_NP :_: The_DT black_JJ spot_NN ?_SENT 
+(_( Toby_NP has_VHZ one_CD on_IN his_PP$ palm_NN ._SENT He_PP coughs_VVZ again_RB ._SENT Later_RBR -_: )_) 
+AVERY_NN :_: There_EX 's_VBZ nothing_NN wrong_JJ with_IN the_DT boy_NN ._SENT He_PP has_VHZ no_DT scars_NNS ._SENT 
+DOCTOR_NN :_: Yep_NP ._SENT Ignore_VV my_PP$ last_JJ theory_NN ._SENT 
+AMY_NN :_: He_PP has_VHZ his_PP$ good_JJ days_NNS and_CC his_PP$ bad_JJ days._NN 
+DOCTOR_NN :_: It_PP 's_VBZ not_RB just_RB blood_NN ,_, she_PP 's_VBZ coming_VVG for_IN all_PDT the_DT sick_JJ and_CC wounded_JJ ,_, 
+like_IN a_DT hunter_NN chooses_VVZ the_DT weakest_JJS animal_NN ._SENT 
+AMY_NN :_: Okay_JJ ,_, look_VV ,_, he_PP 's_VHZ got_VVN a_DT fever_NN ._SENT The_DT siren_NN knows_VVZ it_PP ._SENT 
+DOCTOR_NN :_: Humans_NNS ._SENT Second-rate_JJ ._SENT Damage_NN too_RB easily_RB ._SENT It_PP 's_VBZ only_RB a_DT matter_NN of_IN 
+time_NN before_IN everyone_NN gets_VVZ bruised_VVN ._SENT My_PP$ ship_NN ,_, it_PP can_MD sail_VV us_PP all_DT away_RP 
+from_IN here_RB ._SENT You_PP and_CC me_PP ,_, we_PP fetch_VVP it_PP ._SENT Let_VV 's_VBZ go_VV ._SENT 
+AVERY_NN :_: You_PP 're_VBP not_RB the_DT Captain_NP here_RB ,_, remember_VVP ._SENT 
+(_( Toby_NP opens_VVZ a_DT fresh-water_NN barrel_NN and_CC the_DT Siren_NP 's_POS hand_NN reaches_VVZ out_RP ._SENT The_DT 
+Doctor_NN forces_NNS the_DT lid_NN back_RB down_RB ._SENT )_) 
+AVERY_NN :_: The_DT water_NN 's_VBZ dangerous_JJ ._SENT That_DT 's_VBZ how_WRB she_PP gets_VVZ through_RP ._SENT One_CD touch_NN of_IN 
+her_PP$ hand_NN and_CC you_PP 're_VBP a_DT dead_JJ man_NN ._SENT 
+BOATSWAIN_NN :_: We_PP 're_VBP all_RB cursed_VVN if_IN we_PP stay_VVP aboard_RB ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ not_RB a_DT curse_NN ._SENT Curse_NN means_VVZ game_NN over_RB ._SENT Curse_NN means_VVZ we_PP 're_VBP 
+helpless_JJ ._SENT We_PP are_VBP not_RB helpless_JJ ._SENT Captain_NN ,_, what_WDT 's_VBZ our_PP$ next_JJ move_NN ?_SENT 
+AVERY_NN :_: Wait_VV with_IN the_DT boy_NN ._SENT 
+BOATSWAIN_NN :_: Captain_NN ,_, we_PP 're_VBP all_RB in_IN danger_NN here_RB ._SENT 
+AVERY_NN :_: I_PP said_VVD wait_VV ._SENT And_CC barricade_VV the_DT door_NN after_IN we_PP 've_VHP gone_VVN ._SENT 
+AMY_NN :_: Sure_RB you_PP want_VVP to_TO go_VV ?_SENT 
+DOCTOR_NN :_: We_PP have_VHP to_TO get_VV Rory_NP and_CC Toby_NP away_RB ._SENT She_PP 's_VBZ out_RB there_RB now_RB ,_, licking_VVG 
+her_PP$ lips_NNS ,_, boiling_VVG a_DT saucepan_NN ,_, grating_VVG cheese_NN ._SENT 
+AMY_NN :_: Okay_JJ ._SENT Well_RB ,_, remember_VV ,_, if_IN you_PP get_VVP an_DT itch_NN ,_, do_VVP n't_RB scratch_VV too_RB hard_JJ ._SENT 
+DOCTOR_NN :_: We_PP 've_VHP all_RB got_VVN to_TO go_VV some_DT time_NN ._SENT There_EX are_VBP worse_JJR ways_NNS than_IN having_VHG 
+your_PP$ face_NN snogged_VVD off_RP by_IN a_DT dodgy_JJ mermaid_NN ._SENT 
+
+[_SYM Mess_NP deck_NN ]_SYM 
+
+AVERY_NP :_: Do_VVP you_PP want_VVP to_TO draw_VV lots_NNS for_IN who_WP 's_VBZ in_IN 
+charge_NN ,_, then_RB ?_SENT 
+DOCTOR_NN :_: Darkness_NN ?_SENT Demon_NN ?_SENT You_PP can_MD have_VH first_JJ go_NN ._SENT 
+(_( Avery_NP stumbles_NNS and_CC nearly_RB puts_VVZ his_PP$ hand_NN on_IN a_DT protruding_VVG nail_NN head_NN ._SENT The_DT 
+Doctor_NN grabs_VVZ his_PP$ arm_NN just_RB in_IN time_NN ._SENT )_) 
+AVERY_NN :_: Nearly_RB ._SENT Phew_NP !_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AVERY_NN :_: By_IN all_PDT the_DT 
+DOCTOR_NN :_: Let_VV me_PP stop_VV you_PP there_RB ._SENT Bigger_JJR on_IN the_DT inside_NN ._SENT Do_VVP n't_RB mind_VV ,_, do_VVP 
+you_PP ,_, if_IN we_PP just_RB skip_VVP to_TO the_DT end_NN of_IN that_DT moment_NN ?_SENT Oh_UH ,_, and_CC sorry_RB I_PP lied_VVD ,_, 
+by_IN the_DT way_NN ,_, when_WRB I_PP said_VVD yours_PP$ was_VBD bigger_JJR ._SENT Kitchen_NN that_DT way_NN ._SENT Choice_NN of_IN 
+bathrooms_NNS there_RB ,_, there_EX ,_, there_RB ._SENT 
+
+[_SYM Magazine_NP ]_SYM 
+
+RORY_NP :_: What_WP 's_VBZ wrong_JJ ?_SENT 
+AMY_NN :_: The_DT most_RBS beautiful_JJ thing_NN you_PP 've_VHP ever_RB seen_VVN ?_SENT 
+RORY_NP :_: Oh_UH ,_, tell_VV me_PP I_PP did_VVD n't_RB really_RB say_VV that_DT ._SENT 
+AMY_NN :_: What_WP 's_VBZ going_VVG on_RP ?_SENT 
+(_( The_DT Boatswain_NP is_VBZ unbarracading_VVG the_DT door_NN ._SENT )_) 
+BOATSWAIN_NN :_: We_PP 're_VBP not_RB staying_VVG here_RB to_TO mollycoddle_VV the_DT boy_NN ._SENT The_DT Captain_NP 's_POS 
+gone_VVN soft_JJ ._SENT It_PP 's_VBZ time_NN for_IN us_PP to_TO leave_VV ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+AVERY_NP :_: What_WP 's_VHZ this_DT do_VVP ?_SENT 
+DOCTOR_NN :_: That_WDT does_VVZ very_RB ,_, very_RB complicated_VVN ._SENT That_DT does_VVZ sophisticated_JJ ._SENT That_RB 
+does_VVZ whoa_NN ,_, amazing_JJ ,_, And_CC that_WDT does_VVZ whizz_NN ,_, bang_NN ,_, far_RB too_RB technical_JJ to_TO 
+explain_VV !_SENT 
+AVERY_NN :_: Wheel_NN ?_SENT 
+DOCTOR_NN :_: Atom_NN accelerator_NN ._SENT 
+AVERY_NN :_: It_PP steers_VVZ the_DT thing_NN ._SENT 
+DOCTOR_NN :_: No._NN Sort_NP of_IN ._SENT Yes_UH ._SENT 
+AVERY_NN :_: Wheel_NN ._SENT Telescope_NN ._SENT Astrolabe_NN ._SENT Compass_NN ._SENT A_DT ship_NN 's_VBZ a_DT ship_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ._SENT 
+
+[_SYM Magazine_NP ]_SYM 
+TOBY_NN :_: He_PP told_VVD you_PP to_TO wait_VV ,_, you_PP dog_VVP ._SENT He_PP 's_VBZ your_PP$ 
+Captain_NN ,_, a_DT Naval_NP Officer_NP ._SENT You_PP 're_VBP honour-bound_JJ to_TO do_VV as_IN he_PP tells_VVZ you_PP ._SENT 
+BOATSWAIN_NN :_: Honour-bound_JJ ?_SENT Do_VV you_PP know_VV what_WP kind_NN of_IN ship_NN this_DT is_VBZ ?_SENT Do_VV you_PP 
+know_VVP what_WP your_PP$ father_NN does_VVZ ?_SENT 
+AMY_NN :_: Do_VVP n't_RB listen_VV to_TO him_PP ,_, Toby_NP ._SENT 
+BOATSWAIN_NN :_: We_PP sail_VVP under_IN the_DT black_JJ flag_NN ._SENT The_DT Jolly_NP Roger_NP ._SENT 
+TOBY_NP :_: Liar_NN !_SENT He_PP 's_VBZ no_DT wicked_JJ pirate_NN !_SENT 
+BOATSWAIN_NN :_: Oh_UH ,_, you_PP think_VVP so_RB ?_SENT I_PP have_VHP seen_VVN your_PP$ father_NN gun_NN down_IN a_DT 
+thousand_CD innocent_JJ men_NNS ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: This_DT is_VBZ how_WRB the_DT professionals_NNS do_VVP it_PP ._SENT 
+(_( The_DT time_NN rotor_NN stutters_NNS ._SENT )_) 
+DOCTOR_NN :_: Er_UH ,_, it_PP 's_VBZ stuck_VVN ._SENT Not_RB responding_VVG ._SENT 
+AVERY_NN :_: Becalmed_JJ ?_SENT 
+DOCTOR_NN :_: Mmm_NP hmm_NP ._SENT Yeah_UH ,_, apparently_RB ._SENT That_DT 's_VBZ new_JJ ._SENT You_PP had_VHD to_TO gloat_VV ,_, did_VVD n't_RB 
+you_PP ?_SENT 
+AVERY_NN :_: I_PP 'm_VBP not_RB gloating_VVG ._SENT 
+DOCTOR_NN :_: I_PP saw_VVD that_DT look_NN just_RB now_RB ._SENT Ha_NP ,_, ha_NP ,_, his_PP$ ship_NN is_VBZ rubbish_JJ ._SENT 
+AVERY_NP :_: True_UH ._SENT 
+
+[_SYM Magazine_NP ]_SYM 
+
+BOATSWAIN_NN :_: Get_VV what_WP treasure_VVP you_PP can_MD ._SENT I_PP 'll_MD meet_VV you_PP 
+in_IN the_DT row_NN boat_NN ._SENT 
+(_( Toby_NP has_VHZ found_VVN a_DT cutlass_NN ._SENT )_) 
+TOBY_NN :_: You_PP 're_VBP going_VVG to_TO remain_VV at_IN your_PP$ post_NN ._SENT 
+BOATSWAIN_NN :_: I_PP am_VBP not_RB playing_VVG games_NNS with_IN you_PP ,_, boy_UH ._SENT You_PP put_VVD that_IN/that down_RB ._SENT 
+TOBY_NP :_: One_CD more_JJR step_NN and_CC I_PP 'll_MD use_VV this_DT ,_, you_PP blaggard_JJ ._SENT 
+BOATSWAIN_NN :_: You_PP do_VVP n't_RB know_VV how_WRB to_TO fight_VV with_IN a_DT cutlass_NN ,_, boy_UH ._SENT 
+TOBY_NP :_: Do_VVP n't_RB need_VV to_TO ,_, do_VV I_PP ._SENT 
+(_( And_CC cuts_VVZ the_DT Boatswain_NP 's_POS hand_NN ._SENT )_) 
+BOATSWAIN_NN :_: No_UH 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: It_PP ca_MD n't_RB get_VV a_DT lock_NN on_IN the_DT plane_NN ._SENT 
+AVERY_NN :_: The_DT what_WP ?_SENT 
+DOCTOR_NN :_: The_DT space_NN we_PP travel_VVP in_IN ._SENT The_DT ocean_NN ._SENT Sort_NN of_IN ocean_NN but_CC not_RB water_NN ._SENT 
+The_DT Tardis_NP ca_MD n't_RB see_VV ._SENT It_PP 's_VBZ sulking_VVG because_IN it_PP thinks_VVZ the_DT space_NN does_VVZ n't_RB 
+exist_VV ._SENT Without_IN a_DT plane_NN to_TO lock_VV onto_IN we_PP 're_VBP not_RB going_VVG anywhere_RB ._SENT 
+AVERY_NN :_: I_PP 'm_VBP confused_VVN ._SENT 
+DOCTOR_NN :_: Yeah_UH ,_, well_UH ,_, it_PP 's_VBZ a_DT big_JJ club_NN ._SENT We_PP should_MD get_VV T-shirts_NNS ._SENT 
+(_( Jolt_VV ,_, grind_VV ._SENT )_) 
+DOCTOR_NN :_: What_WP 's_VBZ happening_VVG ?_SENT 
+
+[_SYM Magazine_NP ]_SYM 
+BOATSWAIN_NN :_: You_PP little_RB swabber_NN !_SENT 
+AMY_NNS :_: Congratulations_NNS ._SENT You_PP made_VVD it_PP to_TO the_DT menu_NN ._SENT Probably_RB should_MD n't_RB go_VV 
+out_RB there_RB now_RB ._SENT 
+BOATSWAIN_NN :_: You_PP scurvy_JJ ape_NN !_SENT 
+RORY_NP :_: Do_VVP n't_RB shoot_VV ._SENT The_DT powder_NN will_MD blow_VV and_CC kill_VV us_PP all_DT ._SENT 
+(_( Mulligan_NP takes_VVZ the_DT keys_NNS from_IN the_DT Boatswain_NP 's_POS belt_NN ._SENT )_) 
+BOATSWAIN_NN :_: Mulligan_NP ,_, what_WP are_VBP you_PP doing_VVG ?_SENT 
+(_( Mulligan_NP leaves_VVZ ._SENT )_) 
+AMY_NN :_: No_DT honour_NN among_IN pirates_NNS ._SENT 
+(_( The_DT Boatswain_NP puts_VVZ down_RP his_PP$ pistol_NN and_CC starts_VVZ rebuilding_VVG the_DT 
+barricade_NN ._SENT )_) 
+
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Okay_JJ ,_, she_PP 's_VHZ had_VHD her_PP$ little_JJ sulk_NN ._SENT Now_RB she_PP 's_VBZ 
+heading_VVG for_IN the_DT full-on_NN screaming_VVG tantrum_NN ._SENT 
+AVERY_NN :_: Can_MD you_PP fix_VV it_PP ?_SENT 
+DOCTOR_NN :_: Argh_NP !_SENT The_DT parametric_JJ engines_NNS are_VBP jammed_VVN ._SENT Orthogonal_JJ vector_NN 's_POS 
+gone_VVN ._SENT I_PP 'm_VBP almost_RB out_RB of_IN ideas_NNS ._SENT 
+AVERY_NN :_: Almost_RB ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, we_PP could_MD try_VV stroking_VVG her_PP and_CC singing_VVG her_PP a_DT song_NN ._SENT 
+AVERY_NN :_: Will_MD that_RB help_VV ?_SENT 
+DOCTOR_NN :_: Hard_RB to_TO say_VV ._SENT Never_NP has_VHZ before_IN ._SENT I_PP 've_VHP lost_VVN control_NN of_IN her_PP ._SENT She_PP 's_VBZ 
+about_RB to_TO dematerialise_VV ._SENT We_PP could_MD end_VV up_RP anywhere_RB !_SENT 
+AVERY_NN :_: That_WDT sounds_VVZ bad_JJ !_SENT 
+DOCTOR_NN :_: Yes_UH ,_, it_PP is_VBZ !_SENT Out_RB !_SENT Out_RB now_RB !_SENT Abandon_VV ship_NN !_SENT Abandon_VV ship_NN !_SENT 
+(_( They_PP run_VVP out_RP as_IN things_NNS start_VVP going_VVG Bang_NP !_SENT )_) 
+
+[_SYM Hold_VVP ]_SYM 
+
+(_( Not_RB your_PP$ usual_JJ dematerialisation_NN ._SENT )_) 
+DOCTOR_NN :_: Okay_JJ ,_, okay_JJ ,_, okay_JJ ._SENT Tardis_NP runs_VVZ off_RP on_IN its_PP$ own_JJ ._SENT That_DT 's_VBZ a_DT bit_NN of_IN a_DT 
+new_JJ one_CD ._SENT Bang_NP goes_VVZ our_PP$ only_JJ hope_NN of_IN getting_VVG them_PP out_RP of_IN here_RB ._SENT 
+AVERY_NN :_: Not_RB much_RB of_IN a_DT Captain_NP without_IN a_DT ship_NN ,_, are_VBP you_PP ?_SENT 
+
+[_SYM Mess_NP deck_NN ]_SYM 
+
+(_( Mulligan_NP pulls_VVZ two_CD pistols_NNS on_IN his_PP$ captain_NN ._SENT He_PP has_VHZ 
+a_DT jewelled_VVN gold_NN crown_NN around_IN his_PP$ wrist_NN ._SENT )_) 
+AVERY_NN :_: Mulligan_NP ,_, what_WP are_VBP you_PP doing_VVG ?_SENT This_DT is_VBZ mutiny_NN ._SENT 
+MULLIGAN_NN :_: She_PP does_VVZ n't_RB want_VV me_PP ._SENT She_PP only_RB wants_VVZ Toby_NP and_CC the_DT scrawny_JJ 
+looking_VVG fellow_NN ._SENT 
+DOCTOR_NN :_: He_PP 's_VHZ got_VVN the_DT last_JJ of_IN the_DT supplies_NNS ._SENT We_PP should_MD go_VV after_IN him_PP ._SENT 
+AVERY_NN :_: Never_RB mind_VV the_DT damned_JJ supplies_NNS ._SENT What_WP about_IN my_PP$ treasure_NN ?_SENT 
+(_( Mulligan_NP shoots_VVZ at_IN them_PP ._SENT )_) 
+DOCTOR_NN :_: Do_VVP n't_RB get_VV injured_VVN ._SENT Do_VVP n't_RB get_VV injured_VVN ._SENT 
+
+[_SYM Store_NP room_NN ]_SYM 
+
+AVERY_NN [_SYM OC_NP ]_SYM :_: Come_VVN out_RP of_IN there_RB ,_, you_PP mutinous_JJ dog_NN !_SENT 
+(_( Mulligan_NP lights_VVZ a_DT flame_NN ,_, then_RB drops_VVZ it_PP when_WRB it_PP burns_VVZ his_PP$ fingers_NNS ._SENT )_) 
+
+[_SYM Mess_NP deck_NN ]_SYM 
+
+(_( Siren_NP song_NN ._SENT The_DT Doctor_NP and_CC Avery_NP check_VV themselves_PP 
+for_IN injury_NN ._SENT Then_RB a_DT light_JJ glows_NNS under_IN the_DT door_NN to_TO the_DT hold_NN ._SENT )_) 
+DOCTOR_NN :_: She_PP 's_VBZ inside_JJ ._SENT 
+AVERY_NN :_: She_PP 's_VBZ come_VVN for_IN Mulligan_NP ._SENT 
+MULLIGAN_NN [_SYM OC_NP ]_SYM :_: Argh_NNS !_SENT 
+
+[_SYM Store_NP room_NN ]_SYM 
+
+AVERY_NN :_: No_DT water_NN in_IN here_RB ._SENT How_WRB did_VVD she_PP take_VV him_PP ?_SENT You_PP 
+said_VVD she_PP uses_VVZ water_NN like_IN a_DT door_NN ,_, that_WDT 's_VBZ how_WRB she_PP enters_VVZ a_DT room_NN ._SENT 
+(_( Avery_NP picks_VVZ up_RP the_DT crown_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP was_VBD wrong_JJ ._SENT Please_UH ignore_VV all_PDT my_PP$ theories_NNS up_RP to_TO this_DT point_NN ._SENT 
+AVERY_NP :_: What_WP ,_, again_RB ?_SENT 
+DOCTOR_NN :_: We_PP 're_VBP all_RB in_IN danger_NN ._SENT The_DT water_NN 's_VBZ not_RB how_WRB she_PP 's_VBZ getting_VVG in_RP ._SENT When_WRB 
+we_PP were_VBD down_RB in_IN the_DT hold_NN ,_, think_VVP what_WP happened_VVN ._SENT You_PP ,_, me_PP ,_, Amy_NP ,_, Rory_NP ,_, 
+leeches_NNS ._SENT 
+AVERY_NN :_: She_PP sprang_VVD from_IN the_DT water_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, only_RB when_WRB it_PP grew_VVD still_RB ._SENT Still_RB water_NN ._SENT Nature_NP 's_POS mirror_NN ._SENT 
+AVERY_NN :_: So_RB ,_, you_PP mean_VVP 
+DOCTOR_NN :_: Yes_UH ._SENT Not_RB water_NN ,_, reflection_NN ._SENT 
+(_( Toby_NP has_VHZ a_DT medallion_NN his_PP$ father_NN has_VHZ given_VVN him_PP ,_, of_IN a_DT mermaid_NN ._SENT A_DT nice_JJ 
+shiny_JJ medallion_NN ,_, which_WDT he_PP starts_VVZ polishing_NN ._SENT )_) 
+DOCTOR_NN :_: That_DT siren_NN legend_NN ._SENT The_DT curse_NN ._SENT 
+AVERY_NN :_: You_PP said_VVD curses_NNS were_VBD n't_RB real_JJ ._SENT 
+DOCTOR_NN :_: Folklore_NN springs_NNS from_IN truth_NN ._SENT She_PP attacks_VVZ ships_NNS filled_VVN with_IN 
+treasure_NN ._SENT Where_WRB else_RB do_VV you_PP get_VV a_DT perfect_JJ reflection_NN ?_SENT 
+AVERY_NN :_: Polished_JJ metal_NN ._SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT 
+(_( He_PP hides_VVZ the_DT crown_NN under_IN a_DT piece_NN of_IN clothing_NN ._SENT )_) 
+AVERY_NN :_: We_PP must_MD warn_VV them_PP ._SENT 
+[_SYM Magazine_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Amy_NP !_SENT Open_VV the_DT door_NN !_SENT 
+AVERY_NN [_SYM OC_NP ]_SYM :_: Toby_NP ,_, open_VVP the_DT door_NN !_SENT Toby_NP !_SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Open_VV the_DT door_NN ._SENT 
+AVERY_NN [_SYM OC_NP ]_SYM :_: Toby_NP !_SENT 
+(_( The_DT Doctor_NP grabs_VVZ the_DT medallion_NN and_CC breaths_NNS on_IN it_PP to_TO cloud_VV the_DT 
+reflection_NN ._SENT )_) 
+[_SYM Captain_NP 's_POS cabin_NN ]_SYM 
+
+(_( The_DT Doctor_NP uses_VVZ the_DT butt_NN of_IN a_DT musket_NN to_TO break_VV the_DT 
+glass_NN windows_NNS ._SENT )_) 
+DOCTOR_NN :_: We_PP 've_VHP got_VVN to_TO destroy_VV every_DT reflection_NN ._SENT Gold_NP ,_, silver_NN ,_, glass_NN ,_, she_PP 
+could_MD spring_NN from_IN any_DT of_IN them_PP ._SENT Oh_UH ,_, yes_UH ,_, yes_UH ,_, I_PP know_VVP ,_, I_PP know_VVP ._SENT Very_RB bad_JJ 
+luck_NN to_TO break_VV it_PP ._SENT But_CC look_VV at_IN it_PP this_DT way_NN ._SENT There_EX 's_VBZ a_DT stroppy_JJ homicidal_JJ 
+mermaid_NN trying_VVG to_TO kill_VV all_RB ._SENT 
+AVERY_NN :_: How_WRB much_JJ worse_JJR can_NN things_NNS get_VVP ?_SENT 
+DOCTOR_NN :_: Yep_NP ._SENT Help_VV me_PP lug_VV this_DT lot_NN out_RP ._SENT 
+AVERY_NN :_: Where_WRB are_VBP we_PP taking_VVG it_PP ?_SENT 
+DOCTOR_NN ;_: The_DT ocean_NN ._SENT 
+AVERY_NP :_: No_UH !_SENT No._NN This_DT is_VBZ the_DT treasure_NN of_IN the_DT Mogul_JJ of_IN India_NP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, good_JJ ._SENT For_IN a_DT moment_NN there_RB I_PP thought_VVD it_PP was_VBD yours_PP$ ._SENT 
+AVERY_NP :_: No_UH ,_, no._NP Doctor_NP ,_, wait_NN ._SENT Must_MD we_PP do_VV this_DT ?_SENT 
+DOCTOR_NN :_: Any_DT reflection_NN ,_, any_DT mirror_NN ,_, and_CC the_DT siren_NN will_MD attack_VV ._SENT We_PP have_VHP 
+to_TO protect_VV Rory_NP and_CC Toby_NP ._SENT Go_VV and_CC get_VV the_DT crown_NN from_IN the_DT storeroom_NN ._SENT 
+(_( The_DT Doctor_NP starts_VVZ throwing_VVG Avery_NP 's_POS gold_NN out_RP of_IN the_DT broken_VVN windows_NNS ._SENT )_) 
+[_SYM Magazine_NP ]_SYM 
+
+RORY_NN :_: Just_RB wait_VV ?_SENT 
+DOCTOR_NN :_: Not_RB my_PP$ most_RBS dynamic_JJ plan_NN ,_, I_PP realise_VVP ._SENT 
+AMY_NNS :_: Tardis_NNS ?_SENT 
+DOCTOR_NN :_: It_PP 's_VHZ been_VBN towed_VVN ._SENT 
+AMY_NN :_: What_WP ?_SENT 
+DOCTOR_NN :_: Sorry_JJ ._SENT We_PP might_MD be_VB stuck_VVN here_RB for_IN a_DT while_NN ._SENT 
+RORY_NN :_: So_RB you_PP 're_VBP saying_VVG that_IN/that we_PP should_MD all_RB just_RB wait_VV here_RB below_RB ?_SENT 
+AVERY_NN :_: The_DT sea_NN is_VBZ still_RB calm_JJ ,_, like_IN a_DT mirror_NN ._SENT If_IN you_PP go_VVP out_RP on_IN deck_NN 
+she_PP 'll_MD rise_VV up_RP and_CC attack_VV you_PP ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ okay_JJ ._SENT The_DT calm_NN wo_MD n't_RB last_VV forever_RB ._SENT When_WRB the_DT wind_NN picks_VVZ up_RP 
+we_PP 'll_MD all_RB set_VV sail_NN ._SENT 
+AVERY_NN :_: Until_IN it_PP does_VVZ ,_, you_PP have_VHP to_TO hide_VV down_RP here_RB ._SENT 
+(_( Later_JJR ,_, Rory_NP and_CC Amy_NP are_VBP asleep_JJ ._SENT )_) 
+AVERY_NN :_: I_PP 'm_VBP sorry_JJ about_IN your_PP$ mother_NN ._SENT You_PP miss_VVP her_PP a_DT lot_NN ._SENT 
+TOBY_NP :_: Three_CD years_NNS ._SENT No_DT word_NN from_IN you_PP ._SENT 
+AVERY_NN :_: Toby_NP ._SENT 
+TOBY_NN :_: You_PP promised_VVD her_PP ._SENT You_PP promised_VVD you_PP 'd_MD come_VV home_NN ._SENT And_CC she_PP believed_VVD 
+you_PP would_MD ,_, right_RB up_RB until_IN the_DT day_NN she_PP died_VVD ._SENT What_WP made_VVD you_PP do_VVP it_PP ?_SENT What_WP 
+made_VVD you_PP turn_VV pirate_NN ?_SENT 
+AVERY_NN :_: Get_VV some_DT sleep_NN now_RB ._SENT 
+EYE_NN PATCH_NP LADY_NP [_SYM OC_NP ]_SYM :_: It_PP 's_VBZ fine_JJ ._SENT You_PP 're_VBP doing_VVG fine_NN ._SENT Just_RB stay_VV calm_JJ ._SENT 
+(_( Amy_NP opens_VVZ her_PP$ eyes_NNS just_RB in_IN time_NN to_TO see_VV an_DT apparent_JJ hatch_NN in_IN the_DT side_NN 
+of_IN the_DT ship_NN slide_NN shut_VVN on_IN the_DT face_NN of_IN the_DT mysterious_JJ woman_NN ._SENT )_) 
+
+[_SYM On_IN deck_NN ]_SYM 
+
+DOCTOR_NN :_: It_PP 's_VBZ not_RB one_CD star_NN ,_, it_PP 's_VBZ two_CD ._SENT The_DT Dog_NP star_NN ,_, 
+Sirius_NP ._SENT Binary_JJ system_NN ._SENT 
+AVERY_NN :_: I_PP use_VVP it_PP to_TO navigate_VV the_DT ocean_NN ._SENT 
+DOCTOR_NN :_: I_PP 've_VHP travelled_VVN far_RB ,_, like_IN you_PP ._SENT Space_NN can_MD be_VB very_RB lonely_JJ ,_, and_CC the_DT 
+greatest_JJS adventure_NN is_VBZ having_VHG someone_NN share_VV it_PP with_IN you_PP ._SENT 
+AVERY_NN :_: If_IN we_PP get_VVP out_RP of_IN this_DT I_PP 'll_MD take_VV him_PP back_RB to_TO England_NP ._SENT He_PP ca_MD n't_RB 
+stay_VV with_IN me_PP ._SENT I_PP 'm_VBP not_RB the_DT father_NN he_PP needs_VVZ ._SENT 
+DOCTOR_NN :_: Who_WP are_VBP you_PP ,_, Henry_NP Avery_NP ?_SENT Respected_JJ naval_JJ officer_NN ,_, wife_NN and_CC 
+child_NN at_IN home_NN ._SENT How_WRB did_VVD you_PP end_VV up_RP here_RB ,_, wandering_VVG the_DT oceans_NNS with_IN a_DT 
+band_NN of_IN rogues_NNS ?_SENT 
+AVERY_NN :_: I_PP 've_VHP set_VVN my_PP$ course_NN now_RB ._SENT Nothing_NN I_PP can_MD do_VV to_TO alter_VV it_PP ._SENT 
+DOCTOR_NN :_: People_NNS stared_VVN at_IN it_PP for_IN centuries_NNS and_CC never_RB knew_VVD ._SENT Things_NNS can_MD 
+suddenly_RB change_NN ,_, when_WRB you_PP 're_VBP least_RBS expecting_JJ ._SENT 
+
+[_SYM Captain_NP 's_POS cabin_NN ]_SYM 
+
+AMY_NN :_: Doctor_NN ?_SENT 
+DOCTOR_NN :_: Shush_VV ._SENT 
+AMY_NN :_: What_WP can_MD you_PP see_VV ?_SENT 
+DOCTOR_NN :_: Feels_VVZ like_IN something_NN 's_VBZ out_RB there_RB ,_, staring_VVG straight_RB at_IN me_PP ._SENT 
+(_( Lightning_NN !_SENT Thunder_NN !_SENT )_) 
+DOCTOR_NN :_: Man_NN the_DT sails_NNS !_SENT 
+[_SYM On_IN deck_NN ]_SYM 
+
+(_( The_DT rain_NN is_VBZ lashing_VVG down_RP ._SENT )_) 
+AVERY_NN :_: To_TO the_DT rigging_NN ,_, you_PP dogs_VVZ !_SENT Let_VV go_VV the_DT sails_NNS ._SENT Avast_JJ ye_NN !_SENT Put_VV the_DT 
+bunt_NN into_IN the_DT slack_NN of_IN the_DT clews_NNS ._SENT 
+(_( Amy_NP and_CC Rory_NP pull_VVP on_IN the_DT sheets_NNS ._SENT )_) 
+AMY_NN :_: I_PP swear_VVP he_PP 's_VBZ making_VVG half_PDT this_DT stuff_NN up_RB ._SENT 
+RORY_NP :_: Well_UH ,_, we_PP 're_VBP going_VVG to_TO need_VV some_DT kind_NN of_IN phrase_NN book_NN ._SENT 
+(_( The_DT Doctor_NP is_VBZ at_IN the_DT wheel_NN ,_, trying_VVG to_TO turn_VV her_PP$ bow_NN on_IN to_TO the_DT storm_NN ._SENT )_) 
+AVERY_NN :_: Toby_NP !_SENT Find_VV my_PP$ coat_NN ._SENT My_PP$ compass_NN is_VBZ inside_IN it_PP ,_, boy_UH ._SENT Heave_NN ho_NN ,_, you_PP 
+bilge_NN rats_NNS ._SENT 
+RORY_NN :_: Rats_NNS was_VBD all_DT I_PP could_MD hear_VV ._SENT 
+(_( Toby_NP returns_NNS with_IN the_DT coat_NN ,_, and_CC the_DT crown_NN falls_VVZ out_RB and_CC rolls_VVZ along_RP 
+the_DT deck_NN ._SENT The_DT Siren_NP comes_VVZ out_RP of_IN the_DT crown_NN and_CC flies_VVZ up_RP into_IN the_DT 
+rigging_NN ,_, then_RB descends_VVZ again_RB to_TO the_DT deck_NN ._SENT )_) 
+AVERY_NP :_: Do_VVP n't_RB let_VV her_PP take_VV you_PP !_SENT 
+(_( Toby_NP reaches_VVZ out_RP to_TO the_DT Siren_NP ._SENT )_) 
+AVERY_NP :_: No_UH !_SENT 
+(_( Toby_NP is_VBZ gone_VVN in_IN a_DT puff_NN of_IN smoke_NN ._SENT )_) 
+AVERY_NP :_: No_UH !_SENT 
+(_( The_DT Doctor_NP throws_VVZ the_DT crown_NN overboard_RB ,_, and_CC the_DT Siren_NP disappears_VVZ ._SENT )_) 
+AVERY_NN :_: I_PP 'm_VBP sorry_JJ ,_, I_PP 'm_VBP sorry_JJ ._SENT 
+DOCTOR_NN :_: You_PP could_MD n't_RB give_VV up_RP the_DT gold_NN ,_, could_MD you_PP ._SENT That_DT 's_VBZ why_WRB you_PP turned_VVD 
+pirate_NN ._SENT Your_PP$ commission_NN ,_, your_PP$ wife_NN ,_, your_PP$ son_NN ._SENT Just_RB how_WRB much_RB is_VBZ that_RB 
+treasure_NN worth_JJ to_TO you_PP ,_, man_UH ?_SENT 
+(_( A_DT loose_JJ spar_NN knocks_VVZ Rory_NP overboard_RB ._SENT )_) 
+AMY_NN :_: Rory_NP !_SENT Rory_NP !_SENT I_PP ca_MD n't_RB see_VV him_PP ._SENT Doctor_NN ?_SENT I_PP 'm_VBP going_VVG in_IN ._SENT 
+DOCTOR_NN :_: He_PP 's_VBZ drowning_VVG ._SENT He_PP 's_VBZ drowning_VVG !_SENT You_PP go_VVP in_IN after_IN him_PP ,_, you_PP 'll_MD drown_VV 
+too_RB ._SENT There_EX 's_VBZ only_RB one_CD thing_NN that_WDT can_MD save_VV him_PP now_RB ._SENT 
+AMY_NN :_: What_WP are_VBP you_PP talking_VVG about_RB ?_SENT 
+DOCTOR_NN :_: The_DT Siren_NP ._SENT The_DT Siren_NP ,_, she_PP wants_VVZ him_PP ._SENT We_PP have_VHP to_TO release_VV her_PP ._SENT 
+AMY_NN :_: Doctor_NN ,_, no._NP 
+(_( The_DT Doctor_NP opens_VVZ a_DT fresh_JJ water_NN barrel_NN and_CC the_DT Siren_NP zooms_VVZ out_RP ._SENT )_) 
+DOCTOR_NN :_: He_PP 's_VBZ drowning_VVG ._SENT Go_VV and_CC find_VV him_PP !_SENT 
+(_( The_DT Siren_NP dives_VVZ into_IN the_DT sea_NN ._SENT )_) 
+AMY_NN :_: What_WP ,_, what_WP did_VVD you_PP do_VVP ?_SENT 
+DOCTOR_NN :_: If_IN he_PP stays_VVZ in_IN there_EX he_PP 'll_MD die_VV ._SENT 
+AMY_NN :_: But_CC she_PP 'll_MD destroy_VV him_PP ._SENT 
+DOCTOR_NN :_: That_DT thing_NN is_VBZ n't_RB just_RB a_DT ravenous_JJ hunter_NN ._SENT It_PP 's_VBZ intelligent_JJ ._SENT We_PP 
+can_MD reason_NN with_IN it_PP ._SENT And_CC maybe_RB ,_, just_RB maybe_RB ,_, they_PP 're_VBP still_RB alive_JJ 
+somewhere_RB ._SENT We_PP have_VHP to_TO follow_VV ._SENT 
+AVERY_NP :_: Are_VBP you_PP mad_JJ ?_SENT 
+DOCTOR_NN :_: If_IN we_PP ever_RB want_VVP to_TO see_VV them_PP again_RB ,_, we_PP have_VHP to_TO let_VV the_DT Siren_NP 
+take_VV us_PP ._SENT We_PP 'll_MD prick_VV our_PP$ fingers_NNS ._SENT All_DT agreed_VVD ?_SENT Yeah_UH ?_SENT 
+AVERY_NN :_: Aye_NN ._SENT 
+AMY_NN :_: Aye_NN ._SENT 
+DOCTOR_NN :_: Aye_NN ._SENT 
+(_( The_DT Doctor_NP draws_VVZ blood_NN from_IN each_DT of_IN them_PP ._SENT The_DT black_JJ spot_NN appears_VVZ on_IN 
+their_PP$ palms_NNS and_CC the_DT Siren_NP appears_VVZ ._SENT There_EX is_VBZ a_DT flash_NN of_IN bright_JJ light_NN ._SENT )_) 
+
+[_SYM Spaceship_NP ]_SYM 
+
+(_( They_PP wake_VVP up_RP on_IN a_DT metal_NN floor_NN ._SENT )_) 
+AMY_NN :_: Where_WRB are_VBP we_PP ?_SENT 
+DOCTOR_NN :_: We_PP have_VHP n't_RB moved_VVN ._SENT We_PP 're_VBP in_IN exactly_RB the_DT same_JJ place_NN as_IN before_RB ._SENT 
+(_( They_PP look_VVP through_IN a_DT window_NN onto_IN the_DT deck_NN of_IN the_DT ship_NN ._SENT )_) 
+AVERY_NN :_: We_PP 're_VBP on_IN a_DT ghost_NN ship_NN ._SENT 
+DOCTOR_NN :_: No._NN It_PP 's_VBZ real_JJ ._SENT Space_NN ship_NN trapped_VVN in_IN a_DT temporal_JJ rift_NN ._SENT 
+AMY_NN :_: How_WRB can_MD two_CD ships_NNS be_VB in_IN the_DT same_JJ place_NN ?_SENT 
+DOCTOR_NN :_: Not_RB the_DT same_JJ ._SENT Two_CD planes_NNS ,_, two_CD worlds_NNS ,_, two_CD cars_NNS parked_VVN in_IN the_DT 
+same_JJ space_NN ._SENT There_EX are_VBP lots_NNS of_IN different_JJ universes_NNS nested_VVN inside_IN each_DT 
+other_JJ ._SENT Now_RB and_CC again_RB they_PP collide_VVP ,_, and_CC you_PP can_MD step_VV from_IN one_CD to_TO the_DT 
+other_JJ ._SENT 
+AMY_NN :_: Okay_JJ ,_, I_PP think_VVP I_PP understand_VVP ._SENT 
+DOCTOR_NN :_: Good_JJ ,_, because_IN it_PP 's_VBZ not_RB like_JJ that_IN/that at_IN all_DT ._SENT But_CC if_IN that_DT helps_VVZ ._SENT 
+AMY_NNS :_: Thanks_NNS ._SENT 
+DOCTOR_NN :_: All_PDT the_DT reflections_NNS have_VHP suddenly_RB become_VVN gateways_NNS ._SENT 
+(_( The_DT Doctor_NP throws_VVZ a_DT piece_NN of_IN metal_NN at_IN the_DT window_NN ._SENT It_PP goes_VVZ through_IN and_NP 
+lands_NNS on_IN the_DT deck_NN ._SENT )_) 
+DOCTOR_NN :_: Ever_RB look_VVP in_IN a_DT mirror_NN and_CC think_VVP you_PP 're_VBP seeing_VVG a_DT whole_JJ other_JJ 
+world_NN ?_SENT Well_RB ,_, this_DT time_NN it_PP 's_VBZ not_RB an_DT illusion_NN ._SENT 
+(_( Beep_NN ,_, beep_NN ._SENT )_) 
+AMY_NN :_: The_DT signal_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+AMY_NN :_: The_DT distress_NN call_NN ._SENT 
+DOCTOR_NN :_: Uh_UH huh_NP ._SENT 
+AMY_NN :_: There_EX was_VBD a_DT second_JJ ship_NN here_IN all_PDT the_DT time_NN ._SENT 
+DOCTOR_NN :_: And_CC the_DT Siren_NP is_VBZ on_IN board_NN ._SENT 
+(_( He_PP opens_VVZ a_DT door_NN to_TO reveal_VV an_DT alien_JJ skeleton_NN ._SENT Its_PP$ spacesuit_NN says_VVZ 
+D.I.H.S._NP )_) 
+DOCTOR_NN :_: Dead_JJ ._SENT 
+
+[_SYM Bridge_NP ]_SYM 
+
+(_( More_JJR skeletal_JJ crew_NN ._SENT )_) 
+AMY_NN :_: You_PP were_VBD right_JJ ._SENT There_EX was_VBD something_RB staring_VVG at_IN us_PP the_DT whole_JJ time_NN ._SENT 
+How_WRB long_RB has_VHZ this_DT ship_NN been_VBN marooned_VVN here_RB ?_SENT 
+AVERY_NN :_: Long_RB enough_RB for_IN the_DT Captain_NP to_TO have_VH run_VVN out_RP of_IN grog_NN ._SENT 
+AMY_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT If_IN this_DT is_VBZ the_DT Captain_NP ,_, then_RB what_WP 's_VBZ the_DT Siren_NP ?_SENT 
+
+DOCTOR_NN :_: Same_JJ as_IN us_PP ._SENT A_DT stowaway_NN ._SENT 
+AMY_NN :_: She_PP killed_VVD it_PP ?_SENT 
+DOCTOR_NN :_: Human_JJ bacteria_NNS ._SENT 
+AMY_NN :_: What_WP ?_SENT 
+DOCTOR_NN :_: A_DT virus_NN from_IN our_PP$ planet_NN ._SENT Airborne_JJ ,_, travelling_VVG through_IN the_DT 
+portal_NN ._SENT That_DT 's_VBZ what_WP killed_VVD it_PP ._SENT Did_VVD n't_RB get_VV its_PP$ jabs_NNS ._SENT Urgh_UH ._SENT Look_NN ._SENT 
+(_( The_DT Doctor_NP has_VHZ put_VVN his_PP$ hand_NN in_IN some_DT gunk_NN ._SENT )_) 
+AMY_NN :_: What_WP is_VBZ it_PP ?_SENT 
+DOCTOR_NN :_: Sneeze_NN !_SENT Alien_JJ bogies_NNS ._SENT 
+(_( He_PP wipes_VVZ his_PP$ hand_NN on_IN the_DT sleeve_NN of_IN Amy_NP 's_POS pirate_NN coat_NN ._SENT )_) 
+
+[_SYM Sickbay_NP ]_SYM 
+
+(_( Lots_NNS of_IN people_NNS lying_VVG on_IN beds_NNS floating_VVG in_IN midair_NN ,_, 
+and_CC connected_VVN by_IN a_DT tube_NN to_TO the_DT ceiling_NN ._SENT )_) 
+AVERY_NN :_: McGrath_NP !_SENT He_PP 's_VBZ one_CD of_IN my_PP$ men_NNS ._SENT 
+AMY_NN :_: He_PP 's_VBZ still_RB breathing_VVG ._SENT 
+AVERY_NN :_: My_PP$ entire_JJ crew_NN is_VBZ here_RB ._SENT Toby_NP !_SENT 
+AMY_NN :_: Rory_NP !_SENT 
+DOCTOR_NN :_: The_DT Tardis_NP !_SENT 
+AVERY_NN :_: We_PP have_VHP to_TO get_VV them_PP out_RP of_IN here_RB ._SENT 
+DOCTOR_NN :_: Wait_VV ._SENT His_PP$ fever_NN 's_VBZ gone_VVN ._SENT 
+AMY_NN :_: He_PP looks_VVZ so_RB well_RB ._SENT 
+DOCTOR_NN :_: She_PP 's_VBZ keeping_VVG him_PP alive_JJ ._SENT His_PP$ brain_NN is_VBZ still_RB active_JJ ,_, but_CC all_PDT its_PP$ 
+cellular_JJ activity_NN is_VBZ suspended_VVN ._SENT It_PP 's_VBZ not_RB a_DT curse_NN ,_, it_PP 's_VBZ a_DT tissue_NN sample_NN ._SENT 
+Why_WRB get_VVP samples_NNS of_IN people_NNS you_PP are_VBP about_RB to_TO kill_VV ?_SENT 
+AMY_NN :_: Help_VV me_PP get_VV him_PP up_RP ._SENT 
+(_( Rory_NP begins_VVZ to_TO wake_NN ._SENT Beep_NN ,_, beep_NN ._SENT )_) 
+DOCTOR_NN :_: She_PP 's_VBZ coming_VVG ._SENT 
+(_( They_PP hide_VV behind_IN a_DT bank_NN of_IN monitors_NNS ._SENT The_DT Siren_NP floats_VVZ in_IN ,_, singing_VVG her_PP 
+wordless_JJ song_NN ,_, and_CC goes_VVZ to_TO Rory_NP ._SENT He_PP calms_VVZ down_RB and_CC sleeps_VVZ again_RB ._SENT )_) 
+DOCTOR_NN :_: Anaesthetic_JJ ._SENT 
+AVERY_NP :_: What_WP ?_SENT 
+DOCTOR_NN :_: The_DT music_NN ._SENT The_DT song_NN ._SENT So_RB she_PP anaesthetises_VVZ people_NNS and_CC puts_VVZ their_PP$ 
+body_NN in_IN stasis_NN ._SENT 
+(_( The_DT Siren_NP goes_VVZ to_TO Toby_NP ._SENT Avery_NP steps_VVZ out_RP ,_, gun_VV ready_JJ ._SENT )_) 
+DOCTOR_NN :_: Avery_NP ,_, no_RB !_SENT 
+(_( Avery_NP shoots_VVZ ,_, and_CC the_DT Siren_NP turns_VVZ red_JJ ._SENT She_PP advances_NNS on_IN Avery_NP ,_, then_RB the_DT 
+Doctor_NN sneezes_NNS ._SENT The_DT Siren_NP heads_VVZ for_IN him_PP instead_RB ._SENT )_) 
+DOCTOR_NN :_: Fire_NN ._SENT That_DT 's_VBZ new_JJ ._SENT What_WP does_VVZ fire_NN do_VV ?_SENT Burn_NN ?_SENT Yes_UH ._SENT Destroy_VV ?_SENT What_WP 
+else_RB ?_SENT Sterilise_VV !_SENT I_PP sneezed_VVD ._SENT I_PP 've_VHP brought_VVN germs_NNS in_IN ._SENT 
+(_( The_DT Doctor_NP blows_VVZ his_PP$ nose_NN and_CC throws_VVZ the_DT handkerchief_NN on_IN the_DT floor_NN ._SENT 
+The_DT Siren_NP blasts_VVZ the_DT offending_VVG article_NN ._SENT Amy_NP runs_VVZ to_TO Rory_NP ._SENT )_) 
+DOCTOR_NN :_: Amy_NP ,_, stop_NN ._SENT Do_VVP n't_RB interfere_VV ._SENT Do_VVP n't_RB touch_VV him_PP ._SENT Anaesthetic_JJ ,_, 
+tissue_NN sample_NN ,_, screen_NN ,_, sterile_JJ working_JJ conditions_NNS ._SENT Ignore_VV all_PDT my_PP$ 
+previous_JJ theories_NNS !_SENT 
+AMY_NN :_: Yeah_UH ?_SENT Well_RB ,_, we_PP stopped_VVD paying_VVG attention_NN a_DT while_NN back_RB ._SENT 
+DOCTOR_NN :_: She_PP 's_VBZ not_RB a_DT killer_NN at_IN all_DT ,_, she_PP 's_VBZ a_DT doctor_NN !_SENT 
+(_( Amy_NP stops_VVZ fiddling_VVG with_IN Rory_NP 's_POS life_NN support_NN and_CC the_DT Siren_NP returns_VVZ to_TO 
+green_JJ ._SENT )_) 
+DOCTOR_NN :_: This_DT is_VBZ an_DT automated_JJ sick_JJ bay_NN ._SENT It_PP 's_VBZ teleporting_VVG everyone_NN on_IN 
+board_NN ._SENT The_DT crew_NN are_VBP dead_JJ ,_, and_CC so_RB the_DT sick_JJ bay_NN has_VHZ had_VHN nothing_NN to_TO do_VV ._SENT 
+It_PP 's_VHZ been_VBN looking_VVG after_IN humanity_NN whilst_IN it_PP 's_VHZ been_VBN idle_JJ ._SENT Look_VV at_IN her_PP ._SENT A_DT 
+virtual_JJ doctor_NN able_JJ to_TO sterilise_VV a_DT whole_JJ room_NN ._SENT 
+AMY_NN :_: Able_JJ to_TO burn_VV your_PP$ face_NN off_RP ._SENT 
+DOCTOR_NN :_: She_PP 's_VBZ just_RB an_DT interface_NN ,_, seeped_VVN through_IN the_DT join_NN between_IN the_DT 
+planes_NNS ,_, broadcast_VVN in_IN our_PP$ world_NN ._SENT Protean_JJ circuitry_NN means_VVZ she_PP can_MD change_VV 
+her_PP$ form_NN ,_, and_CC become_VV a_DT human_JJ doctor_NN for_IN humans_NNS ._SENT Oh_UH ,_, sister_NN ,_, you_PP are_VBP 
+good_JJ ._SENT 
+AVERY_NN :_: She_PP wo_MD n't_RB let_VV us_PP take_VV them_PP ._SENT 
+DOCTOR_NN :_: She_PP 's_VBZ keeping_VVG them_PP alive_JJ ,_, but_CC she_PP does_VVZ n't_RB know_VV how_WRB to_TO heal_VV 
+them_PP ._SENT 
+AMY_NN :_: I_PP 'm_VBP his_PP$ wife_NN ,_, for_IN God_NP 's_POS sake_NN ._SENT Why_WRB ca_MD n't_RB I_PP touch_VVP him_PP ?_SENT 
+DOCTOR_NN :_: Tell_VV her_PP ,_, Amy_NP ._SENT Show_VV her_PP your_PP$ ring_NN ._SENT She_PP may_MD be_VB virtual_JJ but_CC she_PP 's_VBZ 
+intelligent_JJ ._SENT You_PP ca_MD n't_RB do_VV anything_NN without_IN her_PP$ consent_NN ._SENT Come_VVN on_IN ._SENT 
+Sophisticated_JJ girl_NN like_IN you_PP ._SENT That_DT must_MD be_VB somewhere_RB in_IN your_PP$ core_NN 
+program_NN ._SENT 
+AMY_NN :_: Look_VV ,_, he_PP 's_VBZ very_RB ill_JJ ,_, okay_JJ ?_SENT I_PP just_RB want_VVP to_TO look_VV after_IN him_PP ._SENT Why_WRB 
+wo_MD n't_RB you_PP let_VVP me_PP near_IN my_PP$ husband_NN ?_SENT 
+(_( The_DT Siren_NP holds_VVZ out_RP her_PP$ hand_NN ,_, and_CC a_DT circle_NN of_IN light_NN appears_VVZ around_RP 
+it_PP ._SENT )_) 
+DOCTOR_NN :_: Consent_NN form_NN ._SENT Sign_VV it_PP ._SENT Put_VV your_PP$ hand_NN in_IN the_DT light_NN ._SENT Rory_NP 's_VBZ sick_JJ ._SENT 
+You_PP have_VHP to_TO take_VV full_JJ responsibility_NN ._SENT 
+(_( Amy_NP does_VVZ so_RB ,_, and_CC the_DT Siren_NP disappears_VVZ ._SENT Amy_NP turns_VVZ off_IN Rory_NP 's_POS life_NN 
+support_NN ._SENT )_) 
+DOCTOR_NN :_: He_PP ca_MD n't_RB breathe_VV ._SENT Turn_VV it_PP back_RB on_RP ._SENT 
+AMY_NN :_: What_WP do_VVP we_PP do_VVP ?_SENT I_PP ca_MD n't_RB just_RB leave_VV him_PP here_RB ._SENT 
+AVERY_NN :_: He_PP 'll_MD die_VV if_IN you_PP take_VVP him_PP out_RP ._SENT 
+AMY_NN :_: Rory_NP ?_SENT Rory_NP ,_, wake_NN up_RB ._SENT 
+RORY_NP :_: Where_WRB am_VBP I_PP ?_SENT 
+DOCTOR_NN :_: You_PP 're_VBP in_IN a_DT hospital_NN ._SENT If_IN you_PP leave_VVP ,_, you_PP might_MD die_VV ._SENT 
+AMY_NN :_: But_CC if_IN you_PP do_VVP n't_RB ,_, you_PP 'll_MD have_VH to_TO stay_VV forever_RB ._SENT 
+RORY_NN :_: You_PP 're_VBP saying_VVG that_IN/that if_IN I_PP do_VVP n't_RB get_VV up_RP now_RB 
+AMY_NN :_: You_PP can_MD never_RB leave_VV ._SENT 
+DOCTOR_NN :_: The_DT Siren_NP will_MD keep_VV you_PP safe_JJ ._SENT 
+RORY_NN :_: And_CC if_IN I_PP come_VVP with_IN you_PP ?_SENT 
+DOCTOR_NN :_: Drowning_VVG ,_, on_IN the_DT point_NN of_IN death_NN ._SENT 
+RORY_NN :_: I_PP 'm_VBP a_DT nurse_NN ._SENT 
+AMY_NN :_: What_WP ?_SENT 
+RORY_NN :_: I_PP can_MD teach_VV you_PP how_WRB to_TO save_VV me_PP ._SENT 
+AMY_NN :_: Whoa_NP ._SENT Hold_VV on_IN ._SENT 
+RORY_NN :_: I_PP was_VBD drowning_VVG ._SENT You_PP just_RB have_VH to_TO resuscitate_VV me_PP ._SENT 
+AMY_NN :_: Just_RB ?_SENT 
+RORY_NN :_: You_PP 've_VHP seen_VVN them_PP do_VVP it_PP loads_NNS of_IN times_NNS in_IN films_NNS ._SENT CPR_NP ._SENT The_DT kiss_NN of_IN 
+life_NN ._SENT 
+AMY_NN :_: Rory_NP ,_, this_DT is_VBZ n't_RB a_DT film_NN ,_, okay_JJ ?_SENT What_WP if_IN I_PP do_VVP it_PP wrong_JJ ?_SENT 
+RORY_NN :_: You_PP wo_MD n't_RB ._SENT 
+AMY_NN :_: Okay_NP ,_, what_WP if_IN you_PP do_VVP n't_RB come_VV back_RB to_TO life_NN ?_SENT What_WP if_IN 
+RORY_NN :_: I_PP trust_VVP you_PP ._SENT 
+AMY_NN :_: What_WP about_IN him_PP ?_SENT I_PP mean_VVP ,_, why_WRB do_VVP I_PP have_VHP to_TO be_VB the_DT one_CD ?_SENT Why_WRB do_VVP I_PP have_VHP 
+to_TO save_VV you_PP ?_SENT 
+RORY_NN :_: Because_IN I_PP know_VVP you_PP 'll_MD never_RB give_VV up_RP ._SENT 
+DOCTOR_NN :_: We_PP have_VHP to_TO send_VV this_DT ship_NN back_RB into_IN space_NN ._SENT Imagine_VV if_IN the_DT Siren_NP 
+got_VVN ashore_RB ._SENT She_PP would_MD have_VH to_TO process_VV every_DT injured_JJ human_NN ._SENT 
+AVERY_NP :_: What_WP about_RB Toby_NP ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP sorry_JJ ._SENT Typhoid_JJ fever_NN ._SENT Once_RB he_PP returns_VVZ it_PP 's_VBZ only_RB a_DT matter_NN of_IN 
+time_NN ._SENT 
+AVERY_NP :_: What_WP if_IN I_PP stay_VVP with_IN him_PP ,_, here_RB ._SENT The_DT Siren_NP will_MD look_VV after_IN him_PP ._SENT I_PP 
+ca_MD n't_RB go_VV back_RB to_TO England_NP ._SENT And_CC what_WP home_RB does_VVZ he_PP have_VHP now_RB ,_, if_IN not_RB with_IN 
+me_FW ?_SENT 
+DOCTOR_NN :_: Do_VVP you_PP think_VVP you_PP can_MD sail_VV this_DT thing_NN ?_SENT 
+AVERY_NN :_: Just_RB point_VVP me_PP to_TO the_DT atom_NN accelerator_NN ._SENT 
+RORY_NN :_: I_PP know_VVP you_PP can_MD do_VV this_DT ._SENT Of_IN course_NN ,_, if_IN you_PP muck_VVP it_PP up_IN I_PP am_VBP going_VVG 
+to_TO be_VB really_RB cross_VV ._SENT And_CC dead_JJ ._SENT 
+AMY_NN :_: I_PP 'll_MD see_VV you_PP in_IN a_DT minute_NN ._SENT 
+(_( The_DT Doctor_NP rips_NNS off_IN Rory_NP 's_POS restraints_NNS ._SENT They_PP get_VVP him_PP off_RP the_DT bed_NN and_CC 
+carry_VV him_PP into_IN -_: )_) 
+
+[_SYM Tardis_NP ]_SYM 
+
+(_( Where_WRB Amy_NP starts_VVZ CPR_NP ,_, doing_VVG 1_CD breath_NN to_TO 5_CD chest_NN 
+compressions_NNS ._SENT )_) 
+DOCTOR_NN :_: Come_VV on_RP ._SENT Come_VVN on_IN ,_, Rory_NP ._SENT Not_RB here_RB ._SENT Not_RB this_DT way_NN ._SENT Not_RB today_NN ._SENT 
+AMY_NN :_: He_PP trusted_VVD me_PP ._SENT He_PP trusted_VVD me_PP to_TO save_VV him_PP ._SENT 
+DOCTOR_NN :_: You_PP still_RB can_MD ._SENT You_PP can_MD still_RB do_VV this_DT ._SENT He_PP believes_VVZ in_IN you_PP ._SENT Come_VV 
+on_RB ,_, Amy_NP ._SENT Come_VVN on_IN !_SENT 
+AMY_NN :_: Please_UH ,_, please_UH ,_, please_UH wake_NN up_RB ._SENT Wake_NN up_RB ._SENT Wake_NN up_RB ._SENT Come_VVN on_IN ._SENT Come_VV 
+on_RB ._SENT 
+(_( But_CC finally_RB even_RB she_PP gives_VVZ up_RP ._SENT After_IN a_DT few_JJ moments_NNS ,_, Rory_NP starts_VVZ 
+coughing_VVG up_RP water_NN ._SENT )_) 
+RORY_NP :_: Amy_NP ._SENT Amy_NP ,_, you_PP did_VVD it_PP ._SENT You_PP did_VVD it_PP !_SENT 
+(_( Later_JJR ,_, Captain_NP Avery_NP has_VHZ control_NN of_IN the_DT spaceship_NN ,_, with_IN Toby_NP as_IN his_PP$ 
+co-pilot_NN ,_, still_RB attached_VVN to_TO his_PP$ life_NN support_NN mechanism_NN ._SENT The_DT rest_NN of_IN his_PP$ 
+crew_NN come_VVN to_TO watch_VV as_IN they_PP fly_VVP between_IN the_DT stars_NNS ._SENT )_) 
+AMY_NN :_: I_PP thought_VVD I_PP was_VBD an_DT excellent_JJ pirate_NN ._SENT 
+RORY_NN :_: I_PP thought_VVD you_PP were_VBD an_DT excellent_JJ nurse_NN ._SENT 
+AMY_NN :_: Easy_NP ,_, tiger_NN ._SENT Goodnight_NP ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Goodnight_NP ,_, Amelia_NP ._SENT 
+AMY_NN :_: You_PP only_RB call_VV me_PP Amelia_NP when_WRB you_PP 're_VBP worrying_VVG about_IN me_PP ._SENT 
+DOCTOR_NN :_: I_PP always_RB worry_VVP about_IN you_PP ._SENT 
+(_( Amy_NP remembers_VVZ the_DT moment_NN of_IN the_DT Doctor_NP 's_POS death_NN by_IN the_DT lake_NN ._SENT )_) 
+AMY_NN :_: Mutual_JJ ._SENT 
+DOCTOR_NN :_: Go_VV to_TO bed_NN ,_, Pond_NP ._SENT 
+RORY_NN :_: (_( sotto_NP )_) You_PP ca_MD n't_RB tell_VV him_PP ._SENT It_PP 's_VBZ his_PP$ future_NN ._SENT 
+AMY_NN :_: I_PP know_VVP ._SENT 
+(_( The_DT body_NN scan_NN is_VBZ still_RB undecided_JJ as_RB to_TO whether_IN Amy_NP is_VBZ pregnant_JJ or_CC 
+not_RB ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, Amelia_NP ._SENT 
+

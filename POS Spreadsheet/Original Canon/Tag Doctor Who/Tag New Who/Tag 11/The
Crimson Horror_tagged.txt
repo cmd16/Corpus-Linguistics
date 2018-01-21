@@ -1,0 +1,729 @@
+[_SYM Factory_NP 
+corridor_NN ]_SYM 
+(_( Yorkshire_NP 1893._CD In_IN a_DT small_JJ town_NN perched_VVN on_IN the_DT 
+side_NN of_IN a_DT hill_NN ,_, with_IN factories_NNS belching_VVG smoke_NN down_RB by_IN the_DT river_NN ._SENT )_) 
+EDMUND_NN :_: If_IN I_PP have_VHP not_RB returned_VVN in_IN an_DT hour_NN ,_, you_PP must_MD fetch_VV the_DT police_NN ._SENT 
+EFFIE_NP :_: Edmund_NP !_SENT 
+(_( She_PP kisses_VVZ her_PP$ husband_NN ._SENT )_) 
+EDMUND_NP :_: Do_VVP n't_RB fret_VV ,_, Effie_NP ,_, my_PP$ dear_NN ._SENT All_DT will_MD be_VB well_RB ,_, but_CC we_PP must_MD get_VV 
+to_TO the_DT bottom_NN of_IN this_DT dark_JJ and_CC queer_JJ business_NN no_DT matter_NN what_WP the_DT cost_NN ._SENT 
+(_( Edmund_NP walks_VVZ to_TO the_DT end_NN of_IN the_DT corridor_NN ,_, where_WRB there_EX is_VBZ a_DT room_NN with_IN a_DT 
+red_JJ glow_NN coming_VVG through_IN the_DT round_NN window_NN in_IN the_DT door_NN ._SENT He_PP goes_VVZ inside_RB ._SENT A_DT 
+door_NN opens_VVZ behind_IN Effie_NP and_CC a_DT group_NN of_IN ladies_NNS in_IN black_JJ gowns_NNS and_CC 
+bonnets_NNS step_VVP through_RP ._SENT )_) 
+EFFIE_NN :_: Mrs_NN Gillyflower_NN !_SENT 
+(_( An_DT elderly_JJ lady_NN ._SENT )_) 
+GILLYFLOWER_NN :_: We_PP have_VHP come_VVN about_IN your_PP$ husband_NN ,_, my_PP$ dear_NN ._SENT A_DT tragedy_NN ._SENT 
+EFFIE_NN :_: My_PP$ husband_NN ?_SENT 
+GILLYFLOWER_NN :_: Your_PP$ late_JJ husband_NN ._SENT 
+EFFIE_NN :_: There_EX must_MD be_VB some_DT mistake_NN ._SENT My_PP$ husband_NN is_VBZ quite_RB well_RB ._SENT 
+(_( A_DT scream_NN from_IN behind_IN the_DT door_NN ._SENT )_) 
+GILLYFLOWER_NN :_: We_PP 're_VBP so_RB very_RB sorry_JJ for_IN your_PP$ loss_NN ._SENT 
+(_( Effie_NP screams_VVZ ._SENT )_) 
+[_SYM Morgue_NP ]_SYM 
+(_( The_DT attendant_NN uncovers_VVZ the_DT corpse_NN of_IN Edmund_NP ._SENT He_PP 
+is_VBZ frozen_JJ mid-scream_NN and_CC staring_VVG ,_, and_CC his_PP$ skin_NN is_VBZ bright_JJ red_NN ._SENT )_) 
+AMOS_NNS :_: Hell_NN fire_NN ._SENT That_DT 's_VBZ put_VV me_PP right_RB off_IN me_PP mash_VVP ._SENT Another_DT one_CD ._SENT 
+THURSDAY_NN :_: Another_DT ?_SENT 
+(_( The_DT speaker_NN is_VBZ the_DT spitting_VVG image_NN of_IN the_DT late_JJ Edmund_NP ,_, but_CC with_IN a_DT 
+moustache_NN ._SENT )_) 
+AMOS_NNS :_: He_PP 's_VBZ not_RB the_DT first_JJ one_CD I_PP 've_VHP had_VHD in_IN here_RB looking_VVG like_IN that_DT ._SENT The_DT 
+Crimson_JJ Horror_NP ,_, that_WDT 's_VBZ what_WP they_PP 're_VBP calling_VVG it_PP ._SENT 
+THURSDAY_NN :_: I_PP have_VHP no_DT interest_NN in_IN the_DT deplorable_JJ excesses_NNS of_IN the_DT Penny_NP 
+Dreadfuls_NNS ._SENT 
+AMOS_NP :_: Hey_UH ,_, hey_UH ._SENT Payment_NN in_IN advance_NN ,_, flower_NN ._SENT Taking_VVG a_DT big_JJ risk_NN ,_, you_PP see_VVP ,_, 
+I_PP am_VBP ._SENT They_PP 'll_MD have_VH my_PP$ vitals_NNS for_IN fiddle-strings_NNS if_IN they_PP knew_VVD I_PP 'd_MD let_VV 
+you_PP come_VVP to_TO look_VV at_IN one_CD of_IN their_PP$ precious_JJ stiffs_NNS ._SENT 
+THURSDAY_NN :_: This_DT stiff_NN is_VBZ my_PP$ brother_NN ._SENT I_PP 've_VHP come_VVN up_RP from_IN London_NP to_TO bring_VV 
+him_PP home_RB ._SENT 
+AMOS_NP :_: Oh_UH aye_NN ?_SENT 
+[_SYM Conservatory_NP ]_SYM 
+(_( At_IN the_DT back_NN of_IN an_DT elegant_JJ house_NN -_: 13_CD Paternoster_NN 
+Row_NN ,_, London_NP ._SENT )_) 
+THURSDAY_NN :_: Thank_VV you_PP for_IN agreeing_VVG to_TO this_DT meeting_NN ._SENT I_PP 'm_VBP told_VVN you_PP are_VBP the_DT 
+investigator_NN to_TO see_VV if_IN there_EX are_VBP strange_JJ goings-on_NN ._SENT 
+(_( The_DT lady_NN of_IN the_DT house_NN is_VBZ heavily_RB veiled_VVN ._SENT )_) 
+VASTRA_NN :_: I_PP read_VVP of_IN your_PP$ brother_NN 's_POS death_NN ._SENT Another_DT victim_NN of_IN the_DT Crimson_NP 
+Horror_NN ,_, I_PP believe_VVP ._SENT 
+THURSDAY_NN :_: So_RB it_PP is_VBZ claimed_VVN ._SENT He_PP was_VBD a_DT newspaper_NN man_NN ._SENT He_PP and_CC a_DT young_JJ 
+woman_NN were_VBD working_VVG undercover_JJ ._SENT Tell_VV me_PP ,_, madam_NN ,_, do_VVP you_PP know_VVP what_WP an_DT 
+optogram_NN is_VBZ ?_SENT 
+VASTRA_NN :_: It_PP is_VBZ a_DT silly_JJ superstition_NN ,_, sir_NN ._SENT The_DT belief_NN that_IN/that the_DT eye_NN can_MD 
+retain_VV an_DT image_NN of_IN the_DT last_JJ thing_NN it_PP sees_VVZ ._SENT 
+(_( See_VV the_DT 
+Ark_NP In_IN Space_NP ._SENT Mister_NP Thursday_NP has_VHZ taken_VVN photographs_NNS of_IN his_PP$ 
+dead_JJ brother_NN Edmund_NP 's_POS staring_VVG eyes_NNS ._SENT He_PP passes_VVZ one_PP to_TO Jenny_NP the_DT maid_NN ,_, 
+who_WP hands_VVZ it_PP on_IN to_TO her_PP$ mistress_NN ._SENT Vastra_NP throws_VVZ back_VV her_PP$ veil_NN ._SENT )_) 
+VASTRA_NN :_: Good_JJ grief_NN ._SENT 
+THURSDAY_NP :_: Oh_UH ,_, god_NN ._SENT 
+(_( And_CC faints_NNS ._SENT )_) 
+[_SYM Dark_JJ room_NN ]_SYM 
+(_( Jenny_NP and_CC Vastra_NP make_VVP enlargements_NNS of_IN the_DT 
+photographs_NNS ._SENT )_) 
+JENNY_NN :_: Well_RB ,_, I_PP 'll_MD be_VB blowed_VVN ._SENT I_PP think_VVP ,_, madam_NN ,_, that_WDT we_PP 'd_MD better_RBR make_VV 
+plans_NNS to_TO head_VV north_RB ._SENT 
+(_( The_DT enlargement_NN reveals_VVZ an_DT image_NN of_IN a_DT red-faced_JJ ,_, screaming_VVG Doctor_NP ._SENT )_) 
+[_SYM Carriage_NP ]_SYM 
+VASTRA_NN :_: According_VVG to_TO my_PP$ research_NN ,_, Sweetville_NP 's_POS 
+proprietor_NN holds_VVZ recruitment_NN drives_NNS for_IN her_PP$ little_JJ community_NN ._SENT She_PP is_VBZ 
+only_RB interested_JJ in_IN the_DT fittest_JJS and_CC the_DT most_RBS beautiful_JJ ._SENT 
+STRAX_NN :_: You_PP may_MD rely_VV on_IN me_PP ,_, ma'am_NN ._SENT 
+VASTRA_NN :_: I_PP was_VBD ,_, in_IN fact_NN ,_, speaking_VVG to_TO Jenny_NP ._SENT 
+STRAX_NN :_: Jenny_NN ._SENT If_IN this_DT weak_JJ and_CC fleshy_JJ boy_NN is_VBZ to_TO represent_VV us_PP ,_, I_PP 
+strongly_RB recommend_VV the_DT issuing_VVG of_IN scissor_VV grenades_NNS ,_, limbo_NN vapour_NN and_NP 
+triple_JJ blast_NN brain_NN splitters_NNS ._SENT 
+VASTRA_NP :_: What_WP for_IN ?_SENT 
+STRAX_NN :_: Just_RB generally_RB ._SENT Remember_VV ,_, we_PP are_VBP going_VVG to_TO the_DT north_NN ._SENT 
+[_SYM Chapel_NP ]_SYM 
+(_( The_DT poster_NN advertising_VVG the_DT meeting_NN proclaims_VVZ Mrs_NN 
+Winifred_NP Gillyflower_NP on_IN the_DT Present_NN Moral_NP Decay_NP and_CC the_DT Coming_NP 
+Apocalypse_NN ._SENT )_) 
+GILLYFLOWER_NN :_: Bradford_NP ,_, that_DT Babylon_NN of_IN the_DT moderns_NNS with_IN its_PP$ crystal_NN 
+light_NN and_CC its_PP$ glitter_NN ,_, all_DT aswarm_JJ with_IN the_DT wretched_JJ ruins_NNS of_IN humanity_NN ._SENT 
+Men_NNS and_CC women_NNS crushed_VVN by_IN the_DT devil_NN 's_POS juggernaut_NN ._SENT 
+(_( She_PP has_VHZ a_DT good_JJ congregation_NN ,_, who_WP agree_VVP with_IN her_PP ._SENT Jenny_NP is_VBZ listening_VVG 
+carefully_RB ._SENT )_) 
+GILLYFLOWER_NN :_: And_CC moral_JJ turpitude_NN can_MD destroy_VV the_DT most_RBS delicate_JJ of_IN 
+lives_NNS ._SENT Believe_VV me_PP ,_, I_PP know_VVP ._SENT I_PP know_VVP ._SENT 
+(_( A_DT curtain_NN is_VBZ drawn_VVN back_RB ._SENT )_) 
+GILLYFLOWER_NN :_: Me_PP own_VVP daughter_NN ,_, blinded_VVN in_IN a_DT drunken_JJ rage_NN by_IN my_PP$ late_JJ 
+husband_NN ._SENT Her_PP once_RB beautiful_JJ eyes_NNS ,_, pale_JJ and_CC white_JJ as_IN mistletoe_NN berries_NNS ._SENT 
+(_( The_DT daughter_NN gets_VVZ up_RP from_IN a_DT chair_NN and_CC taps_VVZ her_PP$ way_NN to_TO a_DT covered_VVN 
+board_NN ._SENT )_) 
+GILLYFLOWER_NN :_: And_CC what_WP ,_, my_PP$ friends_NNS ,_, is_VBZ your_PP$ story_NN ?_SENT Will_MD you_PP be_VB found_VVN 
+wanting_VVG when_WRB the_DT End_NN of_IN Days_NNS is_VBZ come_VVN ,_, when_WRB judgement_NN rains_NNS down_RB upon_IN us_PP 
+all_RB ?_SENT Or_CC will_MD you_PP be_VB preserved_VVN against_IN the_DT coming_VVG apocalypse_NN ?_SENT Do_VV not_RB 
+despair_NN ._SENT I_PP offer_VVP a_DT way_NN out_RP ._SENT There_EX is_VBZ a_DT different_JJ path_NN ._SENT Sweetville_NP !_SENT 
+(_( The_DT blind_JJ woman_NN pulls_VVZ the_DT cover_NN from_IN an_DT illustration_NN of_IN an_DT ideal_NN 
+community_NN ._SENT Factory_NN with_IN two_CD rows_NNS of_IN terraced_VVN homes_NNS ,_, its_PP$ own_JJ chapel_JJ and_NP 
+bandstand_NN and_CC gardens_NNS ._SENT Think_VV along_IN the_DT lines_NNS of_IN the_DT original_JJ model_NN 
+village_NN of_IN Bourneville_NP ._SENT )_) 
+GILLYFLOWER_NN :_: Join_VV us_PP ._SENT Join_VV us_PP in_IN this_DT shining_VVG city_NN on_IN the_DT hill_NN ._SENT (_( sings_NNS )_) 
+Bring_VV me_PP my_PP$ bow_NN of_IN burning_VVG gold_NN ._SENT Bring_VV me_PP my_PP$ arrows_NNS of_IN desire_NN ._SENT 
+(_( Later_JJR ,_, the_DT congregation_NN are_VBP queuing_VVG up_RP in_IN front_NN of_IN the_DT pulpit_NN ._SENT )_) 
+GILLYFLOWER_NN :_: You_PP wish_VVP to_TO join_VV us_PP ,_, my_PP$ dear_NN ?_SENT 
+JENNY_NN :_: If_IN it_PP 's_VBZ all_PDT the_DT same_JJ with_IN you_PP ,_, ma'am_NN ._SENT 
+GILLYFLOWER_NN :_: Oh_UH yes_UH ,_, dear_RB ._SENT You_PP 'll_MD do_VV very_RB nicely_RB ._SENT 
+(_( Jenny_NP signs_VVZ the_DT big_JJ book_NN ._SENT )_) 
+[_SYM Carriage_NP ]_SYM 
+VASTRA_NN :_: If_IN our_PP$ stratagem_NN succeeds_VVZ ,_, Jenny_NP will_NN 
+infiltrate_VV deep_RB into_IN the_DT black_JJ heart_NN of_IN this_DT curious_JJ place_NN ._SENT 
+STRAX_NN :_: And_CC how_WRB will_MD she_PP locate_VV the_DT Doctor_NP ?_SENT 
+VASTRA_NN :_: To_TO find_VV him_PP ,_, she_PP needs_VVZ only_RB ignore_VV all_DT keep-out_JJ signs_NNS ,_, go_VVP 
+through_IN every_DT locked_JJ door_NN ,_, and_CC run_VV towards_IN any_DT form_NN of_IN danger_NN that_RB 
+presents_VVZ itself_PP ._SENT 
+STRAX_NN :_: :_: Business_NN as_IN usual_JJ ,_, then_RB ._SENT 
+VASTRA_NN :_: Business_NN as_IN usual_JJ ._SENT 
+[_SYM Outside_IN the_DT secret_JJ room_NN ]_SYM 
+(_( The_DT blind_JJ girl_NN makes_VVZ her_PP$ way_NN upstairs_NN with_IN a_DT 
+plate_NN of_IN food_NN and_CC goes_VVZ to_TO a_DT locked_JJ room_NN ._SENT She_PP lifts_VVZ a_DT hatch_NN at_IN the_DT base_NN 
+of_IN the_DT door_NN and_CC slides_VVZ the_DT plate_NN through_RB ._SENT )_) 
+ADA_NP :_: Did_VVD you_PP think_VVP I_PP 'd_VHD forgotten_VVN you_PP ,_, dear_JJ monster_NN ,_, hmm_NP ?_SENT 
+(_( There_EX is_VBZ a_DT crash_NN and_CC bang_NN inside_IN the_DT room_NN ,_, and_CC she_PP leaves_VVZ ._SENT )_) 
+[_SYM Outside_IN a_DT house_NN ]_SYM 
+(_( Mister_NP Thursday_NP knocks_VVZ on_IN the_DT door_NN ._SENT It_PP is_VBZ 
+opened_VVD ._SENT )_) 
+THURSDAY_NN :_: I_PP have_VHP travelled_VVN from_IN London_NP expressly_RB to_TO see_VV Madame_NN Vastra_NP ._SENT 
+If_IN you_PP 'd_MD be_VB so_RB kind_JJ as_RB to_TO announce_VV me_PP ,_, my_PP$ good_JJ man_NN ._SENT 
+(_( He_PP hands_VVZ over_IN his_PP$ card_NN ._SENT )_) 
+STRAX_NP :_: Whom_WP shall_MD I_PP say_VVP is_VBZ calling_VVG ?_SENT 
+(_( Mister_NP Thursday_NP sees_VVZ who_WP he_PP is_VBZ talking_VVG to_TO ,_, and_CC faints_NNS ._SENT )_) 
+[_SYM Drawing_NP room_NN ]_SYM 
+(_( Mister_NP Thursday_NP is_VBZ lying_VVG on_IN a_DT couch_NN ,_, being_VBG fanned_VVN 
+by_IN Strax_NP ._SENT )_) 
+STRAX_NN :_: It_PP asked_VVD for_IN permission_NN to_TO enter_VV and_CC then_RB it_PP fell_VVD over_RP ._SENT What_WP are_VBP 
+we_PP to_TO make_VV of_IN it_PP ?_SENT 
+VASTRA_NN :_: I_PP imagine_VVP Mister_NP Thursday_NP wants_VVZ to_TO know_VV what_WP progress_VVP we_PP are_VBP 
+making_VVG ._SENT The_DT question_NN is_VBZ ,_, how_WRB did_VVD the_DT Doctor_NP 's_POS image_NN come_VVP to_TO be_VB 
+preserved_VVN on_IN a_DT dead_JJ man_NN 's_POS eye_NN ?_SENT It_PP 's_VBZ a_DT scientific_JJ impossibility_NN ._SENT I_PP 
+wonder_VV how_WRB Jenny_NP is_VBZ getting_VVG on_RP ._SENT 
+STRAX_NN :_: If_IN she_PP has_VHZ n't_RB make_VV contact_NN by_IN nightfall_NN ,_, I_PP suggest_VVP a_DT massive_JJ 
+frontal_JJ assault_NN on_IN the_DT factory_NN ,_, madam_NN ._SENT Casualties_NNS can_MD be_VB kept_VVN to_TO 
+perhaps_RB as_RB little_JJ as_IN eighty_CD percent_NN ._SENT 
+VASTRA_NN :_: I_PP think_VVP there_EX may_MD be_VB subtler_JJR ways_NNS of_IN proceeding_NN ,_, Strax_NP ._SENT 
+STRAX_NN :_: Suit_VV yourself_PP ._SENT 
+[_SYM Factory_NP ]_SYM 
+(_( Prospective_JJ employees_NNS both_CC male_JJ and_CC female_JJ are_VBP 
+queuing_VVG up_RP ._SENT A_DT red-headed_JJ woman_NN is_VBZ talking_VVG to_TO Jenny_NP ._SENT )_) 
+ABIGAIL_NN :_: I_PP 'm_VBP dead_RB nervous_JJ ,_, are_VBP n't_RB you_PP ?_SENT They_PP have_VHP to_TO be_VB sure_JJ ,_, you_PP see_VVP ._SENT 
+Only_RB the_DT best_JJS for_IN Sweetville_NP ._SENT I_PP hope_VVP me_PP teeth_NNS do_VVP n't_RB let_VV me_PP down_RP ._SENT I_PP 'm_VBP 
+Abigail_NP ._SENT 
+JENNY_NN :_: Pleased_VVN to_TO meet_VV you_PP ._SENT 
+ABIGAIL_NN :_: You_PP 're_VBP not_RB local_JJ ,_, are_VBP you_PP ._SENT 
+JENNY_NN :_: Nah_NP ._SENT Up_RB from_IN London_NP ._SENT 
+ABIGAIL_NN :_: Different_JJ here_RB ,_, I_PP bet_VVD ._SENT 
+JENNY_NN :_: Yeah_UH ._SENT Like_IN a_DT bleeding_VVG horse_NN market_NN ._SENT Do_VV you_PP know_VV anyone_NN who_WP 's_VBZ 
+come_VVN to_TO live_VV here_RB ?_SENT In_IN Sweetville_NP ,_, I_PP mean_VVP ._SENT 
+ABIGAIL_NN :_: I_PP had_VHD a_DT pal_NN who_WP come_VVP here_RB three_CD month_NN back_RB ._SENT She_PP wrote_VVD to_TO tell_VV 
+me_PP how_WRB perfect_JJ it_PP all_DT were_VBD ._SENT Funny_JJ ,_, though_RB ._SENT I_PP 've_VHP not_RB heard_VVN a_DT peep_NN from_IN 
+her_PP since_RB ._SENT 
+PILGRIM_NN [_SYM OC_NP ]_SYM :_: Next_RB ,_, please_UH !_SENT 
+ABIGAIL_NN :_: Hang_VV on_IN ,_, we_PP 're_VBP moving_VVG ._SENT 
+(_( Jenny_NP steps_VVZ aside_RP to_TO a_DT door_NN and_CC gets_VVZ her_PP$ roll_NN of_IN lockpicking_JJ tools_NNS 
+out_RB ._SENT )_) 
+ABIGAIL_NN :_: What_WP 're_VBP you_PP doing_VVG ?_SENT 
+JENNY_NN :_: Do_VVP me_PP a_DT favour_NN ._SENT Cause_VV a_DT distraction_NN ._SENT 
+ABIGAIL_NN :_: What_WP ?_SENT 
+JENNY_NN :_: Swoon_NN ._SENT Have_VHP a_DT funny_JJ turn_NN ._SENT Fit_NN of_IN the_DT vapours_NNS ._SENT 
+ABIGAIL_NN :_: Are_VBP you_PP crackers_JJ ?_SENT 
+JENNY_NN :_: Go_VV on_RP ._SENT There_EX 's_VBZ a_DT guinea_NN in_IN it_PP for_IN you_PP ._SENT 
+ABIGAIL_NN :_: Done_VVN ._SENT 
+(_( Abigail_NN gasps_NNS for_IN breath_NN loudly_RB then_RB faints_VVZ ._SENT A_DT crowd_NN gathers_VVZ around_RP 
+her_PP and_CC Jenny_NP gets_VVZ through_IN the_DT locked_JJ door_NN ._SENT It_PP takes_VVZ her_PP to_TO the_DT factory_NN 
+floor_NN ,_, where_WRB the_DT deafening_VVG thumps_NNS of_IN machinery_NN are_VBP being_VBG broadcast_VVN 
+through_IN three_CD large_JJ gramophone_NN horns_NNS ._SENT There_EX is_VBZ nothing_NN else_RB here_RB ._SENT Jenny_NP 
+sees_VVZ two_CD men_NNS carry_VVP a_DT large_JJ bottle_NN of_IN red_JJ liquid_NN through_IN the_DT room_NN and_CC 
+get_VV into_IN a_DT lift_NN ._SENT )_) 
+[_SYM Morgue_NP ]_SYM 
+AMOS_NNS :_: Them_PP new_JJ manufacturers_NNS can_MD do_VV horrible_JJ 
+things_NNS to_TO a_DT person_NN ._SENT Horrible_JJ ._SENT I_PP 've_VHP pickled_VVN things_NNS in_IN here_RB that_WDT 'd_MD fair_VV 
+turn_VV your_PP$ hair_NN snowy_JJ as_IN top_NN of_IN Buckden_NP Pike_NP ._SENT 
+VASTRA_NN :_: You_PP know_VVP what_WP I_PP 'm_VBP looking_VVG for_IN ._SENT 
+AMOS_NP :_: Oh_UH ,_, aye_RB ._SENT All_RB them_PP bits_VVZ found_VVN in_IN t'canal_NN ._SENT The_DT Crimson_NP Horror_NP ._SENT 
+(_( He_PP hands_VVZ over_IN a_DT large_JJ bottle_NN half_NN full_JJ of_IN red_JJ liquid_NN ._SENT Vastra_NP throws_VVZ 
+back_RB her_PP$ veil_NN with_IN her_PP$ back_NN to_TO him_PP ._SENT )_) 
+VASTRA_NN :_: It_PP hardly_RB seems_VVZ possible_JJ ._SENT 
+AMOS_NNS :_: Eh_NNS ?_SENT 
+VASTRA_NN :_: I_PP think_VVP ,_, I_PP think_VVP I_PP 've_VHP seen_VVN these_DT symptoms_NNS before_RB ._SENT 
+AMOS_NP :_: Oh_UH aye_NN ?_SENT 
+VASTRA_NN :_: A_DT long_JJ time_NN ago_RB ._SENT 
+AMOS_NP :_: Oh_UH aye_NN ?_SENT How_WRB long_RB ?_SENT 
+(_( She_PP turns_VVZ around_RP ._SENT )_) 
+VASTRA_NN :_: About_RB sixty_CD five_CD million_CD years_NNS ._SENT 
+[_SYM Dining_JJ room_NN ]_SYM 
+(_( The_DT Gillyflower_NP ladies_NNS are_VBP eating_VVG their_PP$ soup_NN ._SENT )_) 
+ADA_NN :_: I_PP trust_VVP you_PP had_VHD a_DT pleasant_JJ day_NN ,_, Mama_NP ?_SENT 
+GILLYFLOWER_NN :_: Tolerable_JJ ._SENT 
+ADA_NP :_: Will_NP Mister_NP Sweet_NP ever_RB join_VV us_PP for_IN dinner_NN ,_, Mama_NP ?_SENT 
+GILLYFLOWER_NN :_: Mister_NP Sweet_NP is_VBZ rather_RB tired_JJ tonight_NN ,_, I_PP fear_VVP ._SENT 
+(_( His_PP$ place_NN at_IN the_DT head_NN of_IN the_DT table_NN is_VBZ set_VVN ,_, but_CC vacant_JJ ._SENT Mrs_NN Gillyflower_NN 
+knocks_NNS over_IN the_DT salt_NN dish_NN ._SENT )_) 
+GILLYFLOWER_NN :_: Dear_RB me_PP ._SENT How_WRB clumsy_JJ I_PP 'm_VBP getting_VVG ._SENT 
+(_( She_PP throws_VVZ a_DT pinch_NN of_IN salt_NN over_IN her_PP$ right_JJ shoulder_NN ._SENT )_) 
+GILLYFLOWER_NN :_: To_TO keep_VV the_DT Devil_NP at_IN bay_NN ._SENT 
+(_( A_DT manservant_NN nods_VVZ and_CC leaves_VVZ ._SENT Then_RB Mrs_NN Gillyflower_NN sprinkles_VVZ some_DT salt_NN 
+inside_IN her_PP$ clothes_NNS ._SENT )_) 
+[_SYM Outside_IN the_DT secret_JJ room_NN ]_SYM 
+(_( Jenny_NP has_VHZ taken_VVN the_DT lift_NN up_RB to_TO the_DT corridor_NN with_IN 
+the_DT red_JJ lit_NN door_NN ._SENT There_EX is_VBZ a_DT rhythmic_JJ thumping_JJ noise_NN coming_VVG from_IN above_JJ ,_, 
+so_RB she_PP climbs_VVZ a_DT spiral_NN staircase_NN to_TO another_DT floor_NN and_CC finds_VVZ another_DT 
+locked_JJ door_NN ._SENT The_DT one_CD with_IN the_DT hatch_NN at_IN the_DT bottom_NN ._SENT She_PP raises_VVZ the_DT hatch_NN 
+and_CC a_DT red_JJ hand_NN grabs_VVZ her_PP ._SENT She_PP struggles_VVZ free_JJ and_CC the_DT hatch_NN slides_NNS shut_VVD 
+again_RB ._SENT )_) 
+JENNY_NN :_: All_DT right_NN ,_, mate_NN ._SENT You_PP just_RB stay_VVP calm_VV now_RB ._SENT (_( thump_VV and_CC rattle_VV of_IN 
+chains_NNS )_) I_PP could_MD open_VV this_DT door_NN ._SENT Would_MD you_PP like_VV that_DT ?_SENT (_( thump_NN )_) Thought_NP 
+you_PP might_MD ._SENT But_CC you_PP and_CC me_PP has_VHZ got_VVN to_TO come_VV to_TO an_DT arrangement_NN ._SENT Savvy_JJ ?_SENT 
+(_( thump_VV )_) Now_RB ,_, you_PP stand_VVP well_RB back_RB ,_, do_VVP you_PP hear_VV me_PP ?_SENT I_PP do_VVP n't_RB mean_VV no_DT harm_NN 
+to_TO you_PP ,_, but_CC you_PP try_VVP anything_NN funny_JJ and_CC I_PP 'll_MD leave_VV you_PP here_RB to_TO rot_VV ._SENT Is_VBZ 
+that_IN/that understood_VVN ?_SENT (_( thump_VV ,_, thump_NN )_) Right_NP ._SENT 
+[_SYM Secret_JJ room_NN ]_SYM 
+JENNY_NN :_: Doctor_NN !_SENT 
+(_( The_DT Doctor_NP has_VHZ red_JJ skin_NN ,_, a_DT gaping_VVG mouth_NN ,_, and_CC is_VBZ very_RB stiff_JJ ._SENT He_PP is_VBZ in_IN 
+chains_NNS and_CC his_PP$ clothes_NNS are_VBP lying_VVG nearby_RB in_IN the_DT straw_NN ._SENT )_) 
+JENNY_NN :_: What_WP happened_VVD to_TO you_PP ?_SENT Ca_MD n't_RB you_PP speak_VVP ?_SENT 
+(_( His_PP$ skin_NN is_VBZ tough_JJ as_IN leather_NN ._SENT )_) 
+JENNY_NN :_: Right_RB ._SENT Right_RB ,_, we_PP 're_VBP getting_VVG out_RP of_IN here_RB ._SENT 
+[_SYM Factory_NP corridor_NN ]_SYM 
+(_( Jenny_NP helps_VVZ the_DT Doctor_NP stagger_NN stiff-legged_VVD along_RP 
+the_DT corridor_NN ._SENT )_) 
+JENNY_NN :_: Come_VV on_RP ._SENT 
+(_( The_DT lift_NN comes_VVZ up_RP ._SENT )_) 
+JENNY_NN :_: Come_VV on_RP !_SENT 
+(_( It_PP is_VBZ Ada_NP ._SENT She_PP hears_VVZ their_PP$ footsteps_NNS but_CC heads_NNS for_IN the_DT stairs_NNS while_NN 
+Jenny_NP guides_VVZ the_DT Doctor_NP into_IN the_DT red_JJ glow_NN room_NN ._SENT )_) 
+[_SYM Red_NP glow_NN room_NN ]_SYM 
+(_( Through_IN a_DT window_NN they_PP watch_VVP people_NNS on_IN a_DT frame_NN 
+being_VBG manoeuvred_VVN over_IN a_DT large_JJ vat_NN of_IN bubbling_VVG red_JJ liquid_NN ,_, then_RB lowered_VVN 
+in_RB ._SENT )_) 
+JENNY_NN :_: Oh_UH my_PP$ gawd_NNS ._SENT 
+(_( The_DT Doctor_NP struggles_VVZ to_TO point_VV at_IN a_DT row_NN of_IN metal_NN doors_NNS behind_IN them_PP ._SENT )_) 
+[_SYM Outside_IN the_DT secret_JJ room_NN ]_SYM 
+ADA_NN :_: You_PP are_VBP all_RB I_PP have_VHP ,_, monster_NN ,_, but_CC all_DT will_MD be_VB 
+well_UH ._SENT Imperfect_JJ as_IN we_PP are_VBP ,_, there_EX will_MD be_VB room_NN for_IN us_PP in_IN the_DT new_JJ 
+Jerusalem_NP ._SENT 
+(_( The_DT door_NN opens_VVZ under_IN her_PP$ touch_NN ._SENT )_) 
+[_SYM Secret_JJ room_NN ]_SYM 
+(_( She_PP discovers_VVZ the_DT empty_JJ shackles_NNS ._SENT )_) 
+ADA_NP :_: No._NN No_RB !_SENT Where_WRB are_VBP you_PP ,_, monster_NN ?_SENT Where_WRB are_VBP you_PP ?_SENT 
+[_SYM Red_NP glow_NN room_NN ]_SYM 
+JENNY_NN :_: What_WP is_VBZ it_PP ?_SENT You_PP want_VVP to_TO go_VV in_IN there_RB ?_SENT 
+(_( He_PP gets_VVZ inside_IN the_DT small_JJ space_NN ._SENT Jenny_NP gives_VVZ him_PP his_PP$ clothes_NNS ,_, and_CC with_IN 
+groans_NNS of_IN pain_NN he_PP powers_VVZ up_RP the_DT sonic_JJ screwdriver_NN ._SENT She_PP shuts_VVZ the_DT door_NN 
+and_CC hides_NNS as_IN two_CD men_NNS walk_VVP past_IN the_DT entrance_NN ._SENT A_DT green_JJ glow_NN comes_VVZ from_IN 
+the_DT porthole_NN in_IN the_DT metal_NN door_NN ._SENT Then_RB it_PP bursts_VVZ open_JJ and_CC a_DT normal_JJ 
+looking_VVG and_CC fully_RB dressed_VVN Doctor_NP bounces_VVZ out_RP ._SENT )_) 
+DOCTOR_NN :_: Ah_UH !_SENT Missed_VVD me_PP ?_SENT 
+JENNY_NN :_: Doctor_NN !_SENT 
+DOCTOR_NN :_: Jenny_NN ._SENT Jenny_NP ,_, Jenny_NP ,_, Jenny_NP ,_, Jenny_NP ._SENT Just_RB when_WRB you_PP think_VVP your_PP$ 
+favourite_JJ lock-picking_NN Victorian_JJ chambermaid_NN will_MD never_RB turn_VV up_RP ._SENT Jenny_NP ._SENT 
+
+(_( The_DT Doctor_NP takes_VVZ her_PP in_IN his_PP$ arms_NNS ,_, bends_VVZ her_PP$ backwards_JJ and_CC kisses_VVZ her_PP 
+long_JJ and_CC hard_JJ on_IN the_DT lips_NNS ._SENT She_PP slaps_VVZ his_PP$ face_NN ._SENT )_) 
+DOCTOR_NN :_: You_PP have_VHP no_DT idea_NN how_WRB good_JJ that_DT feels_NNS ._SENT Right_RB ._SENT Mrs_NN Gillyflower_NN ._SENT 
+We_PP 've_VHP got_VVN to_TO stop_VV her_PP ._SENT And_CC then_RB there_EX 's_VBZ Clara_NP ._SENT Poor_NP Clara_NP ._SENT Where_WRB 's_VBZ 
+Clara_NP ?_SENT 
+JENNY_NN :_: Clara_NP ?_SENT Doctor_NN ,_, wait_VV ._SENT 
+DOCTOR_NN :_: Ca_MD n't_RB ._SENT Clara_NP ._SENT Got_VVD to_TO find_VV ._SENT 
+JENNY_NN :_: What_WP happened_VVD to_TO you_PP ?_SENT How_WRB long_RB have_VHP you_PP been_VBN like_IN that_DT ?_SENT 
+DOCTOR_NN :_: Days_NNS ,_, weeks_NNS ,_, do_VVP n't_RB know_VV ._SENT Long_JJ story_NN ._SENT I_PP 'll_MD keep_VV it_PP short_JJ ._SENT 
+[_SYM The_NP Doctor_NP 's_POS story_NN ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ in_IN a_DT cobbled_VVN alley_NN ,_, in_RB 
+sepia_JJ with_IN tickly_JJ music_NN in_IN the_DT background_NN all_RB the_DT way_NN through_RB ._SENT )_) 
+DOCTOR_NN :_: Okay_JJ ,_, so_RB ._SENT Not_RB London_NP 1893._CD Yorkshire_NP 1893._CD Near_NP enough_NN ._SENT 
+CLARA_NN :_: You_PP 're_VBP making_VVG a_DT habit_NN of_IN this_DT ,_, getting_VVG us_PP lost_VVD ._SENT 
+DOCTOR_NN :_: Sorry_JJ ._SENT It_PP 's_VBZ much_RB better_JJR than_IN it_PP used_VVD to_TO be_VB ._SENT Ooo_NP ,_, I_PP once_RB spent_VVD a_DT 
+hell_NN of_IN a_DT long_JJ time_NN trying_VVG to_TO get_VV a_DT gobby_NN Australian_JJ to_TO Heathrow_NP 
+Airport_NP ._SENT 
+(_( That_WDT would_MD be_VB Tegan_NP Jovanka_NP ._SENT )_) 
+CLARA_NP :_: What_WP for_IN ?_SENT 
+DOCTOR_NN :_: Search_VV me_PP ._SENT Anyway_RB 
+(_( A_DT woman_NN screams_VVZ ._SENT )_) 
+DOCTOR_NN :_: Brave_JJ heart_NN ,_, Clara_NP ._SENT 
+(_( By_IN the_DT canal_NN ._SENT )_) 
+EDMUND_NN :_: It_PP 's_VBZ another_DT one_CD ._SENT Do_VV n't_RB you_PP see_VVP ?_SENT Another_DT victim_NN ._SENT Why_WRB wo_MD n't_RB any_RB 
+one_CD of_IN you_PP listen_VVP ?_SENT 
+DOCTOR_NN :_: We_PP 'll_MD listen_VV ._SENT 
+(_( They_PP walk_VVP and_CC talk_VVP on_IN the_DT way_NN to_TO the_DT Sweetville_NP main_JJ gates_NNS ._SENT )_) 
+EDMUND_NP :_: Mrs_NN Winifred_NP Gillyflower_NP ._SENT An_DT astonishing_JJ woman_NN ._SENT Prize_NN winning_NN 
+chemist_NN and_CC mechanical_JJ engineer_NN ._SENT So_RB why_WRB 
+DOCTOR_NN :_: Why_WRB has_VHZ she_PP decided_VVN to_TO open_VV up_RP a_DT match_NN factory_NN in_IN her_PP$ old_JJ home_NN 
+town_NN ._SENT 
+EDMUND_NP :_: And_CC no_DT one_CD who_WP ever_RB goes_VVZ to_TO live_VV there_RB ever_RB seems_VVZ to_TO come_VV out_RP ._SENT 
+(_( They_PP go_VVP to_TO the_DT morgue_NN ._SENT )_) 
+EDMUND_NP :_: Same_JJ as_IN the_DT rest_NN ._SENT All_DT dead_NN from_IN causes_NNS unknown_JJ and_CC their_PP$ flesh_NN 
+glowing_JJ ._SENT 
+AMOS_NNS :_: Like_IN something_NN manky_JJ in_IN a_DT coal_NN cellar_NN ._SENT They_PP keep_VVP turning_VVG up_RP in_IN 
+t'canal_JJ ._SENT The_DT Crimson_NP Horror_NP ._SENT 
+DOCTOR_NN :_: Ooo_NP ,_, good_JJ name_NN ._SENT Hey_UH ,_, that_WDT 's_VBZ good_JJ ,_, is_VBZ n't_RB it_PP ?_SENT The_DT Crimson_NP Horror_NP ._SENT 
+I_PP wonder_VVP what_WP it_PP is_VBZ ._SENT Do_VV you_PP know_VV the_DT old_JJ Romany_JJ superstition_NN ,_, Clara_NP ?_SENT 
+That_IN/that the_DT eye_NN of_IN a_DT dead_JJ person_NN retains_VVZ an_DT image_NN of_IN the_DT last_JJ thing_NN it_PP 
+sees_VVZ ._SENT Nonsense_NN ,_, of_IN course_NN ,_, unless_IN the_DT chemical_JJ composition_NN of_IN the_DT body_NN 
+has_VHZ been_VBN massively_RB corrupted_VVN ._SENT 
+(_( Clara_NP uses_VVZ the_DT Doctor_NP 's_POS magnifying_VVG glass_NN to_TO look_VV at_IN the_DT face_NN of_IN Mrs_NN 
+Gillyflower_NN in_IN the_DT dead_JJ woman_NN 's_POS eye_NN ._SENT The_DT Doctor_NP touches_VVZ her_PP$ skin_NN and_CC 
+the_DT red_NN comes_VVZ off_RP onto_IN his_PP$ white_JJ glove_NN ._SENT He_PP uses_VVZ someone_NN 's_POS chemistry_NN 
+lab_NN ._SENT )_) 
+DOCTOR_NN :_: Wow_NN ,_, this_DT is_VBZ nasty_JJ ._SENT An_DT organic_JJ poison_NN ._SENT A_DT sort_NN of_IN venom_NN ._SENT And_CC you_PP 
+think_VV it_PP 's_VBZ connected_VVN to_TO Sweetville_NP ?_SENT 
+EDMUND_NN :_: I_PP do_VVP ._SENT 
+DOCTOR_NN :_: Well_RB then_RB ,_, we_PP need_VVP a_DT plan_NN ._SENT 
+(_( They_PP visit_VVP Mrs_NN Gillyflower_NN at_IN home_NN ._SENT )_) 
+GILLYFLOWER_NN :_: Doctor_NN and_CC Mrs_NN Smith_NP ._SENT Oh_UH yes_UH ,_, you_PP 'll_MD do_VV very_RB nicely_RB ._SENT 
+(_( The_DT Doctor_NP does_VVZ his_PP$ best_JJS Michael_NP Palin_NP as_IN a_DT Yorkshireman_NN accent_NN ._SENT (_( 
+DOCTOR_NN :_: Oh_UH ,_, grand_JJ ._SENT Smashing_NN ._SENT Eh_NP ,_, the_DT missis_NN and_CC I_PP could_MD n't_RB be_VB more_JJR 
+chuffed_VVN ,_, could_MD we_PP ,_, love_VV ?_SENT 
+(_( Mrs_NN Gillyflower_NP leads_VVZ them_PP down_RP the_DT row_NN of_IN terraced_VVN homes_NNS ._SENT )_) 
+GILLYFLOWER_NN :_: Sweetville_NP will_MD provide_VV you_PP with_IN everything_NN you_PP need_VVP ._SENT You_PP 
+wo_MD n't_RB have_VH to_TO worry_VV about_IN a_DT thing_NN ever_RB again_RB ._SENT 
+CLARA_NN :_: The_DT name_NN ,_, Sweetville_NP ._SENT 
+GILLYFLOWER_NN :_: Yes_UH ?_SENT 
+CLARA_NP :_: Why_WRB not_RB name_VV it_PP after_IN yourself_PP ._SENT After_IN al_NP ,_, it_PP 's_VBZ your_PP$ creation_NN ._SENT 
+DOCTOR_NN :_: Gillyflowertown_NN ._SENT Gillyflowerland_NP ._SENT You_PP could_MD have_VH roller_NN 
+coasters_NNS ._SENT 
+GILLYFLOWER_NN :_: It_PP is_VBZ named_VVN in_IN tribute_NN to_TO my_PP$ partner_NN ._SENT 
+DOCTOR_NN :_: Your_PP$ late_JJ partner_NN ?_SENT 
+GILLYFLOWER_NN :_: No_UH ,_, my_PP$ silent_JJ partner_NN ._SENT Mister_NP Sweet_NP likes_VVZ to_TO keep_VV himself_PP 
+to_TO himself_PP ._SENT Shall_MD we_PP move_VV on_RP ?_SENT 
+DOCTOR_NN :_: Who_WP lives_VVZ here_RB ?_SENT 
+GILLYFLOWER_NN :_: Oh_UH ,_, names_NNS do_VVP n't_RB matter_VV here_RB ._SENT All_RB you_PP need_VVP to_TO know_VV is_VBZ we_PP 
+only_RB recruit_VV the_DT brightest_JJS and_CC the_DT best_JJS ._SENT 
+(_( She_PP opens_VVZ a_DT front_JJ door_NN to_TO reveal_VV a_DT single_JJ living_NN room_NN ._SENT The_DT man_NN and_CC 
+woman_NN are_VBP seated_VVN at_IN a_DT tea_NN table_NN ,_, under_IN a_DT giant_JJ bell_NN jar_NN ._SENT A_DT pump_NN is_VBZ 
+providing_VVG air_NN into_IN in_IN ._SENT Then_RB her_PP$ army_NN of_IN men_NNS and_CC women_NNS come_VVN for_IN the_DT 
+Doctor_NP and_CC Clara_NP ._SENT They_PP get_VVP knocked_VVN out_RP and_CC dunked_VVD in_IN the_DT red_JJ liquid_NN ,_, 
+except_IN the_DT Doctor_NP wakes_VVZ up_RP just_RB as_IN he_PP is_VBZ going_VVG under_IN ._SENT Later_RBR ,_, Clara_NP is_VBZ 
+with_IN the_DT other_JJ women_NNS ._SENT )_) 
+GILLYFLOWER_NN :_: Like_IN pretty_JJ maids_NNS all_RB in_IN a_DT row_NN ._SENT The_DT process_NN improves_VVZ with_IN 
+every_DT attempt_NN ._SENT Mister_NP Sweet_NP is_VBZ such_PDT a_DT clever_JJ old_JJ thing_NN ._SENT Oh_UH ,_, into_IN the_DT 
+canal_NN with_IN the_DT rejects_NNS ,_, Ada_NP ._SENT 
+ADA_NP :_: Yes_UH ._SENT 
+(_( But_CC one_CD of_IN the_DT rejects_NNS takes_VVZ Ada_NP 's_POS hand_NN ._SENT )_) 
+ADA_NP :_: Ma_NP ._SENT 
+(_( Ada_NP shackles_VVZ the_DT Doctor_NP in_IN the_DT secret_JJ room_NN ._SENT )_) 
+ADA_NN :_: Sometimes_RB the_DT preservation_NN process_NN goes_VVZ wrong_JJ ._SENT Only_RB Mister_NP Sweet_NP 
+knows_VVZ why_WRB ,_, and_CC only_RB Mama_NP is_VBZ allowed_VVN to_TO talk_VV to_TO Mister_NP Sweet_NP ._SENT But_CC if_IN 
+you_PP 're_VBP very_RB good_JJ ,_, you_PP can_MD stay_VV here_RB ._SENT You_PP 'll_MD be_VB my_PP$ secret_NN ._SENT My_PP$ special_JJ 
+monster_NN ._SENT Shush_VV ._SENT 
+(_( And_CC there_RB he_PP stays_VVZ until_IN Edmund_NP ,_, another_DT living_VVG reject_NN of_IN the_DT process_NN ,_, 
+bursts_NNS in_IN ._SENT Which_WDT is_VBZ why_WRB his_PP$ image_NN was_VBD in_IN Edmund_NP 's_POS eye_NN ._SENT )_) 
+[_SYM Factory_NP ]_SYM 
+DOCTOR_NN :_: Poor_NP Edmund_NP must_MD have_VH come_VVN looking_VVG for_IN us_PP 
+and_CC then_RB fallen_VVN into_IN a_DT vat_NN of_IN the_DT pure_JJ venom_NN ._SENT Or_CC was_VBD pushed_VVN ._SENT Did_VVD n't_RB 
+stand_VV a_DT chance_NN ._SENT 
+JENNY_NN :_: What_WP is_VBZ that_DT stuff_NN ,_, though_RB ?_SENT 
+DOCTOR_NN :_: Deadly_JJ poison_NN ._SENT And_CC Mrs_NN Gillyflower_NN 's_VHZ been_VBN dipping_VVG her_PP$ pilgrims_NNS 
+in_IN a_DT dilute_VV form_NN to_TO protect_VV them_PP ._SENT Preserve_VV them_PP ._SENT Process_NN did_VVD n't_RB work_VV on_RP 
+me_FW ._SENT Maybe_RB because_IN I_PP 'm_VBP not_RB human_JJ ._SENT I_PP ended_VVD up_RP on_IN the_DT reject_NN pile_NN ._SENT 
+JENNY_NN :_: Preserve_VV them_PP against_IN what_WP ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, according_VVG to_TO her_PP ,_, the_DT coming_VVG apocalypse_NN ._SENT 
+(_( The_DT Doctor_NP makes_VVZ the_DT universal_JJ cu-koo_NN gesture_NN ._SENT )_) 
+JENNY_NN :_: When_WRB the_DT End_NN of_IN Days_NNS is_VBZ come_VVN and_CC judgement_NN rains_NNS down_RB upon_IN us_PP 
+all_RB ._SENT 
+DOCTOR_NN :_: What_WP ?_SENT 
+JENNY_NN :_: Nothing_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, no._JJ What_WP ?_SENT 
+JENNY_NN :_: Something_NN Mrs_NN Gillyflower_NP said_VVD ._SENT One_CD of_IN her_PP$ sermons_NNS ._SENT Madame_NN will_MD 
+come_VV looking_VVG for_IN me_PP ._SENT We_PP 'd_MD best_RBS get_VV on_RP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, Clara_NP ._SENT Got_VVD to_TO find_VV Clara_NP ._SENT 
+JENNY_NN :_: But_CC ,_, Doctor_NP ._SENT Clara_NP 's_POS dead_NN ._SENT Is_VBZ n't_RB she_PP ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ complicated_JJ ._SENT 
+[_SYM Corporation_NP Way_NP ]_SYM 
+(_( Strax_NP is_VBZ driving_VVG the_DT carriage_NN when_WRB the_DT horse_NN 
+decided_VVN to_TO stop_VV ._SENT )_) 
+STRAX_NN :_: Horse_NN ,_, you_PP have_VHP failed_VVN in_IN your_PP$ mission_NN ._SENT We_PP are_VBP lost_VVN ,_, with_IN no_DT 
+sign_NN of_IN Sweetville_NP ._SENT Do_VV you_PP have_VHP any_DT final_JJ words_NNS before_IN your_PP$ summary_NN 
+execution_NN ?_SENT The_DT usual_JJ story_NN ._SENT Fourth_RB one_CD this_DT week_NN ,_, and_CC I_PP 'm_VBP not_RB even_RB 
+hungry_JJ ._SENT 
+(_( Strax_NP hefts_VVZ his_PP$ honking_VVG great_JJ gun_NN ._SENT )_) 
+URCHIN_NN :_: Sweetville_NP ,_, sir_NN ?_SENT 
+STRAX_NP :_: Do_VVP you_PP know_VVP it_PP ?_SENT 
+URCHIN_NN :_: Turn_VV around_RP when_WRB possible_JJ ._SENT Then_RB ,_, at_IN the_DT end_NN of_IN the_DT road_NN ,_, turn_NN 
+right_RB ._SENT 
+STRAX_NP :_: What_WP ?_SENT 
+URCHIN_NN :_: Bear_NP left_VVD for_IN a_DT quarter_NN of_IN a_DT mile_NN and_CC you_PP will_MD have_VH reached_VVN 
+your_PP$ destination_NN ._SENT 
+(_( Strax_NP invites_VVZ the_DT boy_NN ,_, whose_WP$ name_NN we_PP have_VHP already_RB guessed_VVN ,_, to_TO join_VV 
+him_PP ._SENT )_) 
+STRAX_NN :_: Thank_VV you_PP ._SENT What_WP is_VBZ your_PP$ name_NN ?_SENT 
+URCHIN_NN :_: Thomas_NP ,_, sir_NN ._SENT Thomas_NP Thomas_NP ._SENT 
+STRAX_NN :_: I_PP think_VVP you_PP will_MD do_VV well_RB ,_, Thomas_NP Thomas_NP ._SENT 
+[_SYM Sweetville_NP ]_SYM 
+JENNY_NN :_: Are_VBP we_PP talking_VVG about_IN the_DT same_JJ person_NN ?_SENT About_RB 
+that_DT Clara_NP ?_SENT Doctor_NN !_SENT 
+(_( He_PP runs_VVZ over_RP to_TO a_DT house_NN and_CC looks_VVZ inside_RB ._SENT )_) 
+DOCTOR_NN :_: I_PP could_MD n't_RB see_VV much_RB from_IN where_WRB I_PP was_VBD ,_, but_CC I_PP think_VVP she_PP survived_VVD 
+the_DT process_NN ._SENT She_PP must_MD be_VB here_RB somewhere_RB ._SENT 
+JENNY_NN :_: But_CC Clara_NP died_VVD ._SENT The_DT Ice_NP Lady_NP ?_SENT Doctor_NN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, it_PP 's_VBZ er_JJ ,_, it_PP 's_VBZ complicated_JJ ._SENT 
+[_SYM Terraced_JJ house_NN ]_SYM 
+(_( The_DT Doctor_NP bursts_VVZ in_IN to_TO find_VV Clara_NP in_IN a_DT bell_NN jar_NN 
+with_IN another_DT man_NN ._SENT He_PP breaks_VVZ it_PP with_IN a_DT chair_NN ._SENT )_) 
+[_SYM Secret_JJ room_NN ]_SYM 
+(_( Ada_NP is_VBZ still_RB sobbing_VVG over_IN her_PP$ missing_JJ monster_NN ._SENT )_) 
+GILLYFLOWER_NN :_: What_WP is_VBZ the_DT meaning_NN of_IN this_DT ?_SENT 
+ADA_NP :_: Oh_UH ,_, Mama_NP ,_, I_PP have_VHP been_VBN foolish_JJ ._SENT I_PP have_VHP formed_VVN a_DT sentimental_JJ 
+attachment_NN ._SENT 
+GILLYFLOWER_NN :_: An_DT attachment_NN ?_SENT To_TO whom_WP ?_SENT 
+ADA_NP :_: A_DT young_JJ man_NN ._SENT Unlike_IN the_DT others_NNS ,_, he_PP survived_VVD rejection_NN ._SENT He_PP must_MD be_VB 
+strong_JJ ._SENT Worthy_JJ of_IN salvation_NN ._SENT 
+GILLYFLOWER_NN :_: Wrecker_NN ._SENT Berserker_JJR !_SENT You_PP have_VHP loosed_VVN a_DT reject_NN onto_IN the_DT 
+outside_JJ world_NN ._SENT 
+ADA_NN :_: I_PP have_VHP disappointed_VVN you_PP ._SENT 
+GILLYFLOWER_NN :_: My_PP$ plans_NNS must_MD be_VB accelerated_VVN ._SENT Nothing_NN must_MD interfere_VV with_IN 
+the_DT Great_NP Work_NP ._SENT 
+ADA_NP :_: But_CC please_RB say_VVP there_EX is_VBZ still_RB room_NN for_IN me_PP in_IN your_PP$ new_JJ Eden_NP ,_, Mama_NP ._SENT 
+Promise_VV me_PP that_DT ._SENT 
+GILLYFLOWER_NN :_: I_PP 'll_MD set_VV my_PP$ pilgrims_NNS onto_IN him_PP ._SENT 
+ADA_NP :_: No_UH !_SENT 
+GILLYFLOWER_NN :_: Kindly_RB do_VVP not_RB claw_VV and_CC slobber_VV at_IN my_PP$ crinoline_NN ._SENT You_PP know_VVP I_PP 
+cannot_MD bear_VV to_TO look_VV at_IN sick_JJ people_NNS ._SENT 
+ADA_NP :_: Promise_VVP me_PP you_PP will_MD not_RB abandon_VV me_PP ,_, Mama_NP ._SENT Promise_VV me_PP that_DT ._SENT 
+GILLYFLOWER_NN :_: Do_VVP you_PP not_RB yet_RB understand_VV ?_SENT There_EX can_MD be_VB no_DT place_NN for_IN 
+people_NNS such_JJ as_IN you_PP ._SENT That_DT only_JJ perfection_NN is_VBZ good_JJ enough_RB for_IN myself_PP and_CC 
+Mister_NP Sweet_NP ._SENT The_DT bright_JJ day_NN is_VBZ done_VVN ,_, child_NN ,_, and_CC you_PP are_VBP for_IN the_DT dark_NN ._SENT 
+[_SYM Red_NP glow_NN room_NN ]_SYM 
+(_( They_PP have_VHP put_VVN Clara_NP into_IN a_DT metal_NN cubicle_NN ._SENT )_) 
+JENNY_NN :_: Can_MD she_PP be_VB revived_VVN ,_, like_IN you_PP were_VBD ?_SENT 
+DOCTOR_NN :_: I_PP hope_VVP so_RB ._SENT 
+(_( Pilgrims_NNS enter_VVP ._SENT )_) 
+JENNY_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, great_JJ ._SENT Great_JJ ._SENT Attack_NN of_IN the_DT supermodels_NNS ._SENT Time_NN for_IN a_DT plan_NN ._SENT 
+JENNY_NN :_: Nah_NP ,_, Doctor_NP ._SENT This_DT one_CD 's_VBZ on_IN me_PP ._SENT 
+(_( Jenny_NP removes_VVZ her_PP$ bonnet_NN and_CC dress_NN to_TO reveal_VV a_DT tight_JJ all_DT leather_NN 
+outfit_NN ._SENT She_PP deals_VVZ with_IN the_DT three_CD male_JJ pilgrims_NNS in_IN three_CD moves_NNS ._SENT )_) 
+DOCTOR_NN :_: That_WDT is_VBZ a_DT plan_NN ._SENT 
+(_( More_JJR pilgrims_NNS advance_NN ,_, with_IN rounders_NN bats_NNS ._SENT )_) 
+DOCTOR_NN :_: Okay_NP ,_, time_NN for_IN a_DT new_JJ plan_NN ._SENT Run_NN !_SENT 
+STRAX_NN [_SYM OC_NP ]_SYM :_: Sontar_NP ha_NP !_SENT 
+(_( Enter_VV Strax_NP ,_, in_IN his_PP$ Sontaran_NP armour_NN ,_, firing_VVG his_PP$ honking_VVG big_JJ gun_NN ._SENT The_DT 
+pilgrims_NNS flee_VVP ._SENT Vastra_NP is_VBZ close_RB behind_RB with_IN a_DT sword_NN ._SENT )_) 
+VASTRA_NN :_: Let_VV 's_VBZ go_VV ._SENT 
+JENNY_NN :_: No_UH ,_, ma'am_NN ._SENT We_PP 're_VBP not_RB escaping_VVG ._SENT We_PP 've_VHP got_VVN to_TO help_VV the_DT Doctor_NP with_IN 
+Clara_NP ._SENT 
+DOCTOR_NN :_: Long_JJ story_NN ._SENT 
+STRAX_NP :_: What_WP now_RB ,_, madam_NN ?_SENT We_PP could_MD lay_VV mimetic_JJ cluster_NN mines_NNS ._SENT 
+VASTRA_NN :_: Strax_NN ._SENT 
+STRAX_NN :_: Or_CC dig_NN trenches_NNS and_CC fill_VV them_PP with_IN acid_NN ._SENT 
+VASTRA_NN :_: Strax_NN !_SENT You_PP 're_VBP overexcited_JJ ._SENT Have_VHP you_PP been_VBN eating_VVG Miss_NP Jenny_NP 's_POS 
+sherbet_NN fancies_NNS again_RB ?_SENT 
+STRAX_NN :_: No._NN 
+VASTRA_NN :_: Go_VV outside_RB and_CC wait_VV for_IN me_PP until_IN I_PP call_VVP for_IN you_PP ._SENT 
+STRAX_NN :_: But_CC madam_NN ,_, I_PP 
+VASTRA_NN :_: Go_VV !_SENT 
+STRAX_NN :_: I_PP 'm_VBP going_VVG to_TO go_VV play_NN with_IN my_PP$ grenades_NNS ._SENT 
+(_( Strax_NP leaves_VVZ ._SENT )_) 
+DOCTOR_NN :_: Okay_JJ ,_, I_PP think_VVP she_PP 's_VBZ about_RB done_VVN ._SENT 
+(_( The_DT Doctor_NP opens_VVZ the_DT cubicle_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP know_VVP who_WP you_PP think_VVP she_PP is_VBZ ,_, but_CC she_PP is_VBZ n't_RB ._SENT She_PP ca_MD n't_RB be_VB ._SENT 
+VASTRA_NN :_: I_PP was_VBD right_JJ ,_, then_RB ._SENT You_PP and_CC Clara_NP have_VHP unfinished_JJ business_NN ._SENT 
+(_( Clara_NP falls_VVZ into_IN the_DT Doctor_NP 's_POS arms_NNS ._SENT )_) 
+DOCTOR_NN :_: There_RB ,_, there_RB ._SENT Hello_UH ,_, stranger_NN ._SENT 
+CLARA_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN :_: Ah_UH ha_NP ._SENT 
+CLARA_NP :_: Hi_UH ._SENT What_WP 's_VBZ going_VVG on_RP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, have_VHP n't_RB you_PP heard_VVD ,_, love_VVP ?_SENT There_EX 's_VBZ trouble_NN at_IN mill_NN ._SENT She_PP 's_VBZ a_DT 
+lizard_NN ._SENT 
+[_SYM Factory_NP corridor_NN ]_SYM 
+VASTRA_NN :_: My_PP$ people_NNS once_RB ruled_VVD this_DT world_NN ,_, as_RB well_RB 
+you_PP know_VVP ,_, but_CC we_PP did_VVD not_RB rule_VV it_PP alone_RB ._SENT Just_RB as_IN humanity_NN fights_NNS a_DT daily_NN 
+battle_NN against_IN nature_NN ,_, so_RB did_VVD we_PP ._SENT And_CC our_PP$ greatest_JJS plague_NN ,_, the_DT most_JJS 
+virulent_JJ enemy_NN ,_, was_VBD the_DT repulsive_JJ red_JJ leech_NN ._SENT 
+DOCTOR_NN :_: Ooo_NP ,_, the_DT Repulsive_NP Red_NP Leech_NP ._SENT Nah_NP ._SENT On_IN balance_NN I_PP think_VVP I_PP prefer_VVP 
+the_DT Crimson_NP Horror_NP ._SENT What_WP was_VBD it_PP ,_, exactly_RB ?_SENT 
+VASTRA_NN :_: A_DT tiny_JJ parasite_NN ._SENT It_PP infected_VVD our_PP$ drinking_NN water_NN ._SENT And_CC once_RB in_IN 
+our_PP$ systems_NNS ,_, it_PP secreted_VVD a_DT fatal_JJ poison_NN ._SENT 
+DOCTOR_NN :_: If_IN it_PP 's_VHZ been_VBN hanging_VVG around_RP ,_, lurking_VVG in_IN the_DT shadows_NNS ,_, maybe_RB it_PP 's_VBZ 
+evolved_VVD ._SENT Or_CC maybe_RB it_PP 's_VHZ had_VHN help_NN ._SENT 
+CLARA_NN :_: Doctor_NN ,_, I_PP 've_VHP been_VBN thinking_VVG ._SENT The_DT chimney_NN 
+DOCTOR_NN :_: Yeah_UH ,_, yeah_RB ,_, yeah_RB ,_, yeah_RB ,_, yeah_RB ._SENT Way_NN past_NN that_IN/that now_RB ._SENT Yucky_JJ red_NN 
+parasite_NN from_IN the_DT time_NN of_IN the_DT dinosaurs_NNS pitches_VVZ up_RP in_IN Victorian_JJ 
+Yorkshire_NP ._SENT Did_VVD n't_RB see_VV that_DT one_CD coming_VVG ._SENT 
+CLARA_NP :_: Yeah_UH ,_, but_CC the_DT chimney_NN 
+DOCTOR_NN :_: But_CC what_WP 's_VBZ the_DT connection_NN to_TO Mrs_NN Gillyflower_NP ?_SENT Judgement_NN will_MD 
+rain_NN down_RB on_IN us_PP all_RB ._SENT An_DT empty_JJ mill_NN ._SENT 
+CLARA_NN :_: A_DT chimney_NN that_WDT does_VVZ n't_RB blow_VV smoke_NN ._SENT 
+DOCTOR_NN :_: Clever_JJ clogs_NNS ._SENT 
+CLARA_NP :_: Missed_VVD me_PP ?_SENT 
+DOCTOR_NN :_: Yeah_UH ,_, lots_NNS ._SENT 
+[_SYM Boiler_NN room_NN ]_SYM 
+DOCTOR_NN :_: She_PP 's_VBZ going_VVG to_TO poison_VV the_DT air_NN ._SENT 
+JENNY_NN :_: How_WRB ?_SENT 
+(_( A_DT pilgrim_NN pulls_VVZ a_DT lever_NN ._SENT They_PP are_VBP looking_VVG at_IN the_DT base_NN of_IN a_DT rocket_NN ._SENT )_) 
+CLARA_NN :_: With_IN that_DT ,_, I_PP should_MD think_VV ._SENT 
+DOCTOR_NN :_: And_CC there_EX 's_VBZ the_DT poison_NN ._SENT All_DT right_NN ,_, gang_NN ,_, I_PP 've_VHP got_VVN a_DT plan_NN ._SENT 
+(_( They_PP stand_VVP up_RP and_CC something_NN metal_NN clatters_NNS ._SENT They_PP duck_VVP down_RB as_IN the_DT 
+pilgrims_NNS turn_VVP towards_IN the_DT sound_NN ._SENT )_) 
+DOCTOR_NN :_: Shush_VV ._SENT Okay_JJ ._SENT 
+(_( Mrs_NN Gillyflower_NP pulls_VVZ out_RP the_DT stops_NNS on_IN a_DT small_JJ pipe_NN organ_NN then_RB presses_VVZ 
+a_DT lever_NN ._SENT The_DT contraption_NN turns_VVZ to_TO present_VV a_DT control_NN board_NN to_TO her_PP ._SENT )_) 
+[_SYM Secret_JJ room_NN ]_SYM 
+(_( Ada_NP is_VBZ still_RB crying_VVG in_IN the_DT corner_NN when_WRB the_DT Doctor_NP 
+and_CC Clara_NP enter_VVP ._SENT )_) 
+ADA_NP :_: Who_WP is_VBZ that_RB ?_SENT Who_WP is_VBZ there_RB ?_SENT 
+(_( The_DT Doctor_NP takes_VVZ her_PP$ hand_NN and_CC runs_VVZ it_PP over_IN his_PP$ face_NN ._SENT )_) 
+ADA_NN :_: You_PP ._SENT It_PP 's_VBZ you_PP ._SENT My_PP$ monster_NN ._SENT You_PP 've_VHP come_VVN back_RB ._SENT But_CC you_PP 're_VBP 
+DOCTOR_NN :_: Warm_JJ ._SENT And_CC alive_JJ ,_, thanks_VVZ to_TO you_PP ,_, Ada_NP ._SENT You_PP saved_VVD me_PP from_IN your_PP$ 
+mother_NN 's_POS human_JJ rubbish_JJ tip_NN ._SENT Now_RB then_RB ,_, what_WP 's_VBZ wrong_JJ ?_SENT 
+ADA_NN :_: She_PP does_VVZ not_RB want_VV me_PP ,_, monster_NN ._SENT I_PP am_VBP not_RB to_TO be_VB chosen_VVN ._SENT Perhaps_RB it_PP 
+was_VBD my_PP$ own_JJ sin_NN ,_, the_DT blackness_NN in_IN my_PP$ heart_NN that_IN/that my_PP$ father_NN saw_VVD in_IN me_PP ._SENT 
+DOCTOR_NN :_: Ada_NP ,_, no._VVG That_DT 's_VBZ nonsense_JJ ._SENT Stupid_JJ ,_, backward_JJ nonsense_NN ,_, and_CC you_PP 
+know_VV it_PP ._SENT You_PP know_VVP it_PP ._SENT 
+CLARA_NP :_: What_WP is_VBZ it_PP ?_SENT 
+ADA_NP :_: Who_WP is_VBZ that_RB ?_SENT 
+CLARA_NN :_: I_PP 'm_VBP ,_, I_PP 'm_VBP a_DT friend_NN ._SENT A_DT friend_NN of_IN his_PP$ ._SENT 
+ADA_NN :_: Then_RB you_PP are_VBP fortunate_JJ indeed_RB ._SENT It_PP is_VBZ n't_RB good_JJ to_TO be_VB alone_RB ._SENT 
+DOCTOR_NN :_: Now_RB ,_, Ada_NP ,_, I_PP need_VVP you_PP to_TO tell_VV me_PP something_NN ._SENT Who_WP is_VBZ Mister_NP Sweet_NP ?_SENT 
+Ada_NP ?_SENT 
+ADA_NP :_: Oh_UH ,_, dear_JJ monster_NN 
+DOCTOR_NN :_: Please_UH ,_, tell_VV me_PP ._SENT 
+ADA_NN :_: I_PP cannot_MD ._SENT Even_RB now_RB ,_, I_PP cannot_MD ._SENT I_PP cannot_MD betray_VV Mama_NP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, come_VVP with_IN us_PP ,_, then_RB ._SENT There_EX 's_VBZ something_NN you_PP need_VVP to_TO know_VV ._SENT 
+[_SYM Drawing_NP room_NN ]_SYM 
+(_( This_DT is_VBZ where_WRB the_DT control_NN mechanism_NN is_VBZ ._SENT )_) 
+GILLYFLOWER_NN :_: Oh_UH ,_, you_PP do_VVP seem_VV to_TO keep_VV turning_VVG up_RP like_IN a_DT bad_JJ penny_NN ,_, young_JJ 
+man_UH ._SENT 
+DOCTOR_NN :_: Force_NN of_IN habit_NN ._SENT 
+GILLYFLOWER_NN :_: Can_MD I_PP offer_VV you_PP something_NN ?_SENT Tea_NN ?_SENT Seed_NN cake_NN ?_SENT Oh_UH ,_, a_DT glass_NN of_IN 
+Amontillado_NN ?_SENT 
+DOCTOR_NN :_: No_UH ,_, thanks_NNS ._SENT We_PP 've_VHP had_VHD a_DT skinful_NN already_RB ,_, as_IN you_PP might_MD say_VV ._SENT 
+GILLYFLOWER_NN :_: Ha_NP ,_, ha_NP ._SENT Very_RB funny_JJ ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT I_PP 'm_VBP the_DT Doctor_NP ,_, you_PP 're_VBP nuts_NNS and_CC I_PP 'm_VBP going_VVG to_TO stop_VV you_PP ._SENT 
+GILLYFLOWER_NN :_: I_PP 'm_VBP afraid_JJ Mister_NP Sweet_NP and_CC I_PP cannot_MD allow_VV that_DT ._SENT 
+DOCTOR_NN :_: Ah_UH ,_, yes_UH ._SENT Would_MD it_PP be_VB impolite_JJ to_TO ask_VV why_WRB you_PP and_CC Mister_NP Sweet_NP 
+are_VBP petrifying_VVG your_PP$ workforce_NN with_IN diluted_JJ prehistoric_JJ leech_NN venom_NN ?_SENT 
+CLARA_NN :_: So_RB when_WRB do_VVP we_PP get_VVP to_TO meet_VV him_PP ,_, this_DT silent_JJ partner_NN of_IN yours_PP$ ?_SENT 
+Why_WRB 's_VBZ he_PP so_RB shy_VVP ._SENT 
+GILLYFLOWER_NN :_: Mister_NP Sweet_NP is_VBZ always_RB with_IN us_PP ._SENT 
+DOCTOR_NN :_: You_PP seem_VVP to_TO have_VH a_DT very_RB close_JJ relationship_NN ,_, you_PP and_CC your_PP$ pal_NN ._SENT 
+GILLYFLOWER_NN :_: Oh_UH yes_UH ,_, Doctor_NP ._SENT Exceedingly_RB close_JJ ._SENT Symbiotic_JJ ,_, you_PP might_MD 
+say_VVP ._SENT 
+(_( She_PP opens_VVZ the_DT top_NN of_IN her_PP$ dress_NN to_TO reveal_VV a_DT large_JJ red_JJ leech_NN attached_VVN to_TO 
+her_PP$ skin_NN ._SENT Meanwhile_RB ,_, the_DT pilgrims_NNS continue_VVP to_TO load_VV bottles_NNS of_IN venom_NN 
+into_IN the_DT rocket_NN ._SENT )_) 
+CLARA_NP :_: Doctor_NP ,_, what_WP is_VBZ it_PP ?_SENT 
+GILLYFLOWER_NN :_: A_DT survivor_NN ._SENT He_PP has_VHZ grown_VVN fat_JJ on_IN the_DT filth_NN humanity_NN has_VHZ 
+pumped_VVN into_IN the_DT rivers_NNS ._SENT That_DT 's_VBZ where_WRB I_PP found_VVD him_PP ._SENT 
+DOCTOR_NN :_: Very_RB enterprising_JJ ._SENT 
+GILLYFLOWER_NN :_: His_PP$ needs_NNS are_VBP simple_JJ ,_, and_CC in_IN return_NN he_PP gives_VVZ me_PP his_PP$ 
+nectar_NN ._SENT 
+DOCTOR_NN :_: Mrs_NN Gillyflower_NN ,_, you_PP have_VHP no_DT idea_NN what_WP you_PP are_VBP dealing_VVG with_IN ._SENT In_RB 
+the_DT wrong_JJ hands_NNS ,_, that_DT venom_NN could_MD wipe_VV out_RP all_DT life_NN on_IN this_DT planet_NN ._SENT 
+(_( Mrs_NN Gillyflower_NP holds_VVZ out_RP her_PP$ hands_NNS ._SENT )_) 
+GILLYFLOWER_NN :_: Do_VVP you_PP know_VVP what_WP these_DT are_VBP ?_SENT Ha_NP ,_, ha_NP !_SENT The_DT wrong_JJ hands_NNS ._SENT 
+(_( She_PP goes_VVZ to_TO the_DT control_NN panel_NN and_CC pulls_VVZ a_DT lever_NN ._SENT Red_JJ lights_NNS come_VVN on_IN 
+all_PDT the_DT way_NN up_IN the_DT factory_NN chimney_NN ._SENT Young_NP Thomas_NP Thomas_NP points_VVZ them_PP out_RP 
+to_TO Strax_NP ._SENT )_) 
+DOCTOR_NN :_: Planning_VVG a_DT little_JJ fireworks_NN party_NN ,_, are_VBP we_PP ?_SENT 
+GILLYFLOWER_NN :_: You_PP have_VHP forced_VVN me_PP to_TO advance_VV the_DT Great_JJ Work_NN somewhat_RB ,_, 
+Doctor_NN ,_, but_CC my_PP$ colossal_JJ scheme_NN remains_VVZ as_IN it_PP was_VBD ._SENT My_PP$ rocket_NN will_MD 
+explode_VV high_JJ in_IN the_DT atmosphere_NN ,_, raining_VVG down_RP Mister_NP Sweet_NP 's_POS beneficence_NN 
+onto_IN all_DT humanity_NN ._SENT 
+CLARA_NN :_: And_CC wiping_VVG us_PP all_DT out_RP ._SENT You_PP ca_MD n't_RB !_SENT 
+GILLYFLOWER_NN :_: My_PP$ new_JJ Adam_NP and_CC Eves_NP will_MD sleep_VV for_IN but_CC a_DT few_JJ months_NNS 
+before_IN stepping_VVG out_RP into_IN a_DT golden_JJ dawn_NN ._SENT Is_VBZ it_PP not_RB beautiful_JJ ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: Now_RB ,_, tell_VV us_PP about_IN Ada_NP ,_, Mrs_NN Gillyflower_NN ._SENT 
+GILLYFLOWER_NN :_: What_WP ?_SENT 
+DOCTOR_NN :_: Your_PP$ daughter_NN ._SENT You_PP do_VVP remember_VV your_PP$ daughter_NN ?_SENT Tell_VV us_PP about_RB 
+your_PP$ daughter_NN ._SENT 
+GILLYFLOWER_NN :_: How_WRB can_MD you_PP speak_VV of_IN such_JJ trivia_NN when_WRB my_PP$ hour_NN is_VBZ at_IN hand_NN ?_SENT 
+The_DT child_NN is_VBZ of_IN no_DT consequence_NN ._SENT 
+DOCTOR_NN :_: Is_VBZ that_IN/that why_WRB you_PP experimented_VVD on_IN her_PP ?_SENT 
+CLARA_NP :_: Experimented_VVD ?_SENT 
+DOCTOR_NN :_: The_DT signs_NNS are_VBP all_RB there_RB ._SENT The_DT pattern_NN of_IN scarring_VVG ._SENT You_PP used_VVD her_PP 
+as_IN a_DT guinea_NN pig_NN ,_, did_VVD n't_RB you_PP ._SENT 
+CLARA_NP :_: God_NP ._SENT 
+GILLYFLOWER_NN :_: Sometimes_RB sacrifices_NNS must_MD be_VB made_VVN ._SENT 
+DOCTOR_NN :_: Sacrifices_NNS ?_SENT 
+GILLYFLOWER_NN :_: It_PP was_VBD necessary_JJ ._SENT I_PP had_VHD to_TO find_VV out_RP how_WRB much_JJ of_IN the_DT venom_NN 
+would_MD produce_VV an_DT anti-toxin_NN to_TO immunise_VV myself_PP ._SENT Do_VVP n't_RB you_PP see_VVP ?_SENT It_PP was_VBD 
+necessary_JJ !_SENT 
+ADA_NP :_: Mama_NN ?_SENT Is_VBZ it_PP ,_, is_VBZ it_PP true_JJ ?_SENT 
+GILLYFLOWER_NN :_: Ada_NP ._SENT 
+ADA_NN :_: It_PP is_VBZ ._SENT It_PP 's_VBZ true_JJ ._SENT True_UH ._SENT 
+GILLYFLOWER_NN :_: Ada_NP ,_, listen_VVP to_TO me_PP ._SENT 
+ADA_NN :_: You_PP hag_NN !_SENT You_PP perfidious_JJ hag_NN !_SENT You_PP virago_NN !_SENT You_PP harpy_NN !_SENT All_PDT these_DT 
+years_NNS I_PP have_VHP helped_VVN you_PP ,_, served_VVD you_PP ,_, looked_VVN after_IN you_PP ._SENT Do_VV they_PP count_VV 
+for_IN nothing_NN ,_, nothing_NN at_IN all_DT ?_SENT 
+(_( Ada_NP starts_VVZ slashing_VVG at_IN her_PP$ mother_NN with_IN her_PP$ white_JJ stick_NN ._SENT )_) 
+GILLYFLOWER_NN :_: No_UH ,_, stop_VV ._SENT Stop_VV ._SENT 
+(_( Clara_NP runs_VVZ forward_RB ._SENT )_) 
+DOCTOR_NN :_: Hang_VV on_IN ,_, I_PP 've_VHP got_VVN a_DT sonic_JJ screwdriver_NN ._SENT 
+CLARA_NP :_: Yeah_UH ?_SENT I_PP 've_VHP got_VVN a_DT chair_NN !_SENT 
+(_( Clara_NP smashes_VVZ it_PP into_IN the_DT control_NN panel_NN ,_, with_IN a_DT satisfying_JJ shower_NN of_IN 
+sparks_NNS ._SENT )_) 
+GILLYFLOWER_NN :_: No_UH !_SENT 
+DOCTOR_NN :_: Yeah_UH ._SENT That_DT worked_VVD ._SENT I_PP 'm_VBP afraid_JJ your_PP$ rocket_NN is_VBZ n't_RB going_VVG anywhere_RB ,_, 
+Mrs_NN G_NN ._SENT 
+GILLYFLOWER_NN :_: Please_UH ,_, come_VV to_TO me_PP ,_, Ada_NP ._SENT Oh_UH ,_, my_PP$ child_NN ._SENT You_PP have_VHP always_RB 
+been_VBN so_RB very_RB useful_JJ ._SENT 
+(_( Mrs_NN Gillyflower_NP puts_VVZ a_DT small_JJ revolver_NN to_TO Ada_NP 's_POS head_NN ._SENT )_) 
+DOCTOR_NN :_: No_UH ,_, Mrs_NN Gillyflower_NN ._SENT 
+ADA_NP :_: Please_UH ,_, Mama_NP ._SENT No_RB more_RBR ._SENT No_RB more_RBR ._SENT 
+GILLYFLOWER_NN :_: And_CC now_RB ,_, if_IN you_PP 'll_MD please_VV forgive_VV us_PP ,_, we_PP must_MD be_VB going_VVG ._SENT It_PP 
+is_VBZ long_RB past_JJ Ada_NP 's_POS bedtime_NN ._SENT 
+(_( Mrs_NN Gillyflower_NP forces_VVZ Ada_NP out_IN of_IN the_DT room_NN and_CC locks_VVZ the_DT door_NN behind_RB 
+her_PP ._SENT )_) 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, Clara_NP ._SENT If_IN we_PP follow_VVP straight_RB after_IN her_PP ,_, she_PP 'll_MD shoot_VV 
+Ada_NP on_IN the_DT spot_NN ._SENT 
+CLARA_NN :_: She_PP would_MD n't_RB ._SENT 
+DOCTOR_NN :_: She_PP would_MD ._SENT Chairs_NNS are_VBP useful_JJ ._SENT 
+(_( He_PP pulls_VVZ the_DT chair_NN out_RP of_IN the_DT panel_NN and_CC uses_VVZ it_PP to_TO break_VV the_DT window_NN ._SENT )_) 
+[_SYM Factory_NP ]_SYM 
+GILLYFLOWER_NN :_: Come_VV along_RB ,_, Ada_NP ._SENT Do_VV n't_RB dawdle_VV ._SENT 
+ADA_NP :_: Please_UH ,_, Mama_NP ,_, stop_NN ._SENT 
+GILLYFLOWER_NN :_: Has_VHZ the_DT venom_NN been_VBN loaded_VVN ?_SENT 
+PILGRIM_NN :_: Yes_UH ,_, ma'am_NN ._SENT 
+GILLYFLOWER_NN :_: Then_RB heaven_NN awaits_VVZ you_PP ._SENT 
+[_SYM By_IN the_DT rocket_NN ]_SYM 
+(_( Mrs_NN Gillyflower_NP drags_VVZ Ada_NP up_IN the_DT staircase_NN 
+encircling_VVG the_DT rocket_NN ._SENT The_DT Doctor_NP and_CC Clara_NP run_VVP through_IN Sweetville_NP and_NP 
+get_VV to_TO the_DT bottom_NN of_IN the_DT stairs_NNS ._SENT )_) 
+GILLYFLOWER_NN :_: Stop_VV !_SENT 
+DOCTOR_NN :_: Just_RB let_VV her_PP go_VV ,_, Mrs_NN Gillyflower_NN ._SENT Let_VV Ada_NP go_VV ._SENT 
+GILLYFLOWER_NN :_: Secondary_JJ firing_NN mechanism_NN ,_, Doctor_NP ._SENT Mister_NP Sweet_NP and_CC I_PP are_VBP 
+too_RB smart_JJ for_IN you_PP ,_, after_IN all_DT ._SENT 
+DOCTOR_NN :_: Just_RB let_VV your_PP$ daughter_NN go_NN ,_, Mrs_NN Gillyflower_NN ._SENT 
+(_( Ada_NP gets_VVZ free_JJ and_CC stumbles_VVZ down_RP to_TO the_DT corner_NN between_IN the_DT Doctor_NP and_NP 
+Mrs_NN Gillyflower_NP ._SENT )_) 
+GILLYFLOWER_NN :_: Ada_NP !_SENT 
+ADA_NN :_: Shoot_VV if_IN you_PP wish_VVP ,_, Mama_NP ._SENT It_PP is_VBZ of_IN no_DT matter_NN ,_, for_IN you_PP killed_VVD me_PP a_DT 
+long_JJ time_NN ago_RB ._SENT 
+(_( Mrs_NN Gillyflower_NP shoots_VVZ at_IN the_DT Doctor_NP ,_, making_VVG him_PP retreat_NN ._SENT )_) 
+GILLYFLOWER_NN :_: (_( sings_NNS )_) I_PP 'll_MD labour_VV night_NN and_CC day_NN to_TO be_VB a_DT pilgrim_NN ._SENT 
+(_( The_DT Doctor_NP gets_VVZ to_TO Ada_NP as_IN Mrs_NN Gillyflower_NP pulls_VVZ the_DT lever_NN and_CC the_DT 
+rocket_NN 's_POS engines_NNS ignite_VVP ._SENT He_PP shields_VVZ her_PP with_IN his_PP$ body_NN as_IN it_PP takes_VVZ off_RP ,_, 
+with_IN so_RB little_JJ flame_NN as_RB to_TO not_RB even_RB singe_VV any_DT of_IN them_PP as_IN it_PP passes_VVZ mere_JJ 
+inches_NNS away_RB ._SENT )_) 
+GILLYFLOWER_NN :_: Now_RB ,_, Mister_NP Sweet_NP ,_, now_RB the_DT whole_JJ world_NN will_MD taste_VV your_PP$ 
+lethal_JJ kiss_NN !_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB think_VV so_RB ,_, Mrs_NN Gillyflower_NN ._SENT 
+(_( The_DT Doctor_NP snaps_VVZ his_PP$ fingers_NNS ._SENT Jenny_NP and_CC Vastra_NP appear_VVP ,_, in_IN pilgrim_NN 
+clothes_NNS ,_, holding_VVG a_DT bottle_NN of_IN venom_NN ._SENT )_) 
+GILLYFLOWER_NN :_: Very_RB well_RB ,_, then_RB ._SENT If_IN I_PP ca_MD n't_RB take_VV the_DT world_NN with_IN me_PP ,_, you_PP 
+will_MD have_VH to_TO do_VV ._SENT Die_VV ,_, you_PP freaks_VVZ ._SENT Die_VV !_SENT Die_VV !_SENT 
+(_( Strax_NP points_VVZ his_PP$ honking_VVG big_JJ gun_NN down_IN the_DT chimney_NN ._SENT )_) 
+STRAX_NN :_: Put_VV down_RP your_PP$ weapon_NN ,_, human_JJ female_NN ._SENT 
+(_( Mrs_NN Gillyflower_NN shoots_NNS at_IN Strax_NP ._SENT He_PP returns_VVZ fire_NN ,_, sending_VVG her_PP$ tumbling_VVG 
+over_IN the_DT railing_NN to_TO the_DT floor_NN two_CD stories_NNS below_RB ._SENT )_) 
+DOCTOR_NN :_: Ouch_NN ._SENT 
+(_( The_DT leech_NN detaches_VVZ itself_PP from_IN her_PP ,_, and_CC drags_VVZ itself_PP across_IN the_DT floor_NN 
+by_IN its_PP$ suckered_VVN forelimbs_NNS ._SENT )_) 
+GILLYFLOWER_NN :_: No._NN No._NN Mister_NP Sweet_NP ,_, where_WRB are_VBP you_PP going_VVG ?_SENT You_PP ca_MD n't_RB leave_VV 
+me_PP now_RB ,_, Mister_NP Sweet_NP ._SENT 
+CLARA_NP :_: What_WP 's_VBZ it_PP doing_VVG ?_SENT 
+DOCTOR_NN :_: It_PP knows_VVZ she_PP 's_VBZ dying_VVG ._SENT She_PP 's_VBZ no_RB longer_RBR of_IN any_DT use_NN to_TO it_PP ._SENT 
+GILLYFLOWER_NN :_: Mister_NP Sweet_NP ._SENT Ada_NP ?_SENT 
+(_( Ada_NP taps_VVZ her_PP$ way_NN down_IN the_DT stairs_NNS ._SENT )_) 
+GILLYFLOWER_NN :_: Ada_NP ._SENT Are_VBP you_PP there_RB ?_SENT 
+ADA_NN :_: I_PP 'm_VBP here_RB ,_, Mama_NP ._SENT 
+GILLYFLOWER_NN :_: Forgive_VV me_PP ,_, my_PP$ child_NN ._SENT Forgive_VV me_PP ._SENT 
+ADA_NN :_: Never_RB ._SENT 
+GILLYFLOWER_NN :_: That_WDT 's_VBZ my_PP$ girl_NN ._SENT 
+(_( Mrs_NN Winifred_NP Gillyflower_NP dies_VVZ ._SENT The_DT rocket_NN explodes_VVZ in_IN the_DT sky_NN ._SENT )_) 
+JENNY_NN :_: What_WP will_MD you_PP do_VV with_IN that_DT thing_NN ?_SENT 
+DOCTOR_NN :_: Take_VV it_PP back_RB to_TO the_DT Jurassic_JJ era_NN ,_, maybe_RB ._SENT Out_RB of_IN harm_NN 's_POS way_NN ._SENT 
+(_( Ada_NP taps_VVZ her_PP$ way_NN across_IN the_DT floor_NN until_IN her_PP$ stick_NN finds_VVZ something_NN 
+squishy_JJ ._SENT She_PP smashes_VVZ the_DT leech_NN to_TO smithereens_NN ._SENT )_) 
+DOCTOR_NN :_: On_IN the_DT other_JJ hand_NN 
+[_SYM Alleyway_NP ]_SYM 
+DOCTOR_NN :_: Right_RB ._SENT Right_RB ,_, London_NP ._SENT We_PP were_VBD heading_VVG for_IN 
+London_NP ,_, were_VBD n't_RB we_PP ?_SENT 
+CLARA_NP :_: Was_VBD there_RB any_DT particular_JJ reason_NN ?_SENT 
+DOCTOR_NN :_: No._NN No._NN Just_RB thought_VVD you_PP might_MD like_VV it_PP ._SENT 
+CLARA_NP :_: Yeah_UH ._SENT Maybe_RB had_VHD enough_JJ of_IN Victorian_JJ values_NNS for_IN a_DT bit_NN ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP the_DT boss_NN ._SENT 
+CLARA_NP :_: Am_VBP I_PP ?_SENT 
+DOCTOR_NN :_: No._NN No._NN Get_VVP in_IN ._SENT 
+(_( Clara_NP enters_VVZ the_DT Tardis_NP ._SENT The_DT Doctor_NP walks_VVZ back_RB to_TO Ada_NP and_CC the_DT 
+Paternoster_NN Gang_NP ._SENT )_) 
+DOCTOR_NN :_: Now_RB ,_, Ada_NP ,_, I_PP 'd_MD love_VV to_TO stay_VV and_CC help_VV clear_VV up_RP the_DT mess_NN ,_, but_RB 
+ADA_NN :_: I_PP know_VVP ,_, dear_JJ monster_NN ._SENT You_PP have_VHP things_NNS to_TO do_VV ._SENT 
+DOCTOR_NN :_: And_CC what_WP about_IN you_PP ?_SENT 
+ADA_NP :_: Oh_UH ,_, there_EX are_VBP many_JJ things_NNS a_DT bright_JJ young_JJ lady_NN can_MD do_VV to_TO occupy_VV her_PP 
+time_NN ._SENT It_PP 's_VBZ time_NN I_PP stepped_VVD out_RP of_IN the_DT darkness_NN and_CC into_IN the_DT light_NN ._SENT 
+DOCTOR_NN :_: Good_JJ luck_NN ,_, Ada_NP ._SENT You_PP know_VVP ,_, I_PP think_VVP you_PP will_MD be_VB just_RB 
+(_( He_PP kisses_VVZ her_PP$ cheek_NN ._SENT )_) 
+DOCTOR_NN :_: Splendid_JJ ._SENT Well_RB ,_, thanks_VVZ a_DT million_CD ,_, you_PP three_CD ,_, as_RB ever_RB ._SENT Have_VHP some_DT 
+Pontefract_NP cakes_VVZ on_IN me_PP ._SENT I_PP love_VVP Pontefract_NP cakes_NNS ._SENT See_VV you_PP around_RP ,_, eh_NP ,_, I_NP 
+should_MD n't_RB wonder_VV ._SENT 
+JENNY_NN :_: But_CC Doctor_NP ._SENT That_DT girl_NN ,_, Clara_NP ._SENT You_PP have_VHP n't_RB explained_VVN ._SENT 
+DOCTOR_NN :_: No_UH ,_, I_PP have_VHP n't_RB ._SENT 
+(_( He_PP goes_VVZ to_TO the_DT Tardis_NP ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, look_VV at_IN the_DT muck_NN in_IN here_RB ._SENT Right_RB !_SENT 
+(_( He_PP goes_VVZ into_IN the_DT Tardis_NP ._SENT Strax_NP takes_VVZ the_DT bottle_NN of_IN venom_NN from_IN Vastra_NP ._SENT )_) 
+
+STRAX_NN :_: Another_DT one_CD for_IN the_DT vault_NN ._SENT 
+THURSDAY_NP :_: Ah_UH ,_, there_RB you_PP are_VBP ._SENT I_PP called_VVD to_TO see_VV whether_IN there_EX had_VHD been_VBN any_DT 
+progress_NN ._SENT 
+(_( The_DT Tardis_NP dematerialises_VVZ ._SENT He_PP faints_VVZ ._SENT )_) 
+[_SYM Maitland_NP home_NN ]_SYM 
+(_( Clara_NP enters_VVZ ._SENT )_) 
+CLARA_NN :_: The_DT boss_NN ._SENT Yep_NP ,_, that_WDT 's_VBZ me_PP ._SENT 
+(_( Outside_JJ ,_, the_DT Tardis_NP dematerialises_VVZ ._SENT )_) 
+CLARA_NN :_: I_PP am_VBP the_DT boss_NN ._SENT 
+(_( Then_RB she_PP spots_VVZ the_DT laptop_NN that_IN/that the_DT children_NNS have_VHP left_VVN open_RP ._SENT On_IN the_DT 
+screen_NN are_VBP photographs_NNS of_IN her_PP and_CC the_DT Doctor_NP from_IN their_PP$ recent_JJ 
+adventures_NNS ._SENT 1983_CD Firebird_NN -_: the_DT Russian_NP Submarine_NP ,_, the_DT haunted_JJ house_NN ._SENT )_) 
+ANGIE_NN :_: It_PP 's_VBZ you_PP ,_, is_VBZ n't_RB it_PP ._SENT It_PP 's_VBZ from_IN the_DT seventies_NNS ,_, but_CC it_PP 's_VBZ definitely_RB 
+you_PP ._SENT 
+CLARA_NN :_: Of_IN course_NN it_PP 's_VBZ not_RB ._SENT 
+ARTIE_NN :_: And_CC that_WDT 's_VBZ you_PP too_RB ,_, from_IN 1983._CD I_PP found_VVD it_PP at_IN school_NN ._SENT 
+CLARA_NP :_: No_UH ,_, that_WDT 's_VBZ just_RB someone_NN who_WP looks_VVZ like_IN me_PP ._SENT 
+ANGIE_NP :_: And_CC that_DT 's_VBZ someone_NN that_WDT looks_VVZ like_IN your_PP$ boyfriend_NN ._SENT 
+ARTIE_NN :_: Is_VBZ he_PP an_DT alien_NN ?_SENT 
+ANGIE_NP :_: Why_WRB would_MD he_PP be_VB an_DT alien_NN ?_SENT 
+ARTIE_NN :_: The_DT chin_NN ._SENT 
+ANGIE_NP :_: And_CC the_DT time_NN travel_NN ?_SENT 
+(_( Angie_NP clicks_VVZ on_IN a_DT third_JJ image_NN ,_, of_IN Victorian_JJ Governess_NP Clara_NP ._SENT )_) 
+CLARA_NP :_: That_WDT 's_VBZ not_RB right_JJ ._SENT 
+ANGIE_NN :_: You_PP were_VBD in_IN Victorian_JJ London_NP ._SENT 
+CLARA_NP :_: No_UH ,_, I_PP was_VBD in_IN Victorian_JJ Yorkshire_NP ._SENT 
+ANGIE_NP :_: How_WRB come_VVP you_PP did_VVD n't_RB tell_VV us_PP ?_SENT 
+ARTIE_NN :_: Time_NN travel_NN ,_, that_WDT 's_VBZ so_RB cool_JJ ._SENT 
+ANGIE_NP :_: Can_MD we_PP have_VH a_DT go_NN ?_SENT 
+CLARA_NN :_: Can_MD you_PP have_VH a_DT what_WP ?_SENT 
+ARTIE_NN :_: We_PP want_VVP a_DT shot_NN at_IN the_DT time_NN machine_NN ._SENT 
+CLARA_NP :_: No_UH ,_, no_UH ,_, no_UH ,_, no._NP Listen_NP 
+ANGIE_NP :_: Okay_JJ ._SENT Or_CC ,_, we_PP 'll_MD have_VH to_TO tell_VV Dad_NP that_IN/that our_PP$ nanny_NN 's_VBZ a_DT time_NN 
+traveller_NN ._SENT 
+

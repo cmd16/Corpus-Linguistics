@@ -1,0 +1,882 @@
+[_SYM Outside_JJ 
+Montrose_NP Hill_NP State_NP Penitentiary_NP ]_SYM 
+
+REPORTER_NN :_: Six_CD am_RB is_VBZ the_DT appointed_JJ time_NN of_IN death_NN as_RB 
+laid_VVN down_RB by_IN the_DT state_NN of_IN Kentucky_NP ._SENT 
+Oswald_NP Danes_NP faces_VVZ his_PP$ last_JJ moments_NNS on_IN this_DT earth_NN ._SENT Members_NNS of_IN the_DT 
+public_JJ have_VHP gathered_VVN outside_IN the_DT Montrose_NP Hill_NP State_NP Penitentiary_NP ,_, 
+but_CC the_DT planned_JJ protests_NNS against_IN the_DT death_NN sentence_NN have_VHP failed_VVN to_TO 
+appear_VV ,_, which_WDT is_VBZ n't_RB surprising_JJ given_VVN the_DT nature_NN of_IN the_DT offense_NN ._SENT 
+A_DT former_JJ schoolteacher_NN convicted_VVN in_IN 2006_CD of_IN the_DT rape_NN and_CC murder_NN of_IN 
+twelve_NN year_NN old_JJ Susie_NN 
+Cabina_NP ,_, Danes_NNS will_MD be_VB remembered_VVN for_IN his_PP$ infamous_JJ line_NN of_IN defence_NN ._SENT 
+Upon_IN his_PP$ arrest_NN ,_, he_PP told_VVD the_DT police_NN ,_, she_PP should_MD 've_VH run_VVN faster_RBR ._SENT 
+
+[_SYM Execution_NP room_NN ]_SYM 
+
+(_( A_DT guard_NN pulls_VVZ back_RB the_DT curtains_NNS between_IN the_DT 
+condemned_VVN man_NN and_CC the_DT witnesses_NNS gathered_VVD to_TO watch_VV him_PP die_VV ._SENT )_) 
+COLE_NN :_: The_DT condemned_VVN is_VBZ permitted_VVN to_TO make_VV a_DT final_JJ statement_NN ._SENT Do_VV you_PP have_VHP 
+anything_NN to_TO say_VV ?_SENT 
+(_( Danes_NP looks_VVZ at_IN Susie_NP 's_POS mother_NN ,_, then_RB shakes_VVZ his_PP$ head_NN ._SENT The_DT bed_NN tilts_VVZ 
+back_RB to_TO horizontal_JJ and_CC Guard_NP Cole_NP leaves_VVZ the_DT room_NN ._SENT An_DT anonymous_JJ person_NN 
+triggers_VVZ the_DT series_NN of_IN liquids_NNS that_IN/that course_NN into_IN Dane_NP 's_POS veins_NNS to_TO kill_VV 
+him_PP ._SENT He_PP jerks_VVZ and_CC twitches_VVZ ,_, tearing_VVG off_RP the_DT arm_NN support_NN ._SENT Guards_NNS rush_VVP in_IN 
+and_CC one_PP draws_VVZ the_DT curtains_NNS again_RB ._SENT )_) 
+
+[_SYM CIA_NP Analysts_NP Office_NP /_SYM Car_NN ]_SYM 
+
+(_( In_IN an_DT office_NN devoted_VVN to_TO computer_NN monitoring_NN ._SENT )_) 
+ESTHER_NP :_: Did_VVD you_PP ever_RB hear_VVP of_IN Torchwood_NP ?_SENT 
+(_( She_PP is_VBZ talking_VVG to_TO an_DT African_JJ American_JJ man_NN who_WP is_VBZ driving_VVG in_IN heavy_JJ 
+rain_NN ._SENT )_) 
+REX_NN :_: Never_RB mind_VV that_DT ._SENT Guess_VVP what_WP I_PP just_RB heard_VVD ._SENT You_PP know_VVP Steve_NP Reynolds_NP ?_SENT 
+Well_RB ,_, it_PP turns_VVZ out_RP his_PP$ wife_NN is_VBZ sick_JJ ._SENT 
+She_PP has_VHZ like_IN leukemia_NN or_CC something_NN like_IN that_DT ._SENT Whatever_WDT it_PP is_VBZ ,_, it_PP 
+sounded_VVN long_JJ term_NN ._SENT 
+ESTHER_NN :_: It_PP 's_VBZ British_JJ ._SENT The_DT Torchwood_NP Institute_NP ._SENT 
+REX_NP :_: Hello_UH ?_SENT Are_VBP you_PP listening_VVG ?_SENT You_PP see_VVP ,_, if_IN Steve_NP 's_POS got_VVD to_TO come_VV home_NN 
+that_IN/that leaves_VVZ a_DT space_NN in_IN Venezuela_NP ,_, and_CC I_PP spent_VVD eighteen_CD months_NNS working_VVG 
+out_IN the_DT Maracaibo_NP routes_NNS ,_, so_RB it_PP 's_VBZ mine_JJ ._SENT I_PP get_VVP promoted_VVN !_SENT 
+ESTHER_NN :_: Congratulations_NNS ._SENT 
+REX_NN :_: Thank_VV you_PP ._SENT 
+ESTHER_NN :_: And_CC Steve_NP 's_VHZ only_RB been_VBN married_VVN six_CD months_NNS ._SENT 
+REX_NP :_: What_WP do_VVP you_PP want_VVP from_IN me_PP ,_, you_PP know_VVP ?_SENT It_PP 's_VBZ a_DT tragedy_NN ._SENT 
+ESTHER_NN :_: All_PDT the_DT same_JJ ,_, this_DT thing_NN might_MD be_VB worth_JJ following_NN ._SENT It_PP just_RB got_VVD 
+sent_VVN down_RB ._SENT The_DT word_NN Torchwood_NP has_VHZ been_VBN emailed_VVN 
+to_TO every_DT single_JJ East_JJ coast_NN section_NN chief_NN completely_RB bypassing_VVG security_NN ._SENT 
+Just_RB one_CD word_NN ._SENT Torchwood_NN ._SENT 
+NOAH_NN :_: Following_VVG up_RP this_DT Torchwood_NP incident_NN ,_, wondering_VVG if_IN you_PP can_MD access_VV 
+the_DT EU_NP files_NNS ._SENT 
+(_( Another_DT CIA_NP operative_NN is_VBZ talking_VVG to_TO another_DT person_NN on_IN her_PP$ headset_NN ._SENT )_) 
+CHARLOTTE_NN :_: No_UH ,_, no_UH ,_, no_UH ,_, it_PP 's_VBZ not_RB ,_, it_PP 's_VBZ not_RB Touchwood_NP ,_, it_PP 's_VBZ Torchwood_NP ._SENT T_NN 
+O_NP R_NP C_NP H_NP W_NP 
+REX_NN :_: So_RB what_WP is_VBZ Torchwood_NP anyway_RB ?_SENT 
+ESTHER_NN :_: I_PP 've_VHP looked_VVN it_PP up_RP ._SENT It_PP 's_VBZ some_DT pretty_RB freaky_JJ stuff_NN ._SENT I_PP 'll_MD send_VV it_PP 
+to_TO you_PP now_RB ._SENT 
+REX_NN :_: It_PP sounds_VVZ more_JJR intelligence_NN ,_, not_RB clandestine_JJ ._SENT 
+NOAH_NP :_: Are_VBP you_PP getting_VVG this_DT ?_SENT 
+(_( The_DT screens_NNS are_VBP starting_VVG to_TO display_VV static_JJ ._SENT )_) 
+REX_NP :_: And_CC if_IN it_PP 's_VHZ got_VVN the_DT title_NN Institute_NP ,_, that_WDT means_VVZ that_IN/that it_PP 's_VHZ been_VBN 
+officially_RB sanctioned_VVN by_IN the_DT UK_NP government_NN ,_, 
+which_WDT we_PP all_RB know_VVP is_VBZ a_DT big_JJ hassle_NN because_IN that_DT administration_NN is_VBZ like_JJ 
+kindergarten_NN ._SENT 
+ESTHER_NN :_: It_PP 's_VBZ gone_VVN ._SENT It_PP just_RB got_VVD wiped_VVN ,_, like_IN a_DT virus_NN ._SENT It_PP just_RB vanished_VVD ._SENT 
+REX_NP :_: Okay_JJ ._SENT I_PP guess_VVP that_DT 's_VBZ that_DT ._SENT Now_RB go_VV ask_VV around_RP about_IN Steve_NP 's_POS wife_NN ._SENT 
+Get_VV a_DT proper_JJ diagnosis_NN ._SENT 
+We_PP need_VVP a_DT timeline_NN on_IN this_DT ._SENT And_CC pass_VV that_DT Torchwood_NP thing_NN on_RB to_TO 
+somebody_NN else_RB ._SENT It_PP has_VHZ absolutely_RB nothing_NN to_TO do_VV with_IN me_PP ._SENT 
+(_( The_DT truck_NN ahead_RB of_IN Rex_NP brakes_NNS suddenly_RB ._SENT Its_PP$ load_NN of_IN steel_NN pipes_NNS shoot_VVP 
+off_IN the_DT back_NN and_CC through_IN his_PP$ windscreen_NN ,_, impaling_VVG 
+him_PP in_IN his_PP$ seat_NN ._SENT )_) 
+ESTHER_NN :_: Rex_NP ?_SENT Rex_NP ?_SENT 
+
+[_SYM Bedroom_NP ]_SYM 
+
+(_( Gwen_NP Cooper_NP Williams_NP awakes_VVZ with_IN a_DT start_NN ._SENT )_) 
+RHYS_NNS :_: You_PP okay_RB ?_SENT 
+GWEN_NP :_: Yeah_UH ._SENT Yeah_UH ._SENT Do_VVP n't_RB know_VV ._SENT Just_RB ,_, bad_JJ dream_NN ._SENT 
+RHYS_NNS :_: What_WP about_RB ?_SENT 
+GWEN_NP :_: Oh_UH ._SENT Oh_UH ,_, what_WP do_VVP you_PP think_VVP ._SENT Torchwood_NN ._SENT 
+
+[_SYM Emergency_NP clinic_NN ]_SYM 
+
+PARAMEDIC_JJ :_: His_PP$ pulse_NN is_VBZ fast_JJ and_CC weak_JJ ._SENT Systolic_JJ BP_NP 
+of_IN seventy_CD ._SENT Beats_VVZ me_PP how_WRB he_PP 's_VBZ still_RB alive_JJ ._SENT 
+VERA_NP :_: Rex_NP ,_, my_PP$ name_NN is_VBZ Doctor_NP Juarez_NP ,_, okay_JJ ?_SENT We_PP 're_VBP taking_VVG you_PP straight_JJ 
+into_IN surgery_NN ._SENT Do_VV you_PP understand_VV ?_SENT 
+ESTHER_NN :_: Is_VBZ he_PP okay_JJ ?_SENT His_PP$ name_NN is_VBZ Rex_NP Matheson_NP ._SENT 
+VERA_NN :_: You_PP family_NN ?_SENT 
+ESTHER_NP :_: No_UH ,_, I_PP 'm_VBP just_RB a_DT colleague_NN ._SENT We_PP work_VVP in_IN the_DT same_JJ 
+VERA_NN :_: It_PP 's_POS family_NN only_RB ._SENT He_PP 's_VBZ the_DT second_JJ one_CD tonight_NN ._SENT DOAs_NNS who_WP just_RB 
+wo_MD n't_RB die_VV ._SENT 
+PARAMEDIC_JJ :_: We_PP had_VHD a_DT jumper_NN this_DT afternoon_NN ._SENT Twenty_CD two_CD floors_NNS ,_, 
+everything_NN pulverised_VVD ._SENT Pneumothorax_NN both_CC sides_NNS ,_, but_CC she_PP would_MD n't_RB die_VV ._SENT 
+Same_JJ thing_NN ._SENT Just_RB would_MD n't_RB die_VV ._SENT 
+
+[_SYM Welsh_NP Farm_NP ]_SYM 
+
+(_( A_DT black_JJ helicopter_NN flies_VVZ over_IN the_DT remote_JJ farmhouse_NN 
+where_WRB Gwen_NP and_CC Rhys_NP are_VBP living_VVG ._SENT Rhys_NP is_VBZ working_VVG in_IN their_PP$ vegetable_NN 
+garden_NN ._SENT )_) 
+RHYS_NP :_: Do_VVP n't_RB be_VB so_RB suspicious_JJ ._SENT 
+GWEN_NP :_: What_WP they_PP flying_VVG past_JJ for_IN ?_SENT 
+RHYS_NNS :_: Because_IN they_PP can_MD ._SENT This_DT is_VBZ God_NP 's_POS own_JJ country_NN ,_, that_WDT 's_VBZ all_RB ._SENT Just_RB 
+looking_VVG ._SENT Now_RB stop_VV it_PP ._SENT 
+(_( It_PP is_VBZ 8_CD am_RB ._SENT Gwen_NP goes_VVZ inside_RB to_TO feed_VV their_PP$ child_NN ._SENT )_) 
+
+[_SYM Farmhouse_NP ]_SYM 
+
+GWEN_NN :_: So_RB went_VVD outside_IN all_DT on_IN my_PP$ own_JJ ._SENT It_PP was_VBD 
+midnight_NN ,_, not_RB a_DT sound_NN to_TO be_VB heard_VVN ._SENT And_CC I_PP looked_VVD up_RP and_CC a_DT woman_NN came_VVD out_RP 
+of_IN the_DT sky_NN ._SENT 
+Oh_UH ,_, shining_VVG she_PP was_VBD ,_, like_IN moonlight_NN ._SENT Her_PP$ eyes_NNS white_JJ ,_, blazing_VVG white_JJ ._SENT And_CC 
+then_RB she_PP started_VVD to_TO sing_VV like_IN a_DT thousand_CD choirs_NNS ._SENT 
+One_CD woman_NN with_IN a_DT thousand_CD voices_NNS and_CC it_PP was_VBD beautiful_JJ ._SENT 
+RHYS_NNS :_: That_WDT 's_VBZ enough_JJ ,_, do_VVP n't_RB you_PP think_VVP ?_SENT 
+GWEN_NP :_: Who_WP 's_VBZ being_VBG paranoid_JJ now_RB ?_SENT 
+RHYS_NNS :_: You_PP promised_VVD me_PP you_PP 'd_MD keep_VV her_PP away_RP from_IN this_DT stuff_NN ._SENT 
+GWEN_NP :_: Yeah_UH ,_, well_RB ,_, be_VB fair_JJ ._SENT She_PP 's_VBZ too_RB young_JJ ._SENT She_PP thinks_VVZ it_PP all_RB sounds_VVZ 
+like_IN a_DT fairy_JJ tale_NN ._SENT 
+RHYS_NNS :_: It_PP was_VBD a_DT nightmare_NN ,_, Gwen_NP ._SENT Your_PP$ life_NN back_RB then_RB was_VBD a_DT living_NN 
+nightmare_NN ,_, love_NN ._SENT 
+(_( Knock_VV ,_, knock_VV ,_, knock_VV ._SENT )_) 
+RHYS_NNS :_: There_EX 's_VBZ someone_NN at_IN the_DT door_NN ._SENT 
+GWEN_NN :_: Shush_VV ._SENT 
+RHYS_NNS :_: What_WP do_VVP we_PP do_VVP ?_SENT 
+GWEN_NN :_: Shush_VV ._SENT 
+RHYS_NNS :_: You_PP and_CC 
+(_( More_JJR knocks_NNS ._SENT They_PP get_VVP weapons_NNS from_IN their_PP$ extensive_JJ armoury_NN ._SENT Gwen_NP 
+answers_VVZ the_DT door_NN to_TO a_DT pair_NN of_IN middle-aged_JJ hikers_NNS ._SENT )_) 
+MAN_NN :_: Ah_UH ,_, hello_NN ._SENT 
+WOMAN_NN :_: Sorry_JJ ._SENT 
+MAN_NN :_: I_PP hope_VVP we_PP 're_VBP not_RB disturbing_VVG you_PP ._SENT Just_RB wondering_VVG ,_, if_IN we_PP 're_VBP going_VVG 
+back_RB to_TO the_DT village_NN ,_, is_VBZ it_PP quicker_JJR to_TO cut_VV back_RB 
+across_IN to_TO the_DT beach_NN or_CC would_MD we_PP get_VV cut_VVN off_RP at_IN this_DT time_NN of_IN the_DT day_NN ?_SENT 
+Better_RBR to_TO ask_VV ,_, I_PP thought_VVD ,_, just_RB in_IN case_NN ._SENT 
+WOMAN_NN :_: We_PP have_VHP got_VVN proper_JJ shoes_NNS ._SENT We_PP can_MD get_VV across_IN nice_JJ and_CC quickly_RB ._SENT 
+GWEN_NN :_: It_PP 's_POS private_JJ property_NN ._SENT I_PP 'm_VBP busy_JJ ._SENT 
+(_( She_PP shuts_VVZ the_DT door_NN on_IN them_PP ,_, and_CC they_PP leave_VVP ._SENT )_) 
+RHYS_NNS :_: Get_VV off_RP my_PP$ land_NN ._SENT 
+GWEN_NN :_: Shush_VV ._SENT I_PP could_MD have_VH shot_VVN them_PP ._SENT 
+RHYS_NP :_: Hey_UH ,_, hey_UH ._SENT We_PP 're_VBP safe_JJ ,_, sweetheart_NN ._SENT No_DT one_CD knows_VVZ we_PP 're_VBP here_RB ._SENT All_RB 
+that_DT stuff_NN 's_VBZ long_RB since_RB gone_VVN ._SENT No_DT more_JJR Torchwood_NP ,_, right_RB ?_SENT 
+GWEN_NP :_: Yeah_UH ._SENT Okay_JJ ._SENT 
+RHYS_NNS :_: It_PP 's_VBZ gone_VVN ._SENT Forgotten_VVN ,_, eh_NP ?_SENT 
+GWEN_NP :_: Yeah_UH ,_, all_DT right_NN ._SENT Sorry_RB ._SENT Okay_JJ ._SENT 
+RHYS_NNS :_: Come_VV here_RB ._SENT 
+
+[_SYM Hospital_NP ]_SYM 
+
+(_( Washington_NP DC_NP ,_, 3_CD am_VBP ._SENT Esther_NP is_VBZ in_IN a_DT waiting_VVG room_NN 
+when_WRB Vera_NP comes_VVZ by_IN ._SENT )_) 
+VERA_NN :_: Popular_JJ man_NN ,_, Rex_NP Matheson_NP ._SENT We_PP 've_VHP had_VHN three_CD different_JJ station_NN 
+chiefs_NNS on_IN the_DT phone_NN ._SENT No_DT sign_NN of_IN his_PP$ family_NN ?_SENT 
+ESTHER_NN :_: We_PP only_RB have_VHP a_DT number_NN for_IN his_PP$ father_NN ._SENT I_PP left_VVD a_DT message_NN ,_, but_CC no_RB 
+one_PP 's_VBZ called_VVN back_RB ._SENT Is_VBZ he_PP ?_SENT 
+VERA_NN :_: No._NN No_RB ,_, he_PP made_VVD it_PP ._SENT He_PP 's_VBZ alive_JJ ._SENT 
+ESTHER_NN :_: God_NP !_SENT Er_UH ,_, thank_VV you_PP ._SENT I_PP ._SENT The_DT paramedics_NN ,_, they_PP said_VVD he_PP did_VVD n't_RB 
+stand_VV a_DT chance_NN ._SENT 
+VERA_NN :_: Well_RB ,_, looks_VVZ like_IN someone_NN changed_VVD the_DT rules_NNS ._SENT Miracles_NNS got_VVD easy_JJ ._SENT 
+It_PP 's_VBZ not_RB only_JJ Rex_NP who_WP 's_VBZ still_RB alive_JJ ._SENT So_RB is_VBZ everyone_NN else_RB ._SENT 
+ESTHER_NN :_: Sorry_RB ,_, I_PP do_VVP n't_RB get_VV you_PP ._SENT 
+VERA_NN :_: It_PP started_VVD last_JJ night_NN ._SENT 
+(_( They_PP get_VVP coffee_NN from_IN a_DT machines_NNS ._SENT )_) 
+VERA_NN :_: First_RB I_PP knew_VVD ,_, they_PP called_VVD up_RP from_IN the_DT morgue_NN ._SENT They_PP were_VBD laughing_VVG ._SENT 
+They_PP said_VVD ,_, what_WP 's_VBZ happening_VVG up_RP there_RB ?_SENT You_PP on_RB strike_VVP ?_SENT 
+Turns_VVZ out_RP no_DT one_CD had_VHD died_VVN ._SENT Twenty_CD four_CD hours_NNS since_IN this_DT hospital_NN had_VHD a_DT 
+death_NN ._SENT Not_RB one_CD ._SENT Not_RB from_IN old_JJ age_NN ,_, not_RB from_IN injury_NN ,_, not_RB from_IN sickness_NN ,_, 
+all_DT day_NN long_RB ._SENT 
+ESTHER_NN :_: Just_RB a_DT coincidence_NN ,_, I_PP suppose_VVP ._SENT 
+VERA_NN :_: That_WDT 's_VBZ what_WP I_PP said_VVD ,_, yeah_RB ._SENT Then_RB I_PP was_VBD on_IN a_DT call_NN to_TO Saint_NP Jude_NP 's_POS in_IN 
+Chicago_NP ._SENT And_CC they_PP said_VVD ,_, well_RB ,_, here_RB 's_VBZ a_DT funny_JJ thing_NN ._SENT Past_IN twenty_CD four_CD 
+hours_NNS ,_, 
+we_PP 've_VHP registered_VVN no_DT deaths_NNS ,_, not_RB one_CD ._SENT So_RB I_PP called_VVD my_PP$ ex-husband_NN ._SENT He_PP 's_VBZ at_IN 
+Cedarbrook_NP ._SENT Same_JJ story_NN ._SENT All_DT day_NN ,_, no_DT deaths_NNS ._SENT 
+I_PP tried_VVD London_NP ._SENT I_PP have_VHP this_DT friend_NN at_IN the_DT Royal_NP Free_NP Hospital_NP ._SENT I_PP called_VVD 
+her_PP ._SENT She_PP said_VVD ,_, Oh_UH ,_, that_WDT 's_VBZ weird_JJ ._SENT It_PP 's_VBZ the_DT same_JJ thing_NN over_IN here_RB ._SENT 
+Twenty_CD four_CD hours_NNS ,_, no_DT one_CD 's_VBZ died_VVN ._SENT What_WP do_VVP you_PP think_VVP of_IN that_DT ,_, hmm_NP ?_SENT One_CD 
+lucky_JJ day_NN ._SENT 
+
+AWM_NP REPORTER_NP :_: The_DT survival_NN of_IN Oswald_NP Danes_NP turns_VVZ 
+out_RB to_TO be_VB the_DT first_JJ incident_NN in_IN a_DT much_RB bigger_JJR story_NN breaking_NN live_VVP this_DT 
+morning_NN ._SENT 
+MALE_JJ ANCHOR_NP :_: When_WRB the_DT Kentucky_NP Medical_NP Authority_NP made_VVD a_DT chance_NN comment_NN 
+that_IN/that it_PP had_VHD n't_RB recorded_VVN a_DT single_JJ death_NN over_IN twenty_CD four_CD hours_NNS 
+SENIOR_JJ MALE_NP ANCHOR_NP :_: Seventeen_CD more_JJR authorities_NNS immediately_RB reported_VVD the_DT 
+same_JJ thing_NN ._SENT The_DT story_NN exploded_VVD on_IN social_JJ network_NN sites_NNS ._SENT 
+(_( Spanish_JJ language_NN reporter_NN ._SENT )_) 
+AWM_NP REPORTER_NP :_: Miracle_NN trending_VVG as_IN the_DT number_NN one_CD topic_NN ._SENT From_IN Maine_NP to_TO 
+California_NP ,_, the_DT story_NN is_VBZ the_DT same_JJ ._SENT 
+MALE_JJ ANCHOR_NN :_: For_IN the_DT past_JJ thirty_CD six_CD hours_NNS 
+ALL_DT :_: No_DT fatalities_NNS have_VHP been_VBN reported_VVN ._SENT 
+REPORTER_NN :_: No_DT one_CD has_VHZ died_VVN ._SENT 
+MALE_JJ ANCHOR_NP 2_CD :_: Not_RB one_CD person_NN in_IN the_DT United_NP States_NPS 
+MALE_JJ ANCHOR_NN :_: Not_RB a_DT single_JJ death_NN ._SENT 
+ALL_DT :_: Miracle_NN Day_NN ._SENT 
+SENIOR_JJ MALE_NP ANCHOR_NP :_: Miracle_NP Day_NP ._SENT That_DT 's_VBZ what_WP 's_VBZ being_VBG called_VVN ._SENT 
+MALE_JJ ANCHOR_NP :_: Miracle_NP Day_NP ._SENT 
+
+[_SYM Montrose_NP Hill_NP State_NP Penitentiary_NP visiting_VVG 
+room_NN ]_SYM 
+
+PETERSSEN_NP :_: Mister_NN Danes_NNS ,_, I_PP 'm_VBP Alexander_NP Peterssen_NP 
+representing_VVG the_DT governor_NN 's_POS office_NN ._SENT 
+DANES_NNS :_: What_WP ,_, I_PP do_VVP n't_RB get_VV a_DT personal_JJ visit_NN ?_SENT 
+PETERSSEN_NP :_: I_PP 'm_VBP afraid_JJ not_RB ,_, given_VVN the_DT circumstances_NNS ._SENT But_CC the_DT governor_NN 's_POS 
+office_NN would_MD like_VV to_TO offer_VV its_PP$ condolences_NNS without_IN an_DT admission_NN of_IN 
+liability_NN 
+for_IN any_DT physical_JJ distress_NN caused_VVN by_IN events_NNS beyond_IN its_PP$ control_NN ._SENT 
+DANES_NNS :_: Condolences_NNS ?_SENT He_PP ca_MD n't_RB just_RB say_VVP sorry_RB ?_SENT 
+PETERSSEN_NP :_: You_PP have_VHP to_TO respect_VV his_PP$ position_NN ._SENT You_PP 're_VBP a_DT convicted_VVN 
+pedophile_NN ,_, sir_NN ,_, and_CC a_DT convicted_VVN murderer_NN ._SENT 
+By_IN your_PP$ own_JJ admission_NN ,_, you_PP took_VVD the_DT life_NN of_IN a_DT twelve_NN year_NN old_JJ girl_NN ,_, so_RB 
+the_DT governor_NN 's_POS apology_NN is_VBZ always_RB gonna_VVG be_VB within_IN certain_JJ limits_NNS ._SENT 
+DANES_NP :_: When_WRB are_VBP you_PP gonna_VVG let_VV me_PP go_VV ?_SENT 
+PETERSSEN_NP :_: Well_UH ,_, I_PP do_VVP n't_RB think_VV that_WDT 's_VBZ possible_JJ ._SENT 
+DANES_NNS :_: I_PP 've_VHP served_VVN my_PP$ sentence_NN ._SENT 
+PETERSSEN_NP :_: Granted_VVD ,_, the_DT execution_NN was_VBD flawed_VVN ,_, but_CC that_WDT does_VVZ n't_RB defer_VV 
+the_DT sentence_NN ._SENT With_IN respect_NN ,_, you_PP do_VVP n't_RB reprieve_VV a_DT man_NN you_PP failed_VVD to_TO hang_VV 
+because_IN the_DT rope_NN snapped_VVD ._SENT 
+DANES_NP :_: Indeed_UH ._SENT And_CC with_IN respect_NN ,_, that_DT particular_JJ aphorism_NN applies_VVZ only_RB 
+for_IN an_DT execution_NN which_WDT has_VHZ failed_VVN ._SENT 
+PETERSSEN_NP :_: And_CC that_WDT 's_VBZ you_PP ._SENT 
+DANES_NNS :_: On_IN the_DT contrary_NN ,_, I_PP would_MD maintain_VV ,_, and_CC my_PP$ lawyers_NNS would_MD 
+maintain_VV ,_, my_PP$ sentence_NN was_VBD carried_VVN out_RP successfully_RB ._SENT 
+Nothing_NN went_VVD wrong_RB absolutely_RB nothing_NN ._SENT The_DT fact_NN that_IN/that life_NN and_CC the_DT laws_NNS 
+of_IN life_NN on_IN this_DT Earth_NP have_VHP changed_VVN is_VBZ hardly_RB my_PP$ fault_NN ._SENT 
+PETERSSEN_NP :_: Society_NP is_VBZ full_JJ of_IN out_RB there_RB laws_NNS ,_, Mister_NP Danes_NP ._SENT 
+Nonetheless_RB ,_, they_PP still_RB apply_VV ._SENT 
+DANES_NNS :_: That_WDT 's_VBZ right_JJ ,_, Mister_NP Peterssen_NP ._SENT And_CC when_WRB considering_VVG the_DT 
+persistence_NN of_IN the_DT law_NN ,_, then_RB the_DT Eighth_NP Amendment_NP clearly_RB forbids_VVZ 
+the_DT application_NN of_IN cruel_JJ and_CC unusual_JJ punishment_NN ,_, such_JJ as_IN mine_NN ,_, 
+alongside_IN the_DT Fifth_NP Amendment_NP and_CC I_PP quote_VVP ,_, 
+nor_CC shall_MD any_DT person_NN be_VB subject_JJ for_IN the_DT same_JJ offence_NN twice_RB ._SENT The_DT 
+Founding_VVG Fathers_NP practically_RB had_VHD me_PP in_IN mind_NN when_WRB they_PP wrote_VVD the_DT 
+Constitution_NP ._SENT 
+Do_VVP n't_RB you_PP think_VVP though_RB ?_SENT Do_VVP n't_RB you_PP think_VVP ?_SENT Because_IN I_PP can_MD guarantee_VV ,_, 
+Mister_NP Peterssen_NP ,_, that_IN/that when_WRB I_PP talk_VVP of_IN lawyers_NNS ,_, I_PP mean_VVP the_DT team_NN who_WP will_MD 
+be_VB suing_VVG the_DT governor_NN and_CC I_PP mean_VVP the_DT governor_NN himself_PP ._SENT Not_RB his_PP$ office_NN ,_, 
+but_CC the_DT actual_JJ man_NN ._SENT They_PP will_MD be_VB suing_VVG him_PP for_IN wrongful_JJ imprisonment_NN ._SENT 
+And_CC I_PP promise_VVP you_PP that_IN/that they_PP will_MD sue_VV his_PP$ ass_NN to_TO high_JJ heaven_NN till_IN angels_NNS 
+sing_NN songs_NNS of_IN him_PP in_IN their_PP$ laments_NNS ._SENT Is_VBZ that_IN/that clear_JJ ?_SENT 
+PETERSSEN_NP :_: Perfectly_RB ._SENT 
+DANES_NNS :_: Then_RB go_VVP tell_VV him_PP ,_, because_IN with_IN every_DT passing_VVG second_NN that_WDT 's_VBZ a_DT 
+million_CD dollars_NNS more_RBR ._SENT Mister_NP Peterssen_NP ,_, thank_VVP you_PP ._SENT Thank_VV you_PP very_RB much_RB ._SENT 
+
+[_SYM CIA_NP Analysts_NP Office_NP ]_SYM 
+
+CHARLOTTE_NN :_: Hey_UH ._SENT Heard_VVN about_IN Rex_NP ._SENT Is_VBZ he_PP okay_JJ ?_SENT 
+ESTHER_NP :_: Yeah_UH ._SENT Thought_VVD it_PP was_VBD a_DT miracle_NN ,_, turns_VVZ out_IN it_PP 's_POS everyone_NN ._SENT Did_VVD 
+you_PP get_VVP any_DT more_JJR on_IN that_DT Torchwood_NP thing_NN ?_SENT 
+CHARLOTTE_NN :_: No_UH ,_, it_PP 's_VHZ been_VBN shut_VVN down_RP ._SENT Orders_NNS of_IN Brian_NP Friedkin_NP ?_SENT Goes_VVZ 
+through_IN his_PP$ office_NN only_RB ._SENT Case_NN closed_VVD ._SENT 
+ESTHER_NN :_: But_CC what_WP was_VBD it_PP ?_SENT Because_IN the_DT way_NN those_DT files_NNS disappeared_VVD 
+CHARLOTTE_NN :_: The_DT world_NN changed_VVD overnight_RB ,_, yeah_RB ?_SENT Some_DT old_JJ British_JJ thing_NN is_VBZ 
+not_RB on_IN the_DT top_NN of_IN the_DT list_NN ._SENT 
+ESTHER_NN :_: Torchwood_NN ._SENT If_IN that_WDT was_VBD n't_RB a_DT virus_NN ,_, it_PP 's_VBZ got_VVN to_TO be_VB some_DT sort_NN of_IN 
+malware_NN ._SENT 
+NOAH_NN :_: It_PP 's_VBZ like_IN nothing_NN I_PP 've_VHP ever_RB seen_VVN ._SENT The_DT word_NN Torchwood_NP is_VBZ vanished_VVN ._SENT 
+It_PP 's_VHZ been_VBN eradicated_VVN ._SENT If_IN you_PP search_VVP for_IN Torchwood_NP ,_, you_PP get_VVP no_DT results_NNS ._SENT 
+Nothing_NN gets_VVZ no_DT results_NNS ._SENT 
+ESTHER_NN :_: Then_RB there_EX 's_VBZ got_VVN to_TO be_VB something_NN on_IN paper_NN ._SENT 
+NOAH_NN :_: The_DT shelves_NNS are_VBP bare_JJ ._SENT It_PP 's_VBZ all_RB gone_VVN to_TO Friedkin_NP ._SENT I_PP asked_VVD Yvonne_NP ._SENT 
+Ahem_NP ._SENT She_PP said_VVD it_PP was_VBD classified_VVN under_IN the_DT 456_CD regulations_NNS ._SENT 
+She_PP said_VVD you_PP want_VVP to_TO stay_VV away_RB ._SENT 
+ESTHER_NN :_: Why_WRB ?_SENT 
+NOAH_NN :_: They_PP all_RB died_VVD ._SENT So_IN the_DT story_NN goes_VVZ ._SENT Anyone_NN that_WDT worked_VVD for_IN 
+Torchwood_NN was_VBD killed_VVN in_IN action_NN ._SENT And_CC they_PP died_VVD young_JJ ._SENT 
+
+[_SYM Hospital_NP room_NN ]_SYM 
+
+NURSE_NN :_: Seen_VVN the_DT TV_NN ?_SENT It_PP 's_VBZ not_RB just_RB you_PP ._SENT 
+(_( He_PP flicks_VVZ through_IN the_DT multitude_NN of_IN news_NN reports_NNS and_CC vox_NN pop_NN ._SENT )_) 
+TV_NN :_: This_DT goes_VVZ beyond_IN America_NP ._SENT It_PP 's_VBZ worldwide_JJ ._SENT You_PP 've_VHP got_VVN the_DT same_JJ 
+reports_NNS from_IN Europe_NP ,_, from_IN Asia_NP ,_, from_IN Africa_NP ._SENT Every_DT death_NN is_VBZ different_JJ ._SENT 
+You_PP ca_MD n't_RB suspend_VV death_NN like_IN it_PP 's_VBZ a_DT fixed_VVN concept_NN ._SENT This_DT goes_VVZ against_IN 
+the_DT fundamental_JJ rules_NNS of_IN life_NN on_IN Earth_NP ._SENT 
+They_PP shot_VVD him_PP !_SENT They_PP shot_VVD my_PP$ brother_NN like_IN bam_NP ,_, bam_NP ,_, bam_NP ,_, but_CC you_PP know_VVP ,_, 
+he_PP 's_VBZ still_RB alive_JJ and_CC his_PP$ heart_NN 's_VBZ still_RB going_VVG ._SENT He_PP reached_VVD out_RP ._SENT 
+WNKW_NN :_: Whether_IN it_PP 's_VBZ a_DT disease_NN or_CC an_DT experiment_NN or_CC a_DT project_NN gone_VVN wrong_JJ ,_, 
+it_PP 's_VBZ obvious_JJ we_PP 're_VBP the_DT victims_NNS now_RB ._SENT We_PP 're_VBP the_DT lab_NN rats_NNS ._SENT 
+ANGRY_JJ NURSE_NN [_SYM on_IN TV_NP ]_SYM :_: These_DT people_NNS are_VBP dead_JJ ._SENT That_DT 's_VBZ what_WP they_PP are_VBP ._SENT Dead_JJ 
+people_NNS sitting_VVG up_RP in_IN bed_NN ._SENT They_PP terrify_VVP me_PP ._SENT I_PP 'm_VBP not_RB touching_VVG them_PP ._SENT 
+I_PP 'm_VBP sorry_JJ ,_, but_CC they_PP should_MD be_VB corpses_NNS ._SENT That_DT 's_VBZ what_WP they_PP are_VBP ,_, living_VVG 
+corpses_NNS ._SENT 
+(_( Rex_NP pulls_VVZ out_RP his_PP$ tubes_NNS and_CC the_DT nurse_NN runs_VVZ in_IN ._SENT Later_RBR ,_, when_WRB he_PP has_VHZ 
+calmed_VVN down_RB -_: )_) 
+VERA_NN :_: The_DT metal_NN missed_VVD the_DT spine_NN ,_, but_CC the_DT pericardium_NN was_VBD lacerated_VVN and_CC 
+a_DT coronary_JJ artery_NN was_VBD crushed_VVN and_CC thrombosed_VVN ._SENT That_DT 's_VBZ the_DT one_CD in_IN your_PP$ 
+leg_NN ._SENT I_PP had_VHD to_TO transplant_VV a_DT section_NN of_IN vein_NN from_IN your_PP$ thigh_NN ._SENT 
+REX_NP :_: But_CC how_WRB did_VVD I_PP survive_VV ?_SENT 
+VERA_NN :_: I_PP do_VVP n't_RB know_VV ._SENT But_CC even_RB when_WRB your_PP$ heart_NN stopped_VVD beating_NN ,_, the_DT 
+process_NN continued_VVD ._SENT The_DT process_NN of_IN life_NN ,_, the_DT viability_NN of_IN the_DT flesh_NN ,_, the_DT 
+transfer_NN of_IN oxygen_NN ._SENT It_PP just_RB did_VVD n't_RB stop_VV ._SENT 
+REX_NP :_: But_CC do_VVP I_PP get_VV better_RBR ?_SENT Do_VV I_PP heal_VV ?_SENT Or_CC do_VV I_PP just_RB hurt_VVP for_IN the_DT rest_NN of_IN 
+my_PP$ life_NN ?_SENT Because_IN if_IN this_DT thing_NN keeps_VVZ going_VVG ,_, the_DT rest_NN of_IN my_PP$ life_NN is_VBZ 
+forever_RB ,_, right_RB ?_SENT 
+VERA_NP :_: Rex_NP ,_, now_RB listen_VV to_TO me_PP ._SENT Because_IN you_PP might_MD want_VV to_TO take_VV something_NN 
+under_IN consideration_NN ._SENT That_IN/that maybe_RB you_PP were_VBD lucky_JJ ._SENT 
+You_PP should_MD 've_VH died_VVN last_JJ night_NN ,_, but_CC when_WRB this_DT thing_NN happened_VVD ,_, the_DT 
+miracle_NN ,_, it_PP gave_VVD me_PP time_NN to_TO fix_VV you_PP ._SENT Without_IN the_DT miracle_NN ,_, you_PP 'd_MD be_VB 
+dead_JJ ._SENT 
+REX_NN :_: It_PP 's_POS like_JJ someone_NN cast_VVD a_DT spell_NN over_IN the_DT whole_JJ world_NN ._SENT But_CC what_WP 
+happens_VVZ when_WRB it_PP stops_VVZ ,_, huh_NP ?_SENT What_WP happens_VVZ to_TO me_PP then_RB ?_SENT Do_VV I_PP die_VV ?_SENT 
+
+[_SYM Farmhouse_NP ]_SYM 
+
+RHYS_NP :_: Oh_UH ,_, you_PP are_VBP so_RB cheating_VVG ._SENT 
+GWEN_NP :_: Cheating_NN ?_SENT How_WRB can_MD I_PP cheat_VV painting_VVG a_DT wall_NN ?_SENT Only_RB a_DT man_NN could_MD turn_VV 
+this_DT into_IN a_DT competition_NN ._SENT 
+RHYS_NNS :_: You_PP just_RB went_VVD whoosh_NN ._SENT 
+GWEN_NP :_: Well_UH ,_, look_VV ,_, whoosh_VVP ._SENT 
+RHYS_NNS :_: With_IN one_CD stroke_NN ._SENT That_DT 's_VBZ hardly_RB a_DT coat_NN ._SENT 
+(_( A_DT mobile_JJ phone_NN rings_NNS ._SENT They_PP have_VHP a_DT signal_NN in_IN the_DT middle_NN of_IN nowhere_RB ?_SENT )_) 
+GWEN_NP :_: Oh_UH ,_, bollocks_NNS ._SENT Oh_UH bollocks_NNS ,_, bollocks_NNS ._SENT 
+(_( She_PP goes_VVZ to_TO get_VV it_PP from_IN the_DT drawer_NN ._SENT )_) 
+RHYS_NNS :_: It_PP might_MD be_VB nothing_NN ._SENT 
+GWEN_NP :_: There_EX 's_VBZ only_RB one_CD reason_NN why_WRB that_DT phone_NN could_MD ring_VV ._SENT Look_NN ,_, where_WRB 
+have_VHP you_PP put_VVP it_PP ?_SENT Where_WRB have_VH you_PP put_VV it_PP ?_SENT 
+RHYS_NNS :_: It_PP 's_VBZ in_IN here_RB ,_, it_PP 's_VBZ in_IN here_RB ._SENT 
+(_( Gwen_NP finds_VVZ and_CC answers_VVZ it_PP ._SENT )_) 
+GWEN_NP :_: What_WP is_VBZ it_PP ?_SENT What_WP is_VBZ happened_VVN ?_SENT 
+
+[_SYM Cardiff_NP ]_SYM 
+
+ANDY_NN :_: This_DT is_VBZ Sergeant_NP Davison_NP with_IN a_DT phone-in_NN 
+report_NN of_IN one_CD suspect_NN ,_, male_JJ ,_, in_IN the_DT vicinity_NN of_IN Saint_NP Helen_NP 's_POS Hospital_NP ,_, 
+Cardiff_NP City_NP ._SENT 
+Suggest_VV rendezvous_NN at_IN oh_UH two_CD hundred_CD hours_NNS in_IN the_DT agreed_VVN position_NN ._SENT 
+
+[_SYM Farmhouse_NP ]_SYM 
+
+GWEN_NN :_: It_PP 's_VBZ my_PP$ dad_NN ._SENT He_PP 's_VBZ in_IN hospital_NN ._SENT Er_UH ,_, I_PP 've_VHP got_VVN 
+to_TO see_VV him_PP ._SENT I_PP 'm_VBP sorry_JJ ,_, Rhys_NP ._SENT We_PP 've_VHP got_VVN to_TO go_VV back_RB ._SENT 
+
+
+[_SYM CIA_NP Archive_NP ]_SYM 
+
+ARCHIVIST_NN :_: Friedkin_NP 's_POS office_NN took_VVD all_PDT the_DT Torchwood_NP 
+files_NNS ,_, cleared_VVD us_PP out_RP ._SENT 
+ESTHER_NN :_: I_PP know_VVP ._SENT He_PP sent_VVD me_PP the_DT double_JJ check_NN ._SENT Because_IN files_NNS get_VVP left_VVN 
+behind_RB ,_, and_CC especially_RB if_IN there_EX 's_VBZ a_DT hard_JJ copy_NN inside_IN an_DT associated_VVN 
+pile_NN ._SENT 
+That_DT sort_NN of_IN thing_NN always_RB gets_VVZ missed_VVN ._SENT Just_RB need_VVP to_TO check_VV on_IN all_PDT the_DT 
+associations_NNS ._SENT 
+ARCHIVIST_NN :_: Okay_JJ ._SENT 
+ESTHER_NN :_: Not_RB sure_JJ where_WRB to_TO begin_VV ._SENT 
+ARCHIVIST_NN :_: Better_JJR find_NN out_RP then_RB ._SENT 
+ESTHER_NN :_: Right_RB ._SENT Okay_JJ ._SENT Thanks_NNS ._SENT 
+(_( So_RB Esther_NP searches_VVZ the_DT stacks_NNS ,_, up_RB ladders_NNS and_CC on_IN her_PP$ hands_NNS and_CC knees_NNS ._SENT 
+Finally_RB she_PP finds_VVZ a_DT partially_RB redacted_VVN one_CD that_WDT references_VVZ the_DT 456_CD 
+files_NNS as_IN XR-ed_JJ under_IN the_DT JF3238_NP designation_NN ._SENT )_) 
+ESTHER_NN :_: 456._CD 456._CD 456._CD 456_CD !_SENT 
+(_( Bingo_NN !_SENT Newspaper_NN cuttings_NNS about_IN Children_NNS Of_IN Earth_NP ,_, files_VVZ and_CC 
+photographs_NNS of_IN the_DT Torchwood_NP team_NN ._SENT She_PP looks_VVZ up_RP to_TO see_VV a_DT shadowy_JJ figure_NN 
+in_IN a_DT long_JJ coat_NN ._SENT )_) 
+JACK_NN :_: Come_VV with_IN me_PP ._SENT 
+(_( She_PP runs_VVZ ._SENT The_DT Archivist_NN is_VBZ still_RB at_IN his_PP$ desk_NN ,_, his_PP$ chest_NN covered_VVN in_IN 
+blood_NN ._SENT )_) 
+JACK_NN :_: Down_RB !_SENT 
+(_( Esther_NP ducks_VVZ ._SENT Jack_NP shoots_VVZ the_DT man_NN with_IN the_DT machine_NN gun_NN in_IN the_DT neck_NN ._SENT )_) 
+ESTHER_NP :_: Oh_UH ,_, my_PP$ God_NP ._SENT Is_VBZ he_PP gonna_VVG die_NN ?_SENT 
+JACK_NN :_: Do_VVP n't_RB worry_VV about_IN it_PP ._SENT No_DT one_CD dies_VVZ these_DT days._NN 
+ASSASSIN_NN :_: You_PP want_VVP to_TO bet_VV ?_SENT 
+(_( Jack_NP rips_NNS open_VVP the_DT man_NN 's_POS flak_NN jacket_NN to_TO reveal_VV lots_NNS of_IN packs_NNS of_IN C4_NP 
+explosive_JJ ._SENT They_PP jump_VVP out_RP of_IN a_DT window_NN just_RB as_IN the_DT bomb_NN goes_VVZ off_RP ,_, and_NP 
+land_NN in_IN the_DT ornamental_JJ fountain_NN outside_IN the_DT building_NN ._SENT )_) 
+JACK_NN :_: Whoa_NP ._SENT Anyway_RB ,_, Captain_NP Jack_NP Harkness_NP ._SENT Nice_JJ to_TO meet_VV you_PP ._SENT 
+
+[_SYM Outside_IN the_DT CIA_NP Archive_NP ]_SYM 
+
+(_( They_PP watch_VVP the_DT fire_NN department_NN arrive_VVP to_TO deal_VV with_IN 
+the_DT fire_NN ._SENT Jack_NP brings_VVZ Esther_NP a_DT bottle_NN of_IN water_NN ._SENT )_) 
+JACK_NN :_: Here_RB you_PP go_VVP ._SENT 
+ESTHER_NN :_: That_DT man_NN 
+JACK_NN :_: He_PP was_VBD after_IN me_PP ,_, not_RB you_PP ._SENT 
+ESTHER_NN :_: Why_WRB ?_SENT Why_WRB would_MD he_PP want_VV you_PP dead_JJ ?_SENT 
+JACK_NN :_: On_IN the_DT very_JJ day_NN that_IN/that no_DT one_CD 's_VBZ dying_VVG ?_SENT Wish_VV I_PP knew_VVD ._SENT And_CC what_WP got_VVD 
+you_PP so_RB involved_VVD ?_SENT 
+ESTHER_NN :_: I_PP 'm_VBP not_RB even_RB authorized_VVN for_IN this_DT ,_, but_CC this_DT friend_NN of_IN mine_NN ,_, I_PP 
+was_VBD telling_VVG him_PP about_IN Torchwood_NP and_CC he_PP crashed_VVD his_PP$ car_NN while_IN I_PP was_VBD 
+talking_VVG to_TO him_PP ._SENT 
+And_CC I_PP ca_MD n't_RB help_VV but_CC thinking_VVG that_IN/that it_PP 's_VBZ all_PDT my_PP$ fault_NN ._SENT 
+JACK_NN :_: I_PP know_VVP the_DT feeling_NN ._SENT 
+ESTHER_NN :_: So_RB what_WP is_VBZ Torchwood_NP ?_SENT 
+JACK_NN :_: Torchwood_NN no_RB longer_RBR exists_VVZ ._SENT 
+ESTHER_NN :_: Then_RB what_WP was_VBD it_PP ?_SENT Because_IN there_EX were_VBD photos_NNS in_IN that_DT file_NN of_IN a_DT 
+man_NN who_WP looked_VVD just_RB like_VV you_PP ,_, but_CC it_PP said_VVD 1939_CD ,_, then_RB 1925._CD Is_VBZ he_PP your_PP$ 
+father_NN ?_SENT 
+JACK_NN :_: I_PP suppose_VVP it_PP must_MD be_VB ._SENT 
+ESTHER_NP :_: Are_VBP you_PP all_DT right_NN ?_SENT 
+JACK_NN :_: Yeah_UH ._SENT I_PP hurt_VVD my_PP$ arm_NN ._SENT 
+ESTHER_NN :_: Considering_VVG what_WP we_PP just_RB went_VVD through_RP ,_, I_PP would_MD say_VV that_DT was_VBD a_DT 
+miracle_NN ._SENT 
+JACK_NN :_: Yeah_UH ,_, another_DT one_CD ._SENT The_DT Torchwood_NP Institute_NP was_VBD set_VVN up_RP by_IN the_DT 
+British_JJ royal_JJ family_NN in_IN 1879_CD to_TO defend_VV the_DT realm_NN of_IN Great_NP Britain_NP by_IN 
+investigating_VVG 
+the_DT unusual_JJ ,_, the_DT strange_JJ and_CC the_DT alien_NN ._SENT 
+ESTHER_NN :_: I_PP 'm_VBP kind_JJ of_IN guessing_VVG alien_NN does_VVZ n't_RB mean_VV foreign_JJ ._SENT 
+JACK_NN :_: Alien_JJ as_IN in_IN extraterrestrial_JJ ._SENT 
+ESTHER_NP :_: Oh_UH ,_, my_PP$ God_NP ._SENT 
+JACK_NN :_: This_DT whole_JJ situation_NN worldwide_RB ,_, that_WDT 's_VBZ exactly_RB the_DT kind_NN of_IN thing_NN 
+we_PP used_VVD to_TO investigate_VV ._SENT 
+ESTHER_NN :_: Torchwood_NN ,_, they_PP said_VVD that_IN/that people_NNS died_VVD ,_, but_CC there_EX was_VBD that_DT other_JJ 
+photo_NN ._SENT Gwen_NP Cooper_NP ._SENT There_EX was_VBD no_DT date_NN of_IN death_NN ._SENT 
+JACK_NN :_: She_PP 's_VBZ still_RB alive_JJ ._SENT The_DT last_JJ one_CD left_VVD ._SENT And_CC I_PP 'm_VBP gonna_VVG keep_VV her_PP 
+safe_JJ ,_, which_WDT means_VVZ making_VVG sure_JJ that_IN/that the_DT Institute_NP stays_VVZ dead_JJ and_CC buried_VVN ._SENT 
+
+ESTHER_NN :_: So_RB that_DT first_JJ email_NN last_JJ night_NN ,_, the_DT one_CD that_WDT just_RB said_VVD 
+Torchwood_NN ?_SENT 
+(_( Esther_NP takes_VVZ a_DT drink_NN of_IN water_NN ._SENT )_) 
+JACK_NN :_: Was_VBD n't_RB me_PP ._SENT God_NP knows_VVZ who_WP it_PP was_VBD ._SENT But_CC that_DT was_VBD enough_JJ to_TO call_VV me_PP 
+back_RB ,_, and_CC I_PP got_VVD to_TO work_VV releasing_VVG the_DT malware_NN ,_, destroying_VVG hard_JJ copies_NNS ,_, 
+removing_VVG all_DT traces_NNS of_IN the_DT word_NN ,_, using_VVG Retcon_NP ._SENT What_WP 's_VBZ Retcon_NP ?_SENT 
+ESTHER_NP :_: What_WP 's_VBZ Retcon_NP ?_SENT 
+JACK_NN :_: It_PP 's_VBZ a_DT smart_JJ drug_NN ._SENT Selective_JJ amnesia_NN ._SENT 
+ESTHER_NN :_: No._NN 
+JACK_NN :_: You_PP wo_MD n't_RB remember_VV a_DT thing_NN ._SENT 
+(_( Jack_NP catches_VVZ Esther_NP as_IN she_PP passes_VVZ out_RP ._SENT )_) 
+JACK_NN :_: Nice_JJ to_TO meet_VV you_PP ,_, Esther_NP ._SENT 
+
+[_SYM Hospital_NP room_NN /_SYM Corridor_NP ]_SYM 
+
+WVBS_NNS :_: The_DT fire_NN at_IN the_DT CIA_NP archive_NN is_VBZ now_RB under_IN 
+control_NN 
+(_( Rex_NP is_VBZ on_IN his_PP$ phone_NN to_TO Vera_NP in_IN another_DT part_NN of_IN the_DT hospital_NN ._SENT )_) 
+REX_NP :_: An_DT explosion_NN right_NN at_IN our_PP$ doorstep_NN ._SENT It_PP 's_VBZ a_DT gift_NN ._SENT Now_RB take_VV a_DT look_NN 
+at_IN the_DT victims_NNS ._SENT Are_VBP they_PP dead_JJ or_CC not_RB ?_SENT 
+VERA_NN :_: You_PP 're_VBP not_RB the_DT first_JJ to_TO think_VV of_IN it_PP ,_, Mister_NP Matheson_NP ._SENT Now_RB ,_, you_PP 
+can_MD stop_VV running_VVG the_DT case_NN from_IN a_DT hospital_NN bed_NN ._SENT 
+REX_NN :_: Wait_VV ,_, wait_VV ,_, wait_VV ,_, what_WP are_VBP you_PP talking_VVG about_RB ?_SENT Who_WP else_RB is_VBZ there_RB ?_SENT 
+VERA_NN :_: I_PP really_RB ca_MD n't_RB talk_VV ._SENT 
+REX_NP :_: Who_WP else_RB is_VBZ onto_IN this_DT ?_SENT 
+VERA_NN :_: I_PP 'll_MD check_VV the_DT Ringmain_NP ._SENT 
+REX_NP :_: The_DT what_WP ?_SENT Hello_UH ?_SENT 
+(_( Jack_NP is_VBZ in_IN a_DT dark_JJ suit_NN ._SENT He_PP meets_VVZ Vera_NP and_CC they_PP are_VBP escorted_VVN by_IN men_NNS 
+with_IN lots_NNS of_IN gold_JJ braid_NN on_IN their_PP$ uniforms_NNS ._SENT )_) 
+JACK_NN :_: FBI_NP ._SENT 
+[_SYM Hospital_NP room_NN ]_SYM 
+
+REX_NP :_: Hey_UH ,_, my_PP$ man_NN ,_, what_WP the_DT hell_NN is_VBZ the_DT Ringmain_NP ?_SENT 
+MALE_JJ NURSE_NN :_: It_PP 's_VBZ the_DT internal_JJ cameras_NNS ._SENT Security_NN system_NN ,_, that_WDT 's_VBZ all_RB ._SENT 
+(_( Rex_NP makes_VVZ another_DT call_NN ._SENT Reaching_VVG over_RP for_IN his_PP$ laptop_JJ hurts_NNS ._SENT )_) 
+REX_NP :_: Yeah_UH ._SENT Yeah_UH ,_, this_DT is_VBZ Rex_NP Matheson_NP with_IN the_DT CIA._NP Put_VVD me_PP on_IN with_IN your_PP$ 
+chief_JJ of_IN security_NN ._SENT Yeah_UH ,_, right_RB now_RB ._SENT 
+
+[_SYM Mortuary_NP ]_SYM 
+
+(_( Vera_NP and_CC Jack_NP enter_VVP ._SENT )_) 
+SANTINI_NP :_: Session_NN begins_VVZ supervised_VVN by_IN attending_VVG surgeon_NN Professor_NP 
+Victor_NP Louis_NP Santini_NP and_CC witnesses_NNS to_TO be_VB listed_VVN in_IN the_DT hospital_NN 
+register_NN ._SENT 
+The_DT purpose_NN of_IN this_DT enquiry_NN is_VBZ to_TO determine_VV ._SENT Well_RB ,_, as_IN you_PP 'll_MD see_VV ,_, 
+following_VVG the_DT explosion_NN at_IN the_DT CIA_NP archive_NN 
+[_SYM Hospital_NP room_NN ]_SYM 
+
+REX_NP :_: Got_VVD it_PP ._SENT 
+(_( Rex_NP logs_VVZ into_IN Ringmain_NP using_VVG Admin123_NP ._SENT He_PP watches_VVZ the_DT autopsy_NN ._SENT )_) 
+
+[_SYM Mortuary_NP ]_SYM 
+
+SANTINI_NNS :_: One_CD of_IN the_DT victims_NNS has_VHZ been_VBN 
+(_( The_DT pieces_NNS under_IN the_DT white_JJ sheet_NN groan_NN ._SENT )_) 
+SANTINI_NP :_: Yes_UH ,_, I_PP think_VVP we_PP can_MD ._SENT I_PP 'm_VBP sorry_JJ ._SENT They_PP brought_VVD me_PP in_IN as_IN an_DT 
+expert_NN ,_, but_CC I_PP do_VVP n't_RB know_VV what_WP the_DT hell_NN this_DT is_VBZ ._SENT 
+(_( The_DT assistants_NNS remove_VV the_DT sheet_NN ._SENT The_DT humanoid_JJ remains_NNS are_VBP bits_NNS of_IN bone_NN 
+and_CC muscle_NN ,_, all_RB burnt_VVN and_CC flayed_VVN ._SENT )_) 
+SANTINI_NN :_: We_PP think_VVP this_DT man_NN was_VBD right_JJ at_IN the_DT centre_NN of_IN the_DT blast_NN ,_, and_NP 
+yet_RB he_PP 's_VBZ still_RB alive_JJ ._SENT Clearly_RB ,_, the_DT skin_NN is_VBZ burnt_VVN ._SENT He_PP 's_VBZ not_RB 
+indestructible_JJ ,_, just_RB undying_JJ ._SENT Everliving_NP ._SENT We_PP 're_VBP going_VVG to_TO need_VV a_DT new_JJ 
+vocabulary_NN ._SENT But_CC we_PP 're_VBP getting_VVG the_DT same_JJ results_NNS from_IN all_DT over_IN the_DT world_NN ._SENT 
+
+VERA_NN :_: Is_VBZ that_IN/that actual_JJ consciousness_NN ?_SENT It_PP seems_VVZ like_IN he_PP 's_VBZ still_RB aware_JJ ._SENT 
+JACK_NN :_: Excuse_VV me_PP ,_, I_PP was_VBD wondering_VVG ._SENT Owen_NP Harper_NP ,_, FBI_NP ._SENT But_CC what_WP if_IN you_PP 
+detach_VV the_DT head_NN ?_SENT I_PP mean_VVP ,_, would_MD he_PP stay_VV alive_JJ without_IN his_PP$ head_NN ?_SENT 
+SANTINI_NN :_: I_PP suggest_VVP we_PP find_VV out_RP ._SENT 
+VERA_NN :_: Excuse_VV me_PP ._SENT you_PP ca_MD n't_RB do_VV that_DT ._SENT I_PP mean_VVP you_PP literally_RB ca_MD n't_RB ._SENT This_DT 
+man_NN is_VBZ not_RB dead_JJ ._SENT He_PP 's_VBZ our_PP$ patient_NN ._SENT 
+SANTINI_NP :_: Your_PP$ comments_NNS have_VHP been_VBN noted_VVN ,_, Doctor_NP Juarez_NP ._SENT Now_RB ,_, shall_MD we_PP 
+begin_VV ?_SENT 
+(_( Professor_NP Santini_NP begins_VVZ to_TO cut_VV the_DT bits_NNS that_WDT are_VBP connecting_VVG the_DT skull_NN 
+to_TO the_DT torso_NN ._SENT After_IN a_DT few_JJ moments_NNS ,_, the_DT eyes_NNS open_VVP ._SENT )_) 
+VERA_NP :_: Oh_UH my_PP$ God_NP ._SENT 
+SANTINI_NP :_: Do_VVP n't_RB tell_VV me_PP this_DT is_VBZ a_DT virus_NN or_CC evolution_NN or_CC whatever_JJ ._SENT This_DT 
+is_VBZ deliberate_JJ intervention_NN ._SENT I_PP mean_VVP ,_, all_RB of_IN us_PP have_VHP been_VBN changed_VVN by_IN 
+design_NN ._SENT 
+VERA_NN :_: But_CC how_WRB ?_SENT Who_WP could_MD do_VV this_DT ?_SENT 
+SANTINI_NP :_: Well_UH ,_, who_WP 's_VHZ got_VVN the_DT technology_NN ?_SENT Simple_JJ answer_NN ._SENT No_DT one_CD on_IN this_DT 
+Earth_NP ._SENT 
+
+[_SYM Cardiff_NP ]_SYM 
+
+(_( Rhys_NP and_CC Gwen_NP park_VVP their_PP$ car_NN by_IN a_DT shrine_NN in_IN front_NN 
+of_IN the_DT hospital_NN ._SENT People_NNS are_VBP lighting_VVG candles_NNS ._SENT )_) 
+GWEN_NP :_: What_WP the_DT hell_NN ?_SENT 
+ANDY_NN :_: Long_JJ time_NN no_RB see_VV ._SENT 
+GWEN_NP :_: Oh_UH ,_, my_PP$ God_NP ._SENT Hey_UH ._SENT 
+ANDY_NN :_: And_CC you_PP ,_, big_JJ lunk_NNS ._SENT Daddy_NN Day_NP Care_NP ._SENT Look_VV at_IN her_PP ._SENT So_IN your_PP$ father_NN 
+had_VHD a_DT mild_JJ heart_NN attack_NN on_IN Saturday_NP night_NN and_CC then_RB a_DT second_NN on_IN the_DT 
+Sunday_NP ,_, and_CC that_WDT was_VBD quite_RB bad_JJ ,_, to_TO be_VB honest_JJ ._SENT But_CC he_PP 's_VBZ stable_JJ now_RB ._SENT He_PP 's_VBZ 
+out_RB of_IN ICU_NP ._SENT Funny_JJ thing_NN is_VBZ ,_, if_IN you_PP 're_VBP gonna_VVG get_VV sick_JJ ,_, he_PP did_VVD n't_RB half_JJ 
+choose_VV the_DT right_JJ day_NN ._SENT 
+GWEN_NP :_: What_WP do_VVP you_PP mean_VVP ?_SENT 
+ANDY_NN :_: Look_VV at_IN them_PP ._SENT They_PP 're_VBP all_RB gathering_VVG around_RP the_DT hospitals_NNS like_VVP 
+they_PP 're_VBP the_DT new_JJ churches_NNS ._SENT 
+I_PP 'm_VBP not_RB kidding_VVG ._SENT We_PP 've_VHP had_VHD doctors_NNS being_VBG worshipped_VVN since_IN Miracle_NP Day_NP ._SENT 
+GWEN_NP :_: What_WP 's_VBZ Miracle_NP Day_NP ?_SENT 
+ANDY_NP :_: Are_VBP you_PP kidding_VVG me_PP ?_SENT Have_VHP n't_RB you_PP heard_VVD ?_SENT 
+GWEN_NP :_: Heard_VVD what_WP ?_SENT 
+ANDY_NN :_: Come_VV on_RP ._SENT It_PP started_VVD two_CD nights_NNS ago_RB ._SENT People_NNS stopped_VVD dying_VVG ._SENT They_PP 
+still_RB get_VV hurt_VVN ,_, sick_JJ ,_, they_PP just_RB wo_MD n't_RB die_VV ._SENT 
+
+[_SYM Cardiff_NP hospital_NN room_NN ]_SYM 
+
+(_( Gwen_NP 's_POS mother_NN is_VBZ sitting_VVG with_IN her_PP$ father_NN ._SENT )_) 
+MARY_NP :_: Oh_UH ,_, you_PP silly_JJ girl_NN ._SENT I_PP said_VVD stay_VV away_RB ._SENT 
+GWEN_NP :_: How_WRB could_MD I_PP do_VV that_IN/that ,_, Mam_NP ?_SENT 
+MARY_NP :_: What_WP if_IN someone_NN sees_VVZ you_PP ?_SENT It_PP 's_VBZ not_RB safe_JJ ._SENT You_PP told_VVD me_PP ._SENT What_WP if_IN 
+someone_NN 's_VBZ watching_VVG ?_SENT 
+(_( Rhys_NP carries_VVZ their_PP$ daughter_NN in_RP ._SENT )_) 
+MARY_NP :_: Oh_UH ,_, look_VV at_IN her_PP ._SENT Come_VV here_RB ._SENT Oh_UH ,_, good_JJ God_NP ,_, she_PP 's_VBZ enormous_JJ ._SENT 
+RHYS_NNS :_: That_WDT 's_VBZ your_PP$ grandma_NN ,_, remember_VVP ?_SENT 
+MARY_NN :_: How_WRB could_MD she_PP ?_SENT Never_RB sees_VVZ me_PP ,_, does_VVZ she_PP ?_SENT Not_RB since_IN the_DT day_NN she_PP was_VBD 
+born_VVN ._SENT Oh_UH ,_, hey_UH ,_, come_VV see_VV your_PP$ granddad_NN ._SENT 
+GWEN_NP :_: Hi_UH ,_, Dad_NP ._SENT Hey_UH ._SENT It_PP 's_VBZ me_PP ._SENT Hello_UH ._SENT 
+GERAINT_NN :_: You_PP should_MD n't_RB have_VH ._SENT 
+GWEN_NN :_: Well_RB ,_, there_EX we_PP are_VBP ,_, then_RB ._SENT Tough_JJ ._SENT And_CC you_PP can_MD stop_VV all_PDT this_DT 
+nonsense_JJ ,_, okay_JJ ?_SENT I_PP want_VVP you_PP up_RP and_CC out_RP this_DT bed_NN ,_, lazy_JJ old_JJ thing_NN ._SENT 
+GERAINT_NP :_: Ah_UH ,_, there_RB she_PP is_VBZ ._SENT Princess_NP ._SENT 
+MARY_NN :_: Look_VV at_IN her_PP though_RB ._SENT She_PP 's_VBZ huge_JJ ._SENT 
+GWEN_NN :_: She_PP 's_VBZ perfectly_RB normal_JJ ,_, Mam_NP ._SENT 
+MARY_NN :_: I_PP thought_VVD you_PP were_VBD being_VBG frugal_JJ ._SENT What_WP are_VBP you_PP feeding_VVG her_PP ,_, lard_NN ?_SENT 
+GWEN_NP :_: Yes_UH ,_, Mam_NP ._SENT I_PP 'm_VBP feeding_VVG her_PP$ lard_NN ._SENT Keep_VV telling_VVG her_PP that_DT ,_, and_CC by_IN the_DT 
+time_NN she_PP 's_VBZ thirteen_CD ,_, she_PP 'll_MD have_VH a_DT complete_JJ psychological_JJ complex_NN ._SENT 
+RHYS_NNS :_: Stop_VV it_PP now_RB ,_, you_PP two_CD ._SENT 
+MARY_NN :_: Sorry_JJ ._SENT 
+GWEN_NN :_: It_PP 's_VBZ okay_JJ ._SENT 
+MARY_NP :_: What_WP do_VVP you_PP think_VVP it_PP is_VBZ ,_, Gwen_NP ?_SENT What_WP happened_VVD to_TO us_PP ?_SENT This_DT 
+never-ending_VVG life_NN ,_, what_WP is_VBZ it_PP ?_SENT 
+GERAINT_NN :_: Should_MD I_PP be_VB dead_JJ ,_, sweetheart_NN ?_SENT 
+GWEN_NN :_: I_PP do_VVP n't_RB know_VV ,_, Dad_NP ._SENT 
+GERAINT_NN :_: It_PP 's_VBZ the_DT sort_NN of_IN thing_NN your_PP$ lot_NN used_VVN to_TO tackle_VV ._SENT 
+GWEN_NP :_: Yeah_UH ,_, but_CC Torchwood_NP 's_VBZ gone_VVN ,_, Dad_NP ._SENT There_EX 's_VBZ no_DT one_CD else_RB left_VVN on_RP 
+Earth_NP ._SENT Just_RB me_PP ,_, okay_JJ ?_SENT And_CC I_PP 'm_VBP sorry_JJ ,_, because_IN I_PP do_VVP n't_RB know_VV what_WP to_TO do_VV ._SENT 
+I_PP do_VVP n't_RB know_VV what_WP to_TO do_VV ,_, Dad_NP ._SENT 
+[_SYM Nurse_NP 's_POS station_NN ]_SYM 
+
+(_( Jack_NP returns_NNS to_TO his_PP$ hiding_NN place_NN in_IN Washington_NP DC_NP ._SENT 
+He_PP climbs_VVZ a_DT fire_NN escape_NN into_IN an_DT abandoned_VVN building_NN and_CC cooks_VVZ his_PP$ meal_NN 
+on_IN a_DT small_JJ stove_NN ._SENT He_PP calls_VVZ up_IN BBC_NP News_NP on_IN a_DT laptop_NN ._SENT Headline_NN ,_, the_DT Death_NN 
+of_IN Death_NP ._SENT Gwen_NP and_CC Andy_NP are_VBP looking_VVG at_IN the_DT same_JJ report_NN ._SENT )_) 
+GWEN_NN :_: It_PP 's_VBZ all_RB over_IN the_DT world_NN the_DT world_NN ._SENT Look_NN ._SENT Look_VV at_IN this_DT ._SENT Somalia_NP 
+has_VHZ stopped_VVN fighting_VVG ._SENT 
+ANDY_NN :_: Warfare_NN is_VBZ even_RB worse_JJR when_WRB the_DT bodies_NNS refuse_VVP to_TO die_VV ._SENT But_CC take_VV a_DT 
+look_NN at_IN North_NP Korea_NP ._SENT Huh_NP ,_, spoiling_VVG for_IN a_DT fight_NN ._SENT They_PP 've_VHP got_VVN a_DT lot_NN of_IN 
+soldiers_NNS who_WP think_VVP they_PP 're_VBP immortal_JJ ._SENT 
+GWEN_NP :_: But_CC this_DT miracle_NN ,_, it_PP 's_VBZ specifically_RB human_JJ ._SENT I_PP mean_VVP ,_, it_PP 's_VBZ got_VVN to_TO 
+be_VB ._SENT This_DT website_NN says_VVZ if_IN insects_NNS stopped_VVD dying_VVG ,_, we_PP 'd_MD be_VB overrun_VVN within_IN 
+forty_NN eight_CD hours_NNS flat_JJ ._SENT 
+And_CC that_WDT has_VHZ n't_RB happened_VVN ._SENT So_IN this_DT thing_NN is_VBZ being_VBG targeted_VVN at_IN us_PP ._SENT 
+ANDY_NP :_: Have_VHP a_DT look-see_NN ._SENT Budge_VV over_RP ._SENT I_PP 've_VHP missed_VVN all_PDT this_DT ._SENT 
+GWEN_NN :_: I_PP have_VHP n't_RB ._SENT 
+ANDY_NN :_: It_PP 's_VBZ quiet_JJ without_IN you_PP ._SENT 
+GWEN_NP :_: Oh_UH ,_, tush_NN ._SENT 
+ANDY_NN :_: Here_RB we_PP go_VVP ,_, look_VVP ._SENT Planet_NP Earth_NP ._SENT On_IN average_NN ,_, three_CD hundred_CD 
+thousand_CD people_NNS die_VVP every_DT day_NN ._SENT So_RB if_IN they_PP stop_VVP dying_VVG ,_, that_WDT 's_VBZ an_DT extra_JJ 
+what_WP ,_, million_CD people_NNS in_IN just_RB over_IN three_CD days._NN Add_VV to_TO that_DT five_CD hundred_CD 
+thousand_CD people_NNS born_VVN every_DT day_NN ._SENT 
+GWEN_NP :_: That_WDT 's_VBZ another_DT million_CD every_DT two_CD days_NNS plus_IN the_DT first_JJ million_CD ._SENT 
+Bloody_JJ hell_NN ._SENT 
+ANDY_NN :_: That_WDT 's_VBZ the_DT fastest_JJS population_NN boom_NN in_IN history_NN ._SENT 
+GWEN_NN :_: We_PP 're_VBP gonna_VVG run_VVN out_RP of_IN room_NN ._SENT 
+ANDY_NN :_: We_PP 'll_MD run_VV out_RP of_IN food_NN first_JJ ._SENT A_DT guy_NN on_IN the_DT telly_NN was_VBD saying_VVG we_PP 've_VHP 
+got_VVD four_CD months_NNS like_IN this_DT ._SENT Just_RB four_CD months_NNS ,_, and_CC then_RB that_WDT 's_VBZ it_PP ,_, 
+society_NN just_RB collapses_VVZ ._SENT Everyone_NN fighting_VVG each_DT other_JJ for_IN food_NN ,_, like_VVP 
+animals_NNS ._SENT 
+RHYS_NP :_: Oi_NP ,_, what_WP are_VBP you_PP two_CD doing_NN ?_SENT 
+ANDY_NN :_: I_PP was_VBD just_RB asking_VVG for_IN some_DT advice_NN ._SENT 
+RHYS_NP :_: Yeah_UH ,_, do_VVP n't_RB you_PP start_VVP ._SENT Gwen_NP ?_SENT 
+GWEN_NP :_: Yes_UH ?_SENT 
+RHYS_NNS :_: No_DT more_JJR investigations_NNS ._SENT You_PP promised_VVD ._SENT We_PP 're_VBP here_RB to_TO see_VV your_PP$ Dad_NP ._SENT 
+That_DT 's_VBZ it_PP ,_, yeah_RB ?_SENT 
+GWEN_NP :_: Do_VVP you_PP want_VVP to_TO come_VV and_CC have_VHP a_DT look_NN ?_SENT Come_VVN on_IN ,_, bright_JJ eyes_NNS ,_, follow_VV 
+me_FW ._SENT 
+
+[_SYM Hospital_NP basement_NN ]_SYM 
+
+(_( There_EX are_VBP beds_NNS in_IN the_DT tiny_JJ corridors_NNS ._SENT )_) 
+GWEN_NP :_: Look_VVP ,_, intensive_JJ care_NN overflow_NN ._SENT They_PP 've_VHP got_VVN twelve_NN beds_NNS with_IN 
+seventeen_CD patients_NNS already_RB ._SENT What_WP 's_VBZ gonna_VVG happen_VV tomorrow_NN ?_SENT And_CC the_DT day_NN 
+after_IN that_DT ?_SENT 
+And_CC the_DT day_NN after_IN that_DT ?_SENT And_CC the_DT day_NN 
+RHYS_NNS :_: Listen_VV ,_, now_RB ._SENT Every_DT time_NN you_PP investigate_VVP something_NN ,_, you_PP end_VVP up_RP in_IN 
+danger_NN ,_, Gwen_NP ._SENT 
+GWEN_NP :_: Because_IN I_PP can_MD help_VV ._SENT 
+RHYS_NP :_: Do_VVP n't_RB you_PP dare_VVP ._SENT 
+GWEN_NN :_: So_RB you_PP just_RB 
+RHYS_NNS :_: I_PP said_VVD do_VV n't_RB you_PP dare_VVP !_SENT Have_VHP you_PP got_VVN that_RB ?_SENT Do_VVP n't_RB you_PP bloody_JJ dare_NN ,_, 
+Gwen_NP !_SENT See_VV ,_, the_DT thing_NN is_VBZ ,_, right_RB ,_, if_IN you_PP think_VVP Miracle_NP Day_NP is_VBZ like_IN a_DT 
+Torchwood_NN case_NN ,_, others_NNS are_VBP going_VVG to_TO think_VV the_DT same_JJ ,_, are_VBP n't_RB they_PP ?_SENT 
+They_PP 're_VBP gonna_VVG come_VV looking_VVG for_IN you_PP with_IN guns_NNS like_IN they_PP did_VVD the_DT old_JJ 
+days._NP 
+GWEN_NN :_: I_PP suppose_VVP ,_, yeah_RB ._SENT 
+RHYS_NNS :_: We_PP should_MD n't_RB even_RB be_VB in_IN the_DT city_NN ._SENT There_EX are_VBP cameras_NNS everywhere_RB ,_, 
+man_UH ._SENT And_CC it_PP 's_VBZ different_JJ now_RB ._SENT You_PP 've_VHP got_VVN a_DT daughter_NN ,_, and_CC you_PP ca_MD n't_RB go_VV 
+putting_VVG her_PP into_IN danger_NN ._SENT That_DT is_VBZ why_WRB we_PP live_VVP in_IN the_DT back_NN of_IN beyond_RB ,_, to_TO 
+keep_VV her_PP safe_JJ ._SENT We_PP 've_VHP got_VVN to_TO go_VV back_RB ._SENT 
+GWEN_NP :_: My_PP$ dad_NN is_VBZ sick_JJ ._SENT 
+RHYS_NP :_: Oh_UH ,_, think_VV about_IN it_PP !_SENT People_NNS are_VBP n't_RB dying_VVG ._SENT He_PP 's_VBZ gonna_VVG survive_VV ._SENT 
+GWEN_NP :_: Shush_VVP ,_, now_RB ._SENT Shush_VV ._SENT 
+RHYS_NP :_: Think_VVP about_IN Anwen_NP ._SENT Maybe_RB our_PP$ daughter_NN 's_VBZ going_VVG to_TO live_VV forever_RB ._SENT 
+GWEN_NP :_: Do_VVP n't_RB ,_, okay_JJ ?_SENT Do_VVP n't_RB make_VV her_PP$ part_NN of_IN this_DT this_DT thing_NN ,_, okay_JJ ?_SENT Do_VV n't_RB ._SENT 
+Do_VVP you_PP think_VVP she_PP could_MD ?_SENT 
+RHYS_NNS :_: Possible_JJ ,_, yeah_RB ._SENT See_VV ,_, maybe_RB you_PP should_MD let_VV this_DT happen_VV for_IN once_RB ._SENT 
+GWEN_NN :_: Let_VV 's_VBZ go_VV home_NN ._SENT 
+RHYS_NP :_: Yes_UH ._SENT 
+GWEN_NN :_: Let_VV 's_VBZ go_VV home_NN ._SENT 
+
+[_SYM Esther_NP 's_POS apartment_NN ]_SYM 
+
+(_( Esther_NP wakes_VVZ up_RB fully_RB clothed_VVN ,_, lying_VVG on_IN her_PP$ bed_NN ._SENT 
+She_PP gets_VVZ up_RP and_CC checks_NNS why_WRB her_PP$ side_NN is_VBZ hurting_VVG ._SENT There_EX is_VBZ a_DT massive_JJ 
+bruise_NN on_IN her_PP$ torso_NN from_IN the_DT fall_NN ._SENT )_) 
+ESTHER_NP :_: What_WP the_DT hell_NN ?_SENT 
+(_( Jack_NP is_VBZ also_RB sporting_VVG bruises_NNS and_CC cuts_NNS on_IN his_PP$ arm_NN from_IN broken_VVN glass_NN ._SENT 
+He_PP has_VHZ n't_RB healed_VVN ._SENT )_) 
+
+[_SYM CIA_NP Analysts_NP Office_NP ]_SYM 
+
+TV_NN :_: The_DT search_NN or_CC suspects_NNS continues_VVZ after_IN last_JJ 
+night_NN 's_POS massive_JJ explosion_NN at_IN the_DT CIA_NP archives_NN 
+CHARLOTTE_NN :_: Nice_JJ for_IN some_DT ,_, having_VHG the_DT morning_NN off_RB ?_SENT 
+ESTHER_NP :_: Yeah_UH ,_, I_PP ,_, er_NNS had_VHD things_NNS to_TO do_VV ._SENT Missed_VVN all_PDT this_DT ._SENT 
+NOAH_NN :_: You_PP owe_VVP me_PP ._SENT Yasmin_NP works_VVZ in_IN Friedkin_NP 's_POS office_NN ._SENT She_PP got_VVD me_PP the_DT 
+last_JJ remaining_VVG copy_NN of_IN the_DT Torchwood_NP file_NN ._SENT Now_RB you_PP can_MD take_VV me_PP to_TO 
+dinner_NN ._SENT 
+(_( Esther_NP takes_VVZ the_DT big_JJ file_NN and_CC puts_VVZ it_PP in_IN her_PP$ desk_NN drawer_NN ._SENT Her_PP$ phone_NN 
+rings_NNS ._SENT )_) 
+ESTHER_NN :_: Esther_NP Drummond_NP ._SENT Hello_UH ._SENT 
+
+[_SYM Hospital_NP room_NN /_SYM CIA_NP Analysts_NP Office_NP ]_SYM 
+
+REX_NP :_: Is_VBZ there_RB a_DT database_NN correlating_VVG mortality_NN 
+rates_NNS from_IN every_DT single_JJ hospital_NN in_IN the_DT world_NN ?_SENT 
+ESTHER_NP :_: Are_VBP you_PP on_IN your_PP$ cell_NN phone_NN ?_SENT Because_IN you_PP 're_VBP not_RB allowed_VVN to_TO be_VB 
+using_VVG it_PP ._SENT 
+REX_NP :_: And_CC is_VBZ anyone_NN talking_VVG to_TO morticians_NNS ?_SENT Because_RB ,_, I_PP mean_VVP ,_, they_PP 've_VHP got_VVN 
+to_TO be_VB the_DT first_JJ to_TO notice_VV ,_, right_RB ?_SENT 
+ESTHER_NN :_: There_EX 's_VBZ nothing_NN ._SENT There_EX 's_VBZ no_DT news_NN ._SENT The_DT whole_JJ thing_NN ,_, it_PP 's_VBZ kind_NN of_IN 
+intangible_JJ ._SENT How_WRB do_VVP you_PP investigate_VV something_NN not_RB happening_VVG ?_SENT And_CC all_DT 
+that_DT Torchwood_NP stuff_NN that_WDT 's_VBZ gone_VVN up_RP to_TO Friedkin_NP ._SENT 
+REX_NP :_: Oh_UH ,_, yeah_RB ?_SENT So_RB what_WP 's_POS Torchwood_NP got_VVD to_TO do_VV with_IN it_PP ?_SENT 
+ESTHER_NN :_: I_PP do_VVP n't_RB know_VV ._SENT It_PP 's_VBZ sort_NN of_IN connected_VVN ,_, is_VBZ n't_RB it_PP ?_SENT 
+REX_NP :_: No._NN No_RB ,_, it_PP 's_VBZ not_RB ._SENT It_PP 's_VBZ a_DT completely_RB different_JJ case_NN ._SENT 
+ESTHER_NN :_: Sure_JJ ._SENT Of_IN course_NN it_PP is_VBZ ._SENT 
+REX_NN :_: Then_RB why_WRB 'd_MD you_PP mention_VV it_PP ?_SENT 
+ESTHER_NP :_: Do_VVP n't_RB know_VV ._SENT I_PP suppose_VVP it_PP just_RB happened_VVD at_IN the_DT same_JJ time_NN ?_SENT 
+REX_NN :_: So_RB what_WP is_VBZ Torchwood_NP ,_, anyway_RB ?_SENT 
+ESTHER_NP :_: Er_UH ,_, some_DT kind_NN of_IN British_JJ intervention_NN agency_NN ._SENT Closed_VVN down_RB ._SENT Used_VVN 
+to_TO specialise_VV in_IN 456_CD cases_NNS and_CC above_JJ ._SENT 
+REX_NN :_: So_RB that_DT first_JJ email_NN with_IN Torchwood_NP ,_, you_PP know_VVP ,_, the_DT security_NN breach_NN ,_, 
+when_WRB did_VVD that_IN/that come_VVN through_RP ?_SENT 
+ESTHER_NN :_: Sunday_NP night_NN ,_, twenty_CD two_CD thirty_CD six_CD ._SENT 
+REX_NP :_: Twenty_CD two_CD thirty_CD six_CD ,_, huh_NP ?_SENT 
+ESTHER_NN :_: Yep_NP ._SENT 
+REX_NP :_: Twenty_CD two_CD thirty_CD six_CD ._SENT Twenty_CD two_CD thirty_CD six_CD was_VBD the_DT last_JJ reported_VVD 
+death_NN ._SENT The_DT last_JJ death_NN on_IN planet_NN Earth_NN ._SENT 
+ESTHER_NN :_: Well_RB ,_, that_WDT 's_VBZ disputable_JJ ._SENT They_PP said_VVD that_IN/that the_DT last_JJ death_NN was_VBD on_IN 
+Monday_NP ._SENT 
+REX_NP :_: No_UH ,_, no_UH ,_, no._NP Monday_NP in_IN Shanghai_NP ._SENT At_IN eleven_NN thirty_CD six_CD ._SENT Washington_NP 
+DC_NP is_VBZ thirteen_CD hours_NNS behind_RB at_IN twenty_CD two_CD thirty_CD six_CD ._SENT Both_CC those_DT things_NNS 
+happened_VVN at_IN the_DT same_JJ time_NN ._SENT Do_VVP n't_RB you_PP see_VVP ?_SENT You_PP were_VBD right_JJ ._SENT It_PP 's_VBZ all_RB 
+connected_VVN ._SENT Torchwood_NN 's_VBZ the_DT key_NN to_TO this_DT whole_JJ thing_NN ._SENT 
+(_( Rex_NP tries_VVZ to_TO get_VV dressed_VVN ._SENT )_) 
+NURSE_NN :_: Rex_NP ,_, I_PP 've_VHP warned_VVN you_PP ._SENT You_PP 're_VBP gonna_VVG kill_VV yourself_PP !_SENT 
+REX_NN :_: I_PP ca_MD n't_RB ._SENT That_DT 's_VBZ the_DT point_NN ._SENT 
+(_( Later_JJR ,_, Rex_NP is_VBZ dressed_VVN and_CC on_IN his_PP$ way_NN out_RP ._SENT )_) 
+REX_NP :_: All_DT right_NN ,_, so_RB give_VV me_PP those_DT names_NNS again_RB ._SENT 
+ESTHER_NN :_: Captain_NP Jack_NP Harkness_NP and_CC Gwen_NP Cooper_NP ._SENT Zero_CD information_NN on_IN him_PP 
+and_CC no_DT sightings_NNS of_IN Cooper_NP for_IN the_DT last_JJ twelve_NN months_NNS ._SENT It_PP 's_VBZ like_IN she_PP 's_VBZ 
+gone_VVN underground_RB ._SENT 
+(_( Rex_NP borrows_VVZ a_DT crutch_NN and_CC downs_VVZ some_DT painkillers_NNS ._SENT )_) 
+REX_NP :_: Yeah_UH ,_, that_WDT 's_VBZ them_PP ._SENT 
+ESTHER_NN :_: The_DT case_NN details_NNS have_VHP been_VBN censored_VVN by_IN UNIT_NP Headquarters_NP ._SENT This_DT 
+file_NN 's_POS got_VVN referrals_NNS going_VVG all_PDT the_DT way_NN to_TO Geneva_NP and_CC above_JJ ._SENT It_PP 's_VBZ way_NN 
+beyond_IN top_JJ secret_NN ._SENT 
+REX_NP :_: Yeah_UH ,_, yeah_RB ,_, yeah_RB ._SENT CIA._NNS Move_VVP out_RP of_IN my_PP$ way_NN ._SENT 
+(_( He_PP takes_VVZ another_DT bottle_NN of_IN painkillers_NNS ._SENT )_) 
+DOCTOR_NN :_: You_PP ca_MD n't_RB take_VV them_PP ._SENT 
+VERA_NP :_: Rex_NP ,_, what_WP do_VVP you_PP think_VVP you_PP 're_VBP doing_VVG ?_SENT 
+REX_NN :_: Sorry_RB ,_, Doc_NP ,_, I_PP 'm_VBP too_RB busy_JJ ._SENT 
+VERA_NN :_: You_PP are_VBP in_IN no_DT condition_NN to_TO leave_VV ._SENT 
+(_( He_PP snatches_VVZ a_DT wheelchair_NN ._SENT )_) 
+REX_NP :_: Oh_UH ,_, I_PP 'm_VBP not_RB just_RB leaving_VVG ._SENT I_PP 'm_VBP flying_VVG all_PDT the_DT way_NN to_TO the_DT United_NP 
+Kingdom_NP ._SENT Esther_NP ,_, book_VV me_PP a_DT flight_NN ._SENT 
+(_( He_PP wheels_VVZ himself_PP outside_IN the_DT hospital_NN ._SENT )_) 
+REX_NP :_: Hey_UH ,_, CIA._NP I_PP 'm_VBP taking_VVG that_DT cab_NN ._SENT Move_VV the_DT hell_NN out_RP of_IN the_DT way_NN ._SENT Move_NN !_SENT 
+Now_RB ,_, make_VVP sure_RB you_PP get_VVP a_DT hold_NN of_IN supplies_NNS ,_, because_IN I_PP 'm_VBP gonna_VVG need_VV a_DT 
+requisition_NN fifteen_CD ._SENT 
+ESTHER_NP :_: What_WP do_VVP you_PP need_VVP that_IN/that for_IN ?_SENT 
+REX_NN :_: You_PP do_VVP know_VV what_WP a_DT requisition_NN fifteen_CD is_VBZ ,_, right_RB ?_SENT 
+ESTHER_NN :_: Of_IN course_NN I_PP do_VVP ._SENT It_PP 's_VBZ clearance_NN to_TO take_VV a_DT handgun_NN on_IN a_DT plane_NN ._SENT 
+REX_NN :_: Well_RB then_RB ,_, I_PP 'm_VBP taking_VVG a_DT handgun_NN on_IN a_DT plane_NN ._SENT Now_RB book_VV that_DT flight_NN ._SENT 
+[_SYM CIA_NP Analysts_NP Office_NP /_SYM Airport_NP ]_SYM 
+
+(_( Rex_NP 's_POS housekeeper_NN meets_VVZ him_PP with_IN his_PP$ passport_NN ._SENT )_) 
+ESTHER_NN :_: Okay_JJ ,_, your_PP$ flight_NN departs_VVZ at_IN oh_UH two_CD hundred_CD hours_NNS ,_, but_CC your_PP$ 
+requisition_NN has_VHZ been_VBN refused_VVN ._SENT 
+ROSITA_NP :_: Tengo_NP tu_NP pasaporte_NP ._SENT 
+REX_NN :_: If_IN requisitions_NNS wo_MD n't_RB move_VV ,_, then_RB get_VV me_PP a_DT handgun_NN from_IN UK_NP 
+security_NN ._SENT 
+ESTHER_NN :_: How_WRB am_VBP I_PP supposed_VVN to_TO do_VV that_DT ?_SENT 
+REX_NN :_: Shush_VV !_SENT Get_VV me_PP the_DT gun_NN ._SENT Rosita_NP ,_, Rosita_NP ,_, here_RB ._SENT I_PP do_VVP n't_RB know_VV when_WRB I_PP 'm_VBP 
+coming_VVG back_RB ,_, all_DT right_NN ?_SENT I_PP do_VVP n't_RB want_VV you_PP letting_VVG your_PP$ husband_NN into_IN my_PP$ 
+house_NN ._SENT You_PP got_VVD that_RB ?_SENT No_DT husbando_NN ._SENT No_DT husbando_NN ._SENT 
+(_( Rex_NP leaves_VVZ Rosita_NP holding_VVG the_DT hospital_NN crutch_NN ._SENT )_) 
+
+[_SYM Aeroplane_NP /_SYM Esther_NP 's_POS apartment_NN ]_SYM 
+
+ANNOUNCEMENT_NN :_: Good_JJ evening_NN ,_, ladies_NNS and_CC gentlemen_NNS ,_, 
+and_CC welcome_JJ to_TO your_PP$ flight_NN to_TO London_NP Heathrow_NP ._SENT 
+REX_NP :_: All_DT right_NN ,_, now_RB concentrate_VV ._SENT The_DT life_NN of_IN Gwen_NP Cooper_NP ._SENT What_WP do_VVP we_PP 
+know_VV ?_SENT 
+ESTHER_NN :_: Ex-police_NN ._SENT It_PP says_VVZ that_IN/that she_PP joined_VVD the_DT Torchwood_NP Institute_NP in_IN 
+October_NP 2006._CD 
+REX_NP :_: All_DT right_NN ,_, now_RB hold_VV on_IN ,_, hold_VV on_RP ._SENT Go_VV through_IN her_PP$ police_NN records_NNS ._SENT 
+Find_VV out_IN everyone_NN she_PP worked_VVD with_IN ,_, everyone_NN she_PP trained_VVD with_IN ._SENT 
+ATTENDANT_NN :_: I_PP 'm_VBP sorry_JJ ,_, sir_NN ._SENT I_PP have_VHP to_TO ask_VV you_PP to_TO turn_VV your_PP$ phone_NN off_RP 
+now_RB ._SENT 
+REX_NP :_: CIA_NP ,_, and_CC I_PP 'm_VBP sick_JJ ._SENT Gwen_NP Cooper_NP ._SENT Find_VV out_IN everything_NN ._SENT 
+ESTHER_NN :_: I_PP ca_MD n't_RB get_VV into_IN the_DT database_NN ._SENT I_PP 'll_MD need_VV your_PP$ password_NN ._SENT 
+(_( A_DT hand_NN takes_VVZ Rex_NP 's_POS phone_NN and_CC turns_VVZ it_PP off_RP ._SENT )_) 
+ESTHER_NN :_: Rex_NP !_SENT 
+
+[_SYM Heathrow_NP Airport_NP /_SYM Esther_NP 's_POS apartment_NN ]_SYM 
+
+(_( 9_CD am_RB ._SENT A_DT policeman_NN lets_VVZ Rex_NP out_IN of_IN a_DT back_JJ door_NN ._SENT He_PP 
+has_VHZ his_PP$ phone_NN back_RB ._SENT )_) 
+REX_NP :_: Hi_UH ._SENT So_RB where_WRB the_DT hell_NN was_VBD I_PP ?_SENT Right_RB ._SENT The_DT password_NN 's_POS Madrid_NP 66211._CD 
+That_DT 's_VBZ Madrid_NP with_IN a_DT capital_NN M_NN ._SENT Now_RB go_VV through_IN that_DT list_NN and_CC 
+scan_NN through_IN their_PP$ records_NNS using_VVG a_DT level_NN one_CD filter_NN ._SENT You_PP should_MD 
+highlight_NN anything_NN with_IN a_DT red_JJ flag_NN or_CC a_DT caution_NN pertaining_VVG to_TO Homeland_NP 
+Security_NP ._SENT 
+(_( He_PP collects_VVZ a_DT gun_NN from_IN a_DT police_NN officer_NN ._SENT )_) 
+ESTHER_NN :_: I_PP 've_VHP got_VVN one_CD positive_JJ response_NN ._SENT Police_NP Sergeant_NP Andrew_NP Davison_NP ,_, 
+Cardiff_NP resident_NN ._SENT There_EX 's_VBZ a_DT note_NN in_IN his_PP$ file_NN says_VVZ he_PP was_VBD Gwen_NP Cooper_NP 's_POS 
+unofficial_JJ liaison_NN ._SENT I_PP can_MD access_VV his_PP$ private_JJ calls_NNS ._SENT 
+[_SYM Car_NP /_SYM Esther_NP 's_POS apartment_NN ]_SYM 
+
+ESTHER_NN :_: I_PP 've_VHP got_VVN to_TO filter_VV this_DT through_IN Whitehall_NP ._SENT 
+(_( Another_DT bottle_NN of_IN painkillers_NNS is_VBZ finished_VVN ._SENT )_) 
+REX_NP :_: How_WRB long_RB 's_VBZ it_PP gonna_VVG take_VV ?_SENT 
+ESTHER_NN :_: Any_DT minute_NN now_RB ._SENT 
+REX_NP :_: And_CC what_WP the_DT hell_NN is_VBZ this_DT bridge_NN ?_SENT The_DT Severn_NP Bridge_NP ?_SENT 
+ESTHER_NN :_: It_PP connects_VVZ England_NP to_TO Wales_NP ._SENT 
+REX_NP :_: What_WP ,_, you_PP mean_VVP Wales_NP is_VBZ separate_JJ ?_SENT It_PP 's_VBZ like_IN the_DT British_JJ equivalent_NN 
+of_IN New_NP Jersey_NP ._SENT 
+ESTHER_NN :_: Hold_VV on_IN ,_, hold_VV on_RP ._SENT I_PP think_VVP I_PP 've_VHP got_VVN something_NN ._SENT Sergeant_NP Davison_NP 
+made_VVN one_CD call_NN on_IN Tuesday_NP at_IN seventeen_CD oh_UH eight_CD to_TO a_DT number_NN that_WDT 's_VBZ on_IN 
+the_DT 
+UK_NP Hickman_NP register_NN ._SENT That_DT 's_VBZ a_DT list_NN of_IN cell_NN numbers_NNS allocated_VVN to_TO witness_NN 
+protection_NN schemes_NNS ._SENT 
+REX_NP :_: That_WDT 's_VBZ it_PP then_RB ,_, we_PP 've_VHP got_VVN her_PP ._SENT 
+ESTHER_NN :_: I_PP can_MD request_VV that_IN/that through_IN MI5_NP ._SENT 
+(_( Rex_NP arrives_VVZ at_IN the_DT toll_NN booths_NNS ._SENT If_IN he_PP has_VHZ just_RB crossed_VVN over_RP ,_, then_RB he_PP 
+has_VHZ not_RB used_VVN the_DT Severn_NP Bridge_NP but_CC the_DT M4_NP Second_NP Severn_NP Crossing_NP ._SENT Tut_NN ._SENT 
+Details_NNS are_VBP important_JJ ._SENT )_) 
+REX_NN :_: Now_RB what_WP is_VBZ this_DT ?_SENT Wait_VV a_DT minute_NN ,_, I_PP 've_VHP got_VVN to_TO pay_VV for_IN this_DT bridge_NN ?_SENT 
+Goddamn_RB Wales_NP ._SENT 
+ESTHER_NN :_: I_PP 've_VHP traced_VVN the_DT handset_NN ._SENT Sending_VVG you_PP the_DT coordinates_VVZ now_RB ._SENT It_PP 's_VBZ 
+at_IN fifty_CD one_CD degrees_NNS thirty_CD four_CD north_NN ,_, four_CD degrees_NNS seventeen_CD west_NN ._SENT 
+REX_NN :_: I_PP got_VVD it_PP ._SENT 
+
+[_SYM Welsh_NP Farm_NP ]_SYM 
+
+(_( Rex_NP and_CC Gwen_NP point_NN guns_NNS at_IN each_DT other_JJ ._SENT )_) 
+REX_NP :_: CIA_NP !_SENT 
+GWEN_NP :_: Yeah_UH ?_SENT So_RB what_WP ?_SENT 
+(_( Rex_NP collapses_VVZ ._SENT )_) 
+
+KCNU_NN :_: Extraordinary_JJ scenes_NNS in_IN Kentucky_NP as_IN the_DT 
+governor_NN 's_POS office_NN releases_VVZ Oswald_NP Danes_NP on_IN parole_NN ._SENT 
+The_DT charity_NN Freedom_NP and_CC Liberty_NP has_VHZ employed_VVN a_DT force_NN majeure_NN ruling_VVG to_TO 
+define_VV Danes_NP '_POS survival_NN as_IN an_DT act_NN of_IN God_NP ,_, with_IN liability_NN now_RB on_IN the_DT 
+state_NN to_TO prove_VV otherwise_RB ._SENT 
+
+[_SYM Farmhouse_NP ]_SYM 
+
+(_( Rex_NP is_VBZ tied_VVN to_TO a_DT radiator_NN with_IN thin_JJ rope_NN ._SENT One_CD of_IN 
+his_PP$ chest_NN wounds_NNS has_VHZ been_VBN bleeding_VVG again_RB ._SENT )_) 
+GWEN_NN :_: Right_RB ,_, we_PP 're_VBP off_RP ._SENT We_PP 're_VBP gonna_VVG get_VV a_DT good_JJ head_NN start_NN and_CC phone_NN you_PP 
+an_DT ambulance_NN ._SENT Do_VVP n't_RB follow_VV us_PP ._SENT Do_VV n't_RB even_RB try_VV ._SENT We_PP just_RB want_VVP to_TO be_VB left_VVN 
+alone_RB ,_, okay_JJ ?_SENT 
+(_( Rex_NP easily_RB gets_VVZ free_JJ ._SENT )_) 
+GWEN_NP :_: Hold_VVP it_PP right_RB there_RB ,_, mate_NN ._SENT So_RB much_RB for_IN tying_VVG him_PP up_RP ._SENT 
+RHYS_NNS :_: I_PP 've_VHP never_RB tied_VVN up_RP a_DT person_NN ._SENT 
+GWEN_NP :_: Men_NNS are_VBP good_JJ at_IN knots_NNS ._SENT How_WRB many_JJ times_NNS have_VHP you_PP told_VVD me_PP that_DT ?_SENT 
+RHYS_NP :_: Yeah_UH ,_, at_IN Christmas_NP ._SENT 
+REX_NP :_: Hey_UH !_SENT Hey_UH ,_, hey_UH ,_, hey_UH ,_, hey_UH ,_, hey_UH ._SENT I_PP had_VHD a_DT pole_NN through_IN my_PP$ chest_NN ._SENT I_PP was_VBD 
+dead_RB ,_, then_RB I_PP was_VBD n't_RB ._SENT I_PP had_VHD to_TO pay_VV for_IN this_DT Bridge_NP and_CC now_RB I_PP 
+want_VVP to_TO know_VV 
+what_WP the_DT hell_NN is_VBZ going_VVG on_RP ,_, all_DT right_NN ?_SENT Because_IN I_PP was_VBD dead_JJ and_CC now_RB I_PP 'm_VBP 
+not_RB ._SENT And_CC if_IN that_WDT has_VHZ anything_NN to_TO do_VV with_IN Torchwood_NP or_CC you_PP or_CC anyone_NN ,_, 
+then_RB I_PP need_VVP ._SENT 
+(_( A_DT helicopter_NN is_VBZ hovering_VVG ,_, looking_VVG through_IN a_DT window_NN ._SENT )_) 
+REX_NN :_: You_PP know_VVP ,_, it_PP would_MD really_RB help_VV if_IN could_MD hear_VV myself_PP think_VV ._SENT What_WP 
+the_DT hell_NN is_VBZ he_PP doing_VVG ?_SENT 
+RHYS_NNS :_: It_PP 's_VBZ a_DT tourist_NN thing_NN ._SENT 
+GWEN_NP :_: No._NN No_RB ,_, I_PP do_VVP n't_RB think_VV it_PP is_VBZ ._SENT Oh_UH ,_, sweetheart_NN ._SENT 
+(_( A_DT man_NN fires_VVZ a_DT bazooka_NN from_IN the_DT helicopter_NN ._SENT It_PP goes_VVZ through_IN the_DT window_NN ,_, 
+through_IN the_DT house_NN and_CC impacts_NNS on_IN the_DT slope_NN behind_IN them_PP ._SENT )_) 
+GWEN_NN :_: Get_VV back_RB !_SENT 
+(_( Gwen_NP shoots_VVZ their_PP$ would-be_JJ assassin_NN whilst_IN holding_VVG Anwen_NP in_IN her_PP$ arms_NNS ,_, 
+and_CC the_DT helicopter_NN flies_VVZ off_RP ._SENT )_) 
+GWEN_NN :_: Get_VV in_IN the_DT car_NN ._SENT Come_VVN on_IN !_SENT 
+(_( They_PP are_VBP strafed_VVN as_IN they_PP run_VVP ._SENT Jack_NP shoot_VVP a_DT machinegun_VVP at_IN the_DT 
+helicopter_NN from_IN his_PP$ open_JJ top_JJ Land_NN Rover_NP 90._CD )_) 
+JACK_NN :_: Ca_MD n't_RB leave_VV you_PP alone_RB for_IN a_DT minute_NN ._SENT 
+REX_NN :_: It_PP 's_VBZ you_PP ._SENT 
+(_( Rex_NP recalls_VVZ when_WRB his_PP$ phone_NN was_VBD taken_VVN off_IN him_PP on_IN the_DT aeroplane_NN ._SENT )_) 
+REX_NN [_SYM memory_NN ]_SYM :_: Gwen_NP Cooper_NP ._SENT Find_VV out_IN everything_NN ._SENT 
+JACK_NN [_SYM memory_NN ]_SYM :_: She_PP said_VVD to_TO turn_VV off_RP the_DT phone_NN ._SENT 
+JACK_NN :_: Never_RB annoy_VV me_PP again_RB ._SENT Now_RB get_VV in_IN ._SENT 
+
+[_SYM Land_NP Rover_NP ]_SYM 
+
+(_( The_DT helicopter_NN chases_VVZ them_PP along_IN the_DT long_JJ ,_, smooth_JJ 
+beach_NN ._SENT Pendine_NP Sands_NP ?_SENT )_) 
+JACK_NN :_: Duck_NN !_SENT 
+RHYS_NP :_: Jack_NP ,_, for_IN God_NP 's_POS sake_NN ,_, there_EX 's_VBZ a_DT kid_NN here_RB !_SENT 
+JACK_NN :_: I_PP got_VVD a_DT present_NN for_IN you_PP in_IN the_DT back_NN ._SENT 
+RHYS_NNS :_: Give_VV her_PP to_TO me_PP ,_, Gwen_NP ,_, the_DT baby_NN ._SENT 
+JACK_NN :_: You_PP there_RB ,_, CIA_NP ,_, do_VVP something_NN useful_JJ ._SENT 
+REX_NP :_: Wales_NP is_VBZ insane_JJ ._SENT Get_VV down_RB !_SENT 
+(_( Rex_NP fires_VVZ the_DT machinegun_VVP at_IN the_DT helicopter_NN ._SENT Then_RB Jack_NP comes_VVZ to_TO a_DT halt_NN 
+and_CC Gwen_NP hefts_VVZ their_PP$ bazooka_NN onto_IN her_PP$ shoulder_NN ._SENT )_) 
+REX_NP :_: Who_WP the_DT hell_NN are_VBP you_PP people_NNS ?_SENT 
+GWEN_NP :_: Torchwood_NN ._SENT 
+(_( She_PP fires_VVZ ._SENT They_PP have_VHP to_TO duck_VV as_IN the_DT burning_NN helicopter_NN passes_VVZ overhead_RB 
+before_IN crashing_VVG into_IN the_DT sand_NN ._SENT )_) 
+
+[_SYM Roald_NP Dahl_NP Plass_NP ]_SYM 
+
+(_( 10_CD pm_NN )_) 
+GWEN_NN :_: Right_RB ,_, so_IN that_WDT 's_VBZ sorted_VVN ._SENT Rhys_NP ,_, take_VVP Anwen_NP to_TO my_PP$ mother_NN 's_VBZ and_CC keep_VV 
+her_PP$ safe_JJ and_CC sound_JJ ._SENT Jack_NP ,_, if_IN you_PP 've_VHP got_VVN access_NN to_TO any_DT weapons_NNS ,_, what_WP 
+else_RB have_VHP we_PP got_VVD ?_SENT 
+I_PP 've_VHP still_RB got_VVN the_DT old_JJ Eye_NP 5s_NP ,_, but_CC everything_NN else_RB is_VBZ gone_VVN ._SENT 
+RHYS_NNS :_: I_PP knew_VVD it_PP though_RB ._SENT Did_VVD n't_RB I_PP say_VVP ?_SENT First_JJ sign_NN of_IN trouble_NN ,_, you_PP go_VVP 
+running_VVG off_RP with_IN Captain_NP Jack_NP Bollocks_NP ._SENT 
+GWEN_NP :_: What_WP choice_NN have_VHP I_PP got_VVD ?_SENT I_PP mean_VVP ,_, they_PP rebuilt_VVD to_TO the_DT tower_NN ,_, now_RB 
+we_PP 're_VBP rebuilding_VVG Torchwood_NP ._SENT Is_VBZ n't_RB that_DT right_NN ,_, Jack_NP ?_SENT You_PP even_RB listening_VVG 
+to_TO me_PP ?_SENT 
+JACK_NN :_: I_PP cut_VVD my_PP$ arm_NN ._SENT 
+GWEN_NP :_: Okay_JJ ._SENT Ca_MD n't_RB help_VV but_CC thinking_VVG there_RB 's_VBZ more_RBR important_JJ things_NNS to_TO be_VB 
+worrying_VVG about_RB here_RB ._SENT 
+JACK_NN :_: No._NN I_PP cut_VVD my_PP$ arm_NN ._SENT Look_VV at_IN it_PP ._SENT It_PP 's_VBZ not_RB healing_VVG ._SENT 
+GWEN_NP :_: Do_VVP you_PP mean_VVP 
+JACK_NN :_: I_PP 'm_VBP staying_VVG hurt_VVN ._SENT 
+GWEN_NP :_: Oh_UH ,_, my_PP$ God_NP ._SENT 
+JACK_NN :_: I_PP know_VVP ._SENT 
+GWEN_NN :_: Seriously_RB ,_, though_RB ._SENT 
+RHYS_NNS :_: It_PP 's_VBZ only_RB a_DT cut_NN ._SENT 
+GWEN_NP :_: But_CC it_PP 's_VBZ Jack_NP ._SENT Do_VV n't_RB you_PP see_VVP ?_SENT The_DT whole_JJ world_NN becomes_VVZ immortal_JJ 
+JACK_NN :_: And_CC I_PP mortal_NN ._SENT I_PP do_VVP n't_RB mend_VV ._SENT I_PP 'm_VBP normal_JJ again_RB ._SENT I_PP 'm_VBP plain_RB old_JJ 
+human_JJ ._SENT 
+REX_NN :_: You_PP 're_VBP what_WP ?_SENT 
+JACK_NN :_: Does_VVZ n't_RB concern_VV you_PP ._SENT 
+REX_NN :_: You_PP talk_VVP some_DT crazy_JJ shit_NN ,_, you_PP know_VVP that_RB ?_SENT 
+GWEN_NN :_: You_PP should_MD get_VV that_IN/that seen_VVN to_TO ._SENT 
+REX_NP :_: Yeah_UH ,_, any_DT minute_NN now_RB ._SENT Ah_UH ,_, here_RB comes_VVZ my_PP$ ride_NN ._SENT 
+(_( Sirens_NNS approach_VVP ._SENT They_PP try_VVP to_TO run_VV but_CC get_VV cut_VV off_RP by_IN armed_JJ police_NNS ._SENT )_) 
+GWEN_NP :_: Andy_NP ,_, you_PP ca_MD n't_RB do_VV this_DT ._SENT 
+ANDY_NN :_: Orders_NNS from_IN above_RB ._SENT I_PP 'm_VBP sorry_JJ ._SENT He_PP 's_VBZ in_IN charge_NN ._SENT 
+JACK_NN :_: Since_RB when_WRB ?_SENT 
+RHYS_NNS :_: He_PP ca_MD n't_RB arrest_VV us_PP ._SENT He_PP 's_VBZ American_JJ ._SENT 
+REX_NN :_: I_PP hate_VVP to_TO bust_VV up_RP your_PP$ sweet_JJ little_JJ tea_NN party_NN ,_, but_CC this_DT is_VBZ n't_RB an_DT 
+arrest_NN ._SENT This_DT is_VBZ a_DT rendition_NN ._SENT And_CC on_IN behalf_NN of_IN the_DT CIA_NP ,_, under_IN the_DT 456_CD 
+amendments_NNS 
+to_TO US_NP code_NN 3184_CD ,_, I_PP 'm_VBP extraditing_VVG this_DT so-called_JJ Torchwood_NP team_NN to_TO the_DT 
+United_NP States_NPS of_IN America_NP ._SENT Now_RB ,_, get_VV me_PP out_RP of_IN here_RB ._SENT Take_VV me_PP home_NN ._SENT 
+

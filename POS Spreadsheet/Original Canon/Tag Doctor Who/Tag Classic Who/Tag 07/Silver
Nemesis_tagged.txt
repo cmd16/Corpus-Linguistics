@@ -1,0 +1,1408 @@
+Transcribers_NNS 
+note_NN -_: this_DT version_NN is_VBZ taken_VVN from_IN the_DT Silver_NP Nemesis_NP extended_VVD edition_NN 
+video_JJ tape_NN ,_, 1993._CD 
+Part_NN One_CD 
+
+[_SYM De_NP Flores_NP 's_POS villa_NN ]_SYM 
+(_( South_NP America_NP 22nd_JJ November_NP 1988._CD 
+A_DT group_NN of_IN men_NNS in_IN camouflage_NN fatigues_NNS get_VVP out_RP of_IN a_DT jeep_NN and_CC go_VV to_TO into_IN 
+a_DT Spanish_JJ style_NN villa_NN ._SENT Actually_RB ,_, it_PP is_VBZ at_IN Goring_NP by_IN Sea_NP ,_, what_WP an_DT 
+appropriate_JJ name_NN ._SENT Inside_RB ,_, Nazi_JJ paraphernalia_NN and_CC old_JJ scrolls_NNS are_VBP 
+scattered_VVN on_IN a_DT table_NN ._SENT The_DT Ride_NN of_IN the_DT Valkyries_NNS blares_VVZ out_RP as_IN a_DT young_JJ 
+man_NN works_NNS at_IN a_DT computer_NN ._SENT He_PP completes_VVZ the_DT data_NNS input_NN and_CC the_DT screen_NN 
+tells_VVZ him_PP -_: Landing_NP Location_NP Windsor_NP Grid_NP Ref_NN 74W_NNS 32N_JJ November_NP 23_CD 1988._CD 
+Outside_IN on_IN a_DT balcony_NN a_DT silver_JJ haired_JJ man_NN stands_VVZ next_JJ to_TO the_DT record_NN 
+player_NN ._SENT Everyone_NN say_VVP Hi_NP !_SENT to_TO Anton_NP Diffring_NP ,_, the_DT 
+wonderful_JJ German_JJ actor_NN ._SENT He_PP picks_VVZ up_RP a_DT modern_JJ bow_NN to_TO shoot_VV a_DT macaw_NN in_IN a_DT 
+nearby_JJ tree_NN ,_, then_RB the_DT young_JJ man_NN comes_VVZ out_RP ._SENT )_) 
+KARL_NN :_: Herr_NP De_NP Flores_NP ._SENT Herr_NP De_NP Flores_NP ._SENT Wonderful_JJ news_NN ._SENT 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+(_( Windsor_NP ,_, England_NP 1638._CD Okay_NP ,_, actually_RB St_NP Marys_NP 
+House_NP ,_, Bramber_NP ,_, West_NP Sussex_NP ._SENT 
+In_IN the_DT grounds_NNS ,_, a_DT frowning_VVG woman_NN in_IN black_JJ velvet_NN draws_VVZ back_RB a_DT long_JJ bow_NN 
+while_IN a_DT man_NN kneels_VVZ at_IN her_PP$ feet_NNS ._SENT She_PP misses_VVZ the_DT wood_NN pigeon_NN pecking_VVG at_IN 
+her_PP$ lawn_NN ._SENT )_) 
+RICHARD_NN :_: Very_RB good_JJ ,_, my_PP$ lady_NN ._SENT 
+(_( The_DT woman_NN goes_VVZ back_RB inside_IN to_TO where_WRB an_DT old_JJ man_NN is_VBZ working_VVG out_RP 
+calculations_NNS amid_IN bubbling_VVG pots_NNS ._SENT )_) 
+PEINFORTE_NP :_: How_WRB much_RB longer_RBR ?_SENT 
+RICHARD_NN :_: He_PP cannot_MD hear_VV you_PP ,_, my_PP$ lady_NN ._SENT Shall_MD I_PP 
+PEINFORTE_NN :_: Leave_VV him_PP ._SENT There_EX 'll_MD be_VB time_NN enough_RB to_TO punish_VV his_PP$ 
+impertinence_NN when_WRB he_PP 's_VBZ finished_VVN ._SENT 
+(_( Lady_NP Peinforte_NP takes_VVZ an_DT arrow_NN from_IN the_DT fire_NN irons_NNS ._SENT )_) 
+PEINFORTE_NN :_: Put_VV this_DT with_IN the_DT others_NNS ._SENT Are_VBP you_PP so_RB very_RB feeble_JJ ?_SENT The_DT poison_NN 
+cannot_MD harm_VV unless_IN the_DT arrow_NN 's_POS tip_NN should_MD break_VV the_DT skin_NN ._SENT Let_VV who_WP will_MD 
+steal_VV my_PP$ gold_NN ._SENT 
+RICHARD_NN :_: And_CC the_DT silver_JJ arrow_NN ,_, my_PP$ lady_NN ?_SENT 
+PEINFORTE_NP :_: Leave_VVP that_IN/that to_TO me_PP ._SENT You_PP 're_VBP sure_RB the_DT potion_NN is_VBZ well_RB mixed_JJ ?_SENT 
+RICHARD_NN :_: On_IN my_PP$ life_NN ,_, ma'am_NN ._SENT I_PP guarantee_VVP it_PP ._SENT 
+PEINFORTE_NN :_: Good_JJ ._SENT We_PP await_VVP but_CC the_DT calculation_NN ._SENT Perhaps_RB the_DT fee_NN will_MD 
+speed_NN matters_NNS ._SENT 
+(_( Lady_NP Peinforte_NP takes_VVZ a_DT bag_NN from_IN the_DT mantlepiece_NN and_CC throws_VVZ it_PP in_IN front_NN 
+of_IN her_PP$ mathematician_NN ._SENT )_) 
+[_SYM De_NP Flores_NP 's_POS villa_NN ]_SYM 
+(_( De_NP Flores_NP enters_VVZ the_DT main_JJ room_NN to_TO speak_VV to_TO his_PP$ 
+troops_NNS ,_, who_WP have_VHP been_VBN given_VVN small_JJ glasses_NNS of_IN drink_NN ._SENT They_PP stand_VVP to_TO 
+attention_NN ._SENT )_) 
+DE_NP FLORES_NP :_: Gentlemen_NNS ._SENT I_PP wonder_VVP if_IN even_RB you_PP can_MD fully_RB appreciate_VV what_WP 
+this_DT moment_NN means_VVZ ._SENT You_PP 're_VBP standing_VVG now_RB at_IN the_DT turning_VVG point_NN of_IN history_NN ._SENT 
+The_DT day_NN of_IN fulfillment_NN of_IN our_PP$ mighty_JJ destiny_NN is_VBZ about_RB to_TO dawn_NN ._SENT Fifty_CD 
+years_NNS ago_RB ,_, I_PP stood_VVD at_IN the_DT side_NN of_IN the_DT Fuehrer_NP himself_PP when_WRB he_PP ordered_VVD 
+the_DT first_JJ giant_JJ step_NN to_TO greatness_NN ,_, just_RB as_IN now_RB the_DT moment_NN approaches_NNS 
+for_IN the_DT second_JJ and_CC final_JJ one_CD ._SENT It_PP will_MD be_VB decisive_JJ ,_, for_IN this_DT time_NN ,_, this_RB 
+time_NN we_PP must_MD not_RB fail_VV ._SENT Gentlemen_NNS ,_, I_PP give_VVP you_PP the_DT Fourth_JJ Reich_NP ._SENT 
+ALL_DT :_: The_DT Fourth_JJ Reich_NP ._SENT 
+KARL_NN :_: Herr_NP De_NP Flores_NP ,_, the_DT aircraft_NN is_VBZ ready_JJ ._SENT 
+DE_NP FLORES_NP :_: We_PP leave_VVP at_IN once_RB ._SENT 
+(_( As_IN the_DT men_NNS troop_VVP out_RP ,_, De_NP Flores_NP goes_VVZ to_TO a_DT glass_NN display_NN case_NN and_NP 
+removes_VVZ a_DT silver_JJ bow_NN ,_, then_RB places_VVZ it_PP in_IN a_DT metal_NN carrying_VVG case_NN ._SENT 
+Out_RB in_IN space_NN ,_, a_DT meteorite_NN containing_VVG a_DT statue_NN starts_VVZ to_TO heat_VV up_RP ._SENT )_) 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+RICHARD_NN :_: My_PP$ lady_NN ,_, there_EX is_VBZ but_CC the_DT final_JJ 
+ingredient_NN for_IN the_DT liquid_JJ wanting_VVG ._SENT For_IN that_IN/that I_PP was_VBD thinking_VVG 
+MATHEMATICIAN_NN :_: My_PP$ lady_NN ?_SENT Lady_NP Peinforte_NP ?_SENT I_PP 've_VHP finished_VVN ._SENT 
+PEINFORTE_NN :_: You_PP have_VHP the_DT answer_NN ?_SENT 
+MATHEMATICIAN_NN :_: Yes_UH ,_, my_PP$ lady_NN ._SENT 
+PEINFORTE_NN :_: Quickly_RB ,_, then_RB ._SENT Tell_VV me_PP ._SENT 
+MATHEMATICIAN_NN :_: The_DT comet_NN Nemesis_NN will_MD circle_VV the_DT heavens_NNS once_IN every_DT 
+twenty_CD five_CD years_NNS ._SENT 
+PEINFORTE_NP :_: Yes_UH ._SENT 
+MATHEMATICIAN_NN :_: It_PP 's_POS trajectory_NN ,_, however_RB ,_, is_VBZ decaying_VVG ._SENT This_DT 
+PEINFORTE_NP :_: When_WRB will_MD it_PP land_VV ?_SENT 
+MATHEMATICIAN_NN :_: It_PP will_MD circle_VV ever_RB closer_RBR until_IN finally_RB it_PP once_RB again_RB 
+strikes_VVZ the_DT Earth_NN at_IN the_DT point_NN from_IN which_WDT it_PP originally_RB departed_VVD ,_, the_DT 
+meadow_NN outside_NN ._SENT 
+PEINFORTE_NP :_: When_WRB ?_SENT 
+MATHEMATICIAN_NN :_: When_WRB ._SENT Oh_UH ,_, yes_UH ._SENT Yes_UH ,_, of_IN course_NN ._SENT On_IN the_DT twenty_CD third_JJ day_NN 
+of_IN November_NP in_IN the_DT year_NN of_IN our_PP$ Lord_NP nineteen_CD hundred_CD and_CC eighty_CD eight_CD ._SENT 
+(_( Is_VBZ that_IN/that allowing_VVG for_IN the_DT 11_CD day_NN calendar_NN correction_NN in_IN September_NP 1752_CD 
+when_WRB we_PP changed_VVD to_TO Gregorian_JJ ?_SENT )_) 
+[_SYM Black_NP Jack_NP 's_POS Mill_NP -_: garden_NN ]_SYM 
+(_( The_DT Courtney_NP Pine_NP Jazz_NN quartet_NN are_VBP playing_VVG to_TO an_DT 
+appreciative_JJ audience_NN in_IN bright_JJ sunshine_NN ,_, including_VVG the_DT Doctor_NP and_CC Ace_NP 
+-_: who_WP is_VBZ wearing_VVG a_DT short_JJ sleeved_VVN t-shirt_NNS in_IN November_NP ?_SENT )_) 
+ACE_NN :_: I_PP could_MD listen_VV to_TO them_PP all_DT afternoon_NN ._SENT 
+DOCTOR_NN :_: And_CC so_RB we_PP shall_MD ._SENT 
+(_( Ace_NP picks_VVZ up_RP the_DT Daily_NP Mirror_NP with_IN the_DT headline_NN Meteor_NP Approaches_NP 
+England_NP and_CC reads_VVZ the_DT back_JJ page_NN ._SENT )_) 
+ACE_NN :_: Have_VHP you_PP seen_VVN this_DT ?_SENT Charlton_NP picked_VVD up_RP three_CD points_NNS ._SENT 
+DOCTOR_NN :_: This_DT is_VBZ my_PP$ favourite_JJ kind_NN of_IN jazz_NN ,_, straight_RB blowing_VVG ._SENT 
+(_( The_DT Doctor_NP 's_POS pocket_NN watch_NN beeps_NNS ._SENT )_) 
+ACE_NN :_: I_PP hate_VVP people_NNS whose_WP$ alarms_NNS go_VVP off_RP during_IN gigs_NNS ._SENT 
+DOCTOR_NN :_: What_WP 's_VBZ this_DT ?_SENT It_PP 's_VBZ a_DT reminder_NN ._SENT 
+ACE_NN :_: Well_UH ,_, go_VV on_RP ,_, then_RB ._SENT 
+DOCTOR_NN :_: Well_RB ,_, obviously_RB ,_, at_IN this_DT precise_JJ moment_NN it_PP 's_VBZ a_DT reminder_NN to_TO 
+change_NN course_NN for_IN another_DT destination_NN ._SENT 
+(_( He_PP closes_VVZ the_DT ornately_RB enamelled_VVN cover_NN of_IN the_DT digital_JJ device_NN ._SENT )_) 
+ACE_NN :_: Where_WRB 's_VBZ that_RB ?_SENT 
+DOCTOR_NN :_: I_PP 've_VHP forgotten_VVN ._SENT Oh_UH ,_, we_PP 'll_MD have_VH to_TO go_VV back_RB and_CC find_VV out_RP ._SENT 
+ACE_NN :_: Oh_UH ,_, Professor_NP ._SENT 
+(_( The_DT Doctor_NP walks_VVZ off_RP while_IN Ace_NP gets_VVZ Courtney_NP to_TO give_VV her_PP an_DT 
+autograph_NN ._SENT )_) 
+ACE_NN :_: Excuse_VV me_PP ,_, would_MD you_PP mind_VV signing_VVG my_PP$ tape_NN ?_SENT 
+COURTNEY_NN :_: Not_RB at_IN all_DT ._SENT 
+ACE_NN :_: Thanks_NNS ._SENT 
+COURTNEY_NP :_: Okay_JJ ._SENT 
+ACE_NN :_: Bye_NN ._SENT 
+(_( Ace_NP joins_VVZ the_DT Doctor_NP ._SENT )_) 
+DOCTOR_NN :_: Do_VVP n't_RB you_PP find_VVP it_PP embarrassing_JJ asking_NN for_IN autographs_NNS ?_SENT 
+ACE_NN :_: Not_RB as_RB embarrassing_JJ as_IN forgetting_VVG what_WP you_PP set_VVD your_PP$ alarm_NN for_IN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, I_PP probably_RB arranged_VVD it_PP centuries_NNS ago_RB ._SENT 
+(_( Someone_NN fires_VVZ a_DT silenced_VVN handgun_NN at_IN them_PP from_IN the_DT hedge_NN ,_, but_CC misses_VVZ ._SENT )_) 
+ACE_NN :_: Doctor_NN !_SENT 
+DOCTOR_NN :_: Get_VV down_RP !_SENT 
+(_( They_PP crouch_VVP ,_, run_VVP ,_, and_CC hide_VV by_IN some_DT trees_NNS ._SENT )_) 
+ACE_NN :_: Who_WP are_VBP they_PP ?_SENT 
+DOCTOR_NN :_: Could_MD n't_RB see_VV ._SENT Quick_RB ,_, the_DT Tardis_NP ._SENT 
+(_( As_IN they_PP run_VVP across_IN a_DT wooden_JJ bridge_NN ,_, a_DT volley_NN of_IN shots_NNS sends_VVZ them_PP 
+tumbling_VVG into_IN the_DT fast_JJ moving_VVG water_NN ._SENT 
+Two_CD men_NNS with_IN guns_NNS wearing_VVG headphones_NN come_VVN onto_IN the_DT bridge_NN to_TO check_VV 
+their_PP$ handiwork_NN ._SENT Seeing_VVG no_DT one_CD ,_, they_PP smile_VVP and_CC leave_VVP ._SENT Then_RB the_DT Doctor_NP 
+and_CC Ace_NP surface_NN ,_, drift_NN downstream_IN a_DT little_JJ and_CC climb_VV out_RP ._SENT )_) 
+ACE_NN :_: Hope_VVP my_PP$ tape_NN 's_VBZ all_DT right_NN ._SENT 
+DOCTOR_NN :_: Welcome_JJ home_NN ._SENT 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+MATHEMATICIAN_NN :_: I_PP could_MD build_VV a_DT flying_VVG machine_NN ._SENT 
+Imagine_VV that_IN/that ,_, my_PP$ lady_NN ._SENT Human_JJ beings_NNS flying_VVG about_RB like_IN birds_NNS ._SENT 
+PEINFORTE_NN :_: Bring_VV the_DT cups_NNS of_IN potion_NN ._SENT We_PP leave_VVP at_IN once_RB ._SENT 
+RICHARD_NN :_: The_DT final_JJ ingredient_NN ,_, my_PP$ lady_NN ?_SENT Human_JJ blood_NN ?_SENT 
+MATHEMATICIAN_NN :_: Why_WRB ,_, I_PP can_MD change_VV the_DT world_NN ._SENT 
+PEINFORTE_NP :_: Ah_UH ,_, yes_UH ._SENT 
+[_SYM Riverside_NP ]_SYM 
+(_( Ace_NP uses_VVZ a_DT catapult_NN to_TO fire_VV stones_NNS across_IN the_DT 
+river_NN ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Ace_NN !_SENT 
+ACE_NN :_: Yeah_UH ?_SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Duck_NN ._SENT 
+(_( Ace_NN ducks_NNS ._SENT The_DT Doctor_NP shooes_VVZ a_DT duck_NN out_RP of_IN the_DT Tardis_NP and_CC brings_VVZ a_DT new_JJ 
+cassette_NN player_NN with_IN him_PP ._SENT )_) 
+DOCTOR_NN :_: No_UH ,_, duck_NN ._SENT 
+ACE_NN :_: Oh_UH ,_, great_JJ ._SENT Now_RB I_PP can_MD play_VV my_PP$ tape_NN ._SENT 
+DOCTOR_NN :_: Afraid_JJ not_RB ._SENT 
+ACE_NN :_: Why_WRB not_RB ?_SENT It_PP 's_VBZ my_PP$ tape_NN deck_NN ._SENT You_PP built_VVD it_PP for_IN me_PP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, I_PP know_VVP I_PP built_VVD it_PP for_IN you_PP to_TO replace_VV the_DT one_CD that_WDT was_VBD 
+destroyed_VVN by_IN the_DT Daleks_NP ,_, but_RB 
+ACE_NN :_: So_RB ?_SENT It_PP 's_VBZ my_PP$ tape_NN deck_NN and_CC I_PP want_VVP to_TO play_VV this_DT ._SENT 
+DOCTOR_NN :_: This_DT is_VBZ more_JJR than_IN just_RB a_DT tape_NN deck_NN ._SENT And_CC besides_IN ,_, we_PP 've_VHP more_RBR to_TO 
+worry_VV about_RB than_IN just_RB listening_VVG to_TO your_PP$ tape_NN ._SENT 
+ACE_NN :_: Yeah_UH ._SENT So_RB who_WP were_VBD they_PP ,_, anyway_RB ?_SENT Who_WP 'd_MD want_VV to_TO kill_VV us_PP ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP afraid_JJ there_EX 's_VBZ an_DT infinite_JJ number_NN of_IN possibilities_NNS ._SENT What_WP 
+concerns_VVZ me_PP more_JJR is_VBZ my_PP$ alarm_NN ._SENT Got_VVN to_TO find_VV out_RP what_WP it_PP was_VBD supposed_VVN to_TO 
+be_VB ._SENT 
+ACE_NN :_: Ca_MD n't_RB you_PP remember_VVP anything_NN about_IN it_PP ?_SENT 
+(_( He_PP inputs_NNS some_DT data_NN into_IN the_DT tape_NN deck_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP 'm_VBP afraid_JJ not_RB ._SENT Obviously_RB the_DT arrangements_NNS were_VBD made_VVN in_IN rather_RB 
+a_DT hurry_NN ._SENT They_PP are_VBP important_JJ ._SENT I_PP 've_VHP given_VVN them_PP a_DT terminal_JJ rating_NN ._SENT 
+ACE_NN :_: Sounds_VVZ nice_JJ ._SENT 
+DOCTOR_NN :_: It_PP means_VVZ that_IN/that some_DT planet_NN somewhere_RB faces_VVZ imminent_JJ destruction_NN ._SENT 
+
+ACE_NN :_: Crikey_NN ._SENT 
+DOCTOR_NN :_: Quite_RB ._SENT 
+(_( He_PP finishes_VVZ his_PP$ input_NN and_CC a_DT hologram_NN of_IN a_DT planet_NN appears_VVZ above_IN the_DT 
+tape_NN deck_NN ._SENT )_) 
+DOCTOR_NN :_: That_WDT looks_VVZ familiar_JJ ._SENT Earth_NP ._SENT 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+(_( Lady_NP Peinforte_NP and_CC Richard_NP stand_VVP inside_IN a_DT circle_NN 
+of_IN astrological_JJ symbols_NNS ,_, dead_JJ birds_NNS and_CC animal_NN skulls_NNS ._SENT She_PP holds_VVZ the_DT 
+silver_JJ arrow_NN while_IN They_PP both_CC hold_VV a_DT goblet_NN ._SENT )_) 
+PEINFORTE_NN :_: Afraid_JJ ?_SENT 
+RICHARD_NP :_: Yes_UH ,_, my_PP$ lady_NN ._SENT 
+PEINFORTE_NP :_: When_WRB I_PP employed_VVD you_PP ,_, you_PP lead_VVP me_PP to_TO believe_VV you_PP were_VBD a_DT 
+hardened_VVN criminal_JJ ._SENT 
+RICHARD_NN :_: As_IN my_PP$ lady_NN knows_VVZ ,_, before_IN I_PP entered_VVD your_PP$ service_NN I_PP was_VBD found_VVN 
+guilty_JJ of_IN a_DT large_JJ number_NN of_IN offences_NNS ._SENT 
+PEINFORTE_NN :_: Then_RB have_VH the_DT courage_NN of_IN your_PP$ convictions_NNS ._SENT Drink_NN ._SENT Drink_NN !_SENT 
+(_( They_PP both_CC drain_VV their_PP$ goblets_NNS ._SENT There_EX are_VBP flashing_VVG lights_NNS ._SENT )_) 
+RICHARD_NP :_: What_WP 's_VBZ happening_VVG ,_, my_PP$ lady_NN ?_SENT 
+PEINFORTE_NN :_: We_PP are_VBP leaving_VVG ,_, Richard_NP ._SENT Destiny_NN beckons_NNS ._SENT We_PP ride_VVP the_DT back_NN 
+of_IN time_NN ._SENT 
+RICHARD_NN :_: No._NN No_RB !_SENT No_UH !_SENT 
+PEINFORTE_NN :_: Come_VV back_RB ,_, you_PP fool_VVP ._SENT You_PP 'll_MD break_VV the_DT aura_NN ._SENT 
+RICHARD_NN :_: I_PP ca_MD n't_RB !_SENT Please_UH ,_, my_PP$ lady_NN ._SENT I_PP must_MD stay_VV ._SENT 
+PEINFORTE_NN :_: It_PP 's_VBZ too_RB late_JJ ._SENT 
+(_( They_PP both_DT scream_NN as_IN an_DT aurora_NN envelopes_NNS and_CC Lady_NP Peinforte_NP 's_POS home_NN 
+transforms_NNS into_IN -_: )_) 
+[_SYM Black_NP Jack_NP 's_POS Mill_NP ]_SYM 
+(_( A_DT restaurant_NN complete_JJ with_IN red_NN checked_VVN 
+tablecloths_NNS ._SENT The_DT customers_NNS look_VVP up_RP ,_, surprised_VVN as_IN a_DT pair_NN of_IN seventeenth_NN 
+century_NN time_NN travellers_NNS appear_VVP in_IN their_PP$ midst_NN ._SENT )_) 
+RICHARD_NP :_: Where_WRB are_VBP we_PP ,_, my_PP$ lady_NN ?_SENT 
+PEINFORTE_NP :_: Why_WRB ,_, the_DT very_JJ place_NN we_PP left_VVD ,_, of_IN course_NN ._SENT My_PP$ house_NN in_IN Windsor_NP ._SENT 
+
+[_SYM Riverside_NP ]_SYM 
+ACE_NN :_: You_PP mean_VVP the_DT world_NN 's_VBZ going_VVG to_TO end_VV and_CC you_PP 've_VHP 
+forgotten_VVN about_IN it_PP ?_SENT 
+DOCTOR_NN :_: I_PP 've_VHP been_VBN busy_JJ ._SENT 
+ACE_NN :_: How_WRB long_RB have_VH you_PP known_VVN ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, in_IN strictly_RB linear_JJ terms_NNS ,_, as_IN the_DT chronometer_NN flies_VVZ ,_, I_PP 've_VHP 
+known_VVN since_IN November_NP the_DT twenty_CD third_JJ ,_, 1638._CD 
+(_( A_DT silver_JJ spacecraft_NN approaches_NNS Earth_NP ._SENT )_) 
+[_SYM Cellar_NP ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ inside_IN a_DT cellar_NN filled_VVD 
+with_IN junk_NN ,_, including_VVG a_DT tiger_NN 's_POS head_NN ._SENT The_DT Doctor_NP strokes_VVZ a_DT stuffed_JJ bear_NN 
+and_CC catches_VVZ his_PP$ hand_NN on_IN its_PP$ teeth_NNS ._SENT )_) 
+DOCTOR_NN :_: Hello_UH ._SENT Ow_NN !_SENT 
+ACE_NN :_: Look_VV at_IN all_PDT this_DT stuff_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, that_WDT 's_VBZ exactly_RB what_WP we_PP 've_VHP got_VVN to_TO do_VV ,_, look_VV at_IN all_PDT this_DT 
+stuff_NN ._SENT You_PP take_VVP that_DT aisle_NN ._SENT 
+ACE_NN :_: What_WP 's_VBZ it_PP all_DT for_IN ?_SENT 
+DOCTOR_NN :_: Presents_VVZ ._SENT 
+ACE_NN :_: Nobody_NN gets_VVZ this_DT many_JJ presents_NNS ._SENT 
+DOCTOR_NN :_: Well_RB ,_, if_IN you_PP were_VBD a_DT lady_NN who_WP travelled_VVD ._SENT 
+ACE_NN :_: I_PP am_VBP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, you_PP 're_VBP not_RB always_RB invited_VVN ,_, but_CC you_PP are_VBP ,_, you_PP get_VVP presents_VVZ ,_, 
+and_CC then_RB you_PP need_VVP somewhere_RB to_TO store_VV them_PP ._SENT 
+ACE_NN :_: Who_WP does_VVZ it_PP all_DT belong_VVP to_TO ?_SENT I_PP mean_VVP ,_, where_WRB are_VBP we_PP ?_SENT 
+DOCTOR_NN :_: Windsor_NP ._SENT 
+ACE_NN :_: Windsor_NP ?_SENT We_PP 're_VBP in_IN the_DT castle_NN ?_SENT 
+(_( The_DT Doctor_NP holds_VVZ an_DT African_JJ mask_NN up_RB ._SENT )_) 
+DOCTOR_NN :_: This_DT is_VBZ new_JJ ._SENT 
+ACE_NN :_: I_PP thought_VVD it_PP 'd_MD be_VB a_DT lot_NN posher_JJR than_IN this_DT ._SENT 
+DOCTOR_NN :_: It_PP probably_RB is_VBZ ,_, upstairs_RB ,_, but_CC we_PP 're_VBP in_IN the_DT vault_NN ._SENT 
+(_( The_DT Doctor_NP has_VHZ put_VVN on_IN a_DT fez_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP 'm_VBP looking_VVG for_IN a_DT silver_JJ bow_NN we_PP want_VVP to_TO borrow_VV ._SENT 
+ACE_NN :_: We_PP ca_MD n't_RB go_VV nicking_VVG stuff_NN in_IN here_RB ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ only_RB temporary_JJ ._SENT 
+ACE_NN :_: It_PP 's_VBZ probably_RB treason_NN ._SENT I_PP 'm_VBP too_RB young_JJ to_TO go_VV to_TO the_DT Tower_NP ._SENT 
+DOCTOR_NN :_: Listen_VV ,_, Ace_NP ,_, do_VVP I_PP have_VHP to_TO remind_VV you_PP that_IN/that the_DT safety_NN of_IN the_DT 
+world_NN is_VBZ at_IN stake_NN ?_SENT 
+ACE_NN :_: It_PP might_MD make_VV a_DT difference_NN if_IN you_PP 'd_MD let_VV me_PP know_VV what_WP was_VBD going_VVG on_IN ,_, 
+Professor_NN ,_, but_CC I_PP suppose_VVP there_EX 's_VBZ no_DT time_NN ._SENT 
+DOCTOR_NN :_: Precisely_RB ._SENT 
+(_( The_DT lights_NNS flicker_NN ._SENT )_) 
+DOCTOR_NN :_: There_EX 's_VBZ even_RB less_JJR time_NN than_IN I_PP thought_VVD ._SENT Please_UH ,_, let_NN 's_POS hurry_NN ._SENT 
+(_( The_DT Doctor_NP puts_VVZ the_DT fez_NN on_IN Ace_NP ._SENT )_) 
+[_SYM Black_NP Jack_NP 's_POS Mill_NP ]_SYM 
+PEINFORTE_NN :_: Nemesis_NN ._SENT She_PP arrives_VVZ ._SENT 
+[_SYM Cellar_NP ]_SYM 
+(_( The_DT meteorite_NN crashes_VVZ to_TO earth_VV by_IN a_DT barn_NN ._SENT The_DT 
+Doctor_NN catches_VVZ a_DT gilt_JJ bust_NN that_WDT tumbles_VVZ off_RP a_DT pedestal_NN ._SENT )_) 
+ACE_NN :_: Was_VBD that_IN/that a_DT bomb_NN ?_SENT 
+DOCTOR_NN :_: No_UH ,_, that_WDT was_VBD the_DT return_NN to_TO Earth_NP of_IN a_DT comet_NN called_VVD Nemesis_NN that_RB 
+has_VHZ been_VBN in_IN orbit_NN for_IN exactly_RB three_CD hundred_CD and_CC fifty_CD years_NNS ._SENT 
+ACE_NN :_: You_PP 're_VBP amazing_JJ ,_, Professor_NP ,_, being_VBG able_JJ to_TO tell_VV all_PDT that_DT just_RB from_IN 
+the_DT noise_NN ._SENT 
+DOCTOR_NN :_: Was_VBD n't_RB difficult_JJ ,_, really_RB ._SENT It_PP was_VBD me_PP who_WP launched_VVD it_PP into_IN space_NN 
+in_IN the_DT first_JJ place_NN ._SENT This_DT may_MD qualify_VV as_IN the_DT worst_JJS miscalculation_NN since_RB 
+life_NN crawled_VVD out_RP of_IN the_DT seas_NNS on_IN this_DT sad_JJ planet_NN ._SENT 
+ACE_NN :_: Nobody_NN 's_VBZ perfect_JJ ._SENT Hey_UH ,_, is_VBZ this_DT the_DT bow_NN ?_SENT 
+[_SYM Van_NP ]_SYM 
+(_( The_DT bow_NN is_VBZ in_IN the_DT case_NN on_IN De_NP Flores_NP 's_POS lap_NN ._SENT The_DT 
+van_NP stops_VVZ ._SENT )_) 
+KARL_NN :_: We_PP 're_VBP almost_RB at_IN Windsor_NP ,_, Herr_NP De_NP Flores_NP ._SENT Shall_MD I_PP let_VV the_DT men_NNS walk_VVP 
+around_IN a_DT little_JJ ?_SENT 
+DE_NP FLORES_NP :_: No_UH ,_, Karl_NP ._SENT We_PP must_MD not_RB keep_VV history_NN waiting_NN ._SENT 
+[_SYM Black_NP Jack_NP 's_POS Mill_NP ]_SYM 
+(_( A_DT police_NN car_NN zooms_NNS past_JJ ,_, blues_NNS and_CC twos_NNS on_RB ._SENT )_) 
+RICHARD_NN :_: My_PP$ lady_NN ,_, what_WP carriage_NN is_VBZ that_RB ?_SENT 
+PEINFORTE_NN :_: Hurry_NN ._SENT The_DT rogues_NNS will_MD have_VH the_DT Nemesis_NN ._SENT 
+RICHARD_NN :_: I_PP 've_VHP not_RB seen_VVN the_DT like_JJ of_IN it_PP before_RB ._SENT We_PP must_MD take_VV care_NN ._SENT 
+PEINFORTE_NP :_: Oh_UH ,_, fie_NN ._SENT 
+(_( Lady_NP Peinforte_NP smashes_VVZ the_DT glass_NN door_NN with_IN a_DT chair_NN ._SENT )_) 
+[_SYM Van_NP ]_SYM 
+(_( Police_NNS are_VBP standing_VVG by_IN the_DT burning_NN hole_NN in_IN the_DT 
+ground_NN as_IN the_DT van_NN pulls_VVZ up_RP nearby_RB ._SENT )_) 
+DE_NP FLORES_NP :_: Nemesis_NN has_VHZ come_VVN to_TO Earth_NN on_IN that_DT piece_NN of_IN ground_NN ._SENT In_IN the_DT 
+new_JJ era_NN ,_, all_PDT this_DT will_MD be_VB a_DT shrine_NN ._SENT 
+KARL_NN :_: The_DT men_NNS are_VBP ready_JJ in_IN two_CD assault_NN groups_NNS ._SENT I_PP will_MD remain_VV with_IN you_PP ._SENT 
+We_PP await_VVP only_RB your_PP$ order_NN ._SENT 
+DE_NP FLORES_NP :_: Very_RB good_JJ ._SENT Let_NP 's_POS drive_NN to_TO the_DT best_JJS hotel_NN and_CC refresh_VV 
+ourselves_PP ._SENT 
+KARL_NN :_: But_CC Herr_NP De_NP Flores_NP ,_, there_EX are_VBP only_RB three_CD policemen_NNS ._SENT We_PP can_MD take_VV 
+them_PP now_RB ._SENT You_PP young_JJ people_NNS ,_, always_RB in_IN such_PDT a_DT hurry_NN ._SENT Well_RB ,_, we_PP were_VBD the_DT 
+same_JJ ._SENT Now_RB ,_, the_DT statue_NN is_VBZ inside_RB the_DT meteor_NN ,_, which_WDT has_VHZ just_RB travelled_VVN 
+through_IN space_NN ._SENT Have_VHP you_PP any_DT idea_NN how_WRB hot_JJ it_PP will_MD be_VB ?_SENT How_WRB can_MD we_PP handle_VV 
+it_PP ?_SENT Since_IN the_DT British_JJ Government_NN is_VBZ completely_RB unaware_JJ of_IN its_PP$ power_NN ,_, 
+I_PP 'm_VBP sure_JJ we_PP can_MD rely_VV on_IN the_DT police_NN force_NN to_TO guard_VV it_PP safely_RB until_IN we_PP 're_VBP 
+ready_JJ to_TO collect_VV it_PP ._SENT I_PP have_VHP every_DT confidence_NN in_IN them_PP ._SENT 
+[_SYM Cellar_NP ]_SYM 
+DOCTOR_NN :_: The_DT bow_NN was_VBD in_IN the_DT case_NN ._SENT 
+(_( Ace_NP reads_VVZ the_DT description_NN ._SENT )_) 
+ACE_NN :_: Ah_UH ._SENT This_DT case_NN contained_VVD the_DT bow_NN of_IN Nemesis_NP ,_, property_NN of_IN the_DT Crown_NP ,_, 
+which_WDT disappeared_VVD mysteriously_RB in_IN 1788._CD Legend_NP has_VHZ it_PP that_IN/that unless_IN a_DT 
+place_NN is_VBZ kept_VVN for_IN the_DT bow_NN in_IN the_DT Castle_NP ,_, the_DT entire_JJ silver_NN statue_NN will_MD 
+return_NN to_TO destroy_VV the_DT world_NN ._SENT 
+DOCTOR_NN :_: For_IN once_RB legend_NN is_VBZ absolutely_RB correct_JJ ._SENT It_PP has_VHZ just_RB returned_VVN ._SENT 
+(_( The_DT lights_NNS go_VVP out_RP ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, now_RB this_DT ._SENT 
+ACE_NN :_: It_PP 's_VBZ just_RB the_DT electricity_NN ._SENT 
+(_( The_DT lights_NNS come_VVP on_IN again_RB ._SENT )_) 
+ACE_NN :_: It_PP does_VVZ that_IN/that sometimes_RB ,_, even_RB in_IN the_DT 1980s_NNS ._SENT What_WP I_PP want_VVP to_TO know_VV is_VBZ ,_, 
+how_WRB can_MD a_DT statue_NN destroy_VV the_DT world_NN ?_SENT 
+DOCTOR_NN :_: I_PP 'll_MD tell_VV you_PP three_CD hundred_CD and_CC fifty_CD years_NNS ago_RB ._SENT 
+(_( Ace_NP puts_VVZ the_DT fez_NN back_RB by_IN the_DT drawing_NN of_IN the_DT statue_NN with_IN its_PP$ bow_NN and_CC 
+arrow_NN ._SENT )_) 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ on_IN the_DT upstairs_JJ landing_NN ,_, 
+blowing_VVG out_RP the_DT candles_NNS ._SENT The_DT Doctor_NP and_CC Ace_NP tiptoe_VV out_RP ,_, then_RB Ace_NP 
+sneezes_NNS ._SENT )_) 
+DOCTOR_NN :_: Shush_VV ._SENT 
+ACE_NN :_: Sorry_RB ,_, Professor_NP ._SENT 
+DOCTOR_NN :_: There_EX might_MD be_VB someone_NN at_IN home_NN ._SENT 
+ACE_NN :_: Okay_NP ,_, Professor_NP ._SENT So_RB where_WRB are_VBP we_PP now_RB ?_SENT 
+DOCTOR_NN :_: Windsor_NP ,_, of_IN course_NN ._SENT Only_RB a_DT few_JJ hundred_CD yards_NNS from_IN the_DT Castle_NP ._SENT 
+ACE_NN :_: And_CC is_VBZ it_PP really_RB 1638_CD ?_SENT 
+DOCTOR_NN :_: It_PP certainly_RB is_VBZ ._SENT And_CC furthermore_RB ,_, do_VVP n't_RB move_VV ._SENT 
+ACE_NN :_: What_WP ?_SENT 
+DOCTOR_NN :_: Stay_VV where_WRB you_PP are_VBP ._SENT 
+(_( The_DT Doctor_NP goes_VVZ to_TO the_DT Mathematician_NP ,_, who_WP is_VBZ slumped_VVN over_IN the_DT table_NN ,_, 
+and_CC covers_VVZ him_PP up_RP ._SENT )_) 
+ACE_NN :_: What_WP is_VBZ it_PP ?_SENT 
+DOCTOR_NN :_: Something_NN you_PP do_VVP n't_RB want_VV to_TO see_VV ._SENT 
+ACE_NN :_: Who_WP does_VVZ this_DT house_NN belong_VVP to_TO ,_, anyway_RB ?_SENT 
+DOCTOR_NN :_: A_DT lady_NN ._SENT 
+ACE_NN :_: She_PP 's_VBZ got_VVN funny_JJ ideas_NNS about_IN home_NN furnishings_NNS ._SENT 
+DOCTOR_NN :_: Lady_NP Peinforte_NP 's_POS nothing_NN if_IN not_RB original_JJ ._SENT I_PP 'm_VBP afraid_JJ this_DT poor_JJ 
+man_NN was_VBD employed_VVN for_IN his_PP$ useful_JJ rather_RB than_IN his_PP$ ornamental_JJ qualities_NNS ._SENT 
+He_PP 's_VBZ a_DT scholar_NN ._SENT He_PP 's_VBZ done_VVN remarkably_RB well_RB ._SENT In_IN a_DT matter_NN of_IN months_NNS since_RB 
+I_PP was_VBD last_JJ here_RB ,_, he_PP 's_VHZ calculated_VVN the_DT exact_JJ time_NN and_CC date_NN when_WRB a_DT comet_NN 
+called_VVN Nemesis_NN will_MD land_VV on_IN this_DT planet_NN ._SENT The_DT twenty_CD third_NN of_IN November_NP ._SENT 
+ACE_NN :_: 1988._CD 
+DOCTOR_NN :_: And_CC Lady_NP Peinforte_NP 's_VHZ rewarded_VVN him_PP with_IN her_PP$ usual_JJ generosity_NN ._SENT 
+ACE_NN :_: So_RB the_DT bow_NN belonged_VVD to_TO her_PP ?_SENT 
+DOCTOR_NN :_: Hmm_NP ?_SENT Oh_UH ,_, no_UH ,_, no._JJ Not_RB to_TO her_PP ._SENT To_TO a_DT statue_NN of_IN her_PP ._SENT She_PP made_VVD the_DT 
+statue_NN from_IN the_DT silver_NN metal_NN that_WDT fell_VVD out_RP of_IN the_DT sky_NN into_IN that_DT meadow_NN 
+out_RB there_RB ._SENT 
+(_( He_PP goes_VVZ to_TO the_DT chess_NN board_NN ._SENT )_) 
+DOCTOR_NN :_: Hmm_NP ,_, this_DT game_NN is_VBZ going_VVG rather_RB badly_RB ._SENT 
+ACE_NN :_: Professor_NN ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB worry_VV ._SENT There_EX 's_VBZ no_DT one_CD here_RB now_RB ,_, apart_RB from_IN our_PP$ late_JJ 
+friend_NN ._SENT Lady_NP Peinforte_NP 's_VBZ around_RB all_DT right_NN ,_, in_IN Windsor_NP ,_, but_CC three_CD 
+hundred_CD and_CC fifty_CD years_NNS in_IN the_DT future_NN ._SENT 
+[_SYM Crash_NP site_NN ]_SYM 
+(_( Really_RB the_DT Greenwich_NP peninsular_JJ before_IN Tony_NP Blair_NP 
+dumped_VVN an_DT expensive_JJ Dome_NP on_IN it_PP ._SENT A_DT policeman_NN uses_VVZ his_PP$ radio_NN ._SENT )_) 
+RICHARD_NP :_: What_WP means_VVZ yon_NN fellows_NNS ?_SENT One_PP speaks_VVZ into_IN his_PP$ hand_NN ._SENT 
+PEINFORTE_NN :_: He_PP summons_VVZ guards_NNS ._SENT Oh_UH ,_, this_DT cannot_MD be_VB ._SENT 
+RICHARD_NP :_: Why_WRB so_RB upset_JJ ,_, my_PP$ lady_NN ?_SENT 
+PEINFORTE_NN :_: Because_IN ,_, fool_VV ,_, they_PP will_MD protect_VV the_DT Nemesis_NN ,_, and_CC we_PP know_VVP 
+not_RB their_PP$ strength_NN and_CC weapons_NNS ._SENT 
+RICHARD_NN :_: But_CC ,_, my_PP$ lady_NN ,_, they_PP know_VVP not_RB what_WP the_DT comet_NN is_VBZ ._SENT Without_IN the_DT 
+arrow_NN ,_, it_PP is_VBZ nothing_NN ._SENT We_PP must_MD but_RB watch_VV and_CC wait_VV our_PP$ chance_NN to_TO seize_VV 
+it_PP ._SENT 
+PEINFORTE_NN :_: Thou_NN art_NN not_RB in_IN all_DT wise_JJ so_RB useless_JJ ,_, Richard_NP ._SENT 
+RICHARD_NN :_: My_PP$ lady_NN is_VBZ too_RB kind_NN ._SENT 
+PEINFORTE_NN :_: We_PP shall_MD withdraw_VV and_CC conceal_VV ourselves_PP ._SENT 
+POLICEMAN_NN :_: Three_CD one_CD eight_CD to_TO base_NN ._SENT Hey_UH look_VV ,_, there_EX 's_VBZ someone_NN inside_RB ._SENT 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+ACE_NN :_: How_WRB can_MD she_PP get_VV to_TO 1988_CD ?_SENT 
+DOCTOR_NN :_: She_PP uses_VVZ the_DT silver_JJ arrow_NN ,_, of_IN course_NN ,_, and_CC she_PP had_VHD some_DT basic_JJ 
+rudimentary_JJ knowledge_NN about_IN time_NN travel_NN ._SENT Black_JJ magic_NN ,_, mostly_RB ._SENT 
+ACE_NN :_: Black_JJ magic_NN ?_SENT 
+DOCTOR_NN :_: Mmm_NP ,_, and_CC what_WP you_PP might_MD call_VV a_DT nose_NN for_IN secrets_NNS ._SENT 
+(_( He_PP sniffs_VVZ the_DT liquid_NN bubbling_VVG in_IN the_DT cauldron_NN in_IN the_DT fireplace_NN ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, dear_RB ._SENT 
+ACE_NN :_: So_RB it_PP was_VBD n't_RB just_RB silver_JJ ,_, this_DT stuff_NN that_WDT fell_VVD from_IN the_DT sky_NN ?_SENT 
+DOCTOR_NN :_: Unfortunately_RB ,_, Lady_NP Peinforte_NP discovered_VVD it_PP was_VBD something_NN 
+rather_RB more_RBR unusual_JJ ._SENT A_DT living_NN metal_NN ._SENT Validium_NN ._SENT 
+ACE_NN :_: Living_VVG metal_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ,_, with_IN just_RB one_CD purpose_NN ._SENT Destruction_NN ._SENT 
+ACE_NN :_: But_CC if_IN you_PP launched_VVD it_PP into_IN space_NN ,_, how_WRB come_VVP it_PP 's_VBZ capable_JJ of_IN 
+destruction_NN ?_SENT 
+DOCTOR_NN :_: Later_RBR ,_, Ace_NP ._SENT 
+[_SYM Crash_NP site_NN ]_SYM 
+(_( The_DT police_NN car_NN wo_MD n't_RB start_VV ._SENT )_) 
+POLICEMAN_NN :_: Do_VVP n't_RB bother_VV trying_VVG again_RB ,_, it_PP looks_VVZ like_IN the_DT battery_NN 's_POS dead_NN ._SENT 
+
+(_( A_DT silver_NN periscope_NN pushes_VVZ up_RP through_IN the_DT soil_NN ._SENT )_) 
+POLICEMAN_NN :_: Hello_UH ?_SENT Hello_UH ?_SENT 
+(_( And_CC more_JJR of_IN them_PP ._SENT They_PP spray_VVP gas_NN and_CC the_DT policemen_NNS collapse_NN ._SENT )_) 
+[_SYM Windsor_NP Castle_NP ]_SYM 
+(_( A_DT bevy_NN of_IN tourists_NNS are_VBP on_IN the_DT tour_NN ,_, in_IN front_NN of_IN a_DT 
+sentry_NN box_NN containing_VVG a_DT red_JJ coated_JJ soldier_NN ._SENT Windsor_NP is_VBZ being_VBG played_VVN by_IN 
+Arundel_NP ,_, another_DT splendid_JJ castle_NN ._SENT )_) 
+GUIDE_NN :_: You_PP see_VVP here_RB the_DT guard_NN ._SENT They_PP 're_VBP changed_VVN quite_RB regularly_RB ._SENT Of_IN 
+course_NN ,_, they_PP 're_VBP only_RB changed_VVN in_IN winter_NN time_NN ._SENT They_PP normally_RB stand_VVP here_RB 
+all_PDT the_DT time_NN in_IN summer_NN time_NN ._SENT Now_RB ,_, will_MD you_PP follow_VV me_PP ,_, please_UH ,_, ladies_NNS 
+and_CC gentlemen_NNS ?_SENT 
+(_( The_DT Tardis_NP materialises_VVZ by_IN the_DT curtain_NN wall_NN ,_, unnoticed_JJ ._SENT )_) 
+ACE_NN :_: I_PP 've_VHP been_VBN here_RB before_RB ._SENT 
+DOCTOR_NN :_: Déjà_JJ vu_NN ?_SENT 
+ACE_NN :_: No_UH ,_, with_IN the_DT school_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, very_RB droll_JJ ._SENT I_PP have_VHP n't_RB been_VBN here_RB since_IN they_PP were_VBD building_VVG 
+the_DT place_NN ._SENT You_PP remember_VVP the_DT way_NN around_RB ?_SENT 
+ACE_NN :_: Not_RB really_RB ._SENT Windsor_NP Castle_NP 's_VBZ a_DT big_JJ place_NN ._SENT 
+DOCTOR_NN :_: Quite_RB right_RB ._SENT What_WP we_PP need_VVP 's_VBZ a_DT guide_NN ._SENT Come_VVN on_IN ._SENT 
+(_( They_PP join_VVP the_DT tour_NN ._SENT )_) 
+GUIDE_NN :_: Tower_NP ,_, and_CC also_RB further_RBR over_IN there_EX is_VBZ the_DT Mary_NP Tudor_NP Tower_NP ._SENT 
+Those_DT gargoyles_NNS have_VHP been_VBN there_RB for_IN about_RB five_CD hundred_CD years_NNS ._SENT They_PP were_VBD 
+built_VVN in_IN 1509_CD originally_RB ,_, and_CC the_DT 
+(_( The_DT Doctor_NP and_CC Ace_NP follow_VVP a_DT sign_NN saying_VVG No_DT Admittance_NN ,_, Royal_NP 
+Apartments_NNS ._SENT )_) 
+[_SYM Courtyard_NP ]_SYM 
+ACE_NN :_: I_PP really_RB do_VVP n't_RB think_VV we_PP should_MD be_VB doing_VVG this_DT ._SENT 
+
+DOCTOR_NN :_: This_DT way_NN ?_SENT What_WP do_VVP you_PP think_VVP ?_SENT 
+ACE_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP might_MD be_VB able_JJ to_TO tell_VV if_IN I_PP actually_RB knew_VVD where_WRB we_PP 
+were_VBD going_VVG ._SENT We_PP did_VVD n't_RB actually_RB cover_VV the_DT Royal_NP residential_JJ areas_NNS on_IN the_DT 
+school_NN trip_NN ._SENT There_EX 's_VBZ someone_NN coming_VVG ._SENT 
+(_( A_DT lady_NN with_IN a_DT pack_NN of_IN Corgis_NP around_IN her_PP$ ankles_NNS ._SENT )_) 
+DOCTOR_NN :_: Act_VV as_RB if_IN you_PP own_VVP the_DT place_NN ._SENT 
+ACE_NN :_: Do_VV what_WP ?_SENT 
+DOCTOR_NN :_: It_PP always_RB works_VVZ ._SENT We_PP own_VVP the_DT place_NN ._SENT 
+ACE_NN :_: Doctor_NN !_SENT 
+DOCTOR_NN :_: How_WRB annoying_VVG ._SENT I_PP ca_MD n't_RB place_VV that_DT woman_NN for_IN the_DT life_NN of_IN me_PP ._SENT 
+ACE_NN :_: Doctor_NN !_SENT 
+(_( Ace_NP pulls_VVZ the_DT Doctor_NP behind_IN a_DT buttress_NN ,_, then_RB the_DT woman_NN and_CC her_PP$ dogs_NNS go_VVP 
+back_RB inside_RB ._SENT )_) 
+DOCTOR_NN :_: It_PP 's_VBZ all_DT right_NN ,_, Ace_NP ._SENT I_PP know_VVP that_DT woman_NN from_IN somewhere_RB ._SENT 
+(_( Ace_NP whispers_VVZ to_TO him_PP behind_IN the_DT stone_NN ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: What_WP !_SENT Why_WRB did_VVD n't_RB you_PP say_VVP something_NN ?_SENT 
+ACE_NN [_SYM OC_NP ]_SYM :_: You_PP would_MD n't_RB let_VV me_PP ._SENT 
+DOCTOR_NN :_: She_PP 's_VBZ just_RB the_DT woman_NN we_PP need_VVP ._SENT Quick_RB ,_, after_IN her_PP ._SENT Ah_UH ha_NP !_SENT 
+[_SYM Landing_NP ]_SYM 
+DOCTOR_NN :_: It_PP 'll_MD be_VB very_RB useful_JJ to_TO have_VH the_DT armed_JJ 
+forces_NNS and_CC the_DT police_NN on_IN our_PP$ side_NN ,_, and_CC can_MD you_PP suggest_VV a_DT better_JJR person_NN 
+to_TO ask_VV ?_SENT 
+ACE_NN :_: Come_VV on_RP ._SENT 
+DOCTOR_NN :_: There_EX 's_VBZ no_DT alternative_NN ._SENT 
+(_( The_DT Doctor_NP is_VBZ about_RB to_TO knock_VV on_IN a_DT door_NN with_IN a_DT crown_NN on_IN it_PP ,_, when_WRB it_PP is_VBZ 
+opened_VVN by_IN a_DT stern_JJ man_NN with_IN beard_NN ._SENT )_) 
+[_SYM Crash_NP site_NN ]_SYM 
+RICHARD_NN :_: I_PP am_VBP in_IN a_DT nightmare_NN ,_, or_CC mad_JJ ._SENT 
+PEINFORTE_NN :_: This_DT is_VBZ no_DT madness_NN ._SENT Tis_NNS England_NP ._SENT 
+RICHARD_NN :_: But_CC the_DT noise_NN ,_, lady_NN ._SENT The_DT foul_JJ air_NN ._SENT 
+(_( Lady_NP Peinforte_NP holds_VVZ out_RP her_PP$ hand_NN for_IN the_DT long_JJ bow_NN ._SENT )_) 
+RICHARD_NP :_: Yes_UH ,_, my_PP$ lady_NN ._SENT What_WP will_MD my_PP$ lady_NN do_VV when_WRB you_PP possess_VVP the_DT 
+Nemesis_NN ?_SENT 
+PEINFORTE_NP :_: Why_WRB ,_, first_RB have_VHP revenge_NN on_IN that_DT predictable_JJ little_JJ man_NN ._SENT He_PP 
+will_MD soon_RB arrive_VV ,_, Richard_NP ._SENT Oh_UH yes_UH ,_, I_PP expect_VVP him_PP ._SENT This_DT time_NN there_EX 'll_MD be_VB 
+a_DT reckoning_NN with_IN the_DT nameless_JJ Doctor_NP whose_WP$ power_NN is_VBZ so_RB secret_JJ ,_, for_IN I_PP 
+have_VHP found_VVN his_PP$ secret_NN out_RP ._SENT In_IN good_JJ time_NN ,_, I_PP will_MD speak_VV it_PP ._SENT I_PP shall_MD be_VB 
+his_PP$ downfall_NN ._SENT 
+[_SYM Landing_NP ]_SYM 
+DOCTOR_NN :_: I_PP 've_VHP got_VVN to_TO speak_VV to_TO her_PP ._SENT 
+SECURITY_NN :_: Be_VB quiet_JJ ._SENT We_PP 'll_MD have_VH a_DT doctor_NN here_RB soon_RB ._SENT 
+DOCTOR_NN :_: But_CC I_PP am_VBP a_DT doctor_NN !_SENT 
+SECURITY_NN :_: Do_VVP n't_RB get_VV excited_VVN ._SENT How_WRB did_VVD you_PP get_VV in_IN here_RB ?_SENT 
+DOCTOR_NN :_: I_PP could_MD tell_VV you_PP ,_, but_CC you_PP wo_MD n't_RB believe_VV me_PP ._SENT 
+SECURITY_NN :_: Try_VV me_PP ._SENT 
+DOCTOR_NN :_: I_PP travelled_VVD through_IN time_NN and_CC space_NN ._SENT 
+SECURITY_NN :_: Oh_UH dear_RB ,_, oh_UH dear_RB ._SENT 
+DOCTOR_NN :_: Oh_UH yes_UH ,_, very_RB well_RB ,_, then_RB ._SENT Let_VV 's_VBZ forget_VV about_IN the_DT armed_JJ forces_NNS ._SENT 
+ACE_NN :_: But_CC the_DT Queen_NP ?_SENT 
+SECURITY_NN :_: Are_VBP you_PP a_DT patient_NN with_IN him_PP ?_SENT 
+ACE_NN :_: Now_RB ,_, you_PP 'd_MD better_RBR listen_VV to_TO him_PP ,_, weasel_NN features_NNS ,_, '_'' cos_NN he_PP 's_VBZ the_DT 
+Doctor_NN ._SENT 
+SECURITY_NN :_: Oh_UH ,_, is_VBZ he_PP ?_SENT 
+DOCTOR_NN :_: Listen_VV ,_, the_DT fate_NN of_IN every_DT living_VVG creature_NN on_IN this_DT planet_NN hangs_VVZ 
+in_IN the_DT balance_NN ._SENT 
+SECURITY_NN :_: I_PP do_VVP n't_RB believe_VV you_PP ._SENT 
+(_( The_DT Doctor_NP puts_VVZ on_IN a_DT pair_NN of_IN round_NN glasses_NNS ._SENT )_) 
+DOCTOR_NN :_: You_PP will_MD believe_VV me_PP ._SENT You_PP will_MD let_VV us_PP go_VV ._SENT You_PP will_MD not_RB move_VV ._SENT (_( to_TO 
+Ace_NN )_) You_PP will_MD move_VV ._SENT 
+(_( The_DT security_NN men_NNS remain_VVP still_RB as_IN the_DT Doctor_NP and_CC Ace_NP head_NN for_IN the_DT 
+stairs_NNS ._SENT )_) 
+ACE_NN :_: How_WRB did_VVD you_PP do_VVP that_RB ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ easy_JJ once_IN you_PP know_VVP how_WRB ._SENT You_PP have_VHP to_TO make_VV a_DT spectacle_NN of_IN 
+yourself_PP ._SENT 
+SECURITY_NN :_: Hey_UH !_SENT 
+DOCTOR_NN :_: Only_JJ trouble_NN is_VBZ ,_, it_PP does_VVZ n't_RB last_JJ long_RB ._SENT 
+(_( The_DT men_NNS with_IN the_DT guns_NNS and_CC the_DT ear_NN defenders_NNS have_VHP arrived_VVN at_IN the_DT crash_NN 
+site_NN ._SENT One_PP turns_VVZ over_IN a_DT tape_NN in_IN his_PP$ Walkman_NP ,_, then_RB energy_NN zaps_VVZ their_PP$ ear_NN 
+phones_NNS ._SENT )_) 
+[_SYM Gallery_NP ]_SYM 
+(_( The_DT Doctor_NP stops_NNS in_IN front_NN of_IN a_DT painting_NN ._SENT )_) 
+DOCTOR_NN :_: Oh_UH look_VV ,_, a_DT Van_NP Dyck_NP ._SENT 
+ACE_NN :_: Not_RB now_RB ,_, Doctor_NP ._SENT 
+(_( They_PP push_VVP through_IN the_DT tour_NN group_NN ._SENT )_) 
+ACE_NN :_: Pardon_VV me_PP ,_, pardon_VV me_PP ,_, pardon_VV me_PP ._SENT 
+SECURITY_NN :_: Excuse_VV me_PP ._SENT 
+[_SYM Staircase_NP ]_SYM 
+(_( The_DT Doctor_NP and_CC Ace_NP make_VVP it_PP to_TO the_DT top_NN of_IN another_DT 
+staircase_NN ._SENT )_) 
+ACE_NN :_: What_WP now_RB ?_SENT 
+DOCTOR_NN :_: Back_RB to_TO the_DT Tardis_NP ._SENT We_PP 're_VBP obviously_RB not_RB going_VVG to_TO get_VV any_DT help_NN 
+here_RB ._SENT 
+(_( As_IN they_PP run_VVP down_RP the_DT stone_NN staircase_NN ,_, Ace_NP stops_VVZ at_IN a_DT Gainsborough-like_NP 
+painting_NN of_IN a_DT lady_NN ._SENT )_) 
+ACE_NN :_: Professor_NN ,_, that_WDT 's_VBZ me_PP ._SENT 
+DOCTOR_NN :_: What_WP ?_SENT Gosh_NP ,_, so_RB it_PP is_VBZ ._SENT My_PP$ goodness_NN ,_, what_WP a_DT good_JJ likeness_NN ._SENT 
+ACE_NN :_: How_WRB come_VVP I_PP ended_VVD up_RP here_RB ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, it_PP has_VHZ n't_RB happened_VVN yet_RB ._SENT 
+ACE_NN :_: But_CC it_PP 's_VBZ two_CD hundred_CD years_NNS ago_RB ._SENT 
+DOCTOR_NN :_: I_PP know_VVP ._SENT We_PP have_VHP n't_RB done_VVN it_PP ._SENT That_DT 's_VBZ why_WRB you_PP do_VVP n't_RB remember_VV it_PP ._SENT 
+ACE_NN :_: It_PP does_VVZ n't_RB make_VV sense_NN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, it_PP did_VVD to_TO Louis_NP Armstrong_NP ,_, but_CC then_RB he_PP really_RB understood_VVD 
+time_NN ._SENT 
+SECURITY_NN :_: There_RB they_PP are_VBP ._SENT Come_VVN on_IN ._SENT 
+[_SYM Crash_NP site_NN ]_SYM 
+(_( The_DT neo-Nazis_NP arrive_VV and_CC take_VV up_RP positions_NNS around_RB 
+the_DT Nemesis_NN ._SENT De_NP Flores_NP has_VHZ changed_VVN into_IN army_NN uniform_NN ._SENT His_PP$ men_NNS find_VVP the_DT 
+fallen_JJ police_NNS ._SENT )_) 
+KARL_NN :_: Herr_NP De_NP Flores_NP ,_, I_PP do_VVP n't_RB understand_VV how_WRB the_DT police_NNS have_VHP already_RB 
+been_VBN overcome_VVN ._SENT 
+DE_NP FLORES_NP :_: That_WDT is_VBZ of_IN no_DT importance_NN ._SENT All_PDT that_DT matters_NNS is_VBZ the_DT Nemesis_NN is_VBZ 
+safe_JJ ._SENT 
+(_( Karl_NP places_VVZ the_DT box_NN on_IN the_DT meteorite_NN and_CC opens_VVZ it_PP ._SENT The_DT bow_NN throbs_VVZ with_IN 
+energy_NN ,_, and_CC so_RB does_VVZ the_DT statue_NN inside_IN the_DT rock_NN ._SENT )_) 
+DE_NP FLORES_NP :_: Your_PP$ strength_NN returns_NNS ._SENT Soon_RB you_PP will_MD be_VB completely_RB restored_VVN ._SENT 
+But_CC where_WRB 's_VBZ the_DT arrow_NN ?_SENT The_DT arrow_NN ,_, where_WRB is_VBZ it_PP ?_SENT 
+(_( The_DT Tardis_NP materialises_VVZ by_IN the_DT barn_NN ._SENT )_) 
+DE_NP FLORES_NP :_: Find_VV it_PP ._SENT Find_VV it_PP !_SENT 
+DOCTOR_NN :_: I_PP only_RB hope_VVP we_PP 're_VBP not_RB to_TO late_JJ ._SENT 
+(_( The_DT Doctor_NP and_CC Ace_NP run_VVP up_RP behind_IN the_DT soldiers_NNS ._SENT )_) 
+DOCTOR_NN :_: Er_UH ,_, do_VV n't_RB be_VB afraid_JJ ._SENT We_PP wo_MD n't_RB harm_VV you_PP ._SENT 
+KARL_NN :_: How_WRB did_VVD you_PP get_VVP here_RB ?_SENT I_PP searched_VVD that_DT section_NN ,_, there_EX was_VBD no_RB one_CD 
+there_RB ._SENT 
+DE_NP FLORES_NP :_: Never_RB mind_NN ,_, Karl_NP ._SENT You_PP will_MD see_VV many_JJ signs_NNS and_CC wonders_NNS in_IN the_DT 
+days_NNS to_TO come_VV ._SENT Give_VV me_PP the_DT arrow_NN of_IN Nemesis_NP ._SENT 
+DOCTOR_NN :_: Fortunately_RB ,_, I_PP have_VHP n't_RB seen_VVN it_PP since_IN 1638_CD ,_, when_WRB it_PP disappeared_VVD 
+along_IN with_IN the_DT good_JJ Lady_NP Peinforte_NP ._SENT 
+DE_NP FLORES_NP :_: Rubbish_NN ._SENT You_PP ._SENT Where_WRB is_VBZ the_DT arrow_NN ?_SENT 
+ACE_NN :_: I_PP do_VVP n't_RB know_VV anything_NN about_IN it_PP ._SENT 
+DOCTOR_NN :_: She_PP really_RB does_VVZ n't_RB ._SENT Allow_VV me_PP to_TO explain_VV ,_, Ace_NP ._SENT 
+(_( The_DT Doctor_NP turns_VVZ his_PP$ back_NN on_IN the_DT soldiers_NNS and_CC stands_NNS in_IN front_NN of_IN Ace_NP ._SENT )_) 
+
+DOCTOR_NN :_: For_IN the_DT validium_NN to_TO become_VV active_JJ ,_, it_PP must_MD have_VH a_DT sufficient_JJ 
+quantity_NN of_IN critical_JJ mass._NN The_DT statue_NN alone_RB is_VBZ no_RB good_JJ without_IN the_DT bow_NN ._SENT 
+
+DE_NP FLORES_NP :_: I_PP have_VHP the_DT bow_NN ._SENT 
+DOCTOR_NN :_: And_CC the_DT arrow_NN ._SENT Now_RB ,_, if_IN someone_NN could_MD put_VV the_DT bow_NN and_CC arrow_NN into_IN 
+the_DT statue_NN 's_POS hands_NNS 
+DE_NP FLORES_NP :_: They_PP have_VHP the_DT power_NN of_IN life_NN and_CC death_NN ,_, not_RB only_RB over_IN this_DT 
+Earth_NP but_CC any_DT planet_NN in_IN existence_NN ._SENT You_PP seem_VVP remarkably_RB well-informed_JJ 
+for_IN someone_NN who_WP claims_VVZ to_TO know_VV nothing_NN ._SENT 
+DOCTOR_NN :_: I_PP simply_RB notice_VVP what_WP is_VBZ obvious_JJ ._SENT You_PP ,_, apparently_RB ,_, do_VVP n't_RB ._SENT 
+DE_NP FLORES_NP :_: What_WP do_VVP you_PP mean_VVP ?_SENT 
+DOCTOR_NN :_: You_PP see_VVP those_DT policemen_NNS there_RB ?_SENT They_PP 've_VHP been_VBN attacked_VVN by_IN 
+technology_NN more_RBR advanced_JJ and_CC more_RBR terrible_JJ than_IN you_PP could_MD imagine_VV ._SENT 
+KARL_NP :_: What_WP technology_NN ?_SENT 
+DOCTOR_NN :_: And_CC you_PP might_MD also_RB have_VH observed_VVN the_DT electricity_NN supply_NN being_VBG 
+drained_VVN over_IN the_DT last_JJ few_JJ days._NN 
+ACE_NN :_: Like_IN at_IN the_DT Castle_NP ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+DE_NP FLORES_NP :_: Tell_VV me_PP where_WRB the_DT arrow_NN is_VBZ ._SENT I_PP want_VVP you_PP to_TO tell_VV me_PP where_WRB to_TO 
+find_VV the_DT arrow_NN !_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP glad_JJ to_TO say_VV I_PP ca_MD n't_RB ._SENT 
+DE_NP FLORES_NP :_: Then_RB we_PP will_MD shoot_VV her_PP ._SENT 
+ACE_NN :_: Doctor_NN ._SENT 
+(_( A_DT silver_NN spacecraft_NN comes_VVZ in_IN to_TO land_VV ._SENT )_) 
+DE_NP FLORES_NP :_: Wait_VV ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB move_VV !_SENT 
+(_( Figures_NNS march_VVP out_RP of_IN the_DT spacecraft_NN ._SENT )_) 
+ACE_NN :_: They_PP saved_VVD my_PP$ life_NN ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB thank_VV them_PP yet_RB ._SENT We_PP might_MD live_VV to_TO regret_VV it_PP ._SENT 
+ACE_NN :_: What_WP are_VBP they_PP ?_SENT 
+DOCTOR_NN :_: Cybermen_NNS ._SENT 
+Part_NN Two_CD 
+
+[_SYM Crash_NP site_NN ]_SYM 
+LEADER_NN :_: So_RB ,_, Doctor_NP ,_, a_DT new_JJ appearance_NN ,_, otherwise_RB 
+our_PP$ anticipation_NN of_IN your_PP$ presence_NN has_VHZ proved_VVN entirely_RB accurate_JJ ._SENT 
+(_( De_NP Flores_NP '_POS men_NNS start_VVP shooting_VVG at_IN the_DT silver_JJ newcomers_NNS ,_, with_IN no_DT 
+effect_NN ._SENT )_) 
+LEADER_NN :_: Eradicate_VV them_PP ._SENT 
+(_( The_DT Doctor_NP and_CC Ace_NP hit_VVD the_DT ground_NN as_IN the_DT Cybermen_NP kill_VV the_DT neo-Nazis_NP ._SENT )_) 
+
+DOCTOR_NN :_: Take_VV cover_NN ._SENT 
+(_( The_DT Doctor_NP runs_VVZ and_CC dives_VVZ into_IN the_DT crater_NN made_VVN by_IN the_DT Nemesis_NP ._SENT )_) 
+ACE_NN :_: Doctor_NN !_SENT 
+(_( She_PP follows_VVZ him_PP as_IN the_DT battle_NN rages_NNS around_IN the_DT grounds_NNS ._SENT )_) 
+ACE_NN :_: Doctor_NN ,_, we_PP ca_MD n't_RB stay_VV here_RB ._SENT 
+DOCTOR_NN :_: We_PP certainly_RB can_MD ._SENT This_DT exactly_RB the_DT same_JJ thing_NN that_WDT happened_VVD the_DT 
+last_JJ time_NN ._SENT Only_RB then_RB it_PP was_VBD the_DT Roundheads_NNS and_CC Lady_NP Peinforte_NP ._SENT 
+(_( Lady_NP Peinforte_NP fires_VVZ an_DT arrow_NN directly_RB into_IN a_DT Cyberman_NP 's_POS chest_NN unit_NN 
+whilst_IN Richard_NP says_VVZ fervent_JJ prayers_NNS ._SENT )_) 
+PEINFORTE_NN :_: A_DT hit_NN ._SENT A_DT very_RB palpable_JJ hit_NN ._SENT 
+(_( The_DT Cyberman_NP dies_VVZ ._SENT It_PP must_MD be_VB a_DT gold_NN tipped_VVD arrow_NN then_RB ._SENT A_DT second_JJ arrow_NN 
+hits_VVZ the_DT ground_NN near_IN where_WRB De_NP Flores_NP is_VBZ hiding_VVG behind_IN an_DT old_JJ car_NN ._SENT He_PP 
+examines_VVZ it_PP carefully_RB as_IN more_JJR of_IN his_PP$ men_NNS are_VBP slaughtered_VVN ._SENT Another_DT 
+Cyberman_NP falls_VVZ to_TO Lady_NP Peinforte_NP 's_POS golden_JJ arrows_NNS ._SENT )_) 
+PEINFORTE_NN :_: See_VV how_WRB my_PP$ poison_NN is_VBZ as_RB deadly_JJ as_IN ever_RB ,_, Richard_NP ._SENT 
+RICHARD_NN :_: And_CC I_PP shall_MD look_VV after_IN the_DT sick_JJ ._SENT Which_WDT reminds_VVZ me_PP ,_, I_PP shall_MD 
+return_NN to_TO Briggs_NP his_PP$ money_NN ._SENT 
+PEINFORTE_NN :_: Get_VV up_RP ,_, fool_VV ._SENT I_PP tell_VVP thee_NP ,_, Richard_NP ,_, were_VBD there_RB men_NNS of_IN silver_NN 
+like_IN these_DT here_RB in_IN our_PP$ day_NN ,_, my_PP$ life_NN would_MD have_VH been_VBN quite_RB different_JJ ._SENT 
+Now_RB I_PP 'll_MD let_VV them_PP destroy_VV each_DT other_JJ ,_, and_CC then_RB we_PP 'll_MD take_VV the_DT Nemesis_NN ._SENT 
+(_( An_DT explosion_NN destroys_VVZ the_DT police_NN car_NN ._SENT A_DT dead_JJ Cyberman_NP topples_VVZ into_IN the_DT 
+crater_NN ._SENT )_) 
+DOCTOR_NN :_: Where_WRB did_VVD that_IN/that come_VVN from_IN ?_SENT 
+ACE_NN :_: Did_VVD n't_RB see_VV ._SENT 
+DOCTOR_NN :_: A_DT Cyberman_NP killed_VVD with_IN an_DT arrow_NN ?_SENT But_CC that_DT 's_VBZ ludicrous_JJ ,_, unless_IN ._SENT 
+Of_IN course_NN ,_, the_DT head_NN 's_VBZ made_VVN of_IN gold_NN ._SENT 
+ACE_NN :_: That_WDT 's_VBZ real_JJ gold_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT The_DT only_JJ substance_NN to_TO which_WDT they_PP 're_VBP vulnerable_JJ ._SENT 
+ACE_NN :_: Classy_JJ ._SENT 
+(_( Ace_NP tries_VVZ to_TO grab_VV the_DT arrow_NN but_CC the_DT Doctor_NP pushes_VVZ her_PP off_RP ._SENT )_) 
+DOCTOR_NN :_: Ah_UH !_SENT Gold_NN dipped_VVD in_IN poison_NN ._SENT Lady_NP Peinforte_NP 's_POS calling_VVG card_NN ._SENT 
+ACE_NN :_: I_PP really_RB think_VVP we_PP should_MD be_VB getting_VVG out_RP of_IN here_RB ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: I_PP really_RB think_VVP you_PP 're_VBP right_JJ ._SENT 
+RICHARD_NN :_: My_PP$ lady_NN ,_, who_WP is_VBZ that_DT little_JJ man_NN ?_SENT 
+PEINFORTE_NP :_: Oh_UH ,_, glorious_JJ evil_NN ._SENT It_PP is_VBZ he_PP ._SENT 
+(_( The_DT Doctor_NP snatches_VVZ the_DT bow_NN from_IN the_DT box_NN on_IN top_NN of_IN the_DT Nemesis_NP and_NP 
+runs_NNS for_IN the_DT Tardis_NP ._SENT )_) 
+PEINFORTE_NP :_: No_UH !_SENT 
+(_( She_PP takes_VVZ aim_NN with_IN her_PP$ bow_NN ,_, but_CC they_PP get_VVP inside_RB just_RB in_IN time_NN ._SENT The_DT 
+Tardis_NP dematerialises_VVZ with_IN an_DT arrow_NN stuck_VVN in_IN the_DT door_NN ._SENT )_) 
+DE_NP FLORES_NP :_: We_PP must_MD retreat_VV ._SENT It_PP 's_VBZ our_PP$ only_JJ chance_NN ._SENT 
+KARL_NN :_: And_CC leave_VV the_DT statue_NN ?_SENT 
+DE_NP FLORES_NP :_: The_DT statue_NN alone_RB is_VBZ useless_JJ to_TO them_PP ._SENT The_DT bow_NN is_VBZ ours_JJ ._SENT Get_VV 
+it_PP ._SENT 
+(_( Karl_NP runs_VVZ to_TO the_DT crater_NN and_CC retrieves_VVZ the_DT box_NN under_IN fire_NN ._SENT )_) 
+LEADER_NN :_: Bring_VV the_DT bow_NN at_IN once_RB ._SENT 
+CYBERMAN_NN :_: The_DT Doctor_NP and_CC the_DT female_NN have_VHP escaped_VVN with_IN it_PP ,_, Leader_NP ._SENT 
+LEADER_NN :_: And_CC that_WDT one_PP ?_SENT 
+(_( It_PP points_VVZ to_TO a_DT Cyberman_NP with_IN an_DT arrow_NN in_IN its_PP$ chest_NN ._SENT )_) 
+CYBERMAN_NN :_: Terminated_VVN by_IN another_DT human_JJ female_NN ,_, using_VVG gold_NN ._SENT 
+LEADER_NN :_: This_DT must_MD be_VB the_DT Lady_NP Peinforte_NP ._SENT 
+[_SYM Windsor_NP town_NN ]_SYM 
+(_( Lady_NP Peinforte_NP and_CC Richard_NP walk_VVP down_RP an_DT alley_NN to_TO 
+a_DT main_JJ street_NN where_WRB people_NNS are_VBP queuing_VVG at_IN a_DT bus_NN stop_NN across_IN the_DT way_NN ._SENT )_) 
+RICHARD_NN :_: My_PP$ lady_NN ,_, there_EX are_VBP people_NNS here_RB ._SENT 
+PEINFORTE_NN :_: Of_IN course_NN there_EX are_VBP people_NNS ._SENT This_DT is_VBZ Windsor_NP ._SENT Come_VVN ._SENT 
+[_SYM Warehouse_NP ]_SYM 
+(_( The_DT Cybermen_NNS have_VHP brought_VVN the_DT Nemesis_NN into_IN a_DT 
+large_JJ warehouse_NN or_CC aircraft_NN hanger_NN by_IN its_PP$ crash_NN site_NN ,_, and_CC are_VBP cutting_VVG 
+into_IN the_DT rock_NN surrounding_VVG it_PP ._SENT )_) 
+LEADER_NN :_: Cut_VV the_DT statue_NN free_RB and_CC take_VV it_PP into_IN the_DT craft_NN ._SENT 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+ACE_NN :_: I_PP do_VVP n't_RB like_VV this_DT place_NN ._SENT 
+DOCTOR_NN :_: We_PP 're_VBP just_RB passing_VVG through_RP ,_, Ace_NP ._SENT 
+ACE_NN :_: What_WP happened_VVD to_TO the_DT body_NN ?_SENT It_PP 's_VBZ gone_VVN ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT Someone_NN 's_VHZ moved_VVN the_DT chess_NN pieces_NNS ._SENT 
+(_( The_DT Doctor_NP rifles_NNS through_IN the_DT papers_NNS on_IN the_DT desk_NN and_CC produces_VVZ a_DT small_JJ 
+card_NN ._SENT )_) 
+DOCTOR_NN :_: Voila_NN !_SENT 
+ACE_NN :_: Is_VBZ that_IN/that what_WP we_PP came_VVD here_RB for_IN ?_SENT 
+DOCTOR_NN :_: Our_PP$ friend_NN the_DT mathematician_NN was_VBD a_DT genius_NN ,_, but_CC he_PP needed_VVD a_DT 
+little_JJ help_NN to_TO get_VV started_VVN ._SENT 
+(_( The_DT Doctor_NP burns_VVZ the_DT paper_NN in_IN the_DT fire_NN ._SENT )_) 
+DOCTOR_NN :_: Cold_JJ ?_SENT 
+ACE_NN :_: I_PP really_RB do_VVP n't_RB like_VV this_DT place_NN ._SENT Can_MD we_PP make_VV a_DT move_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+(_( He_PP moves_VVZ a_DT piece_NN on_IN the_DT chess_NN board_NN and_CC they_PP leave_VVP ._SENT 
+[_SYM Van_NP ]_SYM 
+(_( The_DT Cybermen_NNS carry_VVP the_DT Nemesis_NN ,_, still_RB in_IN some_DT 
+rock_NN ,_, into_IN their_PP$ spacecraft_NN ,_, then_RB take_VV off_RP ._SENT 
+Lady_NP Peinforte_NP and_CC Richard_NP attract_VVP the_DT attention_NN of_IN a_DT pair_NN of_IN thugs_NNS as_RB 
+they_PP walk_VVP down_RB through_IN Windsor_NP ._SENT 
+Meanwhile_RB De_NP Flores_NP tips_VVZ gold_JJ dust_NN out_RP of_IN a_DT small_JJ bag_NN into_IN his_PP$ hand_NN ._SENT )_) 
+KARL_NP :_: What_WP is_VBZ the_DT gold_JJ dust_NN for_IN ,_, Herr_NP De_NP Flores_NP ?_SENT 
+DE_NP FLORES_NP :_: Eventualities_NNS ._SENT 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ next_JJ to_TO an_DT old_JJ wooden_JJ 
+signpost_NN ._SENT )_) 
+DOCTOR_NN :_: Validium_NP was_VBD created_VVN as_IN the_DT ultimate_JJ defence_NN for_IN Gallifrey_NP ,_, 
+back_RB in_IN early_JJ times_NNS ._SENT 
+ACE_NN :_: Created_VVN by_IN Omega_NP ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+(_( He_PP closes_VVZ the_DT door_NN carefully_RB ,_, looking_VVG at_IN the_DT arrow_NN ._SENT Ace_NP is_VBZ carrying_VVG 
+the_DT silver_NN bow_NN and_CC her_PP$ tape_NN deck_NN ._SENT )_) 
+ACE_NN :_: And_CC ?_SENT 
+DOCTOR_NN :_: Rassilon_NN ._SENT 
+ACE_NN :_: And_CC ?_SENT 
+DOCTOR_NN :_: And_CC none_NN of_IN it_PP should_MD have_VH left_VVN Gallifrey_NP ._SENT But_CC ,_, as_RB always_RB with_IN 
+these_DT things_NNS ,_, some_DT of_IN it_PP did_VVD ._SENT 
+(_( He_PP takes_VVZ the_DT bow_NN and_CC holds_VVZ it_PP out_RP in_IN front_NN of_IN himself_PP at_IN arms_NNS length_NN 
+like_IN an_DT aerial_NN ._SENT )_) 
+ACE_NN :_: So_RB you_PP had_VHD to_TO stop_VV Lady_NP Peinforte_NP ._SENT 
+DOCTOR_NN :_: Or_CC anyone_NN else_RB ._SENT 
+ACE_NN :_: From_IN ever_RB putting_VVG the_DT three_CD bits_NNS together_RB ._SENT 
+(_( They_PP start_VVP walking_VVG down_RP a_DT track_NN with_IN the_DT castle_NN in_IN the_DT far_JJ distance_NN 
+over_IN a_DT ridge_NN ._SENT )_) 
+DOCTOR_NN :_: Yes_UH ,_, so_RB I_PP launched_VVD the_DT largest_JJS piece_NN into_IN space_NN ._SENT 
+ACE_NN :_: But_CC you_PP got_VVD the_DT sums_NNS wrong_JJ ._SENT 
+DOCTOR_NN :_: Look_VV ._SENT We_PP 're_VBP almost_RB there_RB ._SENT 
+ACE_NN :_: I_PP 'd_MD feel_VV a_DT lot_NN safer_JJR and_CC happier_JJR inside_IN the_DT Tardis_NP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, the_DT Cybermen_NP might_MD find_VV the_DT Tardis_NP ._SENT This_DT way_NN ,_, our_PP$ 
+validium_NN leads_VVZ us_PP to_TO their_PP$ validium_NN ._SENT 
+ACE_NN :_: Is_VBZ n't_RB that_IN/that a_DT bit_NN old-fashioned_JJ ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP an_DT old-fashioned_JJ guy_NN ._SENT 
+(_( The_DT Cyber-spaceship_NN comes_VVZ in_IN to_TO land_VV ._SENT )_) 
+[_SYM Windsor_NP town_NN ]_SYM 
+(_( The_DT two_CD thugs_NNS confront_VVP Lady_NP Peinforte_NP and_NP 
+Richard_NP ,_, itching_VVG for_IN a_DT fight_NN ._SENT )_) 
+SKINHEAD_NN :_: You_PP looking_VVG at_IN me_PP ?_SENT 
+PEINFORTE_NP :_: Stand_VVP aside_RB ._SENT 
+SKINHEAD_NN 2_CD :_: What_WP are_VBP you_PP ,_, social_JJ workers_NNS ?_SENT 
+RICHARD_NN :_: Out_RB of_IN my_PP$ lady_NN 's_POS way_NN ._SENT 
+SKINHEAD_NN :_: We_PP want_VVP to_TO tell_VV you_PP our_PP$ problems_NNS ._SENT 
+PEINFORTE_NN :_: Will_MD you_PP be_VB turned_VVN into_IN rats_NNS ?_SENT 
+SKINHEAD_NN 2_CD :_: We_PP already_RB have_VH been_VBN ._SENT 
+SKINHEAD_NN :_: Poor_JJ ones_NNS ._SENT That_DT 's_VBZ our_PP$ problem_NN ._SENT 
+SKINHEAD_NN 2_CD :_: Money_NN !_SENT 
+RICHARD_NN :_: Money_NN ,_, say_VVP you_PP ?_SENT 
+[_SYM Crypt_NP ]_SYM 
+(_( The_DT bow_NN is_VBZ flashing_VVG and_CC humming_VVG ,_, and_CC the_DT Doctor_NP 
+and_CC Ace_NP are_VBP whistling_VVG almost_RB in_IN tune_NN with_IN it_PP as_IN they_PP walk_VVP towards_IN the_DT 
+Castle_NP ._SENT 
+The_DT Cybermen_NP have_VHP brought_VVN the_DT Nemesis_NN to_TO a_DT tall_JJ folly_NN cum_IN crypt_NN in_IN the_DT 
+ground_NN ._SENT Actually_RB Hiorne_NP 's_POS Tower_NP at_IN Arundel_NP ._SENT On_IN the_DT wall_NN behind_IN the_DT 
+large_JJ stone_NN sarcophagus_NN is_VBZ the_DT inscription_NN Death_NN Is_VBZ But_CC A_DT Door_NP ._SENT The_DT 
+Nemesis_NN is_VBZ starting_VVG to_TO break_VV out_RP of_IN her_PP$ rock_NN prison_NN ._SENT )_) 
+CYBERMAN_NN :_: The_DT remaining_VVG validium_NN approaches_NNS ,_, Leader_NP ._SENT 
+LEADER_NN :_: As_RB predicted_VVN ._SENT Activate_VV communications_NN unit_NN ._SENT 
+CYBERMAN_NN :_: But_CC the_DT Doctor_NP and_CC Peinforte_NP are_VBP still_RB to_TO be_VB destroyed_VVN ._SENT 
+LEADER_NN :_: Our_PP$ victory_NN is_VBZ inevitable_JJ ._SENT The_DT Doctor_NP will_MD come_VV to_TO us_PP ,_, and_NP 
+Peinforte_NP is_VBZ a_DT simple_JJ savage_NN accompanied_VVN by_IN a_DT terrified_VVN peasant_NN ._SENT 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+(_( The_DT two_CD thugs_NNS have_VHP been_VBN bound_VVN ,_, gagged_VVN and_CC are_VBP 
+hanging_VVG by_IN their_PP$ heels_NNS from_IN a_DT large_JJ tree_NN branch_NN while_IN their_PP$ clothes_NNS 
+burn_VV nearby_RB ._SENT 
+Elsewhere_RB ,_, Ace_NP sets_VVZ up_RP the_DT tape_NN deck_NN as_IN an_DT aerial_NN ._SENT )_) 
+ACE_NN :_: What_WP am_VBP I_PP supposed_VVN to_TO be_VB listening_VVG for_IN ?_SENT 
+(_( There_EX is_VBZ a_DT loud_JJ beep_NN ,_, beep_NN ,_, and_CC the_DT Doctor_NP turns_VVZ it_PP off_RP ._SENT )_) DOCTOR_NP :_: That_DT ._SENT Cybermen_NNS communicating_VVG ._SENT 
+ACE_NN :_: I_PP do_VVP n't_RB like_IN Cybermen_NP ._SENT 
+DOCTOR_NN :_: You_PP should_MD see_VV the_DT ones_NNS they_PP 're_VBP communicating_VVG with_IN ._SENT 
+ACE_NN :_: Reinforcements_NNS ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT But_CC if_IN we_PP could_MD only_RB jam_VV their_PP$ signal_NN ._SENT Have_VHP you_PP got_VVD a_DT 
+tape_NN ?_SENT 
+ACE_NN :_: Yeah_UH ._SENT You_PP mean_VVP this_DT thing_NN transmits_VVZ ?_SENT 
+(_( She_PP puts_VVZ the_DT tape_NN into_IN the_DT play_NN deck_NN ._SENT )_) 
+DOCTOR_NN :_: Of_IN course_NN it_PP does_VVZ ._SENT I_PP built_VVD it_PP ._SENT 
+[_SYM Crypt_NP ]_SYM 
+LEADER_NN :_: Commence_VV transmission_NN ._SENT 
+CYBERMAN_NN :_: Leader_NN ,_, I_PP must_MD repeat_VV the_DT objection_NN to_TO the_DT transmission_NN of_IN 
+incorrect_JJ information_NN ._SENT Our_PP$ forces_NNS do_VVP not_RB yet_RB hold_VV all_DT three_CD units_NNS of_IN 
+validium_NN ._SENT 
+LEADER_NN :_: You_PP are_VBP outside_IN your_PP$ function_NN ._SENT 
+(_( The_DT communications_NNS globe_NN glows_NNS ._SENT )_) 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+(_( The_DT Doctor_NP and_CC Ace_NP are_VBP lying_VVG on_IN the_DT slope_NN 
+listening_VVG to_TO Courtney_NP Pine_NP 's_POS tape_NN ._SENT )_) 
+DOCTOR_NN :_: Are_VBP we_PP having_VHG fun_NN ?_SENT 
+ACE_NN :_: Yeah_UH ._SENT 
+[_SYM Crypt_NP ]_SYM 
+CYBERMAN_NN :_: Interference_NN ,_, origin_NN unknown_NN ._SENT 
+LEADER_NN :_: Open_VV the_DT monitor_NN channel_NN ._SENT 
+(_( Jazz_VV blares_NNS out_RP ._SENT )_) 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+ACE_NN :_: That_WDT 'll_MD keep_VV them_PP busy_JJ ._SENT Time_NN to_TO go_VV ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, I_PP do_VVP love_VV a_DT jam_NN session_NN ._SENT 
+(_( As_IN the_DT jazz_NN sounds_VVZ out_RP across_IN the_DT galaxy_NN ,_, the_DT Doctor_NP and_CC Ace_NP start_NN 
+walking_VVG again_RB ._SENT Eventually_RB they_PP come_VVP across_IN the_DT skinheads_NNS still_RB hanging_VVG 
+from_IN the_DT tree_NN ._SENT The_DT Doctor_NP gives_VVZ Ace_NP the_DT bow_NN and_CC runs_VVZ over_RP to_TO them_PP ._SENT )_) 
+DOCTOR_NN :_: This_DT is_VBZ ridiculous_JJ ._SENT Who_WP did_VVD this_DT to_TO you_PP ?_SENT 
+SKINHEAD_NN :_: Social_JJ workers_NNS ._SENT 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+(_( A_DT strange_JJ growling_VVG yowling_VVG noise_NN can_MD be_VB heard_VVN ._SENT )_) 
+RICHARD_NN :_: My_PP$ lady_NN ._SENT 
+PEINFORTE_NN :_: Of_IN course_NN I_PP heard_VVD it_PP ._SENT Am_VBP I_PP deaf_JJ ?_SENT 
+RICHARD_NN :_: It_PP sounds_VVZ like_IN a_DT bear_NN ,_, but_CC worse_JJR ._SENT 
+(_( Lady_NP Peinforte_NP 's_POS silver_JJ bow_NN glows_NNS ._SENT )_) 
+PEINFORTE_NN :_: See_VV ,_, we_PP 're_VBP near_IN the_DT Nemesis_NN ._SENT Come_VV ._SENT The_DT bear_NN will_MD not_RB pursue_VV 
+us_PP ._SENT Such_JJ things_NNS happen_VVP only_RB in_IN the_DT theatre_NN ._SENT 
+RICHARD_NP :_: What_WP creatures_NNS are_VBP these_DT ?_SENT 
+(_( They_PP are_VBP llamas_NNS ._SENT )_) 
+PEINFORTE_NN :_: I_PP know_VVP not_RB ._SENT 
+RICHARD_NN :_: They_PP will_MD eat_VV us_PP ._SENT I_PP beg_VVP you_PP ,_, my_PP$ lady_NN ,_, return_VV us_PP to_TO our_PP$ own_JJ 
+time_NN ._SENT The_DT England_NP now_RB is_VBZ full_JJ of_IN terrors_NNS ._SENT 
+PEINFORTE_NN :_: You_PP 're_VBP mad_JJ !_SENT Return_NN without_IN the_DT Nemesis_NN ?_SENT Never_RB ._SENT And_CC without_IN 
+my_PP$ knowledge_NN ,_, you_PP cannot_MD return_VV at_IN all_DT ._SENT I_PP tell_VVP you_PP ,_, Richard_NP ,_, either_CC you_PP 
+assist_VV me_PP to_TO regain_VV it_PP or_CC I_PP leave_VVP thee_NP here_RB forever_RB ._SENT Now_RB ,_, come_VVP ._SENT I_PP think_VVP 
+they_PP are_VBP peaceful_JJ ._SENT 
+RICHARD_NP :_: What_WP place_NN ,_, what_WP place_NN is_VBZ this_DT ?_SENT 
+PEINFORTE_NN :_: The_DT piece_NN of_IN ground_NN on_IN which_WDT you_PP stand_VVP ?_SENT Well_RB ,_, I_PP will_MD tell_VV 
+thee_NP ._SENT It_PP is_VBZ thy_JJ grave_NN ,_, Richard_NP ._SENT 
+RICHARD_NP :_: What_WP ?_SENT 
+PEINFORTE_NN :_: I_PP ordered_VVD you_PP to_TO be_VB buried_VVN here_RB when_WRB I_PP planned_VVD my_PP$ tomb_NN ._SENT See_VV ,_, 
+there_EX 's_VBZ thy_NN stone_NN ._SENT 
+(_( Here_RB Lyeth_NP the_DT Body_NN of_IN Richard_NP Maynarde_NP ,_, departed_VVD this_DT life_NN ye_NN 2nd_JJ 
+November_NP 1657_CD in_IN the_DT 51st_NP year_NN of_IN his_PP$ Age_NP ._SENT He_PP saw_VVD worlds_NNS end_VV and_CC 
+begin_VV ._SENT )_) 
+PEINFORTE_NN :_: If_IN the_DT dogs_NNS would_MD not_RB eat_VV thee_NP ,_, I_PP ordered_VVD you_PP put_VVD out_RP here_RB 
+to_TO attend_VV me_PP in_IN the_DT next_JJ world_NN as_IN in_IN this_DT ._SENT There_RB you_PP see_VVP is_VBZ my_PP$ burial_NN 
+place_NN ,_, and_CC aptly_RB the_DT silver_NN creatures_NNS there_RB do_VVP hold_VV the_DT Nemesis_NN ._SENT We_PP 
+shall_MD attack_VV ._SENT 
+(_( We_PP pull_VVP back_RB to_TO see_VV a_DT sign_NN near_IN the_DT llamas_NNS which_WDT reads_VVZ -_: Stay_NP in_IN your_PP$ 
+car_NN while_NN in_IN the_DT safari_NN park_NN ._SENT 
+(_( The_DT Doctor_NP and_CC Ace_NP look_VVP round_VV the_DT trunk_NN of_IN a_DT large_JJ tree_NN ._SENT )_) 
+DOCTOR_NN :_: Just_RB in_IN time_NN ._SENT 
+[_SYM Crypt_NP ]_SYM 
+RICHARD_NP :_: There_EX 's_VBZ nothing_NN here_RB ,_, my_PP$ lady_NN ._SENT 
+PEINFORTE_NN :_: See_VV the_DT arrow_NN ?_SENT The_DT statue_NN 's_POS here_RB ,_, depend_VVP upon_IN it_PP ._SENT 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+LEADER_NN :_: Now_RB our_PP$ plan_NN begins_VVZ to_TO operate_VV ._SENT She_PP will_MD 
+find_VV that_IN/that her_PP$ crypt_NN has_VHZ weathered_VVN with_IN age_NN ._SENT The_DT fact_NN of_IN her_PP$ death_NN will_MD 
+drive_VV her_PP insane_JJ ._SENT 
+[_SYM Crypt_NP ]_SYM 
+RICHARD_NN :_: This_DT is_VBZ your_PP$ tomb_NN ?_SENT 
+PEINFORTE_NN :_: Rather_RB fine_JJ ,_, is_VBZ it_PP not_RB ?_SENT But_CC where_WRB is_VBZ the_DT statue_NN of_IN Nemesis_NP ?_SENT 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+PEINFORTE_NN [_SYM OC_NP ]_SYM :_: Where_WRB is_VBZ it_PP ?_SENT Where_WRB ?_SENT 
+CYBERMAN_NN :_: Is_VBZ this_DT the_DT human_JJ condition_NN of_IN madness_NN ,_, Leader_NP ?_SENT 
+LEADER_NN :_: It_PP is_VBZ ._SENT Kill_VV them_PP ._SENT 
+PEINFORTE_NN [_SYM OC_NP ]_SYM :_: It_PP must_MD be_VB here_RB ._SENT It_PP must_MD be_VB !_SENT 
+[_SYM Crypt_NP ]_SYM 
+(_( Richard_NP stands_VVZ guard_NN with_IN his_PP$ bow_NN ._SENT )_) 
+RICHARD_NN :_: My_PP$ lady_NN !_SENT 
+PEINFORTE_NN :_: It_PP is_VBZ here_RB !_SENT The_DT arrow_NN tells_VVZ me_PP ._SENT How_WRB can_MD this_RB be_VB ?_SENT Where_WRB ?_SENT 
+Where_WRB is_VBZ it_PP ?_SENT 
+(_( Richard_NP looses_VVZ an_DT arrow_NN at_IN the_DT returning_VVG Cybermen_NP ._SENT )_) 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+(_( A_DT Cyberman_NP touches_VVZ the_DT arrow_NN with_IN a_DT detector_NN ._SENT )_) 
+CYBERMAN_NN :_: Gold_NN !_SENT 
+(_( They_PP withdraw_VV ._SENT Richard_NP 's_POS second_JJ shot_NN hits_VVZ its_PP$ chest_NN unit_NN and_CC kills_VVZ 
+it_PP ._SENT )_) 
+[_SYM Van_NP ]_SYM 
+(_( De_NP Flores_NP consults_VVZ a_DT map_NN ._SENT )_) 
+DE_NP FLORES_NP :_: This_DT was_VBD once_RB the_DT estate_NN of_IN the_DT infamous_JJ Lady_NP Peinforte_NP ,_, in_RB 
+the_DT seventeenth_JJ century_NN ._SENT 
+KARL_NN :_: Lady_NP Peinforte_NP ?_SENT But_CC Herr_NP De_NP Flores_NP ,_, we_PP 've_VHP seen_VVN a_DT woman_NN in_IN 
+seventeenth_JJ century_NN dress_NN today_NN ,_, firing_VVG arrows_NNS at_IN us_PP and_CC at_IN men_NNS of_IN 
+silver_NN ._SENT 
+DE_NP FLORES_NP :_: Shut_VVN up_RP ._SENT 
+[_SYM Outside_IN the_DT spacecraft_NN ]_SYM 
+(_( The_DT Doctor_NP and_CC Ace_NP observe_VVP the_DT Cyber_NP spacecraft_NN 
+from_IN underneath_IN a_DT hedge_NN ._SENT It_PP is_VBZ guarded_VVN by_IN the_DT two_CD headphone_NN wearing_VVG men_NNS 
+who_WP knocked_VVD them_PP into_IN the_DT river_NN ._SENT Ace_NN sneezes_NNS ,_, so_RB the_DT Doctor_NP shakes_VVZ a_DT 
+branch_NN and_CC whistles_NNS like_IN a_DT bird_NN ._SENT The_DT men_NNS decide_VVP not_RB to_TO investigate_VV ._SENT )_) 
+DOCTOR_NN :_: I_PP do_VVP n't_RB suppose_VV you_PP 've_VHP completely_RB ignored_VVN my_PP$ instructions_NNS and_CC 
+secretly_RB prepared_VVN any_DT Nitro_NP Nine_NP ,_, have_VHP you_PP ?_SENT 
+ACE_NN :_: What_WP if_IN I_PP had_VHD ?_SENT 
+DOCTOR_NN :_: Naturally_RB you_PP would_MD n't_RB do_VV anything_NN so_RB insanely_RB dangerous_JJ as_RB to_TO 
+carry_VV it_PP around_RP with_IN you_PP ,_, would_MD you_PP ?_SENT 
+ACE_NN :_: Of_IN course_NN not_RB ._SENT I_PP 'm_VBP a_DT good_JJ girl_NN ._SENT I_PP do_VVP what_WP I_PP 'm_VBP told_VVN ._SENT 
+DOCTOR_NN :_: Excellent_JJ ._SENT Blow_NN up_IN that_DT vehicle_NN ._SENT 
+(_( Ace_NN grins_NNS ,_, and_CC picks_VVZ up_RP her_PP$ rucksack_NN ._SENT )_) 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+LEADER_NN :_: Destroy_VV them_PP ._SENT Destroy_VV them_PP !_SENT 
+CYBERMAN_NN :_: We_PP cannot_MD sustain_VV these_DT losses_NNS ,_, Leader_NP ._SENT We_PP must_MD withdraw_VV ._SENT 
+LEADER_NN :_: No._NN We_PP must_MD hold_VV the_DT statue_NN and_CC retrieve_VV the_DT arrow_NN from_IN them_PP ._SENT 
+CYBERMAN_NN :_: If_IN we_PP are_VBP overcome_VVN ,_, the_DT entire_JJ strategy_NN fails_VVZ ._SENT The_DT Cyber_NP race_NN 
+will_MD cease_VV to_TO exist_VV ._SENT 
+LEADER_NN :_: Your_PP$ logic_NN is_VBZ correct_JJ ._SENT Their_PP$ supply_NN of_IN gold_NN is_VBZ limited_VVN ._SENT 
+Retreat_NN ._SENT 
+[_SYM Crypt_NP ]_SYM 
+PEINFORTE_NN :_: Of_IN course_NN ._SENT Help_VV me_PP ,_, Richard_NP ._SENT Tis_NNS in_IN my_PP$ 
+tomb_NN ._SENT Help_VV me_PP !_SENT 
+[_SYM Outside_IN the_DT spacecraft_NN ]_SYM 
+(_( The_DT Doctor_NP emerges_VVZ from_IN the_DT hedgerow_NN ._SENT )_) 
+DOCTOR_NN :_: Hello_UH ,_, I_PP 'm_VBP the_DT Doctor_NP !_SENT I_PP believe_VVP you_PP want_VVP to_TO kill_VV me_PP ._SENT 
+(_( The_DT Doctor_NP runs_VVZ and_CC the_DT men_NNS follow_VVP ._SENT Ace_NP runs_VVZ to_TO the_DT spacecraft_NN ,_, throws_VVZ 
+the_DT rucksack_NN inside_RB then_RB runs_VVZ back_RB to_TO the_DT hedgerow_NN ._SENT KaBOOM_NP !_SENT Karl_NP and_CC De_NP 
+Flores_NP see_VVP the_DT fireball_NN and_CC drive_NN towards_IN it_PP ._SENT Ace_NP rejoins_VVZ the_DT Doctor_NP as_RB 
+the_DT men_NNS go_VVP to_TO the_DT Cybermen_NP ._SENT )_) 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+LEADER_NN :_: Betrayal_NN ._SENT Kill_VV them_PP ._SENT 
+ACE_NN :_: They_PP killed_VVD them_PP ,_, just_RB cos_NN I_PP blew_VVD up_RP the_DT ship_NN ._SENT 
+DOCTOR_NN :_: They_PP were_VBD dead_JJ already_RB ._SENT The_DT Cybermen_NP had_VHD transformed_VVN them_PP ._SENT They_PP 
+were_VBD no_RB longer_RBR human_JJ beings_NNS ._SENT 
+ACE_NN :_: Is_VBZ that_IN/that why_WRB the_DT Cybermen_NP saved_VVD my_PP$ life_NN ,_, so_RB they_PP could_MD do_VV that_IN/that to_TO 
+me_PP too_RB ?_SENT 
+DOCTOR_NN :_: Probably_RB ._SENT They_PP were_VBD like_IN people_NNS themselves_PP before_IN they_PP turned_VVD 
+themselves_PP into_IN Cybermen_NP ._SENT Quite_PDT a_DT lot_NN of_IN human_JJ beings_NNS are_VBP trying_VVG to_TO 
+follow_VV their_PP$ example_NN ._SENT 
+[_SYM Crypt_NP ]_SYM 
+(_( Richard_NP has_VHZ opened_VVN the_DT top_NN of_IN the_DT sarcophagus_NN ._SENT )_) 
+RICHARD_NN :_: My_PP$ lady_NN ,_, where_WRB are_VBP your_PP$ bones_NNS ?_SENT 
+PEINFORTE_NP :_: What_WP matter_NN ?_SENT 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+DOCTOR_NN :_: Are_VBP we_PP still_RB jamming_VVG them_PP ?_SENT 
+ACE_NN :_: Tape_NN 's_VBZ still_RB running_VVG ._SENT 
+DOCTOR_NN :_: Good_JJ ._SENT Let_VV 's_VBZ see_VV who_WP 's_VBZ listening_VVG to_TO it_PP ._SENT 
+(_( He_PP turns_VVZ up_RP the_DT volume_NN ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, sweet_JJ ._SENT 
+[_SYM Clearing_NP ]_SYM 
+(_( Karl_NP and_CC De_NP Flores_NP meet_VV the_DT Cybermen_NP in_IN a_DT 
+clearing_NN ._SENT )_) 
+DE_NP FLORES_NP :_: We_PP want_VVP to_TO talk_VV to_TO you_PP ._SENT I_PP do_VVP n't_RB know_VV if_IN you_PP 're_VBP familiar_JJ with_IN 
+Wagner_NP 's_POS Ring_NP das_NP Nibelungen_NP ._SENT Now_RB we_PP ,_, we_PP are_VBP the_DT supermen_NNS ,_, but_CC you_PP ,_, you_PP 
+are_VBP the_DT giants_NNS ._SENT They_PP are_VBP wonderful_JJ creatures_NNS ._SENT 
+LEADER_NN :_: Of_IN course_NN ,_, but_CC why_WRB should_MD we_PP form_VV an_DT alliance_NN with_IN you_PP ?_SENT 
+DE_NP FLORES_NP :_: We_PP had_VHD a_DT leader_NN once_RB ._SENT He_PP predicted_VVD your_PP$ coming_VVG ._SENT Now_RB together_RB 
+we_PP shall_MD fulfil_VV his_PP$ vision_NN and_CC reign_NN over_IN this_DT world_NN ._SENT 
+LEADER_NN :_: Together_RB ?_SENT The_DT Cyber_NP race_NN requires_VVZ no_RB help_VV from_IN humans_NNS ._SENT 
+KARL_NN :_: But_CC a_DT woman_NN who_WP is_VBZ almost_RB less_RBR that_DT human_NN now_RB holds_VVZ the_DT statue_NN ._SENT 
+DE_NP FLORES_NP :_: And_CC she_PP 's_VBZ armed_VVN with_IN the_DT most_RBS primitive_JJ toys_NNS ._SENT 
+LEADER_NN :_: You_PP insult_VVP us_PP ._SENT 
+DE_NP FLORES_NP :_: Of_IN course_NN not_RB ._SENT Whatever_WDT your_PP$ unfortunate_JJ vulnerability_NN 
+does_VVZ n't_RB affect_VV us_PP ._SENT We_PP can_MD remove_VV her_PP for_IN you_PP ._SENT 
+LEADER_NN :_: We_PP accept_VVP ._SENT Destroy_VV the_DT woman_NN and_CC her_PP$ servant_NN ,_, and_CC we_PP will_MD 
+divide_VV the_DT planet_NN into_IN your_PP$ slave_NN groups_NNS and_CC ours_JJ ._SENT 
+DE_NP FLORES_NP :_: Good_JJ ._SENT 
+LEADER_NN :_: But_CC remember_VV ,_, betrayal_NN will_MD be_VB fatal_JJ ._SENT We_PP are_VBP invincible_JJ to_TO your_PP$ 
+weapons_NNS ._SENT 
+DE_NP FLORES_NP :_: Come_VVP with_IN me_PP ._SENT 
+(_( De_NP Flores_NP and_CC Karl_NP leave_VVP ._SENT )_) 
+LEADER_NN :_: Once_RB they_PP have_VHP the_DT arrow_NN and_CC the_DT statue_NN ,_, destroy_VV them_PP ._SENT 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+(_( The_DT hologram_NN above_IN the_DT tape_NN deck_NN is_VBZ empty_JJ ._SENT )_) 
+DOCTOR_NN :_: Anything_NN there_RB ?_SENT 
+ACE_NN :_: Why_WRB am_VBP I_PP doing_VVG this_DT ?_SENT 
+DOCTOR_NN :_: That_DT handful_NN back_RB there_EX are_VBP n't_RB the_DT only_JJ Cybermen_NN in_IN the_DT 
+universe_NN ._SENT We_PP 've_VHP got_VVN to_TO find_VV out_RP where_WRB the_DT others_NNS are_VBP ._SENT 
+ACE_NN :_: Look_VV ,_, this_DT is_VBZ where_WRB the_DT signal_NN 's_VBZ being_VBG received_VVN ,_, right_RB ?_SENT 
+DOCTOR_NN :_: Right_RB ._SENT 
+ACE_NN :_: But_CC according_VVG to_TO the_DT scanner_NN there_EX 's_VBZ nothing_NN there_RB ._SENT 
+DOCTOR_NN :_: Then_RB the_DT scanner_NN 's_VBZ wrong_JJ ._SENT That_DT lot_NN were_VBD only_RB the_DT advance_NN party_NN ._SENT 
+Out_IN there_EX somewhere_RB 's_VBZ the_DT entire_JJ Cyberforce_NN ,_, and_CC they_PP want_VVP the_DT Nemesis_NN 
+more_JJR than_IN anything_NN else_RB in_IN space_NN ._SENT 
+ACE_NN :_: How_WRB can_MD you_PP be_VB so_RB sure_JJ ?_SENT 
+DOCTOR_NN :_: Because_IN it_PP 's_VBZ 1988._CD 
+ACE_NN :_: Huh_NP ._SENT That_DT makes_VVZ sense_NN ._SENT 
+DOCTOR_NN :_: Listen_VV ,_, Ace_NP ._SENT The_DT Nemesis_NN generates_VVZ destruction_NN ._SENT It_PP affects_VVZ 
+everything_NN around_IN it_PP ._SENT I_PP launched_VVD it_PP into_IN space_NN ,_, but_CC unfortunately_RB with_IN 
+an_DT orbit_NN that_WDT brings_VVZ it_PP back_RB to_TO Earth_NP every_DT twenty_CD five_CD years_NNS ._SENT Take_VV the_DT 
+twentieth_JJ century_NN ._SENT It_PP appeared_VVD in_IN 1913._CD 
+ACE_NN :_: The_DT eve_NN of_IN the_DT First_NP World_NP War_NP ._SENT 
+DOCTOR_NN :_: Twenty_CD five_CD years_NNS later_RBR ?_SENT 
+ACE_NN :_: 1938._CD 
+DOCTOR_NN :_: Hitler_NP annexes_NNS Austria_NP ._SENT 
+ACE_NN :_: 1963_LS ?_SENT 
+DOCTOR_NN :_: Kennedy_NP assassinated_VVD ._SENT 
+ACE_NN :_: 1988._CD 
+DOCTOR_NN :_: Check_VV the_DT scanner_NN again_RB ._SENT 
+(_( Elsewhere_NP -_: )_) 
+DE_NP FLORES_NP :_: Unfortunately_RB ,_, Wagner_NP must_MD be_VB rewritten_VVN ._SENT The_DT supermen_NNS must_MD 
+control_VV the_DT giants_NNS ._SENT Only_RB two_CD illiterates_NNS stand_VVP between_IN ourselves_PP and_CC 
+the_DT Fuhrer_NP 's_POS dream_NN ._SENT Come_VV ._SENT 
+[_SYM Crypt_NP ]_SYM 
+(_( The_DT statue_NN is_VBZ uncovered_VVN in_IN the_DT sarcophagus_NN ._SENT )_) 
+PEINFORTE_NP :_: How_WRB perfect_JJ you_PP are_VBP ._SENT Immaculate_JJ beauty_NN carved_VVN in_IN absolute_JJ 
+evil_JJ ._SENT 
+RICHARD_NN :_: But_CC your_PP$ bones_NNS ,_, my_PP$ lady_NN ?_SENT They_PP should_MD be_VB buried_VVN 
+PEINFORTE_NP :_: What_WP matter_NN ?_SENT They_PP are_VBP dead_JJ ,_, but_CC I_PP live_VVP ,_, and_CC soon_RB I_PP shall_MD 
+have_VHP the_DT bow_NN and_CC my_PP$ Nemesis_NN shall_MD be_VB complete_JJ ._SENT 
+(_( A_DT gunshot_NN makes_VVZ Richard_NP duck_NN ._SENT )_) 
+PEINFORTE_NN :_: We_PP are_VBP attacked_VVN !_SENT Quickly_RB ,_, arrows_NNS ._SENT 
+RICHARD_NN :_: We_PP have_VHP but_CC one_PP left_VVD ,_, my_PP$ lady_NN ._SENT I_PP doubt_VVP that_IN/that our_PP$ arrows_NNS can_MD 
+stop_VV these_DT weapons_NNS anyway_RB ._SENT 
+PEINFORTE_NN :_: Nonsense_NN ._SENT Make_VV it_PP count_VV ._SENT They_PP killed_VVD the_DT silver_JJ creatures_NNS ._SENT 
+(_( More_JJR shots_NNS hit_VVD the_DT stonework_NN ._SENT )_) 
+RICHARD_NN :_: See_VV ,_, lady_NN ,_, we_PP have_VHP no_DT chance_NN !_SENT 
+PEINFORTE_NN :_: Nonsense_NN ._SENT No_DT man_NN shall_MD take_VV the_DT Nemesis_NN ._SENT Her_PP$ might_NN is_VBZ mine_JJ !_SENT 
+(_( Richard_NP fires_VVZ the_DT last_JJ poisoned_VVN arrow_NN ._SENT )_) 
+PEINFORTE_NN :_: Not_RB for_IN nothing_NN did_VVD I_PP design_VV my_PP$ own_JJ tomb_NN ._SENT Death_NN is_VBZ but_CC a_DT 
+door_NN ._SENT 
+(_( She_PP presses_VVZ a_DT carving_NN and_CC a_DT door_NN opens_VVZ in_IN the_DT wall_NN ._SENT )_) 
+PEINFORTE_NN :_: I_PP always_RB knew_VVD I_PP 'd_MD cheat_VV it_PP ._SENT Here_RB ,_, help_VV me_PP with_IN the_DT statue_NN ._SENT 
+RICHARD_NN :_: We_PP ca_MD n't_RB lift_VV it_PP ,_, my_PP$ lady_NN ._SENT We_PP must_MD fly_VV !_SENT 
+KARL_NN :_: Put_VV up_RP your_PP$ hands_NNS ._SENT 
+PEINFORTE_NN :_: Never_RB !_SENT 
+RICHARD_NN :_: You_PP want_VVP the_DT statue_NN ,_, master_NN ?_SENT Here_RB ,_, take_VV it_PP ._SENT Take_VV it_PP ._SENT 
+PEINFORTE_NP :_: No_UH !_SENT 
+(_( Richard_NP snatches_VVZ the_DT silver_JJ arrow_NN from_IN Lady_NP Peinforte_NP ._SENT )_) 
+RICHARD_NN :_: Give_VV her_PP the_DT arrow_NN ._SENT See_VV !_SENT 
+(_( Richard_NP throws_VVZ the_DT arrow_NN into_IN the_DT sarcophagus_NN ._SENT )_) 
+RICHARD_NN :_: Forgive_VV me_PP ,_, my_PP$ lady_NN ._SENT 
+PEINFORTE_NN :_: Unhand_VV me_PP now_RB !_SENT 
+(_( Richard_NP drags_VVZ Lady_NP Peinforte_NP out_IN through_IN the_DT new_JJ door_NN ._SENT Karl_JJ fires_NNS and_CC 
+misses_VVZ ._SENT )_) 
+PEINFORTE_NN [_SYM OC_NP ]_SYM :_: No_UH !_SENT 
+DE_NP FLORES_NP :_: No_DT matter_NN ,_, Karl_NP ,_, no_DT matter_NN ._SENT They_PP are_VBP of_IN no_DT importance_NN ._SENT We_PP 
+have_VHP the_DT statue_NN ,_, the_DT arrow_NN ,_, and_CC the_DT bow_NN ._SENT 
+(_( The_DT Nemesis_NN 's_POS hand_NN reaches_VVZ for_IN the_DT arrow_NN ._SENT )_) 
+KARL_NN :_: And_CC the_DT Cybermen_NP ?_SENT 
+DE_NP FLORES_NP :_: Gold_NP overcomes_VVZ them_PP ._SENT We_PP have_VHP no_DT such_JJ weakness_NN ._SENT See_VV how_WRB it_PP 
+prepares_VVZ for_IN life_NN ._SENT Your_PP$ first_JJ task_NN must_MD be_VB to_TO take_VV control_NN of_IN the_DT 
+extraterrestrials_NNS ._SENT 
+(_( The_DT Cyber_NP Leader_NP enters_VVZ behind_IN them_PP ._SENT )_) 
+LEADER_NN :_: Unfortunately_RB ,_, that_WDT will_MD not_RB be_VB possible_JJ ._SENT 
+DE_NP FLORES_NP :_: Keep_VV away_RB ._SENT I_PP possess_VVP the_DT entire_JJ statue_NN of_IN Nemesis_NP ._SENT All_DT power_NN 
+is_VBZ mine_JJ ._SENT The_DT life_NN and_CC death_NN of_IN everything_NN in_IN existence_NN is_VBZ in_IN my_PP$ hands_NNS ._SENT 
+LEADER_NN :_: Then_RB where_WRB is_VBZ the_DT bow_NN ?_SENT 
+(_( De_NP Flores_NP opens_VVZ the_DT case_NN and_CC discovered_VVD that_IN/that it_PP is_VBZ empty_JJ ._SENT )_) 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+(_( Ace_NN is_VBZ still_RB staring_VVG at_IN the_DT scanner_NN ._SENT The_DT Doctor_NP 
+spots_VVZ a_DT lizard_NN amongst_IN the_DT foliage_NN ._SENT )_) 
+DOCTOR_NN :_: Of_IN course_NN ._SENT It_PP 's_VBZ so_RB simple_JJ ._SENT They_PP 're_VBP shrouded_VVN ._SENT 
+ACE_NN :_: You_PP what_WP ?_SENT 
+DOCTOR_NN :_: Shrouded_VVD ._SENT They_PP do_VVP n't_RB show_VV up_RP ._SENT But_CC we_PP must_MD try_VV and_CC force_VV them_PP 
+into_IN revealing_VVG themselves_PP ._SENT Treble_NN ._SENT Bass_NP ._SENT Please_UH let_VV me_PP be_VB right_JJ ._SENT Is_VBZ 
+anyone_NN listening_NN ?_SENT Balance_NN ._SENT 
+(_( The_DT scanner_NN fills_VVZ with_IN the_DT Cyber_NP fleet_NN ._SENT )_) 
+ACE_NN :_: What_WP are_VBP they_PP ?_SENT 
+DOCTOR_NN :_: Cyber_NP warships_NNS ._SENT Thousands_NNS of_IN them_PP ._SENT They_PP were_VBD invisible_JJ ._SENT 
+Part_NP Three_NP 
+
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+(_( The_DT Doctor_NP turns_VVZ off_RP the_DT scanner_NN ._SENT )_) 
+ACE_NN :_: What_WP can_MD we_PP do_VV ?_SENT 
+DOCTOR_NN :_: I_PP think_VVP our_PP$ best_JJS move_NN is_VBZ to_TO go_VV to_TO the_DT crypt_NN ,_, unarmed_VVN ,_, with_IN the_DT 
+bow_NN ._SENT 
+ACE_NN :_: Professor_NN ,_, are_VBP you_PP losing_VVG your_PP$ marbles_NNS ?_SENT 
+(_( The_DT Doctor_NP takes_VVZ a_DT handful_NN of_IN marbles_NNS from_IN his_PP$ pocket_NN and_CC pours_VVZ them_PP 
+into_IN Ace_NP 's_POS hands_NNS ._SENT )_) 
+DOCTOR_NN :_: We_PP 've_VHP got_VVN to_TO get_VV the_DT bow_NN into_IN the_DT statue_NN 's_POS hands_NNS in_IN order_NN to_TO 
+activate_VV the_DT validium_NN ._SENT 
+ACE_NN :_: Is_VBZ this_DT the_DT only_JJ way_NN ?_SENT 
+DOCTOR_NN :_: I_PP believe_VVP in_IN the_DT direct_JJ approach_NN ._SENT You_PP can_MD always_RB go_VV back_RB to_TO the_DT 
+Tardis_NP ._SENT 
+ACE_NN :_: Are_VBP we_PP going_VVG or_CC what_WP ?_SENT 
+[_SYM Crypt_NP ]_SYM 
+(_( De_NP Flores_NP tips_VVZ some_DT gold_JJ dust_NN into_IN his_PP$ palm_NN then_RB 
+turns_VVZ around_RP to_TO face_VV the_DT Cybermen_NP ._SENT )_) 
+DE_NP FLORES_NP :_: Surely_RB we_PP ,_, er_NNS ,_, we_PP can_MD negotiate_VV this_DT er_NN ,_, this_RB 
+misunderstanding_NN ?_SENT 
+LEADER_NN :_: Our_PP$ understanding_NN is_VBZ perfect_JJ ._SENT You_PP thought_VVD you_PP had_VHD all_RB three_CD 
+components_NNS of_IN the_DT statue_NN ,_, and_CC naturally_RB wished_VVN to_TO destroy_VV us_PP ._SENT 
+KARL_NN :_: You_PP are_VBP completely_RB mistaken_VVN ._SENT 
+LEADER_NN :_: Silence_NN ._SENT 
+CYBERMAN_NN :_: Validium_NN activity_NN indicates_VVZ proximity_NN of_IN the_DT bow_NN ,_, Leader_NP ._SENT 
+LEADER_NN :_: Excellent_JJ ._SENT Kill_VV them_PP ._SENT 
+(_( De_NP Flores_NP throws_VVZ the_DT gold_JJ dust_NN at_IN the_DT Leader_NP ,_, but_CC is_VBZ aiming_VVG at_IN its_PP$ 
+head_NN ,_, not_RB chest_NN unit_NN ._SENT It_PP staggers_VVZ back_RB briefly_RB as_IN De_NP Flores_NP and_CC Karl_NP 
+walk_VV out_RP ._SENT )_) 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+(_( A_DT Cyberman_NP follows_VVZ them_PP ._SENT )_) 
+KARL_NN :_: Herr_NP De_NP Flores_NP ._SENT 
+DE_NP FLORES_NP :_: You_PP fool_VVP ,_, they_PP 're_VBP going_VVG to_TO kill_VV us_PP ._SENT 
+KARL_NN :_: Your_PP$ day_NN is_VBZ over_RP ._SENT 
+DE_NP FLORES_NP :_: You_PP betray_VVP me_PP ?_SENT Have_VHP I_PP taught_VVD you_PP nothing_NN ?_SENT 
+KARL_NN :_: Everything_NN ._SENT Which_WDT is_VBZ why_WRB we_PP now_RB part_NN company_NN ._SENT I_PP 'm_VBP afraid_JJ you_PP 
+failed_VVN to_TO understand_VV history_NN in_IN addition_NN to_TO Wagner_NP ._SENT 
+DE_NP FLORES_NP :_: I_PP ?_SENT 
+KARL_NN :_: Supermen_NNS are_VBP all_RB very_RB well_RB ,_, but_CC the_DT giants_NNS are_VBP the_DT master_NN race_NN ._SENT 
+(_( The_DT Cyber_NP Leader_NP comes_VVZ outside_JJ ._SENT )_) 
+KARL_NN :_: Here_RB he_PP is_VBZ ._SENT Now_RB make_VV me_PP one_CD of_IN you_PP ._SENT 
+LEADER_NN :_: You_PP show_VVP potential_JJ ._SENT Very_RB well_RB ._SENT Have_VHP them_PP programmed_VVN at_IN once_RB ._SENT 
+(_( Two_CD Cybermen_NNS take_VVP Karl_NP and_CC De_NP Flores_NP back_RB inside_IN the_DT tower_NN ._SENT )_) 
+LEADER_NN :_: We_PP must_MD complete_VV the_DT statue_NN immediately_RB ._SENT Locate_VV the_DT bow_NN ._SENT 
+Destroy_VV the_DT Doctor_NP and_CC his_PP$ young_JJ friend_NN ._SENT 
+(_( Richard_NP leads_VVZ the_DT Lady_NP Peinforte_NP up_IN some_DT steps_NNS from_IN below_IN the_DT base_NN of_IN 
+the_DT tower_NN ._SENT )_) 
+RICHARD_NP :_: How_WRB is_VBZ it_PP with_IN you_PP ,_, my_PP$ lady_NN ?_SENT 
+PEINFORTE_NN :_: I_PP understand_VVP not_RB ._SENT 
+RICHARD_NP :_: What_WP 's_VBZ to_TO understand_VV ?_SENT 
+PEINFORTE_NN :_: Always_RB I_PP have_VHP treated_VVN you_PP badly_RB ._SENT I_PP have_VHP done_VVN you_PP no_DT service_NN ,_, 
+shown_VVN you_PP no_DT kindness_NN ,_, and_CC yet_RB you_PP risk_VVP your_PP$ life_NN to_TO save_VV me_PP ._SENT Why_WRB so_RB ?_SENT 
+RICHARD_NP :_: Should_MD I_PP not_RB ?_SENT 
+PEINFORTE_NN :_: I_PP do_VVP not_RB live_VV in_IN the_DT world_NN of_IN what_WP should_MD ._SENT But_CC you_PP 're_VBP a_DT good_JJ 
+man_UH ,_, Richard_NP ,_, and_CC I_PP am_VBP evil_JJ ._SENT 
+RICHARD_NN :_: My_PP$ lady_NN ,_, we_PP have_VHP no_DT more_JJR weapons_NNS ._SENT 
+PEINFORTE_NP :_: No_UH ,_, you_PP 're_VBP wrong_JJ ._SENT I_PP have_VHP one_CD more_JJR yet_CC that_WDT will_MD not_RB fail_VV ._SENT My_PP$ 
+knowledge_NN ._SENT I_PP will_MD have_VH the_DT statue_NN of_IN Nemesis_NP ._SENT 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+ACE_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN :_: Ace_NN ?_SENT 
+ACE_NN :_: Look_VV ,_, let_VV 's_VBZ be_VB honest_JJ ,_, right_RB ?_SENT I_PP 've_VHP never_RB really_RB bottled_VVN out_RP of_IN 
+anything_NN before_RB ,_, have_VHP I_PP ,_, but_CC I_PP 'm_VBP really_RB ,_, really_RB scared_VVN ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, Ace_NP ._SENT I_PP 'm_VBP sorry_JJ ._SENT Forgive_VV me_PP ._SENT Why_WRB do_VVP n't_RB you_PP go_VVP back_RB to_TO the_DT 
+Tardis_NP ?_SENT You_PP 'll_MD be_VB safe_JJ there_RB ,_, whatever_WDT happens_VVZ ._SENT 
+ACE_NN :_: No_DT chance_NN ,_, Doctor_NP ._SENT No_DT chance_NN ._SENT 
+[_SYM Crypt_NP ]_SYM 
+(_( De_NP Flores_NP and_CC Karl_NP have_VHP been_VBN fitted_VVN with_IN 
+headphones_NN ._SENT )_) 
+CYBERMAN_NN :_: The_DT Cyberfleet_NP are_VBP still_RB not_RB receiving_VVG our_PP$ transmission_NN ,_, 
+Leader_NN ._SENT 
+LEADER_NN :_: Is_VBZ there_RB any_DT pattern_NN to_TO the_DT jamming_NN signal_NN ?_SENT 
+(_( The_DT Cyberman_NP turns_VVZ on_IN the_DT monitor_NN channel_NN ,_, and_CC jazz_NN is_VBZ heard_VVN ._SENT )_) 
+CYBERMAN_NN :_: It_PP is_VBZ meaningless_JJ ._SENT 
+(_( As_IN the_DT Doctor_NP and_CC Ace_NP run_VVP towards_IN the_DT tower_NN ,_, the_DT tape_NN stops_VVZ ._SENT The_DT 
+communications_NNS unit_NN light_NN comes_VVZ on_IN ._SENT )_) 
+CYBERMAN_NN :_: Communication_NN channels_NNS to_TO the_DT Cyberfleet_NP are_VBP clear_JJ again_RB ,_, 
+Leader_NN ._SENT 
+LEADER_NN :_: Excellent_JJ ._SENT Their_PP$ arrival_NN is_VBZ imminent_JJ ._SENT 
+DE_NP FLORES_NP :_: You_PP fool_VVP ._SENT Without_IN the_DT bow_NN the_DT statue_NN 's_POS power_NN is_VBZ nothing_NN ._SENT 
+LEADER_NN :_: We_PP will_MD shortly_RB obtain_VV the_DT bow_NN ._SENT 
+DE_NP FLORES_NP :_: From_IN the_DT Doctor_NP ?_SENT Do_VV n't_RB delude_VV yourself_PP ._SENT He_PP is_VBZ no_RB common_JJ 
+adversary_NN ._SENT Do_VVP you_PP think_VVP he_PP 'll_MD simply_RB walk_VV in_IN here_RB and_CC hand_VV it_PP over_RP ?_SENT 
+DOCTOR_NN :_: Good_JJ afternoon_NN ._SENT 
+LEADER_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, here_RB we_PP are_VBP ._SENT I_PP 'm_VBP sorry_JJ we_PP could_MD n't_RB have_VH been_VBN here_RB earlier_JJR ,_, 
+but_CC we_PP were_VBD held_VVN up_RP on_IN the_DT way_NN ._SENT I_PP do_VVP n't_RB believe_VV you_PP 've_VHP met_VVN my_PP$ friend_NN 
+Ace_NN ._SENT 
+LEADER_NN :_: Give_VV me_PP the_DT bow_NN ._SENT 
+DOCTOR_NN :_: Cyberleader_NN moves_NNS pawn_VVP to_TO discover_VV check_NN ._SENT 
+ACE_NN :_: Ace_NN replies_VVZ by_IN neatly_RB castling_VVG with_IN the_DT bow_NN ._SENT 
+LEADER_NN :_: Give_VV me_PP the_DT bow_NN ._SENT 
+DOCTOR_NN :_: Doctor_NN en_IN passant_JJ behind_IN Cyberleader_NP ._SENT 
+LEADER_NN :_: Give_VV me_PP the_DT bow_NN !_SENT 
+(_( The_DT Doctor_NP grabs_VVZ the_DT bow_NN with_IN his_PP$ umbrella_NN ._SENT )_) 
+DOCTOR_NN :_: Doctor_NN supports_VVZ combination_NN gambit_NN ._SENT 
+LEADER_NN :_: Take_VV the_DT bow_NN from_IN him_PP ._SENT 
+DOCTOR_NN :_: Middle_JJ game_NN element_NN with_IN Cybermen_NP ._SENT 
+(_( The_DT Doctor_NP pirouettes_VVZ to_TO the_DT sarcophagus_NN ,_, putting_VVG his_PP$ hat_NN over_IN a_DT 
+Cyberman_NP 's_POS gun_NN ._SENT )_) 
+LEADER_NN :_: Kill_VV him_PP !_SENT 
+DOCTOR_NN :_: End_NN game_NN ._SENT Illegal_JJ move_NN ,_, but_CC checkmate_NN !_SENT 
+(_( The_DT Doctor_NP gives_VVZ the_DT bow_NN to_TO Nemesis_NP to_TO activate_VV it_PP ,_, then_RB takes_VVZ it_PP 
+back_RB ._SENT )_) 
+DOCTOR_NN :_: That_WDT seems_VVZ to_TO be_VB in_IN order_NN ._SENT 
+(_( The_DT Doctor_NP takes_VVZ back_VV his_PP$ hat_NN ._SENT )_) 
+DOCTOR_NN :_: Run_VV !_SENT 
+[_SYM Outside_IN the_DT Crypt_NN ]_SYM 
+DOCTOR_NN :_: The_DT Tardis_NP ._SENT 
+ACE_NN :_: No_DT statue_NN ?_SENT 
+DOCTOR_NN :_: Now_RB it_PP 's_VBZ awake_JJ ,_, it_PP 'll_MD follow_VV the_DT bow_NN ._SENT 
+(_( The_DT glowing_JJ silver_NN statue_NN stands_VVZ up_RB and_CC there_EX are_VBP small_JJ explosions_NNS 
+around_IN her_PP ._SENT A_DT piercing_JJ scream_NN splits_VVZ the_DT air_NN as_IN fire_NN blows_NNS out_RP of_IN the_DT 
+windows_NNS of_IN the_DT tower_NN ._SENT )_) 
+[_SYM Windsor_NP Great_NP Park_NP ]_SYM 
+(_( Lady_NP Peinforte_NP hears_VVZ it_PP ._SENT )_) 
+PEINFORTE_NP :_: Fear_VVP not_RB ,_, Richard_NP ._SENT It_PP is_VBZ the_DT Nemesis_NN come_VVN alive_RB ._SENT 
+RICHARD_NP :_: Alive_JJ ?_SENT 
+PEINFORTE_NP :_: Why_WRB ,_, yes_UH ._SENT Which_WDT means_VVZ it_PP is_VBZ complete_JJ ,_, and_CC now_RB it_PP shall_MD be_VB 
+mine_NN ._SENT 
+(_( The_DT Tardis_NP dematerialises_VVZ ._SENT )_) 
+PEINFORTE_NN :_: All_DT power_NN ,_, all_DT power_NN past_JJ ,_, present_JJ and_CC future_JJ ,_, shall_MD be_VB 
+mine_NN ._SENT Why_WRB ,_, I_PP shall_MD be_VB mistress_NN of_IN all_DT of_IN that_WDT is_VBZ ,_, all_DT that_WDT shall_MD be_VB ,_, 
+all_DT that_WDT ever_RB was_VBD ._SENT Yes_UH ,_, all_RB !_SENT All_RB !_SENT 
+RICHARD_NN :_: My_PP$ lady_NN ,_, let_VV us_PP find_VV some_DT shelter_NN ._SENT 
+PEINFORTE_NP :_: How_WRB dare_VV you_PP !_SENT I_PP shall_MD lead_VV and_CC you_PP follow_VVP !_SENT 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+(_( The_DT Doctor_NP is_VBZ staring_VVG at_IN the_DT chess_NN board_NN in_IN 1638_CD 
+while_IN Ace_NP rolls_VVZ up_RP the_DT mathematicians_NNS papers_NNS ._SENT )_) 
+ACE_NN :_: Hey_UH ,_, why_WRB are_VBP we_PP here_RB ?_SENT What_WP 's_VBZ going_VVG on_RP ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: Unfinished_JJ business_NN ._SENT We_PP do_VVP n't_RB want_VV those_DT to_TO fall_VV into_IN the_DT wrong_JJ 
+hands_NNS ,_, just_RB yet_RB ._SENT 
+ACE_NN :_: How_WRB 's_VBZ the_DT game_NN going_VVG ?_SENT 
+DOCTOR_NN :_: Black_NP 's_VBZ losing_VVG ._SENT 
+ACE_NN :_: What_WP happens_VVZ to_TO these_DT calculations_NNS ?_SENT 
+DOCTOR_NN :_: Bishop_NP takes_VVZ rook_NN ._SENT Someone_NN steals_VVZ them_PP ._SENT 
+ACE_NN :_: The_DT same_JJ person_NN who_WP steals_VVZ the_DT bow_NN ?_SENT I_PP mean_VVP ,_, the_DT same_JJ person_NN who_WP 
+steals_VVZ it_PP in_IN 1788_CD ?_SENT 
+DOCTOR_NN :_: How_WRB should_MD I_PP know_VV ,_, Ace_NP ?_SENT Questions_NNS ,_, questions_NNS ._SENT Queen_NP takes_VVZ 
+bishop_NN ._SENT 
+ACE_NN :_: Who_WP brought_VVD validium_NN to_TO Earth_NP in_IN the_DT first_JJ place_NN ?_SENT 
+DOCTOR_NN :_: But_CC pawn_NN takes_VVZ queen_NN ._SENT 
+ACE_NN :_: What_WP 's_VBZ really_RB going_VVG on_IN ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: Checkmate_NN ._SENT Black_JJ wins_NNS ._SENT Time_NN to_TO go_VV ._SENT Take_VV those_DT gold_JJ coins_NNS ._SENT We_PP 
+may_MD need_VV them_PP ._SENT 
+[_SYM Road_NP ]_SYM 
+(_( Lady_NP Peinforte_NP and_CC Richard_NP see_VVP a_DT hitchhiker_NN get_VV a_DT 
+lift_NN in_IN a_DT car_NN ._SENT )_) 
+PEINFORTE_NN :_: We_PP needs_VVZ must_MD walk_VV ,_, Richard_NP ._SENT We_PP have_VHP no_DT carriage_NN ._SENT 
+RICHARD_NN :_: We_PP can_MD avail_VV ourselves_PP of_IN one_CD of_IN these_DT steeds_NNS ,_, my_PP$ lady_NN ._SENT I_PP see_VVP 
+the_DT method_NN ._SENT Sit_VV you_PP here_RB and_CC rest_VV awhile_RB ._SENT 
+(_( Lady_NP Peinforte_NP settles_VVZ herself_PP on_IN a_DT stone_NN seat_NN built_VVN into_IN the_DT estate_NN 
+wall_NN ._SENT Richard_NP goes_VVZ to_TO the_DT side_NN of_IN the_DT road_NN and_CC sticks_VVZ his_PP$ thumb_NN out_RP ._SENT A_DT 
+car_NN drives_NNS straight_RB past_IN him_PP ,_, then_RB a_DT second_NN ._SENT Lady_NP Peinforte_NP sings_VVZ to_TO 
+herself_PP as_RB she_PP waits_VVZ ._SENT )_) 
+[_SYM Crypt_NP ]_SYM 
+LEADER_NN :_: The_DT Doctor_NP must_MD not_RB lead_VV the_DT statue_NN back_RB 
+to_TO the_DT rocket_NN sleds_NNS ._SENT We_PP will_MD stop_VV him_PP ._SENT 
+[_SYM Warehouse_NP ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ._SENT Now_RB ,_, the_DT statue_NN should_MD be_VB here_RB any_DT moment_NN now_RB ._SENT Everything_NN 
+depends_VVZ on_RP my_PP$ final_JJ calculations_NNS ._SENT I_PP ca_MD n't_RB get_VV my_PP$ figures_NNS wrong_RB this_DT 
+time_NN ._SENT 
+ACE_NN :_: It_PP 's_VBZ okay_JJ ,_, Professor_NP ._SENT I_PP promise_VVP not_RB to_TO interrupt_VV you_PP ._SENT 
+DOCTOR_NN :_: You_PP are_VBP interrupting_VVG me_PP ._SENT 
+ACE_NN :_: Sorry_JJ ._SENT 
+DOCTOR_NN :_: There_EX 's_VBZ also_RB another_DT slight_JJ problem_NN ._SENT The_DT Cybermen_NP could_MD be_VB here_RB 
+at_IN any_DT moment_NN ._SENT 
+ACE_NN :_: Do_VVP n't_RB worry_VV ,_, Doctor_NP ._SENT I_PP 'll_MD look_VV after_IN you_PP ._SENT 
+(_( Ace_NP takes_VVZ a_DT catapult_NN from_IN her_PP$ belt_NN ._SENT )_) 
+DOCTOR_NN :_: Aim_NN at_IN the_DT chest_NN panel_NN ._SENT And_CC I_PP trust_VVP you_PP remember_VV my_PP$ strict_JJ 
+instructions_NNS never_RB to_TO cause_VV any_DT further_JJR explosions_NNS ?_SENT 
+ACE_NN :_: I_PP 'm_VBP a_DT better_JJR person_NN as_IN a_DT result_NN ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Good_JJ ._SENT We_PP 're_VBP ready_JJ for_IN anything_NN ._SENT 
+(_( Ace_NP goes_VVZ to_TO place_VV the_DT Nitro_NP Nine_CD flask_NN ._SENT )_) 
+[_SYM Road_NP ]_SYM 
+PEINFORTE_NN :_: All_DT will_MD be_VB mine_JJ ._SENT 
+(_( Richard_NP is_VBZ still_RB failing_VVG to_TO get_VV a_DT lift_NN ._SENT Lady_NP Peinforte_NP gets_VVZ up_RP as_IN a_DT 
+stretched_JJ limousine_NN approaches_NNS and_CC holds_VVZ up_RP her_PP$ hand_NN ._SENT )_) 
+[_SYM Limousine_NP ]_SYM 
+(_( The_DT rich_JJ American_JJ lady_NN in_IN the_DT back_NN is_VBZ played_VVN by_IN Dolores_NP Gray_NP ._SENT )_) 
+REMINGTON_NP :_: Er_UH ,_, Cyril_NP ,_, honey_NN ,_, pull_VVP the_DT automobile_NN over_RB ._SENT There_EX 's_VBZ some_DT 
+people_NNS there_RB who_WP could_MD use_VV a_DT lift_NN ._SENT 
+(_( The_DT car_NN stops_NNS and_CC the_DT window_NN winds_NNS down_RB ._SENT )_) 
+REMINGTON_NP :_: Where_WRB are_VBP you_PP folks_NNS headed_VVN ?_SENT 
+RICHARD_NP :_: To_TO Windsor_NP ,_, and_CC it_PP please_VVP you_PP ,_, ma'am_NN ._SENT 
+REMINGTON_NN :_: It_PP surely_RB does_VVZ ,_, honey_NN ._SENT Jump_VV right_RB in_IN ._SENT 
+[_SYM Crypt_NP ]_SYM 
+(_( Karl_NP has_VHZ disposed_VVN of_IN his_PP$ headphones_NN and_CC the_DT 
+Cybermen_NP ._SENT )_) 
+KARL_NN :_: Herr_NP De_NP Flores_NP ,_, your_PP$ day_NN is_VBZ over_RP ._SENT 
+(_( He_PP takes_VVZ De_NP Flores_NP 's_POS headphones_NN off_RB ._SENT )_) 
+DE_NP FLORES_NP :_: (_( laughs_NNS )_) You_PP betray_VVP me_PP ._SENT Have_VHP I_PP taught_VVD you_PP nothing_NN ._SENT 
+KARL_NN :_: We_PP completely_RB deceived_VVD them_PP ,_, Herr_NP De_NP Flores_NP ._SENT 
+DE_NP FLORES_NP :_: Even_RB I_PP thought_VVD for_IN a_DT moment_NN we_PP were_VBD finished_VVN ._SENT I_PP am_VBP not_RB 
+afraid_JJ of_IN death_NN ,_, only_RB of_IN failing_VVG in_IN my_PP$ duty_NN ._SENT 
+[_SYM Warehouse_NP ]_SYM 
+(_( The_DT Doctor_NP climbs_VVZ into_IN the_DT rocket_NN sled_NN with_IN the_DT 
+bow_NN ._SENT The_DT statue_NN arrives_VVZ and_CC floats_VVZ in_IN beside_IN him_PP ._SENT )_) 
+DOCTOR_NN :_: Now_RB ,_, ah_NN yes_NN ,_, the_DT bow_NN ._SENT The_DT bow_NN ._SENT The_DT bow_NN is_VBZ essential_JJ ._SENT You_PP shall_MD 
+have_VHP the_DT bow_NN ._SENT 
+(_( The_DT Nemesis_NN takes_VVZ the_DT bow_NN ._SENT )_) 
+[_SYM Limousine_NP ]_SYM 
+REMINGTON_NN :_: You_PP must_MD be_VB parched_VVN from_IN standing_VVG in_RP 
+the_DT sun_NN ._SENT May_MD I_PP offer_VV you_PP a_DT little_JJ refreshment_NN ?_SENT 
+RICHARD_NN :_: Thank_VV you_PP ,_, no_UH ,_, madam_NN ._SENT 
+REMINGTON_NP :_: Oh_UH ._SENT Are_VBP you_PP folks_NNS students_NNS ?_SENT 
+RICHARD_NP :_: Alas_UH ,_, I_PP am_VBP but_RB a_DT servant_NN ,_, and_CC cannot_MD read_VV or_CC write_VV ._SENT 
+REMINGTON_NP :_: Oh_UH ._SENT 
+RICHARD_NN :_: My_PP$ mistress_NN is_VBZ of_IN noble_JJ birth_NN ,_, and_CC has_VHZ some_DT Latin_NP and_CC a_DT little_JJ 
+Greek_JJ ._SENT 
+REMINGTON_NP :_: Well_UH ,_, you_PP must_MD be_VB on_IN vacation_NN at_IN this_DT time_NN ._SENT 
+RICHARD_NN :_: Go_VV you_PP far_RB ,_, ma'am_NN ?_SENT 
+REMINGTON_NN :_: Far_RB ?_SENT Oh_UH ,_, I_PP just_RB came_VVD over_RP from_IN London_NP ._SENT 
+RICHARD_NP :_: Two_CD days_NNS ride_VVP ._SENT 
+REMINGTON_NP :_: Well_UH ,_, no_UH ,_, actually_RB the_DT traffic_NN was_VBD pretty_RB reasonable_JJ ._SENT I_PP left_VVD 
+about_RB ,_, let_VV 's_VBZ see_VV ,_, forty_NN minutes_NNS ago_RB ._SENT 
+RICHARD_NN :_: Forty_NN minutes_NNS ?_SENT 
+REMINGTON_NN :_: Folks_NNS from_IN the_DT south_NN are_VBP never_RB in_IN a_DT hurry_NN ._SENT As_IN a_DT matter_NN of_IN 
+fact_NN ,_, I_PP 'm_VBP here_RB on_IN a_DT visit_NN ,_, checking_VVG out_RP my_PP$ roots_NNS ._SENT 
+RICHARD_NN :_: Tis_NNS wise_JJ with_IN crops_NNS this_DT time_NN of_IN year_NN ,_, ma'am_NN ._SENT 
+REMINGTON_NP :_: Oh_UH ._SENT 
+[_SYM Warehouse_NP ]_SYM 
+(_( While_IN the_DT Doctor_NP programmes_VVZ the_DT rocket_NN sled_NN ,_, Ace_NP 
+walks_VVZ up_RP to_TO look_VV at_IN the_DT statue_NN ._SENT )_) 
+NEMESIS_NN :_: I_PP am_VBP beautiful_JJ ,_, am_VBP I_PP not_RB ?_SENT 
+ACE_NN :_: Yes_UH ._SENT You_PP 're_VBP very_RB beautiful_JJ ._SENT 
+NEMESIS_NN :_: It_PP is_VBZ only_RB my_PP$ present_JJ form_NN ._SENT I_PP have_VHP had_VHD others_NNS which_WDT would_MD 
+horrify_VV you_PP ._SENT I_PP shall_MD have_VH those_DT again_RB ._SENT You_PP are_VBP surprised_JJ I_PP speak_VVP ?_SENT 
+ACE_NN :_: I_PP know_VVP you_PP 're_VBP living_VVG metal_NN ._SENT 
+NEMESIS_NN :_: I_PP am_VBP whatever_JJ I_PP am_VBP made_VVN to_TO be_VB ._SENT This_DT time_NN Lady_NP Peinforte_NP called_VVD 
+me_PP Nemesis_NP ,_, so_RB I_PP am_VBP retribution_NN ._SENT 
+ACE_NN :_: Catch_VV you_PP later_RBR ._SENT 
+[_SYM Limousine_NP ]_SYM 
+REMINGTON_NP :_: Well_UH ,_, my_PP$ family_NN came_VVD from_IN around_RB here_RB ._SENT 
+I_PP traced_VVD them_PP all_PDT the_DT way_NN back_RB to_TO the_DT sixteen_CD hundreds_NNS ._SENT 
+PEINFORTE_NN :_: All_DT things_NNS will_MD soon_RB be_VB mine_JJ ._SENT 
+REMINGTON_NN :_: I_PP guess_VVP they_PP will_MD ,_, honey_NN ._SENT 
+PEINFORTE_NN :_: Time_NN past_JJ ,_, present_JJ and_CC future_JJ ._SENT Power_NN invincible_JJ ._SENT 
+[_SYM Warehouse_NP ]_SYM 
+(_( Ace_NP runs_VVZ to_TO the_DT doorway_NN and_CC a_DT Cyberman_NP enters_VVZ ,_, 
+firing_NN ._SENT She_PP runs_VVZ back_RB and_CC up_RB the_DT steps_NNS to_TO a_DT landing_NN outside_IN an_DT office_NN ,_, 
+gets_VVZ out_RP her_PP$ catapult_NN and_CC sends_VVZ a_DT gold_JJ coin_NN straight_RB into_IN its_PP$ chest_NN 
+unit_NN ._SENT The_DT other_JJ Cybermen_NNS enter_VVP and_CC see_VVP the_DT body_NN ._SENT )_) 
+LEADER_NN :_: Destroy_VV the_DT human_JJ female_NN ._SENT Find_VV and_CC destroy_VV her_PP !_SENT 
+[_SYM Limousine_NP ]_SYM 
+PEINFORTE_NN :_: The_DT secret_NN of_IN the_DT heavens_NNS ._SENT 
+REMINGTON_NP :_: Virginia_NP is_VBZ heaven_NN ,_, if_IN you_PP ask_VVP me_PP ._SENT My_PP$ family_NN owns_VVZ a_DT little_JJ 
+land_NN there_RB ._SENT They_PP used_VVD to_TO own_VV a_DT little_JJ land_NN around_IN here_RB ,_, too_RB ._SENT The_DT 
+Remingtons_NNS of_IN Remington_NP Grange_NP ._SENT 
+PEINFORTE_NN :_: I_PP know_VVP them_PP ._SENT Thieves_NNS and_CC swindlers_NNS all_RB ._SENT 
+REMINGTON_NN :_: You_PP study_VVP history_NN ?_SENT 
+PEINFORTE_NP :_: Dorothea_NP Remington_NP did_VVD bribe_VV away_RP my_PP$ cook_NN ._SENT 
+REMINGTON_NP :_: Oh_UH ._SENT Now_RB ,_, let_VV me_PP see_VV ._SENT Yes_UH ,_, there_EX was_VBD a_DT Dorothea_NP ._SENT She_PP died_VVD in_IN 
+sixteen_CD 
+PEINFORTE_NP :_: Twenty_CD one_CD ._SENT Twas_NP a_DT slow_JJ poison_NN ._SENT 
+REMINGTON_NN :_: This_DT is_VBZ unbelievable_JJ ._SENT 
+PEINFORTE_NN :_: Many_RB found_VVD it_PP so_RB ._SENT 
+REMINGTON_NN :_: Here_RB I_PP am_VBP ,_, driving_VVG around_RP ,_, and_CC I_PP pick_VVP up_RP someone_NN who_WP 's_VBZ 
+researched_VVN my_PP$ family_NN tree_NN ._SENT 
+PEINFORTE_NN :_: We_PP ride_VVP to_TO destiny_NN ._SENT 
+REMINGTON_NN :_: We_PP surely_RB do_VVP ,_, honey_NN ._SENT We_PP surely_RB do_VVP ._SENT 
+[_SYM Warehouse_NP ]_SYM 
+(_( Ace_NP takes_VVZ out_RP another_DT Cyberman_NP on_IN the_DT upper_JJ floor_NN 
+then_RB leads_VVZ another_DT on_IN a_DT chase_NN while_IN the_DT Doctor_NP continues_VVZ his_PP$ 
+programming_NN ._SENT Another_DT meets_VVZ its_PP$ end_NN on_IN a_DT small_JJ spiral_NN stone_NN staircase_NN ,_, 
+but_CC the_DT second_NN forces_VVZ her_PP to_TO move_VV up_RP the_DT steps_NNS ,_, leaving_VVG the_DT bag_NN of_IN 
+coins_NNS behind_RB ._SENT 
+(_( The_DT Nemesis_NN lies_VVZ down_RP in_IN the_DT rocket_NN sled_NN ._SENT )_) 
+DOCTOR_NN :_: And_CC now_RB ,_, we_PP 'll_MD set_VV the_DT rockets_NNS for_IN the_DT correct_JJ projection_NN ,_, and_NP 
+then_RB you_PP will_MD be_VB on_IN course_NN for_IN the_DT Cyberfleet_NP ._SENT 
+(_( Ace_NP makes_VVZ her_PP$ way_NN along_IN a_DT catwalk_NN up_RP in_IN the_DT roof_NN space_NN ._SENT She_PP sees_VVZ the_DT 
+Tardis_NNS down_RB below_IN her_PP ,_, then_RB a_DT Cyberman_NP pops_VVZ up_RP in_IN front_NN of_IN her_PP$ and_NP 
+holds_VVZ up_RP its_PP$ hands_NNS ._SENT The_DT Cyberleader_NP is_VBZ on_IN the_DT adjoining_JJ catwalk_NN ._SENT )_) 
+ACE_NN :_: Why_WRB ?_SENT You_PP 're_VBP going_VVG to_TO kill_VV me_PP anyway_RB ._SENT 
+LEADER_NN :_: We_PP detect_VVP only_RB one_CD more_JJR piece_NN of_IN gold_NN ._SENT 
+ACE_NN :_: Correct_VV ._SENT So_RB who_WP 'll_MD be_VB next_JJ ,_, and_CC who_WP 'll_MD be_VB lucky_JJ ?_SENT 
+(_( A_DT third_JJ Cyberman_NP boxes_VVZ her_PP in_IN from_IN the_DT rear_NN ._SENT )_) 
+LEADER_NN :_: Kill_VV her_PP ._SENT 
+(_( Ace_NP fires_VVZ her_PP$ catapult_NN at_IN the_DT Cyberleader_NP on_IN the_DT other_JJ catwalk_NN ,_, then_RB 
+ducks_NNS to_TO let_VV the_DT two_CD Cybermen_NNS in_IN front_NN and_CC behind_RB kill_VV each_DT other_JJ ._SENT 
+The_DT Doctor_NP is_VBZ outside_IN the_DT rocket_NN sled_NN ._SENT )_) 
+DOCTOR_NN :_: The_DT rockets_NNS are_VBP now_RB locked_VVN in_IN to_TO a_DT destination_NN ._SENT Now_RB ,_, let_VV 's_VBZ see_VV 
+how_WRB the_DT Cyberfleet_NP is_VBZ progressing_VVG ._SENT 
+(_( He_PP turns_VVZ on_IN the_DT tape_NN deck_NN scanner_NN ._SENT )_) 
+DOCTOR_NN :_: Right_RB on_IN course_NN ._SENT 
+NEMESIS_NN :_: And_CC I_PP 'm_VBP to_TO destroy_VV the_DT entire_JJ Cyberfleet_NP ?_SENT 
+DOCTOR_NN :_: Forever_RB ._SENT 
+NEMESIS_NN :_: And_CC then_RB ?_SENT 
+DOCTOR_NN :_: Reform_NN ._SENT 
+NEMESIS_NN :_: You_PP might_MD need_VV me_PP in_IN the_DT future_NN ,_, then_RB ?_SENT 
+DOCTOR_NN :_: I_PP hope_VVP not_RB ._SENT 
+NEMESIS_NN :_: That_WDT is_VBZ what_WP you_PP said_VVD before_RB ._SENT 
+DOCTOR_NN :_: Enough_RB ._SENT 
+NEMESIS_NN :_: And_CC after_IN this_DT ,_, will_MD I_PP have_VH my_PP$ freedom_NN ?_SENT 
+DOCTOR_NN :_: Not_RB yet_RB ._SENT 
+NEMESIS_NN :_: When_WRB ?_SENT 
+DOCTOR_NN :_: I_PP told_VVD you_PP when_WRB ._SENT 
+(_( The_DT Doctor_NP takes_VVZ the_DT bow_NN from_IN Nemesis_NP ._SENT )_) 
+DOCTOR_NN :_: Things_NNS are_VBP still_RB imperfect_JJ ._SENT 
+(_( Two_CD Cybermen_NP approach_NN the_DT Doctor_NP and_CC Ace_NP runs_VVZ in_IN ._SENT They_PP turn_VVP ,_, guns_NNS 
+raised_VVD ._SENT )_) 
+DOCTOR_NN :_: Stop_VV !_SENT Harm_VV her_PP in_IN the_DT slightest_JJS ,_, and_CC I_PP will_MD destroy_VV this_DT bow_NN !_SENT 
+CYBERMAN_NN :_: Give_VV us_PP the_DT bow_NN ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: No._NN 
+CYBERMAN_NN :_: We_PP shall_MD simply_RB take_VV it_PP and_CC kill_VV you_PP both_DT ._SENT 
+DOCTOR_NN :_: Ah_UH ._SENT 
+CYBERMAN_NN :_: In_IN any_DT case_NN ,_, your_PP$ threat_NN was_VBD meaningless_JJ ._SENT How_WRB could_MD you_PP have_VHP 
+destroyed_VVN the_DT bow_NN ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, actually_RB ,_, I_PP would_MD have_VH arranged_VVN to_TO have_VH the_DT bow_NN neatly_RB 
+placed_VVN in_IN front_NN of_IN the_DT rocket_NN sled_NN ._SENT Then_RB I_PP would_MD have_VH arranged_VVN the_DT 
+rockets_NNS to_TO test_VV fire_NN at_IN a_DT pre-arranged_VVN time_NN ._SENT By_IN the_DT way_NN ,_, Ace_NP ,_, what_WP is_VBZ 
+the_DT time_NN ?_SENT 
+ACE_NN :_: Well_RB ,_, it_PP 's_VBZ almost_RB 
+(_( The_DT Doctor_NP hooks_VVZ her_PP$ arm_NN with_IN his_PP$ umbrella_NN and_CC pulls_VVZ back_RB behind_IN the_DT 
+rocket_NN motors_NNS just_RB before_IN they_PP burst_VVP into_IN life_NN ,_, incinerating_VVG the_DT 
+Cyberman_NP ._SENT The_DT Doctor_NP covers_VVZ Ace_NP 's_POS eyes_NNS ._SENT Up_RB on_IN the_DT catwalk_NN ,_, the_DT Cyberman_NP 
+removes_VVZ the_DT bent_JJ gold_NN coin_NN from_IN its_PP$ chest_NN unit_NN ._SENT )_) 
+ACE_NN :_: Is_VBZ that_IN/that it_PP ,_, Doctor_NP ?_SENT Oh_UH no_UH ,_, not_RB you_PP again_RB ._SENT 
+(_( It_PP is_VBZ De_NP Flores_NP and_CC Karl_NP ._SENT )_) 
+DE_NP FLORES_NP :_: The_DT bow_NN ._SENT 
+(_( Karl_NP picks_VVZ it_PP up_RP and_CC hands_VVZ it_PP to_TO De_NP Flores_NP ._SENT )_) 
+DE_NP FLORES_NP :_: We_PP have_VHP both_CC succeeded_VVN in_IN deceiving_VVG the_DT Cybermen_NP ._SENT 
+KARL_NN :_: They_PP made_VVD the_DT mistake_NN of_IN assuming_VVG all_DT human_JJ beings_NNS to_TO be_VB weak_JJ ,_, 
+corruptible_JJ ._SENT We_PP ,_, however_RB ,_, are_VBP loyal_JJ to_TO the_DT death_NN ._SENT 
+(_( De_NP Flores_NP takes_VVZ the_DT bow_NN to_TO Nemesis_NP ._SENT )_) 
+DE_NP FLORES_NP :_: The_DT long_JJ journey_NN is_VBZ over_RP ._SENT You_PP will_MD be_VB worshipped_VVN forever_RB ._SENT 
+Does_VVZ n't_RB she_PP speak_VVP ?_SENT 
+DOCTOR_NN :_: Not_RB to_TO the_DT likes_NNS of_IN you_PP ._SENT 
+DE_NP FLORES_NP :_: She_PP will_MD ._SENT Well_RB ,_, Doctor_NP ,_, we_PP must_MD part_VV ._SENT And_CC thank_VV you_PP for_IN 
+removing_VVG the_DT Cybermen_NP ._SENT Now_RB the_DT Nemesis_NN is_VBZ finally_RB mine_JJ ._SENT 
+(_( The_DT Cyberleader_NP shoots_VVZ De_NP Flores_NP and_CC Karl_NP ._SENT )_) 
+ACE_NN :_: I_PP 'm_VBP sorry_JJ ,_, Doctor_NP ._SENT I_PP thought_VVD I_PP 'd_MD got_VV him_PP ._SENT 
+LEADER_NN :_: Give_VV me_PP the_DT bow_NN ,_, or_CC I_PP will_MD kill_VV her_PP ._SENT 
+PEINFORTE_NN :_: All_DT things_NNS ,_, all_DT power_NN ._SENT Time_NN ,_, space_NN ,_, the_DT world_NN ._SENT 
+LEADER_NN :_: She_PP is_VBZ mad_JJ ._SENT 
+RICHARD_NP :_: Speak_VVP not_RB of_IN my_PP$ lady_NN so_RB ._SENT 
+PEINFORTE_NN :_: See_VV ,_, I_PP am_VBP here_RB ._SENT 
+ACE_NN :_: What_WP do_VVP you_PP want_VVP ?_SENT 
+PEINFORTE_NN :_: My_PP$ Nemesis_NN ._SENT 
+ACE_NN :_: You_PP 're_VBP too_RB late_JJ ._SENT The_DT Doctor_NP 's_POS got_VVD it_PP ._SENT 
+PEINFORTE_NN :_: It_PP is_VBZ incomplete_JJ until_IN it_PP holds_VVZ the_DT bow_NN ._SENT That_DT may_MD be_VB given_VVN 
+over_IN to_TO anyone_NN ._SENT It_PP will_MD now_RB be_VB given_VVN to_TO me_PP ._SENT 
+LEADER_NN :_: No_UH !_SENT To_TO us_PP ._SENT 
+PEINFORTE_NN :_: You_PP are_VBP nothing_NN ._SENT Only_RB the_DT Doctor_NP matters_NNS ,_, and_CC he_PP is_VBZ but_RB a_DT 
+pawn_NN in_IN the_DT game_NN of_IN my_PP$ making_NN ._SENT 
+ACE_NN :_: Listen_VV ,_, you_PP old_JJ bag_NN ._SENT 
+RICHARD_NN :_: Silence_NN !_SENT 
+ACE_NN :_: The_DT Doctor_NP 's_VBZ not_RB just_RB going_VVG to_TO give_VV you_PP the_DT bow_NN ._SENT Tell_VV her_PP ,_, Doctor_NP ._SENT 
+Tell_VV her_PP ._SENT 
+PEINFORTE_NN :_: Doctor_VV who_WP ?_SENT Have_VHP you_PP never_RB wondered_VVD where_WRB he_PP came_VVD from_IN ,_, who_WP 
+he_PP is_VBZ ?_SENT 
+ACE_NN :_: Nobody_NN knows_VVZ who_WP the_DT Doctor_NP is_VBZ ._SENT 
+PEINFORTE_NN :_: Except_IN me_PP ._SENT 
+ACE_NN :_: How_WRB ?_SENT 
+PEINFORTE_NN :_: The_DT statue_NN told_VVD me_PP ._SENT 
+ACE_NN :_: All_DT right_NN ,_, so_RB what_WP does_VVZ it_PP matter_NN ?_SENT He_PP 's_VBZ a_DT Time_NP Lord_NP ,_, I_PP know_VVP that_RB ._SENT 
+PEINFORTE_NN :_: Well_RB ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: If_IN I_PP give_VVP you_PP the_DT bow_NN 
+PEINFORTE_NN :_: Your_PP$ power_NN becomes_VVZ mine_NN ,_, but_CC your_PP$ secrets_NNS remain_VVP your_PP$ own_JJ ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ all_RB over_RB ,_, Ace_NP ._SENT My_PP$ battle_NN ,_, all_PDT my_PP$ battles_NNS ,_, I_PP 've_VHP lost_VVN ._SENT I_PP can_MD 
+only_JJ surrender_NN ._SENT 
+PEINFORTE_NP :_: Yes_UH ._SENT 
+DOCTOR_NN :_: But_CC not_RB to_TO you_PP ._SENT The_DT Cybermen_NP will_MD have_VH the_DT Nemesis_NN ._SENT 
+(_( The_DT Doctor_NP gives_VVZ the_DT bow_NN to_TO the_DT Cyberleader_NP ._SENT )_) 
+LEADER_NN :_: This_DT is_VBZ most_RBS rational_JJ ,_, Doctor_NP ._SENT 
+PEINFORTE_NN :_: But_CC I_PP know_VVP your_PP$ secrets_NNS ._SENT 
+DOCTOR_NN :_: Very_RB well_RB ,_, tell_VV them_PP ._SENT 
+PEINFORTE_NN :_: I_PP shall_MD tell_VV them_PP of_IN Gallifrey_NP ,_, tell_VV them_PP of_IN the_DT old_JJ time_NN ,_, 
+the_DT time_NN of_IN chaos_NN ._SENT 
+DOCTOR_NN :_: Be_VB my_PP$ guest_NN ._SENT 
+PEINFORTE_NN :_: Your_PP$ secrets_NNS 
+LEADER_NN :_: The_DT secrets_NNS of_IN the_DT Time_NP Lords_NPS mean_VVP nothing_NN to_TO us_PP ._SENT 
+DOCTOR_NN :_: Exactly_RB ._SENT Thank_VV you_PP for_IN coming_VVG to_TO the_DT twentieth_JJ century_NN and_CC 
+giving_VVG me_PP assistance_NN ._SENT Thank_VV you_PP for_IN bringing_VVG the_DT arrow_NN ._SENT You_PP may_MD go_VV now_RB ._SENT 
+
+PEINFORTE_NP :_: What_WP ?_SENT 
+DOCTOR_NN :_: You_PP had_VHD the_DT right_JJ game_NN ,_, but_CC the_DT wrong_JJ pawn_NN ._SENT Check_NN ._SENT 
+LEADER_NN :_: Enough_RB ,_, Doctor_NP ._SENT Cancel_VV the_DT statue_NN 's_POS destructive_JJ capability_NN ._SENT 
+(_( The_DT Doctor_NP takes_VVZ back_RB the_DT bow_NN ._SENT )_) 
+DOCTOR_NN :_: Thank_VV you_PP ._SENT 
+(_( And_CC gives_VVZ it_PP back_RB to_TO Nemesis_NP ._SENT )_) 
+DOCTOR_NN :_: Do_VVP you_PP understand_VVP the_DT Cyberleader_NP 's_POS instructions_NNS ?_SENT 
+NEMESIS_NN :_: Perfectly_RB ._SENT 
+ACE_NN :_: Please_RB do_VVP n't_RB surrender_VV ,_, Doctor_NP ._SENT 
+LEADER_NN :_: Prepare_VV it_PP for_IN launching_VVG to_TO liaise_VV with_IN our_PP$ fleet_NN ._SENT You_PP have_VHP the_DT 
+position_NN from_IN this_DT device_NN ._SENT 
+(_( The_DT Cyberleader_NP holds_VVZ up_RP the_DT tape_NN ._SENT )_) 
+LEADER_NN :_: A_DT new_JJ and_CC final_JJ era_NN begins_VVZ ,_, Doctor_NP ._SENT Imagination_NN ,_, thought_VVD ,_, 
+freedom_NN ,_, pleasure_NN ,_, all_DT will_MD end_VV ._SENT 
+(_( It_PP crushes_VVZ the_DT jazz_NN tape_NN and_CC throws_VVZ it_PP away_RP ._SENT )_) 
+LEADER_NN :_: The_DT Earth_NN will_MD be_VB transformed_VVN into_IN our_PP$ base_NN planet_NN ,_, the_DT new_JJ 
+Mondas_NNS ._SENT Before_IN I_PP kill_VVP you_PP all_DT ,_, you_PP may_MD watch_VV the_DT arrival_NN of_IN our_PP$ fleet_NN ._SENT 
+Launch_VV the_DT Nemesis_NN ._SENT 
+ACE_NN :_: Let_VV them_PP kill_VV me_PP ,_, Doctor_NP ._SENT Do_VV n't_RB surrender_VV ._SENT 
+DOCTOR_NN :_: Stand_VV back_RB ._SENT She_PP 's_VBZ ready_JJ for_IN launching_VVG ._SENT 
+(_( Lady_NP Peinforte_NP screams_VVZ ,_, grabs_VVZ the_DT bow_NN and_CC throws_VVZ herself_PP on_IN top_NN of_IN the_DT 
+Nemesis_NN ._SENT It_PP writhes_VVZ as_IN it_PP absorbs_VVZ her_PP ,_, then_RB the_DT rocket_NN sled_NN blasts_VVZ out_RP 
+of_IN the_DT warehouse_NN entrance_NN and_CC up_RB into_IN the_DT sky_NN ._SENT Mrs_NN Remington_NP watches_VVZ it_PP 
+go_VV ._SENT )_) 
+ACE_NN :_: Nice_JJ rocket_NN technology_NN ,_, Doctor_NP ._SENT 
+LEADER_NN :_: We_PP will_MD watch_VV its_PP$ progress_NN ._SENT 
+DOCTOR_NN :_: Certainly_RB ._SENT 
+(_( The_DT Doctor_NP turns_VVZ on_IN the_DT tape_NN deck_NN scanner_NN ._SENT The_DT Nemesis_NN flies_VVZ into_IN the_DT 
+heart_NN of_IN the_DT Cyberfleet_NP ,_, which_WDT is_VBZ stationed_VVN by_IN the_DT moon_NN ,_, and_CC detonates_VVZ ._SENT )_) 
+LEADER_NN :_: This_DT is_VBZ impossible_JJ ._SENT You_PP gave_VVD my_PP$ instructions_NNS to_TO the_DT statue_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, I_PP gave_VVD your_PP$ instructions_NNS to_TO the_DT Nemesis_NN ,_, and_CC it_PP understood_VVD 
+them_PP ._SENT It_PP understood_VVD them_PP ,_, and_CC disobeyed_VVD them_PP ,_, and_CC destroyed_VVD the_DT 
+Cyberfleet_NP ._SENT 
+LEADER_NN :_: Then_RB you_PP will_MD join_VV them_PP ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ worth_JJ it_PP ._SENT 
+(_( Richard_NP sees_VVZ his_PP$ gold_NN tipped_VVD arrow_NN still_RB stuck_VVN in_IN the_DT Tardis_NP '_POS door_NN ._SENT He_PP 
+grabs_VVZ it_PP ,_, runs_VVZ over_IN and_CC thrusts_VVZ it_PP into_IN the_DT Cyberleader_NP 's_POS chest_NN ._SENT It_PP 
+dies_NNS with_IN a_DT lot_NN of_IN noise_NN ._SENT )_) 
+DOCTOR_NN :_: That_WDT seems_VVZ to_TO be_VB that_DT ._SENT Thank_VV you_PP ._SENT 
+RICHARD_NN :_: It_PP was_VBD nothing_NN ,_, Doctor_NP ._SENT I_PP wish_VVP I_PP could_MD have_VH saved_VVN my_PP$ lady_NN ,_, 
+too_RB ,_, but_CC she_PP was_VBD one_CD with_IN your_PP$ statue_NN ._SENT How_WRB shall_MD I_PP live_VV now_RB ,_, stranded_VVD ,_, 
+a_DT stranger_NN in_IN this_DT time_NN ?_SENT 
+DOCTOR_NN :_: I_PP know_VVP how_WRB you_PP feel_VVP ._SENT However_RB 
+ACE_NN :_: He_PP 'll_MD give_VV you_PP a_DT lift_NN ._SENT 
+DOCTOR_NN :_: Back_RB to_TO 1638_CD ?_SENT 
+RICHARD_NN :_: It_PP 's_VBZ possible_JJ ?_SENT 
+DOCTOR_NN :_: Anything_NN 's_VBZ possible_JJ ._SENT 
+[_SYM Lady_NP Peinforte_NP 's_POS home_NN ]_SYM 
+(_( The_DT Doctor_NP and_CC Ace_NP are_VBP playing_VVG chess_NN in_IN the_DT 
+garden_NN ._SENT )_) 
+ACE_NN :_: So_RB you_PP sent_VVD the_DT Nemesis_NN off_RP into_IN space_NN to_TO draw_VV the_DT Cybermen_NP so_IN you_PP 
+could_MD finish_VV them_PP off_RP ._SENT 
+DOCTOR_NN :_: I_PP suppose_VVP I_PP did_VVD ._SENT How_WRB clever_JJ of_IN me_PP ._SENT 
+ACE_NN :_: Just_RB like_IN you_PP nailed_VVD the_DT Daleks_NP ._SENT 
+DOCTOR_NN :_: As_IN I_PP said_VVD ,_, Ace_NP ._SENT Unfinished_JJ business_NN ._SENT 
+(_( The_DT Doctor_NP tips_NNS over_IN his_PP$ king_NN ._SENT )_) 
+ACE_NN :_: There_EX 's_VBZ still_RB one_CD question_NN you_PP have_VHP n't_RB answered_VVN ._SENT 
+(_( Richard_NP and_CC a_DT lady_NN lute_NN player_NN approach_NN ._SENT )_) 
+RICHARD_NN :_: We_PP have_VHP none_NN of_IN this_DT jazz_NN whereof_RB you_PP speak_VVP ,_, Doctor_NP ,_, but_CC I_PP 
+think_VV you_PP will_MD like_VV this_DT ._SENT 
+(_( Richard_NP plays_VVZ the_DT flute_NN while_IN his_PP$ companion_NN plays_VVZ the_DT lute_NN ._SENT )_) 
+ACE_NN :_: Professor_NN ?_SENT Doctor_NN ?_SENT Who_WP are_VBP you_PP ?_SENT 
+(_( The_DT Doctor_NP puts_VVZ his_PP$ finger_NN to_TO his_PP$ lips_NNS ._SENT )_) 
+

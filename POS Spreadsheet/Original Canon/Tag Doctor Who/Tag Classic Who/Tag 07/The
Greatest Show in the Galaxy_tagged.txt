@@ -1,0 +1,1751 @@
+Part_NN 
+One_CD 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( The_DT Ringmaster_NP enters_VVZ to_TO the_DT cheers_NNS of_IN the_DT crowd_NN ,_, 
+and_CC cracks_NNS his_PP$ whip_NN ._SENT Then_RB he_PP does_VVZ a_DT quick_JJ tap_NN dance_NN and_CC starts_VVZ his_PP$ 
+rap_NN ._SENT )_) 
+RINGMASTER_NN :_: Now_RB welcome_JJ folks_NNS ,_, I_PP 'm_VBP sure_JJ you_PP 'd_MD like_VV to_TO know_VV ,_, we_PP 're_VBP at_IN 
+the_DT start_NN of_IN one_CD big_JJ circus_NN show_NN ._SENT There_EX are_VBP acts_NNS that_WDT are_VBP cool_JJ and_CC acts_NNS 
+that_DT amaze_NN ._SENT Some_DT acts_NNS are_VBP scary_JJ and_CC some_DT acts_NNS will_MD daze_VV ._SENT Acts_NNS of_IN all_DT 
+kinds_NNS ,_, you_PP can_MD count_VV on_IN that_IN/that ,_, from_IN folks_NNS that_WDT fly_VVP to_TO disappearing_VVG acts_NNS ._SENT 
+There_EX are_VBP lots_NNS of_IN surprises_NNS for_IN the_DT family_NN at_IN the_DT Greatest_NP Show_NP in_IN the_DT 
+Galaxy_NN !_SENT So_IN many_JJ strange_JJ surprises_NNS ,_, I_PP 'm_VBP prepared_VVN to_TO bet_NN ,_, whatever_WDT you_PP 've_VHP 
+seen_VVN before_IN ,_, you_PP ai_VVP n't_RB seen_VVN nothing_NN yet_RB ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ practising_VVG juggling_NN with_IN three_CD 
+cricket_NN balls_NNS and_CC the_DT aid_NN of_IN a_DT book_NN called_VVN Juggling_NP for_IN the_DT Complete_JJ 
+Klutz_NP ._SENT )_) 
+ACE_NN [_SYM OC_NP ]_SYM :_: Professor_NN ?_SENT 
+(_( Some_DT clothes_NNS get_VVP thrown_VVN through_IN the_DT interior_JJ door_NN ._SENT )_) 
+DOCTOR_NN :_: Yes_UH ?_SENT 
+ACE_NN [_SYM OC_NP ]_SYM :_: Have_VHP you_PP seen_VVN my_PP$ Nitro_NP Nine_NP ?_SENT 
+DOCTOR_NN :_: Is_VBZ n't_RB it_PP in_IN your_PP$ rucksack_NN ?_SENT 
+ACE_NN [_SYM OC_NP ]_SYM :_: Yeah_UH ,_, but_CC where_WRB 's_VBZ my_PP$ rucksack_NN ?_SENT 
+DOCTOR_NN :_: Interesting_JJ question_NN ._SENT 
+(_( Ace_NP emerges_VVZ on_IN her_PP$ hands_NNS and_CC knees_NNS with_IN a_DT long_JJ scarf_NN around_IN her_PP$ neck_NN ._SENT )_) 
+
+ACE_NN :_: Things_NNS do_VVP n't_RB just_RB vanish_VV ._SENT 
+DOCTOR_NN :_: No._NN 
+(_( One_CD of_IN the_DT three_CD balls_NNS up_RB and_CC does_VVZ n't_RB come_VV down_RP again_RB ._SENT )_) 
+[_SYM Landing_NP bay_NN ]_SYM 
+(_( A_DT landing_NN platform_NN by_IN a_DT large_JJ billboard_NN 
+advertising_VVG the_DT Psychic_NP Circus_NP -_: The_DT Greatest_NP Show_NP in_IN the_DT Galaxy_NP -_: 
+starts_NNS spouting_VVG smoke_NN ,_, then_RB a_DT three_CD wheeled_JJ motorcycle_NN appears_NNS ,_, ridden_VVN 
+by_IN a_DT man_NN with_IN very_RB large_JJ wings_NNS on_IN his_PP$ helmet_NN ._SENT He_PP drives_VVZ it_PP off_RP the_DT ramp_NN 
+then_RB opens_VVZ a_DT side_NN pod_NN and_CC takes_VVZ out_RP a_DT hot_JJ burger_NN in_IN a_DT bun_NN ,_, then_RB bites_VVZ 
+into_IN it_PP with_IN relish_NN ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+(_( A_DT curious_JJ six_CD legged_JJ gizmo_NN with_IN two_CD small_JJ solar_JJ 
+panels_NNS and_CC an_DT antenna_NN on_IN its_PP$ head_NN appears_VVZ ._SENT The_DT Doctor_NP is_VBZ on_IN a_DT step_NN 
+ladder_NN hunting_NN for_IN his_PP$ ball_NN in_IN the_DT console_NN room_NN ceiling_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP 's_VBZ that_DT peculiar_JJ noise_NN ?_SENT 
+ACE_NN :_: What_WP peculiar_JJ noise_NN ?_SENT I_PP do_VVP n't_RB hear_VV any_DT peculiar_NN ._SENT 
+(_( They_PP notice_VVP the_DT gizmo_NN ._SENT )_) 
+DOCTOR_NN :_: How_WRB extraordinary_JJ ._SENT 
+(_( He_PP comes_VVZ down_RP the_DT ladder_NN ._SENT )_) 
+DOCTOR_NN :_: It_PP materialised_VVD inside_IN the_DT Tardis_NP ._SENT Just_RB the_DT kind_NN of_IN thing_NN you_PP 'd_MD 
+expect_VVP to_TO see_VV in_IN this_DT part_NN of_IN the_DT galaxy_NN ._SENT 
+(_( The_DT gizmo_NN trundles_VVZ across_IN the_DT floor_NN to_TO the_DT console_NN ._SENT )_) 
+ACE_NN :_: Is_VBZ that_IN/that just_RB what_WP you_PP 'd_MD expect_VV too_RB ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: Not_RB entirely_RB ,_, no._NP 
+(_( The_DT gizmo_NN then_RB slaps_VVZ a_DT lead_NN onto_IN the_DT console_NN and_CC the_DT scanner_NN starts_VVZ up_RP 
+with_IN an_DT advertisement_NN ._SENT )_) 
+ADVERT_NN :_: Yes_UH ,_, it_PP 's_POS festival_NN time_NN at_IN the_DT Psychic_NP Circus_NP ,_, the_DT Greatest_NP 
+Show_NN in_IN the_DT Galaxy_NP !_SENT So_RB why_WRB not_RB come_VV along_RB and_CC have_VH the_DT time_NN of_IN your_PP$ 
+life_NN with_IN the_DT nonstop_JJ action_NN of_IN its_PP$ glittering_VVG circus_NN ring_NN ._SENT There_EX 's_VBZ big_JJ 
+prizes_NNS 
+ACE_NN :_: No_UH ,_, I_PP do_VVP n't_RB believe_VV it_PP ._SENT Junk_NN mail_NN ._SENT Used_VVN to_TO get_VV loads_NNS of_IN this_DT stuff_NN 
+through_IN the_DT letterbox_NN and_CC now_RB we_PP 're_VBP being_VBG bombarded_VVN with_IN it_PP inside_IN the_DT 
+Tardis_NP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, junk_NN mail_NN gets_VVZ everywhere_RB ._SENT 
+ADVERT_NN :_: If_IN you_PP want_VVP to_TO watch_VV or_CC you_PP want_VVP to_TO compete_VV ,_, there_EX 's_VBZ a_DT great_JJ 
+time_NN for_IN you_PP on_IN the_DT planet_NN Segonax_NP ._SENT The_DT planet_NN has_VHZ easy_JJ access_NN via_IN our_PP$ 
+special_JJ polyportable_JJ landing_NN bays_NNS ._SENT 
+(_( Ace_NP disconnects_VVZ the_DT gizmo_NN ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, Ace_NP ,_, I_PP thought_VVD you_PP 'd_MD have_VH been_VBN interested_JJ in_IN the_DT circus_NN ._SENT 
+ACE_NN :_: No_UH ,_, kid_NN 's_POS stuff_NN ._SENT I_PP went_VVD once_RB ._SENT Did_VVD n't_RB even_RB have_VH any_DT tigers_NNS ._SENT It_PP was_VBD 
+naff_NN and_CC it_PP was_VBD boring_JJ ._SENT Apart_RB from_IN the_DT clowns_NNS ,_, of_IN course_NN ._SENT 
+DOCTOR_NN :_: What_WP ,_, you_PP found_VVD them_PP funny_JJ ?_SENT 
+ACE_NN :_: No_UH ,_, creepy_JJ ._SENT 
+DOCTOR_NN :_: I_PP think_VVP you_PP 're_VBP being_VBG very_RB unfair_JJ ._SENT A_DT lot_NN of_IN the_DT acts_NNS in_IN the_DT 
+circus_NN require_VVP a_DT great_JJ deal_NN of_IN skill_NN and_CC courage_NN ._SENT That_DT 's_VBZ something_NN you_PP 
+should_MD appreciate_VV ._SENT Anyway_RB ,_, I_PP rather_RB fancy_VVP entering_VVG the_DT Festival_NP talent_NN 
+contest_VV myself_PP ._SENT 
+(_( And_CC starts_VVZ to_TO play_VV a_DT pair_NN of_IN salad_NN spoons_NNS on_IN his_PP$ leg_NN ._SENT )_) 
+ACE_NN :_: Oh_UH no_UH ,_, not_RB the_DT spoons_NNS again_RB ._SENT 
+(_( The_DT gizmo_NN reattaches_VVZ itself_PP ._SENT )_) 
+ADVERT_NN :_: Scared_VVN ?_SENT 
+ACE_NN :_: What_WP ?_SENT 
+ADVERT_NN :_: Scared_VVN to_TO come_VV to_TO the_DT Psychic_NP Circus_NP ?_SENT 
+ACE_NN :_: No._NN 
+ADVERT_NN :_: Scared_VVN to_TO take_VV part_NN ?_SENT 
+ACE_NN :_: No_UH ,_, course_NN not_RB ._SENT 
+ADVERT_NN :_: Well_RB ,_, if_IN you_PP are_VBP ,_, then_RB go_VV ahead_RB ,_, ignore_VV me_PP ._SENT I_PP quite_RB understand_VVP ._SENT 
+
+ACE_NN :_: I_PP do_VVP n't_RB believe_VV it_PP ._SENT Junk_NN mail_NN that_WDT talks_VVZ back_RB ._SENT 
+DOCTOR_NN :_: Shall_MD we_PP just_RB fling_VVP it_PP away_RP and_CC forget_VV about_IN it_PP ?_SENT I_PP mean_VVP ,_, I_PP 'm_VBP 
+sure_RB the_DT Psychic_NP Circus_NP is_VBZ n't_RB scary_JJ at_IN all_DT ._SENT It_PP 's_VBZ just_RB a_DT device_NN to_TO get_VV 
+us_PP to_TO go_VV ._SENT 
+ACE_NN :_: Okay_JJ ,_, you_PP win_VVP ,_, junk_NN box_NN ._SENT I_PP 'm_VBP not_RB scared_VVN of_IN anything_NN ._SENT 
+[_SYM Segonax_NP ]_SYM 
+(_( A_DT young_JJ man_NN and_CC a_DT girl_NN run_VVN across_IN the_DT rough_JJ ,_, dry_JJ 
+ground_NN ._SENT He_PP falls_VVZ ._SENT He_PP is_VBZ wearing_VVG a_DT yellow_JJ jacket_NN with_IN lots_NNS of_IN frogging_NN 
+on_IN it_PP ,_, while_IN she_PP is_VBZ in_IN a_DT lacy_JJ floral_JJ dress_NN ._SENT )_) 
+FLOWERCHILD_NN :_: Come_VV on_IN ,_, we_PP ca_MD n't_RB give_VV up_RP now_RB ._SENT 
+BELLBOY_NN :_: They_PP 'll_MD catch_VV us_PP ,_, I_PP know_VVP it_PP ._SENT They_PP 'll_MD drag_VV us_PP back_RB to_TO the_DT 
+circus_NN ._SENT 
+FLOWERCHILD_NP :_: Oh_UH ,_, Bellboy_NP ,_, please_UH ._SENT You_PP promised_VVD ._SENT You_PP know_VVP it_PP 's_VBZ down_RB to_TO 
+us_PP now_RB ._SENT We_PP 're_VBP the_DT only_JJ ones_NNS left_VVD to_TO fight_VV ._SENT Come_VVN on_IN ._SENT 
+(_( A_DT Bentley_NP hearse_NN cruises_VVZ along_IN the_DT skyline_NN ._SENT It_PP stops_VVZ and_CC the_DT passenger_NN 
+window_NN winds_NNS down_RB to_TO reveal_VV a_DT white-faced_JJ clown_NN in_IN undertakers_NNS 
+clothing_NN ._SENT He_PP gets_VVZ out_RB and_CC looks_VVZ up_RP at_IN a_DT pair_NN of_IN kites_NNS in_IN the_DT sky_NN ,_, 
+flying_VVG without_IN the_DT aid_NN of_IN strings_NNS ._SENT His_PP$ companion_NN adjusts_VVZ a_DT control_NN in_IN 
+the_DT car_NN and_CC the_DT kites_NNS swoop_VVP away_RB ._SENT They_PP follow_VVP ._SENT 
+Meanwhile_RB ,_, Bellboy_NP and_CC the_DT Flowerchild_NP arrive_VVP at_IN the_DT dunes_NNS ._SENT The_DT kites_NNS 
+fly_VV overhead_RB ._SENT )_) 
+BELLBOY_NN :_: Flowerchild_NP ,_, look_NN ._SENT Your_PP$ kites_NNS ,_, your_PP$ beautiful_JJ kites_NNS ._SENT 
+(_( The_DT Tardis_NP materialises_VVZ on_IN the_DT rocky_JJ shore_NN ._SENT The_DT Doctor_NP and_CC Ace_NP come_VVP 
+out_RB ._SENT )_) 
+[_SYM Shoreline_NP ]_SYM 
+DOCTOR_NN :_: So_RB this_DT is_VBZ Segonax_NP ._SENT Not_RB quite_PDT the_DT green_NN 
+and_CC pleasant_JJ land_NN we_PP 'd_VHD been_VBN led_VVN to_TO expect_VV ._SENT Still_RB ,_, I_PP 've_VHP had_VHD good_JJ reports_NNS 
+of_IN the_DT friendliness_NN of_IN the_DT natives_NNS ._SENT 
+ACE_NN :_: Do_VVP n't_RB see_VV these_DT landing_NN bays_NNS ,_, Professor_NP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, I_PP expect_VVP that_WDT 's_VBZ for_IN those_DT not_RB fortunate_JJ enough_RB to_TO possess_VV a_DT 
+Tardis_NP ._SENT 
+ACE_NN :_: So_RB now_RB where_WRB ?_SENT 
+DOCTOR_NN :_: I_PP 'll_MD ask_VV for_IN directions_NNS over_IN there_RB ._SENT 
+[_SYM By_IN the_DT snack_NN stall_NN ]_SYM 
+(_( They_PP head_VVP for_IN a_DT snack_NN stall_NN in_IN the_DT middle_NN of_IN 
+nowhere_RB as_IN the_DT tricycle_NN rider_NN drives_NNS along_IN a_DT dusty_JJ track_NN ,_, throwing_VVG the_DT 
+remains_NNS of_IN his_PP$ burger_NN over_IN his_PP$ shoulder_NN ._SENT )_) 
+DOCTOR_NN :_: Good_JJ afternoon_NN ._SENT I_PP 'm_VBP the_DT Doctor_NP ,_, this_DT is_VBZ my_PP$ friend_NN Ace_NP ._SENT 
+(_( The_DT lady_NN stallholder_NN looks_VVZ up_RP from_IN peeling_VVG a_DT turnip_NN ._SENT Everyone_NN say_VVP Hi_NP !_SENT 
+to_TO the_DT formidable_JJ Peggy_NP 
+Mount_NP ._SENT )_) 
+STALLHOLDER_NP :_: What_WP sort_NN of_IN costume_NN do_VVP you_PP call_VVP that_RB ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT 
+STALLHOLDER_NN :_: And_CC her_PP 's_VHZ is_VBZ no_RB better_JJR ._SENT We_PP do_VVP n't_RB want_VV your_PP$ type_NN around_RB 
+here_RB ._SENT 
+(_( She_PP pushes_VVZ between_IN Ace_NP and_CC the_DT Doctor_NP ._SENT His_PP$ hand_NN goes_VVZ into_IN something_NN 
+gunky_NN on_IN the_DT stall_NN ,_, possibly_RB the_DT Plaup_NN from_IN Vulpana_NP at_IN 30_CD epsy_NN ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, and_CC what_WDT type_NN might_MD that_RB be_VB ?_SENT 
+STALLHOLDER_NN :_: Wierdos_NNS ._SENT You_PP can_MD tell_VV them_PP at_IN a_DT glance_NN ,_, you_PP know_VVP ._SENT 
+ACE_NN :_: Friendly_JJ natives_NNS ,_, eh_NP ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: Let_VV 's_VBZ not_RB be_VB hasty_JJ ._SENT 
+(_( The_DT Stallholder_NP uses_VVZ a_DT sharp_JJ cleaver_NN to_TO chop_VV a_DT melon_NN ._SENT )_) 
+[_SYM Shoreline_NP ]_SYM 
+FLOWERCHILD_NN :_: There_EX 's_VBZ no_DT choice_NN ._SENT 
+BELLBOY_NN :_: No._NN The_DT kites_NNS will_MD track_VV us_PP forever_RB ._SENT 
+FLOWERCHILD_NN :_: One_CD of_IN us_PP must_MD get_VV there_RB ._SENT 
+(_( She_PP kisses_VVZ him_PP ,_, then_RB takes_VVZ off_RP a_DT large_JJ circular_JJ earring_NN ._SENT )_) 
+FLOWERCHILD_NN :_: I_PP want_VVP you_PP to_TO have_VH this_DT ._SENT 
+BELLBOY_NN :_: Thanks_NNS ._SENT Look_VV ,_, I_PP 'll_MD wait_VV here_RB awhile_RB and_CC see_VV if_IN I_PP can_MD find_VV a_DT 
+longer_JJR route_NN round_NN ._SENT I_PP shall_MD draw_VV them_PP after_IN me_PP ._SENT 
+FLOWERCHILD_NN :_: No_DT silly_JJ risks_NNS ,_, now_RB ._SENT 
+BELLBOY_NN :_: Go_VV on_RP ._SENT Go_VV on_IN ._SENT 
+[_SYM Segonax_NP ]_SYM 
+(_( The_DT kites_NNS hang_VVP motionless_JJ ._SENT The_DT clown_NN gets_VVZ out_RP of_IN 
+the_DT hearse_NN ._SENT )_) 
+CLOWN_NN :_: They_PP ca_MD n't_RB have_VH lost_VVN them_PP ._SENT 
+(_( The_DT kites_NNS move_NN ._SENT )_) 
+CLOWN_NN :_: I_PP thought_VVD not_RB ._SENT 
+(_( Meanwhile_RB -_: )_) 
+BELLBOY_NN :_: Come_VV on_IN ,_, kites_NNS ._SENT Find_VV me_PP ._SENT 
+[_SYM By_IN the_DT snack_NN stall_NN ]_SYM 
+(_( Ace_NN is_VBZ digging_VVG her_PP$ fingers_NNS into_IN the_DT soft_JJ innards_NN 
+of_IN a_DT large_JJ fruit_NN ._SENT )_) 
+ACE_NN :_: Yuck_NN ._SENT Do_VV we_PP really_RB have_VH to_TO eat_VV this_DT muck_NN ?_SENT 
+DOCTOR_NN :_: Elementary_JJ diplomacy_NN ,_, my_PP$ dear_JJ Ace_NP ._SENT She_PP apparently_RB thinks_VVZ we_PP 're_VBP 
+a_DT pair_NN of_IN undesirable_JJ intergalactic_JJ hippies_NNS ._SENT We_PP must_MD try_VV and_CC convince_VV 
+her_PP we_PP 're_VBP nice_JJ ,_, clean-living_JJ people_NNS who_WP eat_VVP up_RP all_PDT our_PP$ fresh_JJ fruit_NN and_CC 
+pay_VV our_PP$ way_NN ._SENT 
+ACE_NN :_: Paying_VVG good_JJ money_NN for_IN this_DT muck_NN is_VBZ daylight_NN robbery_NN ._SENT Do_VV I_PP have_VHP to_TO 
+finish_VV it_PP ?_SENT 
+DOCTOR_NN :_: Every_DT last_JJ bite_NN ._SENT Besides_RB ,_, we_PP want_VVP the_DT charming_JJ lady_NN to_TO tell_VV us_PP 
+how_WRB to_TO find_VV the_DT circus_NN ,_, do_VVP n't_RB we_PP ._SENT Delicious_NP ,_, madam_NN ._SENT Quite_RB delicious_JJ ._SENT 
+[_SYM Segonax_NP ]_SYM 
+(_( Bellboy_NN shouts_VVZ up_RP at_IN the_DT kites_NNS ._SENT )_) 
+BELLBOY_NN :_: Come_VV on_IN ,_, then_RB !_SENT It_PP 's_VBZ me_PP ,_, Bellboy_NP ._SENT It_PP 's_VBZ who_WP you_PP 're_VBP looking_VVG for_IN ,_, 
+is_VBZ n't_RB it_PP ?_SENT What_WP are_VBP you_PP waiting_VVG for_IN ?_SENT Come_VVN on_IN !_SENT 
+(_( Flowerchild_NP has_VHZ got_VVN to_TO a_DT painted_JJ bus_NN with_IN a_DT picture_NN of_IN Bellboy_NP on_IN it_PP 
+and_CC the_DT slogan_NN The_DT Road_NP is_VBZ Open_JJ and_CC the_DT Rides_NP are_VBP Free_JJ on_IN it_PP ._SENT Also_RB Give_VV 
+Some_DT Money_NN ._SENT She_PP goes_VVZ inside_RB ._SENT )_) 
+[_SYM By_IN the_DT snack_NN stall_NN ]_SYM 
+STALLHOLDER_NP :_: More_RBR ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, no._NP Delicious_NP but_CC extremely_RB filling_VVG ._SENT I_PP 'm_VBP sure_JJ you_PP will_MD have_VH 
+gathered_VVN by_IN now_RB ,_, dear_JJ lady_NN ,_, we_PP 're_VBP not_RB the_DT kind_NN of_IN hobbledyhoys_NNS and_CC 
+vagabonds_NNS you_PP take_VVP such_JJ exception_NN to_TO ._SENT Indeed_RB ,_, as_IN I_PP said_VVD before_RB ,_, I_PP 'm_VBP known_VVN as_RB 
+the_DT Doctor_NP ._SENT 
+STALLHOLDER_NN :_: Some_DT people_NNS will_MD call_VV themselves_PP anything_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, well_RB ,_, be_VB that_IN/that as_IN it_PP may_MD ,_, we_PP would_MD appreciate_VV your_PP$ help_NN ._SENT 
+You_PP see_VVP ,_, we_PP 're_VBP looking_VVG for_IN 
+(_( The_DT noise_NN of_IN the_DT tricycle_NN cuts_VVZ the_DT air_NN as_IN it_PP drives_VVZ down_RP the_DT track_NN ._SENT )_) 
+STALLHOLDER_NN :_: Here_RB comes_VVZ another_DT one_CD of_IN your_PP$ lot_NN ._SENT 
+ACE_NN :_: Look_VV at_IN that_DT ace_NN bike_NN ,_, Professor_NP ._SENT 
+(_( The_DT bike_NN pulls_VVZ up_RP in_IN a_DT series_NN of_IN backfires_VVZ ,_, and_CC Ace_NP runs_VVZ over_RP ._SENT )_) 
+ACE_NN :_: Need_VVP a_DT hand_NN ?_SENT I_PP reckon_VVP it_PP could_MD be_VB a_DT stuck_JJ valve_NN ._SENT 
+NORD_NP :_: Get_VV lost_VVN ._SENT 
+ACE_NN :_: It_PP 's_VBZ a_DT great_JJ bike_NN ._SENT 
+NORD_NP :_: Go_VVP on_IN ,_, hop_VV it_PP ,_, before_IN I_PP get_VVP angry_JJ ._SENT 
+ACE_NN :_: Well_RB ,_, if_IN you_PP do_VVP n't_RB want_VV to_TO save_VV yourself_PP some_DT time_NN ,_, then_RB it_PP 's_VBZ up_RB 
+to_TO you_PP ._SENT Course_NN ,_, it_PP could_MD be_VB a_DT valve_NN 
+NORD_NP :_: I_PP 've_VHP told_VVN you_PP ,_, girl_NN ,_, get_VV lost_VVN !_SENT Or_CC I_PP 'll_MD do_VV something_NN horrible_JJ to_TO 
+your_PP$ ears_NNS ._SENT 
+ACE_NN :_: Suit_VV yourself_PP ._SENT I_PP hope_VVP your_PP$ big_JJ end_NN goes_VVZ ._SENT 
+STALLHOLDER_NN :_: He_PP 'll_MD be_VB going_VVG there_RB ._SENT They_PP all_RB go_VVP there_RB ,_, you_PP know_VVP ._SENT 
+DOCTOR_NN :_: Go_VV where_WRB ?_SENT 
+STALLHOLDER_NN :_: The_DT Psychic_NP Circus_NP ._SENT All_PDT the_DT riff-raff_NN go_VV there_RB ._SENT All_PDT the_DT 
+infernal_JJ extraterrestrials_NNS like_IN him_PP ._SENT Monopods_NNS from_IN Lelex_NP ,_, Doctors_NP ._SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT You_PP say_VVP that_IN/that he_PP 's_VBZ going_VVG to_TO the_DT circus_NN ?_SENT 
+STALLHOLDER_NN :_: Of_IN course_NN ._SENT Everyone_NN of_IN them_PP who_WP 's_VBZ up_RB to_TO no_DT good_NN goes_VVZ 
+there_RB ._SENT We_PP locals_NNS would_MD n't_RB touch_VV it_PP with_IN a_DT barge_NN pole_NN ._SENT 
+DOCTOR_NN :_: Is_VBZ it_PP far_RB ,_, this_DT appalling_JJ spectacle_NN ?_SENT 
+STALLHOLDER_NN :_: Miles_NNS and_CC miles_NNS ._SENT Why_WRB do_VVP you_PP suppose_VVP he_PP 's_VBZ got_VVN that_IN/that noisy_JJ 
+monstrosity_NN polluting_VVG the_DT countryside_NN ?_SENT Here_RB ,_, you_PP 're_VBP not_RB thinking_VVG of_IN 
+going_VVG there_RB ,_, are_VBP you_PP ?_SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, the_DT very_JJ idea_NN ,_, no._NP Just_RB a_DT moment_NN ,_, would_MD you_PP excuse_VV me_PP ?_SENT 
+(_( The_DT Doctor_NP goes_VVZ over_RP to_TO Ace_NP and_CC Nord_NP ._SENT )_) 
+DOCTOR_NN :_: Ace_NP ,_, any_DT chance_NN of_IN a_DT lift_NN ,_, do_VVP you_PP think_VVP ?_SENT 
+ACE_NN :_: Worth_JJ a_DT try_NN ,_, I_PP suppose_VVP ._SENT He_PP does_VVZ n't_RB look_VV after_IN that_DT bike_NN ,_, you_PP know_VVP ._SENT 
+If_IN only_RB he_PP 'd_MD let_VV me_PP have_VHP a_DT go_VVP ,_, 
+DOCTOR_NN :_: Yes_UH ,_, yes_UH ,_, never_RB mind_NN ,_, Ace_NP ._SENT Let_NP 's_POS concentrate_NN on_IN getting_VVG a_DT lift_NN 
+to_TO the_DT circus_NN ._SENT Excuse_VV me_PP ._SENT If_IN you_PP 're_VBP going_VVG to_TO the_DT circus_NN ,_, I_PP wonder_VVP if_IN 
+could_MD possibly_RB give_VV 
+NORD_NP :_: Do_VVP you_PP want_VVP me_PP to_TO do_VV something_NN unpleasant_JJ to_TO your_PP$ face_NN ?_SENT 
+DOCTOR_NN :_: No_UH ,_, not_RB really_RB ,_, no._NP 
+NORD_NP :_: No_DT one_CD rides_NNS with_IN me_PP !_SENT For_IN I_PP am_VBP Nord_NP ,_, Vandal_NN of_IN the_DT roads_NNS ._SENT 
+[_SYM Painted_JJ bus_NN ]_SYM 
+(_( Flowerchild_NP gets_VVZ off_RP the_DT bus_NN carrying_VVG a_DT cash_NN box_NN ,_, 
+and_CC tries_VVZ to_TO open_VV it_PP ._SENT A_DT dark_JJ clothed_VVN figures_NNS follows_VVZ her_PP out_RP and_CC grabs_NNS 
+her_PP round_VVP the_DT throat_NN ._SENT )_) 
+CONDUCTOR_NN :_: Hold_VVP tight_RB please_VV ._SENT 
+[_SYM Segonax_NP ]_SYM 
+DOCTOR_NN :_: Well_RB ,_, there_EX 's_VBZ nothing_NN like_IN a_DT nice_JJ walk_NN in_IN 
+the_DT countryside_NN ._SENT 
+ACE_NN :_: And_CC this_DT is_VBZ nothing_NN like_IN a_DT nice_JJ walk_NN in_IN the_DT countryside_NN ._SENT 
+(_( The_DT hearse_NN comes_VVZ down_RP the_DT track_NN towards_IN them_PP ._SENT )_) 
+DOCTOR_NN :_: Now_RB ,_, now_RB ,_, now_RB ,_, it_PP could_MD be_VB worse_JJR ._SENT You_PP could_MD be_VB carrying_VVG that_DT 
+heavy_JJ rucksack_NN of_IN yours_PP$ ._SENT 
+ACE_NN :_: Yeah_UH ,_, what_WP about_RB my_PP$ rucksack_NN ,_, Professor_NP ?_SENT What_WP did_VVD you_PP do_VVP with_IN it_PP ?_SENT 
+(_( The_DT hearse_NN sounds_VVZ its_PP$ horn_NN and_CC the_DT Doctor_NP pushes_VVZ Ace_NP out_IN of_IN the_DT way_NN as_RB 
+it_PP drives_VVZ straight_RB between_IN them_PP without_IN slowing_VVG ._SENT )_) 
+DOCTOR_NN :_: They_PP seem_VVP to_TO be_VB in_IN rather_RB a_DT hurry_NN ._SENT Looking_VVG for_IN customers_NNS ._SENT 
+(_( Further_JJR on_IN ._SENT )_) 
+ACE_NN :_: Well_RB ,_, I_PP would_MD n't_RB be_VB so_RB chuffed_VVN if_IN I_PP kept_VVD getting_VVG visitors_NNS like_VVP 
+Nord_NP the_DT Vandal_NN ,_, I_PP suppose_VVP ._SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ true_JJ ._SENT But_CC then_RB ,_, how_WRB do_VVP they_PP expect_VVP a_DT hard_JJ case_NN like_IN him_PP 
+to_TO going_VVG to_TO the_DT circus_NN anyway_RB ?_SENT 
+ACE_NN :_: Maybe_RB he_PP got_VVD conned_VVN ,_, like_IN I_PP was_VBD ._SENT 
+DOCTOR_NN :_: Something_NN evil_NN 's_VBZ happened_VVN here_RB ,_, I_PP can_MD feel_VV it_PP ._SENT 
+ACE_NN :_: To_TO do_VV with_IN the_DT circus_NN ?_SENT 
+DOCTOR_NN :_: Who_WP knows_VVZ ._SENT 
+ACE_NN :_: Doctor_NN ,_, look_VVP ._SENT 
+(_( Ace_NN points_NNS over_IN the_DT ridge_NN to_TO a_DT campsite_NN ._SENT )_) 
+[_SYM Campsite_NP ]_SYM 
+(_( A_DT silver_JJ haired_JJ man_NN in_IN khaki_NN and_CC wearing_VVG a_DT solar_JJ 
+topi_NN is_VBZ surveying_VVG the_DT landscape_NN with_IN binoculars_NNS ._SENT Everyone_NN say_VVP Hi_NP !_SENT to_TO 
+the_DT wonderful_JJ T_NN P_NN 
+McKenna_NP ._SENT His_PP$ young_JJ female_JJ companion_NN has_VHZ green_JJ hair_NN and_CC is_VBZ 
+examining_VVG a_DT metal_NN arm_NN sticking_VVG out_RP of_IN the_DT sand_NN ._SENT )_) 
+CAPTAIN_NN :_: I_PP was_VBD probably_RB the_DT first_JJ person_NN to_TO visit_VV the_DT valley_NN for_IN 
+several_JJ millennia_NNS ,_, at_IN the_DT very_RB least_JJS ._SENT So_IN something_NN like_IN this_DT ,_, which_WDT for_IN 
+the_DT ordinary_JJ dull_JJ old_JJ stop-at-home_NN might_MD seem_VV quite_RB extraordinary_JJ ,_, is_VBZ 
+just_RB run_VVN of_IN the_DT mill_NN as_RB far_RB as_IN I_PP 'm_VBP concerned_VVN ._SENT Well_RB ,_, of_IN course_NN since_RB 
+you_PP 've_VHP never_RB been_VBN 
+MAGS_NNS :_: Captain_NN ._SENT 
+DOCTOR_NN :_: Greetings_NNS ._SENT I_PP 'm_VBP the_DT Doctor_NP and_CC this_DT is_VBZ my_PP$ friend_NN Ace_NP ._SENT 
+CAPTAIN_NN :_: And_CC I_PP am_VBP Captain_NP Cook_NP ,_, the_DT eminent_JJ intergalactic_JJ explorer_NN ._SENT You_PP 
+happen_VV to_TO have_VH heard_VVN of_IN me_PP ,_, old_JJ boy_NN ?_SENT 
+MAGS_NNS :_: And_CC I_PP am_VBP Mags_NP ._SENT 
+(_( Ace_NP touches_VVZ the_DT arm_NN and_CC the_DT hand_NN snaps_VVZ shut_VVN ._SENT )_) 
+[_SYM Outside_IN the_DT Circus_NP ]_SYM 
+(_( A_DT clown_NN is_VBZ balancing_VVG one-footed_JJ on_IN a_DT wire_NN when_WRB 
+Nord_NP drives_VVZ up_RP ._SENT )_) 
+NORD_NP :_: Oi_NP ,_, white-face_NN ._SENT White-face_NN !_SENT Where_WRB do_VVP I_PP park_NN for_IN the_DT gig_NN at_IN the_DT 
+Psychic_JJ Circus_NP ?_SENT 
+(_( The_DT clown_NN wobbles_NNS and_CC sort_NN of_IN gestures_NNS thataway_NN ,_, so_RB Nord_NP drives_NNS 
+towards_IN the_DT Big_NP Top_NP ._SENT A_DT large_JJ ringed_JJ moon_NN hangs_VVZ in_IN the_DT daylight_NN sky_NN ._SENT )_) 
+[_SYM Campsite_NP ]_SYM 
+(_( Mags_NP pours_VVZ tea_NN for_IN the_DT Captain_NP and_CC the_DT Doctor_NP ._SENT 
+The_DT Captain_NP has_VHZ a_DT china_NN cup_NN ,_, the_DT Doctor_NP has_VHZ a_DT tin_NN mug_NN ._SENT )_) 
+CAPTAIN_NN :_: Mmm_NP ,_, delicious_JJ ._SENT My_PP$ own_JJ special_JJ blend_NN ,_, of_IN course_NN ._SENT I_PP take_VVP it_PP 
+everywhere_RB ._SENT Bet_VV you_PP ca_MD n't_RB guess_VV the_DT blend_NN ,_, eh_NP ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, I_PP could_MD be_VB wrong_JJ ,_, of_IN course_NN ,_, but_CC is_VBZ n't_RB it_PP from_IN the_DT Groz_NP 
+Valley_NP of_IN Melogothon_NP ?_SENT 
+CAPTAIN_NN :_: Good_JJ ._SENT Very_RB good_JJ ._SENT 
+ACE_NN :_: (_( to_TO Mags_NP )_) I_PP 'll_MD give_VV you_PP a_DT hand_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, Ace_NP ,_, wait_VVP a_DT minute_NN ._SENT 
+CAPTAIN_NN :_: Were_VBD you_PP ever_RB on_IN Melogothon_NP ,_, Doctor_NP ?_SENT 
+DOCTOR_NN :_: Well_RB as_IN a_DT matter_NN of_IN fact_NN ,_, I_PP was_VBD ._SENT 
+CAPTAIN_NN :_: The_DT frozen_JJ pits_NNS of_IN Overod_NP are_VBP worth_JJ seeing_VVG ,_, of_IN course_NN ,_, though_RB 
+much_RB overrated_VVN ,_, I_PP feel_VVP ._SENT All_DT right_NN for_IN the_DT trainee_NN explorer_NN ._SENT Old_JJ hands_NNS 
+like_IN myself_PP need_VVP something_NN a_DT bit_NN more_RBR exotic_JJ ._SENT 
+DOCTOR_NN :_: Why_WRB come_VVN here_RB ,_, then_RB ?_SENT 
+CAPTAIN_NN :_: Sorry_JJ ,_, old_JJ boy_NN ?_SENT 
+DOCTOR_NN :_: I_PP said_VVD ,_, why_WRB bother_VVP to_TO come_VV here_RB ?_SENT 
+CAPTAIN_NN :_: Well_RB ,_, I_PP 'm_VBP told_VVN the_DT Psychic_NP Circus_NP is_VBZ quite_RB an_DT interesting_JJ 
+little_JJ show_NN ,_, particularly_RB at_IN this_DT time_NN ,_, when_WRB everybody_NN turns_VVZ up_RP to_TO 
+compete_VV in_IN the_DT Festival_NP ._SENT Yes_UH ,_, besides_RB ,_, she_PP wanted_VVD to_TO come_VV ._SENT 
+DOCTOR_NN :_: Do_VVP you_PP often_RB travel_VVP together_RB ?_SENT 
+CAPTAIN_NN :_: Of_IN late_RB ,_, yes_UH ._SENT I_PP found_VVD her_PP on_IN the_DT planet_NN Vulpana_NP ._SENT Between_IN you_PP 
+and_CC me_PP ,_, old_JJ boy_NN ,_, she_PP 's_VBZ rather_RB an_DT unusual_JJ little_JJ specimen_NN ._SENT 
+DOCTOR_NN :_: Of_IN what_WP ?_SENT 
+CAPTAIN_NN :_: Ah_UH ,_, that_WDT would_MD be_VB telling_JJ ,_, old_JJ boy_NN ._SENT What_WP about_IN yours_PP$ ?_SENT 
+DOCTOR_NN :_: I_PP never_RB think_VVP of_IN Ace_NP as_IN a_DT specimen_NN of_IN anything_NN ._SENT 
+CAPTAIN_NN :_: Keep_VV your_PP$ shirt_NN on_RB ,_, Doctor_NP ._SENT Everything_NN 's_VBZ a_DT specimen_NN of_IN 
+something_NN ._SENT Take_VV that_DT robot_NN over_IN there_RB ,_, for_IN example_NN ._SENT 
+ACE_NN :_: What_WP do_VVP you_PP reckon_VVP ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: I_PP suppose_VVP it_PP was_VBD buried_VVN for_IN some_DT good_JJ reason_NN ._SENT 
+ACE_NN :_: Well_RB ,_, maybe_RB we_PP 'll_MD find_VV out_RP what_WP that_DT reason_NN was_VBD ,_, eh_NP ,_, Professor_NP ?_SENT 
+(_( The_DT now_RB uncovered_VVN robot_NN suddenly_RB tilts_VVZ upright_JJ ,_, knocking_VVG Mags_NP over_IN and_NP 
+grabbing_VVG her_PP$ leg_NN ._SENT )_) 
+ACE_NN :_: Gordon_NP Bennett_NP !_SENT 
+(_( Laser_NP 's_POS shoot_NN from_IN its_PP$ eyes_NNS ,_, hitting_VVG the_DT camp_NN stool_NN and_CC sending_VVG the_DT 
+Doctor_NN tumbling_VVG ._SENT He_PP rushes_VVZ to_TO help_VV free_JJ Mags_NP ._SENT )_) 
+DOCTOR_NN :_: Quick_JJ ._SENT Help_NN ,_, Captain_NP ._SENT 
+(_( The_DT Captain_NP keeps_VVZ sipping_VVG his_PP$ tea_NN ._SENT )_) 
+CAPTAIN_NN :_: You_PP do_VVP n't_RB often_RB see_VV one_PP like_IN that_DT ,_, do_VV you_PP ._SENT 
+DOCTOR_NN :_: I_PP 've_VHP seen_VVN ones_NNS like_IN this_DT quite_RB often_RB enough_RB ,_, thank_VV you_PP very_RB 
+much_RB ._SENT 
+ACE_NN :_: Do_VVP something_NN !_SENT I_PP 've_VHP got_VVN it_PP ._SENT 
+(_( Ace_NP picks_VVZ up_RP a_DT shovel_NN and_CC hits_VVZ the_DT robot_NN 's_POS head_NN ._SENT It_PP stops_VVZ ._SENT The_DT Doctor_NP 
+helps_VVZ Mags_NP get_VV out_RP of_IN range_NN ._SENT )_) 
+CAPTAIN_NN :_: Well_UH ,_, well_UH ._SENT More_JJR tea_NN ,_, perhaps_RB ?_SENT 
+[_SYM Segonax_NP ]_SYM 
+(_( There_EX is_VBZ a_DT new_JJ arrival_NN -_: a_DT geeky_JJ lad_NN in_IN round_NN 
+glasses_NNS on_IN a_DT mountain_NN bike_NN ,_, at_IN the_DT landing_NN bay_NN ._SENT 
+Meanwhile_RB the_DT Conductor_NN drags_VVZ Flowerchild_NP 's_POS body_NN away_RB ,_, leaving_VVG behind_RB 
+her_PP$ other_JJ earring_NN ._SENT 
+The_DT hearse_NN follows_VVZ the_DT kites_NNS ._SENT )_) 
+[_SYM By_IN the_DT snack_NN stall_NN ]_SYM 
+(_( Bellboy_NN staggers_NNS up_RB ._SENT )_) 
+BELLBOY_NN :_: Excuse_VV me_PP ._SENT 
+(_( And_CC falls_VVZ down_RP ._SENT )_) 
+STALLHOLDER_NN :_: You_PP ca_MD n't_RB lie_VV down_RB there_RB ,_, you_PP know_VVP ._SENT 
+(_( The_DT hearse_NN pulls_VVZ up_RP ._SENT )_) 
+BELLBOY_NN :_: At_IN last_JJ ._SENT 
+CLOWN_NN :_: Where_WRB 's_VBZ the_DT girl_NN ?_SENT 
+BELLBOY_NN :_: She_PP 'll_MD have_VH reached_VVN there_RB by_IN now_RB ._SENT 
+CLOWN_NN :_: If_IN she_PP has_VHZ ,_, she_PP 'll_MD regret_VV it_PP ._SENT 
+(_( The_DT clown_NN and_CC his_PP$ companion_NN drag_VV the_DT Bellboy_NN away_RB ._SENT )_) 
+STALLHOLDER_NN :_: Is_VBZ there_RB no_DT end_NN to_TO you_PP wierdos_VVZ ?_SENT 
+[_SYM Painted_JJ bus_NN ]_SYM 
+CAPTAIN_NN :_: It_PP 's_VBZ obviously_RB some_DT sort_NN of_IN shrine_NN ._SENT I_PP saw_VVD 
+one_CD much_RB like_IN this_DT on_IN Dioscuros_NP ._SENT 
+DOCTOR_NN :_: A_DT shrine_NN or_CC not_RB ,_, I_PP ca_MD n't_RB help_VV feeling_VVG something_NN sinister_JJ 
+happened_VVN here_RB ._SENT 
+CAPTAIN_NN :_: I_PP wonder_VVP you_PP manage_VVP to_TO explore_VV anything_NN ._SENT Everything_NN seems_VVZ to_TO 
+alarm_VV you_PP so_RB ._SENT 
+DOCTOR_NN :_: Not_RB everything_NN ._SENT I_PP trust_VVP my_PP$ instincts_NNS ,_, and_CC you_PP may_MD recall_VV 
+they_PP 're_VBP not_RB always_RB wrong_JJ ._SENT 
+ACE_NN :_: Oh_UH ,_, come_VV on_RP ,_, Professor_NP ._SENT Let_VV 's_VBZ go_VV and_CC explore_VV ._SENT 
+CAPTAIN_NN :_: I_PP agree_VVP with_IN your_PP$ young_JJ friend_NN ._SENT Let_VV 's_VBZ explore_VV ._SENT 
+[_SYM On_IN the_DT bus_NN ]_SYM 
+ACE_NN :_: Here_RB ,_, look_VVP at_IN this_DT ._SENT 
+CAPTAIN_NN :_: I_PP say_VVP ._SENT Well_UH ,_, well_UH ,_, well_UH ,_, it_PP is_VBZ quite_RB something_NN ._SENT 
+ACE_NN :_: Wonder_VVP if_IN it_PP still_RB goes_VVZ ._SENT 
+CAPTAIN_NN :_: Yes_UH ._SENT 
+DOCTOR_NN :_: Ace_NN ,_, I_PP would_MD n't_RB ._SENT 
+(_( As_IN Ace_NP settles_VVZ herself_PP behind_IN the_DT steering_NN wheel_NN ,_, the_DT robot_NN conductor_NN 
+comes_VVZ through_RP a_DT curtain_NN towards_IN the_DT back_NN of_IN the_DT bus_NN ._SENT )_) 
+CONDUCTOR_NN :_: Any_DT more_JJR fares_NNS ,_, please_UH ?_SENT Any_DT more_JJR fares_NNS ,_, please_UH ?_SENT No_DT standing_NN 
+inside_RB ._SENT Hold_VV tight_RB ,_, please_UH ._SENT 
+(_( The_DT Conductor_NN turns_VVZ the_DT handle_NN of_IN its_PP$ ticket_NN machine_NN ,_, and_CC an_DT energy_NN 
+bolt_NN zooms_VVZ up_RP to_TO the_DT sun_NN roof_NN ._SENT )_) 
+CAPTAIN_NN :_: I_PP say_VVP ,_, steady_JJ on_IN ,_, old_JJ chap_NN ._SENT 
+CONDUCTOR_NN :_: Fares_NNS please_VVP ._SENT Hold_VV on_IN tight_JJ ._SENT Ding_NP ,_, ding_NN ._SENT 
+CAPTAIN_NN :_: No_UH ,_, no_UH ,_, no_UH ,_, you_PP 've_VHP got_VVN it_PP wrong_JJ ,_, old_JJ boy_NN ._SENT He_PP 's_VBZ paying_VVG the_DT 
+fares_NNS ,_, not_RB me_PP ._SENT 
+(_( The_DT Captain_NP disembarks_VVZ rapidly_RB ._SENT )_) 
+CONDUCTOR_NN :_: Any_DT more_JJR fares_NNS ?_SENT 
+DOCTOR_NN :_: I_PP would_MD like_VV a_DT ticket_NN ,_, actually_RB ._SENT I_PP 'd_MD like_VV a_DT there_RB and_CC back_RB off_RB 
+peak_JJ weekend_NN break_NN supersaver_NN senior_JJ citizen_NN bimonthly_JJ season_NN with_IN 
+optional_JJ added_JJ facilities_NNS a_DT free_JJ cup_NN of_IN coffee_NN in_IN a_DT plastic_JJ glass_NN a_DT 
+crocodile_NN sandwich_NN and_CC make_VV it_PP snappy_JJ ,_, you_PP mechanic_NN moron_NN !_SENT 
+(_( The_DT robot_NN drops_VVZ its_PP$ head_NN ._SENT )_) 
+DOCTOR_NN :_: If_IN I_PP might_MD take_VV a_DT look_NN at_IN that_DT ticket_NN machine_NN of_IN yours_PP$ ?_SENT 
+(_( The_DT robot_NN holds_VVZ it_PP up_RP ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, yes_UH ._SENT 
+(_( The_DT Doctor_NP turns_VVZ the_DT handle_NN and_CC zaps_VVZ the_DT robot_NN ._SENT Bang_NP !_SENT )_) 
+DOCTOR_NN :_: Just_RB the_DT ticket_NN ._SENT 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( The_DT Ticket_NP office_NN is_VBZ strictly_RB speaking_VVG a_DT small_JJ 
+caravan_NN inside_IN a_DT tent_NN housing_NN various_JJ advertising_NN boards_NNS of_IN the_DT 
+Circus_NP 's_POS trip_NN to_TO various_JJ planets_NNS ._SENT It_PP is_VBZ linked_VVN to_TO the_DT Big_NP Top_NP by_IN a_DT 
+corridor_NN with_IN walls_NNS of_IN billowing_VVG cloth_NN ._SENT The_DT clowns_NNS drop_VVP Bellboy_NP at_IN the_DT 
+Fortune_NP Teller_NP 's_POS feet_NNS ._SENT )_) 
+MORGANA_NP :_: What_WP have_VHP you_PP done_VVN ?_SENT 
+CLOWN_NN :_: Not_RB nearly_RB enough_JJ ._SENT 
+MORGANA_NN :_: We_PP need_VVP him_PP ._SENT 
+CLOWN_NN :_: He_PP 'll_MD have_VH to_TO be_VB punished_VVN ,_, Morgana_NP ._SENT 
+(_( The_DT Clown_NP removes_VVZ his_PP$ black_JJ clothes_NNS to_TO reveal_VV his_PP$ silver_NN costume_NN ._SENT )_) 
+BELLBOY_NN :_: Flowerchild_NN ?_SENT 
+MORGANA_NN :_: No._NN 
+BELLBOY_NN :_: Flowerchild_NN ._SENT 
+MORGANA_NP :_: Where_WRB is_VBZ she_PP ?_SENT 
+CLOWN_NN :_: He_PP still_RB thinks_VVZ she_PP may_MD have_VH escaped_VVN ._SENT 
+MORGANA_NN :_: Listen_VV ,_, Bellboy_NP ,_, I_NP 
+CLOWN_NN :_: Save_VV your_PP$ breath_NN ._SENT Take_VV him_PP back_RB in_IN the_DT ring_NN ._SENT He_PP knows_VVZ what_WDT 's_VBZ 
+waiting_VVG there_RB ._SENT 
+BELLBOY_NN :_: No._NN No._NN No_RB !_SENT No_UH !_SENT No_UH !_SENT 
+(_( Bellboy_NN is_VBZ dragged_VVN away_RB by_IN clowns_NNS ._SENT )_) 
+MORGANA_NP :_: What_WP if_IN a_DT visitor_NN arrives_VVZ now_RB ?_SENT 
+CLOWN_NN :_: If_IN they_PP come_VVP ,_, they_PP come_VVP ._SENT 
+[_SYM Painted_JJ bus_NN ]_SYM 
+CAPTAIN_NN :_: Letrepos_NP ,_, for_IN example_NN ._SENT Sights_NNS like_IN this_DT 
+are_VBP every_DT day_NN ._SENT 
+DOCTOR_NN :_: Some_DT people_NNS ca_MD n't_RB bear_VV to_TO be_VB proved_VVN wrong_RB ._SENT 
+ACE_NN :_: He_PP 'd_MD have_VH let_VVN tinhead_NN do_VVP you_PP in_RP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, let_VV 's_VBZ not_RB bear_VV a_DT grudge_NN ._SENT He_PP ca_MD n't_RB help_VV being_VBG a_DT pompous_JJ ,_, 
+selfish_JJ ,_, self-satisfied_JJ meddler_NN ._SENT 
+ACE_NN :_: Hmm_NP ._SENT Mags_NNS might_MD be_VB okay_JJ if_IN he_PP was_VBD n't_RB around_RB ._SENT 
+DOCTOR_NN :_: If_IN a_DT little_RB odd_JJ ._SENT 
+(_( Ace_NP finds_VVZ Flowerchild_NP 's_POS earring_NN ._SENT )_) 
+ACE_NN :_: Doctor_NN ,_, look_VVP ._SENT 
+DOCTOR_NN :_: Do_VV you_PP like_IN it_PP ?_SENT 
+ACE_NN :_: Yeah_UH ._SENT 
+DOCTOR_NN :_: Well_RB ,_, if_IN the_DT keeper_NN 's_VBZ not_RB here_RB ,_, the_DT finder_NN has_VHZ it_PP ._SENT 
+ACE_NN :_: Ace_NN ._SENT 
+(_( She_PP pins_VVZ it_PP onto_IN her_PP$ jacket_NN ._SENT )_) 
+ACE_NN :_: What_WP do_VVP you_PP reckon_VVP happened_VVN here_RB ,_, Professor_NP ?_SENT Were_VBD the_DT people_NNS in_IN 
+this_DT bus_NN attacked_VVN on_IN their_PP$ way_NN to_TO the_DT circus_NN ?_SENT 
+DOCTOR_NN :_: Presumably_RB ._SENT Whoever_WP attacked_VVD them_PP ,_, destroyed_VVD them_PP and_CC wrecked_VVD 
+the_DT bus_NN ._SENT 
+ACE_NN :_: And_CC the_DT evil_NN you_PP felt_VVD ,_, was_VBD that_IN/that the_DT bus_NN conductor_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ,_, I_PP think_VVP so_RB ._SENT Anyway_RB ,_, whoever_WP left_VVD him_PP here_RB on_IN guard_NN 's_VBZ gone_VVN 
+now_RB ._SENT Perhaps_RB millennia_NNS ago_RB ._SENT 
+ACE_NN :_: Nothing_NN to_TO do_VV with_IN the_DT circus_NN being_VBG scary_JJ ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP afraid_JJ I_PP think_VVP not_RB ._SENT No_UH ,_, that_WDT was_VBD all_DT just_RB good_JJ publicity_NN ._SENT 
+ACE_NN :_: Pity_NN ._SENT It_PP might_MD have_VH made_VVN it_PP more_RBR interesting_JJ ._SENT Are_VBP we_PP still_RB going_VVG 
+there_RB then_RB ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT I_PP feel_VVP just_RB in_IN the_DT right_JJ mood_NN ._SENT And_CC after_IN two_CD brushes_NNS with_IN 
+death_NN in_IN one_CD day_NN ,_, I_PP hope_VVP you_PP might_MD be_VB ._SENT 
+ACE_NN :_: If_IN you_PP say_VVP so_RB ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Ah_UH ,_, so_RB ,_, Doctor_NP ._SENT You_PP can_MD remember_VV ._SENT 
+[_SYM Outside_IN the_DT circus_NN ]_SYM 
+(_( The_DT Captain_NP 's_POS jeep_NN drives_NNS past_IN a_DT man_NN on_IN stilts_NNS ._SENT )_) 
+CAPTAIN_NN :_: On_IN one_CD of_IN my_PP$ trips_NNS to_TO Neogorgon_NP there_EX was_VBD a_DT whole_JJ planet_NN with_IN electronic_JJ dogs_NNS '_POS heads_NNS submerged_VVN in_IN mud_NN ._SENT 
+[_SYM By_IN the_DT snack_NN stall_NN ]_SYM 
+(_( The_DT geek_NN on_IN the_DT bike_NN pedals_VVZ up_RP ._SENT )_) 
+WHIZZKID_NP :_: Hi_UH !_SENT 
+STALLHOLDER_NP :_: Hello_UH ,_, young_JJ man_NN ._SENT Just_RB arrived_VVN from_IN the_DT landing_NN port_NN ?_SENT 
+WHIZZKID_NN :_: That_WDT 's_VBZ right_JJ ._SENT 
+STALLHOLDER_NP :_: Oh_UH ,_, you_PP 've_VHP no_DT idea_NN what_WP a_DT relief_NN for_IN me_PP it_PP is_VBZ to_TO see_VV such_JJ 
+a_DT nice_JJ ,_, clean_JJ ,_, respectable_JJ young_JJ man_NN ,_, after_IN the_DT riff-raff_NN I_PP usually_RB 
+have_VHP to_TO deal_VV with_IN ._SENT Can_MD I_PP help_VV you_PP at_IN all_DT ?_SENT 
+WHIZZKID_NP :_: Yes_UH ,_, please_UH ._SENT Could_MD you_PP tell_VV me_PP the_DT way_NN to_TO the_DT Psychic_NP Circus_NP ?_SENT 
+
+(_( The_DT Stallholder_NP 's_POS smile_NN fades_NNS away_RB ._SENT )_) 
+[_SYM Ticket_JJ office_NN ]_SYM 
+CLOWN_NN :_: The_DT show_NN is_VBZ about_RB to_TO start_VV ._SENT 
+MORGANA_NN :_: I_PP 've_VHP seen_VVN enough_RB already_RB ._SENT 
+CAPTAIN_NN :_: Greetings_NP ,_, my_PP$ good_JJ woman_NN ._SENT This_DT is_VBZ the_DT Psychic_NP Circus_NP ,_, is_VBZ n't_RB 
+it_PP ?_SENT 
+(_( Morgana_NP puts_VVZ on_IN a_DT Transylvanian_NP accent_NN ._SENT )_) 
+MORGANA_NP :_: Why_WRB yes_NN ,_, that_WDT 's_VBZ right_JJ ._SENT 
+CAPTAIN_NN :_: Ah_UH ,_, sounds_NNS like_VVP things_NNS are_VBP going_VVG well_RB ._SENT Come_VV along_RB ,_, Mags_NP ._SENT 
+MORGANA_NN :_: But_CC er_NNS 
+CAPTAIN_NN :_: But_CC what_WP ?_SENT 
+MORGANA_NN :_: You_PP ca_MD n't_RB go_VV in_IN just_RB now_RB ._SENT There_EX is_VBZ a_DT speciality_NN act_NN being_VBG 
+rehearsed_VVD ._SENT 
+CAPTAIN_NN :_: All_PDT the_DT better_JJR ,_, my_PP$ dear_NN ._SENT 
+MORGANA_NP :_: No_UH ,_, you_PP do_VVP n't_RB understand_VV ._SENT 
+(_( The_DT Clown_NP appears_VVZ ,_, laughs_NNS ,_, and_CC gestures_NNS for_IN the_DT Captain_NP and_CC Mags_NP to_TO 
+enter_VV ._SENT )_) 
+CAPTAIN_NN :_: Thank_VV you_PP ,_, my_PP$ good_JJ fellow_NN ._SENT Thank_VV you_PP ._SENT 
+[_SYM Outside_IN the_DT Circus_NP ]_SYM 
+(_( The_DT Doctor_NP and_CC Ace_NP walk_VVP past_IN a_DT clown_NN on_IN a_DT tall_JJ 
+unicycle_NN ._SENT )_) 
+DOCTOR_NN :_: Not_RB as_RB far_RB as_IN we_PP feared_VVD ._SENT Look_NN ._SENT 
+ACE_NN :_: I_PP still_RB think_VVP clowns_NNS are_VBP creepy_JJ ._SENT 
+DOCTOR_NN :_: Nonsense_NN ._SENT 
+(_( The_DT Ringmaster_NP enters_VVZ the_DT Big_NP Top_NP and_CC cracks_VVZ his_PP$ whip_NN as_IN the_DT Captain_NP 
+and_CC Mags_NP come_VVP in_IN ._SENT The_DT funeral_JJ clowns_NNS drop_VVP Bellboy_NP into_IN the_DT ring_NN ._SENT We_PP 
+watch_VV Mags_NP '_POS face_NN as_IN a_DT flickering_VVG light_NN starts_VVZ up_RP and_CC Bellboy_NP groans_VVZ ._SENT 
+Mags_NP screams_VVZ ._SENT 
+Outside_IN we_PP can_MD only_RB hear_VV the_DT Entry_NN of_IN the_DT Gladiators_NP music_NN and_NP 
+occasional_JJ cheers_NNS ._SENT )_) 
+DOCTOR_NN :_: Listen_VV ,_, they_PP 're_VBP having_VHG a_DT good_JJ time_NN in_IN there_RB ._SENT 
+ACE_NN :_: Do_VVP n't_RB you_PP hear_VVP it_PP ?_SENT 
+DOCTOR_NN :_: Hear_VV what_WP ?_SENT 
+ACE_NN :_: That_IN/that screaming_VVG ._SENT 
+(_( The_DT Ringmaster_NP uses_VVZ a_DT white_JJ sound_JJ device_NN to_TO mask_VV Mags_NP '_POS scream_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP ca_MD n't_RB hear_VV anything_NN ._SENT 
+ACE_NN :_: I_PP was_VBD sure_JJ I_PP heard_VVD 
+DOCTOR_NN :_: Oh_UH ,_, you_PP 're_VBP just_RB making_VVG excuses_NNS because_IN you_PP do_VVP n't_RB like_VV circuses_NNS ._SENT 
+
+ACE_NN :_: No._NN No_RB ,_, it_PP 's_VBZ not_RB that_RB ._SENT 
+DOCTOR_NN :_: Well_RB ,_, are_VBP we_PP going_VVG in_IN or_CC are_VBP n't_RB we_PP ?_SENT 
+Part_NN Two_CD 
+
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( The_DT clown_NN comes_VVZ out_RP and_CC waves_NNS to_TO the_DT Doctor_NP and_NP 
+Ace_NP ,_, then_RB goes_VVZ back_RB inside_RB ._SENT )_) 
+CLOWN_NN :_: Two_CD more_JJR ._SENT 
+MORGANA_NN :_: Right_RB ._SENT 
+[_SYM Outside_IN the_DT Circus_NP ]_SYM 
+ACE_NN :_: I_PP did_VVD hear_VV it_PP ,_, that_IN/that screaming_VVG ._SENT 
+DOCTOR_NN :_: But_CC not_RB now_RB ._SENT 
+(_( Ace_NP shakes_VVZ her_PP$ head_NN ._SENT )_) 
+DOCTOR_NN :_: So_RB we_PP can_MD go_VV in_IN ?_SENT 
+ACE_NN :_: Yeah_UH ,_, okay_JJ ._SENT 
+DOCTOR_NN :_: Your_PP$ enthusiasm_NN 's_VBZ overwhelming_JJ ._SENT 
+[_SYM Ticket_JJ office_NN ]_SYM 
+MORGANA_NN :_: Welcome_NN one_CD and_CC all_RB to_TO the_DT Psychic_NP 
+Circus_NP ._SENT 
+(_( Ace_NP turns_VVZ to_TO leave_VV but_CC the_DT Doctor_NP pulls_VVZ her_PP$ back_NN ._SENT )_) 
+DOCTOR_NN :_: Ace_NN ,_, you_PP promised_VVD ._SENT (_( to_TO Morgana_NP )_) I_PP 'm_VBP the_DT Doctor_NP and_CC this_DT is_VBZ Ace_NP ._SENT 
+I_PP must_MD apologise_VV for_IN my_PP$ young_JJ friend_NN ._SENT 
+MORGANA_NP :_: Oh_UH ,_, it_PP is_VBZ no_DT problem_NN ._SENT All_DT of_IN us_PP around_RB here_RB believe_VV in_IN letting_VVG 
+our_PP$ feelings_NNS hang_VVP out_RP ._SENT I_PP mean_VVP ,_, there_EX is_VBZ no_DT point_NN in_IN getting_VVG uptight_JJ ,_, 
+now_RB is_VBZ there_RB ?_SENT 
+(_( Ace_NP sees_VVZ the_DT clown_NN watching_NN and_CC becomes_VVZ tense_JJ ._SENT )_) 
+ACE_NN :_: I_PP do_VVP n't_RB believe_VV this_DT ._SENT 
+MORGANA_NP :_: That_WDT is_VBZ why_WRB we_PP got_VVD into_IN circuses_NNS in_IN the_DT first_JJ place_NN ._SENT 
+DOCTOR_NN :_: We_PP ?_SENT 
+MORGANA_NN :_: The_DT founder_NN members_NNS of_IN the_DT Psychic_NP Circus_NP ._SENT 
+DOCTOR_NN :_: Ah_UH ,_, I_PP see_VVP ._SENT 
+MORGANA_NN :_: We_PP were_VBD really_RB into_IN personal_JJ expression_NN and_CC the_DT Circus_NP gave_VVD us_PP 
+a_DT chance_NN to_TO develop_VV ourselves_PP by_IN expressing_VVG our_PP$ individual_JJ skills_NNS ._SENT 
+(_( The_DT Doctor_NP sees_VVZ three_CD kites_NNS with_IN eyes_NNS painted_VVN on_IN them_PP ._SENT )_) 
+DOCTOR_NN :_: I_PP wonder_VVP if_IN you_PP 've_VHP a_DT special_JJ skill_NN ,_, if_IN I_PP might_MD enquire_VV ._SENT 
+MORGANA_NN :_: Fortune_NN telling_VVG ._SENT Would_MD you_PP like_VV to_TO see_VV the_DT future_NN ?_SENT 
+(_( Morgana_NP turns_VVZ over_IN the_DT top_JJ card_NN on_IN her_PP$ Tarot_NP pack_NN ._SENT It_PP is_VBZ the_DT Hanged_JJ 
+Man_UH ,_, symbol_NN of_IN major_JJ change_NN ._SENT The_DT Doctor_NP does_VVZ not_RB turn_VV round_NN to_TO look_VV at_IN 
+it_PP ._SENT )_) 
+DOCTOR_NN :_: Not_RB just_RB yet_RB ._SENT 
+(_( The_DT funeral_JJ clowns_NNS carry_VVP the_DT robot_NN bus_NN conductor_NN backstage_RB on_IN a_DT 
+stretcher_NN ._SENT )_) 
+DOCTOR_NN :_: The_DT Psychic_NP Circus_NP has_VHZ grown_VVN into_IN quite_PDT a_DT sizeable_JJ operation_NN ,_, 
+by_IN the_DT looks_NNS of_IN it_PP ._SENT 
+MORGANA_NN :_: The_DT greatest_JJS show_NN in_IN the_DT galaxy_NN ._SENT 
+(_( The_DT Doctor_NP looks_VVZ around_RP their_PP$ collection_NN of_IN advertising_NN posters_NNS ._SENT )_) 
+DOCTOR_NN :_: Quite_RB so_RB ,_, yes_UH ._SENT My_PP$ ,_, you_PP have_VHP travelled_VVN ,_, have_VHP n't_RB you_PP ?_SENT The_DT planet_NN 
+Othris_NP ,_, the_DT Boriatic_NP Wastes_NP ,_, Marpesia_NP and_CC the_DT Grand_NP Pagoda_NP of_IN Cinethon_NP ._SENT 
+
+MORGANA_NP :_: Yes_UH ,_, we_PP used_VVD to_TO have_VH a_DT great_JJ time_NN in_IN the_DT old_JJ days_NNS ,_, going_VVG from_IN 
+planet_NN to_TO planet_NN ._SENT But_CC we_PP 've_VHP really_RB got_VVN settled_VVN in_IN here_RB since_RB 
+DOCTOR_NN :_: Since_IN ?_SENT 
+MORGANA_NP :_: Well_UH ,_, you_PP have_VHP to_TO hang_VV up_RP your_PP$ travelling_VVG shoes_NNS and_CC stop_VV 
+wandering_VVG sooner_RBR or_CC later_RBR ,_, do_VVP n't_RB you_PP ?_SENT 
+DOCTOR_NN :_: So_RB I_PP 've_VHP been_VBN told_VVN ._SENT Personally_RB ,_, I_PP just_RB keep_VVP on_IN wandering_VVG ._SENT 
+RINGMASTER_NN [_SYM OC_NP ]_SYM :_: Will_MD you_PP please_VV take_VV your_PP$ seats_NNS ,_, thank_VV you_PP ._SENT 
+DOCTOR_NN :_: Ace_NN ?_SENT 
+ACE_NN :_: Yes_UH ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, are_VBP we_PP going_VVG in_IN or_CC are_VBP n't_RB we_PP ?_SENT 
+MORGANA_NN :_: You_PP 're_VBP sure_JJ you_PP want_VVP to_TO go_VV in_IN ?_SENT 
+DOCTOR_NN :_: Yes_UH ,_, that_WDT 's_VBZ why_WRB we_PP came_VVD here_RB in_IN the_DT first_JJ place_NN ._SENT 
+MORGANA_NP :_: Look_VVP ,_, I_PP do_VVP n't_RB know_VV how_WRB to_TO put_VV this_DT ,_, but_RB 
+(_( The_DT clown_NN comes_VVZ out_RP ._SENT )_) 
+MORGANA_NN :_: Of_IN course_NN ,_, go_VV right_RB in_IN ._SENT Do_VV your_PP$ own_JJ thing_NN ._SENT Enjoy_VV yourselves_NNS ._SENT 
+DOCTOR_NN :_: Thank_VV you_PP ._SENT Oh_UH ,_, tickets_NNS ._SENT We_PP forgot_VVD to_TO buy_VV some_DT tickets_NNS ._SENT 
+MORGANA_NN :_: Tickets_NNS ?_SENT 
+DOCTOR_NN :_: To_TO go_VV in_IN ._SENT 
+CLOWN_NN :_: Ha_NP ha_NP !_SENT You_PP 're_VBP in_IN already_RB ._SENT 
+(_( Noises_NNS of_IN a_DT massive_JJ crowd_NN cheering_VVG ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ._SENT Sounds_NNS as_RB if_IN you_PP 're_VBP doing_VVG really_RB good_JJ business_NN ._SENT 
+CLOWN_NN :_: This_DT way_NN ,_, please_UH ._SENT 
+(_( The_DT clown_NN sees_VVZ Flowerchild_NP 's_POS earring_NN on_IN Ace_NP 's_POS jacket_NN as_IN she_PP passes_VVZ 
+him_PP ._SENT )_) 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( It_PP is_VBZ dark_JJ and_CC quiet_JJ as_IN the_DT Doctor_NP and_CC Ace_NP enter_VVP ._SENT 
+They_PP whisper_VVP to_TO each_DT other_JJ ._SENT )_) 
+ACE_NN :_: Professor_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ?_SENT 
+ACE_NN :_: I_PP ca_MD n't_RB see_VV a_DT thing_NN ._SENT 
+DOCTOR_NN :_: Neither_CC can_MD I_PP ._SENT 
+ACE_NN :_: And_CC the_DT cheering_VVG 's_VBZ stopped_VVN ._SENT 
+DOCTOR_NN :_: Perhaps_RB we_PP 're_VBP between_IN performances_NNS ._SENT Let_VV 's_VBZ see_VV if_IN we_PP can_MD find_VV a_DT 
+seat_NN ._SENT 
+(_( The_DT Doctor_NP feels_VVZ his_PP$ way_NN to_TO the_DT stands_NNS and_CC climbs_VVZ the_DT steps_NNS ._SENT He_PP stubs_VVZ 
+his_PP$ toe_NN ._SENT )_) 
+ACE_NN :_: Found_VVD somewhere_RB to_TO sit_VV ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: That_WDT 's_VBZ one_CD way_NN of_IN looking_VVG at_IN it_PP ,_, if_IN we_PP could_MD see_VV ._SENT Over_IN here_RB ._SENT 
+ACE_NN :_: What_WP ?_SENT 
+DOCTOR_NN :_: I_PP said_VVD ,_, over_IN here_RB ._SENT 
+(_( They_PP settle_VVP down_RB ._SENT )_) 
+DOCTOR_NN :_: In_IN a_DT moment_NN our_PP$ eyes_NNS 'll_MD get_VV used_VVN to_TO the_DT darkness_NN ._SENT 
+ACE_NN :_: Assuming_VVG there_EX 's_VBZ anything_NN worth_JJ seeing_NN ._SENT 
+(_( There_EX is_VBZ a_DT rustling_VVG noise_NN nearby_RB ._SENT )_) 
+DOCTOR_NN :_: Listen_VV ._SENT 
+(_( On_IN the_DT row_NN above_IN them_PP sits_VVZ a_DT 1950_CD 's_POS family_NN ,_, Father_NP ,_, Mother_NP and_CC a_DT 
+little_JJ girl_NN between_IN them_PP ._SENT They_PP are_VBP eating_VVG a_DT noisy_JJ snack_NN ._SENT )_) 
+GIRL_NN :_: Daddy_NN ._SENT Daddy_NN ._SENT 
+DAD_NN :_: What_WP ?_SENT 
+GIRL_NN :_: I_PP want_VVP an_DT ice_NN cream_NN ._SENT 
+DAD_NN :_: You_PP 've_VHP already_RB had_VHN one_PP ._SENT 
+GIRL_NN :_: But_CC Daddy_NP ._SENT 
+DAD_NN :_: I_PP told_VVD you_PP once_RB and_CC I_PP 'm_VBP not_RB going_VVG to_TO tell_VV you_PP again_RB ._SENT Now_RB shut_VVN up_RP 
+and_CC eat_VV your_PP$ popcorn_NN ._SENT 
+DOCTOR_NN :_: We_PP 're_VBP not_RB alone_RB ._SENT 
+ACE_NN :_: Yeah_UH ,_, but_CC it_PP looks_VVZ like_IN it_PP 's_VBZ just_RB us_PP and_CC them_PP ._SENT What_WP a_DT con_NN ._SENT I_PP mean_VVP ,_, 
+where_WRB 's_VBZ Mags_NP and_CC the_DT Captain_NP ?_SENT 
+DOCTOR_NN :_: Perhaps_RB they_PP have_VHP n't_RB arrived_VVN yet_RB ._SENT Who_WP knows_VVZ ?_SENT Anyway_RB ,_, I_PP 'm_VBP going_VVG 
+to_TO have_VH an_DT ice_NN cream_NN ._SENT 
+MUM_NN :_: They_PP should_MD be_VB starting_VVG up_RP again_RB soon_RB ._SENT Have_VHP a_DT crisp_NN ,_, Father_NP ._SENT 
+DOCTOR_NN :_: Greetings_NNS ._SENT Not_RB many_JJ in_IN today_NN ,_, are_VBP there_RB ._SENT Are_VBP you_PP regulars_NNS or_CC is_VBZ 
+this_DT your_PP$ first_JJ visit_NN ,_, too_RB ?_SENT Let_VV me_PP introduce_VV myself_PP ._SENT I_PP 'm_VBP 
+(_( The_DT Mother_NP holds_VVZ out_RP the_DT bag_NN of_IN crisps_NNS ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, thank_VV you_PP very_RB much_RB ._SENT Delicious_NP ._SENT 
+(_( The_DT circus_NN music_NN starts_NNS and_CC the_DT lights_NNS come_VVP up_RP ._SENT )_) 
+ACE_NN :_: Professor_NN ._SENT Professor_NN ,_, it_PP 's_VBZ starting_VVG ._SENT 
+DOCTOR_NN :_: Well_RB ,_, it_PP 's_VHZ been_VBN a_DT pleasure_NN ._SENT 
+(_( The_DT Doctor_NP returns_NNS to_TO sit_VV with_IN Ace_NP as_IN the_DT ring_NN fills_VVZ with_IN tumbling_VVG and_CC 
+juggling_NN clowns_NNS ._SENT )_) 
+DOCTOR_NN :_: Remarkable_JJ ._SENT 
+ACE_NN :_: If_IN you_PP like_VVP this_DT sort_NN of_IN thing_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, I_PP mean_VVP the_DT memorial_JJ stones_NNS ._SENT Do_VV you_PP see_VV them_PP ?_SENT Look_NN ._SENT 
+(_( Placed_VVN at_IN intervals_NNS around_IN the_DT ring_NN are_VBP old_JJ carved_VVN stones_NNS ._SENT The_DT 
+Ringmaster_NN enters_VVZ and_CC the_DT clowns_NNS freeze_NN ._SENT )_) 
+RINGMASTER_NN :_: Now_RB welcome_JJ folks_NNS ,_, I_PP mean_VVP that_IN/that from_IN the_DT heart_NN ,_, because_IN the_DT 
+Greatest_JJS Show_NN is_VBZ about_RB to_TO start_VV ._SENT It_PP 's_VBZ happening_VVG right_RB here_RB before_IN your_PP$ 
+very_JJ eyes_NNS and_CC one_CD thing_NN 's_VBZ for_IN sure_JJ ,_, you_PP 're_VBP in_IN for_IN quite_PDT a_DT surprise_NN ._SENT But_RB 
+then_RB ,_, nothing_NN 's_VBZ quite_RB as_IN it_PP seems_VVZ to_TO be_VB at_IN the_DT Greatest_NP Show_NP in_IN the_DT 
+Galaxy_NN ._SENT 
+(_( The_DT Ringmaster_NP adjusts_VVZ the_DT controls_NNS in_IN the_DT back_NN of_IN one_CD clown_NN and_CC it_PP 
+does_VVZ a_DT somersault_NN ._SENT )_) 
+RINGMASTER_NN :_: Now_RB welcome_JJ folks_NNS ,_, we_PP 've_VHP got_VVN a_DT brand_NN new_JJ act_NN ._SENT He_PP 's_VBZ a_DT real_JJ 
+find_VV and_CC no_DT doubt_NN that_WDT 's_VBZ a_DT fact_NN ._SENT He_PP 'll_MD entertain_VV you_PP ,_, he_PP 'll_MD make_VV you_PP 
+stare_NN ,_, and_CC our_PP$ great_JJ new_JJ act_NN is_VBZ seated_VVN over_RP there_RB !_SENT 
+(_( The_DT spotlight_NN falls_VVZ on_IN the_DT Doctor_NP ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, thank_VV you_PP ,_, but_RB 
+RINGMASTER_NN :_: Come_VV on_IN ,_, Doctor_NP ._SENT Do_VV n't_RB be_VB shy_JJ ._SENT 
+DOCTOR_NN :_: Well_RB ,_, I_PP 'm_VBP not_RB really_RB sure_JJ that_IN/that I_PP should_MD ._SENT 
+RINGMASTER_NN :_: Oh_UH ,_, no_DT false_JJ modesty_NN ._SENT We_PP know_VVP you_PP 're_VBP good_JJ ._SENT 
+DOCTOR_NN :_: Well_RB ,_, this_DT is_VBZ most_RBS unexpected_JJ ._SENT Are_VBP you_PP sure_JJ you_PP want_VVP me_PP ?_SENT 
+RINGMASTER_NN :_: There_EX 's_VBZ no_DT mistake_NN ,_, Doc_NP ._SENT Come_VVN on_IN in_IN ._SENT Feel_VV free_JJ ._SENT 
+ACE_NN :_: Do_VVP n't_RB go_VV ,_, Professor_NP ._SENT 
+DOCTOR_NN :_: Why_WRB ,_, what_WP harm_VVP could_MD it_PP do_VV ?_SENT 
+RINGMASTER_NN :_: Exactly_RB ._SENT But_CC the_DT decision_NN 's_VBZ up_RB to_TO you_PP ._SENT 
+(_( Wearing_VVG a_DT big_JJ grin_NN ,_, the_DT Doctor_NP pushes_VVZ past_JJ Ace_NP and_CC hurries_VVZ down_RP the_DT 
+ring_NN ,_, to_TO canned_JJ applause_NN ._SENT )_) 
+ACE_NN :_: No_UH ,_, Doctor_NP !_SENT 
+(_( The_DT Doctor_NP has_VHZ barely_RB got_VVN into_IN the_DT ring_NN when_WRB the_DT clowns_NNS start_VVP throwing_VVG 
+their_PP$ clubs_NNS past_IN him_PP ,_, front_NN and_CC back_RB ._SENT )_) 
+DOCTOR_NN :_: Well_RB ,_, you_PP certainly_RB did_VVD n't_RB waste_VV any_DT time_NN ._SENT I_PP had_VHD expected_VVN to_TO 
+see_VV what_WP the_DT opposition_NN was_VBD up_RB to_TO before_IN I_PP put_VVP myself_PP forward_RB for_IN the_DT 
+talent_NN contest_NN ._SENT 
+(_( Ace_NP tries_VVZ to_TO run_VV out_RP of_IN the_DT Big_NP Top_NP but_CC is_VBZ surrounded_VVN by_IN clowns_NNS behind_RB 
+the_DT seating_NN where_WRB the_DT Doctor_NP cannot_MD see_VV ._SENT )_) 
+DOCTOR_NN :_: But_CC since_IN you_PP insist_VVP ._SENT 
+RINGMASTER_NN :_: Oh_UH ,_, we_PP do_VVP ,_, but_CC no_DT doubt_NN you_PP 'd_MD like_VV to_TO get_VV yourself_PP prepared_VVN 
+first_JJ ._SENT 
+DOCTOR_NN :_: Well_UH ,_, yes_UH ,_, I_PP 
+RINGMASTER_NN :_: Let_VV me_PP show_VV you_PP and_CC your_PP$ charming_JJ assistant_NN to_TO your_PP$ 
+dressing_VVG room_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, thank_VV you_PP very_RB much_RB ._SENT Ace_NN !_SENT 
+CLOWN_NN :_: Where_WRB did_VVD you_PP find_VVP that_DT earring_NN ?_SENT 
+ACE_NN :_: Are_VBP you_PP a_DT robot_NN too_RB ?_SENT 
+CLOWN_NN :_: No._NN 
+ACE_NN :_: Pity_NN ._SENT 
+CLOWN_NN :_: So_RB tell_VV me_PP where_WRB you_PP found_VVD it_PP ._SENT 
+(_( Ace_NP gets_VVZ away_RB ._SENT )_) 
+CLOWN_NN :_: After_IN her_PP ._SENT 
+[_SYM Backstage_NP ]_SYM 
+RINGMASTER_NN :_: Right_RB this_DT way_NN ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Thank_VV you_PP very_RB much_JJ ,_, but_CC where_WRB 's_VBZ Ace_NP ?_SENT I_PP do_VVP n't_RB think_VV she_PP 
+RINGMASTER_NN :_: Oh_UH ,_, she_PP 'll_MD be_VB coming_VVG ._SENT 
+CAPTAIN_NN [_SYM OC_NP ]_SYM :_: Iniphitus_NN ,_, where_WRB the_DT Galvanic_JJ Catastrophods_NNS are_VBP not_RB what_WP 
+they_PP were_VBD ._SENT 
+(_( The_DT Doctor_NP looks_VVZ through_IN to_TO where_WRB the_DT Captain_NP is_VBZ drinking_VVG tea_NN and_CC 
+talking_VVG at_IN a_DT bored_JJ Nord_NP while_IN Mags_NP is_VBZ staring_VVG at_IN nothing_NN ._SENT )_) 
+CAPTAIN_NN :_: No_UH ,_, but_CC they_PP 're_VBP still_RB worth_JJ a_DT look_NN if_IN you_PP 're_VBP doing_VVG a_DT tour_NN of_IN 
+the_DT southern_JJ nebula_NN and_CC have_VH an_DT eon_NN or_CC two_CD to_TO spare_VV ._SENT You_PP ._SENT Well_UH ,_, well_UH ._SENT 
+DOCTOR_NN :_: Captain_NP Cook_NP ,_, I_PP presume_VVP ._SENT So_RB you_PP had_VHD arrived_VVN after_IN all_DT ._SENT 
+CAPTAIN_NN :_: But_CC of_IN course_NN ._SENT Come_VV and_CC join_VV us_PP ,_, Doctor_NP ._SENT It_PP 's_VBZ one_CD big_JJ happy_JJ 
+family_NN here_RB ,_, eh_NP ,_, Nord_NP ?_SENT 
+NORD_NP :_: Except_IN when_WRB you_PP 're_VBP gassing_VVG on_IN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, I_PP do_VVP n't_RB really_RB think_VV I_PP 
+CAPTAIN_NN :_: Nonsense_NN ,_, we_PP 're_VBP having_VHG a_DT ball_NN here_RB ._SENT 
+DOCTOR_NN :_: Very_RB well_RB then_RB ._SENT Mags_NNS ._SENT Do_VV sit_VV down_RB ,_, Doctor_NP ._SENT 
+(_( Mags_NNS give_VVP up_RP her_PP$ seat_NN next_JJ to_TO the_DT Captain_NP and_CC pours_VVZ out_RP some_DT tea_NN ._SENT )_) 
+DOCTOR_NN :_: Thank_VV you_PP very_RB much_RB ._SENT 
+CAPTAIN_NN :_: Yes_UH ,_, there_RB we_PP are_VBP ._SENT Comfy_JJ ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+CAPTAIN_NN :_: That_WDT 's_VBZ the_DT spirit_NN ._SENT 
+(_( Bars_NNS slide_NN down_RB over_IN the_DT entrance_NN ,_, then_RB the_DT curtains_NNS are_VBP all_RB pulled_VVN 
+back_RB to_TO reveal_VV that_IN/that the_DT quartet_NN are_VBP actually_RB in_IN a_DT -_: )_) 
+[_SYM Cage_NP ]_SYM 
+CAPTAIN_NN :_: Anything_NN the_DT matter_NN ,_, old_JJ chap_NN ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT trap_NN !_SENT I_PP 've_VHP fallen_VVN into_IN a_DT trap_NN !_SENT I_PP 've_VHP fallen_VVN for_IN it_PP ._SENT 
+CAPTAIN_NN :_: Yes_UH ,_, I_PP know_VVP ,_, old_JJ boy_NN ._SENT Never_RB mind_NN ._SENT Have_VHP some_DT tea_NN ._SENT A_DT very_RB 
+similar_JJ thing_NN happened_VVD to_TO me_PP once_RB ,_, you_PP know_VVP ._SENT 
+(_( Ace_NP uses_VVZ the_DT pin_NN of_IN the_DT earring_NN to_TO slash_VV the_DT billowing_VVG fabric_NN of_IN the_DT 
+backstage_JJ corridors_NNS and_CC hide_VV from_IN the_DT pursuing_VVG clowns_NNS ._SENT )_) 
+DOCTOR_NN :_: Why_WRB ?_SENT 
+CAPTAIN_NN :_: Why_WRB what_WP ?_SENT 
+DOCTOR_NN :_: Why_WRB let_VV me_PP be_VB trapped_VVN ?_SENT It_PP 's_VBZ so_RB pointless_JJ ._SENT I_PP could_MD have_VH saved_VVN 
+you_PP ,_, Nord_NP and_CC Mags_NP ._SENT 
+CAPTAIN_NN :_: I_PP would_MD n't_RB be_VB too_RB sure_JJ about_RB that_IN/that ,_, Doctor_NP ._SENT These_DT circus_NN 
+chappies_NNS are_VBP pretty_RB smart_JJ customers_NNS for_IN all_PDT their_PP$ let_VV it_PP all_DT hang_VVP out_RP 
+mumbo_NN jumbo_NN ._SENT 
+MAGS_NNS :_: Maybe_RB we_PP could_MD have_VH escaped_VVN if_IN we_PP 'd_VHD made_VVN a_DT break_NN for_IN it_PP there_RB and_CC 
+then_RB ._SENT If_IN only_RB you_PP 'd_MD 
+CAPTAIN_NN :_: Now_RB ,_, now_RB ,_, Mags_NP ._SENT No_DT use_NN in_IN getting_VVG upset_JJ ,_, and_CC that_DT 's_VBZ an_DT order_NN ._SENT 
+DOCTOR_NN :_: What_WP about_IN you_PP ?_SENT I_PP mean_VVP ,_, why_WRB did_VVD n't_RB you_PP speak_VVP up_RP ?_SENT 
+(_( Nord_NP growls_VVZ ._SENT The_DT Doctor_NP growls_VVZ back_RB ._SENT )_) 
+DOCTOR_NN :_: What_WP kind_NN of_IN answer_NN 's_VBZ that_RB ?_SENT 
+CAPTAIN_NN :_: Save_VV your_PP$ energy_NN ,_, Doctor_NP ._SENT You_PP 'll_MD soon_RB see_VV why_WRB ._SENT Anyway_RB ,_, all_DT of_IN 
+us_PP in_RB here_RB have_VH developed_VVN a_DT survival_NN philosophy_NN ,_, which_WDT is_VBZ why_WRB we_PP 
+welcomed_VVD you_PP in_RP ._SENT 
+DOCTOR_NN :_: What_WP is_VBZ all_RB this_DT ,_, then_RB ?_SENT I_PP thought_VVD there_EX was_VBD a_DT talent_NN contest_NN 
+going_VVG on_IN ._SENT 
+CAPTAIN_NN :_: Well_UH ,_, yes_UH ,_, but_CC in_IN a_DT way_NN it_PP 's_VBZ more_JJR like_IN a_DT survival_NN of_IN the_DT 
+fittest_JJS ._SENT 
+(_( A_DT man_NN in_IN a_DT suede_NN jacket_NN pushes_VVZ a_DT broom_NN round_NN the_DT outside_NN of_IN the_DT cage_NN ._SENT )_) 
+
+CAPTAIN_NN :_: Oh_UH ,_, that_WDT 's_VBZ Deadbeat_JJ ._SENT Yes_UH ,_, he_PP does_VVZ odd_JJ jobs_NNS about_IN the_DT place_NN ,_, 
+makes_VVZ the_DT tea_NN for_IN me_PP ,_, things_NNS like_IN that_DT ._SENT Do_VVP n't_RB bother_VV too_RB much_RB about_RB 
+him_PP ,_, though_RB ._SENT Fellow_NN 's_POS mind_NN 's_VBZ completely_RB gone_VVN ._SENT 
+DEADBEAT_NN :_: Gone_VVN ._SENT Gone_VVN ._SENT Oh_UH really_RB gone_VVN ._SENT All_DT really_RB gone_VVN down_RP the_DT road_NN 
+again_RB ._SENT 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( Ace_NP sneaks_VVZ out_RP and_CC hides_NNS behind_IN the_DT kites_NNS while_NN 
+Morgana_NP lays_VVZ out_IN Tarot_NP cards_NNS ._SENT The_DT Ringmaster_NP comes_VVZ up_RP to_TO her_PP ._SENT )_) 
+RINGMASTER_NN :_: Well_UH ?_SENT 
+MORGANA_NN :_: We_PP have_VHP to_TO talk_VV ._SENT 
+[_SYM Cage_NP ]_SYM 
+(_( Nord_NP tries_VVZ to_TO grab_VV the_DT chuckling_VVG Deadbeat_NP ._SENT )_) 
+NORD_NP :_: Get_VV out_RP of_IN it_PP !_SENT I_PP hate_VVP your_PP$ sort_NN ,_, cos_NN I_PP 'm_VBP Nord_NP ,_, see_VVP ?_SENT The_DT toughest_JJS 
+infernal_JJ extraterrestrial_JJ there_EX is_VBZ ._SENT 
+DOCTOR_NN :_: What_WP a_DT fool_NN I_PP 've_VHP been_VBN ._SENT 
+CAPTAIN_NN :_: Frankly_RB ,_, old_JJ chap_NN ,_, I_PP have_VHP to_TO agree_VV ._SENT 
+DOCTOR_NN :_: I_PP should_MD have_VH listened_VVN to_TO Ace_NP ._SENT 
+CAPTAIN_NN :_: Number_NN one_CD rule_NN of_IN the_DT intergalactic_JJ explorer_NN ,_, Doctor_NP ._SENT If_IN you_PP 
+hear_VV somebody_NN talking_VVG about_IN good_JJ vibes_NN and_CC letting_VVG it_PP all_DT hang_VVP out_RP ,_, run_VV 
+a_DT mile_NN ._SENT 
+MAGS_NNS :_: We_PP did_VVD n't_RB ._SENT 
+CAPTAIN_NN :_: That_WDT 's_VBZ beside_RB the_DT point_NN ._SENT 
+DOCTOR_NN :_: What_WP happens_VVZ in_IN there_RB ?_SENT 
+CAPTAIN_NN :_: In_IN where_WRB ?_SENT 
+DOCTOR_NN :_: In_IN the_DT ring_NN ,_, during_IN the_DT talent_NN contest_NN ._SENT 
+CAPTAIN_NN :_: Something_NN pretty_RB nasty_JJ ._SENT 
+RINGMASTER_NN [_SYM OC_NP }_) :_: Next_JJ contestant_NN ready_RB ,_, please_UH ._SENT 
+CAPTAIN_NN :_: Oh_UH ,_, here_RB ,_, Nord_NP ._SENT 
+NORD_NP :_: What_WP ?_SENT 
+CAPTAIN_NN :_: Remember_VV our_PP$ agreement_NN ?_SENT 
+NORD_NP :_: Eh_NP ?_SENT Oh_UH ,_, yeah_RB ,_, course_NN ._SENT 
+CAPTAIN_NN :_: Well_RB ,_, heads_NNS ,_, heads_NNS or_CC tails_NNS ?_SENT 
+(_( The_DT Captain_NP holds_VVZ out_RP his_PP$ clenched_VVN fists_NNS to_TO Nord_NP ._SENT )_) 
+NORD_NP :_: Tails_NNS ._SENT 
+(_( The_DT Captain_NP slaps_VVZ a_DT coin_NN onto_IN his_PP$ left_JJ fist_NN ._SENT )_) 
+CAPTAIN_NN :_: Heads_VVZ ._SENT 
+NORD_NP :_: So_RB ?_SENT 
+CAPTAIN_NN :_: You_PP 're_VBP on_RB next_JJ ._SENT 
+(_( Nord_NP grabs_VVZ the_DT Captain_NP by_IN the_DT throat_NN ._SENT )_) 
+NORD_NP :_: I_PP ai_VVP n't_RB going_VVG on_IN next_JJ !_SENT 
+CAPTAIN_NN :_: But_CC we_PP all_RB agreed_VVD ,_, did_VVD n't_RB we_PP ,_, Mags_NP ?_SENT 
+(_( Mags_NP leaps_NNS on_IN Nord_NP 's_POS back_NN and_CC he_PP lets_VVZ go_VV of_IN the_DT Captain_NP ._SENT )_) 
+CAPTAIN_NN :_: Good_JJ girl_NN ._SENT 
+(_( The_DT clown_NN enters_VVZ ._SENT )_) 
+CAPTAIN_NN :_: He_PP 's_VBZ next_JJ ,_, I_PP believe_VVP ._SENT 
+CLOWN_NN :_: Get_VV him_PP ready_JJ ._SENT 
+(_( Two_CD robot_NN clowns_NNS fetch_VVP Nord_NP ._SENT )_) 
+DOCTOR_NN :_: You_PP were_VBD lucky_JJ ,_, Captain_NP ._SENT 
+CAPTAIN_NN :_: Not_RB really_RB ._SENT I_PP got_VVD a_DT whole_JJ set_NN of_IN these_DT silly_JJ little_JJ nick-nacks_NNS 
+from_IN some_DT bug-eyed_JJ monster_NN when_WRB I_PP was_VBD on_IN the_DT planet_NN Leophantos_NP ._SENT 
+(_( Two_CD heads_NNS on_IN one_CD and_CC two_CD tails_NNS on_IN the_DT other_JJ ._SENT )_) 
+CAPTAIN_NN :_: Like_IN I_PP said_VVD ,_, Doctor_NP ._SENT Every_DT man_NN for_IN himself_PP here_RB ._SENT 
+(_( The_DT clown_NN gives_VVZ the_DT Doctor_NP three_CD juggling_NN clubs_NNS before_IN he_PP leaves_VVZ with_IN 
+Nord_NP ._SENT )_) 
+DOCTOR_NN :_: What_WP am_VBP I_PP supposed_VVN to_TO do_VV with_IN these_DT ?_SENT 
+CAPTAIN_NN :_: Practise_VV juggling_VVG ,_, I_PP suppose_VVP ._SENT Your_PP$ chances_NNS of_IN survival_NN in_IN the_DT 
+ring_NN are_VBP better_JJR ,_, of_IN course_NN ,_, if_IN you_PP keep_VVP them_PP entertained_VVD ._SENT 
+DOCTOR_NN :_: Why_WRB ,_, do_VVP they_PP let_VV you_PP out_RP again_RB ?_SENT 
+CAPTAIN_NN :_: No_UH ,_, but_CC you_PP last_RB longer_RBR ._SENT 
+(_( The_DT Doctor_NP drops_VVZ the_DT clubs_NNS ._SENT )_) 
+[_SYM Outside_IN the_DT Circus_NP ]_SYM 
+(_( Whizzkid_NP pedals_VVZ up_RP to_TO the_DT stilt-walker_NN ._SENT )_) 
+WHIZZKID_NN :_: All_DT right_NN ?_SENT 
+(_( They_PP wave_VVP at_IN each_DT other_JJ ._SENT )_) 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( Ace_NN is_VBZ eavesdropping_VVG ._SENT )_) 
+MORGANA_NN :_: Just_RB think_VVP of_IN all_PDT those_DT tickets_NNS we_PP 've_VHP sold_VVN ._SENT Does_VVZ that_RB make_VV you_PP 
+feel_VV good_JJ ?_SENT It_PP was_VBD n't_RB always_RB like_IN this_DT ,_, was_VBD it_PP ._SENT Not_RB before_IN we_PP came_VVD to_TO 
+this_DT dreadful_JJ place_NN ._SENT We_PP used_VVD to_TO have_VH fun_NN ._SENT We_PP were_VBD free_JJ spirits_NNS then_RB ._SENT 
+RINGMASTER_NN :_: We_PP are_VBP now_RB ._SENT 
+MORGANA_NN :_: You_PP think_VVP so_RB ?_SENT It_PP feels_VVZ more_JJR like_IN we_PP 're_VBP part_NN of_IN a_DT machine_NN ._SENT 
+RINGMASTER_NN :_: Look_VV ,_, we_PP 're_VBP not_RB leaving_VVG ,_, if_IN that_WDT 's_VBZ what_WP you_PP mean_VVP ._SENT 
+MORGANA_NN :_: We_PP must_MD !_SENT 
+RINGMASTER_NN :_: You_PP keep_VVP saying_VVG that_IN/that ,_, but_CC you_PP have_VHP n't_RB gone_VVN ,_, have_VHP you_PP ?_SENT 
+MORGANA_NN :_: I_PP tried_VVD ,_, but_RB 
+RINGMASTER_NN :_: Listen_VV ,_, just_RB as_RB long_JJ as_IN they_PP keep_VVP on_IN coming_VVG ,_, and_CC they_PP will_MD ,_, 
+no_DT doubt_NN of_IN that_DT ,_, we_PP are_VBP a_DT success_NN ._SENT Do_VVP n't_RB you_PP understand_VVP ?_SENT An_DT 
+intergalactic_JJ success_NN ._SENT Now_RB ,_, the_DT others_NNS ,_, they_PP could_MD n't_RB take_VV the_DT pace_NN ,_, 
+that_DT 's_VBZ all_RB ._SENT Bellboy_NN ,_, Deadbeat_NP ,_, Flowerchild_NP ,_, the_DT rest_NN ._SENT Do_VVP n't_RB you_PP 
+understand_VV ?_SENT They_PP wanted_VVD to_TO live_VV in_IN the_DT past_NN ,_, the_DT old_JJ lazy_JJ way_NN ._SENT Not_RB us_PP ._SENT 
+We_PP 'll_MD make_VV the_DT Psychic_NP Circus_NP known_VVN everywhere_RB ._SENT 
+MORGANA_NP :_: Known_VVN for_IN what_WP ?_SENT 
+(_( The_DT clown_NN enters_VVZ ._SENT )_) 
+RINGMASTER_NN :_: Well_UH ?_SENT 
+CLOWN_NN :_: That_DT new_JJ pair_NN worry_VV me_PP ._SENT The_DT girl_NN that_WDT escaped_VVD had_VHD one_CD of_IN 
+Flowerchild_NP 's_POS earrings_NNS ._SENT 
+RINGMASTER_NN :_: Have_VHP they_PP found_VVD the_DT girl_NN ?_SENT 
+CLOWN_NN :_: Not_RB yet_RB ,_, but_CC she_PP ca_MD n't_RB have_VH gone_VVN far_RB ._SENT I_PP 'll_MD search_VV for_IN her_PP 
+myself_PP ._SENT 
+RINGMASTER_NN :_: Yeah_UH ,_, you_PP do_VVP that_RB ._SENT Make_VV sure_JJ you_PP find_VVP her_PP ._SENT 
+(_( The_DT Ringmaster_NP leaves_VVZ ._SENT )_) 
+MORGANA_NN :_: And_CC Bellboy_NP ?_SENT 
+CLOWN_NN :_: Let_VV 's_VBZ hope_VV he_PP 's_VHZ learned_VVN his_PP$ lesson_NN ,_, shall_MD we_PP ?_SENT We_PP 'd_MD better_RBR get_VV 
+him_PP back_RB to_TO work_VV ._SENT Bellboy_NN made_VVD them_PP all_DT ._SENT Bellboy_NN can_MD repair_VV them_PP ._SENT 
+MORGANA_NN :_: But_CC will_MD he_PP ever_RB be_VB able_JJ to_TO 
+(_( Ace_NP touches_VVZ a_DT kite_NN ,_, which_WDT starts_VVZ chiming_VVG ._SENT She_PP knocks_VVZ it_PP over_IN trying_VVG to_TO 
+shut_VV it_PP up_RP and_CC runs_NNS round_VVP the_DT ticket_NN office_NN with_IN the_DT clowns_NNS in_IN pursuit_NN ._SENT 
+Then_RB Whizzkid_NP comes_VVZ in_IN ._SENT )_) 
+WHIZZKID_NP :_: Hello_UH ._SENT This_DT is_VBZ the_DT Psychic_NP Circus_NP ,_, is_VBZ n't_RB it_PP ?_SENT 
+MORGANA_NP :_: Yes_UH ,_, that_WDT 's_VBZ right_JJ ._SENT 
+WHIZZKID_NP :_: Oh_UH great_JJ !_SENT I_PP 've_VHP come_VVN halfway_RB across_IN the_DT southern_JJ nebula_NN to_TO be_VB 
+here_RB ._SENT I_PP want_VVP to_TO enter_VV the_DT talent_NN contest_NN ._SENT I_PP know_VVP all_DT about_IN the_DT Psychic_NP 
+Circus_NP ,_, you_PP see_VVP ._SENT In_IN fact_NN ,_, I_PP 'm_VBP your_PP$ greatest_JJS fan_NN ._SENT 
+(_( Ace_NP runs_VVZ through_IN the_DT tented_VVN corridors_NNS until_IN she_PP enters_VVZ a_DT room_NN where_WRB 
+Bellboy_NN is_VBZ tied_VVN to_TO a_DT workbench_NN ._SENT )_) 
+[_SYM Cage_NP ]_SYM 
+(_( Nord_NP has_VHZ been_VBN dressed_VVN in_IN a_DT strongman_NN 's_POS leopard_NN 
+skin_NN costume_NN over_IN his_PP$ biker_NN leathers_NNS ._SENT )_) 
+NORD_NP :_: I_PP 'll_MD show_VV you_PP ._SENT Easy_JJ ._SENT Easy_JJ !_SENT 
+(_( The_DT clowns_NNS take_VV Nord_NP out_RP ._SENT )_) 
+DOCTOR_NN :_: It_PP frightens_VVZ you_PP ,_, does_VVZ n't_RB it_PP ,_, Mags_NP ?_SENT 
+MAGS_NNS :_: Oh_UH ,_, he_PP 'll_MD be_VB fine_JJ ._SENT Just_RB like_IN the_DT other_JJ one_CD was_VBD ._SENT 
+DOCTOR_NN :_: You_PP saw_VVD what_WP happened_VVD in_IN there_RB ?_SENT 
+MAGS_NNS :_: So_RB ?_SENT 
+DOCTOR_NN :_: Are_VBP n't_RB you_PP going_VVG to_TO tell_VV me_PP about_IN it_PP ?_SENT 
+MAGS_NNS :_: See_VV for_IN yourself_PP !_SENT 
+CAPTAIN_NN :_: Do_VVP n't_RB bother_VV Mags_NP ,_, Doctor_NP ,_, will_MD you_PP ?_SENT You_PP have_VHP to_TO be_VB careful_JJ 
+with_IN these_DT rare_JJ specimens_NNS ._SENT 
+DOCTOR_NN :_: What_WP do_VVP you_PP mean_VVP ?_SENT 
+CAPTAIN_NN :_: You_PP 'll_MD see_VV ._SENT 
+[_SYM Workshop_NP ]_SYM 
+ACE_NN :_: Look_VV ,_, I_PP 'm_VBP trying_VVG to_TO help_VV you_PP ,_, but_CC you_PP 're_VBP not_RB 
+making_VVG it_PP very_RB easy_JJ ._SENT Ca_MD n't_RB you_PP at_IN least_JJS tell_VV me_PP what_WP 
+(_( Heavy_JJ footsteps_NNS outside_JJ ._SENT )_) 
+ACE_NN :_: Great_JJ ._SENT Do_VVP n't_RB tell_VV them_PP ,_, will_MD you_PP ?_SENT 
+(_( Ace_NN hides_NNS behind_IN the_DT workbench_NN and_CC the_DT clown_NN enters_VVZ ._SENT Bellboy_NN recoils_VVZ 
+in_IN fear_NN ._SENT )_) 
+CLOWN_NN :_: Learnt_VVD your_PP$ lesson_NN ,_, eh_NP ,_, Bellboy_NP ?_SENT No_DT more_JJR running_VVG away_RB now_RB ._SENT Good_JJ ,_, 
+because_IN I_PP 've_VHP got_VVN some_DT important_JJ repair_NN work_NN for_IN you_PP to_TO do_VV ._SENT The_DT 
+Conductor_NN 's_VHZ been_VBN damaged_VVN ._SENT That_DT girl_NN must_MD be_VB somewhere_RB ._SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( Nord_NP enters_VVZ and_CC does_VVZ a_DT good_JJ snatch_VV and_CC grab_VV on_IN a_DT 
+barbell_NN ._SENT The_DT family_NN lift_NN score_NN cards_NNS -_: three_CD 9s_NNS ._SENT )_) 
+RINGMASTER_NN :_: A_DT man_NN of_IN might_NN is_VBZ Nord_NP ._SENT And_CC now_RB he_PP 'll_MD go_VV for_IN broke_VVD by_IN 
+making_VVG all_DT you_PP laugh_VVP with_IN his_PP$ most_RBS favourite_JJ joke_NN ._SENT 
+NORD_NP :_: Eh_NP ?_SENT What_WP ,_, do_VVP a_DT gag_NN ?_SENT Like_IN a_DT joke_NN ?_SENT Yeah_UH ,_, well_UH ,_, I_PP 'm_VBP coming_VVG down_RP like_IN 
+on_IN the_DT Psychic_JJ Circus_NP tonight_NN on_IN the_DT way_NN 
+(_( The_DT scorecards_NNS are_VBP three_CD zeros_NNS and_CC the_DT canned_JJ crowd_NN boos_VVZ ._SENT )_) 
+[_SYM Cage_NP ]_SYM 
+(_( The_DT zapping_VVG noise_NN can_MD be_VB heard_VVN and_CC the_DT strobing_NN 
+lights_NNS seen_VVN ._SENT )_) 
+DOCTOR_NN :_: Is_VBZ this_DT what_WP you_PP saw_VVD before_RB ?_SENT 
+MAGS_NNS :_: Not_RB exactly_RB ,_, but_CC just_RB as_RB bad_JJ ._SENT 
+(_( There_EX is_VBZ a_DT peal_NN of_IN thunder_NN then_RB a_DT big_JJ flash_NN ,_, and_CC smoke_NN ._SENT The_DT Ringmaster_NP 
+picks_VVZ up_RP a_DT piece_NN of_IN charred_VVN leather_NN from_IN the_DT middle_NN of_IN the_DT ring_VVP to_TO 
+canned_JJ applause_NN ._SENT )_) 
+DOCTOR_NN :_: Would_MD you_PP let_VV something_NN like_IN that_WDT happen_VVP to_TO you_PP ?_SENT 
+MAGS_NNS :_: Would_MD you_PP ?_SENT 
+[_SYM Ticket_JJ office_NN ]_SYM 
+WHIZZKID_NN :_: It_PP must_MD be_VB awfully_RB exciting_JJ working_VVG for_IN 
+the_DT Psychic_NP Circus_NP ,_, Morgana_NP ._SENT Particularly_RB when_WRB you_PP did_VVD your_PP$ tour_NN of_IN the_DT 
+Boreatic_NP Wastes_NP ._SENT I_PP think_VVP that_IN/that most_JJS of_IN your_PP$ admirers_NNS would_MD agree_VV with_IN me_PP 
+that_DT that_WDT was_VBD one_CD of_IN your_PP$ finest_JJS ever_RB gigs_NNS ._SENT Well_RB ,_, in_IN so_RB far_RB as_IN you_PP can_MD 
+tell_VV from_IN the_DT posters_NNS 
+MORGANA_NN :_: Would_MD you_PP like_VV to_TO be_VB getting_VVG along_RP inside_RB ?_SENT 
+WHIZZKID_NN :_: You_PP mean_VVP I_PP can_MD go_VV in_IN ,_, just_RB like_IN that_DT ?_SENT 
+MORGANA_NP :_: Yes_UH ._SENT Go_VV right_RB now_RB ,_, please_UH ._SENT 
+WHIZZKID_NP :_: Oh_UH wow_NN !_SENT 
+[_SYM Cage_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ practising_VVG his_PP$ juggling_NN with_IN Mags_NP ._SENT )_) 
+
+CAPTAIN_NN :_: Mags_NNS ._SENT 
+MAGS_NNS :_: What_WP ?_SENT 
+CAPTAIN_NN :_: It_PP 's_VBZ not_RB going_VVG to_TO work_VV ._SENT I_PP remember_VVP when_WRB I_PP was_VBD on_IN the_DT baleful_JJ 
+plains_NNS of_IN Grolon_NP ,_, I_NP 
+MAGS_NNS :_: I_PP do_VVP n't_RB care_VV ._SENT 
+DOCTOR_NN :_: Ready_JJ ?_SENT 
+(_( Mags_NP and_CC the_DT Doctor_NP go_VV to_TO the_DT cage_NN door_NN ,_, where_WRB a_DT pair_NN robot_NN clowns_NNS 
+stand_NN guard_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP believe_VVP I_PP 'm_VBP on_RB first_JJ ._SENT 
+MAGS_NNS :_: No_RB ,_, I_PP 'm_VBP ahead_RB of_IN you_PP ._SENT 
+DOCTOR_NN :_: No_UH ,_, you_PP 're_VBP not_RB ._SENT 
+MAGS_NNS :_: No_RB ,_, I_PP am_VBP ._SENT 
+DOCTOR_NN :_: I_PP insist_VVP on_IN going_VVG out_RP first_JJ ._SENT 
+MAGS_NNS :_: Oh_UH no_UH ,_, you_PP do_VVP n't_RB ._SENT 
+DOCTOR_NN :_: Oh_UH yes_UH ,_, I_PP do_VVP !_SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( The_DT Ringmaster_NP enters_VVZ ._SENT )_) 
+RINGMASTER_NN :_: Now_RB listen_VVP folks_NNS ,_, we_PP have_VHP a_DT great_JJ new_JJ act_NN ._SENT He_PP 's_VBZ a_DT real_JJ 
+find_VV ,_, there_EX 's_VBZ no_DT doubt_NN that_WDT 's_VBZ a_DT fact_NN ._SENT He_PP 'll_MD entertain_VV you_PP ,_, he_PP 'll_MD make_VV 
+you_PP stare_VVP ,_, and_CC our_PP$ great_JJ new_JJ act_NN is_VBZ seated_VVN over_RP there_RB !_SENT 
+(_( The_DT spotlight_NN finds_VVZ Whizzkid_NP ._SENT )_) 
+MUM_NN :_: I_PP hope_VVP he_PP 's_VBZ better_JJR than_IN the_DT last_JJ one_CD ._SENT 
+DAD_NN :_: Could_MD n't_RB be_VB much_RB worse_JJR ._SENT 
+GIRL_NN :_: Mum_NP ,_, Mum_NP ._SENT 
+MUM_NN :_: Shut_VVN up_RP and_CC eat_VV your_PP$ popcorn_NN ._SENT 
+[_SYM Cage_NP ]_SYM 
+DOCTOR_NN :_: Look_VV ,_, I_PP insist_VVP in_IN going_VVG on_IN first_JJ ._SENT 
+MAGS_NNS :_: I_PP told_VVD you_PP ,_, I_PP am_VBP ._SENT 
+DOCTOR_NN :_: I_PP am_VBP !_SENT 
+(_( The_DT clowns_NNS come_VVP over_IN and_CC the_DT door_NN slides_VVZ up_RP ._SENT The_DT Doctor_NP and_CC Mags_NP knock_NN 
+them_PP out_RB with_IN the_DT clubs_NNS ._SENT )_) 
+DOCTOR_NN :_: Join_VV the_DT club_NN ._SENT Captain_NN ?_SENT 
+CAPTAIN_NN :_: No_DT thanks_NNS ,_, old_JJ boy_NN ._SENT I_PP 'll_MD sit_VV this_DT one_CD out_RB ._SENT Goodbye_NN ,_, Mags_NP ._SENT 
+MAGS_NNS :_: Bye_NP ,_, Captain_NP ._SENT 
+[_SYM Outside_IN the_DT workshop_NN ]_SYM 
+CLOWN_NN :_: That_WDT 'll_MD do_VV ._SENT Take_VV it_PP back_RB to_TO the_DT bus_NN ._SENT 
+(_( Ace_NP watches_VVZ them_PP leave_VV ._SENT Deadbeat_NN comes_VVZ up_RP behind_IN her_PP and_CC wo_MD n't_RB let_VV her_PP 
+past_JJ ._SENT Then_RB the_DT clown_NN grabs_VVZ her_PP ._SENT )_) 
+CLOWN_NN :_: Let_VV me_PP entertain_VV you_PP ._SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+WHIZZKID_NP :_: Well_UH ,_, I_PP have_VHP to_TO say_VV it_PP 's_VBZ a_DT real_JJ thrill_NN 
+for_IN me_PP to_TO be_VB here_RB at_IN the_DT Psychic_NP Circus_NP ._SENT I_PP 've_VHP collected_VVN all_PDT your_PP$ 
+posters_NNS ,_, you_PP know_VVP ._SENT 
+[_SYM Cage_NP ]_SYM 
+RINGMASTER_NN :_: Have_VHP you_PP now_RB ?_SENT 
+WHIZZKID_NN :_: From_IN all_PDT your_PP$ venues_NNS ._SENT And_CC also_RB I_PP 've_VHP got_VVN some_DT very_RB interesting_JJ 
+
+(_( They_PP see_VVP the_DT clowns_NNS lying_VVG on_IN the_DT floor_NN ._SENT The_DT Captain_NP smiles_VVZ at_IN the_DT 
+Ringmaster_NN ._SENT )_) 
+[_SYM Backstage_NP ]_SYM 
+RINGMASTER_NN [_SYM OC_NP ]_SYM :_: Oh_UH Doctor_NP ,_, oh_UH Doctor_NP ,_, have_VHP no_RB 
+fear_NN ._SENT Calling_VVG the_DT Doctor_NP ._SENT There_EX 's_VBZ no_DT escape_NN ._SENT Repeat_NN ,_, there_EX is_VBZ no_RB 
+escape_NN ._SENT 
+MAGS_NNS :_: Wo_MD n't_RB they_PP take_VVP no_RB for_IN an_DT answer_NN ?_SENT 
+DOCTOR_NN :_: No._NN Oh_UH ,_, we_PP should_MD have_VH made_VVN straight_RB away_RB for_IN the_DT open_JJ air_NN ,_, I_PP 
+suppose_VVP ._SENT 
+MAGS_NNS :_: Look_VV ._SENT 
+(_( They_PP are_VBP by_IN a_DT large_JJ stone_NN structure_NN ._SENT )_) 
+DOCTOR_NN :_: How_WRB extraordinary_JJ ._SENT They_PP 're_VBP just_RB like_IN the_DT stones_NNS in_IN the_DT Big_NP Top_NP ._SENT 
+Fascinating_JJ ._SENT I_PP wonder_VVP how_WRB long_JJ they_PP 've_VHP been_VBN here_RB ?_SENT 
+MAGS_NNS :_: Maybe_RB they_PP were_VBD always_RB here_RB ._SENT 
+DOCTOR_NN :_: That_DT thought_NN had_VHD occurred_VVN to_TO me_PP ._SENT Let_VV 's_VBZ investigate_VV ._SENT 
+MAGS_NNS :_: Oh_UH !_SENT Can_MD you_PP see_VV it_PP ?_SENT 
+DOCTOR_NN :_: See_VV what_WP ?_SENT 
+MAGS_NNS :_: That_DT moon_NN sign_NN ._SENT 
+(_( Mags_NP turns_VVZ away_RB from_IN the_DT twin_JJ crescents_NNS in_IN the_DT stone_NN lintel_NN ._SENT )_) 
+DOCTOR_NN :_: The_DT moon_NN ?_SENT Why_WRB does_VVZ it_PP frighten_VV you_PP ?_SENT Tell_VV me_PP ._SENT 
+MAGS_NNS :_: Do_VVP n't_RB ask_VV ._SENT Just_RB lets_VVZ get_VV out_RP of_IN here_RB ._SENT 
+[_SYM Workshop_NP ]_SYM 
+(_( The_DT clown_NN manhandles_VVZ Ace_NP inside_IN a_DT sturdy_JJ trailer_NN 
+with_IN Psychic_NP Circus_NP etched_VVD into_IN the_DT glass_NN in_IN the_DT door_NN ._SENT )_) 
+ACE_NN :_: Pasty_JJ face_NN ._SENT 
+CLOWN_NN :_: Do_VVP n't_RB like_VV clowns_NNS ,_, eh_NP ?_SENT After_IN some_DT time_NN in_IN here_RB ,_, you_PP 'll_MD tell_VV me_PP 
+what_WP I_PP want_VVP to_TO know_VV ._SENT 
+(_( The_DT clown_NN leaves_VVZ ,_, locking_VVG the_DT door_NN ._SENT Ace_NP is_VBZ trapped_VVN with_IN a_DT load_NN of_IN 
+apparently_RB deactivated_VVN robot_NN clowns_NNS ._SENT )_) 
+ACE_NN :_: Is_VBZ any_DT one_CD there_RB ?_SENT Come_VVN on_IN ,_, you_PP do_VVP n't_RB scare_VV me_PP ._SENT 
+(_( A_DT hand_NN grabs_NNS at_IN her_PP$ arm_NN ._SENT She_PP gets_VVZ away_RB from_IN it_PP ,_, but_CC behind_IN her_PP$ back_NN 
+another_DT robot_NN starts_VVZ to_TO move_VV ._SENT )_) 
+[_SYM Stone_NP chamber_NN ]_SYM 
+MAGS_NNS :_: It_PP 's_VBZ weird_JJ ._SENT I_PP do_VVP n't_RB understand_VV ._SENT 
+(_( They_PP come_VVP to_TO the_DT edge_NN of_IN a_DT deep_JJ well_NN ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, nasty_JJ little_JJ booby_NN trap_NN ,_, that_RB ._SENT That_DT is_VBZ ,_, if_IN it_PP is_VBZ a_DT booby_NN 
+trap_NN ._SENT Still_RB ,_, there_EX 's_VBZ certainly_RB no_DT way_NN forward_RB ._SENT 
+MAGS_NNS :_: Is_VBZ it_PP a_DT well_RB ?_SENT 
+DOCTOR_NN :_: One_CD way_NN to_TO find_VV out_RP ._SENT 
+(_( He_PP drops_VVZ the_DT club_NN he_PP is_VBZ carrying_VVG into_IN the_DT pit_NN ._SENT It_PP swirls_VVZ downwards_RB 
+then_RB a_DT bright_JJ eye_NN appears_VVZ at_IN the_DT bottom_NN ._SENT )_) 
+DOCTOR_NN :_: That_DT eye_NN ,_, I_PP 've_VHP seen_VVN it_PP before_IN ._SENT Of_IN course_NN ,_, it_PP was_VBD on_IN the_DT kites_NNS 
+at_IN the_DT entrance_NN hall_NN ._SENT Fascinating_JJ ._SENT Somehow_RB ,_, somewhere_RB down_RB there_EX is_VBZ the_DT 
+answer_NN to_TO all_DT that_WDT 's_VBZ going_VVG on_IN at_IN the_DT Psychic_NP Circus_NP ._SENT 
+(_( Captain_NP Cook_NP appears_VVZ behind_IN the_DT Doctor_NP and_CC Mags_NP with_IN a_DT phalanx_NN of_IN 
+robot_NN clowns_NNS ._SENT )_) 
+CAPTAIN_NN :_: Ahem_NP ._SENT Awfully_RB sorry_JJ to_TO butt_VV in_IN like_IN this_DT ,_, old_JJ boy_NN ,_, but_CC I_PP 'm_VBP 
+afraid_JJ you_PP 're_VBP wanted_VVN ._SENT You_PP 're_VBP the_DT next_JJ one_CD due_NN on_IN in_IN the_DT ring_NN ._SENT 
+Part_NP Three_NP 
+
+[_SYM Stone_NP chamber_NN ]_SYM 
+MAGS_NNS :_: Why_WRB did_VVD you_PP bring_VVP them_PP here_RB ?_SENT 
+CAPTAIN_NN :_: Survival_NN of_IN the_DT fittest_JJS ,_, old_JJ girl_NN ._SENT Do_VVP n't_RB tell_VV me_PP you_PP never_RB 
+came_VVD across_RP that_IN/that on_IN the_DT planet_NN Vulpana_NP ?_SENT 
+DOCTOR_NN :_: But_CC we_PP were_VBD on_IN the_DT edge_NN of_IN discovering_VVG the_DT secret_NN of_IN the_DT 
+Psychic_JJ Circus_NP ._SENT Does_VVZ n't_RB that_WDT interest_NN you_PP at_IN all_DT ?_SENT 
+CAPTAIN_NN :_: Frankly_RB ,_, no_UH ,_, old_JJ chap_NN ._SENT Anyway_RB ,_, what_WP 's_VBZ going_VVG on_IN seems_VVZ pretty_RB 
+clear_JJ to_TO me_PP ._SENT Anybody_NN dumb_JJ enough_RB to_TO get_VV into_IN the_DT ring_NN gets_VVZ killed_VVN ._SENT 
+[_SYM Workshop_NP ]_SYM 
+(_( Two_CD robots_NNS are_VBP slowly_RB advancing_VVG on_IN Ace_NP as_IN she_PP 
+struggles_NNS with_IN the_DT door_NN knob_NN ._SENT )_) 
+ACE_NN :_: Just_RB because_IN I_PP said_VVD I_PP do_VVP n't_RB like_VV them_PP ,_, does_VVZ n't_RB mean_VV I_PP 'm_VBP scared_VVN of_IN 
+clowns_NNS ,_, okay_JJ ?_SENT Got_VVD that_IN/that ,_, tinhead_NN ?_SENT I_PP said_VVD ,_, got_VVD that_IN/that ,_, tinhead_NN ?_SENT 
+(_( Ace_NP backs_VVZ up_RP against_IN the_DT far_JJ wall_NN ,_, then_RB grabs_NNS at_IN one_CD robots_NNS hand_NN ._SENT The_DT 
+whole_JJ arm_NN comes_VVZ off_RP ._SENT She_PP 's_VBZ just_RB about_RB to_TO use_VV it_PP as_IN a_DT club_NN when_WRB the_DT 
+robots_NNS stagger_VVP and_CC stop_VVP ._SENT She_PP pushes_VVZ one_PP over_RP ._SENT Bellboy_NN is_VBZ cowering_VVG in_IN a_DT 
+corner_NN ._SENT )_) 
+BELLBOY_NN :_: Oh_UH ,_, I_PP 'm_VBP sorry_JJ ._SENT That_DT should_MD n't_RB have_VH happened_VVN ._SENT I_PP must_MD have_VH 
+fallen_VVN asleep_RB ._SENT 
+ACE_NN :_: We_PP 've_VHP met_VVN before_RB ._SENT Do_VVP n't_RB you_PP remember_VVP me_PP ?_SENT 
+[_SYM Outside_IN the_DT stone_JJ chamber_NN ]_SYM 
+(_( The_DT Doctor_NP and_CC Mags_NP are_VBP escorted_VVN out_RP ._SENT Mags_NP turns_VVZ 
+to_TO see_VV that_IN/that the_DT stone_NN over_IN the_DT moon_NN symbol_NN has_VHZ moved_VVN ,_, and_CC now_RB the_DT 
+crescent_NN is_VBZ nearly_RB full_JJ ._SENT Mags_NP snarls_NNS ._SENT The_DT clowns_VVZ all_RB turn_VV their_PP$ 
+attention_NN to_TO her_PP ._SENT )_) 
+CAPTAIN_NN :_: Mags_NP ,_, now_RB please_VV ._SENT Not_RB now_RB ._SENT Not_RB yet_RB !_SENT 
+(_( The_DT Doctor_NP takes_VVZ the_DT opportunity_NN to_TO run_VV ._SENT )_) 
+[_SYM Big_NP Top_NP ]_SYM 
+MUM_NN :_: I_PP do_VVP n't_RB think_VV much_RB of_IN this_DT ,_, Father_NP ._SENT 
+DAD_NN :_: Nothing_NN 's_VBZ happening_VVG ,_, is_VBZ it_PP ._SENT 
+MUM_NN :_: Not_RB that_IN/that I_PP can_MD see_VV ._SENT 
+GIRL_NN :_: Mum_NP ,_, Mum_NP !_SENT 
+MUM_NN :_: What_WP is_VBZ it_PP ?_SENT 
+GIRL_NN :_: I_PP 'm_VBP bored_VVN ._SENT 
+DAD_NN :_: There_EX 's_VBZ no_DT point_NN in_IN going_VVG on_RP ,_, dear_RB ._SENT We_PP 're_VBP all_RB bored_VVN ._SENT Something_NN has_VHZ 
+to_TO happen_VV soon_RB ._SENT 
+[_SYM Backstage_NP ]_SYM 
+(_( The_DT Captain_NP and_CC Mags_NP are_VBP under_IN escort_NN ._SENT )_) 
+CAPTAIN_NN :_: After_IN all_DT I_PP 've_VHP done_VVN for_IN you_PP ,_, the_DT Doctor_NP gets_VVZ away_RB and_CC you_PP and_CC 
+I_PP are_VBP going_VVG back_RB to_TO the_DT guardroom_NN ._SENT 
+MAGS_NNS :_: You_PP were_VBD lucky_JJ ._SENT 
+CAPTAIN_NN :_: Yes_UH ,_, I_PP suppose_VVP you_PP 're_VBP right_JJ ._SENT I_PP 'm_VBP still_RB in_IN one_CD piece_NN ._SENT You_PP would_MD 
+have_VHP given_VVN us_PP the_DT full_JJ works_NNS ._SENT Still_RB ,_, the_DT old_JJ team_NN of_IN Mags_NP and_CC the_DT 
+Captain_NN stuck_VVD together_RB as_RB usual_JJ ._SENT As_IN a_DT matter_NN of_IN fact_NN ,_, it_PP reminded_VVD me_PP of_IN 
+that_DT time_NN of_IN Fagiros_NP ,_, when_WRB the_DT Architrave_NP of_IN Batgeld_NP was_VBD showing_VVG me_PP his_PP$ 
+early_JJ collection_NN of_IN Ganglion_NP pottery_NN 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( The_DT Doctor_NP takes_VVZ another_DT look_NN at_IN the_DT kites_NNS with_IN 
+their_PP$ eye_NN marking_NN ._SENT )_) 
+DOCTOR_NN :_: Of_IN course_NN ,_, of_IN course_NN ._SENT 
+(_( He_PP steps_VVZ inside_IN the_DT little_JJ caravan_NN cum_IN ticket_NN office_NN and_CC gazed_VVD into_IN 
+Morgana_NP 's_POS crystal_NN ball_NN ._SENT It_PP turns_VVZ red_JJ and_CC that_IN/that same_JJ eye_NN stares_NNS back_RB at_IN 
+him_PP ._SENT )_) 
+DOCTOR_NN :_: Things_NNS are_VBP beginning_VVG to_TO get_VV out_RP of_IN control_NN quicker_RBR than_IN I_PP 
+expected_VVN ._SENT 
+(_( He_PP hides_VVZ under_IN the_DT counter_NN as_IN Deadbeat_NP comes_VVZ out_RP of_IN the_DT Big_NP Top_NP ._SENT He_PP 
+goes_VVZ to_TO the_DT crystal_NN ball_NN ,_, clutching_VVG a_DT large_JJ pendant_NN with_IN the_DT same_JJ eye_NN 
+design_NN ._SENT )_) 
+DEADBEAT_NN :_: No_UH ,_, no._NP 
+(_( And_CC runs_VVZ away_RB again_RB ._SENT The_DT Doctor_NP moves_VVZ to_TO follow_VV him_PP ,_, pausing_VVG at_IN a_DT 
+poster_NN ._SENT )_) 
+DOCTOR_NN :_: Fun_NN for_IN all_PDT the_DT family_NN ?_SENT I_PP do_VVP n't_RB know_VV how_WRB they_PP 've_VHP got_VVN the_DT nerve_NN ._SENT 
+
+[_SYM Workshop_NP ]_SYM 
+(_( Bellboy_NN takes_VVZ Flowerchild_NP 's_POS earring_NN from_IN Ace_NP ._SENT )_) 
+BELLBOY_NN :_: Oh_UH ,_, my_PP$ Flowerchild_NN ._SENT They_PP murdered_VVD you_PP with_IN a_DT robot_NN I_PP made_VVD ._SENT 
+ACE_NN :_: You_PP 're_VBP sure_JJ that_WDT 's_VBZ what_WP happened_VVD ?_SENT 
+BELLBOY_NN :_: There_EX can_MD be_VB no_DT doubt_NN ._SENT Every_DT robot_NN ,_, every_DT clown_NN in_IN the_DT circus_NN 
+I_PP made_VVD and_CC maintained_VVD ,_, for_IN this_DT ._SENT And_CC even_RB now_RB they_PP wo_MD n't_RB let_VV me_PP die_VV ._SENT 
+They_PP need_VVP me_PP ._SENT 
+ACE_NN :_: You_PP mean_VVP you_PP 're_VBP the_DT only_JJ one_CD who_WP knows_VVZ how_WRB ?_SENT 
+BELLBOY_NN :_: Each_DT of_IN us_PP ,_, each_DT of_IN us_PP in_IN the_DT circus_NN ,_, we_PP all_RB had_VHD one_CD circus_NN 
+skill_NN we_PP learned_VVD ,_, and_CC mine_PP was_VBD this_DT ._SENT 
+ACE_NN :_: This_DT control_NN unit_NN 's_POS brill_NN ._SENT 
+BELLBOY_NN :_: Have_VHP it_PP ._SENT 
+ACE_NN :_: Really_RB ?_SENT 
+BELLBOY_NN :_: Yes_UH ._SENT It_PP controls_VVZ that_IN/that ,_, and_CC the_DT full_JJ scale_NN version_NN I_PP made_VVD ._SENT 
+(_( A_DT model_NN of_IN the_DT robot_NN Ace_NP and_CC Mags_NP dug_VVD out_RP of_IN the_DT sand_NN ._SENT Ace_NP makes_VVZ it_PP 
+move_VV its_PP$ arm_NN ._SENT )_) 
+BELLBOY_NN :_: Careful_JJ ._SENT That_DT activates_VVZ the_DT laser_NN eyes_NNS ._SENT It_PP was_VBD to_TO have_VH been_VBN my_PP$ 
+masterpiece_NN ,_, but_CC like_IN everything_NN else_RB it_PP was_VBD ,_, it_PP was_VBD abused_VVN and_CC went_VVD 
+wrong_JJ ._SENT We_PP had_VHD such_JJ high_JJ ideals_NNS when_WRB we_PP started_VVD ._SENT We_PP shared_VVD everything_NN 
+and_CC we_PP enjoyed_VVD making_VVG people_NNS happy_JJ ._SENT If_IN we_PP had_VHD a_DT problem_NN we_PP 'd_MD all_RB just_RB 
+sit_VV round_NN and_CC talk_VV it_PP through_RP ._SENT Oh_UH ,_, we_PP were_VBD so_RB happy_JJ ._SENT At_IN least_JJS ,_, I_PP think_VVP 
+we_PP were_VBD ._SENT 
+[_SYM Backstage_NP ]_SYM 
+(_( Deadbeat_NN stops_NNS ._SENT )_) 
+DOCTOR_NN :_: Hello_UH ,_, Deadbeat_NP ._SENT Fancy_JJ meeting_NN you_PP here_RB ._SENT Small_JJ world_NN ,_, is_VBZ n't_RB it_PP ._SENT 
+It_PP frightened_VVD you_PP to_TO see_VV that_DT eye_NN ,_, did_VVD n't_RB it_PP ._SENT It_PP means_VVZ the_DT powers_NNS 
+behind_IN it_PP are_VBP on_IN the_DT move_NN again_RB ._SENT Something_NN happened_VVD to_TO you_PP here_RB ._SENT You_PP 
+have_VHP n't_RB always_RB been_VBN like_IN this_DT ._SENT Did_VVD you_PP try_VV and_CC find_VV something_NN out_RP ?_SENT Were_VBD 
+you_PP punished_VVD ?_SENT Can_MD you_PP understand_VV anything_NN I_PP 'm_VBP saying_VVG ?_SENT Well_RB ,_, there_EX 's_VBZ one_CD 
+thing_NN I_PP do_VVP know_VV ,_, Deadbeat_NP ._SENT You_PP 're_VBP not_RB going_VVG to_TO give_VV me_PP away_RP to_TO the_DT 
+others_NNS ._SENT Are_VBP you_PP ?_SENT 
+(_( Deadbeat_NN shakes_VVZ his_PP$ head_NN ._SENT )_) 
+DEADBEAT_NN :_: I_PP would_MD n't_RB ._SENT I_PP would_MD n't_RB ._SENT 
+DOCTOR_NN :_: Lead_VV on_IN ,_, Deadbeat_NP ._SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( The_DT family_NN have_VHP finished_VVN their_PP$ packets_NNS of_IN crisps_NNS 
+and_CC are_VBP now_RB holding_VVG chocolate_JJ ice_NN lollies_NNS ._SENT )_) 
+DAD_NN :_: You_PP know_VVP ,_, I_PP could_MD get_VV quite_RB cross_VV about_IN this_DT ._SENT 
+[_SYM Cage_NP ]_SYM 
+WHIZZKID_NP :_: Oh_UH wow_NN ,_, is_VBZ that_IN/that Captain_NP Cook_NP ,_, the_DT famous_JJ 
+intergalactic_JJ explorer_NN and_CC 
+CLOWN_NN :_: Quiet_JJ ._SENT Where_WRB 's_VBZ the_DT Doctor_NP ?_SENT 
+CAPTAIN_NN :_: He_PP gave_VVD us_PP the_DT slip_NN ._SENT 
+CLOWN_NN :_: He_PP did_VVD what_WP ?_SENT 
+CAPTAIN_NN :_: He_PP gave_VVD us_PP the_DT slip_NN ._SENT A_DT similar_JJ thing_NN happened_VVD to_TO me_PP in_IN the_DT Bay_NP 
+of_IN Paranoia_NP on_IN Golobus_NP ._SENT 
+CLOWN_NN :_: I_PP do_VVP n't_RB care_VV what_WP happened_VVD on_IN Golobus_NP ._SENT 
+CAPTAIN_NN :_: Your_PP$ loss_NN ,_, old_JJ boy_NN ._SENT Anyway_RB ,_, it_PP was_VBD all_DT her_PP$ fault_NN ._SENT 
+MAGS_NNS :_: Hang_VV on_IN a_DT minute_NN ._SENT 
+CAPTAIN_NN :_: I_PP imagine_VVP you_PP 'll_MD have_VH to_TO put_VV her_PP into_IN the_DT ring_NN next_JJ as_IN some_DT 
+sort_NN of_IN punishment_NN ._SENT 
+CLOWN_NN :_: No._NN 
+CAPTAIN_NN :_: Oh_UH ,_, found_VVD someone_NN else_RB ,_, have_VH you_PP ?_SENT 
+CLOWN_NN :_: Yes_UH ._SENT 
+CAPTAIN_NN :_: Really_RB ._SENT May_MD I_PP enquire_VV who_WP ?_SENT 
+CLOWN_NN :_: You_PP ._SENT 
+WHIZZKID_NN :_: Excuse_VV me_PP ,_, but_CC you_PP are_VBP Captain_NP Cook_NP the_DT famous_JJ intergalactic_JJ 
+explorer_NN ._SENT I_PP 've_VHP got_VVN maps_NNS at_IN home_NN showing_VVG all_PDT your_PP$ journeys_NNS and_CC a_DT piece_NN 
+of_IN one_CD of_IN your_PP$ old_JJ shoes_NNS I_PP bought_VVD in_IN a_DT souvenir_NN shop_NN 
+CAPTAIN_NN :_: Will_MD you_PP leave_VV me_PP alone_RB !_SENT 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( Morgana_NP is_VBZ staring_VVG into_IN her_PP$ crystal_NN ball_NN when_WRB the_DT 
+Ringmaster_NN enters_VVZ ._SENT )_) 
+RINGMASTER_NN :_: Hey_UH ,_, hey_UH ,_, Morgana_NP ,_, Morgana_NP ._SENT Hey_UH ,_, baby_NN ,_, you_PP were_VBD long_RB gone_VVN ._SENT 
+MORGANA_NN :_: Look_VV ._SENT It_PP 's_VBZ here_RB ,_, now_RB ._SENT 
+RINGMASTER_NN :_: What_WP do_VVP you_PP mean_VVP ?_SENT 
+MORGANA_NP :_: What_WP we_PP found_VVD ._SENT What_WP we_PP serve_VVP ._SENT It_PP 'll_MD always_RB be_VB here_RB now_RB ,_, 
+waiting_VVG for_IN us_PP to_TO 
+RINGMASTER_NN :_: Do_VVP n't_RB come_VV with_IN all_PDT that_DT now_RB ._SENT 
+MORGANA_NP :_: Do_VVP n't_RB pretend_VV you_PP do_VVP n't_RB see_VV it_PP !_SENT 
+RINGMASTER_NN :_: Look_VV ,_, I_PP 've_VHP got_VVN an_DT empty_JJ circus_NN tent_NN in_IN there_RB right_RB now_RB ._SENT I_PP 
+do_VVP n't_RB want_VV to_TO talk_VV about_IN anything_NN else_RB ._SENT 
+MORGANA_NP :_: Well_UH ,_, send_VV in_IN another_DT act_NN ._SENT 
+RINGMASTER_NN :_: I_PP will_MD ,_, baby_NN ,_, just_RB as_RB soon_RB as_IN I_PP can_MD ._SENT 
+(_( The_DT clown_NN enters_VVZ ._SENT )_) 
+CLOWN_NN :_: The_DT Doctor_NP 's_VBZ escaped_VVN ._SENT Your_PP$ idiot_NN of_IN a_DT Captain_NP failed_VVD us_PP ._SENT 
+RINGMASTER_NN :_: All_DT right_NN ,_, send_VV him_PP in_IN the_DT ring_NN ._SENT 
+CLOWN_NN :_: It_PP 's_VBZ arranged_VVN already_RB ,_, but_CC I_PP 'm_VBP more_RBR worried_VVN about_IN the_DT Doctor_NP ._SENT 
+He_PP 's_VBZ dangerous_JJ ._SENT 
+RINGMASTER_NN :_: Well_UH ,_, let_VV 's_VBZ go_VV find_VV him_PP ,_, then_RB ._SENT 
+CLOWN_NN :_: I_PP 'll_MD go_VV find_VV him_PP ._SENT You_PP get_VVP back_RB in_IN the_DT ring_NN ._SENT 
+RINGMASTER_NN :_: Hey_UH ,_, just_RB a_DT minute_NN ,_, man_UH 
+MORGANA_NN :_: Quiet_JJ ,_, both_CC of_IN you_PP !_SENT Look_VV ,_, it_PP 's_VBZ showing_VVG him_PP to_TO us_PP ._SENT 
+(_( The_DT crystal_NN ball_NN shows_VVZ the_DT Doctor_NP following_NN Deadbeat_NN through_IN the_DT 
+curtained_VVN backstage_JJ passageways_NNS ._SENT )_) 
+RINGMASTER_NN :_: But_CC he_PP 's_VBZ with_IN Deadbeat_NP ._SENT 
+CLOWN_NN :_: Then_RB he_PP must_MD be_VB stopped_VVN at_IN once_RB ._SENT 
+[_SYM Workshop_NP ]_SYM 
+BELLBOY_NN :_: Oh_UH ,_, the_DT kites_NNS she_PP made_VVD ,_, beautiful_JJ kites_NNS ,_, 
+every_DT colour_NN of_IN the_DT rainbow_NN ._SENT All_DT different_JJ shapes_NNS and_CC sizes_NNS ._SENT And_CC they_PP 
+use_VV them_PP to_TO watch_VV us_PP and_CC trap_VV us_PP and_CC keep_VV us_PP here_RB ._SENT So_RB they_PP destroyed_VVD 
+her_PP$ work_NN and_CC then_RB they_PP destroyed_VVD her_PP ._SENT 
+ACE_NN :_: It_PP 'll_MD be_VB all_DT right_NN ,_, Bellboy_NP ._SENT I_PP 'll_MD get_VV you_PP out_RP of_IN here_RB ._SENT 
+BELLBOY_NN :_: Why_WRB should_MD I_PP want_VV to_TO get_VV out_RP of_IN here_RB ?_SENT It_PP 's_VBZ gone_VVN ._SENT The_DT fun_NN ,_, 
+freedom_NN of_IN being_VBG what_WP you_PP want_VVP to_TO be_VB ,_, all_RB of_IN it_PP ._SENT Do_VVP n't_RB you_PP understand_VVP ?_SENT 
+ACE_NN :_: Yes_UH ._SENT Look_VV ,_, I_PP 'm_VBP sorry_JJ ._SENT We_PP ca_MD n't_RB stay_VV here_RB forever_RB ,_, can_MD we_PP ._SENT I_PP 've_VHP got_VVN 
+to_TO find_VV the_DT Doctor_NP for_IN a_DT start_NN ._SENT 
+BELLBOY_NN :_: They_PP took_VVD everything_NN that_WDT was_VBD bright_JJ and_CC good_JJ about_IN what_WP we_PP 
+had_VHD ,_, and_CC buried_VVD it_PP where_WRB it_PP will_MD never_RB be_VB found_VVN again_RB ._SENT 
+ACE_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT Who_WP 's_VBZ they_PP ?_SENT 
+BELLBOY_NN :_: The_DT ones_NNS who_WP run_VVP the_DT circus_NN ._SENT The_DT ones_NNS you_PP 've_VHP met_VVN ._SENT There_EX was_VBD n't_RB 
+just_RB them_PP ,_, there_EX was_VBD some_DT ._SENT There_EX was_VBD ._SENT 
+(_( Bellboy_NN pins_NNS Flowerchild_NP 's_POS earring_NN back_RB onto_IN Ace_NP 's_POS jacket_NN ._SENT )_) 
+BELLBOY_NN :_: Flowerchild_NN and_CC ,_, and_CC Peacepipe_NP ,_, and_CC Juniperberry_NP ,_, and_CC ,_, and_NP 
+Deadbeat_NN ._SENT No_UH ,_, he_PP was_VBD n't_RB Deadbeat_JJ then_RB ,_, he_PP was_VBD er_JJ ,_, he_PP was_VBD ,_, he_PP was_VBD ._SENT It_PP 's_VBZ 
+gone_VVN ._SENT 
+(_( The_DT clown_NN leads_VVZ four_CD robots_NNS backstage_RB ._SENT A_DT shadow_NN appears_VVZ at_IN the_DT glass_NN 
+door_NN and_CC rattles_VVZ the_DT door_NN knob_NN ._SENT )_) 
+ACE_NN :_: They_PP 're_VBP coming_VVG to_TO take_VV me_PP to_TO the_DT ring_NN ,_, Bellboy_NP ._SENT They_PP may_MD need_VV you_PP 
+to_TO repair_VV the_DT robots_NNS ,_, but_CC I_PP 'm_VBP just_RB trouble_NN ._SENT Making_VVG a_DT bit_NN of_IN a_DT mess_NN of_IN 
+opening_VVG the_DT door_NN ,_, are_VBP n't_RB they_PP ?_SENT It_PP ca_MD n't_RB be_VB that_RB difficult_JJ ._SENT 
+BELLBOY_NN :_: Oh_UH ,_, maybe_RB ,_, maybe_RB it_PP is_VBZ the_DT end_NN after_IN all_DT ._SENT 
+(_( The_DT door_NN opens_VVZ ,_, and_CC Deadbeat_NP and_CC the_DT Doctor_NP enter_VV ._SENT )_) 
+ACE_NN :_: Doctor_NN !_SENT 
+DOCTOR_NN :_: Deadbeat_NN ,_, I_PP take_VVP it_PP all_RB back_RB ._SENT (_( to_TO Ace_NP )_) You_PP 're_VBP absolutely_RB right_JJ ._SENT 
+Clowns_NNS can_MD be_VB creepy_JJ ._SENT 
+DEADBEAT_NN :_: Sift_VV the_DT dreams_NNS in_IN your_PP$ mind_NN ._SENT 
+BELLBOY_NN :_: King_NN ._SENT 
+DEADBEAT_NN :_: You_PP 'll_MD be_VB amazed_VVN 
+BELLBOY_NN :_: Kingpin_NN !_SENT That_DT was_VBD your_PP$ name_NN ._SENT Kingpin_NN ._SENT 
+[_SYM Cage_NP ]_SYM 
+CAPTAIN_NN :_: So_RB you_PP 've_VHP always_RB been_VBN interested_JJ in_IN the_DT 
+Psychic_JJ Circus_NP ,_, have_VHP you_PP ?_SENT Sit_VV down_RB ._SENT 
+WHIZZKID_NP :_: Oh_UH yes_UH ,_, of_IN course_NN ._SENT 
+CAPTAIN_NN :_: Ah_UH ._SENT 
+(_( The_DT Captain_NP pours_VVZ the_DT tea_NN ._SENT )_) 
+WHIZZKID_NN :_: I_PP 've_VHP never_RB been_VBN able_JJ to_TO visit_VV it_PP before_IN now_RB ,_, but_CC I_PP 've_VHP got_VVN all_RB 
+sorts_NNS of_IN souvenirs_NNS ._SENT Copies_NNS of_IN all_PDT the_DT advertising_NN satellites_NNS that_WDT have_VHP 
+ever_RB been_VBN sent_VVN out_RP ._SENT All_PDT the_DT posters_NNS ._SENT I_PP had_VHD a_DT long_JJ correspondence_NN with_IN 
+one_CD of_IN the_DT founder_NN members_NNS too_RB ,_, soon_RB after_IN it_PP started_VVD ._SENT Although_IN I_PP never_RB 
+got_VVN to_TO see_VV the_DT early_JJ days_NNS ,_, I_PP know_VVP it_PP 's_VBZ not_RB as_RB good_JJ as_IN it_PP used_VVD to_TO be_VB but_RB 
+I_PP 'm_VBP still_RB terribly_RB interested_JJ ._SENT 
+RINGMASTER_NN :_: Two_CD minutes_NNS ,_, Captain_NP ._SENT 
+CAPTAIN_NN :_: Thank_VV you_PP ,_, Ringmaster_NP ._SENT No_DT doubt_NN you_PP dream_VVP of_IN having_VHG the_DT 
+ultimate_JJ Psychic_NP Circus_NP experience_NN as_IN soon_RB as_RB possible_JJ ._SENT 
+WHIZZKID_NN :_: Sorry_JJ ?_SENT 
+CAPTAIN_NN :_: You_PP ache_VVP for_IN the_DT moment_NN when_WRB you_PP can_MD do_VV your_PP$ own_JJ act_NN within_IN 
+that_DT sawdust_NN covered_VVD magic_JJ circle_NN ._SENT 
+WHIZZKID_NP :_: Oh_UH ,_, yes_UH ,_, of_IN course_NN ._SENT I_PP mean_VVP ,_, there_EX 's_VBZ no_DT real_JJ danger_NN ,_, is_VBZ there_RB ,_, 
+really_RB ._SENT 
+CAPTAIN_NN :_: Only_RB for_IN those_DT without_IN resource_NN or_CC imagination_NN or_CC panache_NN ._SENT I_PP 'm_VBP 
+sure_RB you_PP have_VHP all_PDT those_DT qualities_NNS ._SENT 
+WHIZZKID_NP :_: Well_UH ,_, I_PP really_RB do_VVP n't_RB know_VV ._SENT 
+CAPTAIN_NN :_: Come_VV ,_, come_VV ,_, dear_JJ boy_NN ,_, do_VVP n't_RB be_VB so_RB absurdly_RB modest_JJ ._SENT 
+MAGS_NNS :_: Do_VVP n't_RB listen_VV to_TO him_PP ._SENT 
+WHIZZKID_NN :_: But_CC this_DT is_VBZ one_CD of_IN my_PP$ heroes_NNS ,_, Captain_NP Cook_NP ,_, the_DT intergalactic_JJ 
+space_NN explorer_NN ._SENT 
+CAPTAIN_NN :_: Exactly_RB ._SENT And_CC shall_MD I_PP tell_VV you_PP what_WP I_PP 'm_VBP prepared_VVN to_TO do_VV for_IN you_PP 
+as_IN a_DT special_JJ favour_NN ?_SENT 
+WHIZZKID_NP :_: What_WP ?_SENT 
+CAPTAIN_NN :_: Postpone_VV my_PP$ brief_JJ moment_NN of_IN glory_NN in_IN the_DT ring_NN so_RB that_IN/that you_PP may_MD 
+enjoy_VV the_DT unforgettable_JJ experience_NN before_IN me_PP ,_, far_RB beyond_IN the_DT bouncing_VVG 
+Upas_NN trees_NNS of_IN Boromeo_NP or_CC the_DT singing_VVG squids_NN of_IN Anagonia_NP ._SENT 
+WHIZZKID_NP :_: Are_VBP you_PP sure_JJ you_PP can_MD bear_VV to_TO let_VV me_PP go_VV in_IN first_JJ ?_SENT 
+CAPTAIN_NN :_: It_PP is_VBZ a_DT sacrifice_NN I_PP am_VBP prepared_VVN to_TO make_VV ._SENT 
+[_SYM Workshop_NP ]_SYM 
+DEADBEAT_NN :_: The_DT dreams_NNS ._SENT Sift_VV the_DT dreams_NNS ._SENT When_WRB the_DT 
+mind_NN 's_VHZ divided_VVN the_DT body_NN screams_VVZ ._SENT 
+BELLBOY_NN :_: Yes_UH ,_, some_DT of_IN it_PP 's_VBZ coming_VVG back_RB now_RB ._SENT Not_RB all_RB of_IN it_PP ._SENT He_PP was_VBD 
+Kingpin_NN ._SENT He_PP was_VBD the_DT one_CD who_WP persuaded_VVD us_PP to_TO come_VV here_RB ._SENT There_EX was_VBD 
+something_NN he_PP wanted_VVD ,_, something_NN he_PP knew_VVD about_RB ._SENT And_CC we_PP all_RB trusted_VVD him_PP ,_, 
+and_CC 
+DOCTOR_NN :_: Something_NN went_VVD wrong_JJ ?_SENT 
+BELLBOY_NN :_: Yes_UH ._SENT Something_NN went_VVD very_RB wrong_JJ ._SENT It_PP 's_VBZ this_DT place_NN ,_, you_PP see_VVP ._SENT It_PP 
+does_VVZ things_NNS to_TO you_PP ._SENT 
+DOCTOR_NN :_: And_CC a_DT friendly_JJ hippy_JJ circus_NN was_VBD turned_VVN into_IN a_DT trap_NN for_IN killing_VVG 
+people_NNS ._SENT 
+BELLBOY_NN :_: Yes_UH ._SENT Even_RB our_PP$ own_JJ kind_NN ._SENT That_DT was_VBD after_IN Kingpin_NP was_VBD no_RB longer_RBR 
+Kingpin_NN ._SENT Something_NN went_VVD ._SENT Something_NN went_VVD with_IN him_PP and_CC 
+DOCTOR_NN :_: And_CC the_DT well_NN ?_SENT 
+BELLBOY_NN :_: What_WP well_RB ?_SENT 
+DOCTOR_NN :_: You_PP do_VVP n't_RB know_VV anything_NN about_IN a_DT well_NN with_IN an_DT eye_NN peering_VVG out_RP 
+from_IN inside_NN ?_SENT 
+BELLBOY_NN :_: No._NN 
+ACE_NN :_: An_DT eye_NN ,_, like_IN the_DT one_CD of_IN Flowerchild_NP 's_POS ,_, like_IN the_DT ones_NNS on_IN the_DT kites_NNS ._SENT 
+
+BELLBOY_NN :_: No_UH ,_, not_RB any_DT more_RBR ._SENT 
+DEADBEAT_NN :_: Do_VVP n't_RB look_VV in_IN the_DT well_NN ._SENT The_DT eye_NN gives_VVZ you_PP promises_VVZ of_IN heaven_NN 
+or_CC hell_UH ._SENT 
+ACE_NN :_: He_PP 's_VBZ off_RB ,_, he_PP 's_VBZ gone_VVN ._SENT I_PP knew_VVD people_NNS like_IN him_PP in_IN Perivale_NP ._SENT 
+DOCTOR_NN :_: Listen_VV ,_, Ace_NP ._SENT 
+ACE_NN :_: What_WP to_TO ?_SENT 
+DOCTOR_NN :_: The_DT answers_NNS ._SENT You_PP know_VVP what_WP happened_VVD ,_, do_VVP n't_RB you_PP ,_, Deadbeat_NP ?_SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( The_DT clowns_NNS tumble_NN into_IN the_DT ring_NN ._SENT )_) 
+MUM_NN :_: At_IN last_JJ ._SENT 
+RINGMASTER_NN :_: Now_RB welcome_JJ ,_, folks_NNS ._SENT I_PP 'm_VBP sure_JJ you_PP 'd_MD like_VV to_TO know_VV we_PP 've_VHP got_VVN a_DT 
+brand_NN new_JJ act_NN for_IN your_PP$ circus_NN show_NN ._SENT Now_RB welcome_VV please_VV with_IN all_PDT the_DT 
+warmth_NN you_PP can_MD ,_, the_DT Psychic_NP Circus_NP '_POS greatest_JJS fan_NN !_SENT 
+(_( Whizzkid_NP enters_VVZ to_TO canned_JJ applause_NN ._SENT )_) 
+WHIZZKID_NN :_: This_DT is_VBZ the_DT most_RBS exciting_JJ day_NN of_IN my_PP$ life_NN ._SENT My_PP$ dream_NN come_VV true_JJ ._SENT 
+I_PP 'm_VBP standing_VVG in_IN the_DT ring_NN of_IN the_DT Psychic_NP Circus_NP ._SENT 
+[_SYM Cage_NP ]_SYM 
+MAGS_NNS :_: You_PP 've_VHP sent_VVN that_IN/that poor_JJ boy_NN out_RP to_TO his_PP$ death_NN ._SENT 
+CAPTAIN_NN :_: Nonsense_NN ._SENT He_PP may_MD be_VB a_DT great_JJ success_NN ._SENT 
+(_( The_DT family_NN give_VV him_PP a_DT score_NN of_IN three_CD zeros_NNS ._SENT )_) 
+CAPTAIN_NN :_: So_RB it_PP just_RB goes_VVZ to_TO show_VV you_PP never_RB can_MD be_VB certain_JJ ._SENT 
+(_( Whizzkid_NP screams_VVZ ,_, and_CC the_DT thunder_NN and_CC lightning_NN crash_NN ._SENT )_) 
+CAPTAIN_NN :_: As_IN I_PP said_VVD ,_, survival_NN of_IN the_DT fittest_JJS ._SENT 
+(_( The_DT Ringmaster_NP picks_VVZ up_RP the_DT bent_NN and_CC cracked_JJ remains_NNS of_IN Whizzkid_NP 's_POS 
+spectacles_NNS to_TO wild_JJ canned_JJ applause_NN ._SENT )_) 
+[_SYM Workshop_NP ]_SYM 
+DOCTOR_NN :_: Deadbeat_NN ,_, if_IN we_PP take_VVP you_PP to_TO the_DT well_NN ,_, can_MD 
+you_PP show_VVP us_PP what_WP it_PP did_VVD ?_SENT 
+(_( Deadbeat_NN nods_NNS ._SENT )_) 
+ACE_NN :_: How_WRB do_VVP you_PP know_VVP it_PP 's_VBZ not_RB all_PDT a_DT con_NN ,_, Professor_NP ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, he_PP brought_VVD me_PP here_RB to_TO you_PP and_CC Bellboy_NP ._SENT He_PP must_MD have_VH done_VVN 
+that_DT for_IN a_DT purpose_NN ._SENT 
+ACE_NN :_: Not_RB if_IN your_PP$ brains_NNS are_VBP that_RB scrambled_VVN ._SENT 
+DOCTOR_NN :_: Ah_UH ,_, now_RB there_EX 's_VBZ something_NN there_RB ,_, Ace_NP ._SENT I_PP saw_VVD it_PP when_WRB he_PP looked_VVD 
+into_IN the_DT crystal_NN ball_NN ._SENT 
+ACE_NN :_: You_PP 're_VBP just_RB an_DT aging_VVG hippy_NN ,_, Professor_NP ._SENT 
+DOCTOR_NN :_: There_EX might_MD be_VB something_NN in_IN that_DT ,_, yes_UH ._SENT Anyway_RB ,_, we_PP 'd_MD better_RBR be_VB 
+going_VVG ._SENT Bellboy_NN ?_SENT 
+BELLBOY_NN :_: Er_UH ,_, no._NP 
+ACE_NN :_: Come_VV on_IN ,_, Bellboy_NP ._SENT 
+BELLBOY_NN :_: No_UH ,_, I_PP think_VVP the_DT chief_JJ clown_NN will_MD be_VB here_RB after_IN you_PP and_CC I_PP could_MD 
+delay_VV him_PP for_IN a_DT while_NN ._SENT I_PP 'd_MD be_VB pleased_VVN to_TO make_VV myself_PP useful_JJ ._SENT 
+ACE_NN :_: But_CC Bellboy_NP ?_SENT 
+BELLBOY_NN :_: You_PP still_RB do_VVP n't_RB understand_VV ,_, do_VV you_PP ._SENT Everything_NP I_NP loved_VVD has_VHZ 
+gone_VVN ._SENT There_EX 's_VBZ no_DT point_NN in_IN living_VVG on_RP to_TO do_VV work_NN I_PP hate_VVP ._SENT 
+DOCTOR_NN :_: So_RB be_VB it_PP ,_, then_RB ,_, Bellboy_NP ._SENT Come_VVN on_IN ,_, Deadbeat_NP ._SENT Or_CC should_MD I_PP call_VV 
+you_PP Kingpin_NP ?_SENT We_PP 've_VHP got_VVN work_NN to_TO do_VV ._SENT 
+ACE_NN :_: Bye_NN now_RB ,_, Bellboy_NP ._SENT All_PDT the_DT best_JJS ._SENT Oh_UH ,_, and_CC er_NNS ,_, thanks_NNS for_IN this_DT ._SENT 
+(_( The_DT robot_NN remote_JJ control_NN ._SENT )_) 
+[_SYM Outside_IN the_DT Workshop_NN ]_SYM 
+BELLBOY_NN :_: Bye_NP ,_, Ace_NP ._SENT Goodbye_NN ,_, Kingpin_NP ,_, Doctor_NP ._SENT 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( Morgana_NP speaks_VVZ to_TO the_DT eye_NN in_IN the_DT crystal_NN ball_NN ._SENT )_) 
+MORGANA_NN :_: The_DT acts_NNS will_MD keep_VV on_IN coming_VVG now_RB ,_, we_PP promise_VVP ,_, and_CC no_DT one_CD will_NN 
+ever_RB go_VV near_IN the_DT bus_NN again_RB ._SENT Those_DT who_WP remain_VVP are_VBP your_PP$ servants_NNS to_TO do_VV 
+with_IN as_IN you_PP wish_VVP ._SENT No_UH ,_, I_PP never_RB wanted_VVD to_TO resist_VV your_PP$ power_NN ._SENT 
+[_SYM Workshop_NP ]_SYM 
+CLOWN_NN :_: Where_WRB are_VBP they_PP ?_SENT 
+BELLBOY_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP do_VVP n't_RB care_VV ._SENT It_PP 's_VBZ all_RB destroyed_VVN ,_, you_PP know_VVP that_RB ._SENT 
+Oh_UH ,_, you_PP were_VBD a_DT wonderful_JJ clown_NN once_RB ._SENT Funny_JJ ,_, inventive_JJ ._SENT 
+(_( The_DT clown_NN slaps_VVZ Bellboy_NP ._SENT )_) 
+CLOWN_NN :_: Quiet_JJ ._SENT 
+BELLBOY_NN :_: I_PP 'm_VBP not_RB helping_VVG you_PP any_DT more_JJR ,_, you_PP see_VVP ._SENT 
+(_( Bellboy_NN uses_VVZ a_DT clown_NN remote_JJ control_NN to_TO activate_VV all_PDT those_DT in_IN the_DT 
+workshop_NN ._SENT )_) 
+CLOWN_NN :_: Take_VV care_NN ,_, Bellboy_NP ._SENT 
+BELLBOY_NN :_: Come_VV on_RP ._SENT Come_VVN on_IN ._SENT Deal_NN with_IN me_PP as_IN you_PP dealt_VVD with_IN Flowerchild_NP ._SENT 
+CLOWN_NN :_: You_PP 're_VBP crazy_JJ ._SENT 
+BELLBOY_NN :_: Come_VV on_RP ._SENT Come_VVN on_IN !_SENT Come_VVN on_IN !_SENT 
+[_SYM Stone_NP chamber_NN ]_SYM 
+(_( Deadbeat_NN gets_VVZ to_TO the_DT well_NN with_IN the_DT eye_NN first_RB ._SENT )_) 
+DEADBEAT_NN :_: No._NN I_PP ca_MD n't_RB do_VV it_PP ._SENT 
+ACE_NN :_: Come_VV on_IN ,_, Kingpin_NP ._SENT Nearly_RB there_RB ._SENT Hold_VV on_IN ,_, please_UH ._SENT 
+DOCTOR_NN :_: Now_RB ,_, Kingpin_NP ,_, show_VV us_PP what_WP you_PP did_VVD when_WRB you_PP first_RB saw_VVD the_DT eye_NN ._SENT 
+(_( Deadbeat_NN holds_VVZ out_RP the_DT amulet_NN and_CC shuts_VVZ his_PP$ eyes_NNS ._SENT Then_RB he_PP collapses_VVZ ._SENT )_) 
+ACE_NN :_: Great_JJ stuff_NN ,_, Kingpin_NP ._SENT 
+DOCTOR_NN :_: He_PP must_MD have_VH used_VVN that_DT medallion_NN to_TO summon_VV the_DT powers_NNS that_WDT lurk_VVP 
+here_RB ._SENT 
+ACE_NN :_: And_CC it_PP did_VVD this_DT to_TO him_PP ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+ACE_NN :_: I_PP wish_VVP I_PP had_VHD some_DT Nitro_NP Nine_NP to_TO lob_VV down_RP there_RB ._SENT Hang_NP about_RB ._SENT The_DT 
+mirror_VV here_RB ,_, it_PP 's_VBZ an_DT eye_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, that_DT eye_NN seems_VVZ to_TO plague_VV us_PP everywhere_RB ,_, only_RB with_IN the_DT 
+eyeball_NN removed_VVD by_IN someone_NN or_CC something_NN ._SENT 
+ACE_NN :_: And_CC hidden_VVN ._SENT 
+DOCTOR_NN :_: In_IN the_DT bus_NN ._SENT 
+ACE_NN :_: Where_WRB Flowerchild_NP died_VVD trying_VVG to_TO get_VV it_PP ._SENT 
+DEADBEAT_NN :_: Shall_MD be_VB free_JJ ._SENT We_PP shall_MD be_VB free_JJ ._SENT We_PP shall_MD be_VB free_JJ ._SENT We_PP shall_MD 
+be_VB free_JJ ._SENT 
+[_SYM Cage_NP ]_SYM 
+CAPTAIN_NN :_: Calm_VV down_RB ,_, Mags_NP ._SENT There_EX 'll_MD be_VB some_RB more_JJR 
+contestants_NNS along_IN soon_RB ._SENT We_PP 're_VBP doing_VVG very_RB well_RB ._SENT 
+MAGS_NNS :_: That_DT poor_JJ boy_NN ._SENT 
+CAPTAIN_NN :_: Us_PP or_CC him_PP ,_, Mags_NP ._SENT And_CC before_IN you_PP get_VVP too_RB high_JJ and_CC mighty_JJ ,_, 
+remember_VV where_WRB you_PP 'd_MD be_VB without_IN me_PP ._SENT Dead_JJ with_IN a_DT bullet_NN in_IN you_PP on_IN the_DT 
+planet_NN Vulpana_NP ._SENT A_DT silver_NN bullet_NN ._SENT 
+MAGS_NNS :_: I_PP know_VVP that_IN/that ,_, Captain_NP ,_, but_CC you_PP did_VVD n't_RB do_VV it_PP for_IN me_PP ,_, you_PP did_VVD it_PP for_IN 
+yourself_PP ._SENT I_PP only_RB wish_VVP I_PP knew_VVD what_WP you_PP were_VBD after_IN ._SENT 
+CAPTAIN_NN :_: All_RB in_IN good_JJ time_NN ,_, Mags_NP ._SENT All_DT in_IN good_JJ time_NN ._SENT 
+[_SYM Stone_NP chamber_NN ]_SYM 
+DOCTOR_NN :_: It_PP 's_VBZ so_RB tantalising_VVG ._SENT I_PP 'm_VBP so_RB close_JJ to_TO 
+understanding_VVG it_PP all_RB and_CC yet_RB so_RB far_RB ._SENT 
+ACE_NN :_: So_RB we_PP 'll_MD have_VH to_TO get_VV hold_NN of_IN that_DT other_JJ bit_NN of_IN mirror_NN ._SENT 
+DOCTOR_NN :_: Exactly_RB ._SENT Now_RB ,_, you_PP take_VVP Kingpin_NP back_RB to_TO the_DT bus_NN and_CC find_VV it_PP ,_, but_RB 
+be_VB careful_JJ ._SENT 
+ACE_NN :_: Hang_VV on_IN a_DT bit_NN ,_, Professor_NP ._SENT This_DT is_VBZ all_RB going_VVG a_DT bit_NN too_RB fast_RB for_IN me_PP ._SENT 
+I_PP 'll_MD fetch_VV it_PP ,_, no_DT problem_NN ,_, but_CC what_WP about_IN you_PP ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP going_VVG back_RB to_TO the_DT ring_NN ._SENT 
+ACE_NN :_: Are_VBP you_PP off_RP your_PP$ head_NN ?_SENT 
+DOCTOR_NN :_: The_DT Psychic_NP Circus_NP needs_VVZ acts_NNS ._SENT If_IN they_PP 've_VHP got_VVN me_PP then_RB perhaps_RB 
+they_PP wo_MD n't_RB worry_VV about_IN you_PP two_CD for_IN the_DT moment_NN ._SENT 
+ACE_NN :_: Sometimes_RB I_PP think_VVP it_PP 's_VBZ you_PP that_DT 's_VBZ crazy_JJ ,_, not_RB Deadbeat_NN here_RB ._SENT 
+DOCTOR_NN :_: Anybody_NN remotely_RB interesting_JJ is_VBZ mad_JJ in_IN someway_RB or_CC another_DT ._SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+DAD_NN :_: I_PP do_VVP n't_RB know_VV where_WRB they_PP find_VVP these_DT acts_NNS ,_, do_VVP 
+you_PP ,_, Mother_NP ?_SENT 
+MUM_NN :_: Never_RB seem_VVP to_TO get_VV any_DT better_RBR ,_, do_VV they_PP ,_, Father_NP ?_SENT 
+[_SYM Backstage_NP ]_SYM 
+(_( The_DT Doctor_NP walks_VVZ past_IN a_DT robot_NN clown_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP believe_VVP you_PP 've_VHP been_VBN looking_VVG for_IN me_PP ._SENT I_PP 'm_VBP wanted_VVN backstage_RB ._SENT 
+[_SYM Cage_NP ]_SYM 
+DOCTOR_NN :_: Greetings_NP ,_, Captain_NP Cook_NP ._SENT Mags_NP ._SENT You_PP will_MD be_VB 
+pleased_VVN to_TO hear_VV that_IN/that the_DT greatest_JJS act_NN in_IN the_DT galaxy_NN has_VHZ returned_VVN to_TO the_DT 
+fold_NN ._SENT 
+CAPTAIN_NN :_: Jolly_JJ good_JJ show_NN ,_, Doctor_NP ._SENT 
+MAGS_NNS :_: But_CC Doctor_NP ,_, I_PP helped_VVD you_PP to_TO escape_VV ._SENT 
+DOCTOR_NN :_: I_PP know_VVP ,_, Mags_NP ,_, and_CC I_PP have_VHP n't_RB wasted_VVN the_DT time_NN you_PP bought_VVD me_PP ._SENT And_CC 
+I_PP have_VHP returned_VVN with_IN an_DT idea_NN ._SENT I_PP suggest_VVP that_IN/that this_DT time_NN we_PP all_RB three_CD 
+work_NN together_RB ._SENT 
+MAGS_NNS :_: Meaning_VVG ?_SENT 
+DOCTOR_NN :_: Up_RB to_TO now_RB all_PDT the_DT people_NNS in_IN the_DT cage_NN have_VHP been_VBN played_VVN off_RP 
+against_IN each_DT other_JJ ,_, and_CC of_IN course_NN some_DT people_NNS are_VBP cleverer_JJR at_IN 
+preserving_VVG themselves_PP than_IN others_NNS ._SENT 
+CAPTAIN_NN :_: Luck_NN of_IN the_DT draw_NN ,_, old_JJ boy_NN ._SENT 
+DOCTOR_NN :_: Not_RB entirely_RB ._SENT What_WP I_PP 'm_VBP proposing_VVG is_VBZ that_IN/that we_PP all_RB three_CD go_NN into_IN 
+the_DT ring_NN ._SENT Three_CD for_IN one_CD and_CC one_CD for_IN three_CD ._SENT That_DT should_MD throw_VV a_DT very_RB big_JJ 
+hammer_NN into_IN the_DT works_NNS ._SENT 
+MAGS_NNS :_: I_PP 'm_VBP with_IN you_PP ,_, Doctor_NP ._SENT And_CC so_RB 's_VBZ he_PP ._SENT 
+CAPTAIN_NN :_: Now_RB just_RB a_DT moment_NN ,_, Mags_NP ._SENT 
+MAGS_NNS :_: Are_VBP n't_RB you_PP ,_, Captain_NP ._SENT 
+(_( Ace_NP helps_VVZ Deadbeat_NP crawl_VV out_RP from_IN under_IN the_DT tent_NN and_CC run_VV away_RP from_IN the_DT 
+circus_NN ._SENT )_) 
+[_SYM Big_NP Top_NP ]_SYM 
+RINGMASTER_NN :_: Now_RB welcome_JJ ,_, folks_NNS ,_, not_RB one_CD act_NN but_RB 
+three_CD ,_, to_TO the_DT Greatest_NP Show_NP in_IN the_DT Galaxy_NP ,_, the_DT Galaxy_NP ,_, the_DT Galaxy_NP ._SENT 
+(_( The_DT Doctor_NP ,_, Mags_NP and_CC the_DT Captain_NP enter_VV the_DT ring_NN ._SENT The_DT Captain_NP whispers_NNS 
+to_TO the_DT Ringmaster_NP ._SENT )_) 
+CAPTAIN_NN :_: Sorry_RB ,_, everyone_NN ._SENT Thank_VV you_PP ,_, ladies_NNS and_CC gentlemen_NNS ,_, but_CC before_RB 
+we_PP start_VVP I_PP would_MD like_VV to_TO make_VV one_CD small_JJ request_NN from_IN stage_NN management_NN ._SENT 
+A_DT special_JJ lighting_NN effect_NN ._SENT 
+MAGS_NNS :_: No._NN 
+CAPTAIN_NN :_: Could_MD you_PP perhaps_RB give_VVP us_PP that_DT old_JJ devil_NN moon_NN effect_NN ._SENT 
+(_( A_DT crescent_JJ moon_NN shines_NNS down_RB on_IN the_DT ring_NN ._SENT )_) 
+MAGS_NNS :_: No_RB !_SENT No_UH !_SENT 
+(_( Mags_NP falls_VVZ to_TO her_PP$ knees_NNS and_CC begins_VVZ to_TO snarl_VV ._SENT The_DT Doctor_NP backs_VVZ away_RB ._SENT )_) 
+CAPTAIN_NN :_: You_PP really_RB were_VBD extremely_RB stupid_JJ this_DT time_NN ,_, Doctor_NP ._SENT I_PP told_VVD you_PP 
+she_PP was_VBD an_DT unusual_JJ specimen_NN ._SENT The_DT growling_VVG ,_, the_DT snarling_VVG ,_, reaction_NN to_TO 
+the_DT moon_NN ._SENT Surely_RB you_PP should_MD have_VH guessed_VVN ?_SENT 
+(_( Mags_NP '_POS eyes_NNS are_VBP yellow_JJ ,_, and_CC her_PP$ teeth_NNS and_CC nails_NNS are_VBP large_JJ and_CC sharp_JJ ._SENT 
+Even_RB the_DT Ringmaster_NP and_CC the_DT robot_NN clowns_NNS have_VHP got_VVN outside_IN the_DT ring_NN ._SENT )_) 
+Part_NP Four_NP 
+
+[_SYM Big_NP Top_NP ]_SYM 
+RINGMASTER_NN :_: Captain_NN !_SENT 
+(_( He_PP throws_VVZ his_PP$ whip_NN over_RP to_TO the_DT Captain_NP ,_, who_WP uses_VVZ it_PP ._SENT )_) 
+CAPTAIN_NN :_: I_PP hate_VVP it_PP when_WRB this_DT happens_VVZ ._SENT She_PP ca_MD n't_RB control_VV herself_PP ,_, of_IN 
+course_NN ,_, and_CC like_IN all_PDT her_PP$ kind_NN she_PP 'll_MD destroy_VV whatever_WDT comes_VVZ in_IN her_PP 
+path_NN ._SENT Which_WDT ,_, I_PP 'm_VBP afraid_JJ ,_, in_IN this_DT case_NN has_VHZ to_TO be_VB you_PP ._SENT 
+(_( The_DT family_NN give_VV this_DT act_NN a_DT score_NN of_IN three_CD nines_NNS ._SENT )_) 
+CAPTAIN_NN :_: This_DT circus_NN is_VBZ only_RB the_DT half_NN of_IN it_PP ,_, you_PP see_VVP ,_, old_JJ chap_NN ._SENT These_DT 
+hippy_JJ fellows_NNS were_VBD n't_RB quite_RB so_RB dumb_JJ as_IN they_PP look_VVP ._SENT Did_VVD you_PP come_VVP here_RB 
+just_RB for_IN the_DT fun_NN of_IN it_PP ?_SENT Well_RB ,_, some_DT of_IN them_PP did_VVD ,_, but_CC they_PP 're_VBP all_RB dead_JJ ._SENT 
+(_( The_DT little_JJ girl_NN 's_POS eyes_NNS glow_VVP green_JJ ._SENT )_) 
+[_SYM Painted_JJ bus_NN ]_SYM 
+(_( A_DT pair_NN of_IN robot_NN clowns_NNS deliver_VVP the_DT repaired_VVN bus_NN 
+conductor_NN ._SENT )_) 
+CONDUCTOR_NN :_: Could_MD I_PP see_VV your_PP$ tickets_NNS ,_, please_UH ._SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+CAPTAIN_NN :_: We_PP experienced_VVD explorers_NNS know_VV all_RB about_RB 
+making_VVG the_DT most_JJS of_IN our_PP$ discoveries_NNS ._SENT The_DT powers_NNS here_RB can_MD be_VB harnessed_VVN by_IN 
+those_DT intrepid_JJ enough_NN to_TO grasp_VV the_DT opportunities_NNS ._SENT Myself_PP ,_, for_IN instance_NN ._SENT 
+
+DOCTOR_NN :_: Those_DT powers_NNS destroyed_VVN Deadbeat_NP ._SENT 
+CAPTAIN_NN :_: Yes_UH ,_, but_CC he_PP was_VBD like_IN you_PP ,_, Doctor_NP ,_, none_NN too_RB bright_JJ in_IN the_DT old_JJ 
+self-interest_NN stakes_NNS ._SENT 
+(_( The_DT Doctor_NP dodges_VVZ Mags_NP '_POS attack_NN ,_, and_CC the_DT Captain_NP uses_VVZ the_DT whip_NN to_TO keep_VV 
+her_PP away_RB from_IN himself_PP ._SENT )_) 
+CAPTAIN_NN :_: Stop_VV it_PP ,_, Mags_NP ._SENT This_DT werewolf_NN is_VBZ extremely_RB dangerous_JJ ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP meddling_VVG with_IN things_NNS you_PP do_VVP n't_RB understand_VV ._SENT 
+CAPTAIN_NN :_: No_UH ,_, Doctor_NP ,_, you_PP are_VBP ._SENT Once_RB you_PP 're_VBP out_RB of_IN the_DT way_NN ,_, I_PP shall_MD make_VV 
+my_PP$ deal_NN with_IN the_DT powers_NNS that_RB be_VB ,_, whoever_WP they_PP may_MD be_VB ._SENT 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( The_DT clown_NN and_CC Morgana_NP are_VBP using_VVG the_DT crystal_NN 
+ball_NN ._SENT )_) 
+MORGANA_NN :_: She_PP 's_VBZ taking_VVG Deadbeat_NN to_TO the_DT bus_NN ._SENT 
+CLOWN_NN :_: In_IN that_DT case_NN ,_, they_PP 're_VBP also_RB taken_VVN care_NN of_IN ._SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+CAPTAIN_NN :_: I_PP remember_VVP once_RB visiting_VVG the_DT gold_JJ mines_NNS 
+of_IN Katakiki_NP 
+DOCTOR_NN :_: Captain_NP Cook_NP !_SENT 
+CAPTAIN_NN :_: What_WP ?_SENT 
+DOCTOR_NN :_: You_PP 're_VBP not_RB only_RB a_DT scoundrel_NN and_CC a_DT meddling_NN fool_NN ,_, but_CC you_PP 're_VBP 
+also_RB a_DT crushing_VVG bore_NN ._SENT 
+CAPTAIN_NN :_: I_PP 'm_VBP afraid_JJ you_PP 've_VHP really_RB done_VVN it_PP this_DT time_NN ,_, old_JJ boy_NN ._SENT Mags_NP !_SENT 
+(_( In_IN true_JJ Errol_NP Flynn_NP style_NN ,_, the_DT Doctor_NP climbs_VVZ some_DT scaffolding_NN then_RB 
+swings_NNS across_IN the_DT ring_NN on_IN a_DT rope_NN to_TO get_VV away_RB from_IN Mags_NP ._SENT )_) 
+[_SYM Painted_JJ bus_NN ]_SYM 
+DEADBEAT_NN :_: Search_NN ,_, search_NN ,_, search_NN for_IN the_DT truth_NN ._SENT 
+Search_VV it_PP out_RP ,_, search_VV it_PP now_RB ._SENT 
+[_SYM In_IN the_DT bus_NN ]_SYM 
+(_( Ace_NN is_VBZ searching_VVG around_RP the_DT drivers_NNS seat_NN until_IN 
+she_PP finds_VVZ a_DT switch_NN behind_IN a_DT pedal_NN that_WDT opens_VVZ a_DT compartment_NN containing_VVG 
+cash_NN box_NN ._SENT )_) 
+ACE_NN :_: This_DT must_MD be_VB it_PP ._SENT 
+[_SYM Painted_JJ bus_NN ]_SYM 
+DEADBEAT_NN :_: Search_VV it_PP now_RB ._SENT 
+(_( Ace_NP bangs_VVZ on_IN the_DT window_NN from_IN the_DT inside_NN ._SENT )_) 
+ACE_NN :_: Kingpin_NN ,_, I_PP 've_VHP found_VVN it_PP !_SENT 
+(_( The_DT Conductor_NN looks_VVZ out_RP from_IN his_PP$ curtained_VVN off_JJ compartment_NN at_IN the_DT back_NN 
+of_IN the_DT bus_NN ._SENT )_) 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ up_RB on_IN a_DT catwalk_NN around_IN the_DT ring_NN and_CC 
+so_RB is_VBZ Mags_NP ._SENT )_) 
+DOCTOR_NN :_: Mags_NNS !_SENT Mags_NNS !_SENT Do_VV you_PP hear_VV me_PP ?_SENT Mags_NP !_SENT 
+(_( The_DT Captain_NP keeps_VVZ cracking_VVG the_DT whip_NN as_IN the_DT clown_NN and_CC Morgana_NP enter_VVP ._SENT 
+Mags_NP reaches_VVZ the_DT Doctor_NP and_CC goes_VVZ for_IN his_PP$ throat_NN ._SENT )_) 
+DOCTOR_NN :_: Mags_NP ,_, when_WRB you_PP 're_VBP like_IN this_DT ,_, this_DT is_VBZ n't_RB in_IN your_PP$ nature_NN ,_, you_PP 
+have_VHP to_TO destroy_VV everything_NN that_WDT crosses_VVZ your_PP$ path_NN ._SENT I_PP do_VVP n't_RB believe_VV 
+that_RB ._SENT Mags_NP !_SENT 
+(_( The_DT Doctor_NP uses_VVZ the_DT rope_NN to_TO swing_VV back_RB across_IN the_DT ring_NN to_TO where_WRB the_DT 
+family_NN are_VBP sitting_VVG ._SENT They_PP all_RB stand_VVP up_RP and_CC their_PP$ eyes_NNS glow_VVP green_JJ ._SENT A_DT high_NN 
+pitched_JJ sound_NN makes_VVZ the_DT Doctor_NP tumble_NN backwards_RB down_RB the_DT seating_NN and_CC 
+into_IN the_DT ring_NN ,_, where_WRB Mags_NP is_VBZ waiting_VVG ._SENT )_) 
+DOCTOR_NN :_: Mags_NNS !_SENT Mags_NNS !_SENT Wait_VV ,_, wait_VV ._SENT I_PP need_VVP your_PP$ mercy_NN ,_, but_CC you_PP do_VVP n't_RB have_VH 
+to_TO kill_VV ._SENT 
+(_( Mags_NP turns_VVZ to_TO the_DT Captain_NP ._SENT )_) 
+CAPTAIN_NN :_: Come_VV on_IN ,_, Mags_NP ._SENT You_PP can_MD trust_VV me_PP ._SENT You_PP know_VVP that_IN/that ,_, do_VVP n't_RB you_PP ?_SENT 
+Once_RB he_PP 's_VBZ out_RB of_IN the_DT way_NN we_PP can_MD split_VV the_DT proceeds_NNS ._SENT Do_VV it_PP for_IN me_PP ,_, do_VV it_PP 
+for_IN your_PP$ old_JJ pal_NN the_DT Captain_NP ._SENT You_PP know_VVP you_PP 'll_MD enjoy_VV it_PP ._SENT I_PP order_VVP you_PP to_TO ._SENT 
+I_PP order_VVP you_PP to_TO !_SENT 
+(_( Mags_NP leaps_NNS on_IN the_DT Captain_NP ._SENT )_) 
+DOCTOR_NN :_: No_UH ,_, Mags_NP !_SENT No_UH !_SENT 
+[_SYM Painted_JJ bus_NN ]_SYM 
+(_( Ace_NP comes_VVZ out_RP of_IN the_DT bus_NN with_IN the_DT cash_NN box_NN ._SENT )_) 
+DEADBEAT_NN :_: Search_NN ,_, search_NN ,_, search_NN for_IN the_DT truth_NN ._SENT Search_NN ,_, search_NN ,_, search_NN 
+ACE_NN :_: You_PP 've_VHP got_VVN to_TO try_VV and_CC help_VV me_PP ,_, Kingpin_NP ._SENT I_PP ca_MD n't_RB get_VV it_PP open_VV ._SENT 
+DEADBEAT_NN :_: Search_NN ,_, search_NN ,_, search_NN for_IN the_DT truth_NN ._SENT 
+ACE_NN :_: What_WP I_PP 'd_MD give_VV for_IN my_PP$ chemistry_NN set_VVD now_RB ._SENT 
+(_( The_DT Conductor_NN comes_VVZ out_RP of_IN the_DT bus_NN behind_IN Ace_NP 's_POS back_NN ._SENT )_) 
+DEADBEAT_NN :_: Search_NN ,_, search_NN ,_, search_NN for_IN the_DT truth_NN ._SENT 
+ACE_NN :_: Come_VV on_IN ,_, Kingpin_NP ._SENT Do_VV try_VV and_CC concentrate_VV a_DT bit_NN ._SENT 
+(_( Deadbeat_NN laughs_NNS as_IN the_DT Conductor_NP grabs_VVZ Ace_NP 's_POS head_NN and_CC pulls_VVZ her_PP up_RP ._SENT 
+She_PP drops_VVZ the_DT box_NN ._SENT )_) 
+CONDUCTOR_NN :_: Tickets_NNS ,_, please_UH ._SENT Tickets_NNS ,_, please_UH ._SENT 
+(_( The_DT Conductor_NN 's_POS foot_NN steps_NNS on_IN the_DT box_NN ,_, and_CC it_PP opens_VVZ ._SENT )_) 
+CONDUCTOR_NN :_: Tickets_NNS ,_, please_UH ._SENT 
+(_( Ace_NP struggles_VVZ to_TO get_VV the_DT robot_NN remote_JJ control_NN out_IN of_IN her_PP$ jacket_NN 
+pocket_NN ,_, and_CC the_DT Conductor_NP knocks_VVZ it_PP out_RP of_IN her_PP$ hand_NN ._SENT )_) 
+CONDUCTOR_NN :_: Tickets_NNS ,_, please_UH ._SENT 
+ACE_NN :_: Kingpin_NN !_SENT Please_UH !_SENT 
+(_( While_IN Ace_NP bruises_VVZ her_PP$ elbow_NN trying_VVG to_TO hit_VV the_DT Conductor_NP ,_, Deadbeat_NP 
+takes_VVZ a_DT small_JJ blue_JJ eye_NN from_IN the_DT box_NN and_CC puts_VVZ it_PP on_IN his_PP$ medallion_NN ._SENT )_) 
+ACE_NN :_: Kingpin_NN ,_, do_VVP something_NN !_SENT 
+DEADBEAT_NN :_: I_PP remember_VVP now_RB !_SENT It_PP 's_VBZ beneath_IN the_DT cap._NN 
+(_( The_DT Conductor_NN throws_VVZ Deadbeat_NN to_TO the_DT ground_NN ._SENT )_) 
+ACE_NN :_: What_WP ?_SENT 
+DEADBEAT_NN :_: Knock_VV its_PP$ cap_NN off_RP !_SENT 
+(_( Ace_NP does_VVZ ._SENT )_) 
+ACE_NN :_: Now_RB what_WP ?_SENT 
+DEADBEAT_NN :_: Bellboy_NN put_VVD a_DT button_NN that_WDT said_VVD Request_NP Stop_NP ._SENT Press_VV it_PP !_SENT 
+ACE_NN :_: What_WP ?_SENT 
+DEADBEAT_NN :_: Press_VV the_DT button_NN !_SENT 
+(_( Ace_NP struggles_VVZ to_TO reach_VV the_DT Conductor_NN 's_POS head_NN ,_, and_CC hits_VVZ it_PP ._SENT It_PP lets_VVZ her_PP 
+go_VV and_CC starts_VVZ flailing_VVG around_RP ._SENT There_EX is_VBZ a_DT high-pitched_JJ noise_NN ._SENT )_) 
+DEADBEAT_NN :_: Now_RB stand_VVP back_RB ._SENT 
+ACE_NN :_: What_WP ?_SENT 
+DEADBEAT_NN :_: Stand_VV back_RB ,_, quick_JJ ._SENT 
+(_( Ace_NP crawls_VVZ away_RB then_RB goes_VVZ back_RB for_IN the_DT robot_NN remote_JJ by_IN its_PP$ feet_NNS ._SENT )_) 
+DEADBEAT_NN :_: No_UH !_SENT Get_VV away_RB !_SENT Quick_JJ !_SENT 
+(_( KaBOOM_NP goes_VVZ the_DT bus_NN Conductor_NN ._SENT )_) 
+ACE_NN :_: Now_RB we_PP 're_VBP getting_VVG somewhere_RB ._SENT You_PP really_RB are_VBP Kingpin_NP ,_, are_VBP n't_RB you_PP ._SENT 
+DEADBEAT_NN :_: Yes_UH ,_, thankfully_RB ._SENT But_CC no_DT one_CD 's_VBZ safe_JJ until_IN we_PP get_VVP this_DT (_( the_DT 
+medallion_NN )_) back_RB to_TO the_DT Doctor_NP ._SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( Mags_NP has_VHZ returned_VVN to_TO normal_JJ and_CC the_DT Captain_NP is_VBZ 
+carried_VVN out_RP of_IN the_DT ring_NN on_IN a_DT stretcher_NN ,_, pith_NN helmet_NN on_IN his_PP$ chest_NN ._SENT )_) 
+DOCTOR_NN :_: Come_VV on_IN ,_, Mags_NP ._SENT We_PP 've_VHP got_VVN to_TO run_VV away_RB ,_, now_RB ._SENT 
+(_( The_DT clown_NN and_CC Morgana_NP try_VVP to_TO block_VV their_PP$ path_NN ,_, but_CC Mags_NP snarls_NNS at_IN them_PP 
+and_CC they_PP move_VVP aside_RB quickly_RB ._SENT )_) 
+DAD_NN :_: We_PP want_VVP more_RBR ._SENT 
+DOCTOR_NN :_: Mags_NNS !_SENT 
+(_( They_PP dive_VVP through_IN the_DT slit_NN in_IN the_DT cloth_NN that_IN/that Ace_NP made_VVD with_IN 
+Flowerchild_NP 's_POS earring_NN all_RB that_DT time_NN ago_RB ._SENT )_) 
+RINGMASTER_NN :_: Er_UH ,_, another_DT act_NN 's_VBZ coming_VVG soon_RB ,_, folks_NNS ._SENT You_PP can_MD believe_VV me_PP ._SENT 
+(_( The_DT little_JJ girl_NN speaks_VVZ with_IN a_DT very_RB deep_JJ voice_NN ._SENT )_) 
+GIRL_NN :_: Another_DT act_NN now_RB ._SENT 
+DAD_NN :_: We_PP want_VVP more_RBR ._SENT 
+MUM_NN :_: (_( deep_JJ voice_NN )_) We_PP need_VVP more_RBR ._SENT 
+MORGANA_NN :_: You_PP have_VHP n't_RB played_VVN fair_JJ with_IN me_PP ._SENT 
+RINGMASTER_NN :_: Listen_VV ,_, we_PP 've_VHP done_VVN everything_NN we_PP 're_VBP supposed_VVN to_TO do_VV ,_, right_RB ?_SENT 
+(_( The_DT clown_NN sneaks_VVZ to_TO the_DT entrance_NN ._SENT )_) 
+MORGANA_NN :_: I_PP had_VHD my_PP$ doubts_NNS ,_, but_CC I_PP came_VVD through_RP in_IN the_DT end_NN ._SENT 
+RINGMASTER_NN :_: There_EX are_VBP going_VVG to_TO be_VB other_JJ visitors_NNS ._SENT 
+GIRL_NN :_: We_PP need_VVP more_RBR ._SENT 
+DAD_NN :_: You_PP have_VHP no_DT one_CD left_VVN to_TO give_VV ._SENT 
+MUM_NN :_: Except_IN yourselves_NNS ._SENT 
+RINGMASTER_NN :_: No_UH !_SENT 
+(_( The_DT clowns_NNS wheel_NN on_IN a_DT pair_NN of_IN laundry_NN baskets_NNS ._SENT )_) 
+MORGANA_NP :_: Please_UH ,_, more_JJR acts_NNS are_VBP on_IN the_DT way_NN ,_, I_PP promise_VVP you_PP ._SENT 
+(_( The_DT clowns_NNS push_VVP the_DT Ringmaster_NP and_CC Morgana_NP into_IN the_DT baskets_NNS ._SENT There_EX is_VBZ 
+a_DT high-pitched_JJ whine_NN then_RB the_DT baskets_NNS are_VBP opened_VVN up_RP again_RB ._SENT Only_RB the_DT 
+Ringmaster_NN 's_POS top_JJ hat_NN remains_VVZ ._SENT )_) 
+[_SYM Backstage_NP ]_SYM 
+DOCTOR_NN :_: Something_NN dreadful_JJ 's_VBZ happening_VVG in_IN the_DT 
+ring_NN ._SENT Things_NNS are_VBP getting_VVG out_RP of_IN control_NN quicker_RBR than_IN I_PP expected_VVD ._SENT 
+DAD_NN [_SYM OC_NP ]_SYM :_: Calling_VVG the_DT Doctor_NP ._SENT Calling_VVG the_DT Doctor_NP ._SENT 
+DOCTOR_NN :_: Nothing_NN will_MD satisfy_VV them_PP but_CC my_PP$ presence_NN ._SENT 
+MAGS_NNS :_: I_PP 'm_VBP coming_VVG back_RB in_IN there_RB with_IN you_PP ._SENT 
+DOCTOR_NN :_: No._NN You_PP must_MD run_VV and_CC get_VV Ace_NP and_CC Deadbeat_NP ._SENT 
+(_( Mags_NP runs_VVZ off_RP ._SENT )_) 
+DOCTOR_NN :_: I_PP must_MD prepare_VV for_IN my_PP$ entrance_NN ._SENT Never_RB keep_VV your_PP$ audience_NN 
+waiting_VVG ._SENT 
+(_( The_DT clowns_NNS chase_JJ Mags_NP outside_NN ,_, then_RB they_PP head_VVP for_IN the_DT hearse_NN ._SENT Down_RB in_IN 
+the_DT well_NN ,_, the_DT eye_NN gets_VVZ bigger_JJR ._SENT )_) 
+[_SYM Ticket_JJ office_NN ]_SYM 
+(_( A_DT wind_NN starts_VVZ to_TO blow_VV ._SENT )_) 
+DOCTOR_NN :_: I_PP 'm_VBP coming_VVG ._SENT Open_VV a_DT pathway_NN for_IN me_PP ._SENT Once_IN small_JJ step_NN for_IN mankind_NN ,_, 
+one_CD great_JJ leap_NN ,_, or_CC words_NNS to_TO that_DT effect_NN ._SENT 
+(_( The_DT Doctor_NP pulls_VVZ apart_RB the_DT canvas_NN entrance_NN to_TO the_DT Circus_NP and_CC steps_NNS 
+into_IN a_DT kaleidoscope_NN world_NN of_IN noise_NN and_CC colour_NN ._SENT He_PP fights_VVZ his_PP$ way_NN 
+through_IN with_IN gritted_VVN teeth_NNS to_TO -_: )_) 
+[_SYM Arena_NP ]_SYM 
+(_( A_DT semi-circular_JJ sand_NN floor_NN ,_, grey_JJ stone_NN walls_NNS with_IN 
+one_CD grilled_JJ doorway_NN ,_, and_CC three_CD large_JJ figures_NNS sitting_VVG on_IN thrones_NNS looking_VVG 
+down_RB ._SENT )_) 
+DOCTOR_NN :_: And_CC here_RB we_PP all_RB are_VBP at_IN last_JJ ._SENT I_PP 'm_VBP surprised_JJ you_PP brought_VVD me_PP here_RB ._SENT 
+It_PP must_MD be_VB very_RB difficult_JJ for_IN you_PP ,_, trying_VVG to_TO exist_VV concurrently_RB in_IN two_CD 
+different_JJ time_NN spaces_NNS ._SENT I_PP know_VVP the_DT problem_NN myself_PP ._SENT No_DT wonder_VVP those_DT 
+memorial_NN stones_NNS looked_VVD familiar_JJ ._SENT The_DT Gods_NPS of_IN Ragnarok_NP ,_, I_PP presume_VVP ._SENT 
+[_SYM By_IN the_DT snack_NN stall_NN ]_SYM 
+(_( The_DT stallholder_NN has_VHZ hitched_VVN the_DT stall_NN to_TO her_PP 
+horse_NN and_CC is_VBZ manoeuvring_VVG it_PP to_TO turn_VV round_NN ._SENT Mags_NP jumps_VVZ over_IN the_DT hitch_NN 
+and_CC keeps_VVZ running_VVG ._SENT )_) 
+STALLHOLDER_NP :_: Do_VVP n't_RB you_PP frighten_VV my_PP$ horse_NN like_IN that_DT ,_, you_PP hippie_NN weirdo_NN ._SENT 
+(_( The_DT hearse_NN has_VHZ to_TO stop_VV and_CC sound_VV its_PP$ horn_NN ._SENT )_) 
+STALLHOLDER_NN :_: Shut_VVN up_RP ,_, circus_NN riff-raff_NN ._SENT You_PP do_VVP n't_RB own_VV this_DT planet_NN ,_, you_PP 
+know_VV ._SENT 
+[_SYM Arena_NP ]_SYM 
+DOCTOR_NN :_: How_WRB many_JJ people_NNS have_VHP you_PP destroyed_VVN ,_, I_PP 
+wonder_NN ,_, before_IN Kingpin_NP was_VBD lured_VVN down_RP here_RB ._SENT Poor_NP Kingpin_NP ._SENT That_DT 's_VBZ what_WP 
+you_PP like_VVP ,_, is_VBZ n't_RB it_PP ._SENT Taking_VVG someone_NN with_IN a_DT touch_NN of_IN individuality_NN and_CC 
+imagination_NN ,_, and_CC wearing_VVG them_PP down_RP to_TO nothingness_NN in_IN your_PP$ service_NN ._SENT 
+DAD_NN :_: Enough_RB ._SENT 
+MUM_NN :_: You_PP have_VHP said_VVN enough_RB ._SENT 
+DOCTOR_NN :_: Enough_RB ?_SENT I_PP 've_VHP hardly_RB started_VVN ._SENT I_PP have_VHP fought_VVN the_DT Gods_NPS of_IN Ragnarok_NP 
+all_RB through_IN time_NN ._SENT 
+(_( The_DT Doctor_NP looks_VVZ at_IN his_PP$ watch_NN ._SENT )_) 
+DAD_NN :_: You_PP are_VBP in_IN our_PP$ true_JJ time_NN space_NN now_RB ,_, Doctor_NP ._SENT There_EX is_VBZ no_DT appeal_NN 
+beyond_IN its_PP$ confines_NNS to_TO any_DT other_JJ ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB tell_VV me_PP what_WP you_PP want_VVP me_PP to_TO do_VV ._SENT Let_VV me_PP guess_VV ._SENT Now_RB let_VV me_PP 
+see_VV ._SENT You_PP want_VVP me_PP to_TO 
+DAD_NN :_: Entertain_VV us_PP ._SENT 
+MUM_NN :_: Entertain_VV us_PP ._SENT 
+DAD_NN :_: Or_CC die_VV ._SENT So_RB long_RB as_IN you_PP entertain_VVP us_PP ,_, you_PP may_MD live_VV ._SENT 
+MUM_NN :_: When_WRB you_PP no_RB longer_RBR entertain_VV us_PP ,_, you_PP die_VVP ._SENT 
+DOCTOR_NN :_: Predictable_JJ as_IN ever_RB ,_, Gods_NPS of_IN Ragnarok_NP ._SENT As_IN I_PP think_VVP it_PP 's_VHZ been_VBN 
+said_VVD before_IN ,_, or_CC was_VBD it_PP after_IN ?_SENT Anyway_RB ,_, you_PP ai_VVP n't_RB seen_VVN nothin_NN '_POS yet_RB ._SENT 
+(_( The_DT Doctor_NP leans_NNS and_CC swings_NNS round_NN at_IN a_DT remarkable_JJ angle_NN ._SENT )_) 
+[_SYM Segonax_NP ]_SYM 
+(_( Ace_NP and_CC Deadbeat_NP meet_VVP Mags_NP ._SENT )_) 
+ACE_NN :_: Hey_UH ,_, Mags_NP !_SENT Where_WRB 's_VBZ the_DT Doctor_NP ?_SENT 
+MAGS_NNS :_: Back_RB at_IN the_DT circus_NN ._SENT 
+ACE_NN :_: So_RB you_PP 're_VBP on_IN your_PP$ own_JJ now_RB ?_SENT 
+MAGS_NNS :_: Not_RB exactly_RB ._SENT Look_NN ._SENT 
+(_( Here_RB comes_VVZ the_DT hearse_NN ._SENT Mags_NP sees_VVZ the_DT completed_VVN medallion_NN ._SENT )_) 
+MAGS_NNS :_: That_WDT 's_VBZ what_WP they_PP 're_VBP after_IN ._SENT 
+DEADBEAT_NN :_: Oh_UH ,_, I_PP might_MD have_VH guessed_VVN ._SENT 
+ACE_NN :_: So_RB how_WRB do_VVP we_PP get_VV it_PP back_RB to_TO the_DT Doctor_NP ?_SENT Oh_UH ,_, dumbo_NP !_SENT Not_RB you_PP two_CD ,_, 
+me_FW ._SENT I_PP 've_VHP got_VVN an_DT idea_NN ._SENT Come_VVN on_IN !_SENT 
+MAGS_NNS :_: Wrong_JJ way_NN !_SENT 
+ACE_NN :_: Not_RB for_IN this_DT ._SENT Come_VVN on_IN ,_, Kingpin_NP !_SENT 
+[_SYM Arena_NP ]_SYM 
+(_( The_DT Doctor_NP has_VHZ a_DT table_NN in_IN front_NN of_IN him_PP ,_, with_IN a_DT 
+large_JJ pan_NN and_CC its_PP$ cover_NN ._SENT )_) 
+DOCTOR_NN :_: Thank_VV you_PP very_RB much_RB ,_, ladies_NNS and_CC gentlemen_NNS ,_, for_IN that_DT 
+overwhelming_JJ reception_NN ._SENT And_CC now_RB ,_, I_PP would_MD like_VV to_TO begin_VV like_IN life_NN ,_, at_IN 
+the_DT beginning_NN ._SENT But_CC how_WRB did_VVD life_NN begin_VV ?_SENT Was_VBD it_PP with_IN a_DT chicken_NN or_CC was_VBD it_PP 
+with_IN 
+DAD_NN :_: What_WP ?_SENT 
+(_( The_DT Doctor_NP produces_VVZ an_DT egg_NN from_IN his_PP$ mouth_NN and_CC puts_VVZ it_PP in_IN the_DT pan_NN ._SENT Then_RB 
+a_DT second_JJ one_CD which_WDT goes_VVZ into_IN his_PP$ hand_NN and_CC disappears_VVZ ._SENT )_) 
+MUM_NN :_: Do_VVP n't_RB try_VV our_PP$ patience_NN ._SENT 
+(_( She_PP throws_VVZ a_DT lightning_NN bolt_NN near_IN the_DT Doctor_NP ._SENT )_) 
+DAD_NN :_: Do_VVP n't_RB play_VV games_NNS ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP not_RB interested_JJ in_IN beginnings_NNS ._SENT You_PP 're_VBP only_RB interested_JJ in_IN 
+endings_NNS ._SENT 
+[_SYM Campsite_NP ]_SYM 
+MAGS_NNS :_: Oh_UH no_UH ,_, not_RB that_DT thing_NN again_RB ._SENT Come_VVN on_IN ._SENT 
+DEADBEAT_NN :_: Dumbo_NP ._SENT Bellboy_NN 's_POS robot_NN ._SENT 
+ACE_NN :_: Dead_JJ right_NN ,_, Kingpin_NP ._SENT 
+(_( The_DT three_CD hide_NN behind_IN the_DT robot_NN as_IN the_DT hearse_NN pulls_VVZ up_RP and_CC the_DT clowns_NNS 
+run_VVN out_RP ._SENT )_) 
+CLOWN_NN :_: Bellboy_NN 's_POS greatest_JJS mistake_NN ._SENT What_WP a_DT place_NN to_TO choose_VV ._SENT You_PP may_MD have_VH 
+the_DT Eye_NP again_RB ,_, Deadbeat_NP ,_, but_CC you_PP wo_MD n't_RB use_VV it_PP ._SENT You_PP know_VVP that_RB ._SENT You_PP 're_VBP 
+not_RB strong_JJ enough_RB !_SENT You_PP were_VBD n't_RB before_RB ._SENT 
+DEADBEAT_NN :_: At_IN least_JJS I_PP tried_VVD ._SENT You_PP just_RB gave_VVD in_IN ._SENT 
+CLOWN_NN :_: Yes_UH ,_, and_CC I_PP shall_MD get_VV my_PP$ reward_NN ._SENT Last_JJ chance_NN ,_, Deadbeat_NP ._SENT We_PP really_RB 
+believed_VVN in_IN all_PDT that_DT talk_NN of_IN peace_NN and_CC love_NN 
+ACE_NN :_: This_DT thing_NN had_VHD better_JJR work_NN ,_, or_CC I_PP 'll_MD kick_VV its_PP$ head_NN in_RP ._SENT 
+(_( Ace_NN jabs_NNS at_IN the_DT remote_JJ control_NN ._SENT After_IN a_DT few_JJ moments_NNS ,_, the_DT robot_NN lasers_NNS 
+one_CD of_IN the_DT robot_NN clowns_NNS ,_, then_RB the_DT other_JJ three_CD ._SENT Finally_RB it_PP kills_VVZ the_DT 
+clown_VV himself_PP and_CC keeps_VVZ firing_NN as_IN Ace_NP keeps_VVZ pushing_VVG buttons_NNS ._SENT Then_RB it_PP 
+goes_VVZ quiet_JJ ._SENT )_) 
+MAGS_NNS :_: For_IN a_DT moment_NN I_PP thought_VVD you_PP were_VBD n't_RB going_VVG to_TO be_VB able_JJ to_TO make_VV it_PP 
+stop_VV ._SENT 
+ACE_NN :_: Funny_JJ you_PP should_MD say_VV that_DT ._SENT 
+DEADBEAT_NN :_: He_PP used_VVD to_TO be_VB a_DT great_JJ clown_NN ._SENT 
+ACE_NN :_: I_PP 've_VHP never_RB liked_VVN clowns_NNS ._SENT 
+[_SYM Arena_NP ]_SYM 
+(_( To_TO the_DT strains_NNS of_IN Narcissus_NP being_VBG played_VVN on_IN a_DT 
+violin_NN ,_, the_DT Doctor_NP produces_VVZ a_DT length_NN of_IN rope_NN and_CC ties_VVZ the_DT ends_NNS 
+together_RB ._SENT )_) 
+DOCTOR_NN :_: What_WP ,_, no_DT complaints_NNS ?_SENT No_DT arguments_NNS ?_SENT No_DT thunderbolts_NNS ?_SENT 
+(_( The_DT rope_NN falls_VVZ into_IN a_DT single_JJ length_NN with_IN the_DT knot_NN still_RB in_IN it_PP ._SENT )_) 
+DAD_NN :_: No_UH ,_, Doctor_NP ._SENT 
+MUM_NN :_: We_PP 're_VBP not_RB concerned_VVN that_IN/that you_PP 're_VBP playing_VVG for_IN time_NN ._SENT 
+(_( The_DT Doctor_NP has_VHZ untied_VVN the_DT knot_NN and_CC is_VBZ now_RB fastening_VVG the_DT two_CD pieces_NNS of_IN 
+rope_NN together_RB ._SENT Then_RB he_PP stands_VVZ on_IN a_DT loose_JJ end_NN and_CC pulls_VVZ it_PP into_IN a_DT single_JJ 
+piece_NN of_IN rope_NN again_RB ._SENT )_) 
+DAD_NN :_: We_PP have_VHP a_DT saying_NN ._SENT 
+DOCTOR_NN :_: Let_VV me_PP guess_VV ._SENT Give_VV yourself_PP enough_JJ rope_NN and_CC you_PP hang_VVP yourself_PP ._SENT 
+(_( The_DT Doctor_NP looks_VVZ at_IN his_PP$ watch_NN again_RB ._SENT )_) 
+[_SYM Campsite_NP ]_SYM 
+ACE_NN :_: Kingpin_NN ._SENT 
+DEADBEAT_NN :_: I_PP only_RB hope_VVP we_PP make_VV it_PP in_IN time_NN ._SENT The_DT Doctor_NP 's_POS stronger_JJR than_IN I_PP 
+ever_RB was_VBD ,_, but_CC even_RB he_PP ca_MD n't_RB hold_VV out_RP against_IN them_PP forever_RB ._SENT 
+(_( Mags_NP ,_, Ace_NP and_CC Deadbeat_NP get_VVP into_IN the_DT hearse_NN ._SENT )_) 
+ACE_NN :_: He_PP 'll_MD have_VH a_DT good_JJ stab_NN at_IN it_PP ,_, though_RB ._SENT 
+[_SYM Arena_NP ]_SYM 
+DAD_NN :_: You_PP are_VBP nearing_VVG the_DT end_NN ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: A_DT piece_NN of_IN rope_NN has_VHZ two_CD ends_NNS ,_, Father_NP Ragnarok_NP ._SENT 
+(_( The_DT Doctor_NP coils_VVZ the_DT rope_NN into_IN the_DT pan_NN ._SENT Then_RB he_PP produces_VVZ a_DT long_JJ candle_NN 
+from_IN his_PP$ handkerchief_NN and_CC lights_VVZ it_PP with_IN a_DT flame_NN apparently_RB from_IN his_PP$ 
+palm_NN ._SENT He_PP puts_VVZ the_DT lit_VVN candle_NN to_TO the_DT pan_NN with_IN bursts_NNS into_IN flames_NNS ,_, 
+briefly_NN puts_VVZ the_DT cover_NN over_IN it_PP to_TO extinguish_VV them_PP and_CC removes_VVZ a_DT snake_NN 
+from_IN it_PP ._SENT Mum_NP throws_VVZ a_DT thunderbolt_NN ._SENT )_) 
+MUM_NN :_: Feel_VV the_DT rain_NN ,_, Doctor_NP ._SENT 
+DAD_NN :_: Feel_VV the_DT chill_NN in_IN your_PP$ bones_NNS ._SENT 
+(_( The_DT Doctor_NP turns_VVZ around_RB and_CC the_DT snake_NN turns_VVZ into_IN his_PP$ umbrella_NN ._SENT He_PP puts_VVZ 
+it_PP up_RB just_RB before_IN the_DT downpour_NN starts_VVZ ._SENT )_) 
+[_SYM By_IN the_DT Ticket_NP Office_NP ]_SYM 
+(_( The_DT wind_NN is_VBZ still_RB howling_VVG ._SENT Ace_NP stops_VVZ to_TO look_VV at_IN 
+the_DT crystal_NN ball_NN ._SENT )_) 
+DEADBEAT_NN :_: Ace_NP ,_, quick_JJ !_SENT Come_VVN on_IN !_SENT 
+[_SYM Arena_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ attempting_VVG to_TO escape_VV from_IN a_DT 
+strait-jacket_NN whilst_IN hanging_VVG by_IN his_PP$ ankles_NNS from_IN a_DT rope_NN ._SENT )_) 
+DAD_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ?_SENT 
+DAD_NN :_: You_PP are_VBP trifling_VVG with_IN us_PP ._SENT 
+DOCTOR_NN :_: Really_RB ?_SENT I_PP thought_VVD I_PP was_VBD entertaining_VVG you_PP ._SENT 
+(_( He_PP gets_VVZ the_DT strait-jacket_NN off_RB ._SENT )_) 
+DAD_NN :_: You_PP are_VBP on_IN the_DT brink_NN of_IN destruction_NN ,_, Doctor_NP ._SENT We_PP want_VVP something_NN 
+bigger_JJR ,_, something_NN better_RBR ._SENT 
+DOCTOR_NN :_: Do_VVP you_PP now_RB ?_SENT 
+[_SYM Big_NP Top_NP ]_SYM 
+(_( Deadbeat_NN ,_, Mags_NP and_CC Ace_NP run_VVP into_IN the_DT deserted_VVN 
+ring_NN ._SENT )_) 
+ACE_NN :_: The_DT Doctor_NP must_MD be_VB here_RB somewhere_RB ._SENT 
+DEADBEAT_NN :_: Well_RB ,_, he_PP may_MD already_RB be_VB in_IN the_DT Dark_NP Circus_NP with_IN the_DT Gods_NPS ._SENT If_IN 
+so_RB ,_, there_EX 's_VBZ only_RB one_CD way_NN we_PP can_MD reach_VV him_PP ._SENT 
+MAGS_NNS :_: The_DT stone_NN chamber_NN ._SENT 
+ACE_NN :_: And_CC the_DT medallion_NN ?_SENT 
+DEADBEAT_NN :_: Yeah_UH ._SENT We_PP must_MD be_VB careful_JJ ._SENT They_PP 're_VBP bound_VVN to_TO sense_VV its_PP$ 
+presence_NN ._SENT 
+[_SYM Arena_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ back_RB on_IN his_PP$ feet_NNS ._SENT )_) 
+DOCTOR_NN :_: Do_VVP I_PP have_VH your_PP$ full_JJ attention_NN ?_SENT 
+(_( He_PP checks_VVZ his_PP$ wrist_NN watch_NN ._SENT )_) 
+[_SYM Ticket_NP Office_NP ]_SYM 
+DEADBEAT_NN :_: You_PP do_VVP realise_VV that_IN/that they_PP 'll_MD try_VV anything_NN 
+to_TO stop_VV us_PP ?_SENT 
+ACE_NN :_: Yes_UH ._SENT Let_VV 's_VBZ go_VV ._SENT 
+(_( Behind_IN the_DT advertising_NN boards_NNS ,_, the_DT Captain_NP sits_VVZ up_RP from_IN the_DT stretcher_NN 
+and_CC puts_NNS on_IN his_PP$ pith_NN helmet_NN ._SENT )_) 
+[_SYM Arena_NP ]_SYM 
+DOCTOR_NN :_: The_DT climax_NN of_IN my_PP$ act_NN ,_, Gods_NPS of_IN Ragnarok_NP ,_, 
+requires_VVZ something_NN you_PP do_VVP not_RB possess_VV in_IN great_JJ abundance_NN ._SENT That_DT is_VBZ ,_, 
+imagination_NN ._SENT And_CC it_PP starts_VVZ with_IN a_DT piece_NN of_IN metal_NN ._SENT This_DT piece_NN of_IN metal_NN 
+once_RB belonged_VVN to_TO a_DT sword_NN ,_, and_CC that_DT sword_NN belonged_VVD to_TO a_DT gladiator_NN ._SENT 
+(_( The_DT Doctor_NP throws_VVZ the_DT piece_NN of_IN metal_NN into_IN the_DT air_NN ,_, where_WRB it_PP transforms_VVZ 
+into_IN a_DT gladius_NN ,_, and_CC then_RB a_DT long_JJ sword_NN drops_NNS into_IN his_PP$ hand_NN ._SENT )_) 
+DOCTOR_NN :_: And_CC that_DT gladiator_NN fought_VVD and_CC died_VVD in_IN this_DT ring_NN to_TO entertain_VV 
+you_PP ._SENT 
+[_SYM Stone_NP chamber_NN ]_SYM 
+(_( Deadbeat_NN stops_NNS at_IN the_DT well_NN ._SENT )_) 
+ACE_NN :_: Go_VV for_IN it_PP ,_, Kingpin_NP ._SENT 
+(_( But_CC the_DT Eye_NP is_VBZ staring_VVG back_RB up_RB at_IN him_PP ._SENT He_PP backs_VVZ away_RB ._SENT )_) 
+MAGS_NNS :_: Kingpin_NN ,_, please_UH ._SENT 
+ACE_NN :_: Well_RB ,_, one_CD of_IN us_PP had_VHD better_RBR try_VV ._SENT 
+(_( Deadbeat_NN holds_VVZ out_RP the_DT medallion_NN and_CC shuts_VVZ his_PP$ eyes_NNS ._SENT The_DT Captain_NP hits_VVZ 
+him_PP in_IN the_DT kidneys_NNS and_CC catches_VVZ the_DT medallion_NN as_IN he_PP falls_VVZ ._SENT )_) 
+CAPTAIN_NN :_: Perhaps_RB I_PP might_MD relieve_VV you_PP of_IN that_DT ._SENT 
+MAGS_NNS :_: Captain_NN ,_, I_PP thought_VVD you_PP were_VBD dead_JJ ._SENT 
+CAPTAIN_NN :_: I_PP am_VBP ,_, my_PP$ dear_NN ._SENT I_PP am_VBP ._SENT 
+[_SYM Arena_NP ]_SYM 
+DOCTOR_NN :_: I_PP have_VHP fed_VVN you_PP enough_RB ,_, Gods_NPS of_IN Ragnarok_NP ,_, 
+and_CC you_PP found_VVD what_WP I_PP have_VHP to_TO offer_VV indigestible_JJ ._SENT So_RB I_PP have_VHP taken_VVN myself_PP 
+off_IN the_DT menu_NN ._SENT La_NP comedia_NN e_NN finita_NN ._SENT 
+DAD_NN :_: We_PP command_VVP you_PP ._SENT 
+MUM_NN :_: You_PP cannot_MD stop_VV ._SENT 
+DOCTOR_NN :_: I_PP already_RB have_VHP ._SENT 
+DAD_NN :_: Then_RB you_PP will_MD die_VV ._SENT 
+DOCTOR_NN :_: Probably_RB not_RB ._SENT It_PP 's_VBZ all_PDT a_DT matter_NN of_IN timing_NN ,_, do_VVP n't_RB you_PP know_VVP ._SENT 
+(_( The_DT Doctor_NP points_VVZ the_DT sword_NN to_TO the_DT ground_NN ._SENT )_) 
+[_SYM Stone_NP chamber_NN ]_SYM 
+ACE_NN :_: Oi_NP ,_, sarcophagus_NN face_NN !_SENT 
+(_( The_DT Captain_NP turns_VVZ and_CC Mags_NP kicks_VVZ the_DT medallion_NN out_RP of_IN his_PP$ hand_NN and_CC 
+into_IN the_DT well_NN ._SENT It_PP lands_VVZ on_IN the_DT sword_NN and_CC the_DT Doctor_NP uses_VVZ it_PP to_TO reflect_VV 
+the_DT Gods_NPS '_POS laser_NN bolts_NNS back_RB at_IN them_PP ._SENT 
+The_DT Eye_NP in_IN the_DT well_RB grows_VVZ ._SENT )_) 
+DEADBEAT_NN :_: Quick_JJ ._SENT 
+CAPTAIN_NN :_: You_PP know_VVP ,_, when_WRB I_PP was_VBD on_IN the_DT planet_NN Periboea_NN ,_, I_PP met_VVD someone_NN who_WP 
+walks_VVZ around_RP when_WRB he_PP was_VBD already_RB dead_JJ ._SENT I_PP must_MD say_VV ,_, as_IN an_DT experience_NN I_PP 'd_MD 
+say_VV it_PP was_VBD very_RB overrated_VVN ._SENT 
+(_( The_DT Captain_NP falls_VVZ into_IN the_DT well_NN ._SENT )_) 
+[_SYM Ticket_JJ office_NN ]_SYM 
+DEADBEAT_NN :_: Look_VV ._SENT Get_VV down_RB !_SENT 
+(_( The_DT crystal_NN ball_NN explodes_VVZ ._SENT 
+In_IN the_DT arena_NN ,_, the_DT Gods_NPS stop_VVP firing_VVG laser_NN bolts_NNS at_IN the_DT Doctor_NP and_CC slump_NN 
+in_IN their_PP$ seats_NNS ._SENT The_DT walls_NNS crack_NN and_CC buckle_NN ._SENT The_DT Doctor_NP throws_VVZ the_DT sword_NN 
+and_CC medallion_NN at_IN them_PP then_RB raises_VVZ his_PP$ hat_NN as_IN the_DT whole_JJ place_NN falls_VVZ 
+apart_RB ._SENT 
+The_DT Big_JJ Top_JJ crumples_NNS as_IN the_DT arena_NN disintegrates_VVZ ._SENT The_DT Doctor_NP walks_VVZ out_RP 
+and_CC does_VVZ n't_RB flinch_VV as_IN an_DT explosion_NN occurs_VVZ just_RB behind_IN him_PP ._SENT )_) 
+[_SYM Segonax_NP ]_SYM 
+(_( A_DT huge_JJ red_JJ pillar_NN of_IN smoke_NN climbs_VVZ to_TO the_DT sky_NN ._SENT The_DT 
+Stallholder_NP speaks_VVZ to_TO her_PP$ horse_NN ._SENT )_) 
+STALLHOLDER_NN :_: It_PP 's_VBZ what_WP I_PP 've_VHP always_RB said_VVN ._SENT No_DT consideration_NN for_IN those_DT of_IN 
+us_PP that_RB live_VVP here_RB ._SENT 
+[_SYM Outside_IN the_DT Circus_NP ]_SYM 
+DOCTOR_NN :_: Enjoying_VVG the_DT show_NN ,_, Ace_NP ?_SENT 
+ACE_NN :_: Yeah_UH ._SENT It_PP was_VBD your_PP$ show_NN all_RB along_RB ,_, was_VBD n't_RB it_PP ?_SENT 
+MAGS_NNS :_: The_DT Captain_NP really_RB is_VBZ finished_VVN now_RB ,_, is_VBZ n't_RB he_PP ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT But_CC you_PP 're_VBP just_RB about_RB to_TO start_VV ._SENT 
+DEADBEAT_NN :_: Doctor_NN ,_, I_PP 've_VHP been_VBN thinking_VVG ._SENT 
+DOCTOR_NN :_: What_WP better_JJR way_NN for_IN a_DT circus_NN to_TO begin_VV than_IN with_IN a_DT wonderful_JJ 
+new_JJ act_NN ._SENT 
+ACE_NN :_: Yeah_UH ,_, weird_JJ and_CC wonderful_JJ ._SENT Nice_JJ one_CD ,_, Professor_NP ._SENT You_PP 'll_MD knock_VV them_PP 
+dead_JJ ._SENT 
+MAGS_NNS :_: That_WDT 's_VBZ just_RB what_WP I_PP 'm_VBP afraid_JJ of_IN ._SENT What_WP if_IN I_PP ca_MD n't_RB control_VV it_PP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, you_PP can_MD ,_, Mags_NP ._SENT You_PP already_RB have_VHP ._SENT 
+DEADBEAT_NN :_: What_WP about_IN it_PP ,_, Doctor_NP ?_SENT You_PP and_CC Ace_NP ._SENT Join_VV Kingpin_NP 's_POS new_JJ circus_NN 
+and_CC travel_VV the_DT galaxy_NN with_IN us_PP ._SENT 
+DOCTOR_NN :_: Thank_VV you_PP ,_, Kingpin_NP ,_, but_CC I_PP 'm_VBP afraid_JJ we_PP 've_VHP got_VVN other_JJ galaxies_NNS to_TO 
+travel_NN ._SENT And_CC besides_IN ,_, I_PP find_VVP circuses_NNS a_DT little_RB sinister_JJ ._SENT 
+

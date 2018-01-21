@@ -1,0 +1,1266 @@
+[_SYM Aickman_NP 
+Road_NN ]_SYM 
+(_( The_DT Tardis_NP materialises_VVZ in_IN a_DT small_JJ park_NN across_IN 
+the_DT road_NN from_IN groups_NNS of_IN terraced_VVN houses_NNS ._SENT )_) 
+DOCTOR_NN :_: No_UH ,_, Amy_NP ,_, it_PP 's_VBZ definitely_RB not_RB the_DT fifth_JJ moon_NN of_IN Cindie_NP Colesta_NP ._SENT 
+I_PP think_VVP I_PP can_MD see_VV a_DT Ryman_NP 's_POS ._SENT 
+(_( There_EX is_VBZ an_DT explosion_NN ,_, throwing_VVG the_DT Doctor_NP to_TO the_DT ground_NN ,_, and_CC the_DT 
+Tardis_NP dematerialises_VVZ ._SENT )_) 
+DOCTOR_NN :_: Amy_NP !_SENT Amy_NP !_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+(_( The_DT Tardis_NP is_VBZ shaking_VVG ,_, and_CC there_EX is_VBZ a_DT shower_NN of_IN 
+sparks_NNS nearby_RB ._SENT )_) 
+AMY_NN :_: Doctor_NN ?_SENT It_PP 's_VBZ saying_VVG we_PP 're_VBP on_IN Earth_NP ._SENT Essex_NP ,_, Colchester_NP ._SENT 
+(_( The_DT shaking_VVG stops_NNS ._SENT )_) 
+AMY_NN :_: Doctor_NN ?_SENT It_PP 's_VBZ taking_VVG off_RP again_RB ._SENT Doctor_NN ,_, can_MD you_PP hear_VV me_PP ?_SENT 
+
+[_SYM Aickman_NP Road_NP ]_SYM 
+
+DOCTOR_NN :_: Amy_NP !_SENT Amy_NP ._SENT 
+(_( One_CD day_NN later_RBR ,_, a_DT young_JJ man_NN is_VBZ strolling_VVG past_IN one_CD of_IN the_DT terraces_NNS of_IN 
+houses_NNS when_WRB he_PP hears_VVZ a_DT voice_NN ._SENT )_) 
+MAN_NN [_SYM OC_NP ]_SYM :_: Hello_UH ?_SENT Hello_UH ,_, please_UH ?_SENT Hello_UH ?_SENT I_PP need_VVP your_PP$ help_NN ._SENT There_EX 's_VHZ been_VBN 
+an_DT accident_NN ._SENT Please_UH ,_, help_VV me_PP ._SENT 
+(_( The_DT young_JJ man_NN goes_VVZ up_RP to_TO the_DT door_NN ,_, which_WDT has_VHZ a_DT cat_NN flap_NN in_IN it_PP ._SENT The_DT 
+voice_NN is_VBZ coming_VVG from_IN the_DT intercom_NN for_IN the_DT two_CD flats_NNS ,_, 79a_NP and_CC 79b_NP ._SENT The_DT 
+door_NN is_VBZ electronically_RB opened_VVN ._SENT )_) 
+
+[_SYM House_NP ]_SYM 
+
+(_( The_DT upstairs_JJ lights_NNS are_VBP flickering_VVG ._SENT )_) 
+STEVEN_NP :_: Hello_UH ?_SENT 
+MAN_NN [_SYM OC_NP ]_SYM :_: Please_UH ,_, will_MD you_PP help_VV me_PP ?_SENT 
+STEVEN_NN :_: Help_VV you_PP ?_SENT What_WP 's_VBZ wrong_JJ ?_SENT 
+(_( A_DT figure_NN is_VBZ standing_VVG at_IN the_DT top_NN of_IN the_DT stairs_NNS ._SENT )_) 
+MAN_NN :_: Something_NN terrible_JJ 's_VBZ happened_VVN ._SENT Please_UH help_VV me_PP ._SENT 
+(_( Steven_NP goes_VVZ up_RP the_DT stairs_NNS and_CC into_IN the_DT flat_JJ to_TO the_DT sound_NN of_IN spooky_JJ 
+music_NN ._SENT This_DT 
+door_NN is_VBZ exactly_RB like_IN the_DT front_JJ door_NN ,_, complete_JJ with_IN cat_NN flap_NN ._SENT )_) 
+
+[_SYM Flat_NP ]_SYM 
+
+(_( Downstairs_NN ,_, in_IN 79b_NP ._SENT )_) 
+SOPHIE_NP :_: Craig_NP ,_, what_WDT 's_VBZ that_IN/that on_IN the_DT ceiling_NN ?_SENT 
+CRAIG_NP :_: What_WP 's_VBZ what_WP on_IN the_DT ceiling_NN ?_SENT 
+SOPHIE_NN :_: That_DT ._SENT It_PP 's_VBZ coming_VVG from_IN upstairs_NN ._SENT 
+(_( A_DT damp_JJ stain_NN in_IN the_DT corner_NN ._SENT )_) 
+SOPHIE_NP :_: Who_WP lives_VVZ up_RP there_RB again_RB ?_SENT 
+CRAIG_NN :_: Just_RB some_DT bloke_NN ._SENT 
+(_( The_DT stain_NN spreads_VVZ ._SENT )_) 
+CRAIG_NN :_: So_RB what_WP 's_VBZ the_DT plan_NN tonight_NN ?_SENT Pizza_NP ,_, booze_NN ,_, telly_NN ?_SENT 
+SOPHIE_NP :_: Yeah_UH ,_, pizza_NN ,_, booze_NN ,_, telly_NN ._SENT 
+(_( Bang_NP !_SENT upstairs_NN ._SENT )_) 
+SOPHIE_NP :_: What_WP is_VBZ he_PP doing_VVG up_RP there_RB ?_SENT You_PP put_VVD the_DT advert_NN up_RB yet_RB ?_SENT 
+CRAIG_NP :_: Yeah_UH ,_, did_VVD it_PP today_NN ,_, paper_NN shop_NN window_NN ._SENT One_CD furnished_JJ room_NN 
+available_JJ immediately_RB ,_, shared_JJ kitchen_NN ,_, bathroom_NN ,_, with_IN twenty_CD seven_CD year_NN 
+old_JJ male_NN ,_, non-smoker_NN ,_, four_CD hundred_CD pound_NN pcm_NN ,_, per_IN calendar_NN month_NN ,_, suit_NN 
+young_JJ professional_NN ._SENT 
+SOPHIE_NP :_: Mmm_NP ,_, sounds_VVZ ideal_JJ ._SENT That_DT 's_VBZ your_PP$ mission_NN in_IN life_NN ,_, Craig_NP ._SENT Find_VV me_PP 
+a_DT man_NN ._SENT 
+CRAIG_NP :_: Yeah_UH ,_, otherwise_RB you_PP 'll_MD have_VH to_TO settle_VV for_IN me_PP ._SENT 
+SOPHIE_NN :_: You_PP 'll_MD have_VH to_TO settle_VV for_IN me_PP first_JJ ._SENT 
+(_( Sophie_NP answers_VVZ her_PP$ phone_NN ._SENT )_) 
+SOPHIE_NP :_: Oh_UH ,_, Melina_NP again_RB ._SENT What_WP ?_SENT Right_RB ._SENT Yeah_UH ,_, but_CC I_PP 've_VHP kind_NN of_IN got_VVN 
+plans_NNS ._SENT No_UH ,_, it_PP 's_VBZ nothing_NN important_JJ ,_, it_PP 's_VBZ just_RB Craig_NP ._SENT 
+(_( Craig_NP sees_VVZ the_DT stain_NN spreading_VVG again_RB ._SENT )_) 
+CRAIG_NP :_: Oh_UH ,_, thanks_NNS ,_, Soph_NP ._SENT 
+SOPHIE_NN :_: Sorry_JJ ._SENT You_PP know_VVP what_WP I_PP mean_VVP ._SENT Okay_RB ,_, I_PP 'll_MD talk_VV to_TO Craig_NP ._SENT Okay_JJ ._SENT 
+Now_RB she_PP 's_VBZ having_VHG a_DT Dylan_NN crisis_NN on_IN top_NN of_IN the_DT Clare_NP crisis_NN ._SENT It_PP could_MD be_VB 
+another_DT all-nighter_NN ._SENT I_PP 'm_VBP sorry_JJ ,_, but_CC I_PP really_RB should_MD go_VV ._SENT Do_VV you_PP mind_VV if_IN 
+I_PP go_VVP ?_SENT 
+CRAIG_NP :_: No_UH ,_, not_RB at_IN all_DT ._SENT No_UH ,_, honestly_RB ._SENT Course_NN not_RB ._SENT Go_VV ._SENT 
+SOPHIE_NN :_: Because_IN I_PP could_MD stay_VV ._SENT 
+CRAIG_NP :_: No_UH ,_, go_VV on_RP ._SENT 
+SOPHIE_NN :_: I_PP mean_VVP ,_, we_PP 've_VHP got_VVN plans_NNS ._SENT 
+CRAIG_NN :_: Just_RB pizza_NN ._SENT 
+SOPHIE_NP :_: Yeah_UH ,_, it_PP 's_VBZ just_RB pizza_NN ._SENT Okay_RB ,_, right_RB ,_, I_PP 'm_VBP going_VVG ._SENT 
+CRAIG_NN :_: All_DT right_NN ,_, then_RB ._SENT Well_RB ,_, er_NNS ,_, I_PP 'll_MD see_VV you_PP soon_RB ._SENT 
+SOPHIE_NP :_: Yeah_UH ._SENT 
+CRAIG_NN :_: All_DT right_NN ._SENT And_CC give_VV me_PP a_DT call_NN ,_, and_CC I_PP hope_VVP everything_NN 's_VBZ okay_JJ ._SENT 
+SOPHIE_NN :_: Thanks_NNS ,_, sorry_RB ._SENT 
+(_( Sophie_NP leaves_VVZ the_DT flat_JJ and_CC hears_VVZ noises_NNS from_IN upstairs_NN ,_, then_RB footsteps_NNS ._SENT 
+She_PP leaves_VVZ the_DT house_NN ._SENT )_) 
+CRAIG_NN :_: Just_RB tell_VV her_PP ._SENT Just_RB tell_VV her_PP ._SENT I_PP love_VVP you_PP ._SENT I_PP love_VVP you_PP ._SENT Oh_UH ,_, just_RB ._SENT 
+Hey_UH ,_, I_PP do_VVP n't_RB know_VV if_IN you_PP knew_VVD ._SENT Oh_UH ._SENT 
+(_( The_DT doorbell_NN rings_NNS ._SENT )_) 
+CRAIG_NN :_: Every_DT time_NN ._SENT 
+(_( Sophie_NP has_VHZ left_VVN her_PP$ keys_NNS behind_IN on_IN a_DT fluffy_JJ pink_JJ key_JJ ring_NN ,_, so_RB he_PP picks_VVZ 
+them_PP up_RB and_CC goes_VVZ to_TO the_DT front_JJ door_NN ._SENT )_) 
+CRAIG_NN :_: I_PP love_VVP you_PP ._SENT I_PP love_VVP you_PP ._SENT 
+[_SYM Front_NP door_NN ]_SYM 
+
+CRAIG_NN :_: I_PP love_VVP you_PP ._SENT I_PP love_VVP you_PP ._SENT 
+(_( He_PP opens_VVZ the_DT door_NN ._SENT )_) 
+CRAIG_NN :_: I_PP love_VVP you_PP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, that_WDT 's_VBZ good_JJ ,_, because_IN I_PP 'm_VBP your_PP$ new_JJ lodger_NN ._SENT Do_VVP you_PP know_VVP ,_, 
+this_DT is_VBZ going_VVG to_TO be_VB easier_JJR than_IN I_PP expected_VVD ._SENT 
+(_( The_DT Doctor_NP takes_VVZ the_DT fluffy_JJ pink_JJ keys_NNS from_IN Craig_NP ._SENT There_EX is_VBZ a_DT Bluetooth_NP 
+device_NN in_IN his_PP$ ear_NN ._SENT )_) 
+CRAIG_NN :_: But_CC I_PP only_RB put_VVD the_DT advert_NN up_IN today_NN ._SENT I_PP did_VVD n't_RB put_VV my_PP$ address_NN ._SENT 
+DOCTOR_NN :_: Well_RB ,_, are_VBP n't_RB you_PP lucky_JJ I_PP came_VVD along_RP ?_SENT More_RBR lucky_JJ than_IN you_PP know_VVP ._SENT 
+Less_JJR of_IN a_DT young_JJ professional_NN ,_, more_JJR of_IN an_DT ancient_JJ amateur_NN ,_, but_CC frankly_RB 
+I_PP 'm_VBP an_DT absolute_JJ dream_NN ._SENT 
+CRAIG_NN :_: Hang_VV on_IN a_DT minute_NN ,_, mate_NN ._SENT I_PP do_VVP n't_RB know_VV if_IN I_PP want_VVP you_PP staying_VVG ._SENT And_CC 
+give_VV me_PP back_VV those_DT keys_NNS ._SENT You_PP ca_MD n't_RB have_VH those_DT ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, quite_RB right_RB ._SENT Have_VHP some_DT rent_NN ._SENT 
+(_( The_DT Doctor_NP hands_VVZ Craig_NP a_DT paper_NN take-away_JJ bag_NN with_IN lots_NNS of_IN twenty_CD pound_NN 
+notes_NNS in_IN it_PP ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ probably_RB quite_RB a_DT lot_NN ,_, is_VBZ n't_RB it_PP ?_SENT Looks_NNS like_IN a_DT lot_NN ._SENT Is_VBZ it_PP 
+a_DT lot_NN ?_SENT I_PP can_MD never_RB tell_VV ._SENT 
+(_( They_PP go_VVP into_IN the_DT hallway_NN ._SENT The_DT lights_NNS upstairs_RB are_VBP flickering_VVG ._SENT )_) 
+DOCTOR_NN :_: Do_VVP n't_RB spend_VV it_PP all_RB on_IN sweets_NNS ,_, unless_IN you_PP like_VVP sweets_NNS ._SENT I_PP like_VVP 
+sweets_NNS ._SENT Ooo_NP ._SENT 
+(_( The_DT Doctor_NP gives_VVZ Craig_NP a_DT couple_NN of_IN air_NN kisses_VVZ about_RB six_CD inches_NNS from_IN 
+each_DT cheek_NN ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ how_WRB we_PP greet_VVP each_DT other_JJ nowadays_RB ,_, is_VBZ n't_RB it_PP ?_SENT I_PP 'm_VBP the_DT 
+Doctor_NN ._SENT Well_RB ,_, they_PP call_VVP me_PP the_DT Doctor_NP ._SENT I_PP do_VVP n't_RB know_VV why_WRB ._SENT I_PP call_VVP me_PP the_DT 
+Doctor_NN ,_, too_RB ._SENT Still_RB do_VVP n't_RB know_VV why_WRB ._SENT 
+CRAIG_NP :_: Craig_NP Owens_NP ._SENT The_DT Doctor_NP ?_SENT 
+DOCTOR_NN :_: Yep_NP ._SENT Who_WP lives_VVZ upstairs_RB ?_SENT 
+CRAIG_NN :_: Just_RB some_DT bloke_NN ._SENT 
+DOCTOR_NN :_: What_WP 's_VBZ he_PP look_VVP like_IN ?_SENT 
+CRAIG_NN :_: Normal_JJ ._SENT He_PP 's_VBZ very_RB quiet_JJ ._SENT 
+(_( Crash_NP ._SENT )_) 
+CRAIG_NN :_: Usually_RB ._SENT Sorry_RB ,_, who_WP are_VBP you_PP again_RB ?_SENT Hello_UH ?_SENT 
+[_SYM Flat_NP ]_SYM 
+
+CRAIG_NN :_: Excuse_VV me_PP ?_SENT 
+DOCTOR_NN :_: Ah_UH ._SENT I_PP suppose_VVP that_WDT 's_VBZ dry_JJ rot_NN ?_SENT 
+CRAIG_NN :_: Or_CC damp_VV ._SENT Or_CC mildew_NN ._SENT 
+DOCTOR_NN :_: Or_CC none_NN of_IN the_DT above_JJ ._SENT 
+CRAIG_NN :_: I_PP 'll_MD get_VV someone_NN to_TO fix_VV it_PP ._SENT 
+DOCTOR_NN :_: No_UH ,_, I_PP 'll_MD fix_VV it_PP ._SENT I_PP 'm_VBP good_JJ at_IN fixing_VVG rot_NN ._SENT Call_VV me_PP the_DT 
+Rotmeister_NN ._SENT No_UH ,_, I_PP 'm_VBP the_DT Doctor_NP ,_, do_VVP n't_RB call_VV me_PP the_DT Rotmeister_NP ._SENT This_DT is_VBZ 
+the_DT most_RBS beautiful_JJ parlour_NN I_PP have_VHP ever_RB seen_VVN ._SENT You_PP 're_VBP obviously_RB a_DT man_NN of_IN 
+impeccable_JJ taste_NN ._SENT I_PP can_MD stay_VV ,_, Craig_NP ,_, ca_MD n't_RB I_PP ?_SENT Say_VVP I_PP can_MD ._SENT 
+CRAIG_NN :_: You_PP have_VHP n't_RB even_RB seen_VVN the_DT room_NN ._SENT 
+DOCTOR_NN :_: The_DT room_NN ?_SENT 
+CRAIG_NN :_: Your_PP$ room_NN ._SENT 
+DOCTOR_NN :_: My_PP$ room_NN ?_SENT Oh_UH ,_, yes_UH ._SENT My_PP$ room_NN ._SENT My_PP$ room_NN ._SENT Take_VV me_PP to_TO my_PP$ room_NN ._SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+(_( Eighties_NNS decor_NN ._SENT )_) 
+CRAIG_NP :_: Yeah_UH ,_, this_DT is_VBZ Mark_NP 's_POS old_JJ room_NN ._SENT He_PP owns_VVZ the_DT place_NN ._SENT Moved_VVN out_RP 
+about_IN a_DT month_NN ago_RB ._SENT This_DT uncle_NN he_PP 'd_MD never_RB even_RB heard_VVN of_IN died_VVN and_CC left_VVN a_DT 
+load_NN of_IN money_NN in_IN the_DT will_NN ._SENT 
+DOCTOR_NN :_: How_WRB very_RB convenient_JJ ._SENT This_DT 'll_MD do_VV just_RB right_RB ._SENT In_IN fact_NN ._SENT 
+(_( Another_DT loud_JJ crash_NN from_IN above_RB ._SENT The_DT Doctor_NP tests_VVZ the_DT air_NN with_IN a_DT damp_NN 
+finger_NN ._SENT )_) 
+DOCTOR_NN :_: No_DT time_NN to_TO lose_VV ._SENT I_PP 'll_MD take_VV it_PP ._SENT Ah_UH you_PP 'll_MD want_VV to_TO see_VV my_PP$ 
+credentials_NNS ._SENT There_RB ._SENT 
+(_( The_DT psychic_JJ paper_NN gets_VVZ passed_VVN behind_IN the_DT Doctor_NP 's_POS back_NN and_CC shown_VVN to_TO 
+Craig_NP three_CD times_NNS ._SENT )_) 
+DOCTOR_NN :_: National_NP Insurance_NP number_NN ._SENT NHS_NN number_NN ._SENT References_NNS ._SENT 
+CRAIG_NN :_: Is_VBZ that_IN/that a_DT reference_NN from_IN the_DT Archbishop_NN of_IN Canterbury_NP ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP his_PP$ special_JJ favourite_NN ._SENT Are_VBP you_PP hungry_JJ ?_SENT I_PP 'm_VBP hungry_JJ ._SENT 
+CRAIG_NN :_: I_PP have_VHP n't_RB got_VVN anything_NN in_IN ._SENT 
+
+[_SYM Flat_NP ]_SYM 
+
+DOCTOR_NN :_: You_PP 've_VHP got_VVN everything_NN I_PP need_VVP for_IN an_DT 
+omelette_NN fines_NNS herbes_NNS ,_, pour_VVP deux_NN ._SENT So_RB ,_, who_WP 's_VBZ the_DT girl_NN on_IN the_DT fridge_NN ?_SENT 
+(_( A_DT photograph_NN of_IN Craig_NP and_CC Sophie_NP ,_, along_RB with_IN the_DT Vincent_NP van_NP Gogh_NP 
+Self-portrait_NN in_IN Straw_NP Hat_NP postcard_NN ._SENT )_) 
+CRAIG_NN :_: My_PP$ friend_NN ._SENT Sophie_NP ._SENT 
+DOCTOR_NN :_: Girlfriend_NN ?_SENT 
+CRAIG_NN :_: A_DT friend_NN who_WP is_VBZ a_DT girl_NN ._SENT There_EX 's_VBZ nothing_NN going_VVG on_IN ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, that_WDT 's_VBZ completely_RB normal_JJ ._SENT Works_NNS for_IN me_PP ._SENT 
+CRAIG_NN :_: We_PP met_VVD at_IN work_NN about_IN a_DT year_NN ago_RB ,_, at_IN the_DT call_NN centre_NN ._SENT 
+DOCTOR_NN :_: Oh_UH really_RB ,_, a_DT communications_NNS exchange_NN ?_SENT That_DT could_MD be_VB handy_JJ ._SENT 
+CRAIG_NN :_: Firm_NN 's_VBZ going_VVG down_RP though_RB ._SENT The_DT bosses_NNS are_VBP using_VVG a_DT totally_RB rubbish_JJ 
+business_NN model_NN ._SENT I_PP know_VVP what_WP they_PP should_MD do_VV ._SENT I_PP got_VVD a_DT plan_NN all_RB worked_VVD 
+out_RB ._SENT But_CC I_PP 'm_VBP just_RB a_DT phone_NN drone_NN ,_, I_PP ca_MD n't_RB go_VV running_VVG in_IN saying_VVG I_PP know_VVP 
+best_RBS ._SENT Why_WRB am_VBP I_PP telling_VVG you_PP this_DT ?_SENT I_PP do_VVP n't_RB even_RB know_VV you_PP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, I_PP 've_VHP got_VVN one_CD of_IN those_DT faces_NNS ._SENT People_NNS never_RB stop_VVP blurting_VVG 
+out_IN their_PP$ plans_NNS while_IN I_PP 'm_VBP around_RB ._SENT 
+CRAIG_NN :_: Right_RB ._SENT Where_WRB 's_VBZ your_PP$ stuff_NN ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, do_VVP n't_RB worry_VV ,_, it_PP 'll_MD materialise_VV ._SENT If_IN all_DT goes_VVZ to_TO plan_VV ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+(_( The_DT Tardis_NP is_VBZ struggling_VVG to_TO stay_VV solid_JJ ._SENT )_) 
+AMY_NN :_: Come_VV on_IN ,_, which_WDT one_CD ?_SENT Which_WDT one_CD ?_SENT No._NN Why_WRB wo_MD n't_RB you_PP land_VV ?_SENT 
+[_SYM Flat_NP ]_SYM 
+
+(_( The_DT omelettes_NNS have_VHP been_VBN demolished_VVN ._SENT )_) 
+CRAIG_NP :_: Oh_UH ,_, that_WDT was_VBD incredible_JJ ._SENT That_DT was_VBD absolutely_RB brilliant_JJ ._SENT Where_WRB 
+did_VVD you_PP learn_VVP to_TO cook_VV ?_SENT 
+DOCTOR_NN :_: Paris_NP ,_, in_IN the_DT eighteenth_JJ century_NN ._SENT No_UH ,_, hang_VV on_RP ,_, that_WDT 's_VBZ not_RB 
+recent_JJ ,_, is_VBZ it_PP ?_SENT Seventeenth_JJ ?_SENT No_UH ,_, no_UH ,_, no._NP Twentieth_NP ._SENT Sorry_RB ,_, I_PP 'm_VBP not_RB used_VVN 
+to_TO doing_VVG them_PP in_IN the_DT right_JJ order_NN ._SENT 
+CRAIG_NP :_: Has_VHZ anyone_NN ever_RB told_VVD you_PP that_IN/that you_PP 're_VBP a_DT bit_NN weird_JJ ?_SENT 
+DOCTOR_NN :_: They_PP never_RB really_RB stop_VV ._SENT Ever_RB been_VBN to_TO Paris_NP ,_, Craig_NP ?_SENT 
+CRAIG_NP :_: Nah_NP ._SENT I_PP ca_MD n't_RB see_VV the_DT point_NN of_IN Paris_NP ._SENT I_PP 'm_VBP not_RB much_JJ of_IN a_DT 
+traveller_NN ._SENT 
+DOCTOR_NN :_: I_PP can_MD tell_VV from_IN your_PP$ sofa_NN ._SENT 
+CRAIG_NN :_: My_PP$ sofa_NN ?_SENT 
+DOCTOR_NN :_: You_PP 're_VBP starting_VVG to_TO look_VV like_IN it_PP ._SENT 
+CRAIG_NN :_: Thanks_NNS ,_, mate_NN ,_, that_WDT 's_VBZ lovely_JJ ._SENT No_UH ,_, I_PP like_VVP it_PP here_RB ._SENT I_PP 'd_MD miss_VV it_PP ,_, 
+I_PP 'd_MD miss_VV 
+DOCTOR_NN :_: Those_DT keys_NNS ._SENT 
+CRAIG_NP :_: What_WP ?_SENT 
+DOCTOR_NN :_: You_PP 're_VBP sort_RB of_IN fondling_VVG them_PP ._SENT 
+CRAIG_NN :_: I_PP 'm_VBP holding_VVG them_PP ._SENT 
+DOCTOR_NN :_: Right_RB ._SENT 
+CRAIG_NN :_: Anyway_RB ._SENT These_DT ,_, these_DT are_VBP your_PP$ keys_NNS ._SENT 
+DOCTOR_NN :_: I_PP can_MD stay_VV ?_SENT 
+CRAIG_NP :_: Yeah_UH ,_, you_PP 're_VBP weird_JJ and_CC you_PP can_MD cook_VV ._SENT It_PP 's_VBZ good_JJ enough_RB for_IN me_PP ._SENT 
+Right_RB ._SENT Outdoor_JJ ,_, front_JJ door_NN ,_, your_PP$ door_NN ._SENT 
+DOCTOR_NN :_: My_PP$ door_NN ._SENT My_PP$ place_NN ._SENT My_PP$ gaff_NN ._SENT Ha_NP ha_NP !_SENT Yes_UH ._SENT Me_PP with_IN a_DT key_NN ._SENT 
+CRAIG_NN :_: And_CC listen_VV ,_, Mark_NP and_CC I_NP ,_, we_PP had_VHD an_DT arrangement_NN where_WRB if_IN you_PP ever_RB 
+need_VV me_PP out_RP of_IN your_PP$ hair_NN ,_, just_RB give_VV me_PP a_DT shout_NN ,_, okay_JJ ?_SENT 
+DOCTOR_NN :_: Why_WRB would_MD I_PP want_VV that_DT ?_SENT 
+CRAIG_NN :_: In_IN case_NN you_PP want_VVP to_TO bring_VV someone_NN round_NN ._SENT A_DT girlfriend_NN or_CC ,_, a_DT 
+boyfriend_NN ?_SENT 
+CRAIG_NP :_: Oh_UH ,_, I_PP will_MD ._SENT I_PP 'll_MD shout_VV if_IN that_DT happens_VVZ ._SENT Yes_UH ._SENT Something_NN like_IN ,_, I_PP 
+was_VBD not_RB expecting_VVG this_DT !_SENT By_IN the_DT way_NN ,_, that_RB ._SENT The_DT rot_NN ._SENT I_PP 've_VHP got_VVN the_DT 
+strangest_JJS feeling_NN we_PP should_MD n't_RB touch_VV it_PP ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Earth_NN to_TO Pond_NP ,_, Earth_NN to_TO Pond_NP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Come_VVN in_IN ,_, Pond_NP ._SENT 
+AMY_NN :_: Doctor_NN !_SENT 
+(_( Massive_JJ feedback_NN through_IN the_DT earpiece_NN ._SENT )_) 
+AMY_NN :_: Sorry_JJ ._SENT 
+DOCTOR_NN :_: Could_MD you_PP not_RB wreck_VV my_PP$ new_JJ earpiece_NN ,_, Pond_NP ?_SENT 
+
+[_SYM Craig_NP 's_POS room_NN ]_SYM 
+
+(_( Craig_NP is_VBZ on_IN his_PP$ phone_NN and_CC looking_VVG at_IN the_DT bank_NN 
+notes_NNS ._SENT )_) 
+CRAIG_NP :_: No_UH ,_, I_PP mean_VVP ,_, he_PP seems_VVZ a_DT laugh_NN ._SENT He_PP 's_VBZ a_DT bit_NN weird_JJ ._SENT Good_JJ weird_NN ,_, you_PP 
+know_VV ?_SENT 
+SOPHIE_NN [_SYM OC_NP ]_SYM :_: And_CC he_PP just_RB happens_VVZ to_TO have_VH three_CD grand_JJ on_IN him_PP in_IN a_DT paper_NN 
+bag_NN ?_SENT 
+CRAIG_NP :_: Yeah_UH ._SENT 
+[_SYM Sophie_NP 's_POS room_NN ]_SYM 
+
+SOPHIE_NN :_: Wait_VV ,_, wait_VV ._SENT The_DT Doctor_NP ?_SENT 
+[_SYM Craig_NP 's_POS room_NN ]_SYM 
+
+SOPHIE_NN [_SYM OC_NP ]_SYM :_: Craig_NP ,_, what_WP if_IN he_PP 's_VBZ a_DT dealer_NN ?_SENT 
+
+[_SYM Aickman_NP Road_NP ]_SYM 
+
+(_( A_DT woman_NN is_VBZ walking_VVG along_RP after_IN a_DT late_JJ night_NN at_IN a_DT 
+club_NN ._SENT )_) 
+MAN_NN [_SYM OC_NP ]_SYM :_: Hello_UH ._SENT Stop_VV ,_, please_UH ._SENT Can_MD you_PP hear_VV me_PP ?_SENT I_PP need_VVP your_PP$ help_NN ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: How_WRB 's_VBZ the_DT Tardis_NP coping_NN ?_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+(_( Amy_NP holds_VVZ out_RP the_DT hand_NN set_VVD ._SENT )_) 
+AMY_NN :_: See_VV for_IN yourself_PP ._SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Ooo_NP ,_, nasty_JJ ._SENT She_PP 's_VBZ locked_VVN in_IN a_DT 
+materialisation_NN loop_NN ,_, trying_VVG to_TO land_VV again_RB 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: But_CC she_PP ca_MD n't_RB ._SENT 
+AMY_NN :_: Hmm_NP ._SENT And_CC whatever_WDT 's_VBZ stopping_VVG her_PP is_VBZ upstairs_JJ in_IN that_DT flat_JJ ._SENT So_RB ,_, go_VVP 
+upstairs_NN and_CC sort_VV it_PP ._SENT 
+
+[_SYM Aickman_NP Road_NP ]_SYM 
+
+MAN_NN [_SYM OC_NP ]_SYM :_: Please_UH ._SENT My_PP$ little_JJ girl_NN 's_VBZ hurt_VVN ._SENT 
+(_( The_DT woman_NN goes_VVZ inside_RB ._SENT )_) 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV what_WP it_PP is_VBZ yet_RB ._SENT Anything_NN that_RB 
+can_MD stop_VV the_DT Tardis_NP from_IN landing_NN is_VBZ big_JJ ._SENT Scary_JJ big_JJ ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Wait_VV ._SENT Are_VBP you_PP scared_VVN ?_SENT 
+
+[_SYM House_NP ]_SYM 
+
+(_( A_DT seemingly_RB younger_JJR man_NN is_VBZ standing_VVG at_IN the_DT top_NN of_IN 
+the_DT stairs_NNS ._SENT )_) 
+MAN_NN [_SYM OC_NP ]_SYM :_: I_PP 'm_VBP so_RB sorry_JJ ,_, but_CC will_MD you_PP help_VV me_PP ?_SENT Please_UH ?_SENT 
+CLUBBER_NN :_: Help_VV you_PP ?_SENT 
+(_( She_PP goes_VVZ up_RP the_DT stairs_NNS ._SENT )_) 
+
+[_SYM Craig_NP 's_POS room_NN ]_SYM 
+
+SOPHIE_NN [_SYM OC_NP ]_SYM :_: A_DT bow_NN tie_NN ?_SENT Are_VBP you_PP serious_JJ ?_SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Be_VB fair_JJ ._SENT Could_MD be_VB even_RB 
+CRAIG_NN :_: Hang_VV on_IN a_DT sec_NN ._SENT 
+
+[_SYM Sophie_NP 's_POS room_NN ]_SYM 
+
+SOPHIE_NP :_: What_WP ?_SENT Craig_NP ._SENT 
+[_SYM Craig_NP 's_POS room_NN ]_SYM 
+
+SOPHIE_NN [_SYM OC_NP ]_SYM :_: Craig_NP ?_SENT 
+(_( Craig_NP has_VHZ got_VVN out_RP of_IN bed_NN to_TO listen_VV to_TO the_DT Doctor_NP 's_POS voice_NN coming_VVG 
+through_IN the_DT wall_NN ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Orange_JJ juice_NN ._SENT Neocene_JJ Arbuckle_NP ._SENT Rare_JJ tarantula_NN on_IN the_DT 
+table_NN ._SENT Oh_UH ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: I_PP ca_MD n't_RB go_VV up_RP there_RB until_IN I_PP know_VVP what_WP it_PP is_VBZ 
+and_CC how_WRB to_TO deal_VV with_IN it_PP ._SENT And_CC it_PP is_VBZ vital_JJ that_IN/that this_DT man_NN upstairs_RB does_VVZ n't_RB 
+realise_VV who_WP and_CC what_WP I_PP am_VBP ._SENT So_IN no_DT sonicking_NN ._SENT No_DT advanced_JJ technology_NN ._SENT I_PP 
+can_MD only_RB use_VV this_DT because_IN we_PP 're_VBP on_IN scramble_NN ._SENT To_TO anyone_NN else_JJ hearing_NN 
+this_DT conversation_NN ,_, we_PP 're_VBP talking_VVG absolute_JJ gibberish_NN ._SENT 
+
+[_SYM Craig_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Practical_JJ eruption_NN in_IN chicken_NN ._SENT 
+Descartes_NP Lombardy_NP spiral_NN ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Now_RB all_RB I_PP 've_VHP got_VVN to_TO do_VV is_VBZ pass_VV as_IN an_DT 
+ordinary_JJ human_NN being_VBG ._SENT Simple_JJ ._SENT What_WP could_MD possibly_RB go_VV wrong_JJ ?_SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: Have_VHP you_PP seen_VVN you_PP ?_SENT 
+DOCTOR_NN :_: So_RB you_PP 're_VBP just_RB going_VVG to_TO be_VB snide_JJ ._SENT No_DT helpful_JJ hints_NNS ?_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Hmm_NP ._SENT Well_RB ,_, here_RB 's_VBZ one_CD ._SENT Bow_NN tie_NN ,_, get_VV rid_VVN ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Bow_NN ties_NNS are_VBP cool_JJ ._SENT Come_VVN on_IN ,_, Amy_NP ,_, I_PP 'm_VBP a_DT 
+normal_JJ bloke_NN ._SENT Tell_VV me_PP what_WP normal_JJ blokes_NNS do_VVP ._SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: They_PP watch_VVP telly_NN ,_, they_PP play_VVP football_NN 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: They_PP go_VVP down_RP the_DT pub_NN ._SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: I_PP could_MD do_VV those_DT things_NNS ._SENT I_PP do_VVP n't_RB ,_, but_CC I_PP 
+could_MD ._SENT 
+(_( Bang_VV upstairs_JJ ._SENT )_) 
+DOCTOR_NN :_: Hang_VV on_RP ._SENT Wait_VV ,_, wait_VV ,_, wait_VV ._SENT Amy_NP ?_SENT 
+(_( The_DT Tardis_NP is_VBZ going_VVG crazy_JJ and_CC the_DT hands_NNS on_IN the_DT Doctor_NP 's_POS alarm_NN clock_NN 
+and_CC wrist_NN watch_NN are_VBP going_VVG backwards_RB and_CC forwards_RB very_RB rapidly_RB ._SENT )_) 
+DOCTOR_NN :_: Interesting_JJ ._SENT Localised_VVN time_NN loop_NN ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Ow_NN ._SENT What_WP 's_VBZ all_RB that_RB ?_SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Time_NN distortion_NN ._SENT Whatever_WDT 's_VBZ happening_VVG 
+upstairs_NN is_VBZ still_RB affecting_VVG you_PP ._SENT 
+(_( Lights_NNS are_VBP flashing_VVG in_IN the_DT upstairs_RB flat_JJ ._SENT The_DT woman_NN is_VBZ screaming_VVG ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: It_PP 's_VBZ stopped_VVN ._SENT Ish_NP ._SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+AMY_NN [_SYM OC_NP ]_SYM :_: How_WRB about_RB your_PP$ end_NN ?_SENT 
+DOCTOR_NN :_: My_PP$ end_NN 's_VBZ good_JJ ._SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: So_RB 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NNS :_: Does_VVZ n't_RB sound_VV great_JJ ,_, but_CC nothing_NN to_TO worry_VV 
+about_RB ?_SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, no_UH ,_, not_RB really_RB ._SENT Just_RB keep_VV the_DT 
+zigzag_JJ plotter_NN on_IN full_JJ ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: That_WDT 'll_MD protect_VV you_PP ._SENT 
+AMY_NN :_: Ow_NN ._SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Amy_NP ,_, I_PP said_VVD the_DT zigzag_JJ plotter_NN ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: I_PP pulled_VVD the_DT zigzag_JJ plotter_NN ._SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: What_WP ,_, you_PP 're_VBP standing_VVG with_IN the_DT door_NN behind_RB 
+you_PP ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Yes_UH ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Okay_JJ ,_, take_VV two_CD steps_NNS to_TO your_PP$ right_NN and_CC pull_VV 
+it_PP again_RB ._SENT 
+(_( Still_RB the_DT same_JJ switch_NN ,_, mind_VV you_PP ._SENT )_) 
+DOCTOR_NN :_: Now_RB ,_, I_PP must_MD not_RB use_VV the_DT sonic_JJ ._SENT I_PP 've_VHP got_VVN work_NN to_TO do_VV ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Need_VVP to_TO pick_VV up_RP a_DT few_JJ items_NNS ._SENT 
+AMY_NN :_: Hey_UH ._SENT 
+
+[_SYM Aickman_NP Road_NP ]_SYM 
+
+(_( The_DT Doctor_NP returns_NNS to_TO the_DT terrace_NN with_IN a_DT shopping_NN 
+trolley_NN full_JJ of_IN miscellanea_NN ._SENT A_DT cat_NN protests_NNS ._SENT )_) 
+DOCTOR_NN :_: Shush_VV ._SENT Do_VVP n't_RB get_VV comfortable_JJ ._SENT 
+
+[_SYM Corridor_NP ]_SYM 
+
+(_( Craig_NP is_VBZ waiting_VVG for_IN the_DT bathroom_NN ._SENT The_DT Doctor_NP is_VBZ 
+singing_VVG to_TO the_DT tune_NN of_IN La_NP Donna_NP e_SYM mobile_JJ ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Ta_NP ra_NN ra_NN boom_NN de_NP ay_NN quanda_NN rilo_NN ,_, something_NN is_VBZ happening_VVG ._SENT )_) 
+CRAIG_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Hello_UH ?_SENT 
+CRAIG_NP :_: How_WRB long_JJ are_VBP you_PP going_VVG to_TO be_VB in_IN there_RB ?_SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Oh_UH ,_, sorry_RB ._SENT I_PP like_VVP a_DT good_JJ soak_NN ._SENT 
+(_( Banging_VVG from_IN upstairs_NN ._SENT )_) 
+CRAIG_NP :_: What_WP the_DT hell_NN was_VBD that_DT ?_SENT 
+
+[_SYM Bathroom_NP ]_SYM 
+
+(_( The_DT Doctor_NP is_VBZ in_IN the_DT shower_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP did_VVD you_PP say_VVP ?_SENT 
+
+[_SYM Corridor_NP ]_SYM 
+
+CRAIG_NN :_: I_PP 'm_VBP just_RB going_VVG to_TO go_VV upstairs_NN ._SENT See_VV if_IN he_PP 's_VBZ 
+okay_JJ ._SENT 
+
+[_SYM Bathroom_NP ]_SYM 
+
+DOCTOR_NN :_: Sorry_JJ ?_SENT 
+(_( Craig_NP goes_VVZ up_RP the_DT stairs_NNS ._SENT )_) 
+DOCTOR_NN :_: What_WP did_VVD you_PP say_VVP ?_SENT 
+
+[_SYM Upstairs_JJ door_NN ]_SYM 
+
+(_( A_DT grey_JJ haired_JJ figure_NN opens_VVZ the_DT door_NN on_IN the_DT chain_NN ._SENT )_) 
+
+MAN_NN :_: Yes_UH ?_SENT Hello_UH ?_SENT 
+
+[_SYM Bathroom_NP ]_SYM 
+
+DOCTOR_NN :_: Craig_NP ?_SENT 
+(_( The_DT Doctor_NP gets_VVZ out_RP of_IN the_DT shower_NN ,_, slips_VVZ and_CC falls_VVZ ._SENT )_) 
+DOCTOR_NN :_: Ow_NN ._SENT 
+
+[_SYM Upstairs_JJ door_NN ]_SYM 
+
+CRAIG_NN :_: It_PP 's_VBZ me_PP from_IN downstairs_NN ._SENT I_PP heard_VVD a_DT big_JJ bang_NN ._SENT 
+
+[_SYM Bathroom_NP ]_SYM 
+
+DOCTOR_NN :_: No_DT choice_NN ._SENT It_PP 's_VBZ sonicking_VVG time_NN ._SENT 
+(_( The_DT Doctor_NP grabs_VVZ an_DT electric_JJ toothbrush_NN ._SENT )_) 
+
+[_SYM Upstairs_JJ door_NN ]_SYM 
+
+MAN_NN :_: Thank_VV you_PP ,_, Craig_NP ,_, but_CC I_PP do_VVP n't_RB need_VV your_PP$ help_NN ._SENT 
+
+[_SYM House_NP ]_SYM 
+
+(_( The_DT Doctor_NP ,_, with_IN a_DT towel_NN around_IN his_PP$ waist_NN ,_, meets_VVZ 
+Craig_NP at_IN the_DT foot_NN of_IN the_DT stairs_NNS ._SENT He_PP points_VVZ the_DT toothbrush_NN at_IN the_DT 
+upstairs_JJ door_NN and_CC makes_VVZ it_PP go_VV whirr_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP happened_VVD ,_, what_WP 's_VBZ going_VVG on_RP ?_SENT 
+CRAIG_NN :_: Is_VBZ that_IN/that my_PP$ toothbrush_NN ?_SENT 
+DOCTOR_NN :_: Correct_VV ._SENT You_PP spoke_VVD to_TO the_DT man_NN upstairs_NN ?_SENT 
+CRAIG_NP :_: Yeah_UH ._SENT 
+DOCTOR_NN :_: What_WP did_VVD he_PP look_VVP like_IN ?_SENT 
+CRAIG_NP :_: More_RBR normal_JJ than_IN you_PP do_VVP at_IN the_DT moment_NN ,_, mate_NN ._SENT What_WP are_VBP you_PP doing_VVG ?_SENT 
+
+DOCTOR_NN :_: I_PP thought_VVD you_PP might_MD be_VB in_IN trouble_NN ._SENT 
+CRAIG_NN :_: Thanks_NNS ._SENT Well_RB ,_, if_IN I_PP ever_RB am_VBP ,_, you_PP can_MD come_VV and_CC save_VV me_PP with_IN my_PP$ 
+toothbrush_NN ._SENT 
+(_( Craig_NP 's_POS phone_NN rings_NNS inside_IN the_DT flat_JJ ,_, so_RB he_PP goes_VVZ to_TO answer_VV it_PP ._SENT The_DT 
+Doctor_NN starts_VVZ up_RP the_DT stairs_NNS as_IN Sophie_NP comes_VVZ in_IN the_DT front_JJ door_NN ._SENT )_) 
+SOPHIE_NP :_: Oh_UH !_SENT Hello_UH ._SENT 
+DOCTOR_NN :_: Ah_UH !_SENT Hello_UH ._SENT The_DT Doctor_NP ._SENT 
+SOPHIE_NN :_: Right_RB ._SENT 
+DOCTOR_NN :_: You_PP must_MD be_VB Sophie_NP ._SENT 
+(_( Air_NP kisses_VVZ for_IN a_DT greeting_NN again_RB ._SENT )_) 
+SOPHIE_NP :_: Oh_UH ._SENT Oh_UH ._SENT 
+
+[_SYM Flat_NP ]_SYM 
+
+CRAIG_NP :_: No_UH ,_, Dom_NP 's_POS in_IN Malta_NP ._SENT There_EX 's_VBZ nobody_NN around_RB ._SENT 
+Hang_NP on_IN a_DT sec_NN ._SENT We_PP 've_VHP got_VVN a_DT match_NN today_NN ,_, pub_NN league_NN ._SENT We_PP 're_VBP one_CD down_RB if_IN 
+you_PP fancy_VVP it_PP ?_SENT 
+DOCTOR_NN :_: Pub_NN league_NN ._SENT A_DT drinking_NN competition_NN ?_SENT 
+CRAIG_NP :_: No_UH ,_, football_NN ._SENT Play_NN football_NN ._SENT 
+DOCTOR_NN :_: Football_NN ._SENT Football_NN ._SENT Yes_UH ,_, blokes_NNS play_VVP football_NN ._SENT I_PP 'm_VBP good_JJ at_IN 
+football_NN ,_, I_PP think_VVP ._SENT 
+CRAIG_NN :_: You_PP 've_VHP saved_VVN my_PP$ life_NN ._SENT I_PP 've_VHP got_VVN somebody_NN ._SENT Yeah_UH ,_, all_DT right_NN ,_, I_PP 'll_MD 
+see_VV you_PP down_RP there_RB ._SENT Hey_UH ,_, Soph_NP ._SENT 
+SOPHIE_NP :_: Hey_UH ,_, I_PP thought_VVD I_PP 'd_MD come_VV early_RB and_CC meet_VV your_PP$ new_JJ flat_JJ mate_NN ._SENT 
+DOCTOR_NN :_: Do_VVP you_PP play_VVP ,_, Sophie_NP ?_SENT 
+CRAIG_NP :_: No_UH ,_, Soph_NP just_RB stands_VVZ on_IN the_DT sidelines_NNS ._SENT She_PP 's_VBZ my_PP$ mascot_NN ._SENT 
+SOPHIE_NN :_: I_PP 'm_VBP your_PP$ mascot_NN ?_SENT Mascot_NP ?_SENT 
+CRAIG_NP ;_: Well_UH ,_, yeah_RB ,_, not_RB my_PP$ mascot_NN ._SENT It_PP 's_VBZ a_DT football_NN match_NN ._SENT I_PP ca_MD n't_RB take_VV a_DT 
+date_NN ._SENT 
+SOPHIE_NN :_: I_PP did_VVD n't_RB say_VV I_PP was_VBD your_PP$ date_NN ._SENT 
+CRAIG_NN :_: Neither_CC did_VVD I_PP ._SENT 
+DOCTOR_NN :_: Better_VV get_VV dressed_VVN ._SENT 
+CRAIG_NN :_: The_DT spare_JJ kit_NN 's_VBZ just_RB in_IN the_DT bottom_JJ drawer_NN ._SENT 
+DOCTOR_NN :_: Bit_NN of_IN a_DT mess_NN ._SENT 
+(_( The_DT Doctor_NP goes_VVZ into_IN his_PP$ room_NN and_CC shuts_VVZ the_DT door_NN ._SENT )_) 
+CRAIG_NP :_: What_WP do_VVP you_PP think_VVP ?_SENT 
+SOPHIE_NN :_: You_PP did_VVD n't_RB say_VV he_PP was_VBD gorgeous_JJ ._SENT 
+(_( The_DT Doctor_NP puts_VVZ his_PP$ head_NN out_RP of_IN his_PP$ room_NN ._SENT )_) 
+CRAIG_NN :_: You_PP unlocked_VVD the_DT door_NN ._SENT How_WRB did_VVD you_PP do_VVP that_RB ?_SENT Those_DT are_VBP your_PP$ keys_NNS ._SENT 
+You_PP must_MD have_VH left_VVN them_PP last_JJ time_NN you_PP came_VVD here_RB ._SENT 
+SOPHIE_NP :_: Yeah_UH ,_, but_CC I_PP ._SENT How_WRB do_VVP you_PP know_VVP these_DT are_VBP my_PP$ keys_NNS ?_SENT 
+CRAIG_NN :_: I_PP 've_VHP been_VBN holding_VVG them_PP ._SENT 
+SOPHIE_NN :_: I_PP have_VHP got_VVN another_DT set_NN ._SENT 
+DOCTOR_NN :_: You_PP 've_VHP got_VVN two_CD sets_NNS of_IN keys_NNS to_TO someone_NN else_RB 's_POS house_NN ?_SENT 
+SOPHIE_NP :_: Yeah_UH ?_SENT 
+DOCTOR_NN :_: I_PP see_VVP ._SENT You_PP must_MD like_VV it_PP here_RB too_RB ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+(_( Putting_VVG on_IN the_DT number_NN 11_CD shirt_NN back_RB to_TO front_NN ._SENT )_) 
+DOCTOR_NN :_: So_RB ,_, I_PP 'm_VBP going_VVG out_RP ._SENT If_IN I_PP hang_VVP about_IN the_DT house_NN all_RB the_DT time_NN ,_, him_PP 
+upstairs_NN might_MD get_VV suspicious_JJ and_CC notice_VV me_PP ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Football_NN ._SENT Okay_RB ,_, well_RB done_VVN ._SENT That_DT is_VBZ normal_JJ ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Yeah_UH ,_, football_NN ._SENT All_DT outdoorsy_NN ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Now_RB ,_, football_NN 's_VBZ the_DT one_CD with_IN the_DT sticks_NNS ,_, 
+is_VBZ n't_RB it_PP ?_SENT 
+
+[_SYM Park_NP ]_SYM 
+
+CRAIG_NP :_: What_WP are_VBP you_PP actually_RB called_VVD ?_SENT What_WP 's_VBZ your_PP$ 
+proper_JJ name_NN ?_SENT 
+DOCTOR_NN :_: Just_RB call_VVP me_PP the_DT Doctor_NP ._SENT 
+SOPHIE_NP :_: Yeah_UH ._SENT 
+CRAIG_NN :_: I_PP ca_MD n't_RB go_VV up_RP to_TO these_DT guys_NNS and_CC say_VV hey_UH ,_, this_DT is_VBZ my_PP$ new_JJ flat_NN 
+mate_NN ,_, he_PP 's_VHZ called_VVN the_DT Doctor_NP ._SENT 
+DOCTOR_NN :_: Why_WRB not_RB ?_SENT 
+CRAIG_NN :_: Because_IN it_PP 's_VBZ weird_JJ ._SENT 
+(_( They_PP get_VVP to_TO the_DT pitch_NN ._SENT )_) 
+SEAN_NP :_: All_DT right_NN ,_, Craig_NP ._SENT Soph_NP ._SENT All_DT right_NN ,_, mate_NN ._SENT 
+DOCTOR_NN :_: Hello_UH ,_, I_PP 'm_VBP Craig_NP 's_POS new_JJ flat_JJ mate_NN ._SENT I_PP 'm_VBP called_VVN the_DT Doctor_NP ._SENT 
+(_( Air_NP kisses_VVZ not_RB well_RB received_VVN ._SENT )_) 
+SEAN_NP :_: All_DT right_NN ,_, Doctor_NP ._SENT I_PP 'm_VBP Sean_NP ._SENT So_RB ,_, where_WRB are_VBP you_PP strongest_JJS ?_SENT 
+DOCTOR_NN :_: Arms_NNS ._SENT 
+CRAIG_NP :_: No_UH ,_, he_PP means_VVZ what_WDT position_NN on_IN the_DT field_NN ._SENT 
+DOCTOR_NN :_: Not_RB sure_JJ ._SENT The_DT front_NN ?_SENT The_DT side_NN ?_SENT Below_RB ._SENT 
+SEAN_NP :_: Are_VBP you_PP any_DT good_JJ though_RB ?_SENT 
+DOCTOR_NN :_: Let_VV 's_VBZ find_VV out_RP ._SENT 
+(_( The_DT game_NN is_VBZ underway_JJ ._SENT )_) 
+WOMAN_NN :_: Yeah_UH ,_, we_PP 're_VBP going_VVG to_TO win_VV ._SENT 
+(_( The_DT Doctor_NP is_VBZ very_RB nimble_JJ ,_, dodging_VVG other_JJ players_NNS whilst_IN dribbling_VVG the_DT 
+ball_NN ._SENT )_) 
+SOPHIE_NN :_: That_WDT 's_VBZ not_RB bad_JJ ._SENT Yes_UH !_SENT Go_VV !_SENT 
+CRAIG_NP :_: One_CD two_CD ._SENT One_CD two_CD ._SENT 
+(_( But_CC he_PP does_VVZ n't_RB pass_VV to_TO Craig_NP ._SENT )_) 
+SOPHIE_NN :_: Go_VV on_IN ,_, Doctor_NP !_SENT Go_VV on_IN ,_, Doctor_NP !_SENT 
+(_( Goal_NN !_SENT )_) 
+SOPHIE_NN :_: Doctor_NN !_SENT Doctor_NN !_SENT You_PP 're_VBP brilliant_JJ ._SENT You_PP 're_VBP amazing_JJ ._SENT 
+PLAYER_NN :_: Come_VV on_IN ,_, Craig_NP ._SENT Catch_VV up_RB ,_, mate_NN ._SENT 
+SOPHIE_NN :_: Come_VV on_IN ,_, Craig_NP ._SENT Show_VV them_PP what_WP you_PP 've_VHP got_VVN ._SENT 
+(_( Craig_NP is_VBZ about_RB to_TO take_VV the_DT kick_NN when_WRB the_DT Doctor_NP steals_VVZ it_PP from_IN him_PP and_CC 
+scores_NNS again_RB to_TO general_JJ rejoicing_VVG ._SENT )_) 
+DOCTOR_NN :_: Oh_UH yes_UH ,_, I_PP love_VVP this_DT game_NN ._SENT 
+SPECTATORS_NNS :_: Doctor_NN !_SENT Doctor_NN !_SENT Doctor_NN !_SENT Doctor_NN !_SENT 
+(_( More_JJR goals_NNS and_CC Craig_NP gets_VVZ more_RBR annoyed_JJ ._SENT )_) 
+
+[_SYM Aickman_NP Road_NP ]_SYM 
+
+(_( A_DT woman_NN is_VBZ passing_VVG by_IN when_WRB she_PP hears_VVZ a_DT girl_NN 's_POS 
+voice_NN coming_VVG from_IN the_DT intercom_NN ._SENT )_) 
+GIRL_NN [_SYM OC_NP ]_SYM :_: Please_RB can_MD you_PP help_VV me_PP ?_SENT Can_MD you_PP help_VV me_PP ,_, please_UH ?_SENT Can_MD you_PP 
+help_VV me_PP ?_SENT 
+SANDRA_NP :_: Hello_UH ?_SENT 
+(_( The_DT door_NN unlocks_VVZ and_CC she_PP goes_VVZ inside_RB ._SENT )_) 
+
+[_SYM House_NP ]_SYM 
+
+(_( A_DT little_JJ girl_NN is_VBZ standing_VVG at_IN the_DT top_NN of_IN the_DT 
+stairs_NNS ,_, holding_VVG a_DT doll_NN ._SENT )_) 
+GIRL_NN :_: I_PP 've_VHP lost_VVN my_PP$ mum_JJ and_CC I_PP do_VVP n't_RB know_VV where_WRB she_PP is_VBZ ._SENT Please_RB can_MD you_PP 
+help_VV me_PP ?_SENT 
+SANDRA_NN :_: Help_VV you_PP ?_SENT You_PP poor_JJ thing_NN ._SENT What_WP 's_VBZ happened_VVN ?_SENT 
+GIRL_NN :_: Can_MD you_PP help_VV me_PP find_VV her_PP ?_SENT 
+(_( Sandra_NP goes_VVZ up_RP the_DT stairs_NNS ._SENT )_) 
+
+[_SYM Park_NP ]_SYM 
+
+SEAN_NP :_: You_PP are_VBP so_RB on_IN the_DT team_NN ._SENT Next_JJ week_NN we_PP 've_VHP got_VVN 
+the_DT Crown_NP and_CC Anchor_NP ._SENT We_PP 're_VBP going_VVG to_TO annihilate_VV them_PP ._SENT 
+DOCTOR_NN :_: Annihilate_VV ?_SENT No._NN No_DT violence_NN ,_, do_VVP you_PP understand_VV me_PP ?_SENT Not_RB while_IN 
+I_PP 'm_VBP around_RB ._SENT Not_RB today_NN ,_, not_RB ever_RB ._SENT I_PP 'm_VBP the_DT Doctor_NP ,_, the_DT Oncoming_NP Storm_NP ,_, 
+and_CC you_PP basically_RB meant_VVD beat_VV them_PP in_IN a_DT football_NN match_NN ,_, did_VVD n't_RB you_PP ?_SENT 
+SEAN_NP :_: Yeah_UH ._SENT 
+DOCTOR_NN :_: Lovely_JJ ._SENT What_WP sort_NN of_IN time_NN ?_SENT 
+(_( Craig_NP opens_VVZ a_DT can_NN of_IN drink_NN and_CC gets_VVZ sprayed_VVN with_IN the_DT foam_NN ._SENT Then_RB it_PP 
+repeats_NNS again_RB and_CC again_RB ._SENT Only_RB the_DT Doctor_NP is_VBZ unaffected_JJ ._SENT He_PP runs_VVZ ._SENT )_) 
+DOCTOR_NN :_: Amy_NP ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Amy_NP ?_SENT 
+AMY_NN :_: It_PP 's_VBZ happening_VVG again_RB ._SENT Worse_JJR ._SENT 
+
+[_SYM Park_NP ]_SYM 
+
+DOCTOR_NN :_: What_WP does_VVZ the_DT scanner_NN say_VVP ?_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: A_DT lot_NN of_IN nines_NNS ._SENT Is_VBZ it_PP good_JJ that_IN/that they_PP 're_VBP nines_NNS ?_SENT 
+Tell_VV me_PP it_PP 's_VBZ good_JJ that_IN/that they_PP 're_VBP all_DT nines_NNS ._SENT 
+
+[_SYM Park_NP ]_SYM 
+
+DOCTOR_NN :_: Yes_UH ,_, yes_UH ,_, it_PP 's_VBZ ,_, it_PP 's_VBZ good_JJ ._SENT Zigzag_JJ plotter_NN ._SENT 
+Zigzag_JJ plotter_NN ,_, Amy_NP ._SENT 
+(_( She_PP fiddles_VVZ with_IN the_DT lever_NN ._SENT There_EX is_VBZ a_DT bang_NN and_CC Amy_NP is_VBZ thrown_VVN to_TO the_DT 
+floor_NN ._SENT She_PP screams_VVZ ._SENT )_) 
+[_SYM Park_NP ]_SYM 
+
+DOCTOR_NN :_: Amy_NP ?_SENT Are_VBP you_PP there_RB ?_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Amy_NP ?_SENT 
+AMY_NN :_: Yes_UH ._SENT Hello_UH ._SENT 
+
+[_SYM Park_NP ]_SYM 
+
+DOCTOR_NN :_: Oh_UH ,_, thank_VV heavens_NNS ._SENT I_PP thought_VVD for_IN a_DT moment_NN 
+the_DT Tardis_NP had_VHD been_VBN flung_VVN off_RP into_IN the_DT vortex_NN 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: With_IN you_PP inside_IN it_PP ,_, lost_VVD forever_RB ._SENT 
+AMY_NN :_: What_WP ,_, you_PP mean_VVP that_IN/that could_MD actually_RB happen_VV ?_SENT 
+
+[_SYM Park_NP ]_SYM 
+
+AMY_NN [_SYM OC_NP ]_SYM :_: You_PP have_VHP got_VVN to_TO get_VV me_PP out_RP of_IN here_RB ._SENT 
+DOCTOR_NN :_: How_WRB are_VBP the_DT numbers_NNS ?_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: All_DT fives_NN ._SENT 
+
+[_SYM Park_NP ]_SYM 
+
+(_( The_DT time_NN loop_NN has_VHZ stopped_VVN ._SENT )_) 
+DOCTOR_NN :_: Fives_NNS ?_SENT Even_RB better_RBR ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Still_RB ,_, it_PP means_VVZ the_DT effect_NN 's_VBZ almost_RB 
+unbelievably_RB powerful_JJ and_CC dangerous_JJ ,_, but_CC do_VVP n't_RB worry_VV ._SENT 
+[_SYM Park_NP ]_SYM 
+
+DOCTOR_NN :_: Hang_VV on_IN ,_, okay_JJ ?_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Hey_UH ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: I_PP 've_VHP got_VVN some_DT rewiring_VVG to_TO do_VV ._SENT 
+AMY_NN :_: Hang_VV on_RP ._SENT 
+
+[_SYM Flat_NP ]_SYM 
+
+(_( Craig_NP knocks_VVZ on_IN the_DT Doctor_NP 's_POS door_NN ._SENT He_PP answers_VVZ 
+holding_VVG a_DT traffic_NN cone_NN ._SENT )_) 
+DOCTOR_NN :_: Hello_UH ,_, flat_JJ mate_NN ._SENT 
+CRAIG_NP :_: Hey_UH ,_, man_UH ._SENT Er_UH ,_, listen_VV ._SENT Er_UH ,_, Sophie_NP 's_POS coming_VVG round_NN tonight_NN and_CC I_NN 
+was_VBD wondering_VVG if_IN you_PP could_MD give_VV us_PP some_DT space_NN ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, do_VVP n't_RB mind_VV me_PP ._SENT You_PP wo_MD n't_RB even_RB know_VVP I_PP 'm_VBP here_RB ._SENT 
+(_( Bang_VV upstairs_JJ ._SENT )_) 
+DOCTOR_NN :_: That_WDT 's_VBZ the_DT idea_NN ._SENT 
+(_( He_PP shuts_VVZ the_DT door_NN ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Yes_UH ,_, perfect_JJ !_SENT What_WP a_DT beauty_NN ._SENT 
+(_( Meanwhile_RB ,_, in_IN the_DT kitchen_NN diner_NN with_IN the_DT stain_NN on_IN the_DT ceiling_NN ._SENT )_) 
+SOPHIE_NN :_: That_WDT 's_VHZ got_VVN bigger_JJR ._SENT 
+CRAIG_NP :_: Oh_UH ,_, yeah_RB ._SENT 
+SOPHIE_NP :_: Are_VBP we_PP going_VVG out_RP ?_SENT 
+CRAIG_NN :_: I_PP 've_VHP had_VHD a_DT bit_NN of_IN a_DT weird_JJ day_NN ._SENT Can_MD we_PP do_VV pizza_NN booze_NN telly_NN ?_SENT 
+SOPHIE_NP :_: Great_NP ,_, love_VVP it_PP ._SENT Wait_VV ._SENT No_DT Melina_NP ,_, no_DT crises_NNS ,_, no_DT interruptions_NNS ._SENT 
+(_( Sophie_NP turns_VVZ off_RP her_PP$ mobile_JJ phone_NN ._SENT )_) 
+CRAIG_NN :_: Great_JJ ._SENT Excellent_JJ ._SENT Er_UH ,_, Soph_NP ._SENT I_PP 've_VHP ,_, I_PP think_VVP ._SENT 
+SOPHIE_NP :_: Where_WRB 's_VBZ this_DT going_VVG ?_SENT 
+CRAIG_NN :_: I_PP think_VVP that_IN/that we_PP should_MD 
+SOPHIE_NP :_: Mmm_NP ?_SENT 
+(_( The_DT Doctor_NP pops_VVZ up_RP behind_IN the_DT sofa_NN ._SENT )_) 
+DOCTOR_NN :_: Hello_UH ._SENT 
+CRAIG_NP :_: What_WP ?_SENT 
+DOCTOR_NN :_: Whoops_NNS ._SENT Sorry_RB ._SENT Do_VVP n't_RB worry_VV ,_, I_PP was_VBD n't_RB listening_VVG ._SENT In_IN a_DT world_NN of_IN 
+my_PP$ own_JJ down_RB there_RB ._SENT 
+CRAIG_NN :_: I_PP thought_VVD you_PP were_VBD going_VVG out_RP ?_SENT 
+DOCTOR_NN :_: Just_RB re-connecting_VVG all_PDT the_DT electrics_NNS ._SENT It_PP 's_VBZ a_DT real_JJ mess_NN ._SENT Where_WRB 's_VBZ 
+the_DT on_IN switch_NN for_IN this_DT ?_SENT 
+(_( A_DT normal_JJ screwdriver_NN ._SENT )_) 
+CRAIG_NN :_: He_PP really_RB is_VBZ just_RB on_IN his_PP$ way_NN out_RP ._SENT 
+SOPHIE_NP :_: No_UH ,_, I_PP do_VVP n't_RB mind_VV ._SENT I_PP mean_VVP ,_, if_IN you_PP do_VVP n't_RB mind_VV ._SENT 
+CRAIG_NN :_: I_PP do_VVP n't_RB mind_VV ._SENT Why_WRB would_MD I_PP mind_VV ?_SENT 
+SOPHIE_NN :_: Then_RB stay_VV ._SENT Have_VHP a_DT drink_NN with_IN us_PP ._SENT 
+DOCTOR_NN :_: What_WP ?_SENT Do_VV I_PP have_VHP to_TO stay_VV now_RB ?_SENT 
+CRAIG_NP :_: Do_VVP you_PP want_VVP to_TO stay_VV ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB mind_VV ._SENT 
+SOPHIE_NN :_: Okay_JJ ._SENT 
+CRAIG_NN :_: Great_JJ ._SENT 
+(_( A_DT little_RB later_RBR ,_, the_DT Doctor_NP is_VBZ still_RB working_VVG on_IN the_DT wiring_NN loom_NN around_RB 
+his_PP$ neck_NN ._SENT )_) 
+SOPHIE_NN :_: Because_IN life_NN can_MD seem_VV pointless_JJ ,_, you_PP know_VVP ,_, Doctor_NP ._SENT Work_NN ,_, 
+weekend_NN ,_, work_NN ,_, weekend_NN ._SENT And_CC there_EX 's_VBZ six_CD billion_CD people_NNS on_IN the_DT planet_NN 
+doing_VVG pretty_RB much_RB the_DT same_JJ ._SENT 
+DOCTOR_NN :_: Six_CD billion_CD people_NNS ._SENT Watching_VVG you_PP two_CD at_IN work_NN ,_, I_PP 'm_VBP starting_VVG to_TO 
+wonder_VV where_WRB they_PP all_RB come_VVP from_IN ._SENT 
+SOPHIE_NP :_: Huh_NP ?_SENT What_WP do_VVP you_PP mean_VV by_IN that_DT ?_SENT 
+DOCTOR_NN :_: So_RB then_RB ,_, the_DT call_NN centre_NN ._SENT That_DT 's_VBZ no_RB good_JJ ,_, then_RB ._SENT What_WP do_VVP you_PP 
+really_RB want_VVP to_TO do_VV ?_SENT 
+SOPHIE_NP :_: Do_VVP n't_RB laugh_VV ._SENT I_PP only_RB ever_RB told_VVD Craig_NP about_IN it_PP ._SENT I_PP want_VVP to_TO work_VV 
+looking_VVG after_IN animals_NNS ._SENT Maybe_RB abroad_RB ?_SENT I_PP saw_VVD this_DT 
+orangutan_NN sanctuary_NN on_IN telly_NN ._SENT 
+DOCTOR_NN :_: What_WP 's_VBZ stopping_VVG you_PP ?_SENT 
+CRAIG_NN :_: She_PP ca_MD n't_RB ._SENT You_PP need_VVP loads_NNS of_IN qualifications_NNS ._SENT 
+SOPHIE_NP :_: Yeah_UH ,_, true_JJ ._SENT Plus_CC it_PP 's_VBZ scary_JJ ._SENT Everyone_NN I_PP know_VVP lives_NNS round_VVP here_RB ._SENT 
+Like_IN ,_, Craig_NP got_VVD offered_VVN a_DT job_NN in_IN London_NP ._SENT Better_JJR money_NN ._SENT He_PP did_VVD n't_RB take_VV 
+it_PP ._SENT 
+CRAIG_NP :_: What_WP 's_VBZ wrong_JJ with_IN staying_VVG here_RB ?_SENT I_PP ca_MD n't_RB see_VV the_DT point_NN of_IN London_NP ._SENT 
+
+DOCTOR_NN :_: Well_RB ,_, perhaps_RB that_DT 's_VBZ you_PP ,_, then_RB ._SENT Perhaps_RB you_PP 'll_MD just_RB have_VH to_TO 
+stay_VV here_RB ,_, secure_JJ and_CC a_DT little_JJ bit_NN miserable_JJ ,_, till_IN the_DT day_NN you_PP drop_VVP ._SENT 
+Better_RBR than_IN trying_VVG and_CC failing_VVG ,_, eh_NP ?_SENT 
+SOPHIE_NN :_: You_PP think_VVP I_PP 'd_MD fail_VV ?_SENT 
+DOCTOR_NN :_: Everybody_NN 's_POS got_VVN dreams_NNS ,_, Sophie_NP ._SENT Very_RB few_JJ are_VBP going_VVG to_TO achieve_VV 
+them_PP ,_, so_RB why_WRB pretend_JJ ?_SENT 
+(_( The_DT Doctor_NP tries_VVZ the_DT wine_NN and_CC lets_VVZ it_PP pour_VVP back_RB into_IN the_DT glass_NN from_IN 
+his_PP$ mouth_NN ._SENT )_) 
+DOCTOR_NN :_: Perhaps_RB ,_, in_IN the_DT whole_JJ wide_JJ universe_NN ,_, a_DT call_NN centre_NN about_RB is_VBZ 
+where_WRB you_PP should_MD be_VB ._SENT 
+SOPHIE_NP :_: Why_WRB are_VBP you_PP saying_VVG that_DT ?_SENT That_DT 's_VBZ horrible_JJ ._SENT 
+DOCTOR_NN :_: Is_VBZ it_PP true_JJ ?_SENT 
+SOPHIE_NN :_: Of_IN course_NN it_PP 's_VBZ not_RB true_JJ ._SENT I_PP 'm_VBP not_RB staying_VVG in_IN a_DT call_NN centre_NN all_RB 
+my_PP$ life_NN ._SENT I_PP can_MD do_VV anything_NN I_PP want_VVP ._SENT 
+(_( The_DT Doctor_NP smiles_VVZ ._SENT )_) 
+SOPHIE_NP :_: Oh_UH ,_, yeah_RB ._SENT Right_RB ._SENT Oh_UH ,_, my_PP$ God_NP ._SENT Did_VVD you_PP see_VVP what_WP he_PP just_RB did_VVD ?_SENT 
+CRAIG_NP :_: No_UH ,_, sorry_RB ,_, what_WP 's_VBZ happening_VVG ?_SENT Are_VBP you_PP going_VVG to_TO live_VV with_IN monkeys_NNS 
+now_RB ?_SENT 
+DOCTOR_NN :_: It_PP 's_VBZ a_DT big_JJ old_JJ world_NN ,_, Sophie_NP ._SENT Work_NN out_IN what_WP 's_VBZ really_RB keeping_VVG 
+you_PP here_RB ,_, eh_NP ?_SENT 
+SOPHIE_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP do_VVP n't_RB know_VV ._SENT 
+[_SYM House_NP ]_SYM 
+
+(_( Sophie_NP is_VBZ leaving_VVG ._SENT )_) 
+CRAIG_NN :_: So_RB ,_, are_VBP you_PP going_VVG to_TO be_VB taking_VVG off_RP then_RB ?_SENT Seeing_VVG the_DT world_NN ?_SENT 
+SOPHIE_NP :_: What_WP ,_, do_VVP you_PP think_VVP I_PP should_MD ?_SENT 
+CRAIG_NP :_: Yeah_UH ._SENT Like_IN the_DT Doctor_NP says_VVZ ,_, what_WP 's_VBZ ,_, what_WP 's_VBZ keeping_VVG you_PP here_RB ?_SENT 
+SOPHIE_NP :_: Yeah_UH ,_, exactly_RB ._SENT What_WP ._SENT Bye_NP ._SENT 
+CRAIG_NN :_: See_VV you_PP ._SENT 
+(_( They_PP hug_VVP ._SENT )_) 
+CRAIG_NN :_: See_VV you_PP in_IN a_DT bit_NN ._SENT 
+SOPHIE_NP :_: Yeah_UH ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+(_( The_DT Doctor_NP has_VHZ build_VVN a_DT serious_JJ mega-gizmo_NN ._SENT It_PP 
+includes_VVZ a_DT bicycle_NN wheel_NN ,_, an_DT umbrella_NN ,_, a_DT rotary_JJ clothes_NNS line_NN ,_, a_DT lamp_NN 
+shade_NN and_CC the_DT bicycle_NN 's_POS pedals_NNS ,_, with_IN a_DT rake_NN ,_, a_DT broom_NN and_CC an_DT oar_NN as_RB 
+outriggers_NNS and_CC the_DT traffic_NN cone_NN on_IN top_NN ._SENT )_) 
+DOCTOR_NN :_: Right_RB ._SENT Shield_NP 's_VBZ up_RB ._SENT Let_NP 's_POS scan_NN ._SENT 
+(_( He_PP sets_VVZ it_PP spinning_JJ ._SENT )_) 
+AMY_NN [_SYM OC_NP ]_SYM :_: What_WP are_VBP you_PP getting_VVG ?_SENT 
+DOCTOR_NN :_: Upstairs_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: No_DT traces_NNS of_IN high_JJ technology_NN ._SENT Totally_RB 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Normal_JJ ?_SENT No_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, it_PP ca_MD n't_RB be_VB ._SENT 
+It_PP 's_VBZ too_RB normal_JJ ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Only_RB for_IN you_PP could_MD too_RB normal_RB be_VB a_DT problem_NN ._SENT 
+You_PP said_VVD I_PP could_MD be_VB lost_VVN forever_RB ._SENT Just_RB go_VV upstairs_RB ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Without_IN knowing_VVG and_CC get_VV myself_PP killed_VVD ?_SENT Then_RB 
+you_PP really_RB are_VBP lost_VVN ._SENT If_IN I_PP could_MD just_RB get_VV a_DT look_NN in_IN there_RB ._SENT Hold_VV on_IN ._SENT Use_NN 
+the_DT data_NNS bank_NN ._SENT Get_VV me_PP the_DT plans_VVZ of_IN this_DT building_NN ._SENT I_PP want_VVP to_TO know_VV its_PP$ 
+history_NN ,_, the_DT layout_NN ,_, everything_NN ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NN :_: ]_SYM Meanwhile_RB ,_, I_PP shall_MD recruit_VV a_DT spy_NN ._SENT 
+
+[_SYM Flat_NP ]_SYM 
+
+(_( Craig_NP is_VBZ starting_VVG to_TO tidy_VV up_RP when_WRB he_PP decided_VVD to_TO 
+examine_VV the_DT stain_NN more_RBR closely_RB ._SENT )_) 
+CRAIG_NN :_: Rotmeister_NN ._SENT 
+(_( He_PP touches_VVZ the_DT stain_NN and_CC there_EX is_VBZ a_DT hissing_VVG sound_NN ._SENT )_) 
+CRAIG_NN :_: Ow_NN !_SENT Ow_NN ._SENT 
+
+[_SYM Corridor_NP ]_SYM 
+
+(_( Next_JJ morning_NN ,_, the_DT Doctor_NP is_VBZ carrying_VVG a_DT tray_NN ._SENT )_) 
+DOCTOR_NN :_: Craig_NP ?_SENT Craig_NP ?_SENT Breakfast_NN ._SENT It_PP 's_VBZ normal_JJ ._SENT Craig_NP ?_SENT 
+[_SYM Craig_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Craig_NP ._SENT Craig_NP ,_, Craig_NP ,_, Craig_NP ._SENT I_PP told_VVD you_PP not_RB 
+to_TO touch_VV it_PP ._SENT Look_NN ,_, what_WP 's_VBZ that_RB ?_SENT 
+(_( There_EX is_VBZ a_DT green_JJ line_NN up_IN the_DT inside_NN of_IN Craig_NP 's_POS forearm_NN ._SENT )_) 
+DOCTOR_NN :_: It_PP 's_VBZ an_DT unfamiliar_JJ and_CC obviously_RB poisonous_JJ substance_NN ._SENT Oh_UH ,_, I_PP 
+know_VVP what_WP 'd_MD be_VB really_RB clever_JJ ,_, I_PP 'll_MD stick_VV my_PP$ hand_NN in_IN it_PP ._SENT Come_VVN on_IN ,_, Craig_NP ,_, 
+breathe_VV ._SENT 
+(_( The_DT Doctor_NP hits_VVZ Craig_NP 's_POS chest_NN ._SENT Craig_NP gasps_VVZ ._SENT )_) 
+DOCTOR_NN :_: Come_VV on_IN ,_, Craig_NP ,_, breathe_VVP ._SENT Thems_NNS are_VBP healthy_JJ footballer_NN 's_POS lungs_NNS ._SENT 
+[_SYM Flat_NP ]_SYM 
+
+(_( The_DT Doctor_NP runs_VVZ back_RB to_TO the_DT kitchenette_NN and_CC stuffs_NNS 
+as_IN many_JJ teabags_NNS as_IN possible_JJ into_IN the_DT commemorative_JJ Royal_NP Wedding_NN 
+teapot_NN ._SENT )_) 
+DOCTOR_NN :_: Right_RB ,_, reverse_VV the_DT enzyme_NN decay_NN ._SENT Excite_VV the_DT tannin_NN molecules_NNS ._SENT 
+
+[_SYM Craig_NP 's_POS room_NN ]_SYM 
+
+(_( And_CC pours_VVZ the_DT super-strong_JJ tea_NN straight_RB into_IN 
+Craig_NP 's_POS mouth_NN ._SENT )_) 
+CRAIG_NN :_: I_PP 've_VHP got_VVN to_TO go_VV to_TO work_VV ._SENT 
+DOCTOR_NN :_: On_IN no_DT account_NN ._SENT You_PP need_VVP rest_NN ._SENT One_CD more_JJR ._SENT 
+CRAIG_NN :_: It_PP 's_VBZ the_DT planning_NN meeting_NN ._SENT It_PP 's_VBZ important_JJ ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP important_JJ ._SENT You_PP 're_VBP going_VVG to_TO be_VB fine_JJ ,_, Craig_NP ._SENT 
+(_( The_DT Doctor_NP leaves_VVZ him_PP at_IN 7.15_CD ._SENT Craig_NP reawakens_NNS at_IN 14.45_CD ._SENT 
+CRAIG_NP :_: What_WP ?_SENT No_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, no_UH ,_, no._NP 
+
+[_SYM Call_NP centre_NN ]_SYM 
+
+MICHAEL_NP :_: Oh_UH ,_, afternoon_NN ._SENT 
+CRAIG_NN :_: I_PP 'm_VBP so_RB sorry_RB ,_, Michael_NP ._SENT I_PP do_VVP n't_RB know_VV what_WP happened_VVN ._SENT I_PP 've_VHP got_VVN no_RB 
+excuse_NN ._SENT 
+DOCTOR_NN :_: I_PP think_VVP that_WDT 's_VBZ not_RB what_WP my_PP$ screen_NN is_VBZ telling_VVG me_PP ,_, Mister_NP Lang_NP ._SENT 
+CRAIG_NP :_: What_WP 's_VBZ he_PP doing_VVG here_RB ?_SENT What_WP are_VBP you_PP doing_VVG here_RB ?_SENT 
+DOCTOR_NN :_: If_IN that_WDT 's_VBZ your_PP$ attitude_NN ,_, Mister_NP Lang_NP ,_, please_VVP take_VV your_PP$ custom_NN 
+elsewhere_RB ._SENT 
+CRAIG_NP :_: No_UH ,_, no_UH ,_, no_UH ,_, that_WDT 's_VBZ one_CD of_IN my_PP$ best_JJS clients_NNS ._SENT 
+DOCTOR_NN :_: Hello_UH ,_, Craig_NP ._SENT How_WRB are_VBP you_PP feeling_VVG ?_SENT Had_VHD some_DT time_NN to_TO kill_VV ._SENT I_PP was_VBD 
+curious_JJ ._SENT Never_RB worked_VVN in_IN an_DT office_NN ._SENT Never_RB worked_VVN in_IN anywhere_RB ._SENT 
+(_( A_DT straining_VVG ladle_NN is_VBZ twitching_VVG on_IN the_DT desk_NN ._SENT )_) 
+CRAIG_NN :_: You_PP 're_VBP insane_JJ ._SENT 
+MICHAEL_NP :_: Leave_VV off_RP the_DT Doctor_NP ._SENT I_PP love_VVP the_DT Doctor_NP ._SENT He_PP was_VBD brilliant_JJ in_IN 
+the_DT planning_NN meeting_NN ._SENT 
+CRAIG_NN :_: You_PP went_VVD to_TO the_DT planning_NN meeting_NN ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT I_PP was_VBD your_PP$ representative_NN ._SENT We_PP do_VVP n't_RB need_VV Mister_NP Lang_NP any_RB 
+more_JJR ._SENT Rude_NP Mister_NP Lang_NP ._SENT 
+SOPHIE_NN :_: Here_RB you_PP go_VVP ,_, and_CC I_PP found_VVD some_DT custard_NN creams_NNS ._SENT 
+DOCTOR_NN :_: Sophie_NP ,_, my_PP$ hero_NN ._SENT 
+SOPHIE_NP :_: Hi_UH ,_, Craig_NP ._SENT I_PP went_VVD on_IN the_DT web_NN ,_, applied_VVN for_IN a_DT wildlife_NN charity_NN 
+thing_NN ._SENT They_PP said_VVD I_PP could_MD always_RB start_VV as_IN a_DT volunteer_NN straight_RB away_RB ._SENT 
+Should_MD I_PP do_VV it_PP ?_SENT 
+CRAIG_NP :_: Yeah_UH ,_, great_JJ ._SENT Yeah_UH ,_, good_JJ ._SENT Go_VV for_IN it_PP ._SENT 
+DOCTOR_NN :_: You_PP look_VVP awful_JJ ._SENT About_IN turn_NN ._SENT Bed_NN ._SENT Now_RB ._SENT Who_WP next_JJ ?_SENT Oh_UH ,_, yes_UH ._SENT Hello_UH ,_, 
+Mister_NP Joergensen_NP ._SENT Can_MD you_PP hold_VV ?_SENT I_PP have_VHP to_TO eat_VV a_DT biscuit_NN ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+(_( The_DT mega-gizmo_NN is_VBZ still_RB spinning_JJ ._SENT )_) 
+CRAIG_NP :_: What_WP the_DT hell_NN ?_SENT 
+
+[_SYM House_NP ]_SYM 
+
+(_( A_DT cat_NN is_VBZ coming_VVG down_RP the_DT stairs_NNS ._SENT )_) 
+DOCTOR_NN :_: Have_VHP you_PP been_VBN upstairs_JJ ?_SENT Yes_UH ?_SENT 
+
+[_SYM Flat_NP ]_SYM 
+
+(_( Craig_NP is_VBZ throwing_VVG darts_NNS when_WRB he_PP hears_VVZ the_DT Doctor_NP 's_POS 
+voice_NN ._SENT )_) 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: You_PP can_MD do_VV it_PP ._SENT Show_VV me_PP what_WP 's_VBZ up_RB there_RB ?_SENT What_WP 's_VBZ behind_IN that_DT 
+door_NN ?_SENT Try_VV to_TO show_VV me_PP ._SENT Oh_UH ,_, but_CC that_WDT does_VVZ n't_RB make_VV sense_NN ._SENT Ever_RB see_VV anyone_NN 
+go_VV up_RB there_RB ?_SENT Lots_NNS of_IN people_NNS ?_SENT Good_JJ ,_, good_JJ ._SENT What_WP kind_NN of_IN people_NNS ?_SENT 
+[_SYM House_NP ]_SYM 
+
+(_( The_DT cat_NN meows_VVZ ._SENT )_) 
+DOCTOR_NN :_: People_NNS who_WP never_RB came_VVD back_RB down_RB ._SENT Oh_UH ,_, that_WDT 's_VBZ bad_JJ ._SENT That_DT 's_VBZ very_RB 
+bad_JJ ._SENT 
+(_( Craig_NP opens_VVZ the_DT door_NN ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, hello_NN ._SENT 
+CRAIG_NN :_: I_PP ca_MD n't_RB take_VV this_DT any_RB more_JJR ._SENT I_PP want_VVP you_PP to_TO go_VV ._SENT 
+[_SYM Flat_NP ]_SYM 
+
+CRAIG_NN :_: You_PP can_MD have_VH this_DT back_RB and_CC all_RB ._SENT 
+(_( The_DT money_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP have_VHP I_PP done_VVN ?_SENT 
+CRAIG_NN :_: For_IN a_DT start_NN ,_, talking_VVG to_TO a_DT cat_NN ._SENT 
+DOCTOR_NN :_: Lots_NNS of_IN people_NNS talk_VVP to_TO cats_NNS ._SENT 
+CRAIG_NN :_: And_CC everybody_NN loves_VVZ you_PP ,_, and_CC you_PP 're_VBP better_JJR at_IN football_NN than_IN me_PP ,_, 
+and_CC my_PP$ job_NN ,_, and_CC now_RB Sophie_NP 's_VBZ all_DT oh_UH ,_, monkeys_NNS ,_, monkeys_NNS ,_, and_CC then_RB there_EX 's_VBZ 
+that_RB ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: It_PP 's_POS art_NN ._SENT A_DT statement_NN on_IN modern_JJ society_NN ,_, 
+Ooo_NP ,_, ai_VVP n't_RB modern_JJ society_NN awful_JJ ._SENT 
+CRAIG_NN :_: Me_PP and_CC you_PP ,_, it_PP 's_VBZ not_RB going_VVG to_TO work_VV out_RP ._SENT You_PP 've_VHP only_RB been_VBN here_RB 
+three_CD days._NNS These_DT have_VHP been_VBN the_DT three_CD weirdest_JJS days_NNS of_IN my_PP$ life_NN ._SENT 
+DOCTOR_NN :_: Your_PP$ days_NNS will_MD get_VV a_DT lot_NN weirder_JJR if_IN I_PP go_VVP ._SENT 
+CRAIG_NN :_: It_PP was_VBD good_JJ weirdness_NN ._SENT It_PP 's_VBZ not_RB ,_, it_PP 's_VBZ bad_RB weird_JJ ._SENT I_PP ca_MD n't_RB do_VV this_DT 
+any_DT more_RBR ._SENT 
+DOCTOR_NN :_: Craig_NP ,_, I_PP ca_MD n't_RB leave_VV this_DT place_NN ._SENT I_PP 'm_VBP like_IN you_PP ,_, I_PP ca_MD n't_RB see_VV the_DT 
+point_NN of_IN anywhere_RB else_RB ._SENT Madrid_NP ?_SENT Ha_NP ,_, what_WP a_DT dump_NN ._SENT I_PP have_VHP to_TO stay_VV ._SENT 
+CRAIG_NP :_: No_UH ,_, you_PP do_VVP n't_RB ._SENT You_PP have_VHP to_TO leave_VV ._SENT 
+DOCTOR_NN :_: I_PP ca_MD n't_RB go_VV ._SENT 
+CRAIG_NN :_: Just_RB get_VV out_RP !_SENT 
+DOCTOR_NN :_: Right_RB ._SENT Only_JJ way_NN ._SENT I_PP 'm_VBP going_VVG to_TO show_VV you_PP something_NN ,_, but_CC shush_VV ._SENT 
+Really_RB ,_, shush_VVP ._SENT Oh_UH ,_, I_PP am_VBP going_VVG to_TO regret_VV this_DT ._SENT Okay_RB ,_, right_RB ._SENT First_RB ,_, 
+general_JJ background_NN ._SENT 
+(_( The_DT Doctor_NP head_NN butts_NNS Craig_NP ._SENT )_) 
+CRAIG_NP :_: Argh_NP ._SENT 
+(_( There_EX is_VBZ a_DT very_RB rapid_JJ montage_NN ._SENT )_) 
+CRAIG_NP :_: Oh_UH ._SENT 
+DOCTOR_NN :_: Ow_NN ._SENT 
+CRAIG_NN :_: You_PP 're_VBP a_DT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+CRAIG_NN :_: From_IN 
+DOCTOR_NN :_: Shush_VV ._SENT 
+CRAIG_NN :_: You_PP 've_VHP got_VVN a_DT Tardis_NP ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT Shush_VV ._SENT Eleventh_JJ ._SENT Right_RB ._SENT Okay_JJ ,_, specific_JJ detail_NN ._SENT 
+(_( Another_DT Glasgow_NP kiss_NN ._SENT )_) 
+BOTH_DT :_: Argh_NNS ._SENT 
+DOCTOR_NN [_SYM memory_NN ]_SYM :_: Amy_NP !_SENT Amy_NP !_SENT 
+CRAIG_NN :_: You_PP saw_VVD my_PP$ ad_NN in_IN the_DT paper_NN shop_NN window_NN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, with_IN this_DT right_NN above_IN it_PP ._SENT Which_WDT is_VBZ odd_JJ ,_, because_IN Amy_NP has_VHZ n't_RB 
+written_VVN it_PP yet_RB ._SENT 
+(_( A_DT note_NN saying_VVG Doctor_NP -_: this_DT one_CD no_RB 79a_NP Aickman_NP Road_NP Amy_NP xx_NN )_) 
+DOCTOR_NN :_: Time_NN travel_NN ._SENT It_PP can_MD happen_VV ._SENT 
+CRAIG_NP :_: That_WDT 's_VBZ a_DT scanner_NN ._SENT You_PP used_VVD non-technological_JJ technology_NN of_IN 
+Lammasteen_NP !_SENT 
+DOCTOR_NN :_: Shut_VVN up_RP !_SENT 
+
+[_SYM House_NP ]_SYM 
+
+(_( Sophie_NP enters_VVZ ._SENT The_DT little_JJ girl_NN with_IN the_DT doll_NN is_VBZ at_IN 
+the_DT top_NN of_IN the_DT stairs_NNS ._SENT )_) 
+GIRL_NN :_: Please_RB can_MD you_PP help_VV me_PP ?_SENT 
+SOPHIE_NP :_: Hi_UH ._SENT 
+GIRL_NN :_: Please_UH ,_, will_MD you_PP help_VV me_PP ?_SENT 
+SOPHIE_NP :_: What_WP 's_VBZ the_DT matter_NN ,_, my_PP$ love_NN ?_SENT Help_VV you_PP ?_SENT 
+(_( Sophie_NP goes_VVZ up_RP the_DT stairs_NNS ._SENT )_) 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+CRAIG_NP :_: Argh_NP ._SENT 
+DOCTOR_NN :_: I_PP am_VBP never_RB ,_, never_RB doing_VVG that_IN/that ever_RB ,_, ever_RB again_RB ._SENT 
+(_( He_PP activates_VVZ his_PP$ Bluetooth_NP ._SENT )_) 
+DOCTOR_NN :_: Amy_NP ._SENT 
+CRAIG_NP :_: That_WDT 's_VBZ Amy_NP Pond_NP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, of_IN course_NN ,_, you_PP can_MD understand_VV us_PP now_RB ._SENT Hurrah_NN ._SENT Got_VVN those_DT 
+plans_NNS yet_RB ?_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Still_RB searching_VVG for_IN them_PP ._SENT 
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: I_PP 've_VHP worked_VVN it_PP out_RP ,_, with_IN psychic_JJ help_NN from_IN a_DT cat_NN ._SENT 
+AMY_NN :_: A_DT cat_NN ?_SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Yes_UH ._SENT I_PP know_VVP he_PP 's_VBZ got_VVN a_DT time_NN engine_NN in_IN the_DT 
+flat_JJ upstairs_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: He_PP 's_VBZ using_VVG innocent_JJ people_NNS to_TO try_VV and_CC 
+launch_VV it_PP ._SENT 
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+DOCTOR_NN :_: Whenever_WRB he_PP does_VVZ ,_, they_PP get_VVP burnt_VVN up_RP ,_, hence_RB 
+the_DT stain_NN on_IN your_PP$ ceiling_NN ._SENT 
+CRAIG_NN :_: From_IN the_DT ceiling_NN ._SENT 
+DOCTOR_NN :_: Well_RB done_VVN ,_, Craig_NP ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: And_CC you_PP ,_, Miss_NP Pond_NP ,_, nearly_RB get_VV thrown_VVN 
+off_RB into_IN the_DT Vortex_NN ._SENT 
+AMY_NN :_: Lovely_JJ ._SENT 
+
+[_SYM Doctor_NP 's_POS room_NN ]_SYM 
+
+(_( Crash_NP !_SENT )_) 
+CRAIG_NN :_: People_NNS are_VBP dying_VVG up_RP there_RB ?_SENT People_NNS are_VBP dying_VVG ._SENT People_NNS are_VBP dying_VVG ._SENT 
+People_NNS are_VBP dying_VVG ._SENT 
+(_( Another_DT time_NN loop_NN ._SENT )_) 
+DOCTOR_NN :_: Amy_NP ._SENT 
+CRAIG_NN :_: They_PP 're_VBP being_VBG killed_VVN ._SENT 
+DOCTOR_NN :_: Someone_NN 's_VBZ up_RB there_RB ._SENT 
+[_SYM House_NP ]_SYM 
+
+AMY_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ?_SENT 
+DOCTOR_NN :_: Hang_VV on_RP ._SENT Craig_NP ,_, come_VVN on_IN ._SENT Someone_NN 's_VBZ dying_VVG up_RP there_RB ._SENT 
+(_( They_PP see_VVP Sophie_NP 's_POS pink_JJ key_JJ ring_NN in_IN the_DT door_NN ._SENT )_) 
+CRAIG_NP :_: Sophie_NP ._SENT It_PP 's_VBZ Sophie_NP that_WDT 's_VBZ dying_VVG up_RP there_RB !_SENT It_PP 's_VBZ Sophie_NP !_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Doctor_NN !_SENT Argh_NP !_SENT 
+
+[_SYM Upstairs_JJ door_NN ]_SYM 
+
+CRAIG_NP :_: Where_WRB 's_VBZ Sophie_NP ?_SENT 
+DOCTOR_NN ;_: Wait_VV ,_, wait_VV ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN [_SYM OC_NP ]_SYM :_: Amy_NP ?_SENT 
+AMY_NN :_: Are_VBP you_PP upstairs_JJ ?_SENT 
+[_SYM Upstairs_JJ door_NN ]_SYM 
+
+DOCTOR_NN :_: Just_RB going_VVG in_IN ._SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: But_CC you_PP ca_MD n't_RB be_VB upstairs_JJ ._SENT 
+DOCTOR_NN :_: Of_IN course_NN I_PP can_MD be_VB upstairs_JJ ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: No_UH ,_, I_PP 've_VHP got_VVN the_DT plans_NNS ._SENT You_PP cannot_MD be_VB 
+upstairs_RB ,_, it_PP 's_VBZ a_DT one-storey_JJ building_NN ._SENT 
+
+[_SYM Upstairs_JJ door_NN ]_SYM 
+
+AMY_NN [_SYM OC_NP ]_SYM :_: There_EX is_VBZ no_DT upstairs_NN ._SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+CRAIG_NP :_: What_WP ?_SENT What_WP ?_SENT 
+DOCTOR_NN :_: Oh_UH ._SENT Oh_UH ,_, of_IN course_NN ._SENT The_DT time_NN engine_NN is_VBZ n't_RB in_IN the_DT flat_JJ ,_, the_DT time_NN 
+engine_NN is_VBZ the_DT flat_JJ ._SENT Someone_NN 's_POS attempt_NN to_TO build_VV a_DT Tardis_NP ._SENT 
+CRAIG_NN :_: No_RB ,_, there_EX 's_VBZ always_RB been_VBN an_DT upstairs_NN ._SENT 
+(_( The_DT door_NN they_PP have_VHP just_RB come_VVN through_IN flickers_NNS on_IN and_CC off_RB ._SENT )_) 
+DOCTOR_NN :_: Has_VHZ there_RB ?_SENT Think_VV about_IN it_PP ._SENT 
+CRAIG_NP :_: Yes_UH ._SENT No._NN I_PP do_VVP n't_RB 
+DOCTOR_NN :_: Perception_NN filter_NN ._SENT It_PP 's_VBZ more_JJR than_IN a_DT disguise_NN ._SENT It_PP tricks_VVZ your_PP$ 
+memory_NN ._SENT 
+(_( Scream_VV ._SENT )_) 
+CRAIG_NP :_: Sophie_NP !_SENT Sophie_NP !_SENT Oh_UH ,_, my_PP$ God_NP ,_, Sophie_NP !_SENT 
+(_( Sophie_NP is_VBZ being_VBG pulled_VVN towards_IN the_DT central_JJ console_NN by_IN electricity_NN ._SENT )_) 
+SOPHIE_NP :_: Craig_NP ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ controlling_VVG her_PP ._SENT It_PP 's_VBZ willing_VVG her_PP to_TO touch_VV the_DT activator_NN ._SENT 
+CRAIG_NP :_: That_WDT 's_VBZ not_RB going_VVG to_TO have_VH her_PP ._SENT 
+(_( Sophie_NP 's_POS hand_NN is_VBZ pulled_VVN onto_IN a_DT dome_NN shaped_JJ control_NN ._SENT The_DT Doctor_NP uses_VVZ 
+his_PP$ sonic_JJ screwdriver_NN ._SENT )_) 
+DOCTOR_NN :_: Ah_UH ,_, deadlock_NN seal_NN ._SENT 
+CRAIG_NN :_: You_PP 've_VHP got_VVN to_TO do_VV something_NN ._SENT 
+(_( Sophie_NP falls_VVZ back_RB ._SENT )_) 
+DOCTOR_NN :_: What_WP ?_SENT Why_WRB 's_VBZ it_PP let_VVP her_PP go_VV ?_SENT So_RB ,_, okay_JJ ._SENT 
+(_( A_DT man_NN suddenly_RB appears_VVZ ._SENT )_) 
+AUTOPILOT_NN :_: You_PP will_MD help_VV me_PP ._SENT 
+DOCTOR_NN :_: Right_RB ._SENT Stop_VV ._SENT Crashed_VVN ship_NN ,_, let_VV 's_VBZ see_VV ._SENT Hello_UH ,_, I_PP 'm_VBP Captain_NP Troy_NP 
+Handsome_JJ of_IN International_NP Rescue_NP ._SENT Please_VV state_NN the_DT nature_NN of_IN your_PP$ 
+emergency_NN ._SENT 
+AUTOPILOT_NN :_: The_DT ship_NN has_VHZ crashed_VVN ._SENT The_DT crew_NN are_VBP dead_JJ ._SENT A_DT pilot_NN is_VBZ 
+required_VVN ._SENT 
+DOCTOR_NN :_: You_PP 're_VBP the_DT emergency_NN crash_NN program_NN ._SENT A_DT hologram_NN ._SENT What_WP ,_, you_PP 've_VHP 
+been_VBN luring_VVG people_NNS up_RP here_RB so_RB you_PP can_MD try_VV them_PP out_RP ?_SENT 
+(_( The_DT hologram_NN flickers_VVZ between_IN old_JJ man_NN ,_, young_JJ man_NN and_CC girl_NN ._SENT )_) 
+AUTOPILOT_NN :_: You_PP will_MD help_VV me_PP ._SENT You_PP will_MD help_VV me_PP ._SENT You_PP will_MD help_VV me_PP ._SENT 
+SOPHIE_NP :_: Craig_NP ,_, what_WP is_VBZ this_DT ?_SENT Where_WRB am_VBP I_PP ?_SENT 
+DOCTOR_NN :_: Hush_NN ._SENT Human_JJ brains_NNS are_VBP n't_RB strong_JJ enough_RB ,_, they_PP just_RB burn_VVP ._SENT But_RB 
+you_PP 're_VBP stupid_JJ ,_, though_RB ._SENT You_PP just_RB keep_VVP trying_VVG ._SENT 
+AUTOPILOT_NN :_: Seventeen_CD people_NNS have_VHP been_VBN tried_VVN ._SENT Six_CD billion_CD four_CD hundred_CD 
+thousand_CD and_CC twenty_CD six_CD remain_VV ._SENT 
+SOPHIE_NN :_: Seriously_RB ,_, what_WP is_VBZ going_VVG on_RP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, for_IN goodness_NN sake_NN ._SENT The_DT top_JJ floor_NN of_IN Craig_NP 's_POS building_NN is_VBZ in_IN 
+reality_NN an_DT alien_JJ space_NN ship_NN intent_NN on_IN slaughtering_VVG the_DT population_NN of_IN 
+this_DT planet_NN ._SENT Any_DT questions_NNS ?_SENT No_UH ,_, good_JJ ._SENT 
+SOPHIE_NP :_: Yes_UH ,_, I_PP have_VHP questions_NNS ._SENT 
+AUTOPILOT_NN :_: The_DT correct_JJ pilot_NN has_VHZ now_RB been_VBN found_VVN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, I_PP was_VBD a_DT bit_NN worried_VVD that_IN/that you_PP were_VBD going_VVG to_TO say_VV that_DT ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: He_PP means_VVZ you_PP ,_, Doctor_NP ,_, does_VVZ n't_RB he_PP ?_SENT 
+[_SYM Timeship_NP ]_SYM 
+
+(_( The_DT Autopilot_NP uses_VVZ its_PP$ energy_NN to_TO drag_VV the_DT Doctor_NP 
+towards_IN the_DT console_NN ._SENT )_) 
+AUTOPILOT_NN :_: The_DT correct_JJ pilot_NN has_VHZ been_VBN found_VVN ._SENT The_DT correct_JJ pilot_NN has_VHZ been_VBN 
+found_VVD ._SENT The_DT correct_JJ pilot_NN has_VHZ been_VBN found_VVN ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: What_WP 's_VBZ happening_VVG ?_SENT 
+[_SYM Timeship_NP ]_SYM 
+
+DOCTOR_NN :_: It_PP 's_VBZ pulling_VVG me_PP in_RP ._SENT I_PP 'm_VBP the_DT new_JJ pilot_NN ._SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: Could_MD you_PP do_VV it_PP ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Could_MD you_PP fly_VV the_DT ship_NN safely_RB ?_SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+DOCTOR_NN :_: No_UH ,_, I_PP 'm_VBP way_RB too_RB much_JJ for_IN this_DT ship_NN ._SENT My_PP$ hand_NN 
+touches_VVZ that_DT panel_NN ,_, the_DT planet_NN does_VVZ n't_RB blow_VV up_RP ,_, the_DT whole_JJ solar_JJ system_NN 
+does_VVZ ._SENT 
+AUTOPILOT_NN :_: The_DT correct_JJ pilot_NN has_VHZ been_VBN found_VVN ._SENT 
+DOCTOR_NN :_: No._NN Worst_JJS choice_NN ever_RB ,_, I_PP promise_VVP you_PP ._SENT Stop_VV this_DT ._SENT 
+AMY_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: It_PP 's_VBZ getting_VVG worse_JJR ._SENT 
+[_SYM Timeship_NP ]_SYM 
+
+DOCTOR_NN :_: It_PP does_VVZ n't_RB want_VV everyone_NN ._SENT Craig_NP ,_, it_PP did_VVD n't_RB 
+want_VV you_PP ._SENT 
+CRAIG_NN :_: I_PP spoke_VVD to_TO him_PP and_CC he_PP said_VVD I_PP could_MD n't_RB help_VV him_PP ._SENT 
+DOCTOR_NN :_: It_PP did_VVD n't_RB want_VV Sophie_NP before_RB but_CC now_RB it_PP does_VVZ ._SENT What_WP 's_VBZ changed_VVN ?_SENT 
+Argh_NP ._SENT No._NN No_RB ,_, I_PP gave_VVD her_PP the_DT idea_NN of_IN leaving_VVG ._SENT It_PP 's_VBZ a_DT machine_NN that_WDT needs_VVZ 
+to_TO leave_VV ._SENT It_PP wants_VVZ people_NNS who_WP want_VVP to_TO escape_VV ._SENT And_CC you_PP do_VVP n't_RB want_VV to_TO 
+leave_VV ,_, Craig_NP ._SENT You_PP 're_VBP Mister_NP Sofa_NP Man_NP ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Doctor_NN !_SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+DOCTOR_NN :_: Craig_NP ,_, you_PP can_MD shut_VV down_RP the_DT engine_NN ._SENT Put_VVD 
+your_PP$ hand_NN on_IN the_DT panel_NN and_CC concentrate_VV on_IN why_WRB you_PP want_VVP to_TO stay_VV ._SENT 
+SOPHIE_NP :_: Craig_NP ,_, no._NP 
+CRAIG_NN :_: Will_MD it_PP work_VV ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+CRAIG_NP :_: Are_VBP you_PP sure_JJ ?_SENT 
+DOCTOR_NN :_: Yes_UH ._SENT 
+CRAIG_NN :_: Is_VBZ that_IN/that a_DT lie_NN ?_SENT 
+DOCTOR_NN :_: Of_IN course_NN it_PP 's_VBZ a_DT lie_NN ._SENT 
+CRAIG_NN :_: It_PP 's_VBZ good_JJ enough_RB for_IN me_PP ._SENT Geronimo_NP !_SENT Argh_NP !_SENT 
+(_( Craig_NP puts_VVZ his_PP$ hand_NN on_IN the_DT nearest_JJS control_NN panel_NN ._SENT The_DT Doctor_NP is_VBZ 
+released_VVN ._SENT )_) 
+SOPHIE_NP :_: Craig_NP !_SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Doctor_NN !_SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+(_( Smoke_NN is_VBZ coming_VVG off_RP Craig_NP 's_POS hand_NN ._SENT )_) 
+DOCTOR_NN :_: Craig_NP ,_, what_WP 's_VBZ keeping_VVG you_PP here_RB ?_SENT Think_VV about_IN everything_NN that_RB 
+makes_VVZ you_PP want_VVP to_TO stay_VV here_RB ._SENT Why_WRB do_VVP n't_RB you_PP want_VVP to_TO leave_VV ?_SENT 
+CRAIG_NP :_: Sophie_NP ._SENT I_PP do_VVP n't_RB want_VV to_TO leave_VV Sophie_NP ._SENT I_PP ca_MD n't_RB leave_VV Sophie_NP ._SENT I_PP 
+love_VV Sophie_NP ._SENT 
+SOPHIE_NN :_: I_PP love_VVP you_PP ,_, too_RB ,_, Craig_NP ,_, you_PP idiot_NN ._SENT 
+(_( Sophie_NP puts_VVZ her_PP$ hand_NN on_IN Craig_NP 's_POS ._SENT )_) 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Doctor_NN !_SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+CRAIG_NN :_: Honestly_RB ,_, do_VVP you_PP mean_VV that_DT ?_SENT 
+SOPHIE_NN :_: Of_IN course_NN I_PP mean_VVP it_PP ._SENT Do_VV you_PP mean_VV it_PP ?_SENT 
+CRAIG_NN :_: I_PP 've_VHP always_RB meant_VVN it_PP ._SENT Seriously_RB though_RB ,_, do_VVP you_PP mean_VV it_PP ?_SENT 
+SOPHIE_NP :_: Yes_UH ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Ugh_NN ._SENT 
+CRAIG_NN [_SYM OC_NP ]_SYM :_: What_WP about_IN the_DT monkeys_NNS ?_SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+DOCTOR_NN :_: Oh_UH ,_, not_RB now_RB ,_, not_RB again_RB ._SENT Craig_NP ,_, the_DT planet_NN 's_POS 
+about_RB to_TO burn_VV ._SENT For_IN God_NP 's_POS sake_NN ,_, kiss_VVP the_DT girl_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Kiss_VV the_DT girl_NN !_SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+(_( Craig_NP and_CC Sophie_NP kiss_NN ,_, and_CC his_PP$ hand_NN is_VBZ released_VVN 
+from_IN the_DT panel_NN ._SENT The_DT Tardis_NP stops_VVZ shaking_VVG ._SENT )_) 
+AMY_NN [_SYM OC_NP ]_SYM :_: Doctor_NN ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: You_PP 've_VHP done_VVN it_PP ._SENT Ha_NP ha_NP !_SENT 
+
+[_SYM Timeship_NP ]_SYM 
+
+AMY_NN [_SYM OC_NP ]_SYM :_: You_PP 've_VHP done_VVN it_PP ._SENT Oh_UH ,_, now_RB the_DT screen_NN 's_VBZ just_RB 
+zeros_NNS ._SENT Now_RB it_PP 's_VBZ minus_IN ones_NNS ,_, minus_CC twos_NNS ,_, minus_CC threes_NNS ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Big_JJ yes_NN ._SENT 
+AUTOPILOT_NN :_: Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT 
+DOCTOR_NN :_: Big_NP no._NP 
+AUTOPILOT_NN :_: Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT 
+(_( Craig_NP and_CC Sophie_NP come_VVP up_RP for_IN air_NN ._SENT )_) 
+CRAIG_NP :_: Did_VVD we_PP switch_VV it_PP off_RP ?_SENT 
+DOCTOR_NN :_: Emergency_NN shutdown_NN ._SENT It_PP 's_VBZ imploding_VVG ._SENT Everybody_NN out_RB ,_, out_RB ,_, out_RB !_SENT 
+AUTOPILOT_NN :_: Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP Help_VV me_PP ._SENT Help_VV 
+me_FW ._SENT Help_VV me_PP ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+AMY_NN :_: Doctor_NN ?_SENT 
+
+[_SYM Aickman_NP Road_NP ]_SYM 
+
+AUTOPILOT_NN [_SYM OC_NP ]_SYM :_: Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT Help_VV me_PP ._SENT 
+
+(_( The_DT Doctor_NP ,_, Craig_NP and_CC Sophie_NP run_VVP down_RP the_DT stairs_NNS and_CC outside_JJ ._SENT The_DT top_NN 
+floor_NN and_CC roof_NN turn_NN into_IN the_DT Timeship_NN which_WDT then_RB flies_VVZ away_RB ,_, leaving_VVG a_DT 
+totally_RB incongruous_JJ one_CD story_NN building_NN at_IN the_DT end_NN of_IN an_DT entirely_RB two_CD 
+storey_NN terrace_NN ._SENT A_DT man_NN walks_VVZ by_IN carrying_VVG a_DT child_NN ._SENT )_) 
+CRAIG_NP :_: Look_VVP at_IN them_PP ._SENT Did_VVD n't_RB they_PP see_VVP that_RB ?_SENT The_DT whole_JJ top_JJ floor_NN just_RB 
+vanished_VVD ._SENT 
+DOCTOR_NN :_: Perception_NN filter_NN ._SENT There_EX never_RB was_VBD a_DT top_JJ floor_NN ._SENT 
+
+[_SYM Flat_NP ]_SYM 
+
+(_( Craig_NP and_CC Sophie_NP are_VBP snogging_VVG on_IN the_DT sofa_NN ._SENT )_) 
+CRAIG_NN :_: So_RB have_VHP we_PP spoiled_VVD our_PP$ friendship_NN ,_, then_RB ?_SENT 
+SOPHIE_NN :_: Totally_RB ruined_VVN it_PP ._SENT 
+CRAIG_NN :_: And_CC what_WP about_IN the_DT monkeys_NNS ?_SENT We_PP could_MD save_VV them_PP together_RB ,_, you_PP 
+know_VV ._SENT Do_VVP whatever_WDT we_PP want_VVP ._SENT I_PP could_MD see_VV the_DT point_NN of_IN Paris_NP if_IN you_PP were_VBD 
+there_RB with_IN me_PP ._SENT 
+SOPHIE_NN :_: First_RB ,_, let_VV 's_VBZ destroy_VV our_PP$ friendship_NN completely_RB ._SENT 
+(_( The_DT Doctor_NP enters_VVZ from_IN his_PP$ room_NN ,_, and_CC turns_VVZ his_PP$ back_NN discreetly_RB before_RB 
+leaving_VVG the_DT keys_NNS on_IN the_DT sideboard_NN ._SENT )_) 
+CRAIG_NP :_: Oi_NP ._SENT 
+SOPHIE_NP :_: What_WP ,_, you_PP 're_VBP trying_VVG to_TO sneak_VV off_RP ?_SENT 
+DOCTOR_NN :_: Yes_UH ,_, well_UH ,_, you_PP were_VBD sort_NN of_IN busy_JJ ._SENT 
+CRAIG_NN :_: I_PP want_VVP you_PP to_TO keep_VV these_DT ._SENT 
+(_( The_DT keys_NNS ._SENT )_) 
+DOCTOR_NN :_: Thank_VV you_PP ._SENT Because_IN I_PP might_MD pop_VV back_RB soon_RB ,_, have_VHP another_DT little_JJ 
+stay_VV ._SENT 
+CRAIG_NP :_: No_UH ,_, you_PP wo_MD n't_RB ._SENT I_PP 've_VHP been_VBN in_IN your_PP$ head_NN ,_, remember_VVP ._SENT I_PP still_RB want_VVP 
+you_PP to_TO keep_VV them_PP ._SENT 
+DOCTOR_NN :_: Thank_VV you_PP ,_, Craig_NP ._SENT 
+CRAIG_NN :_: Thank_VV you_PP ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Sophie_NP ._SENT Now_RB then_RB ._SENT Six_CD billion_CD four_NN hundred_CD thousand_CD and_CC twenty_CD 
+six_CD people_NNS in_IN the_DT world_NN ._SENT That_DT 's_VBZ the_DT number_NN to_TO beat_VV ._SENT 
+SOPHIE_NP :_: Yeah_UH ._SENT 
+(_( The_DT Doctor_NP leaves_VVZ ._SENT Behind_IN the_DT refrigerator_NN with_IN the_DT photograph_NN of_IN the_DT 
+Doctor_NN in_IN his_PP$ football_NN kit_NN is_VBZ a_DT crack_NN in_IN the_DT wall_NN ._SENT 
+
+[_SYM Tardis_NP ]_SYM 
+
+DOCTOR_NN :_: Back_RB in_IN time_NN ._SENT You_PP need_VVP to_TO go_VV to_TO the_DT paper_NN 
+shop_NN and_CC leave_VV that_DT note_NN for_IN me_PP ._SENT 
+AMY_NN :_: Right_RB little_JJ matchmaker_NN ,_, are_VBP n't_RB you_PP ?_SENT Ca_MD n't_RB you_PP find_VVP me_PP a_DT fellow_NN ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, rectifier_NN 's_VBZ playing_VVG up_RB again_RB Hold_VV on_RP ._SENT You_PP write_VVP the_DT note_NN 
+and_CC I_PP 'll_MD change_VV that_DT will_NN ._SENT 
+AMY_NN :_: You_PP got_VVD a_DT pen_NN ?_SENT 
+DOCTOR_NN :_: Make_VV sure_JJ it_PP 's_VBZ a_DT red_JJ pen_NN ._SENT 
+(_( Amy_NP goes_VVZ through_IN the_DT Doctor_NP 's_POS jacket_NN pockets_NNS and_CC finds_VVZ the_DT ring_NN box_NN ._SENT 
+She_PP opens_VVZ it_PP ,_, and_CC remembers_VVZ a_DT crack_NN in_IN her_PP$ wall_NN ._SENT )_) 
+

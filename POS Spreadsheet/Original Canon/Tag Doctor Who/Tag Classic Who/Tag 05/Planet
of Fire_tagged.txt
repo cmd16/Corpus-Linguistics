@@ -1,0 +1,1666 @@
+Part_NN 
+One_CD 
+[_SYM Sarn_NP ]_SYM 
+(_( On_IN the_DT planet_NN Sarn_NP ,_, here_RB played_VVN by_IN the_DT Montanas_NPS 
+del_NP Fuego_NP on_IN Lanzarote_NP ,_, two_CD men_NNS trudge_VVP over_IN the_DT volcanic_JJ rocks_NNS ._SENT The_DT 
+younger_JJR one_CD stops_NNS ,_, exhausted_VVN ._SENT )_) 
+AMYAND_NN :_: Come_VV on_IN ,_, Roskal_NP ._SENT 
+ROSKAL_NN :_: It_PP 's_VBZ no_RB good_JJ ,_, I_PP ca_MD n't_RB make_VV it_PP ._SENT 
+AMYAND_NN :_: Give_VV me_PP your_PP$ hand_NN ._SENT 
+ROSKAL_NP :_: No._NN Amyand_NP ,_, I_PP 'm_VBP afraid_JJ ._SENT 
+AMYAND_NN :_: So_RB am_VBP I_PP ._SENT We_PP 've_VHP come_VVN this_DT far_RB ._SENT We_PP ca_MD n't_RB turn_VV back_RB now_RB ._SENT Come_VVN on_IN ,_, 
+just_RB a_DT short_JJ climb_NN then_RB we_PP can_MD see_VV into_IN the_DT heart_NN of_IN the_DT mountain_NN ._SENT The_DT 
+others_NNS are_VBP depending_VVG on_IN us_PP ._SENT 
+[_SYM Settlement_NP ]_SYM 
+(_( Also_RB on_IN Lanzarote_NP -_: in_IN the_DT cool_NN ,_, fern_NN decorated_VVD 
+halls_NNS of_IN the_DT Mirador_NP del_NP Rio_NP ._SENT Everyone_NN say_VVP Hi_NP !_SENT to_TO Peter_NP Wyngarde_NP in_IN 
+flowing_VVG robes_NNS very_RB suitable_JJ to_TO the_DT climate_NN ._SENT )_) 
+TIMANOV_NN :_: Since_IN my_PP$ father_NN 's_POS time_NN ,_, unbelievers_NNS have_VHP been_VBN sent_VVN to_TO the_DT 
+flames_NNS ._SENT 
+MALKON_NN :_: That_WDT was_VBD barbaric_JJ ._SENT 
+TIMANOV_NP :_: Yes_UH ,_, a_DT little_RB overzealous_JJ ,_, perhaps_RB ._SENT In_IN those_DT days_NNS ,_, people_NNS 
+did_VVD n't_RB tolerate_VV dissenters_NNS as_IN they_PP do_VVP now_RB ._SENT 
+MALKON_NN :_: But_CC the_DT unbelievers_NNS are_VBP harmless_JJ ._SENT 
+TIMANOV_NP :_: Yes_UH ,_, but_CC it_PP 's_VBZ still_RB a_DT wise_JJ precaution_NN to_TO send_VV the_DT occasional_JJ 
+free-thinker_NN to_TO the_DT flames_NNS ._SENT Encourages_VVZ faith_NN in_IN our_PP$ traditions_NNS ._SENT 
+MALKON_NN :_: I_PP could_MD never_RB order_VV a_DT burning_NN ._SENT 
+TIMANOV_NP :_: When_WRB the_DT time_NN comes_VVZ ,_, you_PP will_MD be_VB given_VVN the_DT strength_NN ._SENT It_PP can_MD be_VB 
+a_DT rewarding_JJ experience_NN for_IN those_DT consumed_VVN in_IN the_DT flames_NNS ._SENT Unbelievers_NNS 
+are_VBP such_JJ ,_, such_JJ unhappy_JJ souls_NNS ._SENT 
+MALKON_NN :_: Is_VBZ it_PP not_RB sometimes_RB good_JJ to_TO doubt_NN ,_, Timanov_NP ?_SENT 
+TIMANOV_NP :_: Malkon_NP ,_, for_IN our_PP$ people_NNS to_TO survive_VV we_PP must_MD have_VH faith_NN ,_, and_NP 
+never_RB more_RBR so_RB than_IN at_IN this_DT moment_NN ._SENT Logar_NP is_VBZ testing_VVG us_PP ._SENT We_PP must_MD not_RB 
+seem_VVP to_TO be_VB wanting_VVG ._SENT 
+[_SYM Sarn_NP ]_SYM 
+(_( Amyand_NP and_CC Roskal_NP are_VBP struggling_VVG up_RP the_DT steep_JJ ,_, 
+loose_JJ slope_NN of_IN the_DT volcano_NN ._SENT )_) 
+ROSKAL_NN :_: I_PP ca_MD n't_RB breathe_VV ._SENT My_PP$ feet_NNS are_VBP burning_VVG ._SENT 
+AMYAND_NN :_: Timanov_NP says_VVZ Logar_NP is_VBZ benevolent_JJ ._SENT Perhaps_RB he_PP 's_VBZ waiting_VVG with_IN a_DT 
+cool_JJ drink_NN and_CC new_JJ shoes_NNS ._SENT 
+ROSKAL_NP :_: How_WRB can_MD you_PP joke_VV ?_SENT 
+AMYAND_NN :_: Keep_VV going_VVG ._SENT It_PP 's_VBZ now_RB or_CC never_RB ,_, Roskal_NP ._SENT 
+(_( They_PP reach_VVP the_DT edge_NN of_IN the_DT caldera_NN and_CC look_VV down_RP into_IN a_DT gash_NN with_IN 
+steam_NN rising_VVG from_IN it_PP ._SENT )_) 
+AMYAND_NN :_: There_EX 's_VBZ nothing_NN there_RB !_SENT 
+ROSKAL_NN :_: Not_RB even_RB a_DT machine_NN ._SENT 
+AMYAND_NN :_: Logar_NP 's_VBZ a_DT myth_NN ._SENT 
+(_( They_PP laugh_VVP ._SENT )_) 
+[_SYM Foster_NP 's_POS boat_NN ]_SYM 
+(_( In_IN the_DT waters_NNS off_IN Papagayo_NP Beach_NP ,_, two_CD men_NNS are_VBP 
+hauling_VVG up_RP a_DT basket_NN of_IN encrusted_VVN antiquities_NNS that_WDT have_VHP been_VBN found_VVN by_IN a_DT 
+sub-aqua_NN diver_NN ._SENT )_) 
+CURT_JJ :_: Be_VB careful_JJ ._SENT Do_VVP you_PP wish_VVP to_TO achieve_VV what_WP the_DT sea_NN could_MD not_RB ?_SENT These_DT 
+items_NNS are_VBP fragile_JJ ._SENT 
+(_( One_CD item_NN has_VHZ no_DT encrustation_NN on_IN it_PP ._SENT Like_IN a_DT dumbbell_NN ,_, but_CC with_IN one_CD end_NN 
+larger_JJR than_IN the_DT other_JJ ,_, and_CC with_IN a_DT pair_NN of_IN intersecting_VVG triangles_NNS as_IN a_DT 
+design_NN on_IN the_DT end_NN ._SENT He_PP picks_VVZ it_PP up_RP and_CC shows_VVZ it_PP to_TO a_DT younger_JJR man_NN ._SENT )_) 
+CURT_JJ :_: Howard_NP ?_SENT 
+FOSTER_VV :_: Sure_RB is_VBZ n't_RB Greek_JJ ._SENT 
+CURT_JJ :_: Neither_CC is_VBZ it_PP Roman_JJ ._SENT 
+FOSTER_VV :_: You_PP 're_VBP right_JJ ._SENT The_DT metal_NN 's_VBZ modern_JJ ._SENT Must_MD be_VB some_DT kind_NN of_IN alloy_NN ._SENT 
+Do_VV you_PP recognise_VV the_DT logo_NN ?_SENT 
+CURT_JJ :_: No._NN 
+FOSTER_VV :_: I_PP 'll_MD get_VV one_CD of_IN the_DT crew_NN to_TO take_VV it_PP to_TO the_DT police_NN ._SENT 
+CURT_JJ :_: Yes_UH ,_, but_CC first_RB we_PP must_MD get_VV the_DT statue_NN safely_RB ashore_RB ._SENT I_PP wo_MD n't_RB be_VB 
+happy_JJ until_IN it_PP 's_VBZ safely_RB in_IN the_DT workshop_NN at_IN the_DT museum_NN ._SENT 
+[_SYM Settlement_NP balcony_NN ]_SYM 
+TIMANOV_NN :_: Only_RB Logar_NP could_MD create_VV a_DT place_NN of_IN such_JJ 
+beauty_NN ._SENT 
+MALKON_NN :_: Then_RB why_WRB is_VBZ he_PP now_RB trying_VVG to_TO destroy_VV the_DT planet_NN ?_SENT 
+TIMANOV_NN :_: The_DT ways_NNS of_IN the_DT gods_NNS are_VBP complex_JJ ._SENT Why_WRB with_IN his_PP$ own_JJ hands_NNS did_VVD 
+he_PP build_VVP such_PDT a_DT place_NN ?_SENT For_IN his_PP$ Chosen_NP One_NP ._SENT 
+MALKON_NN :_: I_PP do_VVP n't_RB know_VV ._SENT 
+TIMANOV_NN :_: Same_JJ with_IN the_DT Day_NP of_IN Fire_NP ._SENT But_CC why_WRB does_VVZ he_PP test_VV us_PP in_IN this_DT 
+way_NN ?_SENT 
+MALKON_NN :_: I_PP only_RB wish_VVP I_PP had_VHD your_PP$ faith_NN ._SENT 
+TIMANOV_NN :_: Accept_VV ._SENT Accept_VV what_WP you_PP see_VVP and_CC hear_VVP and_CC feel_VVP all_DT around_IN you_PP ,_, 
+and_CC the_DT faith_NN will_MD come_VV ._SENT 
+MALKON_NN :_: Perhaps_RB ._SENT But_CC I_PP do_VVP n't_RB think_VV I_PP will_MD ever_RB understand_VV why_WRB this_DT 
+makes_VVZ me_PP special_JJ ._SENT 
+(_( Malkon_NP rolls_VVZ up_RP his_PP$ sleeve_NN to_TO reveal_VV a_DT marking_NN on_IN his_PP$ arm_NN like_IN the_DT one_CD 
+on_IN the_DT artefact_NN on_IN Earth_NP ._SENT )_) 
+TIMANOV_NN :_: The_DT sign_NN of_IN Logar_NP ._SENT You_PP are_VBP the_DT Chosen_NP One_CD ._SENT The_DT people_NNS of_IN Sarn_NP 
+expect_VV your_PP$ leadership_NN ._SENT 
+MALKON_NN :_: But_CC why_WRB ?_SENT Why_WRB the_DT importance_NN of_IN this_DT mark_NN ?_SENT 
+TIMANOV_NN :_: Tradition_NN !_SENT You_PP were_VBD found_VVN on_IN the_DT slopes_NNS of_IN the_DT volcano_NN ._SENT But_RB 
+you_PP know_VVP all_PDT this_DT ._SENT How_WRB many_JJ times_NNS must_MD I_PP tell_VV you_PP ?_SENT 
+MALKON_NN :_: I_PP know_VVP only_RB that_IN/that I_PP am_VBP confused_VVN ._SENT What_WP of_IN the_DT memories_NNS and_CC 
+strange_JJ dreams_NNS that_IN/that I_PP have_VHP ?_SENT 
+TIMANOV_NN :_: I_PP keep_VVP forgetting_VVG how_WRB very_RB young_JJ you_PP still_RB are_VBP ._SENT Come_VV ,_, we_PP must_MD 
+hurry_NN ._SENT One_CD day_NN ,_, it_PP 'll_MD all_RB be_VB clear_JJ to_TO you_PP ._SENT 
+(_( Amyand_NP and_CC Roskal_NP make_VVP their_PP$ way_NN back_RB down_RB the_DT mountain_NN ,_, watched_VVN by_IN a_DT 
+man_NN with_IN a_DT telescope_NN on_IN a_DT tripod_NN ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+DOCTOR_NN :_: Daleks_NNS ._SENT I_PP sometimes_RB think_VVP those_DT mutated_VVN 
+misfits_NNS will_MD terrorise_VV the_DT universe_NN for_IN the_DT rest_NN of_IN time_NN ._SENT 
+TURLOUGH_NN :_: Doctor_NN ,_, you_PP 're_VBP becoming_VVG obsessed_VVN ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, obsessed_JJ and_CC depressed_JJ ._SENT 
+TURLOUGH_NN :_: You_PP miss_VVP Tegan_NP ?_SENT 
+DOCTOR_NN :_: Well_RB ,_, we_PP were_VBD together_RB a_DT long_JJ time_NN ._SENT 
+(_( A_DT bizarre_JJ electronic_JJ wailing_VVG rends_VVZ the_DT air_NN ._SENT )_) 
+DOCTOR_NN :_: Kamelion_NN !_SENT 
+[_SYM Tardis_NP interior_NN ]_SYM 
+(_( Just_RB outside_IN the_DT console_NN room_NN ,_, Kamelion_NP is_VBZ lying_VVG 
+on_IN the_DT floor_NN surrounded_VVN by_IN an_DT aura_NN ._SENT He_PP is_VBZ plugged_VVD into_IN a_DT mechanism_NN 
+behind_IN a_DT roundel_NN ._SENT )_) 
+KAMELION_NN :_: Help_VV me_PP !_SENT Pain_NN ._SENT 
+TURLOUGH_NN :_: He_PP 's_VBZ connected_VVN to_TO the_DT Tardis_NP databank_NN ._SENT 
+(_( Turlough_NP moves_VVZ to_TO unplug_VV Kamelion_NP ._SENT )_) 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, no._NP No_NP ,_, we_PP need_VVP to_TO stop_VV the_DT spasming_NN ._SENT Go_VV and_CC programme_VV 
+an_DT alpha_NN rhythm_NN on_IN the_DT computer_NN ._SENT It_PP should_MD calm_VV him_PP ._SENT 
+KAMELION_NN :_: Help_VV me_PP ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ all_DT right_NN ,_, Kamelion_NP ._SENT Help_NN 's_VBZ on_IN its_PP$ way_NN ._SENT 
+(_( Turlough_NP programmes_VVZ the_DT console_NN as_RB instructed_VVN ._SENT )_) 
+KAMELION_NN :_: Point_NN of_IN contact_NN ._SENT Point_NN of_IN contact_NN will_MD be_VB made_VVN ._SENT Contact_VV me_PP ._SENT 
+DOCTOR_NN :_: Contact_VV who_WP ?_SENT What_WP 's_VBZ happening_VVG ?_SENT 
+[_SYM Tardis_NP ]_SYM 
+TURLOUGH_NN :_: Doctor_NN ,_, we_PP 're_VBP picking_VVG up_RP a_DT distress_NN 
+signal_NN ._SENT Oh_UH ,_, no._NP 
+[_SYM Tardis_NP interior_NN ]_SYM 
+KAMELION_NN :_: I_PP apologise_VVP for_IN that_DT hysterical_JJ display_NN ,_, 
+Doctor_NN ._SENT For_IN a_DT moment_NN there_EX was_VBD confusion_NN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+TURLOUGH_NN :_: A_DT Trion_NN ship_NN ._SENT 
+(_( Turlough_NP opens_VVZ a_DT panel_NN under_IN the_DT console_NN and_CC rips_NNS out_IN wires_NNS ._SENT The_DT 
+distress_NN signal_NN stops_NNS ._SENT The_DT Doctor_NP enters_VVZ ._SENT )_) 
+TURLOUGH_NP :_: How_WRB 's_VBZ Kamelion_NP ?_SENT 
+DOCTOR_NN :_: The_DT spasming_NN 's_VBZ stopped_VVN and_CC he_PP 's_VBZ fully_RB conscious_JJ ._SENT I_PP just_RB wish_VVP I_PP 
+(_( The_DT Doctor_NP discovers_VVZ Turlough_NP 's_POS sabotage_NN ._SENT )_) 
+DOCTOR_NN :_: What_WP have_VHP you_PP done_VVN ?_SENT 
+TURLOUGH_NN :_: We_PP were_VBD picking_VVG up_RP some_DT sort_NN of_IN random_JJ emission_NN ,_, and_CC I_PP ,_, I_PP 
+thought_VVD it_PP might_MD be_VB interfering_VVG with_IN Kamelion_NP ._SENT 
+DOCTOR_NN :_: And_CC why_WRB have_VH you_PP reset_VV the_DT coordinates_NNS ?_SENT 
+TURLOUGH_NN :_: I_PP have_VHP n't_RB ._SENT 
+DOCTOR_NN :_: Someone_NN has_VHZ ._SENT 
+TURLOUGH_NP :_: Kamelion_NP 's_POS plugged_VVD into_IN the_DT computer_NN ._SENT He_PP must_MD have_VH 
+computerised_VVN the_DT signals_NNS we_PP heard_VVD ._SENT 
+[_SYM Orzola_NP Jetty_NP ]_SYM 
+(_( A_DT curvy_JJ young_JJ American_JJ woman_NN comes_VVZ to_TO meet_VV the_DT 
+boat_NN 's_POS dinghy_NN as_IN the_DT artefacts_NNS are_VBP offloaded_VVN ._SENT Everyone_NN say_VVP Hi_NP !_SENT to_TO Nicola_NP Bryant_NP ._SENT )_) 
+PERI_NN :_: Hi_UH ._SENT 
+FOSTER_VV :_: What_WP are_VBP you_PP doing_VVG here_RB ?_SENT I_PP thought_VVD you_PP were_VBD going_VVG sight-seeing_NN 
+with_IN your_PP$ mother_NN ._SENT 
+PERI_NN :_: No_UH ,_, she_PP 's_VBZ taken_VVN up_RP with_IN that_DT Mrs_NN van_NP Geysingham_NP from_IN the_DT hotel_NN ,_, 
+and_CC I_PP 'm_VBP not_RB spending_VVG all_DT afternoon_NN exploring_VVG a_DT Cro-Magnon_NP cave_NN with_IN 
+some_DT octogenarian_NN from_IN Miami_NP Beach_NP ._SENT Hey_UH ,_, what_WP 's_VBZ this_DT ?_SENT Looks_NNS like_IN Elton_NP 
+John_NP ._SENT 
+(_( The_DT statue_NN is_VBZ carried_VVN past_JJ ._SENT )_) 
+FOSTER_VV :_: It_PP 's_POS Eros_NP ,_, if_IN you_PP really_RB want_VVP to_TO know_VV ._SENT 
+PERI_NN :_: The_DT god_NN of_IN love_NN and_CC fertility_NN ._SENT 
+FOSTER_VV :_: That_WDT 's_VBZ right_JJ ._SENT Beautiful_JJ ,_, is_VBZ n't_RB he_PP ?_SENT A_DT personification_NN of_IN natural_JJ 
+forces_NNS in_IN an_DT anthropomorphic_JJ deity_NN ._SENT In_IN the_DT same_JJ pantheon_NN ,_, Hephaestus_NP 
+rules_NNS fire_NN ,_, Poseidon_NP the_DT sea_NN and_CC earthquakes_NNS ._SENT 
+PERI_NN :_: Howard_NP ,_, do_VVP you_PP have_VHP to_TO talk_VV at_IN me_PP like_VVP it_PP was_VBD the_DT Albuquerque_NP 
+Women_NP 's_POS League_NP or_CC something_NN ?_SENT 
+FOSTER_VV :_: I_PP 'm_VBP sorry_JJ ._SENT If_IN you_PP 're_VBP not_RB interested_JJ ,_, then_RB I_PP 
+PERI_NN :_: I_PP am_VBP interested_JJ ._SENT I_PP just_RB do_VVP n't_RB like_IN being_VBG lectured_VVN ,_, that_WDT 's_VBZ all_RB ._SENT 
+FOSTER_VV :_: I_PP must_MD get_VV on_RP ._SENT I_PP 've_VHP got_VVN a_DT great_JJ deal_NN to_TO do_VV ._SENT 
+PERI_NN :_: Sure_JJ ._SENT 
+CURT_JJ :_: Howard_NP ,_, I_PP 've_VHP got_VVN to_TO go_VV and_CC find_VV out_RP what_WP 's_VBZ happened_VVN to_TO the_DT 
+transport_NN ._SENT 
+FOSTER_VV :_: Okay_JJ ._SENT Look_NN ,_, Peri_NP ,_, I_PP 'm_VBP really_RB sorry_RB I_PP do_VVP n't_RB have_VH the_DT time_NN to_TO 
+talk_NN ._SENT 
+PERI_NN :_: It_PP 's_VBZ all_DT right_NN ._SENT I_PP only_RB came_VVD out_RP to_TO say_VV hello_NN and_CC goodbye_NN ._SENT 
+FOSTER_JJ :_: Goodbye_NN ?_SENT What_WP are_VBP you_PP talking_VVG about_RB ?_SENT 
+PERI_NN :_: This_DT island_NN ,_, Howard_NP ._SENT I_PP 'm_VBP bored_VVN out_RP of_IN my_PP$ mind_NN ._SENT 
+FOSTER_JJ :_: How_WRB can_MD you_PP be_VB bored_VVN ,_, for_IN heaven_NN 's_POS sakes_NNS ?_SENT 
+PERI_NN :_: Look_VV ,_, I_PP 've_VHP met_VVN a_DT couple_NN of_IN really_RB nice_JJ English_JJ guys_NNS and_CC I_PP 'm_VBP going_VVG 
+with_IN them_PP to_TO Morocco_NP ._SENT 
+FOSTER_VV :_: Morocco_NP ?_SENT But_CC you_PP 're_VBP due_RB back_RB at_IN college_NN in_IN the_DT fall_NN ._SENT 
+PERI_NN :_: In_IN three_CD months_NNS time_NN ._SENT 
+FOSTER_VV :_: But_CC what_WP about_IN your_PP$ work_NN ,_, your_PP$ ecology_NN project_NN ,_, your_PP$ reading_NN 
+schedule_NN ?_SENT You_PP 've_VHP got_VVN exams_NNS coming_VVG up_RP ._SENT Come_VVN on_IN ,_, Peri_NP ._SENT No_DT way_NN are_VBP you_PP 
+going_VVG to_TO north_JJ Africa_NP ._SENT 
+PERI_NN :_: I_PP 'm_VBP not_RB a_DT child_NN ._SENT You_PP ca_MD n't_RB stop_VV me_PP ._SENT 
+FOSTER_VV :_: Okay_JJ ._SENT So_RB what_WP are_VBP you_PP going_VVG to_TO use_VV for_IN money_NN ?_SENT 
+PERI_NN :_: I_PP 've_VHP already_RB cashed_VVN in_IN my_PP$ return_NN ticket_NN for_IN New_NP York_NP ._SENT I_PP leave_VVP for_IN 
+Morocco_NP this_DT afternoon_NN ._SENT 
+FOSTER_VV :_: You_PP what_WP ?_SENT How_WRB do_VVP you_PP expect_VVP to_TO get_VV home_NN ?_SENT 
+PERI_NN :_: I_PP 'll_MD get_VV a_DT job_NN ._SENT 
+FOSTER_VV :_: Oh_UH ,_, do_VVP n't_RB make_VV me_PP laugh_VV ._SENT 
+PERI_NN :_: Oh_UH ,_, stop_VV playing_VVG the_DT heavy_JJ step-father_NN ,_, Howard_NP ._SENT You_PP 're_VBP not_RB 
+dressed_VVN for_IN it_PP ._SENT 
+FOSTER_VV :_: Damn_RB it_PP ,_, Peri_NP ._SENT 
+PERI_NN :_: Please_UH ,_, do_VVP n't_RB let_VV 's_VBZ argue_VV ._SENT I_PP 've_VHP made_VVN up_RP my_PP$ mind_NN ._SENT 
+FOSTER_VV :_: Okay_JJ ,_, have_VH it_PP your_PP$ own_JJ way_NN ._SENT 
+PERI_NN :_: I_PP can_MD go_VV ?_SENT 
+FOSTER_VV :_: It_PP 's_VBZ your_PP$ life_NN ._SENT 
+PERI_NN :_: You_PP mean_VVP it_PP ?_SENT I_PP knew_VVD you_PP 'd_MD understand_VV ._SENT 
+FOSTER_VV :_: There_EX 's_VBZ just_RB one_CD thing_NN ._SENT Reclaim_VV your_PP$ ticket_NN to_TO New_NP York_NP ._SENT I_PP 'm_VBP 
+not_RB having_VHG you_PP stranded_VVN in_IN Morocco_NP ._SENT Your_PP$ mother_NN 'd_MD never_RB forgive_VV me_PP ._SENT 
+PERI_NN :_: But_CC I_PP 
+FOSTER_VV :_: Do_VVP n't_RB say_VV it_PP ._SENT I_PP 'll_MD advance_VV you_PP the_DT money_NN and_CC you_PP can_MD pay_VV me_PP 
+back_RB out_RB of_IN your_PP$ allowance_NN ._SENT 
+PERI_NN :_: That_WDT 's_VBZ great_JJ ._SENT You_PP 're_VBP marvellous_JJ ._SENT 
+FOSTER_VV :_: I_PP know_VVP ._SENT My_PP$ money_NN 's_VBZ on_IN the_DT boat_NN ._SENT Once_RB they_PP 've_VHP unloaded_VVN the_DT 
+dinghy_NN ,_, we_PP 'll_MD go_VV out_RP there_RB ._SENT 
+PERI_NN :_: Thanks_NNS ,_, Howard_NP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+DOCTOR_NN :_: Kamelion_NP denies_VVZ hearing_VVG any_DT transmission_NN ._SENT 
+Did_VVD you_PP get_VV a_DT precise_JJ fix_NN on_IN the_DT signal_NN ?_SENT 
+TURLOUGH_NN :_: It_PP stopped_VVD ._SENT There_EX was_VBD n't_RB time_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ._SENT Well_RB ,_, if_IN it_PP transmits_VVZ again_RB we_PP 'll_MD get_VV a_DT fix_NN on_IN it_PP with_IN 
+this_DT ._SENT 
+(_( A_DT hand-held_JJ device_NN ._SENT )_) 
+[_SYM Foster_NP 's_POS boat_NN ]_SYM 
+(_( Foster_NP helps_VVZ Peri_NP on_IN board_NN ._SENT )_) 
+FOSTER_VV :_: Okay_JJ ?_SENT 
+PERI_NN :_: Yeah_UH ._SENT 
+(_( He_PP gets_VVZ a_DT briefcase_NN from_IN the_DT wheelhouse_NN ._SENT )_) 
+FOSTER_VV :_: I_PP 'm_VBP a_DT fool_NN ._SENT 
+PERI_NN :_: What_WP 's_VBZ the_DT matter_NN ?_SENT 
+FOSTER_VV :_: I_PP 've_VHP left_VVN my_PP$ wallet_NN in_IN the_DT hotel_NN ._SENT 
+PERI_NN :_: I_PP 'll_MD cable_VV my_PP$ address_NN from_IN Morocco_NP ._SENT You_PP could_MD send_VV the_DT money_NN to_TO 
+me_PP there_RB ._SENT 
+FOSTER_VV :_: Sure_RB ,_, of_IN course_NN ._SENT 
+(_( Peri_NP picks_VVZ up_RP the_DT alien_JJ item_NN ._SENT )_) 
+PERI_NN :_: What_WP 's_VBZ this_DT ?_SENT 
+FOSTER_VV :_: I_PP do_VVP n't_RB know_VV ._SENT 
+PERI_NN :_: It_PP 's_VBZ never_RB platinum_JJ ._SENT 
+FOSTER_VV :_: It_PP could_MD be_VB anything_NN ._SENT 
+PERI_NN :_: Hmm_NP ._SENT How_WRB intriguing_JJ ._SENT 
+PERI_NN :_: Oh_UH ,_, will_MD it_PP be_VB long_JJ ?_SENT I_PP 'd_MD hate_VV to_TO miss_VV my_PP$ flight_NN ._SENT 
+FOSTER_VV :_: Do_VVP n't_RB worry_VV ._SENT 
+(_( The_DT Tardis_NP materialises_VVZ on_IN the_DT beach_NN ._SENT Peri_NP hands_VVZ the_DT briefcase_NN to_TO 
+Foster_NP who_WP has_VHZ got_VVN back_RB into_IN the_DT dinghy_NN ._SENT )_) 
+FOSTER_VV :_: Vamos_NP ._SENT Sorry_RB ,_, Peri_NP ._SENT You_PP 'll_MD have_VH to_TO wait_VV for_IN the_DT next_JJ trip_NN ._SENT 
+PERI_NN :_: Howard_NP !_SENT 
+FOSTER_VV :_: I_PP 'll_MD send_VV over_IN another_DT dinghy_NN ._SENT Keep_VV an_DT eye_NN on_IN the_DT ship_NN ,_, will_MD 
+you_PP ?_SENT 
+PERI_NN :_: Get_VV one_PP of_IN the_DT crew_NN to_TO stay_VV behind_RB !_SENT I_PP have_VHP to_TO be_VB at_IN the_DT airport_NN 
+in_IN an_DT hour_NN !_SENT 
+FOSTER_VV :_: Sorry_RB ,_, honey_NN ._SENT 
+PERI_NN :_: You_PP 're_VBP doing_VVG this_DT deliberately_RB !_SENT 
+FOSTER_VV :_: As_RB if_IN I_PP would_MD ._SENT 
+PERI_NN :_: I_PP will_MD not_RB be_VB treated_VVN like_IN this_DT !_SENT 
+FOSTER_VV :_: Morocco_NP 's_VBZ not_RB going_VVG anywhere_RB at_IN the_DT moment_NN ._SENT You_PP 've_VHP got_VVN your_PP$ 
+whole_JJ life_NN to_TO see_VV it_PP ._SENT 
+PERI_NN :_: Of_IN all_PDT the_DT low-down_JJ ,_, cheap_JJ ,_, rotten_JJ ,_, sneaky_JJ ._SENT You_PP wo_MD n't_RB get_VV away_RB 
+with_IN it_PP ,_, Howard_NP !_SENT You_PP hear_VVP me_PP ?_SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+MALKON_NN :_: Citizens_NNS of_IN Sarn_NP ,_, you_PP have_VHP all_RB seen_VVN the_DT 
+smoke_NN from_IN the_DT fire_NN mountain_NN and_CC felt_VVD the_DT quaking_VVG ground_NN ._SENT These_DT signs_NNS 
+tell_VV us_PP it_PP is_VBZ the_DT Time_NN of_IN Fire_NP ._SENT Logar_NP ,_, lord_NN of_IN fire_NN ,_, is_VBZ testing_VVG our_PP$ 
+faith_NN ._SENT 
+(_( A_DT woman_NN walks_VVZ in_IN ._SENT )_) 
+SORASTA_NN :_: Testing_VVG our_PP$ common_JJ sense_NN ,_, you_PP mean_VVP ._SENT 
+MALKON_NN :_: The_DT old_JJ men_NNS will_MD tell_VV you_PP that_IN/that soon_RB Logar_NP will_MD send_VV a_DT sea_NN of_IN 
+fire_NN from_IN the_DT heart_NN of_IN the_DT mountain_NN ._SENT 
+SORASTA_NN :_: Then_RB we_PP must_MD all_RB leave_VV this_DT place_NN ._SENT 
+MALKON_NN :_: We_PP must_MD do_VV nothing_NN !_SENT 
+SORASTA_NN :_: Nothing_NN ?_SENT 
+TIMANOV_NN :_: If_IN we_PP have_VHP faith_NN in_IN Logar_NP and_CC are_VBP not_RB found_VVN wanting_VVG ,_, we_PP will_MD 
+survive_VV and_CC prosper_VV ._SENT And_CC as_IN a_DT reward_NN ,_, the_DT Outsider_NP will_MD come_VV ._SENT There_RB 
+will_MD be_VB food_NN and_CC gifts_NNS we_PP have_VHP forgotten_VVN existed_VVN ._SENT 
+AMYAND_NP :_: No_UH !_SENT It_PP 's_VBZ a_DT lie_NN ._SENT Logar_NP 's_VBZ a_DT myth_NN ._SENT 
+TIMANOV_NN :_: Heretic_NN ._SENT Unbeliever_NN ._SENT 
+AMYAND_NN :_: We_PP have_VHP climbed_VVN the_DT mountain_NN ._SENT 
+TIMANOV_NN :_: It_PP is_VBZ death_NN to_TO trespass_VV on_IN the_DT mountain_NN of_IN fire_NN ._SENT 
+AMYAND_NN :_: We_PP 've_VHP climbed_VVN the_DT mountain_NN and_CC we_PP 're_VBP still_RB alive_JJ ._SENT Logar_NP does_VVZ n't_RB 
+exist_VV ._SENT 
+[_SYM Orzola_NP Jetty_NP ]_SYM 
+CURT_JJ :_: These_DT ropes_NNS are_VBP n't_RB tight_JJ enough_RB ._SENT Must_MD I_PP do_VV 
+everything_NN myself_PP ?_SENT 
+(_( The_DT Doctor_NP and_CC Turlough_NP look_VVP at_IN Eros_NP in_IN the_DT box_NN on_IN the_DT vehicle_NN ._SENT )_) 
+CURT_JJ :_: And_CC what_WP do_VVP you_PP want_VVP ?_SENT 
+DOCTOR_NN :_: A_DT kouros_NP ,_, late_JJ Classical_JJ period_NN ._SENT It_PP 's_VBZ really_RB rather_RB fine_JJ ._SENT I_PP 'd_MD 
+hazard_VV a_DT guess_NN by_IN a_DT pupil_NN of_IN Praxiteles_NP ._SENT 
+TURLOUGH_NN :_: Doctor_NN ,_, you_PP 're_VBP showing_VVG off_RP ._SENT 
+CURT_JJ :_: I_PP 'm_VBP inclined_VVN to_TO agree_VV ._SENT 
+FOSTER_VV :_: But_CC a_DT remarkably_RB well-informed_JJ guess_NN ,_, sir_NN ._SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT It_PP 's_VBZ a_DT pity_NN about_IN the_DT erosion_NN ,_, but_CC the_DT overall_JJ effect_NN is_VBZ 
+not_RB unattractive_JJ ,_, like_IN the_DT marine_JJ Venus_NP on_IN Rhodes_NP ._SENT Has_VHZ this_RB just_RB been_VBN 
+brought_VVN up_RP from_IN the_DT seabed_NN ?_SENT 
+FOSTER_JJ :_: Earlier_JJR today_NN ._SENT It_PP 's_VBZ proving_VVG to_TO be_VB a_DT very_RB interesting_JJ wreck_NN out_RB 
+in_IN the_DT bay_NN ._SENT A_DT real_JJ mixed_JJ bag_NN ,_, just_RB like_IN your_PP$ English_NP Mary_NP Rose_NP ._SENT 
+DOCTOR_NN :_: Indeed_UH ._SENT But_CC more_RBR of_IN a_DT mixed_JJ bag_NN than_IN you_PP realise_VVP ._SENT 
+CURT_JJ :_: And_CC what_WP does_VVZ that_DT mean_NN ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, nothing_NN ._SENT 
+FOSTER_VV :_: Oh_UH ,_, come_VV on_RP ,_, Curt_NP ._SENT No_DT one_CD 's_VBZ going_VVG to_TO take_VV your_PP$ wreck_NN away_RB from_IN 
+you_PP ._SENT Nice_JJ talking_VVG to_TO you_PP ._SENT 
+DOCTOR_NN :_: Goodbye_NN ._SENT 
+(_( Foster_NP and_CC Curt_NP leave_VVP ._SENT )_) 
+TURLOUGH_NP :_: Do_VVP you_PP think_VVP the_DT divers_NNS disturbed_JJ something_NN ?_SENT 
+(_( The_DT Doctor_NP 's_POS portable_JJ detector_NN beeps_NNS ._SENT )_) 
+DOCTOR_NN :_: Without_IN a_DT doubt_NN ._SENT We_PP 'll_MD need_VV two_CD readings_NNS to_TO pinpoint_VV the_DT spot_NN 
+exactly_RB ._SENT 
+TURLOUGH_NN :_: You_PP take_VVP one_PP from_IN here_RB ._SENT It_PP 's_VBZ quicker_JJR if_IN I_PP go_VVP back_RB to_TO the_DT 
+Tardis_NP ._SENT 
+DOCTOR_NN :_: Yes_UH ,_, hurry_NN ._SENT I_PP do_VVP n't_RB know_VV how_WRB long_RB there_EX 'll_MD be_VB before_IN the_DT next_JJ 
+emission_NN ._SENT 
+[_SYM Foster_NP 's_POS boat_NN ]_SYM 
+(_( Peri_NP looks_VVZ through_IN her_PP$ passport_NN ,_, then_RB her_PP$ wallet_NN ,_, 
+then_RB picks_VVZ up_RP the_DT device_NN ._SENT )_) 
+PERI_NN :_: Could_MD be_VB platinum_JJ ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( Kamelion_NN is_VBZ at_IN the_DT console_NN when_WRB Turlough_NP enters_VVZ ._SENT )_) 
+
+KAMELION_NP :_: Do_VVP not_RB interfere_VV ._SENT Tardis_NNS will_MD be_VB taken_VVN to_TO point_VV of_IN contact_NN ._SENT I_PP 
+must_MD obey_VV ._SENT Find_VV point_NN of_IN contact_NN ._SENT 
+TURLOUGH_NN :_: You_PP 're_VBP not_RB taking_VVG the_DT Tardis_NP anywhere_RB ,_, and_CC you_PP 're_VBP not_RB 
+listening_VVG to_TO any_DT more_JJR messages_NNS from_IN Trion_NN ._SENT You_PP 're_VBP finished_VVN ,_, Kamelion_NP !_SENT 
+(_( Turlough_NP presses_NNS buttons_NNS ._SENT Kamelion_NN squeals_NNS and_CC stops_NNS working_VVG ._SENT 
+(_( On_IN the_DT boat_NN ,_, Peri_NP has_VHZ stripped_VVN down_RP to_TO a_DT bikini_NN and_CC put_VV all_PDT her_PP$ 
+belongings_NNS into_IN a_DT plastic_JJ bag_NN ._SENT She_PP jumps_VVZ into_IN the_DT water_NN and_CC swims_VVZ for_IN 
+shore_NN ._SENT Having_VHG removed_VVN Kamelion_NP from_IN the_DT console_NN room_NN ,_, Turlough_NP spots_NNS 
+Peri_NN on_IN the_DT scanner_NN ._SENT She_PP is_VBZ getting_VVG into_IN difficulties_NNS ._SENT )_) 
+TURLOUGH_NN :_: Earthlings_NNS ._SENT 
+[_SYM Papagayo_NP Beach_NP ]_SYM 
+(_( Peri_NP can_MD be_VB heard_VVN screaming_VVG as_IN Turlough_NP strips_VVZ to_TO 
+his_PP$ Speedos_NP and_CC swims_VVZ out_RP to_TO help_VV her_PP ._SENT )_) 
+PERI_NN :_: Help_VV !_SENT 
+(_( After_IN a_DT brief_JJ struggle_NN ,_, Turlough_NP gets_VVZ Peri_NP on_IN her_PP$ back_NN and_CC starts_NNS 
+pulling_VVG her_PP$ back_NN to_TO shore_VV ._SENT 
+The_DT Doctor_NP is_VBZ sitting_VVG at_IN a_DT table_NN sipping_VVG a_DT drink_NN when_WRB his_PP$ detector_NN 
+beeps_NNS ._SENT He_PP puts_VVZ a_DT handful_NN of_IN alien_JJ tokens_NNS on_IN the_DT table_NN and_CC runs_VVZ off_RP ._SENT The_DT 
+waiter_NN is_VBZ not_RB amused_VVN ,_, and_CC gives_VVZ chase_NN ._SENT 
+(_( Turlough_NP carries_VVZ Peri_NP onto_IN the_DT beach_NN ._SENT )_) 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+SORASTA_NN :_: This_DT is_VBZ your_PP$ last_JJ chance_NN ,_, Timanov_NP ._SENT If_IN 
+there_EX 's_VBZ no_DT sign_NN ,_, it_PP 's_VBZ you_PP who_WP 'll_MD burn_VV on_IN the_DT sacrificial_JJ altar_NN ._SENT 
+TIMANOV_NP :_: Logar_NP !_SENT A_DT sign_NN !_SENT 
+(_( The_DT flames_NNS behind_IN the_DT grill_NN leap_NN up_RB ._SENT Timanov_NN kneels_NNS ._SENT )_) 
+TIMANOV_NN :_: Thank_VV you_PP ._SENT 
+[_SYM Girl_NP 's_POS room_NN ]_SYM 
+(_( Turlough_NP helps_VVZ Peri_NP into_IN what_WP was_VBD Tegan_NP 's_POS room_NN ,_, 
+and_CC drops_VVZ her_PP onto_IN the_DT bed_NN ._SENT )_) 
+PERI_NN :_: I_PP think_VVP I_PP 'm_VBP going_VVG to_TO die_VV ._SENT 
+TURLOUGH_NP :_: No_UH ,_, you_PP 're_VBP not_RB ._SENT 
+(_( He_PP puts_VVZ the_DT covers_NNS over_IN her_PP ,_, then_RB spots_VVZ the_DT alien_JJ device_NN in_IN her_PP 
+plastic_JJ bag_NN ._SENT )_) 
+TURLOUGH_NP :_: Where_WRB did_VVD you_PP find_VVP this_DT ?_SENT 
+PERI_NN :_: Howard_NP was_VBD such_PDT a_DT pig_NN ._SENT I_PP needed_VVD the_DT money_NN ._SENT 
+(_( Turlough_NP rolls_VVZ up_RP his_PP$ sleeve_NN ._SENT He_PP has_VHZ the_DT same_JJ mark_NN on_IN his_PP$ arm_NN ,_, too_RB ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+(_( Turlough_NP has_VHZ taken_VVN the_DT device_NN apart_RB when_WRB the_DT 
+Doctor_NN runs_VVZ in_IN ._SENT He_PP hides_VVZ it_PP in_IN a_DT towel_NN ._SENT )_) 
+TURLOUGH_NN :_: Doctor_NN 
+DOCTOR_NN :_: The_DT point_NN of_IN emission_NN moved_VVD ._SENT It_PP 's_VBZ odd_JJ ._SENT It_PP 's_VBZ very_RB odd_JJ indeed_RB ._SENT 
+You_PP 're_VBP soaking_VVG wet_JJ ._SENT 
+(_( The_DT detector_NN goes_VVZ crazy_JJ over_IN the_DT towel_NN so_IN the_DT Doctor_NP takes_VVZ it_PP from_IN 
+Turlough_NP ._SENT )_) 
+DOCTOR_NN :_: A_DT data_NNS core_NN ._SENT Where_WRB did_VVD you_PP find_VVP this_DT ?_SENT 
+TURLOUGH_NN :_: On_IN the_DT shore_NN ._SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT Must_MD be_VB what_WP was_VBD sending_VVG the_DT signal_NN ._SENT Now_RB ,_, with_IN a_DT little_JJ 
+help_VV from_IN the_DT Tardis_NP computer_NN ,_, we_PP may_MD find_VV out_RP exactly_RB why_WRB Kamelion_NP set_VVD 
+the_DT coordinates_VVZ to_TO come_VV here_RB ._SENT 
+[_SYM Girl_NP 's_POS room_NN ]_SYM 
+(_( Peri_NP is_VBZ talking_VVG in_IN her_PP$ sleep_NN ._SENT )_) 
+PERI_NN :_: I_PP 'm_VBP sorry_JJ ,_, Howard_NP ._SENT I_PP did_VVD n't_RB mean_VV it_PP ._SENT No_RB ,_, Howard_NP ._SENT Please_UH do_VV n't_RB 
+leave_VV me_PP alone_RB ._SENT Do_VV n't_RB ,_, do_VVP n't_RB turn_VV out_RP the_DT light_NN ._SENT 
+(_( Elsewhere_RB in_IN the_DT Tardis_NP ,_, Kamelion_NP is_VBZ once_RB again_RB plugged_VVD in_IN to_TO the_DT 
+computer_NN ._SENT )_) 
+PERI_NN :_: Howard_NP !_SENT 
+(_( Kamelion_NP transforms_VVZ into_IN Professor_NP Howard_NP Foster_NP in_IN a_DT full_JJ three_CD piece_NN 
+suit_NN ,_, and_CC smiles_NNS ._SENT Peri_NP wakes_VVZ up_RP ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+DOCTOR_NN :_: Another_DT moment_NN and_CC we_PP 'll_MD know_VV where_WRB the_DT 
+cylinder_NN came_VVD from_IN ._SENT 
+(_( Bang_NP !_SENT )_) 
+DOCTOR_NN :_: Well_RB ,_, that_WDT should_MD n't_RB have_VH happened_VVN ._SENT Ow_NN !_SENT 
+(_( Turlough_NP throws_VVZ the_DT towel_NN to_TO the_DT Doctor_NP ,_, who_WP uses_VVZ it_PP to_TO take_VV the_DT data_NNS 
+core_NN from_IN the_DT console_NN ._SENT The_DT Tardis_NP doors_NNS close_NN ._SENT )_) 
+DOCTOR_NN :_: Did_VVD you_PP do_VVP that_RB ?_SENT 
+TURLOUGH_NN :_: No._NN 
+DOCTOR_NN :_: The_DT Tardis_NP has_VHZ dematerialised_VVN ._SENT 
+(_( Kamelion_NP Foster_NP enters_VVZ from_IN the_DT interior_NN ._SENT )_) 
+K-FOSTER_NN :_: Doctor_NN ,_, we_PP meet_VVP again_RB ._SENT This_DT has_VHZ to_TO be_VB the_DT most_RBS amazing_JJ 
+machine_NN I_PP 've_VHP seen_VVN in_IN my_PP$ life_NN ._SENT 
+DOCTOR_NN :_: How_WRB did_VVD you_PP get_VV in_IN here_RB ?_SENT 
+K-FOSTER_NN :_: I_PP saw_VVD your_PP$ young_JJ friend_NN here_RB save_IN Peri_NP ._SENT 
+DOCTOR_NN :_: Peri_NN ?_SENT 
+TURLOUGH_NN :_: The_DT girl_NN ._SENT 
+DOCTOR_NN :_: What_WP girl_NN ?_SENT 
+TURLOUGH_NN :_: I_PP was_VBD going_VVG to_TO explain_VV ._SENT 
+(_( Dressed_VVN again_RB ,_, Peri_NP enters_VVZ from_IN the_DT interior_NN ._SENT )_) 
+PERI_NN :_: What_WP 's_VBZ happening_VVG ?_SENT 
+TURLOUGH_NN :_: That_DT girl_NN ,_, Doctor_NP ._SENT 
+K-FOSTER_NN :_: How_WRB are_VBP you_PP feeling_VVG ,_, honey_NN ?_SENT 
+PERI_NN :_: Howard_NP ?_SENT Am_VBP I_PP still_RB dreaming_VVG or_CC will_NN someone_NN please_VVP tell_VV me_PP where_WRB 
+I_PP am_VBP ?_SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+TIMANOV_NN :_: I_PP called_VVD to_TO Logar_NP and_CC the_DT fire_NN lord_NN has_VHZ 
+answered_VVN ._SENT 
+(_( The_DT ground_NN shakes_VVZ and_CC dirt_NN falls_NNS from_IN the_DT ceiling_NN ._SENT )_) 
+TIMANOV_NN :_: I_PP called_VVD to_TO the_DT spirit_NN of_IN the_DT mountain_NN and_CC was_VBD answered_VVN ._SENT The_DT 
+spirit_NN of_IN the_DT mountain_NN demands_NNS sacrifice_NN ._SENT To_TO the_DT burning_NN with_IN all_DT 
+unbelievers_NNS ._SENT 
+AMYAND_NN :_: Coincidence_NN ._SENT 
+TIMANOV_NN :_: Even_RB facing_VVG death_NN ,_, you_PP remain_VVP blasphemous_JJ ._SENT 
+[_SYM Lookout_NP point_NN ]_SYM 
+(_( The_DT man_NN with_IN the_DT telescope_NN is_VBZ looking_VVG at_IN the_DT 
+Tardis_NP ,_, parked_VVN amongst_IN stone_NN columns_NNS ._SENT )_) 
+LOOKOUT_NN :_: Timanov_NP was_VBD right_JJ ._SENT The_DT Outsider_NP has_VHZ come_VVN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+PERI_NN :_: I_PP feel_VVP sick_JJ ._SENT Can_MD I_PP go_VV back_RB to_TO the_DT hotel_NN ?_SENT 
+FOSTER_VV :_: Have_VHP n't_RB you_PP heard_VVD a_DT word_NN the_DT Doctor_NP said_VVD ?_SENT We_PP 're_VBP no_RB longer_RBR on_RB 
+Lanzarote_NP ._SENT 
+PERI_NN :_: Then_RB where_WRB are_VBP we_PP ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, I_PP 'm_VBP not_RB sure_JJ yet_RB ,_, but_CC I_PP promise_VVP I_PP 'll_MD get_VV you_PP back_RB to_TO Earth_NP 
+just_RB as_RB soon_RB as_IN I_PP can_MD ._SENT 
+PERI_NN :_: What_WP does_VVZ he_PP mean_VVP ,_, back_RB to_TO Earth_NP ?_SENT 
+(_( The_DT Doctor_NP looks_VVZ at_IN the_DT arcade_NN on_IN the_DT scanner_NN ._SENT )_) 
+DOCTOR_NN :_: Bleak_JJ ,_, is_VBZ n't_RB it_PP ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( General_JJ consternation_NN ._SENT )_) 
+AMYAND_NN :_: Stop_VV !_SENT Only_RB a_DT Chosen_NP One_CD can_MD order_VV a_DT burning_NN ._SENT Well_RB ,_, Malkon_NP ?_SENT 
+TIMANOV_NN :_: Decide_VV ._SENT 
+MALKON_NN :_: I_PP do_VVP n't_RB know_VV ._SENT 
+TIMANOV_NN :_: Decide_VV !_SENT 
+LOOKOUT_NN :_: Malkon_NN !_SENT He_PP is_VBZ here_RB ,_, with_IN a_DT sound_NN of_IN great_JJ wind_NN ,_, a_DT shining_VVG 
+light_NN ._SENT The_DT Outsider_NP has_VHZ come_VVN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( Peri_NP and_NP '_POS Foster_NP '_POS watch_VVP the_DT Doctor_NP and_CC Turlough_NP 
+on_IN the_DT scanner_NN ._SENT )_) 
+PERI_NN :_: Do_VVP you_PP really_RB think_VVP we_PP 've_VHP left_VVN Earth_NP ?_SENT 
+K-FOSTER_NN :_: The_DT Tardis_NP is_VBZ mine_JJ ._SENT 
+PERI_NN :_: Sorry_JJ ?_SENT 
+K-FOSTER_NN :_: The_DT Tardis_NP is_VBZ mine_JJ ._SENT 
+PERI_NN :_: What_WP are_VBP you_PP doing_VVG ,_, Howard_NP ?_SENT Do_VV n't_RB touch_VV that_DT !_SENT 
+(_( Foster_NP closes_VVZ the_DT doors_NNS ._SENT )_) 
+K-FOSTER_NN :_: I_PP have_VHP succeeded_VVN ._SENT Contact_NN has_VHZ been_VBN made_VVN ._SENT 
+(_( Peri_NP screams_VVZ ,_, Foster_NP laughs_VVZ ,_, then_RB transforms_VVZ into_IN the_DT Master_NP ._SENT )_) 
+PERI_NN :_: Who_WP are_VBP you_PP ?_SENT 
+K-MASTER_NN :_: I_PP am_VBP the_DT Master_NP ,_, and_CC you_PP will_MD obey_VV me_PP ._SENT 
+Part_NN Two_CD 
+
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+MALKON_NN :_: Release_VV the_DT unbelievers_NNS !_SENT 
+TIMANOV_NP :_: No_UH !_SENT 
+MALKON_NN :_: It_PP is_VBZ not_RB necessary_JJ ._SENT By_IN sending_VVG us_PP the_DT Outsider_NP ,_, Logar_NP has_VHZ 
+shown_VVN his_PP$ favour_NN ._SENT 
+TIMANOV_NN :_: The_DT fire_NN god_NN demands_NNS sacrifice_NN ._SENT 
+MALKON_NN :_: I_PP cannot_MD order_VV the_DT deaths_NNS of_IN three_CD innocent_JJ people_NNS ._SENT Not_RB now_RB ._SENT 
+There_EX will_MD be_VB no_DT burning_NN ._SENT Release_VV them_PP !_SENT 
+[_SYM Tardis_NP ]_SYM 
+PERI_NN :_: Look_VV ,_, I_PP just_RB want_VVP to_TO get_VV out_RP of_IN here_RB ._SENT 
+Please_UH ._SENT 
+K-MASTER_NN :_: You_PP will_MD remain_VV in_IN the_DT Tardis_NP ._SENT 
+PERI_NN :_: We_PP 'll_MD see_VV about_IN that_DT !_SENT 
+(_( Peri_NP kicks_VVZ the_DT Master_NP 's_POS knee_NN ,_, but_CC it_PP is_VBZ actually_RB Kamelion_NP 's_POS metal_NN 
+knee_NN ,_, and_CC she_PP hurts_VVZ her_PP$ foot_NN ._SENT She_PP pushes_VVZ him_PP back_RB then_RB returns_VVZ to_TO the_DT 
+console_NN ._SENT He_PP grips_VVZ her_PP$ shoulder_NN ,_, bringing_VVG her_PP to_TO her_PP$ knees_NNS ,_, then_RB 
+releases_VVZ her_PP and_CC hugs_VVZ himself_PP ._SENT Kamelion_NP is_VBZ fighting_VVG back_RB ._SENT )_) 
+MASTER_NN :_: Resist_VV ._SENT The_DT girl_NN ._SENT Resist_VV ._SENT Obey_NP control_NN ._SENT Resist_VV ._SENT Obey_NP ._SENT 
+(_( The_DT Master_NP transforms_VVZ to_TO Kamelion_NP ._SENT )_) 
+PERI_NN :_: Who_WP are_VBP you_PP ?_SENT What_WP are_VBP you_PP ?_SENT 
+KAMELION_NN :_: Help_VV me_PP ._SENT 
+[_SYM Ruins_NP ]_SYM 
+(_( The_DT Doctor_NP holds_VVZ the_DT logo_NN on_IN the_DT artefact_NN against_IN 
+a_DT mark_NN at_IN the_DT base_NN of_IN a_DT column_NN ._SENT )_) 
+DOCTOR_NN :_: Snap_NN ._SENT 
+TURLOUGH_NN :_: The_DT Misos_NP Triangle_NP ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, is_VBZ that_IN/that what_WP it_PP 's_VBZ called_VVN ._SENT 
+TURLOUGH_NN :_: It_PP means_VVZ there_EX are_VBP people_NNS from_IN Trion_NN here_RB ._SENT My_PP$ home_NN planet_NN ._SENT 
+This_DT must_MD be_VB an_DT old_JJ Trion_NN colony_NN ._SENT 
+DOCTOR_NN :_: Very_RB old_JJ ._SENT By_IN the_DT look_NN of_IN it_PP ,_, deserted_VVN ._SENT 
+(_( They_PP walk_VVP away_RB ._SENT A_DT stone_NN door_NN and_CC pillar_NN materialise_VVP in_IN an_DT opening_NN ._SENT )_) 
+[_SYM Settlement_NP balcony_NN ]_SYM 
+TIMANOV_NN :_: A_DT blue_JJ box_NN ?_SENT 
+LOOKOUT_NN :_: It_PP came_VVD from_IN nowhere_RB ,_, with_IN a_DT flashing_VVG light_NN ._SENT 
+TIMANOV_NN :_: There_EX 's_VBZ no_DT recorded_JJ history_NN of_IN a_DT blue_JJ box_NN ,_, and_CC every_DT 
+visitation_NN 's_VBZ different_JJ ._SENT 
+LOOKOUT_NN :_: Perhaps_RB we_PP 've_VHP been_VBN sent_VVN another_DT Chosen_NP One_CD ?_SENT The_DT boy_NN is_VBZ weak_JJ ,_, 
+the_DT heretics_NNS walk_VVP free_JJ ._SENT 
+TIMANOV_NP :_: No_UH ,_, no._NP No_NP Chosen_NP One_NP has_VHZ appeared_VVN on_IN the_DT Time_NP of_IN Fire_NP ._SENT It_PP can_MD 
+only_RB be_VB the_DT Outsider_NN ._SENT Yes_UH ._SENT 
+[_SYM Tardis_NP ]_SYM 
+PERI_NN :_: What_WP has_VHZ happened_VVN to_TO Howard_NP ?_SENT Who_WP is_VBZ the_DT 
+other_JJ man_NN ?_SENT What_WP 's_VBZ going_VVG on_RP ?_SENT 
+KAMELION_NN :_: Howard_NP is_VBZ safe_JJ on_IN Earth_NP ._SENT His_PP$ appearance_NN was_VBD a_DT projection_NN of_IN 
+your_PP$ own_JJ energy_NN ,_, which_WDT overwhelmed_VVD my_PP$ personality_NN circuits_NNS ._SENT 
+PERI_NN :_: Circuits_NNS ?_SENT You_PP really_RB are_VBP some_DT kind_NN of_IN robot_NN ?_SENT 
+KAMELION_NN :_: I_PP am_VBP Kamelion_NP ._SENT Was_VBD Kamelion_NP ._SENT But_CC I_PP must_MD help_VV you_PP ._SENT Leave_VV the_DT 
+Tardis_NNS at_IN once_RB and_CC find_VV the_DT Doctor_NP ._SENT You_PP must_MD Argh_NP !_SENT 
+(_( Kamelion_NP transforms_VVZ into_IN Foster_NP again_RB ,_, but_CC with_IN silver_JJ skin_NN this_DT 
+time_NN ._SENT )_) 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( The_DT Master_NP watches_VVZ the_DT Doctor_NP and_CC Turlough_NP on_IN his_PP$ 
+scanner_NN ._SENT )_) 
+MASTER_NN :_: My_PP$ dear_JJ Doctor_NP ._SENT So_RB relentlessly_RB predictable_JJ ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( Kamelion-Foster_NP removes_VVZ a_DT circuit_NN board_NN from_IN the_DT 
+console_NN ._SENT )_) 
+K-FOSTER_NN :_: Give_VV this_DT to_TO the_DT Doctor_NP and_CC warn_VV him_PP that_IN/that the_DT Master_NP Argh_NP ._SENT 
+PERI_NN :_: The_DT Master_NP ?_SENT Who_WP is_VBZ the_DT Master_NP ?_SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( The_DT Master_NP uses_VVZ a_DT device_NN surrounding_VVG his_PP$ head_NN 
+whilst_IN watching_VVG Kamelion_NN twitching_VVG on_IN a_DT globe_NN monitor_NN ._SENT )_) 
+MASTER_NN :_: Kamelion_NP ,_, my_PP$ slave_NN ,_, resist_VV the_DT girl_NN ._SENT Her_PP$ mind_NN is_VBZ strong_JJ ,_, but_RB 
+you_PP will_MD obey_VV only_RB the_DT Master_NP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( Silver_NP Foster_NP transforms_VVZ into_IN the_DT Master_NP ._SENT )_) 
+K-MASTER_NN :_: My_PP$ dear_JJ Peri_NP ,_, do_VVP not_RB be_VB confused_VVN by_IN my_PP$ shifting_JJ appearance_NN ._SENT 
+The_DT transfer_NN is_VBZ now_RB stabilised_VVN ._SENT I_PP am_VBP immutably_RB the_DT Master_NP ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+MASTER_NN :_: Now_RB quickly_RB ,_, to_TO my_PP$ Tardis_NP ._SENT Release_VV me_PP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+K-MASTER_NN :_: Come_VV ._SENT 
+PERI_NN :_: I_PP 've_VHP changed_VVN my_PP$ mind_NN ._SENT I_PP 'm_VBP waiting_VVG here_RB for_IN the_DT Doctor_NP ._SENT 
+K-MASTER_NN :_: You_PP will_MD come_VV with_IN me_PP or_CC you_PP will_MD remain_VV in_IN the_DT Tardis_NP ,_, dead_JJ ._SENT 
+
+PERI_NN :_: Oh_UH ,_, well_UH ,_, since_IN you_PP put_VVP it_PP that_DT way_NN ._SENT 
+(_( Kamelion-Master_NP twists_VVZ Peri_NP 's_POS arm_NN behind_IN her_PP$ back_NN and_CC marches_VVZ her_PP 
+out_RB ._SENT )_) 
+[_SYM Ruins_NP ]_SYM 
+K-MASTER_NN :_: I_PP deplore_VVP such_JJ unsophisticated_JJ coercion_NN ,_, 
+but_CC your_PP$ cooperation_NN 's_VBZ necessary_JJ to_TO me_PP ._SENT 
+(_( There_EX is_VBZ an_DT earth_NN tremor_NN ,_, sorry_RB ,_, Sarn_NP tremor_NN ,_, and_CC the_DT Master_NP 's_POS Tardis_NP 
+falls_VVZ over_RP ._SENT Peri_NP tries_VVZ to_TO get_VV away_RB ._SENT )_) 
+K-MASTER_NN :_: I_PP think_VVP not_RB ._SENT I_PP think_VVP not_RB ,_, Miss_NP Brown_NP ._SENT 
+(_( A_DT piece_NN of_IN falling_VVG masonry_NN hits_VVZ Kamelion-Master_NP on_IN the_DT head_NN ,_, knocking_VVG 
+him_PP out_RB ._SENT Peri_NP runs_VVZ ._SENT )_) 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( The_DT Master_NP struggles_VVZ back_RB into_IN his_PP$ mind-control_NN 
+device_NN ._SENT )_) 
+MASTER_NN :_: We_PP must_MD not_RB lose_VV the_DT girl_NN !_SENT 
+[_SYM Seismic_NP monitor_VV chamber_NN ]_SYM 
+(_( The_DT only_RB known_VVN bit_NN of_IN technology_NN is_VBZ bleeping_VVG and_CC 
+flashing_VVG like_IN crazy_JJ ._SENT The_DT three_CD unbelievers_NNS run_VVP down_RP the_DT metal_NN stairs_NNS to_TO 
+see_VV ._SENT )_) 
+SORASTA_NP :_: Look_VVP at_IN the_DT dials_NNS !_SENT They_PP 're_VBP going_VVG mad_JJ ._SENT 
+ROSKAL_NP :_: Every_DT time_NN the_DT volcano_NN becomes_VVZ active_JJ ,_, these_DT instruments_NNS react_VVP ._SENT 
+They_PP must_MD be_VB controlling_VVG the_DT mountain_NN somehow_RB ._SENT 
+AMYAND_NN :_: If_IN only_RB we_PP could_MD work_VV out_RP how_WRB ._SENT 
+[_SYM Sarn_NP ]_SYM 
+(_( Peri_NP runs_VVZ across_IN the_DT volcanic_JJ rocks_NNS and_CC hides_NNS ._SENT 
+Two_CD figures_NNS approach_NN ,_, talking_VVG ._SENT )_) 
+DOCTOR_NN :_: We_PP should_MD get_VV back_RB to_TO the_DT Professor_NP and_CC the_DT girl_NN ._SENT 
+TURLOUGH_NN :_: Peri_NN ._SENT 
+DOCTOR_NN :_: Peri_NN ._SENT 
+TURLOUGH_NN :_: Just_RB a_DT bit_NN further_RBR ,_, Doctor_NP ,_, please_UH ._SENT 
+DOCTOR_NN :_: There_EX 's_VBZ no_DT one_CD alive_JJ on_IN this_DT planet_NN ._SENT 
+TURLOUGH_NN :_: I_PP have_VHP a_DT feeling_NN there_EX is_VBZ ._SENT 
+DOCTOR_NN :_: Let_VV 's_VBZ get_VV a_DT move_NN on_RB ._SENT The_DT Tardis_NP computer_NN may_MD be_VB confident_JJ the_DT 
+volcano_NN is_VBZ n't_RB about_RB to_TO blow_VV ,_, but_CC instinct_NN tells_VVZ me_PP otherwise_RB ._SENT 
+[_SYM Ruins_NP ]_SYM 
+(_( Kamelion-Master_NP wakes_VVZ up_RB and_CC feels_VVZ the_DT top_NN of_IN his_PP$ 
+head_NN ._SENT Then_RB he_PP goes_VVZ to_TO the_DT Master_NP 's_POS fallen_JJ Tardis_NP and_CC tries_VVZ to_TO lift_VV it_PP ,_, 
+to_TO no_DT avail_NN ._SENT )_) 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+MASTER_NN :_: Quickly_RB ,_, Kamelion_NP ,_, go_VVP to_TO the_DT Doctor_NP 's_POS 
+machine_NN and_CC materialise_VV that_DT preposterous_JJ box_NN inside_IN my_PP$ Tardis_NP ._SENT 
+[_SYM Passageway_NP ]_SYM 
+TIMANOV_NN :_: I_PP 'm_VBP going_VVG to_TO the_DT place_NN of_IN arrival_NN ._SENT You_PP 
+will_MD attend_VV me_PP ._SENT It_PP might_MD be_VB a_DT chance_NN for_IN you_PP to_TO redeem_VV yourself_PP ._SENT 
+MALKON_NN :_: The_DT unbelievers_NNS do_VVP no_DT harm_NN ._SENT 
+TIMANOV_NP :_: Sarn_NP was_VBD a_DT thriving_JJ and_CC prosperous_JJ planet_NN until_IN the_DT existence_NN 
+of_IN Logar_NP was_VBD questioned_VVN ._SENT Now_RB look_VV at_IN us_PP !_SENT A_DT primitive_JJ settlement_NN on_IN the_DT 
+verge_NN of_IN extinction_NN ._SENT No_DT harm_NN ?_SENT Those_DT heretics_NNS must_MD be_VB executed_VVN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+K-MASTER_NN :_: The_DT comparator_NN 's_VBZ missing_VVG ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+MASTER_NN :_: The_DT girl_NN must_MD have_VH removed_VVN it_PP while_IN my_PP$ 
+control_NN was_VBD weak_JJ ._SENT You_PP must_MD find_VV her_PP before_IN she_PP rejoins_VVZ the_DT Doctor_NP ._SENT 
+[_SYM Sarn_NP ]_SYM 
+(_( Peri_NP spots_VVZ the_DT Doctor_NP and_CC Turlough_NP in_IN the_DT 
+distance_NN ._SENT )_) 
+PERI_NN :_: Doctor_NN !_SENT 
+ECHO_NN :_: Doctor_NN ._SENT 
+PERI_NN :_: Turlough_NP !_SENT 
+ECHO_NN :_: Turlough_NP ._SENT 
+(_( But_CC they_PP do_VVP not_RB hear_VV her_PP ,_, or_CC her_PP echo_VVP ._SENT Then_RB Kamelion-Master_NP sees_VVZ her_PP ._SENT )_) 
+
+PERI_NN :_: Oh_UH ,_, no._NP 
+(_( The_DT chase_NN is_VBZ on_IN across_IN the_DT treacherous_JJ terrain_NN ._SENT )_) 
+DOCTOR_NN :_: Why_WRB have_VH you_PP never_RB mentioned_VVD your_PP$ home_NN planet_NN before_RB ?_SENT 
+TURLOUGH_NN :_: No_DT particular_JJ reason_NN ._SENT 
+DOCTOR_NN :_: Are_VBP you_PP in_IN trouble_NN ?_SENT 
+TURLOUGH_NP :_: What_WP makes_VVZ you_PP think_VVP that_RB ?_SENT 
+DOCTOR_NN :_: Instinct_NN ._SENT And_CC the_DT fact_NN I_PP 've_VHP never_RB seen_VVN you_PP so_RB nervous_JJ before_RB ._SENT 
+AMYAND_NP :_: Hey_UH ,_, you_PP there_RB !_SENT 
+TURLOUGH_NN :_: And_CC you_PP said_VVD the_DT planet_NN was_VBD deserted_VVN ._SENT 
+(_( They_PP climb_VV up_RP to_TO Amyand_NP ,_, who_WP has_VHZ a_DT weapon_NN ._SENT 
+Peri_NP has_VHZ reached_VVN a_DT flattened_VVN surface_NN with_IN a_DT telescope_NN at_IN the_DT end_NN ._SENT )_) 
+[_SYM Bunker_NP ]_SYM 
+(_( The_DT Doctor_NP ,_, Turlough_NP and_CC Amyand_NP are_VBP met_VVN by_IN 
+Sorasta_NP ._SENT )_) 
+AMYAND_NN :_: Greetings_NNS ._SENT I_PP am_VBP known_VVN as_IN Amyand_NP ._SENT 
+SORASTA_NN :_: And_CC I_PP am_VBP Sorasta_NP ._SENT 
+TURLOUGH_NN :_: This_DT is_VBZ the_DT Doctor_NP ._SENT I_PP am_VBP Turlough_NP ._SENT 
+AMYAND_NN :_: Where_WRB are_VBP you_PP from_IN ?_SENT 
+DOCTOR_NN :_: Here_RB and_CC there_RB ._SENT 
+AMYAND_NN :_: You_PP 're_VBP not_RB from_IN Logar_NP ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP afraid_JJ not_RB ._SENT 
+SORASTA_NN :_: Then_RB you_PP are_VBP welcome_JJ ,_, strangers_NNS ._SENT 
+TURLOUGH_NP :_: Are_VBP there_RB any_DT more_JJR of_IN you_PP here_RB ?_SENT 
+SORASTA_NP :_: Yes_UH ,_, our_PP$ group_NN is_VBZ sheltering_VVG down_RP here_RB ._SENT 
+TURLOUGH_NP :_: Why_WRB did_VVD n't_RB they_PP send_VVP a_DT rescue_NN ship_NN from_IN Trion_NN ?_SENT 
+AMYAND_NN :_: Trion_NN ?_SENT 
+TURLOUGH_NN :_: You_PP are_VBP from_IN Trion_NN ?_SENT The_DT home_NN planet_NN ?_SENT 
+AMYAND_NN :_: We_PP are_VBP from_IN Sarn_NP ._SENT This_DT is_VBZ our_PP$ planet_NN ._SENT 
+DOCTOR_NN :_: Please_UH forgive_VV my_PP$ friend_NN ._SENT He_PP seems_VVZ to_TO have_VH made_VVN a_DT mistake_NN ._SENT I_PP 
+would_MD like_VV to_TO know_VV more_JJR about_IN Logar_NP ._SENT 
+AMYAND_NN :_: In_IN due_JJ course_NN ._SENT 
+[_SYM Lookout_NP point_NN ]_SYM 
+(_( Peri_NP uses_VVZ the_DT telescope_NN ._SENT )_) 
+PERI_NN :_: Where_WRB could_MD they_PP have_VHP gone_VVN ?_SENT 
+K-MASTER_NN :_: My_PP$ dear_JJ Peri_NP ._SENT How_WRB positively_RB evanescent_JJ you_PP 've_VHP become_VVN ._SENT In_RB 
+fact_NN your_PP$ disappearance_NN has_VHZ given_VVN me_PP a_DT great_JJ deal_NN of_IN trouble_NN ._SENT 
+PERI_NN :_: You_PP keep_VVP away_RB from_IN me_PP ._SENT 
+K-MASTER_NN :_: You_PP 've_VHP removed_VVN a_DT component_NN from_IN the_DT Doctor_NP 's_POS Tardis_NP ._SENT Return_NN 
+it_PP to_TO me_PP instantly_RB ._SENT 
+(_( Peri_NP tries_VVZ to_TO run_VV ,_, but_CC they_PP are_VBP at_IN the_DT edge_NN of_IN a_DT sheer_JJ drop_NN ._SENT She_PP holds_VVZ 
+the_DT comparator_NN out_RP over_IN the_DT void_NN ._SENT )_) 
+PERI_NN :_: One_CD step_NN nearer_JJR and_CC you_PP 'll_MD never_RB get_VV this_DT back_NN ._SENT 
+K-MASTER_NN :_: If_IN you_PP damage_VVP that_DT comparator_NN ,_, the_DT Doctor_NP 's_POS Tardis_NP is_VBZ 
+useless_JJ ._SENT 
+PERI_NN :_: So_RB keep_VV your_PP$ distance_NN or_CC I_PP drop_VVP it_PP ._SENT 
+K-MASTER_NN :_: Give_VV me_PP that_DT component_NN immediately_RB !_SENT 
+PERI_NN :_: This_DT thing_NN belongs_VVZ to_TO the_DT Doctor_NP ,_, so_RB it_PP 's_VBZ the_DT Doctor_NP I_PP give_VVP it_PP to_TO 
+and_CC no_DT one_CD else_RB ._SENT 
+K-MASTER_NN :_: You_PP will_MD obey_VV me_PP ._SENT 
+PERI_NN :_: No._NN 
+K-MASTER_NN :_: I_PP am_VBP the_DT Master_NP !_SENT 
+PERI_NN :_: So_RB what_WP ?_SENT I_PP 'm_VBP Perpugilliam_NP Brown_NP and_CC I_PP can_MD shout_VV just_RB as_RB loud_JJ as_RB 
+you_PP can_MD ._SENT 
+K-MASTER_NN :_: Peri_NP ,_, be_VB reasonable_JJ ._SENT Without_IN the_DT comparator_NN ,_, you_PP will_MD never_RB 
+return_NN to_TO Earth_NP ._SENT Do_VV you_PP wish_VVP to_TO stand_VV here_RB till_IN the_DT planet_NN 's_VBZ destroyed_VVN ?_SENT 
+Well_UH ?_SENT Answer_NN !_SENT 
+PERI_NN :_: Kamelion_NN !_SENT Where_WRB are_VBP you_PP ,_, Kamelion_NP ?_SENT Come_VVN on_IN ,_, show_VV me_PP your_PP$ real_JJ 
+self_NN ._SENT Come_VVN on_IN !_SENT 
+K-MASTER_NN :_: No._NN 
+PERI_NN :_: Yes_UH ,_, Kamelion_NP ,_, your_PP$ real_JJ self_NN ._SENT Come_VVN on_IN ._SENT If_IN you_PP ca_MD n't_RB manage_VV that_IN/that ,_, 
+show_VV me_PP Howard_NP ,_, please_UH !_SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+MASTER_NN :_: Kamelion_NP ,_, my_PP$ slave_NN ,_, resist_VV the_DT girl_NN ._SENT Have_VHP 
+I_PP travelled_VVD a_DT billion_CD light_JJ years_NNS through_IN time_NN and_CC space_NN to_TO be_VB thwarted_VVN 
+by_IN this_DT brat_NN ?_SENT Resist_VV the_DT girl_NN !_SENT Kill_VV her_PP immediately_RB ._SENT 
+[_SYM Lookout_NP point_NN ]_SYM 
+(_( Silver_NP Foster_NP is_VBZ back_RB ._SENT )_) 
+PERI_NN :_: Stay_VV where_WRB you_PP are_VBP ,_, Kamelion_NP ._SENT I_PP 'm_VBP your_PP$ friend_NN ._SENT 
+(_( Kamelion-Foster_NP puts_VVZ his_PP$ hands_NNS to_TO his_PP$ head_NN and_CC turns_VVZ away_RB ._SENT Peri_NP climbs_VVZ 
+over_IN a_DT rock_NN and_CC leaves_VVZ ._SENT )_) 
+[_SYM Bunker_NP ]_SYM 
+AMYAND_NN :_: This_DT is_VBZ the_DT Doctor_NP and_CC Turlough_NP ._SENT 
+DOCTOR_NN :_: Look_VV ,_, I_PP know_VVP it_PP is_VBZ n't_RB polite_JJ for_IN a_DT stranger_NN to_TO take_VV over_IN a_DT 
+party_NN ,_, but_CC you_PP really_RB must_MD get_VV away_RB from_IN here_RB ._SENT The_DT volcano_NN is_VBZ n't_RB 
+stable_JJ ._SENT 
+AMYAND_NN :_: We_PP 're_VBP safe_JJ enough_RB underground_RB ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, far_RB from_IN it_PP ._SENT The_DT tunnel_NN we_PP 've_VHP just_RB come_VV along_RP is_VBZ a_DT vent_NN for_IN 
+the_DT volcano_NN ._SENT 
+SORASTA_NN :_: The_DT planet_NN 's_VBZ covered_VVN in_IN them_PP ._SENT We_PP use_VVP them_PP as_IN shortcuts_NNS ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ the_DT same_JJ route_NN the_DT molten_JJ lava_NN will_MD take_VV to_TO burn_VV you_PP 
+alive_JJ ._SENT I_PP have_VHP a_DT ship_NN ._SENT I_PP can_MD get_VV you_PP away_RP from_IN here_RB ._SENT Think_VV about_IN it_PP ._SENT 
+(_( The_DT Doctor_NP joins_VVZ Turlough_NP ,_, who_WP is_VBZ looking_VVG at_IN the_DT equipment_NN ._SENT )_) 
+DOCTOR_NN :_: Is_VBZ this_DT from_IN Trion_NN ?_SENT 
+TURLOUGH_NP :_: Yes_UH ._SENT 
+DOCTOR_NN :_: Yes_UH ._SENT Your_PP$ Trion_NN settlers_NNS must_MD have_VH tapped_VVN the_DT volcanic_JJ gas_NN ._SENT 
+It_PP 's_VBZ a_DT very_RB complex_JJ control_NN mechanism_NN ._SENT A_DT seismic_JJ energy_NN converter_NN for_IN 
+powering_VVG a_DT city_NN ._SENT 
+ROSKAL_NP :_: Do_VVP you_PP know_VV how_WRB this_DT machine_NN works_VVZ ?_SENT 
+DOCTOR_NN :_: In_IN principle_NN ,_, yes_UH ._SENT 
+ROSKAL_NN :_: I_PP thought_VVD if_IN I_PP learnt_VVD how_WRB to_TO manipulate_VV it_PP ,_, I_PP could_MD control_VV the_DT 
+volcano_NN ._SENT 
+DOCTOR_NN :_: Not_RB from_IN here_RB ,_, you_PP wo_MD n't_RB ._SENT 
+AMYAND_NN :_: Doctor_NN ,_, we_PP accept_VVP your_PP$ offer_NN of_IN help_NN ._SENT 
+DOCTOR_NN :_: Good_JJ ._SENT 
+(_( The_DT lookout_NN enters_VVZ ._SENT )_) 
+ZUKO_NP :_: Timanov_NP has_VHZ gone_VVN to_TO greet_VV the_DT Outsider_NP ._SENT 
+AMYAND_NN :_: Doctor_NN ,_, your_PP$ ship_NN ._SENT Would_MD there_RB be_VB a_DT shining_VVG light_NN ?_SENT The_DT sound_NN of_IN 
+a_DT great_JJ wind_NN ?_SENT 
+DOCTOR_NN :_: Possibly_RB ._SENT 
+SORASTA_NN :_: The_DT lookout_NN was_VBD n't_RB lying_VVG ._SENT 
+AMYAND_NN :_: That_DT old_JJ fox_NN Timanov_NP ._SENT He_PP 'll_MD have_VH a_DT long_JJ search_NN for_IN his_PP$ 
+messengers_NNS from_IN Logar_NP ._SENT We_PP have_VHP them_PP here_RB ._SENT 
+[_SYM Lookout_NP point_NN ]_SYM 
+(_( Timanov_NN is_VBZ out_RP of_IN breath_NN ,_, and_CC resting_JJ ._SENT )_) 
+TIMANOV_NN :_: Grateful_JJ as_IN I_PP am_VBP for_IN the_DT visitation_NN of_IN the_DT Outsider_NP ,_, I_PP wish_VVP 
+he_PP 'd_MD come_VV nearer_JJR to_TO the_DT settlement_NN ._SENT 
+(_( Kamelion-Foster_NN staggers_NNS into_IN view_NN ._SENT )_) 
+MALKON_NN :_: Timanov_NN ._SENT Shining_NP is_VBZ well-documented_VVN ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( The_DT globe_NN monitor_NN is_VBZ full_JJ of_IN static_JJ ._SENT )_) 
+MASTER_NN :_: There_EX 's_VBZ energy_NN around_IN you_PP ._SENT Use_VV it_PP ._SENT Come_VV ,_, my_PP$ slave_NN ,_, be_VB at_IN one_CD 
+with_IN me_PP ._SENT 
+[_SYM Lookout_NP point_NN ]_SYM 
+(_( While_IN Peri_NP slides_VVZ painfully_RB down_RB a_DT slope_NN ,_, 
+Kamelion_NP transforms_VVZ into_IN the_DT Master_NP ._SENT Timanov_NP and_CC Malkon_NP kneel_NN ._SENT )_) 
+TIMANOV_NN :_: Outsider_NN ,_, welcome_JJ to_TO the_DT settlement_NN ._SENT 
+K-MASTER_NP :_: Who_WP are_VBP you_PP ?_SENT 
+TIMANOV_NP :_: Timanov_NP ,_, chief_JJ elder_NN of_IN the_DT Sarns_NP ._SENT I_PP 've_VHP been_VBN struggling_VVG to_TO 
+keep_VV the_DT faith_NN ._SENT 
+(_( Kamelion-Master_NP helps_VVZ Timanov_NP to_TO stand_VV ._SENT )_) 
+TIMANOV_NN :_: I_PP never_RB thought_VVD I_PP 'd_MD be_VB alive_JJ to_TO see_VV this_DT day_NN ._SENT Logar_NP is_VBZ just_RB ._SENT 
+He_PP sent_VVD you_PP to_TO help_VV us_PP through_IN the_DT Time_NP of_IN Fire_NP ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( Armed_JJ unbelievers_NNS enter_VVP ._SENT )_) 
+ZUKO_NP :_: Do_VVP n't_RB anyone_NN move_NN ._SENT Stay_VV where_WRB you_PP are_VBP and_CC no_RB one_PP will_MD get_VV hurt_VVN ._SENT 
+AMYAND_NN :_: Citizens_NNS ,_, listen_VVP to_TO me_PP ._SENT You_PP 're_VBP here_RB to_TO see_VV the_DT Outsider_NP ._SENT You_PP 
+wo_MD n't_RB be_VB disappointed_VVN ,_, because_IN we_PP 've_VHP found_VVN him_PP ._SENT In_IN fact_NN ,_, we_PP found_VVD two_CD 
+of_IN them_PP ._SENT Doctor_NN ?_SENT Turlough_NP ?_SENT 
+(_( The_DT Doctor_NP and_CC Turlough_NP enter_VVP and_CC start_VVP looking_VVG at_IN some_DT of_IN the_DT odd_JJ 
+pieces_NNS of_IN equipment_NN around_IN the_DT area_NN ._SENT )_) 
+AMYAND_NN :_: Look_VV at_IN them_PP ._SENT But_CC they_PP 're_VBP not_RB who_WP you_PP think_VVP they_PP are_VBP ._SENT They_PP 're_VBP 
+not_RB messengers_NNS of_IN Logar_NP ,_, but_CC men_NNS like_IN us_PP ._SENT They_PP will_MD tell_VV you_PP that_IN/that Logar_NP 
+is_VBZ dead_JJ ._SENT Logar_NP never_RB existed_VVD ._SENT 
+(_( Malkon_NP enters_VVZ ._SENT )_) 
+MALKON_NN :_: I_PP hope_VVP you_PP bring_VV proof_NN of_IN your_PP$ statement_NN ._SENT 
+SORASTA_NN :_: Doctor_NN ,_, this_DT is_VBZ our_PP$ leader_NN ,_, Malkon_NP ._SENT 
+DOCTOR_NN :_: How_WRB do_VVP you_PP do_VVP ._SENT 
+MALKON_NN :_: You_PP 're_VBP welcome_JJ to_TO Sarn_NP ._SENT 
+DOCTOR_NN :_: Not_RB a_DT very_RB hospitable_JJ planet_NN at_IN the_DT moment_NN ._SENT 
+MALKON_NN :_: You_PP will_MD hear_VV out_RP the_DT Doctor_NP ._SENT 
+DOCTOR_NN :_: Er_UH ,_, yes_UH ._SENT Well_RB ,_, what_WP Amyand_NP said_VVD is_VBZ right_JJ ._SENT What_WP you_PP call_VVP the_DT 
+spirit_NN of_IN the_DT mountain_NN is_VBZ fire_NN itself_PP ,_, and_CC that_IN/that fire_NN will_MD pour_VV down_RP 
+onto_IN your_PP$ settlement_NN destroying_VVG everything_NN in_IN its_PP$ path_NN ._SENT 
+MALKON_NN :_: It_PP has_VHZ happened_VVN before_RB ,_, but_CC do_VVP you_PP have_VHP knowledge_NN that_WDT will_MD 
+help_VV us_PP ?_SENT 
+DOCTOR_NN :_: I_PP ca_MD n't_RB save_VV your_PP$ planet_NN ,_, but_CC I_PP can_MD get_VV you_PP away_RP from_IN here_RB ._SENT 
+TURLOUGH_NP :_: Where_WRB did_VVD you_PP find_VVP these_DT ?_SENT Tell_VV me_PP ,_, please_UH ._SENT 
+MALKON_NN :_: They_PP are_VBP gifts_NNS of_IN Logar_NP ._SENT 
+TURLOUGH_NN :_: This_DT equipment_NN is_VBZ relatively_RB new_JJ ._SENT It_PP comes_VVZ from_IN a_DT Trion_NN 
+spacecraft_NN ._SENT Now_RB where_WRB are_VBP the_DT crew_NN ?_SENT 
+AMYAND_NN :_: Malkon_NP speaks_VVZ the_DT truth_NN ._SENT Timanov_NP says_VVZ they_PP 're_VBP gifts_NNS of_IN Logar_NP ._SENT 
+DOCTOR_NN :_: Whoever_WP your_PP$ benefactor_NN ,_, they_PP provided_VVD you_PP with_IN a_DT transceiver_NN 
+unit_NN ,_, even_RB if_IN somewhat_RB incomplete_JJ ._SENT 
+ROSKAL_NP :_: What_WP is_VBZ transceiver_NN unit_NN ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, it_PP 's_VBZ a_DT way_NN of_IN communicating_VVG with_IN other_JJ people_NNS ._SENT Possibly_RB a_DT 
+more_RBR effective_JJ way_NN of_IN getting_VVG you_PP settled_VVD on_IN another_DT planet_NN ._SENT The_DT Trions_NNS 
+must_MD have_VH a_DT form_NN of_IN colony_NN or_CC something_NN ,_, eh_NP ,_, Turlough_NP ?_SENT If_IN you_PP could_MD get_VV 
+a_DT message_NN to_TO the_DT Trion_NN ,_, they_PP could_MD send_VV a_DT rescue_NN ship_NN ._SENT 
+TURLOUGH_NN :_: Contact_NN Trion_NN and_CC you_PP ruin_VVP everything_NN ._SENT 
+DOCTOR_NN :_: What_WP are_VBP you_PP talking_VVG about_RB ?_SENT 
+(_( Turlough_NP takes_VVZ hold_NN of_IN one_CD of_IN Malkon_NP 's_POS pendants_NNS ._SENT )_) 
+TURLOUGH_NP :_: Where_WRB did_VVD you_PP find_VVP that_RB ?_SENT 
+MALKON_NN :_: It_PP is_VBZ nothing_NN ._SENT A_DT Chosen_NP One_NP has_VHZ many_JJ gifts_NNS ._SENT 
+TURLOUGH_NN :_: There_EX are_VBP more_JJR like_IN this_DT ?_SENT Show_VV me_PP ._SENT 
+DOCTOR_NN :_: Turlough_NP ?_SENT 
+TURLOUGH_NN :_: Doctor_NN ,_, you_PP do_VVP n't_RB understand_VV ._SENT I_PP think_VVP this_DT equipment_NN came_VVD 
+from_IN my_PP$ father_NN 's_POS ship_NN ._SENT 
+[_SYM Sarn_NP ]_SYM 
+PERI_NN :_: Will_NN someone_NN help_VV me_PP ,_, please_UH ?_SENT 
+(_( She_PP looks_VVZ at_IN the_DT endless_JJ tracts_NNS of_IN desolation_NN ._SENT )_) 
+[_SYM Passageway_NP ]_SYM 
+TURLOUGH_NP :_: Why_WRB do_VVP they_PP call_VVP you_PP the_DT Chosen_NP One_NP ?_SENT 
+MALKON_NN :_: I_PP carry_VVP the_DT mark_NN of_IN Logar_NP ,_, at_IN least_JJS that_DT 's_VBZ what_WP Timanov_NP says_VVZ ._SENT 
+TURLOUGH_NN :_: Show_VV me_PP ._SENT 
+(_( Malkon_NP bares_VVZ the_DT mark_NN on_IN his_PP$ arm_NN ._SENT )_) 
+TURLOUGH_NN :_: The_DT Misos_NP Triangle_NP ._SENT 
+MALKON_NP :_: Timanov_NP also_RB says_VVZ I_PP came_VVD from_IN the_DT fire_NN ._SENT That_DT is_VBZ always_RB how_WRB the_DT 
+Chosen_NP One_NP arrives_VVZ ._SENT 
+TURLOUGH_NN :_: From_IN the_DT fire_NN ?_SENT 
+MALKON_NN :_: I_PP was_VBD found_VVN in_IN the_DT wilderness_NN by_IN the_DT volcano_NN ._SENT 
+TURLOUGH_NP :_: Do_VVP you_PP know_VVP precisely_RB where_WRB ?_SENT 
+MALKON_NP :_: Yes_UH ._SENT 
+TURLOUGH_NN :_: Take_VV me_PP there_RB ._SENT 
+MALKON_NN :_: I_PP ca_MD n't_RB ._SENT It_PP 's_VBZ in_IN the_DT forbidden_JJ land_NN ._SENT 
+TURLOUGH_NP :_: Please_UH ,_, take_VV me_PP there_RB ._SENT 
+MALKON_NN :_: No._NN Unbelievers_NNS are_VBP not_RB allowed_VVN ._SENT If_IN you_PP are_VBP caught_VVN ,_, you_PP would_MD 
+be_VB sent_VVN to_TO the_DT burning_NN ._SENT 
+TURLOUGH_NN :_: Come_VV on_IN ,_, no_DT one_CD 's_VBZ going_VVG to_TO burn_VV us_PP ._SENT I_PP order_VV you_PP !_SENT 
+MALKON_NN :_: No_DT one_CD can_MD order_VV a_DT Chosen_NP One_NP ._SENT 
+(_( Turlough_NP rolls_VVZ up_RP his_PP$ own_JJ sleeve_NN ._SENT )_) 
+TURLOUGH_NN :_: Except_IN another_DT Chosen_NP One_CD ._SENT Now_RB please_VV ,_, take_VV me_PP to_TO where_WRB you_PP 
+were_VBD found_VVN ._SENT 
+MALKON_NN :_: Where_WRB did_VVD you_PP get_VV that_DT ?_SENT 
+TURLOUGH_NN :_: Probably_RB the_DT same_JJ place_NN as_IN you_PP ._SENT Trion_NN ._SENT It_PP 's_VBZ a_DT unique_JJ custom_NN 
+they_PP have_VHP ._SENT 
+[_SYM Sarn_NP ]_SYM 
+PERI_NN :_: Doctor_NN !_SENT 
+ECHO_NN :_: Doctor_NN ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( The_DT Doctor_NP gets_VVZ an_DT electric_JJ shock_NN from_IN the_DT 
+transceiver_NN ,_, which_WDT is_VBZ now_RB wired_VVN up_RP to_TO another_DT piece_NN of_IN tech_NN ._SENT )_) 
+DOCTOR_NN :_: Ow_NN !_SENT We_PP need_VVP more_JJR power_NN ._SENT 
+SORASTA_NN :_: Doctor_NN ,_, Timanov_NP has_VHZ returned_VVN ._SENT 
+DOCTOR_NN :_: Good_JJ ,_, good_JJ ,_, I_PP need_VVP to_TO speak_VV to_TO him_PP ._SENT We_PP 've_VHP a_DT full-scale_JJ exodus_NN 
+to_TO organise_VV ._SENT 
+TIMANOV_NN :_: Seize_VV the_DT enemies_NNS of_IN Logar_NP ._SENT Arrest_VV all_DT unbelievers_NNS ._SENT Obey_VV me_PP !_SENT 
+DOCTOR_NN :_: Look_NN ,_, be_VB a_DT good_JJ fellow_NN ._SENT We_PP 're_VBP trying_VVG to_TO help_VV ._SENT The_DT volcano_NN could_MD 
+erupt_VV at_IN any_DT moment_NN ._SENT 
+TIMANOV_NN :_: You_PP must_MD be_VB the_DT Doctor_NP ._SENT It_PP is_VBZ the_DT Outsider_NN 's_POS wish_NN that_IN/that you_PP go_VVP 
+to_TO the_DT fire_NN ._SENT 
+DOCTOR_NN :_: There_EX is_VBZ no_DT Outsider_NN ._SENT 
+TIMANOV_NP :_: Do_VVP as_IN the_DT Outsider_NP has_VHZ instructed_VVN !_SENT 
+(_( Zuko_NP rushes_VVZ forward_RB to_TO protect_VV the_DT Doctor_NP ._SENT )_) 
+ZUKO_NP :_: No_UH !_SENT 
+(_( And_CC gets_VVZ shot_NN ._SENT Kamelion-Master_NP enters_VVZ ._SENT )_) 
+DOCTOR_NN :_: Oh_UH ,_, no._NP 
+(_( Peri_NP has_VHZ stopped_VVN feeling_VVG sorry_RB for_IN herself_PP and_CC started_VVD walking_VVG again_RB ._SENT 
+She_PP sees_VVZ the_DT spaceship_NN remains_VVZ in_IN the_DT distance_NN and_CC begins_VVZ to_TO run_VV ._SENT )_) 
+[_SYM Spaceship_NP ]_SYM 
+(_( It_PP is_VBZ a_DT tangled_JJ mess_NN ._SENT )_) 
+TURLOUGH_NN :_: This_DT was_VBD your_PP$ fire_NN ._SENT The_DT ship_NN crash-landed_VVD ._SENT 
+MALKON_NN :_: I_PP travelled_VVD from_IN Trion_NN in_IN this_DT ?_SENT 
+TURLOUGH_NN :_: And_CC you_PP were_VBD n't_RB alone_RB ._SENT 
+PERI_NN [_SYM OC_NP ]_SYM :_: Turlough_NP !_SENT 
+TURLOUGH_NN :_: Peri_NN ?_SENT 
+(_( Peri_NP enters_VVZ ._SENT )_) 
+PERI_NN :_: Oh_UH ,_, am_VBP I_PP pleased_JJ to_TO see_VV you_PP ._SENT Who_WP 's_VBZ this_DT ?_SENT 
+TURLOUGH_NN :_: Malkon_NN ._SENT Peri_NP is_VBZ a_DT friend_NN ,_, another_DT traveller_NN ._SENT 
+PERI_NN :_: Have_VHP I_PP seen_VVN everything_NN today_NN ._SENT A_DT transgalactic_JJ payphone_NN ,_, a_DT 
+stepfather_NN who_WP turns_VVZ into_IN a_DT robot_NN ,_, and_CC a_DT robot_NN who_WP turns_VVZ into_IN a_DT 
+gangster_NN ._SENT 
+TURLOUGH_NN :_: That_WDT must_MD be_VB Kamelion_NP ._SENT 
+PERI_NN :_: That_WDT 's_VBZ him_PP ._SENT I_PP sure_RB prefer_VVP him_PP to_TO the_DT Master_NP ._SENT 
+TURLOUGH_NN :_: Master_NN ?_SENT Kamelion_NP turned_VVD into_IN the_DT Master_NP ?_SENT 
+PERI_NN :_: Yes_UH ._SENT Why_WRB ,_, do_VVP you_PP know_VVP him_PP ?_SENT 
+TURLOUGH_NN :_: Come_VV on_IN ,_, we_PP have_VHP to_TO get_VV back_RB to_TO the_DT Doctor_NP ._SENT 
+PERI_NN :_: Oh_UH no_UH ,_, please_UH ,_, no._NP 
+(_( Turlough_NP drags_VVZ Peri_NP outside_NN ,_, and_CC Malkon_NP follows_VVZ ._SENT )_) 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+K-MASTER_NN :_: Wretched_JJ citizens_NNS of_IN Sarn_NP ,_, you_PP turned_VVD 
+your_PP$ backs_NNS on_IN the_DT lord_NN of_IN the_DT fire_NN mountain_NN and_CC listened_VVD to_TO his_PP$ enemy_NN ._SENT 
+DOCTOR_NN :_: The_DT man_NN 's_VBZ an_DT imposter_NN ._SENT 
+K-MASTER_NN :_: Save_VV your_PP$ breath_NN ,_, Doctor_NP ,_, to_TO tell_VV me_PP but_CC one_CD thing_NN ._SENT Where_WRB is_VBZ 
+the_DT girl_NN from_IN your_PP$ Tardis_NP ?_SENT She_PP 's_VHZ joined_VVN you_PP here_RB ?_SENT Where_WRB 's_VBZ the_DT 
+comparator_NN ?_SENT 
+TIMANOV_NN :_: Outsider_NN ,_, sacrifice_VV the_DT enemy_NN ._SENT 
+K-MASTER_NN :_: Not_RB yet_RB ._SENT Burn_VV the_DT others_NNS first_JJ ._SENT 
+(_( The_DT believers_NNS start_VVP to_TO round_VV up_RP the_DT unbelievers_NNS and_CC push_VV them_PP towards_IN 
+the_DT flames_NNS ._SENT )_) 
+DOCTOR_NN :_: No_UH !_SENT 
+K-MASTER_NN :_: The_DT comparator_NN ,_, if_IN you_PP please_VVP ,_, Doctor_NP ._SENT 
+SORASTA_NN :_: Only_RB Malkon_NP can_MD order_VV a_DT burning_NN !_SENT 
+TIMANOV_NN :_: It_PP is_VBZ the_DT will_NN of_IN the_DT Outsider_NN that_IN/that you_PP all_RB die_VVP ._SENT The_DT messenger_NN 
+of_IN Logar_NP has_VHZ supreme_JJ authority_NN ._SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV where_WRB the_DT girl_NN is_VBZ ._SENT I_PP do_VVP n't_RB have_VH the_DT comparator_NN !_SENT 
+K-MASTER_NN :_: Commence_VV the_DT burning_NN !_SENT 
+DOCTOR_NN :_: No_UH !_SENT 
+ROSKAL_NP :_: Doctor_NN ,_, help_VV us_PP !_SENT 
+DOCTOR_NN :_: You_PP must_MD believe_VV me_PP !_SENT 
+K-MASTER_NP :_: Oh_UH ,_, but_CC I_PP do_VVP believe_VV you_PP ._SENT Commence_VV the_DT burnings_NNS !_SENT 
+(_( The_DT gates_NNS to_TO the_DT flames_NNS are_VBP pushed_VVN open_RP ._SENT )_) 
+SORASTA_NP :_: No_UH !_SENT 
+DOCTOR_NN :_: Stop_VV this_DT !_SENT 
+K-MASTER_NN :_: You_PP are_VBP quite_RB powerless_JJ ._SENT Continue_VV the_DT sacrifices_NNS ._SENT See_VV that_DT 
+this_DT Doctor_NP burns_NNS slowly_RB ._SENT 
+ROSKAL_NP :_: Doctor_NN !_SENT 
+Part_NP Three_NP 
+
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( Turlough_NP ,_, Peri_NP and_CC Malkon_NP run_VVP towards_IN the_DT Temple_NP 
+as_IN the_DT putative_JJ sacrifices_NNS resist_VV being_VBG pushed_VVN into_IN the_DT flames_NNS ._SENT )_) 
+K-MASTER_NN :_: Journey_NP 's_POS end_NN ,_, Doctor_NP ._SENT I_PP 'm_VBP sorry_JJ ._SENT Your_PP$ cremation_NN will_MD deprive_VV 
+me_PP of_IN our_PP$ periodic_JJ encounters_NNS ._SENT Quickly_RB ,_, my_PP$ time_NN is_VBZ short_JJ ._SENT 
+(_( Two_CD Sarns_NNS take_VVP the_DT Doctor_NP 's_POS arms_NNS and_CC pull_VV him_PP towards_IN the_DT flames_NNS ._SENT )_) 
+TIMANOV_NP :_: Great_NP Logar_NP ,_, receive_VVP these_DT mortals_NNS as_IN an_DT oblation_NN from_IN your_PP$ 
+faithful_JJ people_NNS ._SENT 
+[_SYM Outside_IN the_DT Hall_NP of_IN Fire_NP ]_SYM 
+(_( Inside_NP ,_, the_DT Doctor_NP is_VBZ protesting_VVG that_IN/that only_RB Malkon_NP 
+can_MD order_NN sacrifices_NNS ._SENT )_) 
+PERI_NN :_: That_WDT 's_VBZ him_PP ._SENT That_DT 's_VBZ the_DT Master_NP ._SENT 
+TURLOUGH_NN :_: No._NN 
+PERI_NN :_: Really_RB ?_SENT 
+TURLOUGH_NP :_: Yes_UH ._SENT We_PP may_MD be_VB able_JJ to_TO help_VV ._SENT 
+PERI_NN :_: How_WRB ?_SENT 
+TURLOUGH_NN :_: Something_NN the_DT Doctor_NP pointed_VVD out_RP earlier_RBR ._SENT Malkon_NP ,_, you_PP keep_VVP 
+them_PP occupied_VVD and_CC tell_VV the_DT Doctor_NP about_IN Kamelion_NP ._SENT Quickly_RB ._SENT 
+(_( Turlough_NP drags_VVZ Peri_NP away_RB ,_, and_CC Malkon_NP enters_VVZ the_DT Temple_NP ._SENT )_) 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+MALKON_NN :_: Stop_VV !_SENT There_EX is_VBZ to_TO be_VB no_DT sacrifice_NN ._SENT 
+K-MASTER_NP :_: What_WP are_VBP you_PP waiting_VVG for_IN ?_SENT Continue_VV the_DT burnings_NNS ._SENT 
+MALKON_NN :_: This_DT man_NN is_VBZ an_DT imposter_NN ._SENT 
+K-MASTER_NP :_: Who_WP is_VBZ this_DT boy_NN ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, do_VVP n't_RB you_PP know_VVP ?_SENT Allow_VV me_PP to_TO introduce_VV Malkon_NP ,_, Chosen_NP One_CD of_IN 
+the_DT Sarns_NP ._SENT You_PP see_VVP ?_SENT He_PP 's_VBZ no_DT Outsider_NN ._SENT He_PP does_VVZ n't_RB recognise_VV your_PP$ Chosen_NP 
+One_CD ,_, and_CC he_PP does_VVZ n't_RB understand_VV the_DT laws_NNS of_IN the_DT settlement_NN ._SENT 
+[_SYM Bunker_NP ]_SYM 
+PERI_NN :_: That_DT kid_NN wo_MD n't_RB hold_VV them_PP off_RP for_IN long_RB ._SENT 
+TURLOUGH_NN :_: The_DT Doctor_NP can_MD help_VV him_PP ._SENT We_PP only_RB need_VVP a_DT few_JJ minutes_NNS ._SENT 
+PERI_NN :_: Do_VVP you_PP know_VVP what_WP you_PP 're_VBP doing_VVG ?_SENT 
+TURLOUGH_NN :_: If_IN I_PP can_MD hit_VV the_DT right_JJ circuits_NNS ,_, if_IN it_PP still_RB works_VVZ ,_, I_PP think_VVP I_PP 
+can_MD cut_VV the_DT gas_NN supply_NN to_TO their_PP$ sacrificial_JJ fire_NN ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+K-MASTER_NP :_: Obey_VVP me_PP or_CC there_EX will_MD be_VB no_DT gift_NN and_CC I_NN 
+shall_MD call_VV down_RP the_DT wrath_NN of_IN Logar_NP on_IN you_PP all_RB ._SENT 
+TIMANOV_NP :_: Malkon_NP is_VBZ overruled_VVN ._SENT Continue_VV the_DT burning_NN ._SENT 
+MALKON_NP :_: No_UH !_SENT 
+(_( One_CD of_IN the_DT Sarns_NP shoots_VVZ Malkon_NP with_IN a_DT laser_NN ._SENT )_) 
+K-MASTER_NN :_: Never_RB mind_VV the_DT boy_NN ._SENT Now_RB ,_, to_TO the_DT fire_NN with_IN the_DT unbeliever_NN ._SENT 
+(_( The_DT flames_NNS go_VVP out_RP ._SENT )_) 
+TIMANOV_NP :_: Logar_NP refuses_VVZ the_DT sacrifice_NN ._SENT He_PP 's_VBZ angry_JJ that_IN/that his_PP$ Chosen_NP One_CD 
+has_VHZ been_VBN struck_VVN down_RP !_SENT 
+[_SYM Bunker_NP ]_SYM 
+(_( Turlough_NP gets_VVZ a_DT monitor_NN to_TO show_VV various_JJ places_NNS in_IN 
+the_DT settlement_NN ._SENT It_PP finally_RB reaches_VVZ the_DT scene_NN in_IN the_DT Temple_NP ._SENT )_) 
+PERI_NN :_: Oh_UH ,_, you_PP 've_VHP done_VVN it_PP !_SENT The_DT fire_NN 's_VBZ out_RP ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( The_DT Doctor_NP ,_, Amyand_NP and_CC Sorasta_NP check_NN on_IN Malkon_NP ._SENT )_) 
+DOCTOR_NN :_: He_PP 's_VBZ not_RB dead_JJ ,_, but_CC let_VVD them_PP think_VVP he_PP is_VBZ ._SENT 
+MALKON_NP :_: Warn_VVP the_DT Doctor_NP ._SENT Kamelion_NP is_VBZ the_DT Master_NP ._SENT 
+(_( They_PP cover_VVP Malkon_NP with_IN a_DT cloak_NN ,_, then_RB the_DT Doctor_NP goes_VVZ over_RP to_TO Timanov_NP 
+and_CC Kamelion-Master_NP ._SENT )_) 
+DOCTOR_NN :_: Life_NN must_MD be_VB very_RB complicated_JJ for_IN you_PP at_IN the_DT moment_NN ._SENT Not_RB only_RB 
+are_VBP you_PP a_DT phony_JJ Outsider_NN ,_, you_PP 're_VBP not_RB even_RB the_DT real_JJ Master_NP ._SENT You_PP 're_VBP just_RB 
+a_DT machine_NN ._SENT Oh_UH ,_, no_UH ,_, no_UH ,_, do_VVP n't_RB turn_VV away_RB ._SENT You_PP will_MD accept_VV my_PP$ will_NN ._SENT I_PP am_VBP 
+the_DT Doctor_NP and_CC you_PP are_VBP Kamelion_NP ._SENT 
+K-MASTER_NN :_: Will_MD you_PP allow_VV my_PP$ enemy_NN to_TO torment_VV me_PP ?_SENT 
+DOCTOR_NN :_: You_PP are_VBP no_RB more_RBR than_IN the_DT sum_NN of_IN your_PP$ parts_NNS ,_, a_DT mass_NN of_IN printed_VVN 
+circuits_NNS ._SENT 
+K-MASTER_NN :_: Kill_VV him_PP ._SENT 
+DOCTOR_NN :_: You_PP see_VVP ?_SENT He_PP likes_VVZ to_TO kill_VV ._SENT He_PP turned_VVD on_IN your_PP$ Chosen_NP One_CD ._SENT Next_JJ 
+time_NN it_PP 'll_MD be_VB you_PP ,_, Chief_NP Elder_NP ._SENT 
+K-MASTER_NN :_: Kill_VV !_SENT 
+TIMANOV_NN :_: No._NN Let_VV Logar_NP decide_VV ._SENT Let_VV the_DT fire_NN god_NN send_VV us_PP a_DT sign_NN ._SENT 
+DOCTOR_NN :_: Oh_UH ,_, you_PP 'll_MD have_VH a_DT sign_NN ,_, all_DT right_NN ._SENT If_IN I_PP can_MD break_VV the_DT energy_NN 
+link_NN with_IN the_DT Master_NP ,_, this_DT so-called_NN will_MD be_VB nothing_NN but_CC a_DT heap_NN of_IN 
+spare_JJ parts_NNS ._SENT You_PP 're_VBP on_IN your_PP$ own_JJ ,_, Kamelion_NP ._SENT Your_PP$ power_NN is_VBZ weakening_VVG ,_, 
+turning_VVG to_TO silver_NN ._SENT A_DT silver_JJ puppet_NN jumping_VVG on_IN a_DT string_NN ._SENT String_NN cut_VVD !_SENT 
+(_( Kamelion-Master_NP transforms_VVZ to_TO silver_JJ Kamelion-Foster_NP ._SENT )_) 
+TIMANOV_NN :_: He_PP 's_VBZ shining_VVG ._SENT 
+ROSKAL_NN :_: I_PP do_VVP n't_RB believe_VV it_PP ._SENT 
+DOCTOR_NN :_: Psychomorphic_JJ fringing_VVG ._SENT Nothing_NN supernatural_JJ about_IN that_DT ,_, it_PP 's_VBZ 
+an_DT intermediate_JJ stage_NN between_IN anthropoid_JJ and_CC robotic_JJ identity_NN ._SENT 
+TIMANOV_NP :_: No_UH ,_, it_PP is_VBZ the_DT sign_NN of_IN Logar_NP ._SENT 
+[_SYM Bunker_NP ]_SYM 
+PERI_NN :_: Seems_VVZ like_IN the_DT Doctor_NP could_MD do_VV with_IN some_DT 
+more_JJR help_NN ._SENT He_PP 'll_MD need_VV this_DT thing_NN too_RB ._SENT It_PP 's_VBZ from_IN his_PP$ Tardis_NP ._SENT 
+(_( Peri_NP hands_VVZ the_DT comparator_NN to_TO Turlough_NP and_CC runs_VVZ up_RP the_DT stairs_NNS ._SENT Turlough_NP 
+follows_VVZ ._SENT )_) 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+AMYAND_NN :_: The_DT more_RBR you_PP attack_VVP it_PP ,_, the_DT more_RBR it_PP looks_VVZ 
+like_IN the_DT Outsider_NP ._SENT 
+DOCTOR_NN :_: I_PP must_MD concentrate_VV ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+MASTER_NN :_: The_DT cave_NN ,_, quickly_RB ._SENT Shield_VV yourself_PP from_IN 
+the_DT Doctor_NP 's_POS mind_NN ._SENT Use_VV the_DT cave_NN ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+DOCTOR_NN :_: Obey_VV me_PP ._SENT The_DT Doctor_NP ._SENT The_DT Doctor_NP ._SENT 
+K-FOSTER_NN :_: Take_VV them_PP to_TO the_DT cave_NN ._SENT 
+TIMANOV_NP :_: Obey_VVP the_DT shining_VVG one_CD ._SENT 
+DOCTOR_NN :_: Must_MD n't_RB resist_VV ._SENT Any_DT distraction_NN will_MD allow_VV the_DT Master_NP to_TO break_VV 
+through_RB ._SENT That_DT 's_VBZ right_RB ,_, Kamelion_NP ._SENT Servile_JJ ._SENT Slave_NN !_SENT Bond_NN broken_VVN ._SENT 
+[_SYM Outside_IN the_DT Hall_NP of_IN Fire_NP ]_SYM 
+(_( Turlough_NP stops_VVZ Peri_NP from_IN rushing_VVG in_RP ._SENT )_) 
+TURLOUGH_NP :_: No_UH !_SENT 
+PERI_NN :_: The_DT Doctor_NP 's_VBZ trying_VVG to_TO control_VV Kamelion_NP 's_POS mind_NN ._SENT I_PP can_MD help_VV him_PP ._SENT I_PP 
+know_VV how_WRB to_TO do_VV that_IN/that ,_, too_RB ._SENT 
+TURLOUGH_NN :_: Leave_VV it_PP to_TO the_DT Doctor_NP ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( The_DT unbelievers_NNS and_CC the_DT Doctor_NP are_VBP locked_VVN in_IN the_DT 
+cave_VV where_WRB the_DT flames_NNS used_VVN to_TO be_VB ._SENT Kamelion-Foster_NP becomes_VVZ 
+Kamelion-Master_NP again_RB ._SENT )_) 
+ROSKAL_NP :_: What_WP happened_VVD ?_SENT 
+K-MASTER_NN :_: (_( laughing_JJ )_) Oh_UH ,_, Doctor_NP ,_, you_PP quite_RB let_VVP your_PP$ enthusiasm_NN run_NN away_RB 
+with_IN you_PP ._SENT 
+AMYAND_NP :_: What_WP went_VVD wrong_JJ ?_SENT 
+DOCTOR_NN :_: The_DT cave_NN ._SENT Somehow_RB it_PP 's_VBZ screening_VVG the_DT thought_NN control_NN ._SENT 
+(_( Kamelion-Master_NP takes_VVZ a_DT Trion_NN laser_NN from_IN a_DT Sarn_NP guard_NN ._SENT )_) 
+K-MASTER_NP :_: Oh_UH ,_, phew_NN ._SENT Over_IN the_DT years_NNS I_PP 've_VHP dreamed_VVN of_IN a_DT million_CD exquisite_JJ 
+tortures_NNS to_TO accompany_VV your_PP$ final_JJ moments_NNS ._SENT That_IN/that it_PP should_MD come_VV to_TO this_DT ._SENT 
+(_( Kamelion-Master_NP points_VVZ the_DT weapon_NN at_IN the_DT Doctor_NP ,_, and_CC Peri_NP runs_VVZ in_IN ._SENT )_) 
+PERI_NN :_: No_UH !_SENT 
+DOCTOR_NN :_: Peri_NP ,_, get_VVP back_RB ._SENT 
+PERI_NN :_: Kamelion_NN !_SENT You_PP 're_VBP supposed_VVN to_TO be_VB the_DT Doctor_NP 's_POS friend_NN ._SENT Kamelion_NP !_SENT 
+K-MASTER_NN :_: You_PP see_VVP ?_SENT I_PP 've_VHP grown_VVN stronger_JJR since_IN our_PP$ last_JJ meeting_NN ._SENT Your_PP$ 
+puny_JJ mind_NN no_RB longer_RBR affects_VVZ me_PP ._SENT I_PP 'm_VBP grateful_JJ ,_, however_RB ,_, that_IN/that you_PP 've_VHP seen_VVN 
+fit_JJ to_TO return_VV the_DT comparator_NN ._SENT 
+PERI_NN :_: That_DT thing_NN 's_VBZ where_WRB you_PP 'll_MD never_RB find_VV it_PP ._SENT 
+(_( Another_DT Sarn_NP aims_VVZ his_PP$ weapon_NN at_IN Peri_NP ._SENT Timanov_NP slaps_VVZ it_PP aside_RP with_IN his_PP$ 
+staff_NN ._SENT )_) 
+TIMANOV_NP :_: No_UH !_SENT There_EX 's_VHZ been_VBN too_RB much_JJ killing_NN ._SENT Only_RB the_DT fire_NN is_VBZ acceptable_JJ 
+to_TO Logar_NP ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+MASTER_NN :_: You_PP 're_VBP still_RB resistant_JJ ._SENT Do_VVP not_RB oppose_VV them_PP 
+or_CC my_PP$ Tardis_NP will_MD never_RB be_VB free_JJ ._SENT Take_VV the_DT girl_NN with_IN you_PP ._SENT She_PP 's_VBZ 
+unskilled_JJ ,_, but_CC strong_JJ ._SENT There_EX 's_VBZ much_RB work_NN to_TO be_VB done_VVN ._SENT As_RB for_IN the_DT Doctor_NP ,_, 
+he_PP 'll_MD die_VV in_IN the_DT holocaust_NN with_IN the_DT rest_NN of_IN them_PP ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+K-MASTER_NN :_: I_PP 'm_VBP sorry_JJ to_TO be_VB deprived_VVN of_IN the_DT pleasure_NN 
+of_IN seeing_VVG you_PP die_VVP ,_, Doctor_NP ,_, although_IN I_PP am_VBP consoled_VVN by_IN the_DT thought_NN that_RB 
+your_PP$ imminent_JJ and_CC inevitable_JJ demise_NN will_MD be_VB excruciating_JJ ._SENT 
+(_( Kamelion-Master_NP returns_VVZ the_DT weapon_NN to_TO the_DT guard_NN ._SENT )_) 
+K-MASTER_NN :_: Now_RB ,_, Chief_NP Elder_NP ,_, I_PP 've_VHP work_NN for_IN you_PP elsewhere_RB ._SENT 
+TIMANOV_NN :_: Work_NN ?_SENT Where_WRB are_VBP the_DT gifts_NNS ?_SENT The_DT Outsider_NP always_RB brings_VVZ gifts_NNS 
+from_IN Logar_NP ._SENT 
+K-MASTER_NN :_: Of_IN course_NN ,_, how_WRB foolish_JJ of_IN me_PP ._SENT I_PP have_VHP them_PP in_IN safekeeping_NN at_IN 
+the_DT ruin_NN ._SENT Buried_VVN ._SENT (_( to_TO the_DT Doctor_NP )_) You_PP will_MD be_VB cremated_VVN alive_RB ._SENT 
+(_( Kamelion-Master_NP grabs_VVZ Peri_NP 's_POS arm_NN and_CC drags_VVZ her_PP out_RP ,_, followed_VVN by_IN the_DT 
+rest_NN of_IN the_DT Sarns_NP ._SENT )_) 
+PERI_NN :_: No_UH !_SENT No_UH !_SENT Doctor_NN !_SENT 
+[_SYM Outside_IN the_DT Hall_NP of_IN Fire_NP ]_SYM 
+(_( Turlough_NP watches_VVZ them_PP go_VVP ,_, unnoticed_JJ ._SENT )_) 
+PERI_NN :_: No_UH ,_, let_VV me_PP go_VV !_SENT 
+[_SYM Fire_NP cave_NN ]_SYM 
+(_( The_DT Doctor_NP looks_VVZ at_IN the_DT residue_NN on_IN his_PP$ hands_NNS from_IN 
+the_DT metal_NN gate_NN ._SENT )_) 
+DOCTOR_NN :_: Interesting_JJ ._SENT I_PP knew_VVD something_NN other_JJ than_IN rock_NN must_MD be_VB screening_VVG 
+me_PP from_IN Kamelion_NP 's_POS mind_NN ._SENT 
+ROSKAL_NP :_: Turlough_NP !_SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+DOCTOR_NN :_: What_WP kept_VVD you_PP ?_SENT 
+TURLOUGH_NN :_: I_PP 've_VHP been_VBN to_TO the_DT wreck_NN of_IN my_PP$ father_NN 's_POS ship_NN ._SENT 
+AMYAND_NN :_: Get_VV this_DT gate_NN open_JJ ,_, will_MD you_PP ?_SENT Another_DT surge_NN could_MD come_VV at_IN any_DT 
+moment_NN ._SENT 
+(_( Turlough_NP releases_VVZ the_DT lever_NN on_IN the_DT floor_NN and_CC opens_VVZ the_DT gate_NN ._SENT )_) 
+TURLOUGH_NN :_: I_PP do_VVP n't_RB think_VV so_RB ._SENT I_PP 've_VHP been_VBN back_JJ to_TO the_DT bunker_NN ,_, re-routed_VVN the_DT 
+flow_NN ._SENT Where_WRB 's_VBZ Malkon_NP ?_SENT 
+(_( The_DT Doctor_NP indicates_VVZ the_DT figure_NN still_RB lying_VVG on_IN the_DT floor_NN ._SENT )_) 
+TURLOUGH_NN :_: No._NN 
+SORASTA_NN :_: He_PP 's_VBZ still_RB breathing_VVG ._SENT 
+TURLOUGH_NP :_: Who_WP did_VVD this_DT ?_SENT 
+DOCTOR_NN :_: One_CD of_IN the_DT Elders_NPS ._SENT 
+TURLOUGH_NN :_: I_PP shall_MD kill_VV him_PP for_IN this_DT ._SENT 
+DOCTOR_NN :_: What_WP good_RB would_MD that_RB do_VV ?_SENT We_PP must_MD get_VV after_IN Peri_NP ._SENT 
+TURLOUGH_NN :_: You_PP do_VVP n't_RB understand_VV ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Come_VV on_RP ._SENT 
+TURLOUGH_NN :_: I_PP think_VVP Malkon_NP is_VBZ my_PP$ brother_NN ._SENT 
+[_SYM Ruins_NP ]_SYM 
+K-MASTER_NN :_: Beneath_IN that_DT rubble_NN lies_VVZ an_DT object_NN of_IN 
+incomparable_JJ value_NN ._SENT A_DT gift_NN from_IN Logar_NP ._SENT 
+[_SYM Bunker_NP ]_SYM 
+(_( The_DT unbelievers_NNS have_VHP brought_VVN Malkon_NP here_RB ._SENT )_) 
+DOCTOR_NN :_: How_WRB do_VVP you_PP know_VVP Malkon_NP is_VBZ your_PP$ brother_NN ?_SENT 
+TURLOUGH_NN :_: The_DT last_JJ Trion_NN ship_NN to_TO come_VV here_RB crashed_VVD and_CC Malkon_NP was_VBD the_DT 
+only_JJ survivor_NN ._SENT It_PP must_MD have_VH been_VBN the_DT ship_NN my_PP$ father_NN was_VBD on_IN ._SENT 
+DOCTOR_NN :_: How_WRB does_VVZ that_RB make_VV him_PP your_PP$ brother_NN ?_SENT 
+TURLOUGH_NN :_: Just_RB accept_VV ,_, for_IN the_DT moment_NN ,_, Doctor_NP ,_, that_WDT I_PP know_VVP he_PP would_MD 
+have_VHP been_VBN the_DT only_JJ infant_NN on_IN board_NN ._SENT 
+DOCTOR_NN :_: He_PP 's_VBZ in_IN severe_JJ shock_NN ._SENT There_EX may_MD be_VB some_DT damage_NN to_TO his_PP$ nervous_JJ 
+system_NN ._SENT Keep_VV him_PP warm_JJ ._SENT Make_VV him_PP as_RB comfortable_JJ as_IN you_PP can_MD ._SENT Why_WRB fuel_VV the_DT 
+cave_NN with_IN volcanic_JJ gas_NN ?_SENT 
+ROSKAL_NP :_: The_DT cave_NN has_VHZ always_RB been_VBN used_VVN for_IN sacrifices_NNS ._SENT 
+DOCTOR_NN :_: With_IN all_DT due_JJ respect_NN to_TO your_PP$ fellow_JJ Sarns_NP ,_, I_PP think_VVP the_DT people_NNS 
+who_WP built_VVD this_DT had_VHD a_DT more_RBR useful_JJ purpose_NN than_IN burnt_JJ offerings_NNS to_TO Logar_NP ._SENT 
+Come_VVN on_IN ._SENT 
+AMYAND_NN :_: Where_WRB are_VBP you_PP going_VVG ?_SENT 
+DOCTOR_NN :_: To_TO find_VV the_DT Master_NP and_CC his_PP$ Tardis_NP ._SENT Do_VV you_PP know_VV this_DT ruin_NN he_PP 
+spoke_VVD of_IN ?_SENT 
+AMYAND_NP :_: Yes_UH ,_, and_CC I_PP know_VVP a_DT safe_JJ route_NN to_TO it_PP ._SENT Follow_VV me_PP ._SENT 
+DOCTOR_NN :_: Do_VVP n't_RB you_PP want_VVP to_TO stay_VV with_IN Malkon_NP ?_SENT 
+TURLOUGH_NN :_: I_PP must_MD be_VB there_RB when_WRB the_DT Sarns_NPS find_VVP out_IN you_PP 've_VHP escaped_VVN from_IN 
+the_DT cave_NN ._SENT 
+AMYAND_NN :_: How_WRB can_MD you_PP help_VV the_DT Doctor_NP ?_SENT 
+TURLOUGH_NN :_: With_IN this_DT ._SENT 
+(_( Turlough_NP rolls_VVZ up_RP his_PP$ sleeve_NN ._SENT )_) 
+DOCTOR_NN :_: Does_VVZ everyone_NN from_IN Trion_NN have_VHP this_DT mark_NN ?_SENT 
+TURLOUGH_NN :_: No._NN You_PP have_VHP to_TO be_VB very_RB special_JJ to_TO wear_VV the_DT Misos_NP Triangle_NP ._SENT 
+[_SYM Ruins_NP ]_SYM 
+(_( The_DT Sarns_NPS have_VHP cleared_VVN the_DT rubble_NN from_IN the_DT 
+Master_NP 's_POS fallen_JJ Tardis_NP ._SENT )_) 
+TIMANOV_NN :_: It_PP 's_POS stone_NN ._SENT It_PP 's_VBZ a_DT pillar_NN of_IN stone_NN ._SENT 
+K-MASTER_NN :_: My_NP Tardis_NP ._SENT I_PP am_VBP most_RBS grateful_JJ ._SENT 
+PERI_NN :_: You_PP do_VVP realise_VV this_DT creature_NN is_VBZ about_RB to_TO do_VV a_DT bunk_NN ._SENT 
+K-MASTER_NN :_: As_IN my_PP$ word_NN is_VBZ my_PP$ bond_NN ,_, Chief_NP Elder_NP ,_, this_DT is_VBZ a_DT day_NN of_IN 
+reckoning_VVG for_IN us_PP all_RB ._SENT 
+[_SYM Lava_NP tunnel_NN ]_SYM 
+DOCTOR_NN :_: Something_NN must_MD have_VH happened_VVN to_TO the_DT Master_NP 
+for_IN him_PP to_TO be_VB using_VVG Kamelion_NP ._SENT 
+TURLOUGH_NN :_: He_PP certainly_RB went_VVD to_TO a_DT great_JJ deal_NN of_IN trouble_NN to_TO get_VV him_PP back_RB ._SENT 
+Do_VVP you_PP think_VVP he_PP 's_VBZ into_IN another_DT regeneration_NN crisis_NN ?_SENT 
+DOCTOR_NN :_: His_PP$ present_JJ body_NN must_MD be_VB good_JJ for_IN a_DT few_JJ years_NNS yet_RB ._SENT There_EX has_VHZ to_TO 
+be_VB another_DT reason_NN ._SENT 
+[_SYM Ruins_NP ]_SYM 
+(_( With_IN ropes_NNS and_CC pulleys_NNS ,_, the_DT Master_NP 's_POS Tardis_NP is_VBZ 
+raised_VVN upright_RB back_RB into_IN the_DT alcove_NN ._SENT )_) 
+K-MASTER_NN :_: At_IN last_JJ ._SENT 
+TIMANOV_NP :_: Where_WRB are_VBP the_DT promised_JJ gifts_NNS ?_SENT 
+(_( Kamelion-Master_NP opens_VVZ the_DT Tardis_NP door_NN ._SENT )_) 
+PERI_NN :_: Do_VVP n't_RB let_VV him_PP go_VV !_SENT 
+K-MASTER_NN :_: Gullible_JJ idiot_NN ._SENT 
+(_( He_PP pushes_VVZ Peri_NP inside_NN and_CC follows_VVZ her_PP ._SENT The_DT Doctor_NP ,_, Turlough_NP and_CC Amyand_NP 
+enter_VV ._SENT )_) 
+TURLOUGH_NN :_: Too_RB late_JJ ._SENT 
+DOCTOR_NN :_: No._NN No_DT ,_, no_UH ,_, that_WDT 's_VBZ the_DT Master_NP 's_POS Tardis_NP ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( A_DT dark_JJ version_NN of_IN the_DT Doctor_NP 's_POS console_NN room_NN ._SENT )_) 
+PERI_NN :_: It_PP 's_VBZ like_IN the_DT Doctor_NP 's_POS ._SENT 
+K-MASTER_NN :_: But_CC infinitely_RB superior_JJ ,_, as_IN I_PP am_VBP to_TO that_DT galactic_NN 
+philanthropist_NN ._SENT 
+[_SYM Ruins_NP ]_SYM 
+DOCTOR_NN :_: I_PP can_MD stop_VV the_DT Master_NP by_IN materialising_VVG 
+around_IN his_PP$ Tardis_NP ._SENT 
+TURLOUGH_NN :_: You_PP 'll_MD need_VV this_DT ._SENT 
+(_( Turlough_NP gives_VVZ the_DT Doctor_NP the_DT comparator_NN ._SENT Armed_VVN Elders_NPS stop_VV them_PP ._SENT )_) 
+TURLOUGH_NN :_: It_PP is_VBZ the_DT will_NN of_IN Logar_NP that_IN/that you_PP obey_VVP me_PP ._SENT I_PP am_VBP your_PP$ new_JJ 
+Chosen_NP One_CD ._SENT Order_VV them_PP to_TO put_VV down_RP their_PP$ staves_NNS ._SENT 
+(_( Turlough_NP shows_VVZ Timanov_NP the_DT triangles_NNS on_IN his_PP$ arm_NN ._SENT )_) 
+TIMANOV_NN :_: The_DT mark_NN of_IN Logar_NP ?_SENT 
+TURLOUGH_NN :_: I_PP have_VHP released_VVN the_DT prisoners_NNS from_IN the_DT cave_NN ._SENT I_PP now_RB hold_VVP 
+supreme_JJ authority_NN ._SENT 
+TIMANOV_NN :_: The_DT blue_JJ box_NN is_VBZ sacred_JJ Logar_NP ._SENT It_PP must_MD not_RB be_VB profaned_VVN by_IN his_PP$ 
+enemies_NNS ._SENT 
+TURLOUGH_NN :_: You_PP have_VHP been_VBN cheated_VVN by_IN the_DT false_JJ Outsider_NN ._SENT The_DT Doctor_NP is_VBZ no_RB 
+enemy_NN ._SENT He_PP is_VBZ the_DT rightful_JJ custodian_NN of_IN the_DT box_NN ._SENT Will_MD you_PP compound_VV the_DT 
+murder_NN of_IN Malkon_NP by_IN defying_VVG your_PP$ new_JJ leader_NN ?_SENT Let_VV the_DT Doctor_NP pass_NN !_SENT 
+(_( Timanov_NP nods_VVZ and_CC the_DT Elders_NPS lower_VVP their_PP$ weapons_NNS ._SENT )_) 
+TURLOUGH_NN :_: There_RB we_PP are_VBP ._SENT 
+(_( The_DT Doctor_NP and_CC Amyand_NP enter_VVP the_DT Tardis_NP ._SENT Kamelion-Master_NP operates_VVZ some_DT 
+controls_NNS on_IN his_PP$ console_NN ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+DOCTOR_NN :_: We_PP 're_VBP stuck_VVN ._SENT The_DT temporal_JJ stabiliser_NN 's_POS 
+been_VBN removed_VVN ._SENT Another_DT old_JJ trick_NN of_IN the_DT Master_NP 's_POS ._SENT 
+[_SYM Ruins_NP ]_SYM 
+(_( The_DT Master_NP 's_POS Tardis_NP dematerialises_VVZ ._SENT )_) 
+TURLOUGH_NP :_: Oh_UH ,_, no._NP 
+[_SYM Tardis_NP ]_SYM 
+AMYAND_NN :_: Where_WRB 's_VBZ he_PP gone_VVN ?_SENT 
+DOCTOR_NN :_: Hmm_NP ?_SENT Er_UH ,_, I_PP do_VVP n't_RB know_VV yet_RB ._SENT Someone_NN 's_VHZ been_VBN interfering_VVG with_IN the_DT 
+Tardis_NP navigational_JJ system_NN ._SENT Kamelion_NP ._SENT It_PP 's_VHZ been_VBN remote-paralleled_VVN with_IN 
+the_DT Master_NP 's_POS Tardis_NP ._SENT So_RB that_DT 's_VBZ how_WRB he_PP followed_VVD us_PP to_TO Sarn_NP ._SENT 
+AMYAND_NN :_: I_PP do_VVP n't_RB understand_VV ._SENT 
+DOCTOR_NN :_: Hmm_NP ?_SENT Oh_UH ,_, it_PP 's_VBZ perfectly_RB simple_JJ ._SENT If_IN this_DT machine_NN were_VBD working_VVG 
+properly_RB ,_, we_PP 'd_MD follow_VV the_DT Master_NP 's_POS Tardis_NP ._SENT 
+AMYAND_NP :_: What_WP ,_, anywhere_RB ?_SENT 
+DOCTOR_NN :_: Indeed_UH ._SENT Although_IN the_DT effort_NN would_MD hardly_RB be_VB worthwhile_JJ ._SENT He_PP 's_VBZ 
+still_RB on_IN Sarn_NP ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( Peri_NP helps_VVZ Kamelion-Master_NP carry_VV in_IN a_DT large_JJ metal_NN 
+box_NN ._SENT )_) 
+PERI_NN :_: What_WP have_VHP you_PP got_VVN in_IN this_DT ?_SENT 
+K-MASTER_NN :_: It_PP 's_VBZ no_DT concern_NN of_IN your_PP$ ._SENT Place_VV it_PP here_RB ._SENT 
+PERI_NN :_: Oh_UH ._SENT It_PP 's_VBZ your_PP$ control_NN box_NN ,_, is_VBZ n't_RB it_PP ._SENT 
+K-MASTER_NN :_: Very_RB perceptive_JJ ,_, Miss_NP Brown_NP ._SENT But_CC the_DT real_JJ power_NN of_IN my_PP$ control_NN 
+is_VBZ well_RB beyond_IN your_PP$ inadequate_JJ comprehension_NN ._SENT 
+(_( The_DT Master_NP 's_POS Tardis_NP materialises_VVZ in_IN a_DT chamber_NN with_IN a_DT very_RB vigorous_JJ 
+fire_NN behind_IN a_DT grill_NN ._SENT Lots_NNS more_JJR pieces_NNS of_IN tech_NN here_RB ._SENT )_) 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+PERI_NN :_: Where_WRB are_VBP we_PP ?_SENT 
+K-MASTER_NN :_: In_IN the_DT heart_NN of_IN the_DT volcano_NN ._SENT 
+PERI_NN :_: Look_VV ,_, if_IN I_PP 'm_VBP to_TO help_VV you_PP I_PP want_VVP to_TO know_VV what_WP you_PP 're_VBP doing_VVG and_CC 
+what_WP happens_VVZ to_TO me_PP when_WRB all_DT 
+K-MASTER_NN :_: You_PP will_MD obey_VV me_PP without_IN question_NN ._SENT 
+PERI_NN :_: You_PP said_VVD that_IN/that once_RB before_RB ._SENT 
+K-MASTER_NN :_: Perhaps_RB you_PP doubt_VVP the_DT efficacy_NN of_IN this_DT device_NN ?_SENT Allow_VV me_PP to_TO 
+introduce_VV the_DT Tissue_NP Compression_NP Eliminator_NP ._SENT 
+(_( He_PP uses_VVZ it_PP on_IN two_CD of_IN the_DT three_CD silver_NN thermal_JJ protection_NN suits_NNS handing_VVG 
+on_IN a_DT rack_NN ._SENT )_) 
+K-MASTER_NN :_: The_DT same_JJ will_MD happen_VV to_TO you_PP ,_, my_PP$ dear_NN ,_, if_IN you_PP obstruct_VVP me_PP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+DOCTOR_NN :_: There_EX 's_VBZ something_NN the_DT Master_NP needs_VVZ on_IN 
+Sarn_NP ._SENT If_IN we_PP could_MD find_VV it_PP ,_, we_PP 'd_MD find_VV him_PP ._SENT I_PP think_VVP Turlough_NP will_MD need_VV 
+some_DT help_NN ._SENT 
+AMYAND_NN :_: Nothing_NN short_JJ of_IN a_DT sign_NN from_IN Logar_NP will_MD have_VH any_DT effect_NN on_RB 
+Timanov_NP and_CC the_DT elders_NNS ._SENT 
+DOCTOR_NN :_: A_DT sign_NN from_IN Logar_NP ._SENT What_WP does_VVZ he_PP look_VV like_IN ,_, this_DT fire_NN lord_NN ?_SENT 
+[_SYM Ruins_NP ]_SYM 
+TURLOUGH_NN :_: Perhaps_RB I_PP should_MD choose_VV new_JJ elders_NNS from_IN 
+amongst_IN the_DT citizens_NNS ,_, and_CC a_DT Chief_NP Elder_NP who_WP would_MD be_VB more_RBR faithful_JJ to_TO 
+his_PP$ new_JJ leader_NN ._SENT 
+TIMANOV_NP :_: No_UH ,_, wait_VV ._SENT It_PP 's_VBZ a_DT time_NN of_IN crisis_NN ._SENT We_PP must_MD do_VV nothing_RB to_TO 
+threaten_VV the_DT continuity_NN of_IN our_PP$ people_NNS ._SENT 
+TURLOUGH_NN :_: Then_RB obey_VVP me_PP in_IN all_DT things_NNS ._SENT 
+TIMANOV_NN :_: We_PP will_MD be_VB guided_VVN by_IN you_PP ,_, Chosen_NP One_NP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( The_DT Doctor_NP is_VBZ going_VVG through_IN images_NNS in_IN the_DT 
+databank_NP ._SENT )_) 
+DOCTOR_NN :_: How_WRB about_RB that_DT ?_SENT 
+AMYAND_NN :_: Not_RB quite_RB ._SENT He_PP 's_VBZ fatter_JJR ,_, a_DT larger_JJR head_NN ,_, bright_JJ silver_NN ._SENT That_DT 's_VBZ 
+more_JJR like_IN it_PP ._SENT 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+(_( Kamelion-Master_NP has_VHZ the_DT ruined_VVN colonnade_NN on_IN a_DT 
+monitor_NN ._SENT )_) 
+K-MASTER_NN :_: The_DT Doctor_NP 's_POS Tardis_NP ._SENT A_DT modest_JJ thunderbolt_NN ,_, I_PP think_VVP ._SENT 
+PERI_NN :_: What_WP are_VBP you_PP doing_VVG ?_SENT 
+K-MASTER_NN :_: You_PP 'll_MD see_VV ._SENT 
+[_SYM Ruins_NP ]_SYM 
+(_( The_DT ground_NN shakes_VVZ ._SENT )_) 
+TURLOUGH_NN :_: Into_IN the_DT Tardis_NP !_SENT 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+PERI_NN :_: You_PP did_VVD that_RB ?_SENT 
+K-MASTER_NN :_: The_DT entire_JJ power_NN of_IN the_DT mountain_NN is_VBZ at_IN my_PP$ command_NN ._SENT But_CC enough_RB 
+of_IN games_NNS ._SENT I_PP 'm_VBP here_RB for_IN more_JJR serious_JJ work_NN ._SENT 
+[_SYM Ruins_NP ]_SYM 
+TURLOUGH_NN :_: I_PP said_VVD into_IN the_DT Tardis_NP !_SENT Quickly_RB !_SENT 
+[_SYM Tardis_NP ]_SYM 
+TURLOUGH_NN :_: Sorry_RB ,_, Doctor_NP ._SENT There_EX was_VBD nowhere_RB else_RB I_PP 
+could_MD bring_VV them_PP ._SENT 
+DOCTOR_NN :_: Welcome_UH ,_, gentlemen_NNS ._SENT 
+TURLOUGH_NN :_: This_DT is_VBZ the_DT Doctor_NP ._SENT He_PP 's_VBZ not_RB an_DT enemy_NN of_IN Logar_NP ,_, but_CC an_DT elder_NN 
+from_IN the_DT city_NN of_IN Gallifrey_NP ._SENT 
+DOCTOR_NN :_: Do_VVP any_DT of_IN you_PP recognise_VVP this_DT ?_SENT 
+(_( The_DT Doctor_NP puts_VVZ the_DT image_NN of_IN the_DT silver-suited_JJ person_NN on_IN another_DT 
+console_NN monitor_NN ._SENT Timanov_NP and_CC the_DT elders_NNS kneel_NN ._SENT )_) 
+TIMANOV_NP :_: Logar_NP ._SENT 
+TURLOUGH_NN :_: You_PP see_VVP ?_SENT He_PP appears_VVZ at_IN the_DT Doctor_NP 's_POS command_NN ._SENT 
+TIMANOV_NP :_: Why_WRB does_VVZ n't_RB he_PP strike_VV down_RP the_DT heretics_NNS ?_SENT 
+TURLOUGH_NP :_: Logar_NP is_VBZ the_DT friend_NN of_IN all_DT people_NNS ,_, whether_IN they_PP believe_VVP in_IN 
+him_PP or_CC not_RB ._SENT He_PP 's_VBZ only_RB angry_JJ when_WRB the_DT citizens_NNS fight_NN amongst_IN themselves_PP ._SENT 
+(_( sotto_NP )_) It_PP 's_VBZ a_DT man_NN in_IN a_DT thermal_JJ suit_NN ._SENT 
+DOCTOR_NN :_: Hmm_NP ._SENT Must_MD be_VB some_DT sort_NN of_IN control_NN centre_NN inside_IN the_DT volcano_NN ._SENT 
+Timanov_NP ,_, have_VH you_PP actually_RB ever_RB seen_VVN Logar_NP ?_SENT 
+TIMANOV_NP :_: Yes_UH ,_, once_RB ,_, when_WRB I_PP was_VBD a_DT boy_NN ._SENT 
+DOCTOR_NN :_: Where_WRB ?_SENT 
+TIMANOV_NN :_: It_PP was_VBD the_DT summit_NN of_IN the_DT fire_NN mountain_NN ._SENT The_DT fire_NN god_NN spoke_VVD to_TO 
+me_PP ,_, encouraged_VVD me_PP to_TO inhale_VV the_DT gases_NNS ._SENT I_PP felt_VVD intoxicated_VVN ,_, invigorated_VVD ._SENT 
+I_PP felt_VVD reborn_JJ ._SENT 
+AMYAND_NN :_: You_PP were_VBD drunk_JJ ._SENT 
+TIMANOV_NP :_: When_WRB I_PP returned_VVD from_IN the_DT mountain_NN ,_, my_PP$ body_NN and_CC my_PP$ mind_NN felt_VVD 
+stronger_JJR and_CC fitter_JJR ._SENT 
+DOCTOR_NN :_: I_PP wonder_VVP if_IN that_DT 's_VBZ what_WP the_DT Master_NP wants_VVZ ._SENT To_TO be_VB born_VVN again_RB ._SENT 
+(_( The_DT console_NN beeps_NNS ._SENT )_) 
+DOCTOR_NN :_: Now_RB ,_, is_VBZ n't_RB that_DT interesting_JJ ?_SENT According_VVG to_TO this_DT ,_, the_DT Master_NP and_NP 
+Peri_NP are_VBP inside_IN the_DT volcano_NN ._SENT 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+(_( Kamelion-Master_NP is_VBZ working_VVG on_IN the_DT circuitry_NN of_IN 
+the_DT consoles_NNS ._SENT )_) 
+PERI_NN :_: How_WRB much_JJ more_JJR is_VBZ there_RB ?_SENT 
+K-MASTER_NN :_: Stop_VV mewling_VVG ._SENT 
+(_( The_DT flame_NN changes_NNS from_IN yellow_NN to_TO blue_JJ ._SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+DOCTOR_NN :_: The_DT seismic_JJ scanner_NN ._SENT Something_NN 's_VBZ happening_VVG 
+inside_IN the_DT volcano_NN ._SENT 
+TIMANOV_NN :_: We_PP must_MD gaze_VV upon_IN it_PP ._SENT 
+DOCTOR_NN :_: Shall_MD we_PP gaze_VVP upon_IN it_PP too_RB ?_SENT 
+[_SYM Ruins_NP ]_SYM 
+(_( Blue_JJ flame_NN is_VBZ coming_VVG from_IN the_DT volcano_NN ._SENT )_) 
+TURLOUGH_NN :_: The_DT Master_NP must_MD have_VH precipitated_VVN an_DT eruption_NN ._SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB think_VV so_RB ._SENT That_DT is_VBZ n't_RB an_DT eruption_NN ._SENT 
+TIMANOV_NP :_: No_UH ,_, it_PP 's_VBZ the_DT blue_JJ flame_NN ._SENT It_PP has_VHZ n't_RB been_VBN seen_VVN for_IN many_JJ 
+generations_NNS ._SENT 
+TURLOUGH_NP :_: What_WP is_VBZ it_PP supposed_JJ to_TO indicate_VV ?_SENT 
+TIMANOV_NN :_: It_PP 's_VBZ a_DT sign_NN of_IN great_JJ favour_NN from_IN Logar_NP ._SENT He_PP 's_VBZ showing_VVG his_PP$ mercy_NN 
+to_TO the_DT sick_JJ and_CC the_DT injured_JJ ._SENT There_EX 'll_MD be_VB a_DT gathering_NN ._SENT We_PP must_MD go_VV to_TO our_PP$ 
+people_NNS ._SENT 
+DOCTOR_NN :_: I_PP wonder_VVP if_IN Logar_NP will_MD help_VV a_DT sick_JJ Time_NP Lord_NP ._SENT Perhaps_RB the_DT 
+Master_NN needs_VVZ the_DT blue_JJ flame_NN more_RBR than_IN the_DT people_NNS of_IN Sarn_NP ._SENT 
+TURLOUGH_NN :_: We_PP should_MD get_VV back_RB to_TO the_DT bunker_NN ._SENT 
+DOCTOR_NN :_: No_UH ,_, no_UH ,_, no_UH ,_, the_DT Hall_NP of_IN Fire_NP ._SENT I_PP want_VVP to_TO analyse_VV the_DT deposit_NN on_RB 
+the_DT walls_NNS ._SENT Unless_IN ,_, of_IN course_NN ,_, you_PP can_MD tell_VV me_PP what_WP it_PP is_VBZ ?_SENT 
+TURLOUGH_NP :_: How_WRB should_MD I_PP know_VV ?_SENT That_DT cave_NN 's_POS part_NN of_IN a_DT colonial_NN 
+civilisation_NN that_IN/that ended_VVN ages_NNS ago_RB ._SENT 
+DOCTOR_NN :_: The_DT control_NN centre_NN 's_VHZ been_VBN maintained_VVN ._SENT Just_RB what_WP sort_NN of_IN 
+interest_NN have_VHP your_PP$ people_NNS got_VVN in_IN the_DT stability_NN of_IN an_DT abandoned_VVN planet_NN ?_SENT 
+TURLOUGH_NN :_: I_PP do_VVP n't_RB know_VV ._SENT 
+DOCTOR_NN :_: When_WRB we_PP arrived_VVD ,_, you_PP expected_VVD to_TO find_VV Trions_NNS here_RB ._SENT Why_WRB ?_SENT 
+TURLOUGH_NN :_: The_DT triangle_NN here_RB in_IN the_DT ruin_NN ._SENT 
+DOCTOR_NN :_: If_IN this_DT is_VBZ an_DT abandoned_JJ planet_NN ,_, what_WP was_VBD your_PP$ father_NN doing_VVG 
+here_RB ?_SENT All_DT right_NN ._SENT But_CC if_IN you_PP 're_VBP holding_VVG back_RB anything_NN that_WDT will_MD aid_VV the_DT 
+Master_NN ,_, our_PP$ friendship_NN is_VBZ at_IN an_DT end_NN ._SENT Is_VBZ that_IN/that understood_VVN ?_SENT 
+TURLOUGH_NP :_: Yes_UH ,_, Doctor_NP ._SENT 
+(_( The_DT Doctor_NP leaves_VVZ with_IN Amyand_NP ,_, then_RB Turlough_NP follows_VVZ ._SENT )_) 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+(_( The_DT blue_JJ flame_NN returns_NNS to_TO the_DT normal_JJ red_NN ._SENT )_) 
+K-MASTER_NN :_: Excellent_JJ !_SENT We_PP now_RB have_VHP control_NN of_IN one_CD of_IN the_DT greatest_JJS energy_NN 
+sources_NNS in_IN the_DT universe_NN ._SENT 
+PERI_NN :_: A_DT blue_JJ flame_NN ?_SENT 
+K-MASTER_NN :_: Numismaton_NN gas_NN ,_, my_PP$ dear_NN ._SENT An_DT immensely_RB rare_JJ catalytic_JJ reagent_NN 
+from_IN deep_JJ inside_IN the_DT planet_NN ._SENT When_WRB the_DT surge_NN comes_VVZ again_RB ,_, I_PP shall_MD be_VB 
+ready_JJ to_TO absorb_VV its_PP$ infinite_JJ transforming_VVG power_NN ._SENT 
+PERI_NN :_: Really_RB ._SENT 
+(_( Behind_IN his_PP$ back_NN ,_, Peri_NP alters_VVZ some_DT controls_NNS on_IN the_DT panel_NN ._SENT )_) 
+PERI_NN :_: Well_RB ,_, you_PP 're_VBP getting_VVG no_DT more_JJR power_NN !_SENT 
+(_( She_PP pushes_VVZ Kamelion-Master_NP to_TO the_DT floor_NN and_CC runs_VVZ out_RP of_IN the_DT chamber_NN ._SENT 
+He_PP follows_VVZ ,_, she_PP ducks_VVZ back_RB inside_RB and_CC into_IN the_DT Master_NP 's_POS Tardis_NP ,_, closing_NN 
+the_DT doors_NNS before_IN the_DT TCE_NP can_MD get_VV her_PP ._SENT 
+[_SYM Fire_NP cave_NN ]_SYM 
+(_( The_DT Doctor_NP tastes_VVZ some_DT of_IN the_DT encrustation_NN from_IN 
+the_DT wall_NN ._SENT )_) 
+DOCTOR_NN :_: Hmm_NP ._SENT Trace_NP elements_NNS of_IN numismaton_NN gas_NN ._SENT Very_RB useful_JJ for_IN an_DT 
+injured_JJ Time_NP Lord_NP who_WP ca_MD n't_RB regenerate_VV ._SENT Now_RB ,_, why_WRB would_MD he_PP want_VV the_DT gas_NN 
+in_IN such_JJ quantities_NNS ?_SENT 
+TURLOUGH_NN :_: Perhaps_RB he_PP plans_VVZ to_TO bottle_VV and_CC sell_VV it_PP ._SENT 
+DOCTOR_NN :_: Even_RB if_IN I_PP were_VBD in_IN a_DT better_JJR humour_NN ,_, that_WDT would_MD n't_RB be_VB funny_JJ ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+SORASTA_NN :_: Doctor_NN ,_, Malkon_NP is_VBZ much_RB worse_JJR ._SENT 
+TURLOUGH_NN :_: We_PP must_MD get_VV him_PP back_RB to_TO the_DT Tardis_NP ._SENT 
+DOCTOR_NN :_: No._NN 
+TURLOUGH_NN :_: Doctor_NN ,_, please_UH !_SENT 
+DOCTOR_NN :_: Thanks_NNS to_TO the_DT Master_NP ,_, he_PP 's_VBZ far_RB better_JJR off_RP here_RB ._SENT I_PP must_MD get_VV back_RB 
+to_TO the_DT bunker_NN and_CC organise_VV the_DT gas_NN flow_NN ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( Kamelion-Master_NP is_VBZ hammering_VVG on_IN the_DT door_NN ._SENT )_) 
+PERI_NN :_: The_DT Master_NP 's_POS control_NN box_NN ._SENT I_PP may_MD have_VH a_DT puny_JJ mind_NN ,_, but_CC you_PP do_VVP n't_RB 
+need_VVP to_TO be_VB Albert_NP Einstein_NP to_TO find_VV the_DT off_JJ switch_NN ._SENT 
+(_( Peri_NP removes_VVZ the_DT lid_NN of_IN the_DT metal_NN box_NN to_TO reveal_VV -_: the_DT real_JJ Master_NP in_IN 
+his_PP$ control_NN room_NN ,_, but_CC shrunken_VVN down_RP to_TO mere_JJ inches_NNS tall_JJ ._SENT )_) 
+MASTER_NN :_: You_PP escaped_VVD from_IN my_PP$ slave_NN ,_, but_CC you_PP will_MD obey_VV me_PP or_CC die_VV ._SENT 
+Part_NP Four_NP 
+
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+PERI_NN :_: Urgh_UH !_SENT 
+(_( She_PP knocks_VVZ the_DT box_NN onto_IN its_PP$ side_NN and_CC the_DT Master_NP falls_VVZ out_RP ,_, 
+disconnecting_VVG him_PP from_IN Kamelion_NP ._SENT Outside_RB ,_, Kamelion-Master_NP falls_VVZ to_TO the_DT 
+ground_NN and_CC changes_NNS into_IN Kamelion-Foster_NP ._SENT Mini-Master_NN scurries_NNS away_RB ._SENT )_) 
+[_SYM Bunker_NP ]_SYM 
+DOCTOR_NN :_: There_EX 's_VBZ healing_NN power_NN in_IN one_CD of_IN the_DT 
+volcanic_JJ gases_NNS ._SENT Could_MD be_VB why_WRB the_DT Trions_NNS constructed_VVD the_DT Hall_NP of_IN Fire_NP ,_, 
+some_DT sort_NN of_IN curative_JJ centre_NN ._SENT I_PP must_MD release_VV the_DT gas_NN flow_NN ._SENT Strictly_RB for_IN 
+medicinal_JJ purposes_NNS ,_, of_IN course_NN ._SENT There_RB we_PP are_VBP ._SENT 
+ROSKAL_NN :_: You_PP 're_VBP doing_VVG what_WP Timanov_NP wants_VVZ ._SENT 
+DOCTOR_NN :_: Why_WRB not_RB ,_, if_IN it_PP saves_VVZ Malkon_NP 's_POS life_NN ?_SENT Bring_VV him_PP to_TO the_DT Hall_NP of_IN 
+Fire_NN ,_, quickly_RB ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( Sick_NP Sarn_NP file_VV in_IN ._SENT )_) 
+AMYAND_NP :_: Do_VVP you_PP think_VVP this_DT is_VBZ wise_JJ ?_SENT 
+TURLOUGH_NP :_: Do_VVP n't_RB stop_VV them_PP ._SENT The_DT Doctor_NP wants_VVZ to_TO use_VV the_DT gas_NN for_IN its_PP$ 
+original_JJ purpose_NN ._SENT 
+(_( Timanov_NP gives_VVZ Turlough_NP a_DT necklace_NN with_IN the_DT Misos_NP 
+Triangle_NP on_IN it_PP ,_, then_RB bows_VVZ and_CC goes_VVZ towards_IN the_DT fire_NN cave_NN ._SENT )_) 
+TIMANOV_NN :_: This_DT is_VBZ for_IN you_PP ,_, Chosen_NP One_CD ._SENT The_DT gift_NN of_IN 
+Logar_NP ._SENT 
+TURLOUGH_NN :_: Thank_VV you_PP ._SENT Wait_VV a_DT minute_NN ._SENT I_PP 've_VHP seen_VVN one_CD of_IN these_DT before_IN ._SENT 
+(_( The_DT flames_NNS return_NN to_TO the_DT cave_NN ._SENT The_DT Doctor_NP enters_VVZ ._SENT )_) 
+DOCTOR_NN :_: Excellent_JJ ._SENT 
+AMYAND_NN :_: That_DT flame_NN will_MD burn_VV ,_, not_RB heal_VV ._SENT 
+DOCTOR_NN :_: There_EX 's_VBZ still_RB a_DT residue_NN of_IN hot_JJ gas_NN still_RB to_TO burn_VV off_RP ._SENT 
+(_( The_DT Doctor_NP looks_VVZ at_IN Turlough_NP 's_POS new_JJ necklace_NN ._SENT )_) 
+DOCTOR_NN :_: Where_WRB did_VVD you_PP get_VV this_DT ?_SENT 
+TURLOUGH_NP :_: Timanov_NP gave_VVD it_PP to_TO me_PP ._SENT 
+DOCTOR_NN :_: More_JJR gifts_NNS from_IN Logar_NP ?_SENT 
+TURLOUGH_NP :_: Yes_UH ,_, from_IN a_DT Trion_NN ship_NN ._SENT It_PP 's_VBZ a_DT coded_VVN circuit_NN release_NN key_NN ._SENT I_PP 
+know_VV the_DT lock_NN it_PP operates_VVZ ._SENT 
+(_( Meanwhile_RB ,_, Roskal_NP has_VHZ carried_VVN Malkon_NP in_IN and_CC is_VBZ standing_VVG in_IN front_NN of_IN 
+the_DT cave_NN with_IN Timanov_NP whilst_IN other_JJ Sarns_NPS have_VHP gathered_VVN to_TO watch_VV ._SENT The_DT 
+flame_NN is_VBZ blue_JJ ._SENT )_) 
+DOCTOR_NN :_: Pure_JJ numismaton_NN gas_NN ._SENT It_PP 's_VBZ quite_RB safe_JJ ._SENT 
+(_( The_DT Doctor_NP walks_VVZ through_IN the_DT blue_JJ flames_NNS in_IN the_DT cave_NN ._SENT )_) 
+DOCTOR_NN :_: Look_VV ._SENT 
+TURLOUGH_NP :_: What_WP are_VBP you_PP waiting_VVG for_IN ?_SENT 
+(_( Turlough_NP takes_VVZ Malkon_NP from_IN Roskal_NP 's_POS arms_NNS and_CC goes_VVZ into_IN the_DT cave_NN along_RB 
+with_IN several_JJ other_JJ Sarns_NP ._SENT )_) 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( Peri_NP is_VBZ hunting_VVG for_IN Mini-Master_NP ._SENT She_PP spots_VVZ him_PP 
+amongst_IN a_DT coil_NN of_IN wire_NN and_CC takes_VVZ of_IN her_PP$ shoe_NN ._SENT )_) 
+PERI_NN :_: There_RB you_PP are_VBP ._SENT 
+(_( But_CC she_PP starts_VVZ sneezing_VVG and_CC he_PP gets_VVZ away_RB again_RB ,_, climbing_VVG into_IN the_DT 
+console_NN ._SENT )_) 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+(_( Fully_RB recovered_VVN ,_, Malkon_NP leads_VVZ the_DT other_JJ Sarns_NP ,_, 
+Turlough_NP and_CC the_DT Doctor_NP out_RP of_IN the_DT cave_NN just_RB before_IN the_DT flames_NNS turn_VVP 
+yellow_JJ again_RB ._SENT )_) 
+TIMANOV_NN :_: Praise_NN be_VB to_TO Logar_NP ._SENT 
+DOCTOR_NN :_: Logar_NP had_VHD very_RB little_JJ to_TO do_VV with_IN it_PP ._SENT 
+MALKON_NP :_: What_WP happened_VVD ?_SENT 
+DOCTOR_NN :_: You_PP were_VBD shot_VVN ,_, but_CC you_PP should_MD be_VB all_DT right_NN now_RB ._SENT 
+(_( The_DT ground_NN shakes_VVZ ._SENT )_) 
+TURLOUGH_NN :_: Assemble_VV the_DT rest_NN of_IN the_DT citizens_NNS here_RB ._SENT Please_UH ,_, my_PP$ friend_NN ._SENT We_PP 
+need_VV your_PP$ skills_NNS of_IN leadership_NN and_CC organisation_NN ._SENT Logar_NP demands_VVZ it_PP ._SENT 
+TIMANOV_NP :_: Yes_UH ,_, of_IN course_NN ,_, Chosen_NP One_NP ._SENT 
+(_( Timanov_NP stops_VVZ to_TO bow_VV to_TO Malkon_NP ,_, and_CC leaves_VVZ ._SENT )_) 
+DOCTOR_NN :_: Amyand_NP ,_, I_PP 'll_MD need_VV your_PP$ help_NN as_IN a_DT guide_NN ._SENT We_PP must_MD get_VV to_TO the_DT 
+seismic_JJ control_NN centre_NN ._SENT 
+AMYAND_NN ;_: I_PP 'll_MD do_VV my_PP$ best_JJS ._SENT 
+DOCTOR_NN :_: Turlough_NP ,_, when_WRB I_PP 've_VHP got_VVN the_DT Tardis_NP working_NN ,_, we_PP 'll_MD materialise_VV 
+here_RB and_CC take_VV the_DT Sarns_NP on_IN board_NN ._SENT 
+TURLOUGH_NN :_: That_WDT wo_MD n't_RB be_VB necessary_JJ ._SENT 
+DOCTOR_NN :_: Why_WRB ?_SENT 
+TURLOUGH_NN :_: If_IN it_PP 's_VBZ still_RB intact_JJ ,_, I_PP think_VVP I_PP can_MD operate_VV the_DT main_JJ 
+transmitter_NN on_IN my_PP$ father_NN 's_POS ship_NN ._SENT That_DT gives_VVZ us_PP direct_JJ access_NN to_TO Trion_NN 
+Communications_NP Executive_NP ,_, and_CC the_DT Custodians_NP will_MD send_VV a_DT rescue_NN ship_NN ._SENT 
+DOCTOR_NN :_: Could_MD n't_RB do_VV better_RBR ._SENT 
+[_SYM Outside_IN the_DT Hall_NP of_IN Fire_NP ]_SYM 
+DOCTOR_NN :_: Just_RB a_DT minute_NN ._SENT You_PP were_VBD concerned_VVN about_RB 
+the_DT Custodians_NP earlier_RBR ._SENT 
+TURLOUGH_NN :_: I_PP 'll_MD be_VB all_DT right_NN ._SENT 
+DOCTOR_NN :_: You_PP are_VBP in_IN trouble_NN ._SENT 
+TURLOUGH_NN :_: The_DT Misos_NP Triangle_NP is_VBZ the_DT mark_NN of_IN a_DT prisoner_NN ,_, and_CC Sarn_NP is_VBZ a_DT 
+prison_NN planet_NN for_IN very_RB special_JJ people_NNS ._SENT That_DT 's_VBZ why_WRB my_PP$ father_NN was_VBD sent_VVN 
+here_RB ._SENT If_IN he_PP had_VHD lived_VVN ,_, he_PP would_MD have_VH been_VBN your_PP$ leader_NN ._SENT 
+AMYAND_NP :_: Are_VBP we_PP Trion_NN prisoners_NNS ,_, too_RB ?_SENT 
+TURLOUGH_NP :_: No_UH ,_, you_PP are_VBP all_DT that_WDT is_VBZ left_VVN of_IN the_DT indigenous_JJ population_NN ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( Peri_NP finds_VVZ Mini-Master_NP amongst_IN the_DT wires_NNS and_CC 
+circuit_NN boards_NNS of_IN the_DT console_NN base_NN ._SENT )_) 
+MASTER_NN :_: Miss_NP Brown_NP ,_, Peri_NP ,_, listen_VVP to_TO me_PP ._SENT There_EX is_VBZ no_DT way_NN you_PP can_MD escape_VV 
+either_CC from_IN my_PP$ Tardis_NP or_CC from_IN the_DT control_NN centre_NN ._SENT 
+PERI_NN :_: We_PP 'll_MD see_VV about_IN that_DT ._SENT 
+MASTER_NN :_: Help_VV me_PP ._SENT I_PP 'll_MD spare_VV your_PP$ life_NN ._SENT 
+PERI_NN :_: Spare_VV my_PP$ life_NN ?_SENT You_PP come_VVP out_RP here_RB and_CC say_VV that_DT ._SENT 
+(_( The_DT Mini-Master_NP shorts_NNS out_IN a_DT pair_NN of_IN transistors_NNS and_CC the_DT doors_NNS open_VVP ._SENT )_) 
+PERI_NN :_: Who_WP 's_VBZ there_RB ?_SENT 
+(_( She_PP goes_VVZ outside_JJ ._SENT )_) 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+(_( Kamelion-Foster_NP is_VBZ twitching_VVG on_IN the_DT ground_NN ._SENT )_) 
+PERI_NN :_: Pleasant_JJ dreams_NNS ._SENT 
+(_( Mini-Master_NP hauls_VVZ himself_PP out_RP of_IN the_DT console_NN and_CC back_RB into_IN 
+Kamelion_NP 's_POS control_NN box_NN ._SENT )_) 
+[_SYM Passageway_NP ]_SYM 
+DOCTOR_NN :_: Turlough_NP ,_, how_WRB did_VVD your_PP$ family_NN become_VVN 
+criminals_NNS ?_SENT 
+TURLOUGH_NN :_: There_EX was_VBD civil_JJ war_NN on_IN my_PP$ planet_NN ._SENT My_PP$ mother_NN was_VBD killed_VVN ._SENT My_PP$ 
+father_NN was_VBD on_IN the_DT wrong_JJ side_NN and_CC was_VBD exiled_VVN here_RB with_IN my_PP$ younger_JJR 
+brother_NN ._SENT I_PP ,_, for_IN my_PP$ sins_NNS ,_, was_VBD sent_VVN by_IN the_DT regime_NN to_TO Earth_NP ._SENT 
+DOCTOR_NN :_: But_CC how_WRB could_MD they_PP possibly_RB know_VVP you_PP 've_VHP absconded_VVN ?_SENT 
+TURLOUGH_NN :_: The_DT Trions_NNS have_VHP agents_NNS on_IN every_DT civilised_JJ planet_NN ._SENT An_DT agrarian_JJ 
+commissioner_NN on_IN Verdon_NP ,_, a_DT tax_NN inspector_NN on_IN Darveg_NP ,_, and_CC a_DT very_RB eccentric_JJ 
+solicitor_NN in_IN Chancery_NP Lane_NP ._SENT They_PP 'll_MD know_VV ,_, all_DT right_NN ._SENT 
+(_( Mini-Master_NP hauls_VVZ himself_PP back_RB into_IN the_DT overturned_VVN metal_NN box_NN ._SENT )_) 
+[_SYM Sarn_NP ]_SYM 
+DOCTOR_NN :_: I_PP 'll_MD see_VV you_PP back_RB at_IN the_DT Tardis_NP ._SENT 
+TURLOUGH_NN :_: Good_JJ luck_NN ,_, Doctor_NP ._SENT Come_VVN on_IN ._SENT 
+(_( Turlough_NP and_CC Roskal_NP leave_VVP ._SENT )_) 
+DOCTOR_NN :_: This_DT must_MD have_VH been_VBN a_DT very_RB fertile_JJ planet_NN ._SENT 
+AMYAND_NN :_: When_WRB the_DT Trions_NNS were_VBD here_RB ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, do_VV n't_RB be_VB too_RB hard_JJ on_IN them_PP ._SENT It_PP 's_VBZ their_PP$ technology_NN that_WDT 's_VBZ 
+maintained_VVN the_DT stability_NN of_IN the_DT planet_NN ._SENT 
+AMYAND_NN :_: You_PP call_VVP this_DT stability_NN ?_SENT 
+DOCTOR_NN :_: They_PP did_VVD their_PP$ best_JJS ._SENT The_DT silver_NN things_NNS that_WDT were_VBD seen_VVN on_IN the_DT 
+mountain_NN ,_, they_PP were_VBD Trion_NN volcanologists_NNS attempting_VVG to_TO control_VV the_DT 
+eruptions_NNS ._SENT 
+AMYAND_NN :_: So_RB they_PP could_MD imprison_VV here_RB their_PP$ own_JJ undesirable_JJ elements_NNS ._SENT 
+Like_IN fools_NNS ,_, we_PP 've_VHP tried_VVN to_TO make_VV sense_NN of_IN things_NNS ,_, inventing_VVG legends_NNS and_CC 
+myths_NNS to_TO explain_VV them_PP away_RP ._SENT 
+DOCTOR_NN :_: Well_RB ,_, that_WDT 's_VBZ at_IN an_DT end_NN ._SENT The_DT old_JJ order_NN 's_VBZ gone_VVN forever_RB ._SENT There_EX 'll_MD 
+be_VB no_DT more_JJR Outsiders_NP ,_, no_DT more_JJR Chosen_NP Ones_NN ._SENT 
+AMYAND_NN :_: And_CC the_DT years_NNS that_WDT have_VHP been_VBN wasted_VVN ._SENT 
+DOCTOR_NN :_: With_IN a_DT leader_NN like_IN you_PP ,_, Amyand_NP ,_, your_PP$ people_NNS will_MD soon_RB advance_VV ._SENT 
+(_( They_PP crunch_VVP along_RP over_IN the_DT volcanic_JJ rocks_NNS ._SENT Meanwhile_RB -_: )_) 
+TURLOUGH_NN :_: Come_VV on_IN ,_, we_PP 're_VBP nearly_RB there_RB ._SENT 
+(_( The_DT crashed_VVN spaceship_NN is_VBZ in_IN sight_NN ._SENT )_) 
+[_SYM Caldera_NP ]_SYM 
+(_( As_IN Peri_NP tries_VVZ to_TO find_VV her_PP$ way_NN out_RP through_IN the_DT 
+steam_NN vents_NNS ,_, the_DT Doctor_NP and_CC Amyand_NP are_VBP looking_VVG for_IN the_DT way_NN in_IN ._SENT )_) 
+AMYAND_NN :_: Which_WDT way_NN ?_SENT There_EX must_MD be_VB an_DT entrance_NN somewhere_RB on_IN this_DT hill_NN ._SENT 
+Let_VV 's_VBZ try_VV along_RP here_RB ._SENT 
+(_( There_EX is_VBZ a_DT rock_NN slide_NN ._SENT Peri_NP is_VBZ stuck_VVN on_IN a_DT ledge_NN ._SENT )_) 
+[_SYM Spaceship_NP ]_SYM 
+TURLOUGH_NN :_: Somewhere_RB over_IN here_RB ._SENT 
+(_( Another_DT tremor_NN ._SENT )_) 
+ROSKAL_NN :_: We_PP must_MD hurry_VV ._SENT 
+[_SYM Caldera_NP ]_SYM 
+DOCTOR_NN :_: Get_VV back_RB !_SENT 
+(_( A_DT stream_NN of_IN lava_NN begins_VVZ to_TO flow_VV nearby_RB ._SENT )_) 
+AMYAND_NN :_: We_PP 're_VBP trapped_VVN ._SENT 
+(_( There_EX is_VBZ an_DT eruption_NN ._SENT Fortunately_RB this_DT lava_NN flow_NN goes_VVZ away_RB from_IN them_PP ._SENT 
+They_PP scramble_VVP up_RP the_DT slope_NN ._SENT )_) 
+PERI_NN :_: Doctor_NN !_SENT 
+(_( Peri_NP helps_VVZ them_PP onto_IN the_DT ledge_NN ._SENT )_) 
+PERI_NN :_: It_PP 's_VBZ this_DT way_NN ._SENT It_PP 's_VBZ in_IN here_RB ._SENT 
+DOCTOR_NN :_: All_DT right_NN ,_, come_VVN on_IN ._SENT 
+PERI_NN :_: Okay_JJ ._SENT 
+[_SYM Seismic_NP control_NN centre_NN tunnel_NN ]_SYM 
+
+(_( A_DT lava_NN flow_NN begins_VVZ to_TO cover_VV the_DT entrance_NN to_TO the_DT 
+tunnel_NN down_RB to_TO the_DT control_NN centre_NN ._SENT )_) 
+DOCTOR_NN :_: Quickly_RB ._SENT 
+[_SYM Spaceship_NP ]_SYM 
+ROSKAL_NP :_: Is_VBZ it_PP still_RB working_VVG ?_SENT 
+TURLOUGH_NN :_: I_PP do_VVP n't_RB know_VV ._SENT Keep_VV your_PP$ fingers_NNS crossed_VVD ._SENT 
+(_( Roskal_NP holds_VVZ the_DT key_NN against_IN the_DT panel_NN while_IN Turlough_NP presses_NNS 
+buttons_NNS ._SENT )_) 
+TURLOUGH_NN :_: The_DT emergency_NN power_NN cells_NNS may_MD have_VH decayed_VVN ._SENT No_UH ,_, we_PP 're_VBP in_IN 
+luck_NN ._SENT (_( static_JJ )_) There_EX 's_VBZ a_DT lot_NN of_IN geomagnetic_JJ interference_NN ._SENT 
+MAN_NN [_SYM OC_NP ]_SYM :_: This_DT is_VBZ Trion_NN Control_NP ._SENT 
+ROSKAL_NN :_: It_PP 's_VBZ amazing_JJ ._SENT 
+MAN_NN [_SYM OC_NP ]_SYM :_: This_DT is_VBZ Trion_NN Control_NP ._SENT You_PP 're_VBP 
+transmitting_VVG on_IN an_DT executive_JJ frequency_NN ._SENT Please_VV state_NN name_NN ,_, rank_JJ and_NP 
+identification_NN code_NN ._SENT 
+TURLOUGH_NN :_: My_PP$ name_NN is_VBZ Vislor_NP Turlough_NP ,_, Junior_NP Ensign_NP Commander_NP ,_, 
+identification_NN code_NN VTEC9_NP /_SYM 12_CD /_SYM 44._CD 
+[_SYM Master_NP 's_POS control_NN box_NN ]_SYM 
+(_( The_DT Master_NP gets_VVZ his_PP$ Kamelion_NP control_NN device_NN 
+working_VVG again_RB ._SENT )_) 
+MASTER_NN :_: Come_VV ,_, my_PP$ slave_NN ._SENT Revive_VV ._SENT We_PP 're_VBP not_RB defeated_VVN yet_RB ._SENT 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+DOCTOR_NN :_: The_DT seismic_JJ control_NN centre_NN ._SENT It_PP 's_VBZ 
+impressive_JJ ._SENT The_DT question_NN is_VBZ ,_, how_WRB effective_JJ ._SENT Keep_VV an_DT eye_NN on_IN him_PP ,_, would_MD 
+you_PP ?_SENT 
+(_( Amyand_NP goes_VVZ to_TO the_DT still_RB supine_JJ Kamelion-Foster_NP while_IN the_DT Doctor_NP 
+starts_NNS pressing_VVG buttons_NNS on_IN a_DT control_NN panel_NN ._SENT )_) 
+PERI_NN :_: What_WP are_VBP you_PP doing_VVG now_RB ?_SENT 
+DOCTOR_NN :_: Trying_VVG to_TO slow_VV down_RP the_DT eruption_NN ._SENT The_DT Master_NP 's_POS interference_NN has_VHZ 
+caused_VVN the_DT seismic_JJ machinery_NN to_TO become_VV unstable_JJ ._SENT If_IN I_PP can_MD override_VV the_DT 
+automatic_JJ controller_NN ,_, I_PP can_MD delay_VV the_DT worst_JJS of_IN it_PP ._SENT 
+PERI_NN :_: Ca_MD n't_RB you_PP stop_VV it_PP ?_SENT 
+DOCTOR_NN :_: I_PP doubt_VVP it_PP ._SENT The_DT Master_NP 's_POS already_RB triggered_VVN a_DT massive_JJ surge_NN of_IN 
+numismaton_NN gas_NN in_IN the_DT planet_NN 's_POS core_NN ._SENT It_PP that_RB hits_VVZ the_DT surface_NN it_PP will_MD 
+disrupt_VV the_DT inhibition_NN circuit_NN altogether_RB ._SENT There_EX 'll_MD be_VB devastation_NN ._SENT 
+[_SYM Spaceship_NP ]_SYM 
+TURLOUGH_NN :_: At_IN least_JJS they_PP 're_VBP sending_VVG a_DT ship_NN ._SENT 
+ROSKAL_NN :_: They_PP wo_MD n't_RB punish_VV you_PP ._SENT 
+TURLOUGH_NN :_: Just_RB so_RB long_JJ as_IN they_PP do_VVP n't_RB send_VV me_PP back_RB to_TO Brendan_NP ._SENT 
+ROSKAL_NP :_: Where_WRB ?_SENT 
+TURLOUGH_NN :_: The_DT worst_JJS place_NN in_IN the_DT universe_NN ._SENT An_DT English_JJ public_JJ school_NN on_IN 
+Earth_NP ._SENT Come_VVN on_IN ,_, let_VV 's_VBZ get_VV back_RB to_TO the_DT others_NNS ._SENT 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+DOCTOR_NN :_: There_RB we_PP are_VBP ._SENT That_DT should_MD hold_VV back_RB the_DT 
+eruption_NN for_IN a_DT while_NN ._SENT Now_RB for_IN the_DT Master_NP ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( The_DT Doctor_NP ,_, Amyand_NP and_CC Peri_NP enter_VVP ._SENT Peri_NP goes_VVZ 
+straight_RB for_IN the_DT metal_NN box_NN ._SENT )_) 
+PERI_NN :_: There_RB it_PP is_VBZ ,_, but_CC he_PP could_MD be_VB anywhere_RB ._SENT 
+(_( The_DT Doctor_NP takes_VVZ a_DT component_NN from_IN the_DT Master_NP 's_POS console_NN ._SENT )_) 
+DOCTOR_NN :_: Fair_JJ exchange_NN is_VBZ no_DT robbery_NN ._SENT The_DT Master_NP 's_POS temporal_JJ stabiliser_NN ._SENT 
+PERI_NN :_: Will_MD it_PP fit_VV your_PP$ machine_NN ?_SENT 
+DOCTOR_NN :_: Oh_UH yes_UH ._SENT 
+(_( The_DT Doctor_NP puts_VVZ the_DT metal_NN box_NN back_RB on_IN its_PP$ base_NN ._SENT )_) 
+[_SYM Master_NP 's_POS control_NN box_NN ]_SYM 
+MASTER_NN :_: Revive_VV ._SENT Revive_VV ,_, Kamelion_NP !_SENT 
+(_( He_PP turns_VVZ to_TO see_VV three_CD faces_VVZ looking_VVG down_RP at_IN him_PP ._SENT )_) 
+DOCTOR_NN :_: How_WRB does_VVZ it_PP feel_VVP to_TO get_VV a_DT taste_NN of_IN your_PP$ own_JJ medicine_NN ?_SENT 
+MASTER_NN :_: I_PP live_VVP ,_, Doctor_NP ._SENT 
+DOCTOR_NN :_: Albeit_IN in_IN somewhat_RB reduced_VVN circumstances_NNS ._SENT 
+MASTER_NN :_: I_PP shall_MD soon_RB be_VB restored_VVN to_TO profit_VV from_IN my_PP$ research_NN ._SENT 
+DOCTOR_NN :_: Ah_UH ,_, you_PP 're_VBP experimenting_VVG with_IN the_DT Tissue_NP Compression_NN 
+Eliminator_NN ._SENT 
+MASTER_NN :_: To_TO increase_VV its_PP$ range_NN ._SENT I_PP was_VBD building_VVG a_DT 
+new_JJ and_CC more_RBR deadly_JJ version_NN ._SENT 
+DOCTOR_NN :_: You_PP made_VVD it_PP too_RB powerful_JJ for_IN your_PP$ own_JJ good_NN ._SENT 
+MASTER_NN :_: A_DT small_JJ design_NN problem_NN ._SENT 
+DOCTOR_NN :_: And_CC a_DT very_RB small_JJ Master_NP ._SENT That_DT 's_VBZ why_WRB you_PP needed_VVD Kamelion_NP ,_, is_VBZ n't_RB 
+it_PP ?_SENT 
+MASTER_NN :_: I_PP 've_VHP lodged_VVN in_IN the_DT mind_NN of_IN that_DT slave_NN since_IN our_PP$ fateful_JJ meeting_NN 
+on_IN Xeriphas_NP ._SENT 
+DOCTOR_NN :_: The_DT scream_NN in_IN the_DT Tardis_NP ._SENT He_PP even_RB felt_VVD your_PP$ pain_NN ._SENT 
+(_( Kamelion-Foster_NP gets_VVZ up_RP ._SENT )_) 
+MASTER_NN :_: Mmm_NP ,_, and_CC came_VVD instantly_RB to_TO my_PP$ help_NN ._SENT Now_RB ,_, with_IN the_DT next_JJ surge_NN of_IN 
+numismaton_NN gas_NN ,_, all_DT is_VBZ prepared_VVN for_IN my_PP$ supreme_JJ renewal_NN ._SENT 
+AMYAND_NN :_: Kill_VV him_PP ,_, Doctor_NP ._SENT 
+K-MASTER_NN [_SYM OC_NP ]_SYM :_: Get_VV away_RB from_IN the_DT box_NN ._SENT 
+[_SYM Master_NP 's_POS Tardis_NP ]_SYM 
+(_( Kamelion-Master_NP has_VHZ the_DT TCE_NN in_IN his_PP$ hand_NN ._SENT )_) 
+DOCTOR_NN :_: No_DT need_NN to_TO remind_VV you_PP what_WP will_MD happen_VV if_IN you_PP use_VVP that_DT thing_NN in_IN 
+here_RB ._SENT 
+K-MASTER_NN :_: I_PP do_VVP n't_RB think_VV that_WDT 'll_MD be_VB necessary_JJ ._SENT Now_RB ,_, outside_RB ._SENT 
+(_( Peri_NP ,_, Amyand_NP and_CC the_DT Doctor_NP leave_NN ._SENT Kamelion-Master_NP closes_VVZ the_DT doors_NNS ._SENT )_) 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+PERI_NN :_: He_PP 's_VBZ let_VV us_PP go_VV ._SENT 
+DOCTOR_NN :_: He_PP needs_VVZ to_TO move_VV his_PP$ Tardis_NP into_IN the_DT circle_NN of_IN flame_NN ._SENT When_WRB the_DT 
+next_JJ surge_NN comes_VVZ ,_, he_PP 'll_MD be_VB surrounded_VVN by_IN restorative_JJ gas_NN ._SENT Amyand_NP ,_, I_NP 
+want_VV you_PP to_TO go_VV back_RB to_TO Turlough_NP and_CC give_VV him_PP this_DT ._SENT 
+(_( The_DT Doctor_NP hands_NNS over_IN the_DT temporal_JJ stabiliser_NN ._SENT )_) 
+PERI_NN :_: Look_VV !_SENT 
+(_( Flames_NNS fill_VVP the_DT tunnel_NN to_TO the_DT surface_NN ._SENT )_) 
+PERI_NN :_: We_PP 're_VBP trapped_VVN ._SENT 
+DOCTOR_NN :_: No_UH ,_, we_PP 're_VBP not_RB ._SENT Amyand_NP ,_, your_PP$ turn_NN to_TO play_VV Logar_NP ._SENT 
+(_( The_DT Doctor_NP gives_VVZ Amyand_NP the_DT last_JJ usable_JJ thermal_JJ suit_NN ._SENT )_) 
+[_SYM Outside_IN the_DT Hall_NP of_IN Fire_NP ]_SYM 
+TURLOUGH_NN :_: Your_PP$ people_NNS must_MD go_VV to_TO the_DT ruin_NN ._SENT 
+SORASTA_NN :_: To_TO the_DT ruin_NN ?_SENT Why_WRB ?_SENT 
+TURLOUGH_NN :_: That_WDT is_VBZ where_WRB the_DT Trion_NN rescue_NN ship_NN will_MD land_VV ._SENT Please_UH ,_, you_PP 
+must_MD hurry_VV ._SENT 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+(_( Amyand_NP puts_VVZ on_IN the_DT helmet_NN ._SENT Now_RB he_PP looks_VVZ like_IN a_DT 
+slimmed_VVN down_IN Sontaran_NP ._SENT )_) 
+PERI_NN :_: Good_JJ luck_NN !_SENT 
+(_( Amyand_NP walks_VVZ out_RP through_IN the_DT flames_NNS and_CC strides_NNS through_IN the_DT 
+lava_NN fields_NNS towards_IN the_DT settlement_NN ._SENT )_) 
+PERI_NN :_: Now_RB what_WP are_VBP you_PP doing_VVG ?_SENT 
+DOCTOR_NN :_: I_PP 'm_VBP trying_VVG to_TO raise_VV some_DT local_JJ radiation_NN ._SENT If_IN I_PP can_MD induce_VV a_DT 
+sympathetic_JJ reaction_NN in_IN Kamelion_NP 's_POS psychocircuits_NNS ,_, he_PP 'll_MD have_VH the_DT 
+electronic_JJ equivalent_NN of_IN a_DT heart_NN attack_NN ._SENT 
+(_( The_DT Master_NP 's_POS Tardis_NP dematerialises_VVZ ._SENT )_) 
+PERI_NN :_: What_WP are_VBP you_PP trying_VVG to_TO do_VV ?_SENT 
+DOCTOR_NN :_: You_PP 'll_MD see_VV ._SENT Now_RB ,_, when_WRB I_PP give_VVP you_PP the_DT word_NN ,_, I_PP want_VVP you_PP to_TO push_VV 
+this_DT control_NN here_RB hard_JJ to_TO its_PP$ end_NN stop_NN ,_, all_DT right_NN ?_SENT Now_RB ,_, get_VV down_RP behind_RB 
+the_DT desk_NN ._SENT 
+(_( The_DT Master_NP 's_POS Tardis_NP materialises_VVZ behind_IN the_DT flames_NNS ._SENT Kamelion-Master_NP 
+comes_VVZ out_RP and_CC puts_VVZ the_DT metal_NN box_NN down_RB in_IN the_DT flames_NNS then_RB points_VVZ the_DT TCE_NP 
+at_IN the_DT Doctor_NP 's_POS back_NN ._SENT )_) 
+K-MASTER_NN :_: Get_VV away_RB from_IN the_DT controls_NNS ._SENT 
+PERI_NN :_: Doctor_NN ._SENT 
+DOCTOR_NN :_: He_PP wo_MD n't_RB dare_VV fire_NN and_CC risk_NN hitting_VVG the_DT control_NN system_NN ._SENT 
+PERI_NN :_: He_PP 's_VBZ a_DT robot_NN ._SENT He_PP 'll_MD just_RB walk_VV through_IN the_DT flame_NN ._SENT 
+DOCTOR_NN :_: I_PP hope_VVP so_RB ._SENT What_WP I_PP 've_VHP prepared_VVN will_MD only_RB work_VV at_IN close_JJ range_NN ._SENT 
+K-MASTER_NN :_: I_PP 've_VHP warned_VVN you_PP ,_, Doctor_NP ._SENT 
+(_( The_DT Doctor_NP turns_VVZ round_NN ,_, holding_VVG two_CD pieces_NNS of_IN equipment_NN ._SENT )_) 
+DOCTOR_NN :_: Just_RB as_IN you_PP say_VVP ._SENT 
+(_( Kamelion-Master_NP walks_VVZ through_IN the_DT flames_NNS towards_IN him_PP ._SENT The_DT Doctor_NP backs_VVZ 
+away_RB ._SENT )_) 
+DOCTOR_NN :_: (_( sotto_NP )_) Keep_VV down_RP ._SENT (_( loud_RB )_) Now_RB !_SENT 
+(_( Peri_NP pushes_VVZ the_DT control_NN and_CC Kamelion-Master_NP clutches_VVZ his_PP$ chest_NN then_RB 
+falls_VVZ to_TO the_DT floor_NN ._SENT The_DT Doctor_NP picks_VVZ up_RP the_DT TCE_NP ._SENT )_) 
+K-FOSTER_NN :_: Kamelion_NN no_RB good_JJ ._SENT Sorry_RB ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP sorry_RB too_RB ,_, Kamelion_NP ._SENT 
+K-FOSTER_NN :_: Destroy_VV me_PP ._SENT Please_UH ._SENT 
+DOCTOR_NN :_: (_( to_TO Peri_NP )_) Get_VVP back_RB ._SENT 
+(_( When_WRB K-Foster_NP morphs_NNS into_IN Kamelion_NP proper_JJ ,_, the_DT Doctor_NP fires_VVZ the_DT TCE_NP at_IN 
+it_PP ._SENT It_PP shrinks_VVZ into_IN a_DT tiny_JJ silver_NN doll_NN ._SENT )_) 
+DOCTOR_NN :_: I_PP must_MD try_VV to_TO control_VV the_DT surge_NN of_IN energy_NN the_DT Master_NP 's_POS 
+programmed_JJ ,_, otherwise_RB the_DT planet_NN could_MD be_VB destroyed_VVN before_IN the_DT Sarns_NP 
+can_MD escape_VV ._SENT 
+PERI_NN :_: How_WRB much_RB longer_RBR do_VVP we_PP have_VHP ?_SENT 
+DOCTOR_NN :_: I_PP do_VVP n't_RB know_VV ._SENT I_PP just_RB hope_VV Amyand_NP get_VV the_DT stabiliser_NN to_TO Turlough_NP 
+in_IN time_NN ._SENT 
+PERI_NN :_: Does_VVZ Turlough_NP know_VV how_WRB to_TO fly_VV the_DT Tardis_NP ?_SENT 
+DOCTOR_NN :_: He_PP does_VVZ n't_RB have_VH to_TO ._SENT It_PP 's_VBZ still_RB linked_VVN with_IN the_DT Master_NP 's_POS ._SENT It_PP 
+should_MD materialise_VV in_IN the_DT same_JJ relationship_NN as_IN the_DT ruin_NN ._SENT 
+[_SYM Hall_NP of_IN Fire_NP ]_SYM 
+TURLOUGH_NN :_: We_PP 're_VBP running_VVG out_RP of_IN time_NN ._SENT You_PP must_MD 
+leave_VV for_IN the_DT landing_NN ground_NN ._SENT 
+TIMANOV_NN :_: Leave_VV us_PP in_IN peace_NN ._SENT We_PP wish_VVP to_TO die_VV with_IN our_PP$ sins_NNS ._SENT 
+(_( Then_RB Amyand_NP enters_VVZ still_RB in_IN full_JJ silver_NN suit_NN ._SENT )_) 
+TIMANOV_NP :_: Logar_NP !_SENT 
+AMYAND_NN :_: On_IN your_PP$ feet_NNS ,_, all_RB of_IN you_PP ._SENT 
+(_( Amyand_NP removes_VVZ his_PP$ helmet_NN ._SENT )_) 
+AMYAND_NN :_: So_RB much_RB for_IN Logar_NP ._SENT 
+TIMANOV_NN :_: Deception_NN ._SENT Another_DT deception_NN ,_, and_CC from_IN a_DT heretic_NN ._SENT 
+TURLOUGH_NP :_: Where_WRB 's_VBZ the_DT Doctor_NP ?_SENT 
+AMYAND_NN :_: Trapped_VVN by_IN the_DT fire_NN ._SENT He_PP said_VVD you_PP must_MD fit_VV this_DT into_IN the_DT Tardis_NP ._SENT 
+
+TURLOUGH_NN :_: The_DT stabiliser_NN ._SENT Quickly_RB ,_, to_TO the_DT ruin_NN !_SENT 
+TIMANOV_NN :_: You_PP will_MD never_RB understand_VV ,_, Amyand_NP ._SENT Logar_NP is_VBZ everywhere_RB ._SENT He_PP 
+cares_VVZ for_IN the_DT faithful_NN ._SENT 
+AMYAND_NN :_: Perhaps_RB that_DT 's_VBZ why_WRB he_PP 's_VBZ in_IN the_DT ship_NN from_IN Trion_NN ._SENT Perhaps_RB he_PP 
+wants_VVZ you_PP to_TO live_VV ._SENT 
+(_( Timanov_NP turns_VVZ his_PP$ back_NN on_IN Amyand_NP 's_POS outstretched_VVN hand_NN ,_, so_IN Amyand_NP 
+leaves_VVZ ._SENT )_) 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+(_( The_DT sleek_JJ Trion_NN spaceship_NN is_VBZ on_IN a_DT monitor_NN ._SENT )_) 
+PERI_NN :_: Now_RB that_DT 's_VBZ what_WP I_PP call_VVP a_DT real_JJ spaceship_NN ._SENT 
+DOCTOR_NN :_: It_PP 's_VBZ no_RB good_JJ to_TO us_PP ._SENT The_DT Tardis_NP is_VBZ the_DT only_JJ way_NN out_RP of_IN here_RB ._SENT 
+Hurry_NN up_RB ,_, Turlough_NP ._SENT 
+[_SYM Ruins_NP ]_SYM 
+CAPTAIN_NN :_: Now_RB ,_, you_PP 're_VBP sure_RB this_DT is_VBZ the_DT 
+last_JJ batch_NN ?_SENT 
+SORASTA_NP :_: Yes_UH ._SENT Yes_UH ,_, it_PP should_MD be_VB ._SENT 
+(_( Turlough_NP runs_VVZ in_IN and_CC goes_VVZ into_IN the_DT Tardis_NP ._SENT )_) 
+CAPTAIN_NN :_: They_PP 've_VHP no_DT option_NN ?_SENT 
+SORASTA_NN :_: They_PP do_VVP n't_RB want_VV to_TO leave_VV their_PP$ own_JJ place_NN ._SENT 
+CAPTAIN_NN :_: Excuse_VV me_PP ._SENT 
+[_SYM Tardis_NP ]_SYM 
+(_( Turlough_NP puts_VVZ the_DT stabiliser_NN into_IN its_PP$ slot_NN ._SENT )_) 
+CAPTAIN_NN :_: It_PP 's_VBZ customary_JJ to_TO salute_VV a_DT senior_JJ officer_NN ,_, Turlough_NP ._SENT 
+TURLOUGH_NN :_: I_PP 'm_VBP very_RB sorry_JJ ,_, but_CC there_EX is_VBZ n't_RB time_NN for_IN that_DT ._SENT 
+CAPTAIN_NN :_: Where_WRB are_VBP you_PP going_VVG ?_SENT 
+TURLOUGH_NN :_: The_DT Tardis_NP is_VBZ on_IN a_DT time-delayed_JJ takeoff_NN ._SENT We_PP have_VHP fifteen_CD 
+seconds_NNS to_TO clear_VV this_DT room_NN ._SENT 
+CAPTAIN_NN :_: Still_RB running_VVG away_RB ?_SENT 
+TURLOUGH_NN :_: If_IN I_PP were_VBD running_VVG away_RB ,_, I_PP would_MD hardly_RB have_VH asked_VVN for_IN a_DT 
+rescue_NN ship_NN from_IN Trion_NN ,_, Captain_NP ._SENT 
+(_( They_PP leave_VVP ,_, the_DT doors_NNS close_NN and_CC the_DT time_NN rotor_NN moves_NNS ._SENT )_) 
+[_SYM Seismic_NP control_NN centre_NN ]_SYM 
+(_( The_DT flame_NN is_VBZ blue_JJ ._SENT )_) 
+PERI_NN :_: Is_VBZ this_DT it_PP ?_SENT 
+(_( The_DT Master_NP grows_VVZ out_RP of_IN the_DT box_NN ._SENT )_) 
+PERI_NN :_: Oh_UH ,_, no._NP 
+(_( The_DT Tardis_NP materialises_VVZ ._SENT )_) 
+DOCTOR_NN :_: Well_RB done_VVN ,_, Turlough_NP ._SENT Quickly_RB ,_, into_IN the_DT Tardis_NP ._SENT 
+(_( Peri_NP runs_VVZ into_IN the_DT Tardis_NP ._SENT )_) 
+MASTER_NN :_: I_PP shall_MD come_VV from_IN this_DT fire_NN a_DT thousand_CD times_NNS stronger_JJR ,_, to_TO hound_VV 
+you_PP to_TO the_DT borders_NNS of_IN the_DT universe_NN ._SENT Bwahahahahaha_NP !_SENT 
+(_( The_DT flames_NNS return_VVP to_TO yellow_VV ._SENT )_) 
+MASTER_NN :_: Oh_UH !_SENT Cancel_VV the_DT ray_NN injection_NN immediately_RB ._SENT Doctor_NN !_SENT I_PP 'll_MD plague_VV 
+you_PP to_TO the_DT end_NN of_IN time_NN for_IN this_DT ._SENT Help_VV me_PP !_SENT I_PP 'll_MD give_VV you_PP anything_NN in_IN 
+creation_NN ._SENT Please_UH !_SENT Wo_MD n't_RB you_PP show_VVP mercy_NN to_TO your_PP$ own_JJ Argh_NP !_SENT !_SENT !_SENT 
+(_( The_DT Master_NP is_VBZ atomised_VVN in_IN the_DT flames_NNS ._SENT The_DT Doctor_NP goes_VVZ into_IN the_DT Tardis_NP 
+and_CC the_DT control_NN panels_NNS start_VVP exploding_VVG ._SENT The_DT Tardis_NP dematerialises_VVZ as_RB 
+the_DT whole_JJ place_NN goes_VVZ KaBOOM_NP !_SENT )_) 
+[_SYM Tardis_NP ]_SYM 
+PERI_NN :_: Doctor_NN ?_SENT Are_VBP you_PP okay_JJ ?_SENT 
+DOCTOR_NN :_: Er_UH ,_, yes_UH ,_, of_IN course_NN ._SENT I_PP 'm_VBP all_DT right_NN ._SENT 
+[_SYM Ruins_NP ]_SYM 
+CAPTAIN_NN :_: We_PP must_MD hurry_VV ._SENT 
+TURLOUGH_NP :_: Am_VBP I_PP under_IN arrest_NN ?_SENT 
+CAPTAIN_NN :_: Do_VVP you_PP wish_VVP to_TO be_VB ?_SENT 
+TURLOUGH_NN :_: I_PP thought_VVD 
+CAPTAIN_NN :_: Things_NNS have_VHP changed_VVN on_IN Trion_NN ._SENT Former_JJ political_JJ prisoners_NNS are_VBP 
+no_RB longer_RBR persecuted_VVN ._SENT You_PP 're_VBP welcome_JJ to_TO return_VV ._SENT 
+(_( The_DT Tardis_NP materialises_VVZ ._SENT )_) 
+CAPTAIN_NN :_: Or_CC not_RB ,_, as_IN you_PP please_VVP ._SENT 
+MALKON_NP :_: Turlough_NP ._SENT 
+CAPTAIN_NN :_: We_PP 'd_MD best_RBS be_VB gone_VVN ._SENT 
+TURLOUGH_NN :_: You_PP go_VVP ._SENT Go_VV on_IN ,_, please_UH ._SENT 
+(_( Malkon_NP leaves_NNS ,_, followed_VVN by_IN Amyand_NP ._SENT The_DT Doctor_NP and_CC Peri_NP come_VVP out_RP ._SENT )_) 
+TURLOUGH_NN :_: My_PP$ exile_NN has_VHZ been_VBN rescinded_VVN ._SENT 
+DOCTOR_NN :_: I_PP 'm_VBP pleased_VVN for_IN you_PP ._SENT 
+TURLOUGH_NN :_: Doctor_NN ,_, I_PP 
+DOCTOR_NN :_: I_PP shall_MD miss_VV you_PP ._SENT 
+TURLOUGH_NN :_: I_PP do_VVP n't_RB want_VV to_TO go_VV ,_, Doctor_NP ._SENT I_PP 've_VHP learnt_VVN a_DT lot_NN from_IN you_PP ._SENT But_CC I_PP 
+have_VHP to_TO go_VV back_RB to_TO Trion_NN ._SENT It_PP 's_VBZ my_PP$ home_NN ._SENT 
+DOCTOR_NN :_: Better_JJR to_TO go_VV back_RB while_IN you_PP 're_VBP a_DT bit_NN of_IN a_DT hero_NN ,_, eh_NP ?_SENT 
+(_( They_PP shake_VVP hands_NNS ._SENT )_) 
+TURLOUGH_NN :_: Thank_VV you_PP for_IN everything_NN ,_, Doctor_NP ._SENT Look_VV after_IN him_PP ,_, wo_MD n't_RB you_PP ?_SENT 
+He_PP gets_VVZ into_IN the_DT most_RBS terrible_JJ trouble_NN ._SENT 
+PERI_NN :_: Well_RB ,_, I_PP 
+(_( Turlough_NP leaves_VVZ with_IN the_DT Captain_NP ._SENT )_) 
+DOCTOR_NN :_: Well_RB ,_, I_PP should_MD get_VV you_PP home_NN ._SENT 
+PERI_NN :_: Oh_UH ,_, must_MD you_PP ?_SENT 
+DOCTOR_NN :_: Oh_UH ,_, yes_UH ._SENT Your_PP$ friends_NNS will_MD be_VB worried_VVN ._SENT 
+[_SYM Tardis_NP ]_SYM 
+PERI_NN :_: It_PP 's_VBZ funny_JJ ,_, but_CC just_RB before_IN I_PP met_VVD you_PP I_PP was_VBD 
+saying_VVG I_PP wanted_VVD to_TO travel_VV ,_, and_CC I_PP 've_VHP still_RB got_VVN three_CD months_NNS of_IN my_PP$ 
+vacation_NN left_VVD ._SENT 
+DOCTOR_NN :_: And_CC you_PP want_VVP to_TO travel_VV with_IN me_PP ._SENT 
+PERI_NN :_: Is_VBZ that_IN/that an_DT invitation_NN ?_SENT 
+DOCTOR_NN :_: Actually_RB ,_, it_PP was_VBD a_DT question_NN ._SENT 
+PERI_NN :_: May_MD I_PP ?_SENT 
+DOCTOR_NN :_: Three_CD months_NNS ,_, you_PP say_VVP ?_SENT 
+PERI_NN :_: That_WDT 's_VBZ right_JJ ._SENT 
+DOCTOR_NN :_: All_DT right_NN ._SENT Why_WRB not_RB ._SENT 
+(_( The_DT Tardis_NP jerks_NNS and_CC they_PP grab_VVP the_DT console_NN ._SENT )_) 
+DOCTOR_NN :_: Welcome_VV aboard_RB ,_, Peri_NP ._SENT 
+
