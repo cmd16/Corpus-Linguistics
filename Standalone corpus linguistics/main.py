@@ -78,7 +78,6 @@ def tag_directory(in_dir, out_dir, walk=False, restart="", end=""):
             os.replace("temp.txt", filename)
             tagger.tag_file_to(filename, os.path.join(out_dir, filename[:len(filename)-4] + "_tagged.txt"))
             print("tagged file after removing html")
-
     os.chdir(original_dir)  # change back in case later methods need to be in this directory
 
 
@@ -212,8 +211,8 @@ def store_taglemma_results(tag_lemma, filename="Parts of Speech Spreadsheet", so
             try:
                 ws.cell(row=row, column=col).value = word
             except openpyxl.utils.exceptions.IllegalCharacterError:
-                word = input(word + " invalid. New value: ")
-                ws.cell(row=row, column=col).value = word
+                # word = input(word + " invalid. New value: ")
+                ws.cell(row=row, column=col).value = "IllegalCharacterError"
             ws.cell(row=row, column=col+1).value = entry_list[idx][1]  # frequency
         if not filename.endswith(".xlsx"):  # save the spreadsheet after each POS (in case of crash)
             wb.save(filename + ".xlsx")  # add the type extension if not included
@@ -235,8 +234,8 @@ def store_taglemma_results(tag_lemma, filename="Parts of Speech Spreadsheet", so
         try:
             ws.cell(row=row, column=endcol).value = lemma
         except openpyxl.utils.exceptions.IllegalCharacterError:
-            lemma = input(lemma + " invalid. New value: ")
-            ws.cell(row=row, column=endcol).value = lemma
+            # lemma = input(lemma + " invalid. New value: ")
+            ws.cell(row=row, column=endcol).value = "IllegalCharacterError"
         ws.cell(row=row, column=endcol + 1).value = lemma_list[idx][1]  # frequency
     if not filename.endswith(".xlsx"):  # save the spreadsheet
         wb.save(filename + ".xlsx")  # add the type extension if not included
@@ -422,7 +421,7 @@ def store_keyword(keyword_dict, filename="Keyword Spreasheet.xlsx", sort="keynes
 project_dir = "/Volumes/CDJ_disk/Final_Project"
 
 
-def sherlock_main():
+def sherlock_tag():
     """tag_directory(os.path.join(project_dir, "Fanfiction/Sherlock/Sherlock works En"), os.path.join(project_dir,  # removed 5825911 it's a tutorial
             "Tagged Sherlock"), restart="695066.txt")  # skip 2208000, skip 3538460"""
     tag_lemma = tag_lemma_from_tree_directory(os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Sherlock"))
@@ -445,24 +444,32 @@ def doctor_who_tag():
 
 
 def lotr_tag():
-    tag_directory(os.path.join(project_dir, "Fanfiction/Lotr/Lotr works"),
-                  os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Tolkien"), restart="3403703.txt")  # skipped 2208000, 3403682
+    # tag_directory(os.path.join(project_dir, "Fanfiction/Lotr/Lotr works"), os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Tolkien"), restart="3403703.txt")  # skipped 2208000, 3403682
     tag_lemma = tag_lemma_from_tree_directory(os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Tolkien"))
     store_taglemma_results(tag_lemma, filename=os.path.join(project_dir, "Antconc results/Tag results/Tag Fanfic/Tolkien POS Lemma.xlsx"))
 
 
 def hamilton_tag():
-    tag_directory(os.path.join(project_dir, "Fanfiction/Hamilton/Hamilton works"),
-                  os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Hamilton"), restart="8015692.txt")  # skip 8014951
+    # tag_directory(os.path.join(project_dir, "Fanfiction/Hamilton/Hamilton works"), os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Hamilton"), restart="8015692.txt")  # skip 8014951
     tag_lemma = tag_lemma_from_tree_directory(os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Hamilton"))
     store_taglemma_results(tag_lemma, filename=os.path.join(project_dir, "Antconc results/Tag results/Tag Fanfic/Hamilton POS Lemma.xlsx"))
 
+def les_mis_tag():
+    tag_lemma = tag_lemma_from_tree_directory(os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Les Mis"))
+    store_taglemma_results(tag_lemma, filename=os.path.join(project_dir, "Antconc results/Tag results/Tag Fanfic/Les Mis POS Lemma.xlsx"))
 
 def undertale_freq():
     freqdist = freq_from_txt("Undertale Text (not arranged).txt")
     pprint.pprint(freqdist.most_common())
     freqdist_to_wordlistfile(freqdist, "Undertale wordlist.txt")
 
+def fanfic_tag():
+    sherlock_tag()
+    doctor_who_tag()
+    undertale_tag()
+    lotr_tag()
+    hamilton_tag()
+    les_mis_tag()
 
 def original_canon_freq():
     originaldir = os.getcwd()
@@ -511,7 +518,7 @@ def original_canon_poslemma():
         if dirname.startswith("Tagged"):
             tag_lemma = tag_lemma_from_tree_directory(os.path.join(current, dirname), walk=True)
             store_taglemma_results(tag_lemma, filename=os.path.join(project_dir,
-                                                                    "Antconc results/Tag results/Tag Original Canon/") + dirname.replace("Tagged", "Tag") + "POS Lemma.xlsx")
+                                                                    "Antconc results/Tag results/Tag Original Canon/") + dirname.replace("Tagged", "Tag") + " POS Lemma.xlsx")
     os.chdir(originaldir)
 
 
@@ -539,4 +546,4 @@ def clean_fanfic():
                 clean_tagged(os.path.join(path, filename), os.path.join(fanfic_path, filename.replace("_tagged","")), logfile)
             logfile.close()
 
-tag_directory(os.path.join(project_dir, "Fanfiction/Doctor Who/Doctor Who works"), os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Doctor Who"), end="10544770.txt")  # error 108673, do 108674
+# tag_directory(os.path.join(project_dir, "Fanfiction/Doctor Who/Doctor Who works"), os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Doctor Who"), end="10544770.txt")  # error 108673, do 108674
