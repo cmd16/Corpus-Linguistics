@@ -370,6 +370,7 @@ def freqdist_to_excel(freqdist, filename):
         ws.cell(row=rownum, col=2).value = tup[1]
         # ws.cell(row=rownum, col=3).value = freqdist.freq[tup[0]] / 10000 # uncomment this for more data but it will go slower
 
+
 def normalize_count_permillion(frequency, total):
     return frequency * 1000000 / total
 
@@ -395,7 +396,7 @@ def keyword_analysis_from_wordlists(corpus1name, corpus2name):
         line = line.split()
         freqdist2[line[2]] = line[1]  # store the word and its frequency
     corpus2.close()
-    keyword_dict = {}  # {word: (frequency, keyness)}  # TODO: implement effect
+    keyword_dict = {}  # {word: (frequency1, normalizedfreq1, freq2, normalizedfreq2, keyness)}  # TODO: implement effect
     # start reading corpus1
     corpus1 = open(corpus1name)
     types1 = int(next(corpus1)[13:])
@@ -433,7 +434,7 @@ def store_keyword(keyword_tuple, filename="Keyword Spreasheet.xlsx", sort="keyne
     ws = wb.active  # get a handle to the sheet in the workbook
     # ws['A1'] = "Keyword Spreadsheet"
     for idx in range(3):
-        ws.cell(row=1, column=idx-1).value = corpus1_stats[idx]
+        ws.cell(row=1, column=idx + 1).value = corpus1_stats[idx]
         ws.cell(row=1, column= idx + 4).value = corpus2_stats[idx]
     ws.cell(row=2, column=1).value = "Word"
     ws.cell(row=2, column=2).value = "Frequency 1"
@@ -444,21 +445,35 @@ def store_keyword(keyword_tuple, filename="Keyword Spreasheet.xlsx", sort="keyne
     entry_list = []
     for item in keyword_dict.items():
         word = item[0]
-        entry_list.append((word, keyword_dict[word][0], keyword_dict[word][1]))  # frequency, keyness
+        stats = item[1]
+        freq1 = stats[0]  # all of the stats numbers shift over 1 when you move the thing
+        normalize_freq1 = stats[1]
+        freq2 = stats[2]
+        normalize_freq2 = stats[3]
+        keyness = stats[4]
+        entry_list.append((word, freq1, normalize_freq1, freq2, normalize_freq2, keyness))  # frequency1, keyness
     if sort == "keynesshi":
-        entry_list.sort(key=operator.itemgetter(2), reverse=True)
+        entry_list.sort(key=operator.itemgetter(5), reverse=True)
     else:  # TODO implement other sorting later
-        entry_list.sort(key=operator.itemgetter(2), reverse=True)
+        entry_list.sort(key=operator.itemgetter(5), reverse=True)
     for row in range(3, len(entry_list) + 3):
         idx = row - 3
         word = entry_list[idx][0]
+        freq1 = entry_list[idx][1]  # all of the stats numbers shift over 1 when you move the thing
+        normalize_freq1 = entry_list[idx][2]
+        freq2 = entry_list[idx][3]
+        normalize_freq2 = entry_list[idx][4]
+        keyness = entry_list[idx][5]
         try:
             ws.cell(row=row, column=1).value = word
         except openpyxl.utils.exceptions.IllegalCharacterError:
             word = input(word + " invalid. New value: ")
             ws.cell(row=row, column=1).value = word
-        ws.cell(row=row, column=2).value = int(entry_list[idx][1])  # store frequency
-        ws.cell(row=row, column=3).value = int(entry_list[idx][2])  # store keyness
+        ws.cell(row=row, column=2).value = freq1  # store frequency
+        ws.cell(row=row, column=3).value = normalize_freq1
+        ws.cell(row=row, column=4).value = freq2
+        ws.cell(row=row, column=5).value = normalize_freq2
+        ws.cell(row=row, column=6).value = keyness
     if not filename.endswith(".xlsx"):
         wb.save(filename + ".xlsx")  # add the type extension if not included
     else:
