@@ -344,9 +344,24 @@ def freqdist_to_wordlistfile(freqdist, filename):
             rank += 1
 
 
+def wordlist_to_freqdist(corpusname):
+    corpus = open(corpusname)
+    types = int(next(corpus)[13:])
+    tokens = int(next(corpus)[14:])
+    next(corpus)
+    # load corpus into a FreqDist
+    freqdist1 = nltk.FreqDist()
+    for line in corpus:
+        line = line.split()
+        freqdist1[line[2]] = line[1]  # store the word and its frequency
+    corpus.close()
+    return freqdist1, types, tokens
+
+
 # TODO: wordlist to freqdist. Then method combine_wordlists, which calls wordlist to freqdist for each wordlist
-def combine_wordlists():
+def combine_wordlists(wordlists):
     pass
+
 
 def freqdist_to_excel(freqdist, filename):
     """
@@ -390,16 +405,7 @@ def keyword_analysis_from_wordlists(corpus1name, corpus2name):
     :return: a dictionary containing the words and their frequencies, keynesses, and effects. Now it is a tuple containing that dictionary and the types and tokens
     """
     print("keyword analysis from", corpus1name, "to", corpus2name)
-    corpus2 = open(corpus2name)
-    types2 = int(next(corpus2)[13:])
-    tokens2 = int(next(corpus2)[14:])
-    next(corpus2)
-    # load corpus2 into a FreqDist
-    freqdist2 = nltk.FreqDist()
-    for line in corpus2:
-        line = line.split()
-        freqdist2[line[2]] = line[1]  # store the word and its frequency
-    corpus2.close()
+    freqdist2, types2, tokens2 = wordlist_to_freqdist(corpus2name)
     keyword_dict = {}  # {word: (frequency1, normalizedfreq1, freq2, normalizedfreq2, keyness)}  # TODO: implement effect
     # start reading corpus1
     corpus1 = open(corpus1name)
@@ -423,7 +429,7 @@ def keyword_analysis_from_wordlists(corpus1name, corpus2name):
     return keyword_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2]
 
 
-def store_keyword(keyword_tuple, filename="Keyword Spreasheet.xlsx", sort="keynesshi"):
+def store_keyword(keyword_tuple, filename="Keyword Spreadsheet.xlsx", sort="keynesshi"):
     """
     Store a keyword dict to a spreadsheet
     :param keyword_dict: a keyword dict { word: (frequency, keyness)
@@ -595,10 +601,11 @@ def clean_tagged(name_to_clean, originalfilename, logtxt):
             logtxt.write(name_to_clean + "\n")
             tagger.tag_file_to(originalfilename, name_to_clean, notagurl=True, notagemail=True, notagip=True, notagdns=True)
 
-tagsdir = os.path.join(project_dir, "Tag")
+
 
 
 def clean_fanfic():
+    tagsdir = os.path.join(project_dir, "Tag")
     for item in os.walk(tagsdir):
         path = item[0]
         filenames = item[2]
