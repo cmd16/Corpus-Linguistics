@@ -344,6 +344,10 @@ def freqdist_to_wordlistfile(freqdist, filename):
             rank += 1
 
 
+# TODO: wordlist to freqdist. Then method combine_wordlists, which calls wordlist to freqdist for each wordlist
+def combine_wordlists():
+    pass
+
 def freqdist_to_excel(freqdist, filename):
     """
     Store the results of a frequency distribution in an excel spreadsheet
@@ -441,7 +445,7 @@ def store_keyword(keyword_tuple, filename="Keyword Spreasheet.xlsx", sort="keyne
     ws.cell(row=2, column=3).value = "Normalized frequency 1"
     ws.cell(row=2, column=4).value = "Frequency 2"
     ws.cell(row=2, column=5).value = "Normalized frequency 2"
-    ws.cell(row=2, column=5).value = "Keyness"
+    ws.cell(row=2, column=6).value = "Keyness"  # fixed error
     entry_list = []
     for item in keyword_dict.items():
         word = item[0]
@@ -640,7 +644,7 @@ def keyword_analysis_both():
         print(fanfic_wordlist)
         fanfic_wordlist_path = os.path.join(results_dir, "Ant Fanfic/Fanfic wordlists/" + fanfic_wordlist )
         canon_wordlist_path = os.path.join(results_dir, "Ant Original Canon/Original Canon wordlists/" + fanfic_wordlist.replace("Fanfic", "Original Canon"))
-        fandom = fanfic_wordlist[:fanfic_wordlist.index("wordlist") - 1]
+        fandom = fanfic_wordlist[:fanfic_wordlist.index("Fanfic") - 1]
         fanfic_to_canon = keyword_analysis_from_wordlists(fanfic_wordlist_path, canon_wordlist_path)
         store_keyword(fanfic_to_canon, fandom + " Fanfic vs Canon.xlsx")
         canon_to_fanfic = keyword_analysis_from_wordlists(canon_wordlist_path, fanfic_wordlist_path)
