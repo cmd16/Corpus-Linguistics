@@ -353,14 +353,39 @@ def wordlist_to_freqdist(corpusname):
     freqdist1 = nltk.FreqDist()
     for line in corpus:
         line = line.split()
-        freqdist1[line[2]] = line[1]  # store the word and its frequency
+        freqdist1[line[2]] = int(line[1])  # store the word and its frequency
     corpus.close()
     return freqdist1, types, tokens
 
 
-# TODO: wordlist to freqdist. Then method combine_wordlists, which calls wordlist to freqdist for each wordlist
-def combine_wordlists(wordlists):
-    pass
+def combine_wordlists_to_freqdist(wordlists):
+    """
+    Return a freqdist that is the combination of several wordlists
+    :param wordlists: a list of wordlist filenames
+    :return: Return a freqdist that is the combination of several wordlists
+    """
+    print("combining wordlists")
+    freqdist = nltk.FreqDist()
+    for wordlist in wordlists:
+        this_freqdist = wordlist_to_freqdist(wordlist)[0]
+        freqdist.update(this_freqdist)
+    return freqdist
+
+
+def combine_wordlists_to_freqdist_normalized(wordlists):
+    """
+    NOTE: THIS FUNCTION DOESN'T WORK RIGHT YET
+    :param wordlists:
+    :return:
+    """
+    print("combining wordlists normalized")
+    freqdist = nltk.FreqDist()
+    for wordlist in wordlists:
+        this_freqdist, types, tokens = wordlist_to_freqdist(wordlist)
+        for word in this_freqdist:
+            this_freqdist[word] = normalize_count_permillion(this_freqdist[word], tokens)  # normalize the frequency
+        freqdist.update(this_freqdist)
+    return freqdist
 
 
 def freqdist_to_excel(freqdist, filename):
@@ -657,4 +682,22 @@ def keyword_analysis_both():
         canon_to_fanfic = keyword_analysis_from_wordlists(canon_wordlist_path, fanfic_wordlist_path)
         store_keyword(canon_to_fanfic, fandom + " Canon vs Fanfic.xlsx")
 
-keyword_analysis_both()
+
+def fanfic_wordlist():
+    originaldir = os.getcwd()
+    fanfic_wordlist_dir = os.path.join(project_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists")
+    os.chdir(fanfic_wordlist_dir)
+    freqdist = combine_wordlists_to_freqdist(os.listdir(fanfic_wordlist_dir))
+    freqdist_to_wordlistfile(freqdist, "Fanfiction wordlist.txt")
+    os.chdir(originaldir)
+
+
+def fanfic_normalized_wordlist():
+    originaldir = os.getcwd()
+    fanfic_wordlist_dir = os.path.join(project_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists")
+    os.chdir(fanfic_wordlist_dir)
+    freqdist = combine_wordlists_to_freqdist_normalized(os.listdir(fanfic_wordlist_dir))
+    freqdist_to_wordlistfile(freqdist, "Fanfiction normalized wordlist.txt")
+    os.chdir(originaldir)
+
+fanfic_normalized_wordlist()
