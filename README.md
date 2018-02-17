@@ -49,3 +49,33 @@ A repository to store the scripts I write to make corpus linguistics (analyzing 
         </ul>
     </li>
 </ul>
+
+<h3>Standalone corpus linguistics</h3>
+<ul>
+    <li>
+        Corpus linguistics programs that use nltk and treetagger but are not dependent on AntConc or TagAnt (no preprocessing required)
+    </li>
+    <li>
+        This allows:
+        <ul>
+            <li>Calculating and storing word frequencies</li>
+            <li>Keyword analysis</li>
+            <li>Part of speech tagging and lemmatizing</li>
+            <li>Aggregating data from multiple files (individually specify or give a directory)</li>
+        </ul>
+    </li>
+    <li>
+        Dependencies:
+        <ul>
+            <li>openpyxl</li>
+            <li>nltk</li>
+            <li>treetagger and treetaggerwrapper</li>
+        </ul>
+    </li>
+    <li>
+        Note:
+            <ul>
+                <li>Some functions (everything after store_keyword) are for my own personal use and will not work for you unless your filesystem is identical to mine.</li>
+            </ul>
+    </li>
+</ul>
