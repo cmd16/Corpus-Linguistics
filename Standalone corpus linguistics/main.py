@@ -9,6 +9,7 @@ import math
 import re
 import time
 
+# TODO: HAVE PAST VS PAST PARTICIPLE
 #1) build a TreeTagger wrapper:
 tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
 tree_taglist = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NP', 'NPS', 'PDT', 'POS',
@@ -28,6 +29,7 @@ tree_tagdefs = {"CC": "coordinating conjuction", "CD": "cardinal number", "DT": 
                 'VVP': "verb, present non-3rd person", 'VVZ': "verb, present 3rd person singular", 'WDT': "wh-determiner",
                 'WP': "wh-pronoun", 'WP$': "possessive wh-pronoun", 'WRB': "wh-adverb", ':' : "general joiner",
                 '$': "currency symbol", ',':",", '(':"(", ')':")", "''":"quotation marks", "NONE": "miscellaneous"}
+
 
 # TODO: MODIFY THE CALL TO TAGFILE
 def tag_directory(in_dir, out_dir, walk=False, restart="", end=""):
@@ -344,8 +346,14 @@ def freqdist_to_wordlistfile(freqdist, filename):
             rank += 1
 
 
-def wordlist_to_freqdist(corpusname):
-    corpus = open(corpusname)
+def wordlist_to_freqdist(wordlist_file):
+    """
+    Given a wordlist return a frequency distribution as well as the number of types and tokens
+    :param wordlist_file: a .txt file generated from AntConc or freqdist_to_wordlistfile. Line 1 has the number of types,
+    line 2 the number of tokens, and lines 4-end are in the format "rank\tword\tfrequency"
+    :return: a frequency distribution (word frequencies), the number of types, and the number of tokens
+    """
+    corpus = open(wordlist_file)
     types = int(next(corpus)[13:])
     tokens = int(next(corpus)[14:])
     next(corpus)
@@ -391,8 +399,8 @@ def combine_wordlists_to_freqdist_normalized(wordlists):
 def freqdist_to_excel(freqdist, filename):
     """
     Store the results of a frequency distribution in an excel spreadsheet
-    :param freqdist:
-    :param filename:
+    :param freqdist: a frequency distribution with word frequencies, generated using
+    :param filename: an excel filename to store the results in
     :return:
     """
     tokens = freqdist.N()
@@ -412,11 +420,18 @@ def freqdist_to_excel(freqdist, filename):
         tup = entries[rownum - 3]  # a tuple with word, frequency, percentage (/10000 to get per million)
         ws.cell(row=rownum, col=1).value = tup[0]
         ws.cell(row=rownum, col=2).value = tup[1]
+    wb.save(filename)
         # ws.cell(row=rownum, col=3).value = freqdist.freq[tup[0]] / 10000 # uncomment this for more data but it will go slower
 
 
-def normalize_count_permillion(frequency, total):
-    return frequency * 1000000 / total
+def normalize_count_permillion(frequency, size):
+    """
+    Normalize a frequency given the frequency and the size
+    :param frequency: frequency
+    :param size: the size of the data (e.g., number of words in the corpus)
+    :return: frequency per million
+    """
+    return frequency * 1000000 / size
 
 
 def keyword_analysis_from_wordlists(corpus1name, corpus2name):
@@ -446,7 +461,7 @@ def keyword_analysis_from_wordlists(corpus1name, corpus2name):
         E1 = tokens1 * num
         E2 = tokens2 * num
         try:
-            keyness = 2 * (freq1 * math.log(freq1/E1) + (freq2 * math.log(freq2/E2)))  # TODO: try except
+            keyness = 2 * (freq1 * math.log(freq1/E1) + (freq2 * math.log(freq2/E2)))
         except ValueError:
             keyness = 2 * (freq1 * math.log(freq1/E1))  # the second part equals 0
         keyword_dict[word] = (freq1, normalize_count_permillion(freq1, tokens1), freq2, normalize_count_permillion(freq2, tokens2), keyness)
@@ -542,7 +557,7 @@ def doctor_who_tag():
 def lotr_tag():
     # tag_directory(os.path.join(project_dir, "Fanfiction/Lotr/Lotr works"), os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Tolkien"), restart="3403703.txt")  # skipped 2208000, 3403682
     tag_lemma = tag_lemma_from_tree_directory(os.path.join(project_dir, "Tag/Tag Fanfic/Tagged Tolkien"))
-    store_taglemma_results(tag_lemma, filename=os.path.join(project_dir, "Antconc results/Tag results/Tag Fanfic/Tolkien POS Lemma.xlsx"))
+    store_taglemma_results(tag_lemma, filename=os.path.join(project_dir, "Antconc results/Tag results/Tag Fanfic/Tolkien POS Lemma2.xlsx"))
 
 
 def hamilton_tag():
@@ -700,4 +715,9 @@ def fanfic_normalized_wordlist():
     freqdist_to_wordlistfile(freqdist, "Fanfiction normalized wordlist.txt")
     os.chdir(originaldir)
 
-fanfic_normalized_wordlist()
+def lotr_canon_tag():
+    tag_lemma = tag_lemma_from_tree_directory(os.path.join(project_dir, "Tag/Tag Original Canon/Tagged Tolkien"), walk=True)
+    store_taglemma_results(tag_lemma, filename=os.path.join(project_dir,
+                                                            "Antconc results/Tag results/Tag Original Canon/Original Canon POS Lemma/Tolkien POS Lemma2.xlsx"))
+
+lotr_canon_tag()
