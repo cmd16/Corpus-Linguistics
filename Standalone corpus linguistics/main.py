@@ -867,11 +867,11 @@ def year_wordlists(proj_dir):
 
 
 def wordnum_wordlists(proj_dir):
-    range_tuples = [(1, 100), (1, 1000), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000), (50001, 100000),
+    range_tuples = [(1, 100), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000), (50001, 100000),
                     (10000, 100000), (100001, 500000), (500001, 1000000), (100001, 1000000)]
-    range_tuples = [(1, 1000)]  # to fix previous. TODO: remove this
+    # range_tuples = [(1, 1000)]  # to fix previous. TODO: add back later
     for rtuple in range_tuples:
-        if rtuple in [(1, 100), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000)]:  # TODO: change this
+        if rtuple in [(1, 100), (1, 1000), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000)]:  # TODO: change this
             continue
         print("DW", rtuple)
         freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Doctor Who %d-%d.txt" % (rtuple[0], rtuple[1])),
@@ -984,48 +984,100 @@ def fandom_group_wordlists(proj_dir):
 
 def category_keywords(proj_dir):
     categories = ["FM", "MM", "FF", "Gen", "Multi", "Other"]
+    comparisons = [("MM", "FM"), ("FM", "MM"), ("FF", "FM"), ("FM", "FF"), ("MM", "FF"), ("FF", "MM"), ("FM", "Gen"),
+                   ("Gen", "FM"), ("MM", "Gen"), ("Gen", "MM")]
     for category in categories:
         print("DW", categories)
-        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt") % category,
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % category),
                                                     os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                                            "Doctor Who Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Doctor Who_%s vs fanfic_python.txt") % category)
+    for comparison in comparisons:
+        print("DW", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Doctor Who_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for category in categories:
         print("H", categories)
-        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt") % category,
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % category),
                                                     os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                        "Hamilton Fanfic wordlist.txt"))
-        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Hamilton_%s vs fanfic_python.txt") % category)
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Hamilton_%s vs fanfic_python.txt" % category))
+    for comparison in comparisons:
+        print("H", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Hamilton_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for category in categories:
         print("LM", categories)
-        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt") % category,
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % category),
                                                     os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                        "Les Mis Fanfic wordlist.txt"))
-        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Les Mis_%s vs fanfic_python.txt") % category)
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Les Mis_%s vs fanfic_python.txt" % category))
+    for comparison in comparisons:
+        print("LM", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Les Mis_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for category in categories:
         print("SH", categories)
-        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt") % category,
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % category),
                                                     os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                        "Sherlock Fanfic wordlist.txt"))
-        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Sherlock_%s vs fanfic_python.txt") % category)
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Sherlock_%s vs fanfic_python.txt" % category))
+    for comparison in comparisons:
+        print("SH", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Sherlock_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for category in categories:
         print("ST", categories)
-        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt") % category,
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % category),
                                                     os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                        "Star Trek Fanfic wordlist.txt"))
-        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Star Trek_%s vs fanfic_python.txt") % category)
+    for comparison in comparisons:
+        print("ST", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Star Trek_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Star Trek_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for category in categories:
         print("T", categories)
-        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt") % category,
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % category),
                                                     os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                        "Tolkien Fanfic wordlist.txt"))
-        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Tolkien_%s vs fanfic_python.txt") % category)
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Tolkien_%s vs fanfic_python.txt" % category))
+    for comparison in comparisons:
+        print("T", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Tolkien_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for category in categories:
         print("U", categories)
-        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt") % category,
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % category),
                                                     os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                        "Undertale Fanfic wordlist.txt"))
-        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Undertale_%s vs fanfic_python.txt") % category)
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Undertale_%s vs fanfic_python.txt" % category))
+    for comparison in comparisons:
+        print("U", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Undertale_%s vs %s_python.txt" % (comparison[0], comparison[1])))
 
 
 def au_keywords(proj_dir):
@@ -1069,6 +1121,12 @@ def au_keywords(proj_dir):
 
 def tags_keywords(proj_dir):
     tags_to_check = ["Fluff", "Angst", "Humor", "Romance", "Hurt Comfort", "Established", "Friendship", "Crack"]
+    comparisons = [("Fluff", "Angst"), ("Angst", "Fluff"), ("Fluff", "Humor"), ("Humor", "Fluff"), ("Fluff", "Romance"),
+                   ("Romance", "Fluff"), ("Fluff", "Hurt Comfort"), ("Hurt Comfort", "Fluff"), ("Fluff", "Established"),
+                   ("Established", "Fluff"), ("Fluff", "Friendship"), ("Friendship", "Fluff"), ("Fluff", "Crack"),
+                   ("Crack", "Fluff"), ("Angst", "Humor"), ("Angst", "Hurt Comfort"), ("Hurt Comfort", "Angst"),
+                   ("Humor", "Crack"), ("Crack", "Humor"), ("Romance", "Friendship"), ("Friendship", "Romance"),
+                   ("Romance", "Established"), ("Established", "Romance")]
     for tag in tags_to_check:
         print("DW", tag)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % tag),
@@ -1076,6 +1134,13 @@ def tags_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Doctor Who Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Doctor Who_%s vs fanfic_python.txt" %tag))
+    for comparison in comparisons:
+        print("DW", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Doctor Who_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for tag in tags_to_check:
         print("H", tag)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % tag),
@@ -1083,6 +1148,13 @@ def tags_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Hamilton Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Hamilton_%s vs fanfic_python.txt" %tag))
+    for comparison in comparisons:
+        print("H", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Hamilton_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for tag in tags_to_check:
         print("LM", tag)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % tag),
@@ -1090,6 +1162,13 @@ def tags_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Les Mis Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Les Mis_%s vs fanfic_python.txt" %tag))
+    for comparison in comparisons:
+        print("LM", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Les Mis_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for tag in tags_to_check:
         print("SH", tag)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % tag),
@@ -1097,6 +1176,13 @@ def tags_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Sherlock Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Sherlock_%s vs fanfic_python.txt" %tag))
+    for comparison in comparisons:
+        print("SH", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Sherlock_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for tag in tags_to_check:
         print("ST", tag)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % tag),
@@ -1104,6 +1190,13 @@ def tags_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Star Trek Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Star Trek_%s vs fanfic_python.txt" %tag))
+    for comparison in comparisons:
+        print("ST", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Star Trek_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for tag in tags_to_check:
         print("T", tag)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % tag),
@@ -1111,6 +1204,13 @@ def tags_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Tolkien Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Tolkien_%s vs fanfic_python.txt" %tag))
+    for comparison in comparisons:
+        print("T", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Tolkien_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for tag in tags_to_check:
         print("U", tag)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % tag),
@@ -1118,10 +1218,18 @@ def tags_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Undertale Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Undertale_%s vs fanfic_python.txt" %tag))
+    for comparison in comparisons:
+        print("U", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Undertale_%s vs %s_python.txt" % (comparison[0], comparison[1])))
 
 
 def status_keywords(proj_dir):
     statuses = ["Completed", "Updated"]
+    comparisons = [("Completed", "Updated"), ("Updated", "Completed")]
     for status in statuses:
         print("DW", status)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % status),
@@ -1129,6 +1237,13 @@ def status_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Doctor Who Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Doctor Who_%s vs fanfic_python.txt" %status))
+    for comparison in comparisons:
+        print("DW", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Doctor Who_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for status in statuses:
         print("H", status)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % status),
@@ -1136,6 +1251,13 @@ def status_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Hamilton Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Hamilton_%s vs fanfic_python.txt" %status))
+    for comparison in comparisons:
+        print("H", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Hamilton_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for status in statuses:
         print("LM", status)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % status),
@@ -1143,6 +1265,13 @@ def status_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Les Mis Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Les Mis_%s vs fanfic_python.txt" %status))
+    for comparison in comparisons:
+        print("LM", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Les Mis_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for status in statuses:
         print("SH", status)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % status),
@@ -1150,6 +1279,13 @@ def status_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Sherlock Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Sherlock_%s vs fanfic_python.txt" %status))
+    for comparison in comparisons:
+        print("SH", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Sherlock_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for status in statuses:
         print("ST", status)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % status),
@@ -1157,6 +1293,13 @@ def status_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Star Trek Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Star Trek_%s vs fanfic_python.txt" %status))
+    for comparison in comparisons:
+        print("ST", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Star Trek_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for status in statuses:
         print("T", status)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % status),
@@ -1164,6 +1307,13 @@ def status_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Tolkien Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Tolkien_%s vs fanfic_python.txt" %status))
+    for comparison in comparisons:
+        print("T", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Tolkien_%s vs %s_python.txt" % (comparison[0], comparison[1])))
     for status in statuses:
         print("U", status)
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % status),
@@ -1171,6 +1321,358 @@ def status_keywords(proj_dir):
                                                              "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                                                              "Undertale Fanfic wordlist.txt"))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Undertale_%s vs fanfic_python.txt" %status))
+    for comparison in comparisons:
+        print("U", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir, "Keywords/Undertale_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+
+
+def year_keywords(proj_dir):
+    years = [str(x) for x in range (2009, 2019)]
+    comparisons = []  # TODO: add comparisons later maybe?
+    for year in years:
+        print("DW", year)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % year),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Doctor Who Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Doctor Who_%s vs fanfic_python.txt" % year))
+    for comparison in comparisons:
+        print("DW", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Doctor Who_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for year in years:
+        print("H", year)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % year),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Hamilton Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Hamilton_%s vs fanfic_python.txt" % year))
+    for comparison in comparisons:
+        print("H", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Hamilton_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for year in years:
+        print("LM", year)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % year),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Les Mis Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Les Mis_%s vs fanfic_python.txt" % year))
+    for comparison in comparisons:
+        print("LM", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Les Mis_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for year in years:
+        print("SH", year)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % year),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Sherlock Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Sherlock_%s vs fanfic_python.txt" % year))
+    for comparison in comparisons:
+        print("SH", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Sherlock_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for year in years:
+        print("ST", year)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % year),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Star Trek Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Star Trek_%s vs fanfic_python.txt" % year))
+    for comparison in comparisons:
+        print("ST", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Star Trek_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for year in years:
+        print("T", year)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % year),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Tolkien Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Tolkien_%s vs fanfic_python.txt" % year))
+    for comparison in comparisons:
+        print("T", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Doctor Who_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for year in years:
+        print("U", year)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % year),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Undertale Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Undertale_%s vs fanfic_python.txt" % year))
+    for comparison in comparisons:
+        print("U", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Undertale_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+
+
+def wordnum_keywords(proj_dir):
+    wordnums = ["%d-%d" % (x, y) for x, y in [(1, 100), (1, 1000), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000), (50001, 100000), (10000, 100000),
+                   (100001, 500000), (500001, 1000000), (100001, 1000000)]]
+    comparisons = []  # TODO: add comparisons
+    for wordnum in wordnums:
+        print("DW", wordnum)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % wordnum),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Doctor Who Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Doctor Who_%s vs fanfic_python.txt" % wordnum))
+    for comparison in comparisons:
+        print("DW", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Doctor Who_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for wordnum in wordnums:
+        print("H", wordnum)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % wordnum),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Hamilton Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Hamilton_%s vs fanfic_python.txt" % wordnum))
+    for comparison in comparisons:
+        print("H", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Hamilton_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for wordnum in wordnums:
+        print("LM", wordnum)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % wordnum),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Les Mis Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Les Mis_%s vs fanfic_python.txt" % wordnum))
+    for comparison in comparisons:
+        print("LM", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Les Mis_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for wordnum in wordnums:
+        print("SH", wordnum)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % wordnum),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Sherlock Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Sherlock_%s vs fanfic_python.txt" % wordnum))
+    for comparison in comparisons:
+        print("SH", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Sherlock_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for wordnum in wordnums:
+        print("ST", wordnum)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % wordnum),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Star Trek Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Star_Trek_%s vs fanfic_python.txt" % wordnum))
+    for comparison in comparisons:
+        print("ST", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Star Trek_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for wordnum in wordnums:
+        print("T", wordnum)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % wordnum),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Tolkien Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Tolkien_%s vs fanfic_python.txt" % wordnum))
+    for comparison in comparisons:
+        print("T", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Tolkien_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for wordnum in wordnums:
+        print("U", wordnum)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % wordnum),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Hamilton Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Undertale_%s vs fanfic_python.txt" % wordnum))
+    for comparison in comparisons:
+        print("U", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Undertale_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+
+
+def rating_keywords(proj_dir):
+    ratings = ["General Audiences", "Teen And Up Audiences", "Mature", "Explicit", "Not Rated"]
+    comparisons = []
+    for rating in ratings:
+        print("DW", rating)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % rating),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Doctor Who Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Doctor Who_%s vs fanfic_python.txt" % rating))
+    for comparison in comparisons:
+        print("DW", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Doctor_Who_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Doctor Who_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for rating in ratings:
+        print("H", rating)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % rating),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Hamilton Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Hamilton_%s vs fanfic_python.txt" % rating))
+    for comparison in comparisons:
+        print("H", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Hamilton_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Hamilton_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for rating in ratings:
+        print("LM", rating)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % rating),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Les Mis Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Les Mis_%s vs fanfic_python.txt" % rating))
+    for comparison in comparisons:
+        print("LM", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Les_Mis_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Les Mis_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for rating in ratings:
+        print("SH", rating)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % rating),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Sherlock Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Sherlock_%s vs fanfic_python.txt" % rating))
+    for comparison in comparisons:
+        print("SH", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Sherlock_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for rating in ratings:
+        print("ST", rating)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % rating),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Star Trek Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Star_Trek_%s vs fanfic_python.txt" % rating))
+    for comparison in comparisons:
+        print("ST", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Star Trek_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for rating in ratings:
+        print("T", rating)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % rating),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Tolkien Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Tolkien_%s vs fanfic_python.txt" % rating))
+    for comparison in comparisons:
+        print("T", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Tolkien_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+    for rating in ratings:
+        print("U", rating)
+        keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % rating),
+                                                    os.path.join(proj_dir,
+                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                                                                 "Hamilton Fanfic wordlist.txt"))
+        store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/Undertale_%s vs fanfic_python.txt" % rating))
+    for comparison in comparisons:
+        print("U", comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/Undertale_%s vs %s_python.txt" % (comparison[0], comparison[1])))
+
+
+def fandom_group_keywords(proj_dir):
+    comparisons = [("Wholock", "New Who"), ("New Who", "Wholock"), ("Wholock", "BBC Sherlock"), ("BBC Sherlock", "Wholock"),
+                   ("Wholock", "SuperWhoLock"), ("SuperWhoLock", "Wholock"), ("SuperWhoLock", "New Who"),
+                   ("New Who", "SuperWhoLock"), ("SuperWhoLock", "BBC Sherlock"), ("BBC Sherlock", "SuperWhoLock")]
+    for comparison in comparisons:
+        print(comparison)
+        keyword_dict = keyword_tuple_from_wordlists(
+            os.path.join(proj_dir, "wordlists/%s_python.txt" % comparison[0]),
+            os.path.join(proj_dir, "wordlists/%s_python.txt" % comparison[1]))
+        store_keyword_txt(keyword_dict,
+                          os.path.join(proj_dir,
+                                       "Keywords/%s vs %s_python.txt" % (comparison[0], comparison[1])))
 
 
 proj_dir = "/Volumes/2TB/Final_Project"
@@ -1190,6 +1692,11 @@ for year in range(2009, 2019):
     freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Sherlock %d.txt" % year),
                                     os.path.join(proj_dir, "Fanfic_all"))
     freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % year))
+
+print("BBC SH")
+freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/BBC Sherlock.txt"), os.path.join(proj_dir, "Fanfic_all"))
+freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/BBC_Sherlock_python.txt"))
+
 
 # start = time.time()
 # freqdist = freq_from_dir("/Volumes/2TB/Final_project/Fanfic_all")
