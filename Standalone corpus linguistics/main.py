@@ -457,7 +457,7 @@ def normalize_count_permillion(frequency, size):
     return frequency * 1000000 / size
 
 
-def keyword_tuple_from_wordlists(corpus1name, corpus2name, p=0):
+def keyword_tuple_from_wordlists(corpus1name, corpus2name, p=0.01):
     """
     Keyword analysis.
     Limitations: the numbers are a little bit different here (about 10 lower or higher in the few examples I looked at)
@@ -478,8 +478,10 @@ def keyword_tuple_from_wordlists(corpus1name, corpus2name, p=0):
         crit = 10.83
     elif p == 0.0001:
         crit = 15.13
-    else:
+    elif p == 0:
         crit = 0
+    else:
+        crit = 6.63  # changed the default to 1% error margin
     freqdist2, types2, tokens2 = wordlist_to_freqdist(corpus2name)
     keyword_dict = {}  # {word: (frequency1, normalizedfreq1, freq2, normalizedfreq2, keyness)}  # TODO: implement effect
     # start reading corpus1
@@ -519,12 +521,12 @@ def keyword_tuple_from_keywordtxt(filename):
                 corpus2name, types2, tokens2 = line[1:]
             continue
         word = line[0]
-        freq1 = int(line[1])
-        norm1 = float(line[2])
-        freq2 = int(line[3])
-        norm2 = float(line[4])
-        keyness = float(line[5])
-        keyword_dict[word] = (freq1, norm1, freq2, norm2, keyness)
+        keyness = float(line[1])
+        freq1 = int(line[2])
+        norm1 = float(line[3])
+        freq2 = int(line[4])
+        norm2 = float(line[5])
+        keyword_dict[word] = (keyness, freq1, norm1, freq2, norm2)
     f_in.close()
     return keyword_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2]
 
@@ -542,9 +544,9 @@ def store_keyword_txt(keyword_tuple, filename, sort="keynesshi"):
     f_out = open(filename, 'w')
     keyword_dict = keyword_tuple[0]
     corpus1name, types1, tokens1 = keyword_tuple[1]
-    f_out.write("# Corpus 1:\t%s,\t%d,\t%d\n" % (corpus1name, types1, tokens1))
+    f_out.write("# Corpus 1:\t%s\t%d\t%d\n" % (corpus1name, types1, tokens1))
     corpus2name, types2, tokens2 = keyword_tuple[2]
-    f_out.write("# Corpus 2:\t%s,\t%d,\t%d\n" % (corpus2name, types2, tokens2))
+    f_out.write("# Corpus 2:\t%s\t%d\t%d\n" % (corpus2name, types2, tokens2))
     f_out.write("# %s\t%s\t%s\t%s\t%s\t%s\n" % ("word", "keyness", "freq1", "norm1", "freq2", "norm2"))
     entry_list = []
     for item in keyword_dict.items():
@@ -567,7 +569,7 @@ def store_keyword_txt(keyword_tuple, filename, sort="keynesshi"):
         freq2 = entry[3]
         norm2 = entry[4]
         keyness = entry[5]
-        print("%s\t%f\t%f\t%f\t%f\t%f" % (word, keyness, freq1, norm1, freq2, norm2))
+        f_out.write("%s\t%f\t%d\t%f\t%d\t%f\n" % (word, keyness, freq1, norm1, freq2, norm2))
     f_out.close()
 
 
@@ -584,27 +586,31 @@ def find_similar_keywords(keyword_files, outfilename, sort="keyness1hi"):
     key_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2] = keyword_tuple_from_keywordtxt(keyword_files[0])
     master_key_dict = {}
     for word in key_dict:
-        master_key_dict = [key_dict[word]]
+        master_key_dict[word] = [key_dict[word]]
     for filename in keyword_files[1:]:
-        key_dict = keyword_tuple_from_keywordtxt(filename)
+        key_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2] = keyword_tuple_from_keywordtxt(filename)
+        words_to_del = []
         for word in master_key_dict:
-            if word in master_key_dict:
+            if word in key_dict:
                 master_key_dict[word].append(key_dict[word])
             else:  # this isn't a keyword that is in all corpora, so we need to remove it
-                del master_key_dict[word]
+                words_to_del.append(word)
+        for word in words_to_del:
+            del master_key_dict[word]
     f_out = open(outfilename, 'w')
     for filename in keyword_files:
         f_out.write("# %s\n" % filename)
-    f_out.write("word\t")
+    f_out.write("word\tkeyness\t")
     for i in range(1, len(keyword_files)+1):
         f_out.write("freq%d.1\tnorm%d.2" % (i, i))  # make the header
     f_out.write("\n")
-    for item in sorted(master_key_dict.items(), key=lambda x: master_key_dict[x][0][4]):
+    print(master_key_dict.items())
+    for item in sorted(master_key_dict.items(), key=lambda x: master_key_dict[x][0][0]):
         word, stat_lists = item
         f_out.write("%s\t" % word)
         for stat_list in stat_lists:
-            freq1, norm1, freq2, norm2, keyness = stat_list
-            f_out.write("%d\t%f\t%d\t%f\t%f" % (freq1, norm1, freq2, norm2, keyness))
+            keyness, freq1, norm1, freq2, norm2 = stat_list
+            f_out.write("%d\t%f\t%d\t%f\t%f" % (keyness, freq1, norm1, freq2, norm2))
         f_out.write("\n")
     f_out.close()
 
@@ -870,9 +876,8 @@ def wordnum_wordlists(proj_dir):
     range_tuples = [(1, 100), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000), (50001, 100000),
                     (10000, 100000), (100001, 500000), (500001, 1000000), (100001, 1000000)]
     # range_tuples = [(1, 1000)]  # to fix previous. TODO: add back later
+    range_tuples = [(5001, 10000)]  # TODO: change back later
     for rtuple in range_tuples:
-        if rtuple in [(1, 100), (1, 1000), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000)]:  # TODO: change this
-            continue
         print("DW", rtuple)
         freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Doctor Who %d-%d.txt" % (rtuple[0], rtuple[1])),
                                         os.path.join(proj_dir, "Fanfic_all"))
@@ -1441,8 +1446,8 @@ def year_keywords(proj_dir):
 
 
 def wordnum_keywords(proj_dir):
-    wordnums = ["%d-%d" % (x, y) for x, y in [(1, 100), (1, 1000), (1001, 5000), (50001, 10000), (1001, 10000), (10001, 50000), (50001, 100000), (10000, 100000),
-                   (100001, 500000), (500001, 1000000), (100001, 1000000)]]
+    wordnums = ["%d-%d" % (x, y) for x, y in [(1, 100), (1, 1000), (1001, 5000), (5001, 10000), (1001, 10000), (10001, 50000),
+                    (50001, 100000), (10000, 100000), (100001, 500000), (10000, 100000), (500001, 1000000), (100001, 1000000)]]
     comparisons = []  # TODO: add comparisons
     for wordnum in wordnums:
         print("DW", wordnum)
@@ -1674,28 +1679,27 @@ def fandom_group_keywords(proj_dir):
                           os.path.join(proj_dir,
                                        "Keywords/%s vs %s_python.txt" % (comparison[0], comparison[1])))
 
+if __name__ == "__main__":
+    proj_dir = "/Volumes/2TB/Final_Project"
 
-proj_dir = "/Volumes/2TB/Final_Project"
+    # category_wordlists(proj_dir)
+    # au_wordlists(proj_dir)
+    # tags_wordlists(proj_dir)
+    # category_wordlists(proj_dir)
+    # status_wordlists(proj_dir)
+    # year_wordlists(proj_dir)
+    # rating_wordlists(proj_dir)
+    # fandom_group_wordlists(proj_dir)  # TODO: fix later
+    # wordnum_wordlists(proj_dir)
+    for year in range(2009, 2019):
+        print("SH", year)
+        freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Sherlock %d.txt" % year),
+                                        os.path.join(proj_dir, "Fanfic_all"))
+        freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % year))
 
-# category_wordlists(proj_dir)
-# au_wordlists(proj_dir)
-# tags_wordlists(proj_dir)
-# category_wordlists(proj_dir)
-# status_wordlists(proj_dir)
-# year_wordlists(proj_dir)
-wordnum_wordlists(proj_dir)  # TODO: come back to this
-rating_wordlists(proj_dir)
-fandom_group_wordlists(proj_dir)
-
-for year in range(2009, 2019):
-    print("SH", year)
-    freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Sherlock %d.txt" % year),
-                                    os.path.join(proj_dir, "Fanfic_all"))
-    freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/Sherlock_%s_python.txt" % year))
-
-print("BBC SH")
-freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/BBC Sherlock.txt"), os.path.join(proj_dir, "Fanfic_all"))
-freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/BBC_Sherlock_python.txt"))
+    print("BBC SH")
+    freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/BBC Sherlock.txt"), os.path.join(proj_dir, "Fanfic_all"))
+    freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/BBC_Sherlock_python.txt"))
 
 
 # start = time.time()
