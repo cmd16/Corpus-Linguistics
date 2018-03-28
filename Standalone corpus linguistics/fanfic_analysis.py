@@ -314,6 +314,25 @@ def fandom_group_wordlists(proj_dir):
         freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_python.txt" % cross))
 
 
+def anomaly_wordlists(proj_dir):
+    fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Tolkien", "Undertale")  # TODO: put S and ST back in when they work
+    stat_tup = ("comments", "kudos", "hits", "bookmarks")  # TODO: words later?
+    for fandom in fandoms:
+        for stat in stat_tup:
+            print(fandom, stat)
+            fandom_replaced = fandom.replace(" ", "_")
+            freqdist = freqdist_from_idfile(
+                os.path.join(proj_dir, "Fanfic lists/%s_%s_lo.txt" % (fandom, stat)),
+                os.path.join(proj_dir, "Fanfic_all"))
+            freqdist_to_wordlistfile(freqdist,
+                                 os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)))
+            freqdist = freqdist_from_idfile(
+                os.path.join(proj_dir, "Fanfic lists/%s_%s_hi.txt" % (fandom, stat)),
+                os.path.join(proj_dir, "Fanfic_all"))
+            freqdist_to_wordlistfile(freqdist,
+                                     os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)))
+
+
 def category_keywords(proj_dir):
     categories = ["FM", "MM", "FF", "Gen", "Multi", "Other"]
     comparisons = [("MM", "FM"), ("FM", "MM"), ("FF", "FM"), ("FM", "FF"), ("MM", "FF"), ("FF", "MM"), ("FM", "Gen"),
@@ -1007,6 +1026,39 @@ def fandom_group_keywords(proj_dir):
                                        "Keywords/%s vs %s_python.txt" % (comparison[0], comparison[1])))
 
 
+def anomaly_keywords(proj_dir):
+    fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Tolkien", "Undertale")  # TODO: put S and ST back in when they work
+    stat_tup = ("comments", "kudos", "hits", "bookmarks")  # TODO: words later?
+    for fandom in fandoms:
+        for stat in stat_tup:
+            print(fandom, stat)
+            fandom_replaced = fandom.replace(" ", "_")
+            keyword_dict = keyword_tuple_from_wordlists(
+                os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)),
+                os.path.join(proj_dir,
+                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                             "%s Fanfic wordlist.txt" % fandom))
+            store_keyword_txt(keyword_dict,
+                              os.path.join(proj_dir, "Keywords/%s_%s lo vs fanfic_python.txt" % (fandom, stat)))
+            keyword_dict = keyword_tuple_from_wordlists(
+                os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)),
+                os.path.join(proj_dir,
+                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
+                             "%s Fanfic wordlist.txt" % fandom))
+            store_keyword_txt(keyword_dict,
+                              os.path.join(proj_dir, "Keywords/%s_%s hi vs fanfic_python.txt" % (fandom, stat)))
+            keyword_dict = keyword_tuple_from_wordlists(
+                os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)),
+                os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)))
+            store_keyword_txt(keyword_dict,
+                              os.path.join(proj_dir, "Keywords/%s_%s lo vs hi_python.txt" % (fandom, stat)))
+            keyword_dict = keyword_tuple_from_wordlists(
+                os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)),
+                os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)))
+            store_keyword_txt(keyword_dict,
+                              os.path.join(proj_dir, "Keywords/%s_%s hi vs lo_python.txt" % (fandom, stat)))
+
+
 def csv_keywords(proj_dir):
     fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Sherlock", "Sherlock", "Star Trek", "Tolkien", "Undertale")
     for fandom in fandoms:
@@ -1168,7 +1220,7 @@ def rating_similar_keywords(proj_dir):
 
 
 def fandom_similar_keywords(proj_dir):
-    fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Sherlock", "Sherlock", "Star Trek", "Tolkien", "Undertale")
+    fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Sherlock", "Star Trek", "Tolkien", "Undertale")
     find_similar_keywords(
         [os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
                            "%s Fanfic wordlist.txt" % x) for x in fandoms],
@@ -1177,39 +1229,14 @@ def fandom_similar_keywords(proj_dir):
 
 proj_dir = "/Volumes/2TB/Final_Project"
 
-# category_keywords(proj_dir)
-# au_keywords(proj_dir)
-# tags_keywords(proj_dir)
-# status_keywords(proj_dir)
-# year_keywords(proj_dir)  #TODO: redo
-# for year in range(2009, 2019):
-#     print("ST", year)
-#     freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Star Trek %d.txt" % year),
-#                                     os.path.join(proj_dir, "Fanfic_all"))
-#     freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/Star_Trek_%s_python.txt" % year))
-# for year in range(2009, 2019):
-#     freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Tolkien %d.txt" % year),
-#                                     os.path.join(proj_dir, "Fanfic_all"))
-#     freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/Tolkien_%s_python.txt" % year))
-#     print("T", year)
-# for year in range(2009, 2019):
-#     print("U", year)
-#     freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/Undertale %d.txt" % year),
-#                                     os.path.join(proj_dir, "Fanfic_all"))
-#     freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/Undertale_%s_python.txt" % year))
+anomaly_wordlists(proj_dir)
+anomaly_keywords(proj_dir)
 
-#  fandom_group_keywords(proj_dir)
-
-# category_keywords(proj_dir)
-# au_keywords(proj_dir)
-# tags_keywords(proj_dir)
-# status_keywords(proj_dir)
-
-category_similar_keywords(proj_dir)
-au_similar_keywords(proj_dir)
-tags_similar_keywords(proj_dir)
-status_similar_keywords(proj_dir)
-year_similar_keywords(proj_dir)
-word_similar_keywords(proj_dir)
-rating_similar_keywords(proj_dir)
-fandom_similar_keywords(proj_dir)
+# category_similar_keywords(proj_dir)
+# au_similar_keywords(proj_dir)
+# tags_similar_keywords(proj_dir)
+# status_similar_keywords(proj_dir)
+# year_similar_keywords(proj_dir)
+# word_similar_keywords(proj_dir)
+# rating_similar_keywords(proj_dir)
+# fandom_similar_keywords(proj_dir)
