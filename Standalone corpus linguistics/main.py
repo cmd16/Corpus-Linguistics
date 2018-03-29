@@ -585,7 +585,7 @@ def store_keyword_txt(keyword_tuple, filename, sort_key="keynesshi"):
     f_out.close()
 
 
-def find_similar_keywords(keyword_files, out_csv_name, sort_key="alphalo"):
+def find_similar_keywords(keyword_files, out_csv_name, sort_key="keyness1hi"):
     """
     Given a list of files of keyword dicts, find which keywords the corpora have in common
     master_key_dict is a dictionary that maps words to a list. mastery_key_dict[word] =
@@ -631,24 +631,36 @@ def find_similar_keywords(keyword_files, out_csv_name, sort_key="alphalo"):
         filename_fields.extend([""]*4)
     filename_fields.pop()  # get rid of the last empty field
     writer.writerow([""] + filename_fields)  # first two are empty for word and keyness
-    item_list = list(master_key_dict.items())
-    if sort_key == "alphalo":
-        item_list.sort(key=operator.itemgetter(0))  # TODO: improve sorting
-    elif sort_key == "alphahi":
-        item_list.sort(key=operator.itemgetter(0), reverse=True)
-    else:
-        item_list.sort(key=operator.itemgetter(0))
-    for item in item_list:
+    rows = []  # note: this is not memory efficient, but it's the simplest way to deal with the sorting problem
+    for item in master_key_dict.items():
         word, stat_lists = item
-        stat_flat = []
+        stat_flat = [word]
         for stat_list in stat_lists:
             keyness, freq1, norm1, freq2, norm2 = stat_list
-            stat_flat.extend(["%f" % keyness, "%d" % freq1, "%f" % norm1, "%d" % freq2, "%f" % norm2])
-        writer.writerow([word] + stat_flat)
+            # ["%f" % keyness, "%d" % freq1, "%f" % norm1, "%d" % freq2, "%f" % norm2]
+            stat_flat.extend(stat_list)
+        rows.append(stat_flat)
+    if sort_key == "alphalo":
+        rows.sort(key=operator.itemgetter(0))
+    elif sort_key == "keyness1hi":
+        rows.sort(key=operator.itemgetter(1), reverse=True)
+    elif sort_key == "alphahi":
+        rows.sort(key=operator.itemgetter(0), reverse=True)
+    elif sort_key == "keyness1lo":
+        rows.sort(key=operator.itemgetter(1))
+    else:
+        rows.sort(key=operator.itemgetter(1), reverse=True)  # default to sorting by keynesshi
+    for row in rows:
+        str_row = []
+        str_row.append(row.pop(0))  # append the word
+        for i in range(0, len(keyword_files)*5, 5):
+            keyness, freq1, norm1, freq2, norm2 = row[i:i+5]
+            str_row.extend(["%f" % keyness, "%d" % freq1, "%f" % norm1, "%d" % freq2, "%f" % norm2])
+        writer.writerow(str_row)
     f_out.close()
 
 
-def store_keyword(keyword_tuple, filename="Keyword Spreadsheet.xlsx", sort="keynesshi"):
+def store_keyword(keyword_tuple, filename="Keyword Spreadsheet.xlsx", sort="keyness1hi"):
     """
     Store a keyword dict to a spreadsheet
     :param keyword_tuple: keyword dict { word: (frequency, keyness)}, [stats1], [stats2]

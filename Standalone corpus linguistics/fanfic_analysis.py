@@ -335,31 +335,39 @@ def csv_keywords(proj_dir):
 def category_similar_keywords(proj_dir):  # TODO: include other comparisons
     categories = ["FM", "MM", "FF", "Gen", "Multi", "Other"]
     comparisons = {"gay vs fanfic": ("MM vs fanfic", "FF vs fanfic"), "gay vs gen": ("MM vs Gen", "FF vs Gen"), "gay vs straight":
-        ("MM vs FM", "FF vs FM"), "straight vs gay": ("FM vs MM", "FM vs MM")}
+        ("MM vs FM", "FF vs FM"), "straight vs gay": ("FM vs MM", "FM vs FF")}
+    other_comparisons = [("MM", "FM"), ("FM", "MM"), ("FF", "FM"), ("FM", "FF"), ("MM", "FF"), ("FF", "MM"), ("FM", "Gen"),
+                   ("Gen", "FM"), ("MM", "Gen"), ("Gen", "MM"), ("FF", "Gen"), ("Gen", "FF")]
     fandoms = ("Doctor Who", "Hamilton", "Les Mis", "Sherlock", "Star Trek", "Tolkien", "Undertale")
     for fandom in fandoms:
         for comparison in comparisons:
             print(fandom, comparison)
             find_similar_keywords([os.path.join(proj_dir, "Keywords/%s_%s_python.txt" % (fandom, x)) for x in comparisons[comparison]],
-            os.path.join(proj_dir, "Keywords/%s_%s_python.csv" % (fandom, comparison)))
+            os.path.join(proj_dir, "Similar Keywords/%s_%s_python.csv" % (fandom, comparison)))
     for category in categories:
         print(category)
         find_similar_keywords([os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, category)) for fandom in fandoms],
-                              os.path.join(proj_dir, "Keywords/%s_python.csv" % category))
+                              os.path.join(proj_dir, "Similar Keywords/%s_python.csv" % category))
     for comparison in comparisons:
         print(comparison)
         filenames = []
         for fandom in fandoms:
             for cmp_str in comparisons[comparison]:
                 filenames.append(os.path.join(proj_dir, "Keywords/%s_%s_python.txt" % (fandom, cmp_str)))
-        find_similar_keywords(filenames, os.path.join(proj_dir, "Keywords/%s_python.csv" % comparison))
+        find_similar_keywords(filenames, os.path.join(proj_dir, "Similar Keywords/%s_python.csv" % comparison))
+    for comparison in other_comparisons:
+        print(comparison)
+        comparison_name = comparison[0] + " vs " + comparison[1]
+        find_similar_keywords(
+            [os.path.join(proj_dir, "Keywords/%s_%s_python.txt" % (fandom, comparison_name)) for fandom in fandoms],
+            os.path.join(proj_dir, "Similar Keywords/%s_python.csv" % comparison_name))
 
 
 def au_similar_keywords(proj_dir):
     fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Sherlock", "Sherlock", "Star Trek", "Tolkien", "Undertale")
     find_similar_keywords(
         [os.path.join(proj_dir, "Keywords/%s_AU vs fanfic_python.txt" % x) for x in fandoms],
-        os.path.join(proj_dir, "Keywords/AU vs fanfic_python.csv"))
+        os.path.join(proj_dir, "Similar Keywords/AU vs fanfic_python.csv"))
 
 
 def tags_similar_keywords(proj_dir):
@@ -377,12 +385,12 @@ def tags_similar_keywords(proj_dir):
         print(tag)
         find_similar_keywords(
             [os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (x, tag)) for x in fandoms],
-            os.path.join(proj_dir, "Keywords/%s vs fanfic_python.csv" % tag))
+            os.path.join(proj_dir, "Similar Keywords/%s vs fanfic_python.csv" % tag))
     for comparison in comparisons:
         print(comparison)
         find_similar_keywords(
             [os.path.join(proj_dir, "Keywords/%s_%s vs %s_python.txt" % (x, comparison[0], comparison[1])) for x in fandoms],
-            os.path.join(proj_dir, "Keywords/%s vs %s_python.csv" % (comparison[0], comparison[1])))
+            os.path.join(proj_dir, "Similar Keywords/%s vs %s_python.csv" % (comparison[0], comparison[1])))
     for combination in combinations:
         print(combination)
         components = combination.split(" and ")
@@ -390,7 +398,7 @@ def tags_similar_keywords(proj_dir):
             print(fandom, combination)
             find_similar_keywords(
                 [os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, x)) for x in components],
-                os.path.join(proj_dir, "Keywords/%s_%s_python.csv" % (fandom, combination)))
+                os.path.join(proj_dir, "Similar Keywords/%s_%s_python.csv" % (fandom, combination)))
         # TODO: implement include combination across fandoms
 
 
@@ -401,7 +409,7 @@ def status_similar_keywords(proj_dir):
         print(status)
         find_similar_keywords(
             [os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (x, status)) for x in fandoms],
-            os.path.join(proj_dir, "Keywords/%s_python.csv" % status))
+            os.path.join(proj_dir, "Similar Keywords/%s_python.csv" % status))
 
 
 def year_similar_keywords(proj_dir):
@@ -421,7 +429,7 @@ def year_similar_keywords(proj_dir):
                 fandoms.append("Undertale")
         find_similar_keywords(
             [os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, year)) for fandom in fandoms],
-            os.path.join(proj_dir, "Keywords/%s_python.csv" % year))
+            os.path.join(proj_dir, "Similar Keywords/%s_python.csv" % year))
     # TODO: pick year ranges to look at?
 
 
@@ -435,7 +443,7 @@ def word_similar_keywords(proj_dir):
         print(wordstr)
         find_similar_keywords(
             [os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, wordstr)) for fandom in fandoms],
-            os.path.join(proj_dir, "Keywords/%s_python.csv" % wordstr))
+            os.path.join(proj_dir, "Similar Keywords/%s_python.csv" % wordstr))
     # TODO: grouping
 
 
@@ -449,12 +457,12 @@ def rating_similar_keywords(proj_dir):
         print(rating)
         find_similar_keywords(
             [os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (x, rating)) for x in fandoms],
-            os.path.join(proj_dir, "Keywords/%s vs fanfic_python.csv" % rating))
+            os.path.join(proj_dir, "Similar Keywords/%s vs fanfic_python.csv" % rating))
     for comparison in comparisons:  # TODO: add some comparisons
         print(comparison)
         find_similar_keywords(
             [os.path.join(proj_dir, "Keywords/%s_%s vs %s_python.txt" % (x, comparison[0], comparison[1])) for x in fandoms],
-            os.path.join(proj_dir, "Keywords/%s vs %s_python.csv" % (comparison[0], comparison[1])))
+            os.path.join(proj_dir, "Similar Keywords/%s vs %s_python.csv" % (comparison[0], comparison[1])))
     for combination in combinations:
         print(combination)
         components = combination.split(" and ")
@@ -462,7 +470,7 @@ def rating_similar_keywords(proj_dir):
             print(fandom, combination)
             find_similar_keywords(
                 [os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, x)) for x in components],
-                os.path.join(proj_dir, "Keywords/%s_%s_python.csv" % (fandom, combination)))
+                os.path.join(proj_dir, "Similar Keywords/%s_%s_python.csv" % (fandom, combination)))
         # TODO: implement include combination across fandoms
     # TODO: complete
 
@@ -471,8 +479,13 @@ def fandom_similar_keywords(proj_dir):
     fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Sherlock", "Star Trek", "Tolkien", "Undertale")
     find_similar_keywords(
         [os.path.join(proj_dir, "Keywords/%s_Fanfic vs canon_python.txt" % x) for x in fandoms],
-        os.path.join(proj_dir, "Keywords/Fanfic vs canon_python.csv"))
+        os.path.join(proj_dir, "Similar Keywords/Fanfic vs canon_python.csv"))
 
+
+def anomaly_similar_keywords(proj_dir):
+    fandoms = ("Doctor Who", "Les Mis", "Hamilton", "Tolkien", "Undertale")  # TODO: put S and ST back in when they work
+    stat_tup = ("comments", "kudos", "hits", "bookmarks")
+    # TODO: finish
 
 proj_dir = "/Volumes/2TB/Final_Project"
 
@@ -488,7 +501,7 @@ proj_dir = "/Volumes/2TB/Final_Project"
 # rating_keywords(proj_dir)
 # csv_keywords(proj_dir)
 
-category_similar_keywords(proj_dir)  # TODO: figure this one out
+category_similar_keywords(proj_dir)
 # au_similar_keywords(proj_dir)
 # tags_similar_keywords(proj_dir)
 # status_similar_keywords(proj_dir)
