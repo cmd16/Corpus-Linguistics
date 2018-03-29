@@ -37,7 +37,7 @@ def get_abstract_nouns_from_wordlist(infile):
         for idx in range(len(suffix_list)):
             suffix = suffix_list[idx]
             if word.endswith(suffix):
-                abstract_noun_dict[suffix].append([word, frequency])
+                abstract_noun_dict[suffix].append((word, frequency))
                 break
         linenum += 1
     infile.close()
@@ -109,36 +109,62 @@ def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
         wb.save(filename)
 
 
-def sort_abstract_nouns(aDict, key='frequencyhi'):
+def sort_abstract_nouns(aDict, sort_key='frequencyhi'):
     """
     Sort (in place) a dictionary that was constructed using get_abstract_nouns
     :param aDict: a dictionary constructed using get_abstract_nouns
-    :param key: a string representing which way to sort the words/frequencies
+    :param sort_key: a string representing which way to sort the words/frequencies
     :return:
     """
-    if key == "frequencyhi":
+    if sort_key == "frequencyhi":
         for suffix in suffix_list:
            aDict[suffix].sort(key=lambda x: x[1], reverse=True)
-    elif key == "frequencylo":
+    elif sort_key == "frequencylo":
         for suffix in suffix_list:
             aDict[suffix].sort(key=lambda x: x[1])
-    elif key == "alpha":
+    elif sort_key == "alphalo":
         for suffix in suffix_list:
            aDict[suffix].sort()
-    elif key == "reversealpha":
+    elif sort_key == "alphahi":
         for suffix in suffix_list:
            aDict[suffix].sort(reverse=True)
-    elif key == "alphawordend":
-        pass  # this assumes you stored the dictionary by word end
-    elif key == "reversealphawordend":
-        for suffix in suffix_list:
-           aDict[suffix].reverse()
+    elif sort_key == "alphawordendlo":
+        raise NotImplementedError
+    elif sort_key == "alphawordendhi":
+        raise NotImplementedError
     else:
-        print('Sorting type invalid. Try again with "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
-              '"alphawordend", or "reversealphawordend"')
+        print('Sorting type invalid. Try again with "frequencyhi" (high to low), "frequencylo" (low to high), "alphahi", "alphalo", '
+              '"alphawordendlo", or "alphawordendhi"')
 
 
-def walk_directory_abstract_nouns(path, sort="frequencyhi"):
+def abstract_nouns_store_count(aDict, outfilename, num=10):
+    total_types = 0
+    total_tokens = 0
+    count_dict = {suffix: [] for suffix in suffix_list}  # suffix: [types, tokens, [top_num]]
+    for suffix in suffix_list:
+        entry = aDict[suffix]
+        types = len(entry)
+        total_types += types
+        count_dict[suffix].append(types)
+        tokens = 0
+        for freq_tup in entry:
+            tokens += freq_tup[1]
+        total_tokens += tokens
+        count_dict[suffix].append(tokens)
+        count_dict[suffix].append(entry[0:num+1])
+    f_out = open(outfilename, "w")
+    f_out.write("# Word types: %d\n" % total_types)
+    f_out.write("# Word tokens: %d\n" % total_tokens)
+    for suffix in suffix_list:
+        count_entry = count_dict[suffix]
+        f_out.write("# %s types: %d\n" % (suffix, count_entry[0]))
+        f_out.write("# %s tokens: %d\n" % (suffix, count_entry[1]))
+        for freq_tup in count_entry[2]:
+            f_out.write("%s:\t%d\n" %(freq_tup[0], freq_tup[1]))
+    f_out.close()
+
+
+def walk_dir_abstract_nouns_spreadsheet(path, sort_key="frequencyhi", keyword="_antconc"):
     """
     Walks through a directory and makes a spreadsheet of abstract nouns for each file in the directory.
     Preconditions: _antconc is in the filename of each wordlist file
@@ -149,10 +175,21 @@ def walk_directory_abstract_nouns(path, sort="frequencyhi"):
         print(item)
         os.chdir(item[0])  # change to the directory you are looking at. useful for reading and writing files
         for filename in item[2]:
-            if filename.endswith(".txt") and "_antconc" in filename:
+            if filename.endswith(".txt") and keyword in filename:
                 this_dict = get_abstract_nouns_from_wordlist(open(filename))
-                sort_abstract_nouns(this_dict, sort)
-                store_spreadsheet(this_dict, filename[:filename.index("_antconc")] + "_abstract_nouns")
+                sort_abstract_nouns(this_dict, sort_key)
+                store_spreadsheet(this_dict, filename[:filename.index(".txt")] + "_abstract_nouns")
+
+
+def walk_dir_count_abstract_nouns(path, out_dir, sort_key="frequencyhi", keyword="_python"):
+    for item in os.walk(path):
+        os.chdir(item[0])  # change to the directory you are looking at. useful for reading and writing files
+        for filename in item[2]:
+            if filename.endswith(".txt"):
+                print(filename)
+                this_dict = get_abstract_nouns_from_wordlist(open(filename))
+                sort_abstract_nouns(this_dict, sort_key)
+                abstract_nouns_store_count(this_dict, os.path.join(out_dir, filename[:filename.index(keyword)] + "_abstract nouns_python.txt"))
 
 
 def main():
@@ -164,7 +201,9 @@ def main():
 
 # test code
 if test:
-    pass
+    proj_dir = "/Volumes/2TB/Final_Project"
+    wordlist_dir = os.path.join(proj_dir, "wordlists")
+    walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"))
     # test_dict = get_abstract_nouns_from_wordlist(open("hist152_final_wordend.txt"))
     # sort_abstract_nouns(test_dict, "frequencyhi")
     # store_spreadsheet(test_dict, "test_spreadsheet.xlsx")

@@ -131,10 +131,9 @@ def store_spreadsheet(aDict, taglist, tagdefs, filename="Parts of Speech Spreads
     for col in range(1, len(taglist) * 2 + 1, 2):  # go up by two because the POSs need to be separated. add one because indexing starts at 1 in openpyxl
         pos = taglist[(col - 1) // 2]
         print("processing", pos, "words")
-        entry = aDict[pos]
         if pos == "``":
-            pos = "''"
-        pos_def = tagant_pos_definitions[pos]
+            pos = "''"  # `` is equivalent to ''
+        entry = aDict[pos]
         ws.cell(row=2, column=col).value = tagdefs[pos]
         # sort the dictionary
         if sort == "frequencyhi":
@@ -150,7 +149,7 @@ def store_spreadsheet(aDict, taglist, tagdefs, filename="Parts of Speech Spreads
             word = entry_list[idx][0]
             try:
                 ws.cell(row=row, column=col).value = word
-            except openpyxl.utils.exceptions.IllegalCharacterError:  # try broad?
+            except openpyxl.utils.exceptions.IllegalCharacterError:
                 word = input(word + " invalid. New value: ")
                 ws.cell(row=row, column=col).value = word
             ws.cell(row=row, column=col+1).value = entry_list[idx][1]  # frequency
@@ -184,10 +183,9 @@ def tag_dict_from_directory(path, delimiter, taglist, end="_tagged.txt", case_se
             for filename in item[2]:
                 if filename.endswith(end):
                     filename_list.append(os.path.join(currentpath, filename))
-                    print(filename)
     else:
         for filename in os.listdir(path):
-            if filename.endswith("_tagged.txt"):
+            if filename.endswith(end):
                 filename_list.append(os.path.join(path, filename))
     os.chdir(currentdir)
     return get_tag_dict(filename_list, taglist=taglist, case_sensitive=case_sensitive, delimiter=delimiter)

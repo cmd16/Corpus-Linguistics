@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Fanfic_generator/Harry Potter works" />
+      <excludeFolder url="file://$MODULE_DIR$/Standalone corpus linguistics/Sherlock works En" />
+      <excludeFolder url="file://$MODULE_DIR$/Standalone corpus linguistics/Star Trek works" />
+      <excludeFolder url="file://$MODULE_DIR$/Standalone corpus linguistics/Tagged Sherlock" />
+      <excludeFolder url="file://$MODULE_DIR$/Standalone corpus linguistics/Tagged Star Trek" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Nosetests" />
+    <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
+  </component>
+</module>
