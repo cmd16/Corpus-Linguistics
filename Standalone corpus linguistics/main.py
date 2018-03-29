@@ -483,11 +483,17 @@ def keyword_tuple_from_wordlists(corpus1name, corpus2name, p=0.01):
     else:
         crit = 6.63  # changed the default to 1% error margin
     freqdist2, types2, tokens2 = wordlist_to_freqdist(corpus2name)
+    if types2 == 0 or tokens2 == 0:
+        print(corpus2name, "is empty")
+        return False # the wordlist is empty or something else went wrong
     keyword_dict = {}  # {word: (frequency1, normalizedfreq1, freq2, normalizedfreq2, keyness)}  # TODO: implement effect
     # start reading corpus1
     corpus1 = open(corpus1name)
     types1 = int(next(corpus1)[13:])
     tokens1 = int(next(corpus1)[14:])
+    if types1 == 0 or tokens1 == 0:
+        print(corpus1name, "is empty")
+        return False  # the wordlist is empty or something else went wrong
     next(corpus1)
     for line in corpus1:
         line = line.split()
@@ -511,7 +517,10 @@ def keyword_tuple_from_wordlists(corpus1name, corpus2name, p=0.01):
 
 def keyword_tuple_from_keywordtxt(filename):
     keyword_dict = {}
-    f_in = open(filename)
+    try:
+        f_in = open(filename)
+    except FileNotFoundError:
+        raise FileNotFoundError
     for line in f_in:
         line = line.strip().split("\t")
         if line[0].startswith("#"):
@@ -522,7 +531,10 @@ def keyword_tuple_from_keywordtxt(filename):
             continue
         word = line[0]
         keyness = float(line[1])
-        freq1 = int(line[2])
+        try:
+            freq1 = int(line[2])
+        except ValueError:
+            raise ValueError
         norm1 = float(line[3])
         freq2 = int(line[4])
         norm2 = float(line[5])
@@ -531,14 +543,14 @@ def keyword_tuple_from_keywordtxt(filename):
     return keyword_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2]
 
 
-def store_keyword_txt(keyword_tuple, filename, sort="keynesshi"):
+def store_keyword_txt(keyword_tuple, filename, sort_key="keynesshi"):
     """
     Store a keyword dictionary in a txt file, separated by tabs. Note: values are only stored if keyness is statistically
     significant as determined by the p value and normalized frequency 1 > normalized frequency 2
     :param keyword_tuple: [keyword_dict, corpus1stats, corpus2stats]. The keyword dict contains keyness, raw frequencies,
     and normalized frequencies
     :param filename:
-    :param sort:
+    :param sort_key:
     :return:
     """
     f_out = open(filename, 'w')
@@ -558,7 +570,7 @@ def store_keyword_txt(keyword_tuple, filename, sort="keynesshi"):
         norm2 = stats[3]
         keyness = stats[4]
         entry_list.append((word, freq1, norm1, freq2, norm2, keyness))
-    if sort == "keynesshi":
+    if sort_key == "keynesshi":
         entry_list.sort(key=operator.itemgetter(5), reverse=True)
     else:  # TODO implement other sorting later
         entry_list.sort(key=operator.itemgetter(5), reverse=True)
@@ -573,7 +585,7 @@ def store_keyword_txt(keyword_tuple, filename, sort="keynesshi"):
     f_out.close()
 
 
-def find_similar_keywords(keyword_files, outfilename, sort="keyness1hi"):
+def find_similar_keywords(keyword_files, out_csv_name, sort_key="alphalo"):
     """
     Given a list of files of keyword dicts, find which keywords the corpora have in common
     master_key_dict is a dictionary that maps words to a list. mastery_key_dict[word] =
@@ -583,12 +595,26 @@ def find_similar_keywords(keyword_files, outfilename, sort="keyness1hi"):
     """
     if len(keyword_files) < 2:
         raise ValueError("Must input 2 or more files for analysis")
-    key_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2] = keyword_tuple_from_keywordtxt(keyword_files[0])
+    try:
+        key_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2] = keyword_tuple_from_keywordtxt(keyword_files[0])
+    except FileNotFoundError:
+        print("FileNotFoundError", out_csv_name, keyword_files[0])
+        return
+    except ValueError:
+        print("ValueError", out_csv_name, keyword_files[0])
+        return
     master_key_dict = {}
     for word in key_dict:
         master_key_dict[word] = [key_dict[word]]
     for filename in keyword_files[1:]:
-        key_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2] = keyword_tuple_from_keywordtxt(filename)
+        try:
+            key_dict, [corpus1name, types1, tokens1], [corpus2name, types2, tokens2] = keyword_tuple_from_keywordtxt(filename)
+        except FileNotFoundError:
+            print("FileNotFoundError", out_csv_name, filename)
+            return
+        except ValueError:
+            print("ValueError", out_csv_name, filename)
+            return
         words_to_del = []
         for word in master_key_dict:
             if word in key_dict:
@@ -597,21 +623,28 @@ def find_similar_keywords(keyword_files, outfilename, sort="keyness1hi"):
                 words_to_del.append(word)
         for word in words_to_del:
             del master_key_dict[word]
-    f_out = open(outfilename, 'w')
+    f_out = open(out_csv_name, 'w')
+    writer = csv.writer(f_out, delimiter="\t", quotechar='|')
+    filename_fields = []
     for filename in keyword_files:
-        f_out.write("# %s\n" % filename)
-    f_out.write("word\tkeyness\t")
-    for i in range(1, len(keyword_files)+1):
-        f_out.write("freq%d.1\tnorm%d.2" % (i, i))  # make the header
-    f_out.write("\n")
-    print(master_key_dict.items())
-    for item in sorted(master_key_dict.items(), key=lambda x: master_key_dict[x][0][0]):
+        filename_fields.append(filename)
+        filename_fields.extend([""]*4)
+    filename_fields.pop()  # get rid of the last empty field
+    writer.writerow([""] + filename_fields)  # first two are empty for word and keyness
+    item_list = list(master_key_dict.items())
+    if sort_key == "alphalo":
+        item_list.sort(key=operator.itemgetter(0))  # TODO: improve sorting
+    elif sort_key == "alphahi":
+        item_list.sort(key=operator.itemgetter(0), reverse=True)
+    else:
+        item_list.sort(key=operator.itemgetter(0))
+    for item in item_list:
         word, stat_lists = item
-        f_out.write("%s\t" % word)
+        stat_flat = []
         for stat_list in stat_lists:
             keyness, freq1, norm1, freq2, norm2 = stat_list
-            f_out.write("%d\t%f\t%d\t%f\t%f" % (keyness, freq1, norm1, freq2, norm2))
-        f_out.write("\n")
+            stat_flat.extend(["%f" % keyness, "%d" % freq1, "%f" % norm1, "%d" % freq2, "%f" % norm2])
+        writer.writerow([word] + stat_flat)
     f_out.close()
 
 
