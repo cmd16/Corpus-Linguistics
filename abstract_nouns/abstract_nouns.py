@@ -13,7 +13,7 @@ import os
 
 # global variables
 test = True
-suffix_list = ['ance', 'ances', 'ce', 'ces', 'cy', 'cies', 'dom', 'doms', 'ence', 'ences', 'ness',
+suffix_list = ['ance', 'ances', 'cy', 'cies', 'dom', 'doms', 'ence', 'ences', 'ness',
                'nesses', 'esses', 'hood', 'hoods', 'ice', 'ices', 'ion', 'ions', 'ism',
                'isms', 'ity', 'itys', 'ment', 'ments', 'ty', 'ties', 'tude', 'tudes', 'ure', 'ures']
 
