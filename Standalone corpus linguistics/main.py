@@ -263,22 +263,6 @@ def freq_from_str(text, case_sensitive=False):
     return freqdist
 
 
-def freq_from_csv(csv_in, case_sensitive=False):
-    """
-    Get the frequencies of words from a csv created using ao3_get_fanfics.py
-    :param csv_in: the name of a csv file to read in
-    :return: a FreqDist object with the unique words and their frequencies
-    """
-    f_in = open(csv_in, 'r+')
-    reader = csv.reader(f_in)
-    header = next(reader)
-    freqdist = nltk.FreqDist()
-    for row in reader:
-        this_freqdist = freq_from_str(row[-1], case_sensitive)
-        freqdist.update(this_freqdist)
-    return freqdist
-
-
 def freq_from_txt(infilename, case_senstive=False):
     """
     Get the frequencies of words from a txt file
@@ -399,22 +383,6 @@ def combine_wordlists_to_freqdist(wordlists):
     freqdist = nltk.FreqDist()
     for wordlist in wordlists:
         this_freqdist = wordlist_to_freqdist(wordlist)[0]
-        freqdist.update(this_freqdist)
-    return freqdist
-
-
-def combine_wordlists_to_freqdist_normalized(wordlists):
-    """
-    NOTE: THIS FUNCTION DOESN'T WORK RIGHT YET
-    :param wordlists:
-    :return:
-    """
-    print("combining wordlists normalized")
-    freqdist = nltk.FreqDist()
-    for wordlist in wordlists:
-        this_freqdist, types, tokens = wordlist_to_freqdist(wordlist)
-        for word in this_freqdist:
-            this_freqdist[word] = normalize_count_permillion(this_freqdist[word], tokens)  # normalize the frequency
         freqdist.update(this_freqdist)
     return freqdist
 

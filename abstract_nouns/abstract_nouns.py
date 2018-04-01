@@ -23,25 +23,32 @@ def get_abstract_nouns_from_wordlist(infile):
     """
     Returns a dictionary of abstract nouns, with a separate entry for each suffix.
     :param infile: a .txt file containing a word list created from AntConc
-    :return: a dictionary of abstract nouns, with a separate entry for each suffix.
+    :return: a dictionary of abstract nouns, with a separate entry for each suffix. Also the number of tokens.
     """
     abstract_noun_dict = {suffix: [] for suffix in suffix_list}  # each suffix has a blank array (for word and frequency)
+    types = 0
+    tokens = 0
     linenum = 0
     for line in infile:
         if linenum < 3:  # first 3 lines contain metadata
+            if linenum == 0:
+                types = int(line[line.index("types")+7:])
+            elif linenum == 1:
+                tokens = int(line[line.index("tokens")+8:])
             linenum += 1
             continue
         data = str(line).split()
         word = data[2]
         frequency = int(data[1])
+        norm_frequency = frequency * 1000000 / tokens
         for idx in range(len(suffix_list)):
             suffix = suffix_list[idx]
             if word.endswith(suffix):
-                abstract_noun_dict[suffix].append((word, frequency))
+                abstract_noun_dict[suffix].append([word, frequency, norm_frequency])
                 break
         linenum += 1
     infile.close()
-    return abstract_noun_dict
+    return [abstract_noun_dict, types, tokens]
 
 
 def get_abstract_nouns_from_txt(infile):
@@ -137,7 +144,15 @@ def sort_abstract_nouns(aDict, sort_key='frequencyhi'):
               '"alphawordendlo", or "alphawordendhi"')
 
 
-def abstract_nouns_store_count(aDict, outfilename, num=10):
+def abstract_nouns_store_count(Dict_and_data, outfilename, num=10):
+    """
+
+    :param Dict_and_data:  a suffix Dict and type and token counts as created by get_abstract_nouns
+    :param outfilename:
+    :param num:
+    :return:
+    """
+    aDict, wordlist_types, wordlist_tokens = Dict_and_data
     total_types = 0
     total_tokens = 0
     count_dict = {suffix: [] for suffix in suffix_list}  # suffix: [types, tokens, [top_num]]
@@ -152,15 +167,21 @@ def abstract_nouns_store_count(aDict, outfilename, num=10):
         total_tokens += tokens
         count_dict[suffix].append(tokens)
         count_dict[suffix].append(entry[0:num+1])
+    try:
+        norm_types = total_types*1000000/wordlist_types
+        norm_tokens = total_tokens*1000000/wordlist_tokens
+    except ZeroDivisionError:
+        norm_types = 0
+        norm_tokens = 0
     f_out = open(outfilename, "w")
-    f_out.write("# Word types: %d\n" % total_types)
-    f_out.write("# Word tokens: %d\n" % total_tokens)
+    f_out.write("# Word types: %d\t%f\n" % (total_types, norm_types))
+    f_out.write("# Word tokens: %d\t%f\n" % (total_tokens, norm_tokens))
     for suffix in suffix_list:
         count_entry = count_dict[suffix]
         f_out.write("# %s types: %d\n" % (suffix, count_entry[0]))
         f_out.write("# %s tokens: %d\n" % (suffix, count_entry[1]))
         for freq_tup in count_entry[2]:
-            f_out.write("%s:\t%d\n" %(freq_tup[0], freq_tup[1]))
+            f_out.write("%s:\t%d\t%f\n" % (freq_tup[0], freq_tup[1], freq_tup[2]))
     f_out.close()
 
 
@@ -176,20 +197,22 @@ def walk_dir_abstract_nouns_spreadsheet(path, sort_key="frequencyhi", keyword="_
         os.chdir(item[0])  # change to the directory you are looking at. useful for reading and writing files
         for filename in item[2]:
             if filename.endswith(".txt") and keyword in filename:
-                this_dict = get_abstract_nouns_from_wordlist(open(filename))
+                this_dict = get_abstract_nouns_from_wordlist(open(filename))[0]  # don't care about types and tokens
                 sort_abstract_nouns(this_dict, sort_key)
                 store_spreadsheet(this_dict, filename[:filename.index(".txt")] + "_abstract_nouns")
 
 
 def walk_dir_count_abstract_nouns(path, out_dir, sort_key="frequencyhi", keyword="_python"):
+    # print(os.listdir(path))
     for item in os.walk(path):
+        # print("item", item)
         os.chdir(item[0])  # change to the directory you are looking at. useful for reading and writing files
         for filename in item[2]:
             if filename.endswith(".txt"):
                 print(filename)
-                this_dict = get_abstract_nouns_from_wordlist(open(filename))
-                sort_abstract_nouns(this_dict, sort_key)
-                abstract_nouns_store_count(this_dict, os.path.join(out_dir, filename[:filename.index(keyword)] + "_abstract nouns_python.txt"))
+                dict_and_data = get_abstract_nouns_from_wordlist(open(filename))
+                sort_abstract_nouns(dict_and_data[0], sort_key)
+                abstract_nouns_store_count(dict_and_data, os.path.join(out_dir, filename[:filename.index(keyword)] + "_abstract nouns_python.txt"))
 
 
 def main():
@@ -203,7 +226,11 @@ def main():
 if test:
     proj_dir = "/Volumes/2TB/Final_Project"
     wordlist_dir = os.path.join(proj_dir, "wordlists")
-    walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"))
+    # walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"))
+    # wordlist_dir = os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists")
+    # walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"), keyword="wordlist")
+    wordlist_dir = os.path.join(proj_dir, "Antconc results/AntConc/Ant Original Canon/Original Canon wordlists")
+    walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"), keyword="wordlist")
     # test_dict = get_abstract_nouns_from_wordlist(open("hist152_final_wordend.txt"))
     # sort_abstract_nouns(test_dict, "frequencyhi")
     # store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
