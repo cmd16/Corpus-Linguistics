@@ -589,6 +589,7 @@ def numpy_stats(csv_in, stat_list, out_csv_name, ratios=()):
                 ratio_val = val0 / val1
             except ZeroDivisionError:
                 ratio_val = 0
+            ratio_val *= 100  # make it a percentage
             stat_dict[ratio]["array"].append(ratio_val)
     f_in.close()
     # print(ratios)
@@ -615,6 +616,7 @@ def numpy_stats(csv_in, stat_list, out_csv_name, ratios=()):
                                                     entry["max"], entry["std"]]
         writer.writerow(row)
     for ratio in ratios:
+        entry = stat_dict[ratio]
         row = ["%s to %s" % (ratio[0], ratio[1]), entry["samples"], entry["mean"], entry["median"], entry["min"],
                                                     entry["max"], entry["std"]]
         writer.writerow(row)
@@ -904,6 +906,15 @@ range_tuples = [(1, 100), (1, 1000), (1001, 5000), (5001, 10000), (1001, 10000),
 ratings = ("General Audiences", "Teen And Up Audiences", "Mature", "Explicit", "Not Rated")
 
 fandom_numpy_stats(proj_dir, fandoms)
+
+for fandom in fandoms:
+    print(fandom)
+    duplicates = duplicate_ids(proj_dir, ["%s 1001-10000.txt" % fandom,
+        "%s 10000-100000.txt" % fandom])
+    f_out = open(os.path.join(proj_dir, "Fanfic lists/%s 10000.txt" % fandom), "w")
+    for dup in duplicates:
+        f_out.write(dup + "\n")
+    f_out.close()
 
 # duplicate_ids(proj_dir, ["Doctor Who 5001-10000.txt", "Doctor Who 10000-100000.txt"])
 # unique_ids(proj_dir, ["Doctor Who_hits_hi.txt", "Doctor Who_kudos_hi.txt"])

@@ -77,19 +77,6 @@ def get_abstract_nouns_from_txt(infile):
     return abstract_noun_dict
 
 
-def print_abstract_nouns(aDict):
-    """
-    Prints out the abstract nouns in a dictionary, formatted nicely.
-    :param aDict: a dictionary created by running get_abstract_nouns
-    :return:
-    """
-    for suffix in aDict:
-        print(suffix, "words:")
-        for word in aDict[suffix]:
-            print(word, aDict[suffix][word])  # print word and frequency
-        print()  # new line for spacing
-
-
 def store_spreadsheet(aDict, filename="Abstract Nouns Spreadsheet"):
     """
     Stores the abstract nouns and their frequencies in a spreadsheet.
@@ -146,11 +133,12 @@ def sort_abstract_nouns(aDict, sort_key='frequencyhi'):
 
 def abstract_nouns_store_count(Dict_and_data, outfilename, num=10):
     """
-
+    Count the most frequent num words in each
     :param Dict_and_data:  a suffix Dict and type and token counts as created by get_abstract_nouns
-    :param outfilename:
-    :param num:
+    :param outfilename: the txt file to store the abstract noun info in
+    :param num: the number of abstract nouns to store from each category
     :return:
+    :prerequisite: the Dict in Dict_and_data is sorted by frequencyhi (high to low)
     """
     aDict, wordlist_types, wordlist_tokens = Dict_and_data
     total_types = 0
@@ -185,11 +173,12 @@ def abstract_nouns_store_count(Dict_and_data, outfilename, num=10):
     f_out.close()
 
 
-def walk_dir_abstract_nouns_spreadsheet(path, sort_key="frequencyhi", keyword="_antconc"):
+def walk_dir_abstract_nouns_spreadsheet(path, keyword="_antconc"):
     """
     Walks through a directory and makes a spreadsheet of abstract nouns for each file in the directory.
     Preconditions: _antconc is in the filename of each wordlist file
     :param path: the path to a directory containing- AntConc wordlists and/or folders containing AntConc wordlists
+    :param keyword: the word that indicates the file is a wordlist
     :return:
     """
     for item in os.walk(path):
@@ -198,11 +187,19 @@ def walk_dir_abstract_nouns_spreadsheet(path, sort_key="frequencyhi", keyword="_
         for filename in item[2]:
             if filename.endswith(".txt") and keyword in filename:
                 this_dict = get_abstract_nouns_from_wordlist(open(filename))[0]  # don't care about types and tokens
-                sort_abstract_nouns(this_dict, sort_key)
+                sort_abstract_nouns(this_dict, "frequencyhi")
                 store_spreadsheet(this_dict, filename[:filename.index(".txt")] + "_abstract_nouns")
 
 
-def walk_dir_count_abstract_nouns(path, out_dir, sort_key="frequencyhi", keyword="_python"):
+def walk_dir_count_abstract_nouns(path, out_dir, keyword="_python"):
+    """
+    Walks through a directory of wordlists and counts the abstract nouns, then stores this information in a file for each wordlist
+    in the directory specified
+    :param path: the directory containing wordlists
+    :param out_dir: the directory to store the results in
+    :param keyword: the keyword that indicates the file is a wordlist
+    :return:
+    """
     # print(os.listdir(path))
     for item in os.walk(path):
         # print("item", item)
@@ -211,33 +208,7 @@ def walk_dir_count_abstract_nouns(path, out_dir, sort_key="frequencyhi", keyword
             if filename.endswith(".txt"):
                 print(filename)
                 dict_and_data = get_abstract_nouns_from_wordlist(open(filename))
-                sort_abstract_nouns(dict_and_data[0], sort_key)
+                sort_abstract_nouns(dict_and_data[0], "frequencyhi")
                 abstract_nouns_store_count(dict_and_data, os.path.join(out_dir, filename[:filename.index(keyword)] + "_abstract nouns_python.txt"))
 
 
-def main():
-    this_dict = get_abstract_nouns_from_wordlist(open(input("Name of the file containing the wordlist: ")))
-    sort_type = input('Sort words by "frequencyhi" (high to low), "frequencylo" (low to high), "alpha", "reversealpha", '
-        '"alphawordend", or "reversealphawordend": ')
-    sort_abstract_nouns(this_dict, sort_type)
-    store_spreadsheet(this_dict, input("Name of spreadsheet to store results in: "))
-
-# test code
-if test:
-    proj_dir = "/Volumes/2TB/Final_Project"
-    wordlist_dir = os.path.join(proj_dir, "wordlists")
-    # walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"))
-    # wordlist_dir = os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists")
-    # walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"), keyword="wordlist")
-    wordlist_dir = os.path.join(proj_dir, "Antconc results/AntConc/Ant Original Canon/Original Canon wordlists")
-    walk_dir_count_abstract_nouns(wordlist_dir, os.path.join(proj_dir, "Abstract Nouns"), keyword="wordlist")
-    # test_dict = get_abstract_nouns_from_wordlist(open("hist152_final_wordend.txt"))
-    # sort_abstract_nouns(test_dict, "frequencyhi")
-    # store_spreadsheet(test_dict, "test_spreadsheet.xlsx")
-    # test_dict2 = get_abstract_nouns_from_txt(open("HIST152_academicessay_Dec1616_Final.txt"))
-    # assert test_dict == test_dict2
-    # store_spreadsheet(test_dict2, "test_spreadsheet2.xlsx")
-
-
-# main code
-# main()
