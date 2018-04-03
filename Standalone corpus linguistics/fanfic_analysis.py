@@ -47,7 +47,7 @@ def year_wordlists(proj_dir, fandoms, years):
         _fandom = fandom.replace(" ", "_")
         for year in years:
             print(fandom, year)
-            freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/%s %d.txt" % (fandom, year)),
+            freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/%s %s.txt" % (fandom, year)),
                                         os.path.join(proj_dir, "Fanfic_all"))
             freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, year)))
 
@@ -87,11 +87,6 @@ def anomaly_wordlists(proj_dir, fandoms, stat_tup):
         for stat in stat_tup:
             print(fandom, stat)
             fandom_replaced = fandom.replace(" ", "_")
-            freqdist = freqdist_from_idfile(
-                os.path.join(proj_dir, "Fanfic lists/%s_%s_lo.txt" % (fandom, stat)),
-                os.path.join(proj_dir, "Fanfic_all"))
-            freqdist_to_wordlistfile(freqdist,
-                                 os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)))
             freqdist = freqdist_from_idfile(
                 os.path.join(proj_dir, "Fanfic lists/%s_%s_hi.txt" % (fandom, stat)),
                 os.path.join(proj_dir, "Fanfic_all"))
@@ -245,35 +240,9 @@ def anomaly_keywords(proj_dir, fandoms, stat_tup):  # TODO: hits hi vs comments 
     for fandom in fandoms:
         for stat in stat_tup:
             print(fandom, stat)
-            fandom_replaced = fandom.replace(" ", "_")
-            keyword_dict = keyword_tuple_from_wordlists(
-                os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)),
-                os.path.join(proj_dir,
-                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                             "%s Fanfic wordlist.txt" % fandom))
-            if keyword_dict:
-                store_keyword_txt(keyword_dict,
-                              os.path.join(proj_dir, "Keywords/%s_%s lo vs fanfic_python.txt" % (fandom, stat)))
-            keyword_dict = keyword_tuple_from_wordlists(
-                os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)),
-                os.path.join(proj_dir,
-                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                             "%s Fanfic wordlist.txt" % fandom))
             if keyword_dict:
                 store_keyword_txt(keyword_dict,
                               os.path.join(proj_dir, "Keywords/%s_%s hi vs fanfic_python.txt" % (fandom, stat)))
-            keyword_dict = keyword_tuple_from_wordlists(
-                os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)),
-                os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)))
-            if keyword_dict:
-                store_keyword_txt(keyword_dict,
-                              os.path.join(proj_dir, "Keywords/%s_%s lo vs hi_python.txt" % (fandom, stat)))
-            keyword_dict = keyword_tuple_from_wordlists(
-                os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)),
-                os.path.join(proj_dir, "wordlists/%s_%s_lo_python.txt" % (fandom_replaced, stat)))
-            if keyword_dict:
-                store_keyword_txt(keyword_dict,
-                              os.path.join(proj_dir, "Keywords/%s_%s hi vs lo_python.txt" % (fandom, stat)))
 
 
 def csv_keywords(proj_dir, fandoms):
@@ -436,10 +405,10 @@ stat_tup = ("comments", "kudos", "hits", "bookmarks")  # TODO: words later?
 
 fix_fands = ("Sherlock", "Star Trek")
 
-category_wordlists(proj_dir, fix_fands, categories)
-au_wordlists(proj_dir, fix_fands)
-tags_wordlists(proj_dir, fix_fands, tags)
-status_wordlists(proj_dir, fix_fands, statuses)
+# category_wordlists(proj_dir, fix_fands, categories)
+# au_wordlists(proj_dir, fix_fands)
+# tags_wordlists(proj_dir, fix_fands, tags)
+# status_wordlists(proj_dir, fix_fands, statuses)
 year_wordlists(proj_dir, fix_fands, years)
 wordnum_wordlists(proj_dir, fix_fands, range_tuples)
 rating_wordlists(proj_dir, fix_fands, ratings)
