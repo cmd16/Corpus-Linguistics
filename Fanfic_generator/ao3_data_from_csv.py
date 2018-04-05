@@ -109,8 +109,7 @@ def ao3_edit_csv(csv_in, csv_out):
     f_out = open(csv_out, 'w')
     reader = csv.reader(f_in)
     writer = csv.writer(f_out)
-    # header = next(reader)
-    # writer.writerow(header)
+    header = next(reader)
     stat_names = ['work_id', 'title', 'rating', 'category', 'fandom', 'relationship', 'character', 'additional tags',
                   'language',
                   'published', 'status', 'status date', 'words', 'chapters', 'comments', 'kudos', 'bookmarks', 'hits']  # no column for body
@@ -1035,7 +1034,6 @@ range_tuples = [(1, 100), (1, 1000), (1001, 5000), (5001, 10000), (1001, 10000),
                    (100001, 500000), (500001, 1000000), (100001, 1000000)]
 ratings = ("General Audiences", "Teen And Up Audiences", "Mature", "Explicit", "Not Rated")
 
-fix_fands = ["Doctor Who", "Hamilton", "Tolkien", "Undertale"]
 # for fandom in fix_fands:
 #     print(fandom)
 #     _fandom = fandom.replace(" ", "_")
@@ -1050,8 +1048,8 @@ fix_fands = ["Doctor Who", "Hamilton", "Tolkien", "Undertale"]
 # word_ids(proj_dir, fix_fands, range_tuples)
 # rating_ids(proj_dir, fix_fands, ratings)
 # fandom_id_files(proj_dir)
-fandom_numpy_stats(proj_dir, fandoms)
-fandom_anomaly_ids(proj_dir, fandoms)
+# fandom_numpy_stats(proj_dir, fandoms)
+# fandom_anomaly_ids(proj_dir, fandoms)
 
 # for filename in os.listdir(os.path.join(proj_dir, "Fanfic lists")):
 #     if filename.endswith(".txt"):
