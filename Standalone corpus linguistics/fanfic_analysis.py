@@ -82,16 +82,16 @@ def fandom_group_wordlists(proj_dir):
         freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_python.txt" % cross))
 
 
-def anomaly_wordlists(proj_dir, fandoms, stat_tup):
+def anomaly_wordlists(proj_dir, fandoms, stats):
     for fandom in fandoms:
-        for stat in stat_tup:
+        for stat in stats:
             print(fandom, stat)
-            fandom_replaced = fandom.replace(" ", "_")
+            _fandom = fandom.replace(" ", "_")
             freqdist = freqdist_from_idfile(
-                os.path.join(proj_dir, "Fanfic lists/%s_%s_hi.txt" % (fandom, stat)),
+                os.path.join(proj_dir, "Fanfic lists/%s %s hi.txt" % (fandom, stat)),
                 os.path.join(proj_dir, "Fanfic_all"))
             freqdist_to_wordlistfile(freqdist,
-                                     os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (fandom_replaced, stat)))
+                                     os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (_fandom, stat)))
 
 
 def category_keywords(proj_dir, fandoms, categories, comparisons):
@@ -242,10 +242,12 @@ def fandom_group_keywords(proj_dir):
                                        "Keywords/%s vs %s_python.txt" % (comparison[0], comparison[1])))
 
 
-def anomaly_keywords(proj_dir, fandoms, stat_tup):  # TODO: hits hi vs comments hi vs bookmarks hi
+def anomaly_keywords(proj_dir, fandoms, stats):  # TODO: hits hi vs comments hi vs bookmarks hi
     for fandom in fandoms:
-        for stat in stat_tup:
+        _fandom = fandom.replace(" ", "_")
+        for stat in stats:
             print(fandom, stat)
+            keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (_fandom, stat)))
             if keyword_dict:
                 store_keyword_txt(keyword_dict,
                               os.path.join(proj_dir, "Keywords/%s_%s hi vs fanfic_python.txt" % (fandom, stat)))
@@ -375,9 +377,11 @@ def fandom_similar_keywords(proj_dir, fandoms):
         os.path.join(proj_dir, "Similar Keywords/Fanfic vs canon_python.csv"))
 
 
-def anomaly_similar_keywords(proj_dir, fandoms):
-    stat_tup = ("comments", "kudos", "hits", "bookmarks")
-    # TODO: finish
+def anomaly_similar_keywords(proj_dir, fandoms, stats):
+    for stat in stats:
+        print(stat)
+        find_similar_keywords([os.path.join(proj_dir, "Keywords/%s_%s hi vs fanfic_python.txt" % x) for x in fandoms],
+                              os.path.join(proj_dir, "Similar Keywords/%s hi vs fanfic_python.csv"))
 
 
 proj_dir = "/Volumes/2TB/Final_Project"
@@ -405,46 +409,46 @@ for year in range(2009, 2015):
     year_fandoms[str(year)] = ("Doctor Who", "Les Mis", "Sherlock", "Star Trek", "Tolkien")
     year_fandoms[str(year)] = ("Doctor Who", "Les Mis", "Sherlock", "Star Trek", "Tolkien")
 range_tuples = [(1, 100), (1, 1000), (1001, 5000), (5001, 10000), (1001, 10000), (10001, 50000), (50001, 100000),
-                    (10000, 100000), (100001, 500000), (500001, 1000000), (100001, 1000000)]
+                    (10001, 100000), (100001, 500000), (500001, 1000000), (100001, 1000000)]
 ratings = ("General Audiences", "Teen And Up Audiences", "Mature", "Explicit", "Not Rated")
 rating_combinations = [("Mature and Explicit"), ("Teen And Up Audiences and Mature and Explicit"),
                    ("General Audiences and Teen And Up Audiences"), ("General Audiences and Not Rated")]
-stat_tup = ("comments", "kudos", "hits", "bookmarks")  # TODO: words later?
+single_stats = ["comments", "kudos", "hits", "bookmarks"]  # TODO: words later?
+ratios = [("comments", "hits"), ("kudos", "hits"), ("bookmarks", "hits"), ("comments", "kudos")]
+stats = single_stats + [ratio[0] + " to " + ratio[1] for ratio in ratios]
 
-for fandom in fandoms:
-    print(fandom)
-    _fandom = fandom.replace(" ", "_")
-    freqdist0 = wordlist_to_freqdist(os.path.join(proj_dir, "wordlists/%s_10000-100000_python.txt" % _fandom))
-    freqdist1 = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/%s 10000.txt" % fandom), os.path.join(proj_dir, "Fanfic_all"))
-    freqdist_to_wordlistfile(freqdist1, os.path.join(proj_dir, "wordlists/%s_10000_python.txt" % (_fandom)))
-    freqdist = freqdist_minus_freqdist(freqdist0, freqdist1)
-    freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_10001-100000_python.txt" % (_fandom)))
+# for fandom in fandoms:
+#     print(fandom)
+#     _fandom = fandom.replace(" ", "_")
+#     freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/%s 10001-100000.txt" % fandom), os.path.join(proj_dir, "Fanfic_all"))
+#     freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_10001-100000_python.txt" % (_fandom)))
 
 
-# category_wordlists(proj_dir, fix_fands, categories)
-# au_wordlists(proj_dir, fix_fands)
-# tags_wordlists(proj_dir, fix_fands, tags)
-# status_wordlists(proj_dir, fix_fands, statuses)
-# year_wordlists(proj_dir, fix_fands, years)
-# wordnum_wordlists(proj_dir, fix_fands, range_tuples)
-# rating_wordlists(proj_dir, fix_fands, ratings)
-# anomaly_wordlists(proj_dir, fix_fands, stat_tup)
-#
-# category_keywords(proj_dir, fandoms, categories, category_comparisons)
-# au_keywords(proj_dir, fandoms)
-# tags_keywords(proj_dir, fandoms, tags, tag_comparisons)
-# status_keywords(proj_dir, fandoms, statuses, status_comparisons)
-# year_keywords(proj_dir, fandoms, year_fandoms, [])  # TODO: add comparisons?
-# wordnum_keywords(proj_dir, fandoms, range_tuples)
-# rating_keywords(proj_dir, fandoms, ratings, [])
-# csv_keywords(proj_dir, fandoms)
-# anomaly_keywords(proj_dir, fandoms, stat_tup)
-#
-# category_similar_keywords(proj_dir, fandoms, categories, category_comb_comparisons, category_comparisons)
-# au_similar_keywords(proj_dir, fandoms)
-# tags_similar_keywords(proj_dir, fandoms, tags, tag_comparisons, tag_combinations)
-# status_similar_keywords(proj_dir, fandoms, statuses)
-# year_similar_keywords(proj_dir, year_fandoms)
-# word_similar_keywords(proj_dir, fandoms, range_tuples)
-# rating_similar_keywords(proj_dir, fandoms, ratings, [], rating_combinations)
-# fandom_similar_keywords(proj_dir, fandoms)
+category_wordlists(proj_dir, fandoms, categories)
+au_wordlists(proj_dir, fandoms)
+tags_wordlists(proj_dir, fandoms, tags)
+status_wordlists(proj_dir, fandoms, statuses)
+year_wordlists(proj_dir, year_fandoms)
+wordnum_wordlists(proj_dir, fandoms, range_tuples)
+rating_wordlists(proj_dir, fandoms, ratings)
+anomaly_wordlists(proj_dir, fandoms, stats)
+
+category_keywords(proj_dir, fandoms, categories, category_comparisons)
+au_keywords(proj_dir, fandoms)
+tags_keywords(proj_dir, fandoms, tags, tag_comparisons)
+status_keywords(proj_dir, fandoms, statuses, status_comparisons)
+year_keywords(proj_dir, fandoms, year_fandoms, [])  # TODO: add comparisons?
+wordnum_keywords(proj_dir, fandoms, range_tuples)
+rating_keywords(proj_dir, fandoms, ratings, [])
+csv_keywords(proj_dir, fandoms)
+anomaly_keywords(proj_dir, fandoms, stats)
+
+category_similar_keywords(proj_dir, fandoms, categories, category_comb_comparisons, category_comparisons)
+au_similar_keywords(proj_dir, fandoms)
+tags_similar_keywords(proj_dir, fandoms, tags, tag_comparisons, tag_combinations)
+status_similar_keywords(proj_dir, fandoms, statuses)
+year_similar_keywords(proj_dir, year_fandoms)
+word_similar_keywords(proj_dir, fandoms, range_tuples)
+rating_similar_keywords(proj_dir, fandoms, ratings, [], rating_combinations)
+fandom_similar_keywords(proj_dir, fandoms)
+anomaly_similar_keywords(proj_dir, fandoms, stats)

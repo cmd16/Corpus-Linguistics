@@ -100,7 +100,7 @@ def ao3_count_stats_from_csv(csv_in):
 
 def ao3_edit_csv(csv_in, csv_out):
     """
-    Create a new csv, removing any fics with that have 0 words or can't be opened (because the file doesn't exist
+    Create a new csv, removing any fics with that have 0 words, can't be opened (because the file doesn't exist), or are duplicates
     :param csv_in: a csv created using ao3_get_fanfics.py
     :param csv_out: the modified csv file
     :return:
@@ -121,18 +121,19 @@ def ao3_edit_csv(csv_in, csv_out):
     fanfic_dir = "/Volumes/2TB/Final_project/Fanfic_all"
     ids_seen = []
     for row in reader:
-        if row[0] == "work_id":
+        idname = row[header['work_id']]
+        if idname == "work_id":
             continue
         word_count = row[header["words"]]
-        idname = row[header['work_id']]
         if word_count != 'null' and word_count != '' and word_count != 0 and word_count != "0":
             if idname in ids_seen:
+                print("repeat", csv_in, idname)
                 continue
             try:
                 txt_in = open(os.path.join(fanfic_dir, str(row[0]) + ".txt"))
                 for i in range(20):
                     if re.search('[a-zA-Z]', txt_in.readline()):  # search the first 20 lines for letters
-                        writer.writerow(row[:len(row) - 1])  # don't need to write the body of the fic
+                        writer.writerow(row[:len(stat_names)])  # don't need to write the body of the fic
                         ids_seen.append(idname)
                         break
                 else:  # couldn't find letters
@@ -199,9 +200,11 @@ def get_numwords_ids(csv_in, out_txt_name, min_words, max_words):
     f_out = open(out_txt_name, 'a+')
     reader = csv.reader(f_in)
     header = next(reader)
-    print(header)
+    # print(header)
     header = {stat: header.index(stat) for stat in header}
+    seen = []
     for row in reader:
+        work_id = row[header["work_id"]]
         try:
             word_count = int(row[header["words"]])
         except ValueError:
@@ -209,8 +212,9 @@ def get_numwords_ids(csv_in, out_txt_name, min_words, max_words):
         if word_count == 'null' or word_count == '':
             continue
         if min_words <= word_count <= max_words:
-            f_out.write(row[header["work_id"]])
+            f_out.write(work_id)
             f_out.write("\n")
+            seen.append(work_id)
 
 
 def get_rating_ids(csv_in, out_txt_name, rating):
@@ -231,13 +235,19 @@ def get_rating_ids(csv_in, out_txt_name, rating):
                   'published', 'status', 'status date', 'words', 'chapters', 'comments', 'kudos', 'bookmarks', 'hits',
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
+    seen = []
     for row in reader:
         rating_str = row[header['rating']]
         if rating_str == 'null' or rating_str == '':
             continue
         if rating_str == rating:
-            f_out.write(row[header['work_id']])
-            f_out.write("\n")
+            work_id = row[header['work_id']]
+            if work_id in seen:
+                print(out_txt_name, work_id)
+            else:
+                f_out.write(work_id)
+                f_out.write("\n")
+                seen.append(work_id)
     f_in.close()
     f_out.close()
 
@@ -260,7 +270,12 @@ def get_fandom_ids(csv_in, out_txt_name, fandom_list):
                   'published', 'status', 'status date', 'words', 'chapters', 'comments', 'kudos', 'bookmarks', 'hits',
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
+    seen = []
     for row in reader:
+        work_id = row[header['work_id']]
+        if work_id in seen:
+            print(out_txt_name, work_id)
+            continue
         fandom_str = row[header['fandom']]
         if fandom_str == 'null' or fandom_str == '':
             continue
@@ -271,6 +286,7 @@ def get_fandom_ids(csv_in, out_txt_name, fandom_list):
         else:  # if all fandoms were in the valid list
             f_out.write(row[header['work_id']])
             f_out.write("\n")
+            seen.append(work_id)
     f_in.close()
     f_out.close()
 
@@ -292,12 +308,17 @@ def get_csv_ids(csv_in, out_txt_name):
                   'published', 'status', 'status date', 'words', 'chapters', 'comments', 'kudos', 'bookmarks', 'hits',
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
+    seen = []
     for row in reader:
         word_str = row[header['words']]
         if word_str == 'null' or word_str == '' or word_str == 0:
             continue
-        f_out.write(row[header['work_id']])
-        f_out.write("\n")
+        work_id = row[header["work_id"]]
+        if work_id in seen:
+            print(out_txt_name, work_id)
+        else:
+            f_out.write(work_id)
+            f_out.write("\n")
     f_in.close()
 
 
@@ -357,6 +378,7 @@ def get_category_ids(csv_in, out_txt_name, categories):
     :param categories: categories to match
     :return:
     """
+    seen = []
     f_in = open(csv_in, 'r+')
     f_out = open(out_txt_name, 'w')
     reader = csv.reader(f_in)
@@ -375,8 +397,13 @@ def get_category_ids(csv_in, out_txt_name, categories):
         categories.sort()
         category_list.sort()
         if categories == category_list:  # if the lists of categories are identical
-            f_out.write(row[header['work_id']])
-            f_out.write("\n")
+            work_id = row[header['work_id']]
+            if work_id in seen:
+                print(out_txt_name, work_id)
+            else:
+                f_out.write(work_id)
+                f_out.write("\n")
+                seen.append(work_id)
     f_in.close()
     f_out.close()
 
@@ -402,9 +429,14 @@ def get_tag_ids(csv_in, out_txt_name, tags, num=1, exact=False, solo=True):  # T
                   'published', 'status', 'status date', 'words', 'chapters', 'comments', 'kudos', 'bookmarks', 'hits',
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
+    seen = []
     for row in reader:
         tag_str = row[header['additional tags']]
         if tag_str == 'null' or tag_str == '':
+            continue
+        work_id = row[header["work_id"]]
+        if work_id in seen:
+            print(out_txt_name, work_id)
             continue
         num_found = 0
         if exact:
@@ -419,6 +451,7 @@ def get_tag_ids(csv_in, out_txt_name, tags, num=1, exact=False, solo=True):  # T
                     if num_found >= num:  # if no invalid tags present and enough valid tags found
                         f_out.write(row[header['work_id']])
                         f_out.write("\n")
+                        seen.append(work_id)
             else:
                 for tag in tags:
                     if tag in tags:
@@ -426,6 +459,7 @@ def get_tag_ids(csv_in, out_txt_name, tags, num=1, exact=False, solo=True):  # T
                 if num_found >= num:  # if enough valid tags found
                     f_out.write(row[header['work_id']])
                     f_out.write("\n")
+                    seen.append(work_id)
         else:
             if solo:
                 for tag in tags:
@@ -434,14 +468,16 @@ def get_tag_ids(csv_in, out_txt_name, tags, num=1, exact=False, solo=True):  # T
                 if num_found >= num:  # if enough of the tags are in the string
                     f_out.write(row[header['work_id']])
                     f_out.write("\n")
+                    seen.append(work_id)
             else:
                 tag_list = tag_str.split(", ")
                 for tag in tags:
                     if tag in tag_str:
                         num_found += 1
                 if num_found >= num and num_found == len(tag_list):  # this means no other tags exist
-                    f_out.write(row[header['work_id']])
+                    f_out.write(work_id)
                     f_out.write("\n")
+                    seen.append(work_id)
     f_in.close()
     f_out.close()
 
@@ -464,10 +500,16 @@ def get_status_ids(csv_in, out_txt_name, status):
                   'published', 'status', 'status date', 'words', 'chapters', 'comments', 'kudos', 'bookmarks', 'hits',
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
+    seen = []
     for row in reader:
         if row[header['status']] == status:  # if the lists of categories are identical
-            f_out.write(row[header['work_id']])
-            f_out.write("\n")
+            work_id = row[header['work_id']]
+            if work_id in seen:
+                print(out_txt_name, work_id)
+            else:
+                f_out.write(work_id)
+                f_out.write("\n")
+                seen.append(work_id)
     f_in.close()
     f_out.close()
 
@@ -492,10 +534,16 @@ def get_published_year_ids(csv_in, out_txt_name, year):
                   'published', 'status', 'status date', 'words', 'chapters', 'comments', 'kudos', 'bookmarks', 'hits',
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
+    seen = []
     for row in reader:
         if year in row[header['published']]:  # if the lists of categories are identical
-            f_out.write(row[header['work_id']])
-            f_out.write("\n")
+            work_id = row[header['work_id']]
+            if work_id in seen:
+                print(out_txt_name, work_id)
+            else:
+                f_out.write(work_id)
+                f_out.write("\n")
+                seen.append(work_id)
     f_in.close()
     f_out.close()
 
@@ -551,11 +599,16 @@ def numpy_stats(csv_in, stat_list, out_csv_name, ratios=()):
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
     stat_dict = {}
+    seen = []
     for value in stat_list:
         stat_dict[value] = {"array": [], "samples": 0, "mean": 0, "median": 0, "min": 0, "max": 0, "std": 0}
     for ratio in ratios:
         stat_dict[ratio] = {"array": [], "samples": 0, "mean": 0, "median": 0, "min": 0, "max": 0, "std": 0}
     for row in reader:
+        work_id = row[header["work_id"]]
+        if work_id in seen:
+            print(csv_in, work_id)
+            continue
         for item in stat_list:
             value = row[header[item]]
             try:
@@ -589,8 +642,8 @@ def numpy_stats(csv_in, stat_list, out_csv_name, ratios=()):
                 ratio_val = val0 / val1
             except ZeroDivisionError:
                 ratio_val = 0
-            ratio_val *= 100  # make it a percentage
             stat_dict[ratio]["array"].append(ratio_val)
+            seen.append(work_id)
     f_in.close()
     # print(ratios)
     # print(stat_list)
@@ -643,7 +696,7 @@ def get_anomaly_info(stat_csv):
     return stat_conds
 
 
-def get_anomaly_ids(stat_conds, csv_in, outfiledict):
+def get_anomaly_ids(stat_conds, csv_in, outfiledict, ratio_dict=()):
     """
     Get the ids of fics that are anomalous according to stat_conds
     :param stat_conds: maps each stat to the low threshold and the high threshold
@@ -658,27 +711,100 @@ def get_anomaly_ids(stat_conds, csv_in, outfiledict):
                   'hits',
                   'body']
     header = {stat: stat_names.index(stat) for stat in stat_names}
+    seen = []
     for stat in stat_conds:
+        if stat not in outfiledict:
+            continue  # we'll get it in the ratios
         print(stat)
         min, max = stat_conds[stat]
         lo_name = outfiledict[stat].replace("val", "lo")
+        hi_name = outfiledict[stat].replace("val", "hi")
         out_lo = open(lo_name, "w")
-        out_hi = open(outfiledict[stat].replace("val", "hi"), "w")
+        out_hi = open(hi_name, "w")
         with open(csv_in) as f_in:
             reader = csv.reader(f_in)
             next(reader)
             for row in reader:
+                work_id = row[header['work_id']]
+                if work_id in seen:
+                    print("anomaly", work_id)
+                    continue
                 value = row[header[stat]]
                 try:
                     value = int(value)
                 except ValueError:
                     value = 0
                 if value < min:
-                    out_lo.write(row[header['work_id']] + '\n')
+                    out_lo.write(work_id + '\n')
+                    seen.append(work_id)
                 elif value > max:
-                    out_hi.write(row[header['work_id']] + '\n')
+                    out_hi.write(work_id + '\n')
+                    seen.append(work_id)
         out_hi.close()
         out_lo.close()
+    for ratio in ratio_dict:
+        ratio_name = "%s to %s" % (ratio[0], ratio[1])
+        print(ratio)
+        min, max = stat_conds[ratio_name]
+        lo_name = ratio_dict[ratio].replace("val", "lo")
+        hi_name = ratio_dict[ratio].replace("val", "hi")
+        out_lo = open(lo_name, "w")
+        out_hi = open(hi_name, "w")
+        with open(csv_in) as f_in:
+            reader = csv.reader(f_in)
+            next(reader)
+            for row in reader:
+                work_id = row[header['work_id']]
+                if work_id in seen:
+                    print("anomaly", work_id)
+                    continue
+                val0 = row[header[ratio[0]]]
+                val1 = row[header[ratio[1]]]
+                try:
+                    val0 = int(val0)
+                    val1 = int(val1)
+                except ValueError:
+                    if val0 == "null" or val0 == "":
+                        val0 = 0
+                    else:
+                        val0 = int(val0)
+                    if val1 == "null" or val1 == "":
+                        val1 = 0
+                    elif val0 != 0:  # if neither thing worked
+                        print("ValueError:", val0, val1)
+                        return
+                    else:
+                        val1 = int(val1)
+                try:
+                    ratio_val = val0 / val1
+                except ZeroDivisionError:
+                    ratio_val = 0
+                if ratio_val < min:
+                    out_lo.write(work_id + '\n')
+                    seen.append(work_id)
+                elif ratio_val > max:
+                    out_hi.write(work_id + '\n')
+                    seen.append(work_id)
+        out_hi.close()
+        out_lo.close()
+
+
+def remove_ids_from_idlist(idlistfile, idfile_to_remove):
+    to_remove = []
+    f_in = open(idfile_to_remove)
+    for line in f_in:
+        line = line.strip()
+        to_remove.append(line)
+    f_in.close()
+    f_in = open(idlistfile)
+    outname = idlistfile.replace(".txt", "temp.txt")
+    f_out = open(outname, "w")
+    for line in f_in:
+        if line.strip() not in to_remove:
+            f_out.write(line)  # includes the newline
+    f_out.close()
+    f_in.close()
+    os.rename(outname, idlistfile)
 
 
 def only_english(csv_in, csv_out):
@@ -774,6 +900,7 @@ def fandom_id_files(proj_dir):
     get_fandom_ids(os.path.join(proj_dir, "CSV/Hamilton_edit.csv"), os.path.join(proj_dir, "Fanfic lists/Hamilton.txt"),
                    ["Hamilton - Miranda", "Hamilton - Fandom", "Historical RPF", "18th & 19th Century CE RPF", "American Revolution RPF",
                     "Hamilton-Miranda", "18th Century CE RPF", "19th Century CE RPF", "Hamilton- Miranda", "Alexander Hamilton - Ron Chernow"])
+    print("LM")
     get_fandom_ids(os.path.join(proj_dir, "CSV/Les_Mis_edit.csv"), os.path.join(proj_dir, "Fanfic lists/Les Mis.txt"),
                    ["Les Miserables - All Media Types", "Les Miserables - Victor Hugo", "Les Miserables (2012)",
                     "Les Miserables - Schonberg/Boublil", "Les Miserables", "Les Miserables (Dallas 2014)", "les mis"])
@@ -782,7 +909,7 @@ def fandom_id_files(proj_dir):
                    ["Sherlock (TV)", "Sherlock Holmes & Related Fandoms", "Elementary (TV)", "Elementary", "Sherlock Holmes - Arthur Conan Doyle",
                     "Sherlock - Fandom", "Sherlock BBC", "BBC Sherlock", "Sherlock Holmes (2009)", "Sherlock Holmes (Downey films)",
                     "Sherlock Holmes (1984 TV)", "Sherlock Holmes - Doyle"])
-    print("SH BBC")
+    print("BBC SH")
     get_fandom_ids(os.path.join(proj_dir, "CSV/Sherlock_edit.csv"), os.path.join(proj_dir, "Fanfic lists/BBC Sherlock.txt"),
                    ["Sherlock (TV)", "Sherlock Holmes & Related Fandoms", "Sherlock - Fandom", "Sherlock BBC", "BBC Sherlock"])
     print("ST")
@@ -842,12 +969,15 @@ def fandom_anomaly_hist(proj_dir):
 
 def fandom_anomaly_ids(proj_dir, fandoms):
     stat_list = ["words", "comments", "kudos", "hits", "bookmarks"]
+    ratios = [("comments", "hits"), ("kudos", "hits"), ("bookmarks", "hits"), ("comments", "kudos")]
     for fandom in fandoms:
         _fandom = fandom.replace(" ", "_")
         print(fandom)
         stat_conds = get_anomaly_info(os.path.join(proj_dir, "CSV stats/%s num stats.csv" % fandom))
-        outfiledict = {stat: os.path.join(proj_dir, "Fanfic lists/%s_%s_val.txt" % (fandom, stat)) for stat in stat_list}
-        get_anomaly_ids(stat_conds, os.path.join(proj_dir, "CSV/%s_edit.csv" % _fandom), outfiledict)
+        outfiledict = {stat: os.path.join(proj_dir, "Fanfic lists1/%s %s val.txt" % (fandom, stat)) for stat in stat_list}  # TODO: change back
+        ratio_dict = {ratio: os.path.join(proj_dir, "Fanfic lists1/%s %s to %s val.txt" % (fandom, ratio[0], ratio[1])) for ratio in ratios}
+        # TODO: change back
+        get_anomaly_ids(stat_conds, os.path.join(proj_dir, "CSV/%s_edit.csv" % _fandom), outfiledict, ratio_dict=ratio_dict)
 
 
 def duplicate_ids(proj_dir, idfiles):
@@ -879,20 +1009,20 @@ def unique_ids(proj_dir, idfiles):
     :param idfiles: a list of id files
     :return: a list of the unique ids
     """
-    first = []
+    first_list = []
     f_in = open(os.path.join(proj_dir, "Fanfic lists/" + idfiles[0]))
     for line in f_in:
         current_id = line.strip()
-        first.append(current_id)
+        first_list.append(current_id)
     f_in.close()
     for filename in idfiles[1:]:
         f_in = open(os.path.join(proj_dir, "Fanfic lists/" + filename))
         for line in f_in:
             current_id = line.strip()
-            if current_id in first:
-                first.remove(current_id)
+            if current_id in first_list:
+                first_list.remove(current_id)
         f_in.close()
-    return first
+    return first_list
 
 
 proj_dir = "/Volumes/2TB/Final_project"
@@ -901,23 +1031,472 @@ categories = ("F/M", "M/M", "F/F", "Gen", "Multi", "Other")
 tags = ("Fluff", "Angst", "Humor", "Romance", "Hurt/Comfort", "Established", "Friendship", "Crack")
 statuses = ("Completed", "Updated")
 years = [str(x) for x in range(2009, 2019)]
-range_tuples = [(1, 100), (1, 1000), (1001, 5000), (5001, 10000), (1001, 10000), (10001, 50000), (50001, 100000), (10000, 100000),
+range_tuples = [(1, 100), (1, 1000), (1001, 5000), (5001, 10000), (1001, 10000), (10001, 50000), (50001, 100000), (10001, 100000),
                    (100001, 500000), (500001, 1000000), (100001, 1000000)]
 ratings = ("General Audiences", "Teen And Up Audiences", "Mature", "Explicit", "Not Rated")
 
-fandom_numpy_stats(proj_dir, fandoms)
+fix_fands = ["Doctor Who", "Hamilton", "Tolkien", "Undertale"]
+# for fandom in fix_fands:
+#     print(fandom)
+#     _fandom = fandom.replace(" ", "_")
+#     ao3_edit_csv(os.path.join(proj_dir, "CSV/%s_works.csv" % _fandom), os.path.join(proj_dir, "CSV/%s_edit.csv"))
 
-for fandom in fandoms:
-    print(fandom)
-    duplicates = duplicate_ids(proj_dir, ["%s 1001-10000.txt" % fandom,
-        "%s 10000-100000.txt" % fandom])
-    f_out = open(os.path.join(proj_dir, "Fanfic lists/%s 10000.txt" % fandom), "w")
-    for dup in duplicates:
-        f_out.write(dup + "\n")
-    f_out.close()
+# csv_id_files(proj_dir, fix_fands)
+# category_ids(proj_dir, fix_fands, categories)
+# au_ids(proj_dir, fix_fands)
+# other_tags_ids(proj_dir, fix_fands, tags)
+# status_ids(proj_dir, fix_fands, statuses)
+# year_ids(proj_dir, fix_fands, years)
+# word_ids(proj_dir, fix_fands, range_tuples)
+# rating_ids(proj_dir, fix_fands, ratings)
+# fandom_id_files(proj_dir)
+fandom_numpy_stats(proj_dir, fandoms)
+fandom_anomaly_ids(proj_dir, fandoms)
+
+# for filename in os.listdir(os.path.join(proj_dir, "Fanfic lists")):
+#     if filename.endswith(".txt"):
+#         print(filename, end=" ")
+#         dup_name = os.path.join(proj_dir, "Duplicates/%s" % filename)
+#         if os.path.isfile(dup_name):
+#             print("duplicates")
+#             remove_ids_from_idlist(os.path.join(proj_dir, "Fanfic lists/%s" % filename), dup_name)
+#         else:
+#             print()
+
+# fandom_numpy_stats(proj_dir, fandoms)
+# fandom_anomaly_ids(proj_dir, fandoms)
+
+# for fandom in fandoms:
+#     print(fandom)
+#     uniques = unique_ids(proj_dir, ["%s 10000-100000.txt" % fandom, "%s 1001-10000.txt" % fandom])
+#     f_out = open(os.path.join(proj_dir, "Fanfic lists/%s 10001-100000.txt" % fandom), "w")
+#     for item in uniques:
+#         f_out.write(item + "\n")
+#     f_out.close()
 
 # duplicate_ids(proj_dir, ["Doctor Who 5001-10000.txt", "Doctor Who 10000-100000.txt"])
 # unique_ids(proj_dir, ["Doctor Who_hits_hi.txt", "Doctor Who_kudos_hi.txt"])
+
+"""
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who FM.txt 12020949
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who FM.txt 5895805
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who FM.txt 1194534
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who FM.txt 1131479
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who FM.txt 1105838
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who FM.txt 3765820
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Gen.txt 7663738
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Gen.txt 1189287
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Gen.txt 1190265
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Gen.txt 966471
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 13352475
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 13349595
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 13347183
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 13241754
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 13327818
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 13165368
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 12306912
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 12292116
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 10424598
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 12246579
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FM.txt 13304880
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 11883954
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 10363875
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13353165
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13276701
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 10353570
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13342140
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13252596
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13349766
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13348368
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13178529
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13342461
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 12575128
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13282836
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13323093
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13284711
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13340388
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 12379977
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13338951
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13319781
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13336203
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 12628113
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13334211
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13328703
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 11527713
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13319922
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13128351
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13301202
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 12354762
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13323795
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 10436811
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 12994017
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 12388026
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13319577
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13317909
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 12865263
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 13304235
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 9378599
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton MM.txt 6761590
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton FF.txt 13239381
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Gen.txt 12917652
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Gen.txt 9708923
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Gen.txt 13326354
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Gen.txt 10818699
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Gen.txt 13311780
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Gen.txt 8573068
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Gen.txt 13310295
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 13350303
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 13332426
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 13293231
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 13308705
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 12921027
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 11265828
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 13324317
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Multi.txt 9851060
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Other.txt 13330458
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien FM.txt 12422925
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien FM.txt 3778871
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien MM.txt 6294298
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien MM.txt 4555053
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien MM.txt 1129347
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien MM.txt 697748
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien MM.txt 1165274
+/Volumes/2TB/Final_project/Fanfic lists/Undertale FM.txt 12788001
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Gen.txt 11476317
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Gen.txt 8920603
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Gen.txt 5129651
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Gen.txt 8501281
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Gen.txt 5607715
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Multi.txt 8794159
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Other.txt 9136294
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 12020949
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 7663738
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 5895805
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 2008722
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 2085354
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 1773139
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 1189287
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 1190265
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 1194534
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 1075635
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 966471
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 966368
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 930375
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 3765820
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Completed.txt 262635
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Updated.txt 1131479
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who Updated.txt 1105838
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 10363875
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 10086296
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13353261
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13352475
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13342140
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13350303
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13332426
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13349766
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13348368
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13347183
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13341234
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13282836
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13327818
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13340388
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13338951
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13336203
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13335636
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13334211
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13332942
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 10570644
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13328703
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13330458
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 7963879
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13326354
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 11981517
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 10818699
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 12354762
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13324317
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13323795
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13322394
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13319577
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13319385
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13318668
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13317909
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 9253997
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13311780
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13310295
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13304235
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13304880
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 13308402
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 7925812
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 7901473
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Completed.txt 6761590
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 11883954
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12281412
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12926160
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13353165
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13352811
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13255794
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13276701
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 10353570
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13314087
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12917652
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13181403
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13350456
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 7947316
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13350000
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13252596
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13349595
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13348206
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13281603
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12474668
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13178529
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13344735
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13343205
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13287819
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13293231
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13343364
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13308705
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13304415
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13217142
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13342461
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13241754
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13203054
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12575128
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 10661775
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13165368
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13323093
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13284711
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12379977
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13284573
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13319781
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 10022444
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12628113
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13239381
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 10963401
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 9708923
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12921027
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 6642676
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 11265828
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12306912
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 5926771
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13223403
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 11527713
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13286346
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13319922
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13128351
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12292116
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13301202
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13326495
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13324881
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 11748897
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 11934168
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 10436811
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13212894
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12994017
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 11888109
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13092189
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12474268
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12388026
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13321014
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13184589
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 9851060
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13313868
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 10424598
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 8573068
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12246579
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12865263
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13305450
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13270842
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 13249860
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 11194281
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12423564
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 12971052
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 9378599
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton Updated.txt 7681768
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Completed.txt 10285889
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Completed.txt 4555053
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Completed.txt 3778871
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Completed.txt 1129347
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Completed.txt 697748
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Completed.txt 1165274
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Completed.txt 3762620
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Updated.txt 12422925
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Updated.txt 6294298
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien Updated.txt 3065678
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 12788001
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 11476317
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 8794159
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 9136294
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 8920603
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 8813101
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 8501281
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Completed.txt 5607715
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Updated.txt 5129651
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Updated.txt 6319888
+/Volumes/2TB/Final_project/Fanfic lists/Undertale Updated.txt 5665993
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2011.txt 262635
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2012.txt 3765820
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2013.txt 1105838
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2013.txt 1075635
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2013.txt 966471
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2013.txt 966368
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2013.txt 930375
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2014.txt 2008722
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2014.txt 2085354
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2014.txt 1773139
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2014.txt 1189287
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2014.txt 1190265
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2014.txt 1194534
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2014.txt 1131479
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2016.txt 7663738
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2016.txt 5895805
+/Volumes/2TB/Final_project/Fanfic lists/Doctor Who 2017.txt 12020949
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 7947316
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 6642676
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 5926771
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 7963879
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 8573068
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 7925812
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 7901473
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 7681768
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2016.txt 6761590
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11883954
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10363875
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10086296
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12281412
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12926160
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10353570
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12917652
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13181403
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12474668
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13217142
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13203054
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12575128
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10661775
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13165368
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12379977
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10022444
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12628113
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10963401
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 9708923
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10570644
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12921027
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11265828
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12306912
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11527713
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13128351
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12292116
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11981517
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10818699
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12354762
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11748897
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11934168
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10436811
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13212894
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12994017
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11888109
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13092189
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12474268
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12388026
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 13184589
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 9851060
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 9253997
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 10424598
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12246579
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12865263
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 11194281
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12423564
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 12971052
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2017.txt 9378599
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13353165
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13353261
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13352811
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13255794
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13276701
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13352475
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13342140
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13314087
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13350456
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13350303
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13350000
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13332426
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13252596
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13349766
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13349595
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13348368
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13348206
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13281603
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13347183
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13178529
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13344735
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13343205
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13287819
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13293231
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13343364
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13308705
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13304415
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13342461
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13241754
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13341234
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13282836
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13327818
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13323093
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13284711
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13340388
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13338951
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13284573
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13319781
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13336203
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13335636
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13334211
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13239381
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13332942
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13328703
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13223403
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13286346
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13330458
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13319922
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13301202
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13326495
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13326354
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13324881
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13324317
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13323795
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13322394
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13321014
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13319577
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13319385
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13318668
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13317909
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13313868
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13311780
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13310295
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13305450
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13270842
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13304235
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13304880
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13249860
+/Volumes/2TB/Final_project/Fanfic lists/Hamilton 2018.txt 13308402
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2013.txt 697748
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2014.txt 3065678
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2014.txt 1129347
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2015.txt 4555053
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2015.txt 3778871
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2015.txt 3762620
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2016.txt 6294298
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2017.txt 12422925
+/Volumes/2TB/Final_project/Fanfic lists/Tolkien 2017.txt 10285889
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2015.txt 5129651
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2016.txt 8794159
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2016.txt 8920603
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2016.txt 8813101
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2016.txt 8501281
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2016.txt 6319888
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2016.txt 5665993
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2016.txt 5607715
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2017.txt 12788001
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2017.txt 11476317
+/Volumes/2TB/Final_project/Fanfic lists/Undertale 2017.txt 9136294
+"""
 
 # New Who: ["Doctor Who", "Doctor Who (2005)", "Doctor Who & Related Fandoms"]
     # Hamilton: ["Hamilton - Miranda", "Hamilton - Fandom", "Historical RPF", "18th & 19th Century CE RPF", "American Revolution RPF"
