@@ -94,6 +94,17 @@ def anomaly_wordlists(proj_dir, fandoms, stats):
                                      os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (_fandom, stat)))
 
 
+def fandom_wordlists(proj_dir, fandoms):
+    for fandom in fandoms:
+        print(fandom)
+        _fandom = fandom.replace(" ", "_")
+        freqdist = freqdist_from_idfile(
+            os.path.join(proj_dir, "Fanfic lists/%s all.txt" % fandom),
+            os.path.join(proj_dir, "Fanfic_all"))
+        freqdist_to_wordlistfile(freqdist,
+                                 os.path.join(proj_dir, "wordlists/%s_all_python.txt" % _fandom))
+
+
 def category_keywords(proj_dir, fandoms, categories, comparisons):
     for fandom in fandoms:
         _fandom = fandom.replace(" ", "_")
@@ -101,8 +112,7 @@ def category_keywords(proj_dir, fandoms, categories, comparisons):
             category = category.replace("/", "")
             print(fandom, category)
             keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, category)),
-                                                    os.path.join(proj_dir, "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                                                                           "%s Fanfic wordlist.txt" % fandom))
+                                                    os.path.join(proj_dir, "wordlists/%s_all_python.txt" % _fandom))
             store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt") % (fandom, category))
         for comparison in comparisons:
             print(fandom, comparison)
@@ -119,8 +129,7 @@ def au_keywords(proj_dir, fandoms):
         print(fandom, "AU")
         keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_AU_python.txt" % _fandom),
                                                 os.path.join(proj_dir,
-                                                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                                                             "%s Fanfic wordlist.txt" % fandom))
+                                                             "wordlists/%s_all_python.txt" % _fandom))
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/%s_AU vs fanfic_python.txt" % fandom))
 
 
@@ -131,8 +140,7 @@ def tags_keywords(proj_dir, fandoms, tags, comparisons):
             print(fandom, tag)
             keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, tag)),
                                                 os.path.join(proj_dir,
-                                                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                                                             "%s Fanfic wordlist.txt" % fandom))
+                                                             "wordlists/%s_all_python.txt" % _fandom))
             store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" %(fandom, tag)))
         for comparison in comparisons:
             print(fandom, comparison)
@@ -150,8 +158,7 @@ def status_keywords(proj_dir, fandoms, statuses, comparisons):
             print(fandom, status)
             keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, status)),
                                                 os.path.join(proj_dir,
-                                                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                                                             "%s Fanfic wordlist.txt" % fandom))
+                                                             "wordlists/%s_all_python.txt" % _fandom))
             store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, status)))
         for comparison in comparisons:
             print(fandom, comparison)
@@ -170,8 +177,7 @@ def year_keywords(proj_dir, fandoms, year_fandoms, comparisons):
             keyword_dict = keyword_tuple_from_wordlists(
                 os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, year)),
                 os.path.join(proj_dir,
-                             "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                             "%s Fanfic wordlist.txt" % fandom))
+                             "wordlists/%s_all_python.txt" % _fandom))
             store_keyword_txt(keyword_dict,
                               os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, year)))
     for fandom in fandoms:
@@ -195,8 +201,7 @@ def wordnum_keywords(proj_dir, fandoms, range_tuples):
             print(fandom, wordstr)
             keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, wordstr)),
                                                     os.path.join(proj_dir,
-                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                                                                 "%s Fanfic wordlist.txt" % fandom))
+                                                                 "wordlists/%s_all_python.txt" % _fandom))
             store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, wordstr)))
         for comparison in comparisons:
             print(fandom, comparison)
@@ -215,8 +220,7 @@ def rating_keywords(proj_dir, fandoms, ratings, comparisons):
             print(fandom, rating)
             keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, rating)),
                                                     os.path.join(proj_dir,
-                                                                 "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                                                                 "%s Fanfic wordlist.txt" % fandom))
+                                                                 "wordlists/%s_all_python.txt" % _fandom))
             store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/%s_%s vs fanfic_python.txt" % (fandom, rating)))
         for comparison in comparisons:
             print(fandom, comparison)
@@ -247,7 +251,8 @@ def anomaly_keywords(proj_dir, fandoms, stats):  # TODO: hits hi vs comments hi 
         _fandom = fandom.replace(" ", "_")
         for stat in stats:
             print(fandom, stat)
-            keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (_fandom, stat)))
+            keyword_dict = keyword_tuple_from_wordlists(os.path.join(proj_dir, "wordlists/%s_%s_hi_python.txt" % (_fandom, stat)),
+                                                        os.path.join(proj_dir, "wordlists/%s_all_python.txt" % _fandom))
             if keyword_dict:
                 store_keyword_txt(keyword_dict,
                               os.path.join(proj_dir, "Keywords/%s_%s hi vs fanfic_python.txt" % (fandom, stat)))
@@ -256,10 +261,10 @@ def anomaly_keywords(proj_dir, fandoms, stats):  # TODO: hits hi vs comments hi 
 def csv_keywords(proj_dir, fandoms):
     for fandom in fandoms:
         print(fandom)
+        _fandom = fandom.replace(" ", "_")
         keyword_dict = keyword_tuple_from_wordlists(
             os.path.join(proj_dir,
-                         "Antconc results/AntConc/Ant Fanfic/Fanfic wordlists/"
-                         "%s Fanfic wordlist.txt" % fandom),
+                         "wordlists/%s_all_python.txt" % _fandom),
             os.path.join(proj_dir,
                          "Antconc results/AntConc/Ant Original Canon/Original Canon wordlists/"
                          "%s Original Canon wordlist.txt" % fandom))
@@ -380,7 +385,7 @@ def fandom_similar_keywords(proj_dir, fandoms):
 def anomaly_similar_keywords(proj_dir, fandoms, stats):
     for stat in stats:
         print(stat)
-        find_similar_keywords([os.path.join(proj_dir, "Keywords/%s_%s hi vs fanfic_python.txt" % x) for x in fandoms],
+        find_similar_keywords([os.path.join(proj_dir, "Keywords/%s_%s hi vs fanfic_python.txt" % (x, stat)) for x in fandoms],
                               os.path.join(proj_dir, "Similar Keywords/%s hi vs fanfic_python.csv"))
 
 
@@ -424,31 +429,32 @@ stats = single_stats + [ratio[0] + " to " + ratio[1] for ratio in ratios]
 #     freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_10001-100000_python.txt" % (_fandom)))
 
 
-category_wordlists(proj_dir, fandoms, categories)
-au_wordlists(proj_dir, fandoms)
-tags_wordlists(proj_dir, fandoms, tags)
-status_wordlists(proj_dir, fandoms, statuses)
-year_wordlists(proj_dir, year_fandoms)
-wordnum_wordlists(proj_dir, fandoms, range_tuples)
-rating_wordlists(proj_dir, fandoms, ratings)
-anomaly_wordlists(proj_dir, fandoms, stats)
+# category_wordlists(proj_dir, fandoms, categories)
+# au_wordlists(proj_dir, fandoms)
+# tags_wordlists(proj_dir, fandoms, tags)
+# status_wordlists(proj_dir, fandoms, statuses)
+# year_wordlists(proj_dir, year_fandoms)
+wordnum_wordlists(proj_dir, fandoms, range_tuples)  # TODO: fix csv has lines I can't remove
+# fandom_wordlists(proj_dir, fandoms)
+# rating_wordlists(proj_dir, fandoms, ratings)
+# anomaly_wordlists(proj_dir, fandoms, stats)
 
-category_keywords(proj_dir, fandoms, categories, category_comparisons)
-au_keywords(proj_dir, fandoms)
-tags_keywords(proj_dir, fandoms, tags, tag_comparisons)
-status_keywords(proj_dir, fandoms, statuses, status_comparisons)
-year_keywords(proj_dir, fandoms, year_fandoms, [])  # TODO: add comparisons?
-wordnum_keywords(proj_dir, fandoms, range_tuples)
-rating_keywords(proj_dir, fandoms, ratings, [])
-csv_keywords(proj_dir, fandoms)
-anomaly_keywords(proj_dir, fandoms, stats)
-
-category_similar_keywords(proj_dir, fandoms, categories, category_comb_comparisons, category_comparisons)
-au_similar_keywords(proj_dir, fandoms)
-tags_similar_keywords(proj_dir, fandoms, tags, tag_comparisons, tag_combinations)
-status_similar_keywords(proj_dir, fandoms, statuses)
-year_similar_keywords(proj_dir, year_fandoms)
-word_similar_keywords(proj_dir, fandoms, range_tuples)
-rating_similar_keywords(proj_dir, fandoms, ratings, [], rating_combinations)
-fandom_similar_keywords(proj_dir, fandoms)
-anomaly_similar_keywords(proj_dir, fandoms, stats)
+# category_keywords(proj_dir, fandoms, categories, category_comparisons)
+# au_keywords(proj_dir, fandoms)
+# tags_keywords(proj_dir, fandoms, tags, tag_comparisons)
+# status_keywords(proj_dir, fandoms, statuses, status_comparisons)
+# year_keywords(proj_dir, fandoms, year_fandoms, [])  # TODO: add comparisons?
+wordnum_keywords(proj_dir, fandoms, range_tuples)  # TODO: fix
+# rating_keywords(proj_dir, fandoms, ratings, [])
+# csv_keywords(proj_dir, fandoms)
+# anomaly_keywords(proj_dir, fandoms, stats)
+#
+# category_similar_keywords(proj_dir, fandoms, categories, category_comb_comparisons, category_comparisons)
+# au_similar_keywords(proj_dir, fandoms)
+# tags_similar_keywords(proj_dir, fandoms, tags, tag_comparisons, tag_combinations)
+# status_similar_keywords(proj_dir, fandoms, statuses)
+# year_similar_keywords(proj_dir, year_fandoms)
+word_similar_keywords(proj_dir, fandoms, range_tuples)  # TODO: fix
+# rating_similar_keywords(proj_dir, fandoms, ratings, [], rating_combinations)
+fandom_similar_keywords(proj_dir, fandoms)  # TODO: fix
+# anomaly_similar_keywords(proj_dir, fandoms, stats)

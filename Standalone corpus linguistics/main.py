@@ -11,7 +11,7 @@ import time
 
 # TODO: HAVE PAST VS PAST PARTICIPLE
 #1) build a TreeTagger wrapper:
-tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+# tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
 tree_taglist = ["CC", "CD", "DT", "EX", "FW", 'IN', 'IN/that', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NP', 'NPS', 'PDT', 'POS',
             'PP', 'PP$', 'RB', 'RBR', 'RBS', 'RP', 'SENT', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBZ', 'VBP',
             'VH', 'VHD', 'VHG', 'VHN', 'VHZ', 'VHP', 'VV', 'VVD', 'VVG', 'VVN',
@@ -343,7 +343,6 @@ def freqdist_from_idfile (idfile, path, case_sensitive=False, end=".txt"):
         if this_freqdist:  # will be false if the file couldn't open
             freqdist.update(this_freqdist)
         else:
-            pass
             print(filename, line.strip())
     if close:
         f_in.close()
@@ -386,8 +385,10 @@ def wordlist_to_freqdist(wordlist_file):
     except TypeError:
         corpus = wordlist_file
         close = False
-    types = int(next(corpus).index("types")[7:])
-    tokens = int(next(corpus).index("tokens")[8:])
+    types = next(corpus)
+    types = int(types[types.index("types")+7:])
+    tokens = next(corpus)
+    tokens = int(tokens[tokens.index("tokens")+8:])
     next(corpus)
     # load corpus into a FreqDist
     freqdist1 = nltk.FreqDist()
@@ -915,7 +916,7 @@ def sent_with_word_file(proj_dir, word, dest_dir, filename, case_sensitive=False
     f_out.close()
 
 
-def sent_with_word_dir(proj_dir, word, dest_dir, case_sensitive=False):
+def sent_with_word_dir(proj_dir, word, dest_dir, case_sensitive=False, restart=None):
     """
     For each file in the fanfic directory, store all the sentences that include the specified word in a file in dest_dir
     :param proj_dir: the project directory (assumes the files to read are in os.path.join(proj_dir, "Fanfic_all"))
@@ -925,8 +926,16 @@ def sent_with_word_dir(proj_dir, word, dest_dir, case_sensitive=False):
     :return:
     """
     fanfic_dir = os.path.join(proj_dir, "Fanfic_all")
+    if restart:
+        found = False
     for filename in os.listdir(fanfic_dir):
         if filename.endswith(".txt"):
+            if restart and not found:
+                if filename == restart:
+                    found = True
+                else:
+                    print("skipping", filename)
+                    continue
             print(filename)
             sent_with_word_file(proj_dir, word, dest_dir, filename, case_sensitive)
 
@@ -942,6 +951,7 @@ def head_of_word_to_freqdist(data_dir, word, nlp, dep=None, idfile=None):
     :param idfile: an idlist file (so that only some files are read in). Filename or open file.
     :return: a FreqDist consisting of word heads and their frequencies
     """
+    nlp = spacy.load("en")
     heads = []
     ids = []
     if idfile:
@@ -1005,7 +1015,7 @@ def children_of_word_to_freqdist(data_dir, word, nlp, dep=None, idfile=None):
     return freqdist
 
 
-def pronoun_sents(proj_dir, pronouns):
+def pronoun_sents(proj_dir, pronouns, restart=None):
     """
     Get the sentences that contain the pronouns specified
     :param proj_dir: the project directory
@@ -1013,7 +1023,7 @@ def pronoun_sents(proj_dir, pronouns):
     :return:
     """
     for pronoun in pronouns:
-        sent_with_word_dir(proj_dir, pronoun, os.path.join(proj_dir, "Pronoun sents/%s" % pronoun))
+        sent_with_word_dir(proj_dir, pronoun, os.path.join(proj_dir, "Pronoun sents/%s" % pronoun), restart=restart)
 
 
 def pronoun_heads(proj_dir, nlp, pronouns, dep=None, idfile=None):
@@ -1075,14 +1085,16 @@ def people_sents(proj_dir, csv_in, case_sensitive=False):
 
 if __name__ == "__main__":
     proj_dir = "/Volumes/2TB/Final_Project"
-    nlp = spacy.load("en")
-    pronouns = ["she", "her", "he", "him", "his", "woman", "man", "girl", "boy"]
-    # pronouns_s = ["her", "he", "him", "his", "woman", "man", "girl", "boy"]
-    pronoun_sents(proj_dir, pronouns)
-    pronoun_heads(proj_dir, nlp, pronouns)
-    for idlist in os.listdir(os.path.join(proj_dir, "Fanfic lists")):
-        if idlist.endswith(".txt"):
-            pronoun_heads(proj_dir, nlp, pronouns, idfile=os.path.join(proj_dir, "Fanfic lists/" + idlist))
-    # print("BBC SH")
-    # freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/BBC Sherlock.txt"), os.path.join(proj_dir, "Fanfic_all"))
-    # freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/BBC_Sherlock_python.txt"))
+
+    # nlp = spacy.load("en")
+    # print(nlp)
+    # pronouns = ["she", "her", "he", "him", "his", "woman", "man", "girl", "boy"]
+    # # pronouns_s = ["her", "he", "him", "his", "woman", "man", "girl", "boy"]
+    # # pronoun_sents(proj_dir, ["boy"], restart="6992101.txt")
+    # pronoun_heads(proj_dir, nlp, pronouns)
+    # for idlist in os.listdir(os.path.join(proj_dir, "Fanfic lists")):
+    #     if idlist.endswith(".txt"):
+    #         pronoun_heads(proj_dir, nlp, pronouns, idfile=os.path.join(proj_dir, "Fanfic lists/" + idlist))
+    # # print("BBC SH")
+    # # freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/BBC Sherlock.txt"), os.path.join(proj_dir, "Fanfic_all"))
+    # # freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/BBC_Sherlock_python.txt"))
