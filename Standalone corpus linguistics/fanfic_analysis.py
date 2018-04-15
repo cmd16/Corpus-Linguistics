@@ -52,8 +52,10 @@ def year_wordlists(proj_dir, year_fandoms):
             freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_%s_python.txt" % (_fandom, year)))
 
 
-def wordnum_wordlists(proj_dir, fandoms, range_tuples):
+def wordnum_wordlists(proj_dir, fandoms, range_tuples):  # TODO: change back
     for fandom in fandoms:
+        if fandom in ("Doctor Who", "Hamilton", "Les Mis"):
+            continue
         _fandom = fandom.replace(" ", "_")
         for rtuple in range_tuples:
             print(fandom, rtuple)
@@ -271,6 +273,20 @@ def csv_keywords(proj_dir, fandoms):
         store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Keywords/%s_Fanfic vs canon_python.txt" % fandom))
 
 
+def perl_python_keywords(proj_dir):
+    wordlist_dir = os.path.join(proj_dir, "wordlists")
+    for filename in os.listdir(wordlist_dir):
+        fullname = os.path.join(wordlist_dir, filename)
+        if filename.endswith("_python.txt"):
+            keyword_dict = keyword_tuple_from_wordlists(fullname, fullname.replace("python", "perl"))
+            if keyword_dict:
+                store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Perl_vs_Python/%s" % filename.replace("_python", "python_vs_perl")))
+        elif filename.endswith("_perl.txt"):
+            keyword_dict = keyword_tuple_from_wordlists(fullname, fullname.replace("perl", "python"))
+            if keyword_dict:
+                store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Perl_vs_Python/%s" % filename.replace("_perl",
+                                                                                                    "perl_vs_python")))
+
 def category_similar_keywords(proj_dir, fandoms, categories, comb_comparisons, other_comparisons):  # TODO: include other comparisons
     for fandom in fandoms:
         for comparison in comb_comparisons:
@@ -422,6 +438,8 @@ single_stats = ["comments", "kudos", "hits", "bookmarks"]  # TODO: words later?
 ratios = [("comments", "hits"), ("kudos", "hits"), ("bookmarks", "hits"), ("comments", "kudos")]
 stats = single_stats + [ratio[0] + " to " + ratio[1] for ratio in ratios]
 
+perl_python_keywords(proj_dir)
+
 # for fandom in fandoms:
 #     print(fandom)
 #     _fandom = fandom.replace(" ", "_")
@@ -434,7 +452,7 @@ stats = single_stats + [ratio[0] + " to " + ratio[1] for ratio in ratios]
 # tags_wordlists(proj_dir, fandoms, tags)
 # status_wordlists(proj_dir, fandoms, statuses)
 # year_wordlists(proj_dir, year_fandoms)
-wordnum_wordlists(proj_dir, fandoms, range_tuples)  # TODO: fix csv has lines I can't remove
+# wordnum_wordlists(proj_dir, fandoms, range_tuples)  # TODO: fix csv has lines I can't remove
 # fandom_wordlists(proj_dir, fandoms)
 # rating_wordlists(proj_dir, fandoms, ratings)
 # anomaly_wordlists(proj_dir, fandoms, stats)
@@ -444,7 +462,7 @@ wordnum_wordlists(proj_dir, fandoms, range_tuples)  # TODO: fix csv has lines I 
 # tags_keywords(proj_dir, fandoms, tags, tag_comparisons)
 # status_keywords(proj_dir, fandoms, statuses, status_comparisons)
 # year_keywords(proj_dir, fandoms, year_fandoms, [])  # TODO: add comparisons?
-wordnum_keywords(proj_dir, fandoms, range_tuples)  # TODO: fix
+# wordnum_keywords(proj_dir, fandoms, range_tuples)  # TODO: fix
 # rating_keywords(proj_dir, fandoms, ratings, [])
 # csv_keywords(proj_dir, fandoms)
 # anomaly_keywords(proj_dir, fandoms, stats)
@@ -454,7 +472,7 @@ wordnum_keywords(proj_dir, fandoms, range_tuples)  # TODO: fix
 # tags_similar_keywords(proj_dir, fandoms, tags, tag_comparisons, tag_combinations)
 # status_similar_keywords(proj_dir, fandoms, statuses)
 # year_similar_keywords(proj_dir, year_fandoms)
-word_similar_keywords(proj_dir, fandoms, range_tuples)  # TODO: fix
+# word_similar_keywords(proj_dir, fandoms, range_tuples)  # TODO: fix
 # rating_similar_keywords(proj_dir, fandoms, ratings, [], rating_combinations)
-fandom_similar_keywords(proj_dir, fandoms)  # TODO: fix
+# fandom_similar_keywords(proj_dir, fandoms)  # TODO: fix
 # anomaly_similar_keywords(proj_dir, fandoms, stats)
