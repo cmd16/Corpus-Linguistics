@@ -287,6 +287,7 @@ def perl_python_keywords(proj_dir):
                 store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Perl_vs_Python/%s" % filename.replace("_perl",
                                                                                                     "perl_vs_python")))
 
+
 def category_similar_keywords(proj_dir, fandoms, categories, comb_comparisons, other_comparisons):  # TODO: include other comparisons
     for fandom in fandoms:
         for comparison in comb_comparisons:
