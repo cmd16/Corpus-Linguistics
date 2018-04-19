@@ -724,17 +724,20 @@ def get_anomaly_ids(stat_conds, csv_in, outfiledict, ratio_dict=()):
             continue  # we'll get it in the ratios
         print(stat)
         min, max = stat_conds[stat]
-        lo_name = outfiledict[stat].replace("val", "lo")
+        # lo_name = outfiledict[stat].replace("val", "lo")
         hi_name = outfiledict[stat].replace("val", "hi")
-        out_lo = open(lo_name, "w")
+        # out_lo = open(lo_name, "w")
         out_hi = open(hi_name, "w")
         with open(csv_in) as f_in:
             reader = csv.reader(f_in)
             next(reader)
             for row in reader:
                 work_id = row[header['work_id']]
+                if work_id == "work_id":
+                    print("work id")
+                    continue
                 if work_id in seen:
-                    print("anomaly", work_id)
+                    # print(work_id, end=", ")
                     continue
                 value = row[header[stat]]
                 try:
@@ -742,28 +745,32 @@ def get_anomaly_ids(stat_conds, csv_in, outfiledict, ratio_dict=()):
                 except ValueError:
                     value = 0
                 if value < min:
-                    out_lo.write(work_id + '\n')
-                    seen.append(work_id)
+                    pass
+                    # out_lo.write(work_id + '\n')
+                    # seen.append(work_id)
                 elif value > max:
                     out_hi.write(work_id + '\n')
-                    seen.append(work_id)
+                    # seen.append(work_id)
+                seen.append(work_id)
         out_hi.close()
-        out_lo.close()
+        # out_lo.close()
+        print()
+    seen2 = []
     for ratio in ratio_dict:
         ratio_name = "%s to %s" % (ratio[0], ratio[1])
         print(ratio)
         min, max = stat_conds[ratio_name]
-        lo_name = ratio_dict[ratio].replace("val", "lo")
+        # lo_name = ratio_dict[ratio].replace("val", "lo")
         hi_name = ratio_dict[ratio].replace("val", "hi")
-        out_lo = open(lo_name, "w")
+        # out_lo = open(lo_name, "w")
         out_hi = open(hi_name, "w")
         with open(csv_in) as f_in:
             reader = csv.reader(f_in)
             next(reader)
             for row in reader:
                 work_id = row[header['work_id']]
-                if work_id in seen:
-                    print("anomaly", work_id)
+                if work_id in seen2:
+                    # print("anomaly", work_id)
                     continue
                 val0 = row[header[ratio[0]]]
                 val1 = row[header[ratio[1]]]
@@ -787,13 +794,14 @@ def get_anomaly_ids(stat_conds, csv_in, outfiledict, ratio_dict=()):
                 except ZeroDivisionError:
                     ratio_val = 0
                 if ratio_val < min:
-                    out_lo.write(work_id + '\n')
-                    seen.append(work_id)
+                    pass
+                    # out_lo.write(work_id + '\n')
+                    # seen.append(work_id)
                 elif ratio_val > max:
                     out_hi.write(work_id + '\n')
                     seen.append(work_id)
         out_hi.close()
-        out_lo.close()
+        # out_lo.close()
 
 
 def remove_ids_from_idlist(idlistfile, idfile_to_remove):
@@ -1045,6 +1053,33 @@ def remove_dup(proj_dir, idfilename):
     f_out.close()
 
 
+def concat_idlist_files(proj_dir, idfile, fanfic_dir, outfile, end=""):
+    try:
+        f_in = open(idfile, 'r')
+        close_in = True  # tracks whether file should be closed
+        filename = idfile
+    except TypeError:
+        f_in = idfile
+        close_in = False
+        filename = idfile.name
+    try:
+        f_out = open(outfile, 'w')
+        close_out = True  # tracks whether file should be closed
+        filename = idfile
+    except TypeError:
+        f_out = outfile
+        close_out = False
+        filename = idfile.name  # is this full path?
+    for line in f_in:
+        idname = os.path.join(fanfic_dir, line.strip() + end)
+        with open(idname) as id_file:
+            f_out.write(id_file.read()+"\n")
+    if close_in:
+        f_in.close()
+    if close_out:
+        f_out.close()
+
+
 proj_dir = "/Volumes/2TB/Final_project"
 fandoms = ("Doctor Who", "Hamilton", "Les Mis", "Sherlock", "Star Trek", "Tolkien", "Undertale")
 categories = ("F/M", "M/M", "F/F", "Gen", "Multi", "Other")
@@ -1066,24 +1101,7 @@ stop_dict = {"Doctor Who": ['6912151'], "Hamilton": [], "Les Mis": [],
              "Sherlock": [str(x) for x in [2289575, 5661940, 3536660, 2284830, 2284857, 3363959, 620622, 620655, 620635, 620624]],
              "Star Trek": [str(x) for x in [8075698, 9338774, 9338693, 9338549, 9337631]], "Tolkien": ["620630"], "Undertale": []}
 
-# fix_fands = ["Doctor Who", "Sherlock", "Star Trek", "Tolkien"]
-
-for idlist in os.listdir(os.path.join(proj_dir, "Fanfic lists")):
-    if idlist.endswith("0.txt"):
-        remove_dup(proj_dir, idlist)
-wordnum_ids(proj_dir, fandoms, range_tuples)
-
-# csv_id_files(proj_dir, fandoms)
-# # category_ids(proj_dir, fix_fands, categories)
-# # au_ids(proj_dir, fix_fands)
-# # other_tags_ids(proj_dir, fix_fands, tags)
-# # status_ids(proj_dir, fix_fands, statuses)
-# # year_ids(proj_dir, fix_fands, years)
-# # wordnum_ids(proj_dir, fandoms, range_tuples)
-# # rating_ids(proj_dir, fix_fands, ratings)
-# # fandom_id_files(proj_dir)
-# fandom_numpy_stats(proj_dir, fandoms)
-# fandom_anomaly_ids(proj_dir, fandoms)
+fandom_anomaly_ids(proj_dir, fandoms)
 
 # New Who: ["Doctor Who", "Doctor Who (2005)", "Doctor Who & Related Fandoms"]
     # Hamilton: ["Hamilton - Miranda", "Hamilton - Fandom", "Historical RPF", "18th & 19th Century CE RPF", "American Revolution RPF"
