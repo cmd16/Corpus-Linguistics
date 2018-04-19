@@ -15,13 +15,23 @@ class nlp_gui_class(wx.Frame):
 
         self.open_file_item = None
         self.open_file_dialog = None
+
         self.open_dir_item = None
         self.open_dir_dialog = None
+
         self.open_clipboard_item = None
+
+        self.open_text_item = None
+        self.open_text_dialog = None
+
         self.close_files_item = None
-        self.checklistframe = None
-        self.checklistbox = None
+        self.close_file_dialog = None
+
+        self.close_text_item = None
+        self.close_text_dialog = None
+
         self.close_all_files_item = None
+
         self.save_item = None
         self.about_item = None
 
@@ -40,8 +50,10 @@ class nlp_gui_class(wx.Frame):
         self.open_file_item = self.file_menu.Append(wx.ID_ANY, "Open File(s)", "Open file(s)")
         self.open_dir_item = self.file_menu.Append(wx.ID_ANY, "Open Dir", "Open directory")
         self.open_clipboard_item = self.file_menu.Append(wx.ID_ANY, "Open From Clipboard", "Open from clipboard")
+        self.open_text_item = self.file_menu.Append(wx.ID_ANY, "Open From Text Box", "Open from text box")
         self.file_menu.AppendSeparator()
-        self.close_files_item = self.file_menu.Append(wx.ID_ANY, "Close Selected File(s)", "Close selected file(s)")
+        self.close_files_item = self.file_menu.Append(wx.ID_ANY, "Close File(s)", "Close file(s)")
+        self.close_text_item = self.file_menu.Append(wx.ID_ANY, "Close text(s)", "Close text(s)")
         self.close_all_files_item = self.file_menu.Append(wx.ID_ANY, "Close All Files", "Close all files")
         self.file_menu.AppendSeparator()
         self.save_item = self.file_menu.Append(wx.ID_ANY, "Save Results", "Save results of current tab")
@@ -51,14 +63,15 @@ class nlp_gui_class(wx.Frame):
         self.Bind(wx.EVT_MENU, self.open_files, self.open_file_item)
         self.Bind(wx.EVT_MENU, self.open_dir, self.open_dir_item)
         self.Bind(wx.EVT_MENU, self.open_clipboard, self.open_clipboard_item)
+        self.Bind(wx.EVT_MENU, self.open_text, self.open_text_item)
         self.Bind(wx.EVT_MENU, self.close_files, self.close_files_item)
-        self.Bind(wx.EVT_MENU, self.close_all_files, self.close_all_files_item)
+        self.Bind(wx.EVT_MENU, self.close_text, self.close_text_item)
+        self.Bind(wx.EVT_MENU, self.close_everything, self.close_all_files_item)
         self.Bind(wx.EVT_MENU, self.save_results, self.save_item)
 
     def createSettingMenu(self):
         self.global_settings_item = self.setting_menu.Append(wx.ID_ANY, "Global Settings", "Global settings")
         self.tool_settings_item = self.setting_menu.Append(wx.ID_ANY, "Tool Settings", "Tool settings")
-
         self.Bind(wx.EVT_MENU, self.open_global_settings, self.global_settings_item)
         self.Bind(wx.EVT_MENU, self.open_tool_settings, self.tool_settings_item)
 
@@ -95,27 +108,65 @@ class nlp_gui_class(wx.Frame):
             wx.TheClipboard.Close()
             if success:
                 text = text_data.GetText()
-                name = "Clipboard (%s...)" % (text[:10])
+                name = "Clipboard (%s...)" % text[:10]
                 while name in self.text_bodies:  # if another clipboard text with those same characters is stored
                     name += "1"
                 self.text_bodies[name] = text
         if debug:
             self.view_text()
 
+    def open_text(self, event=None):
+        self.open_text_dialog = wx.TextEntryDialog(self, message="Type in some words to add to your corpus",
+                                        caption="Open from text box", style=wx.TextEntryDialogStyle | wx.TE_MULTILINE)
+        if self.open_text_dialog.ShowModal() == wx.ID_OK:
+            text = self.open_text_dialog.GetValue()
+            name = "Textbox (%s...)" % text[:10]
+            while name in self.text_bodies:  # if another textbox with those same characters is stored
+                name += "1"
+            self.text_bodies[name] = text
+        if debug:
+            self.view_text()
+
     def close_files(self, event=None):
-        # TODO: fix
-        self.checklistframe = wx.Frame(parent=self, name="Select file(s) to close")
-        self.checklistbox = wx.CheckListBox(self.checklistframe, id=wx.ID_ANY, choices=self.filenames, name="Select files to close")
-        if self.checklistframe._initCheckBoxes() == wx.ID_OK:
-            self.filenames = [name for name in self.filenames if name not in self.checklistbox.GetCheckedStrings()]
-        self.checklistbox.Destroy()
+        """
+        Allow user to select 1 or more files to close. Those files will be deleted from the filenames
+        :param event:
+        :return:
+        """
+        self.close_file_dialog = wx.MultiChoiceDialog(self, message="Select file(s) to close", caption="Close file(s)",
+                                                      choices=self.filenames)
+        if self.close_file_dialog.ShowModal() == wx.ID_OK:
+            to_remove = [self.filenames[i] for i in self.close_file_dialog.GetSelections()]
+            self.filenames = [name for name in self.filenames if name not in to_remove]
+        self.close_file_dialog.Destroy()
         if debug:
             print(self.get_filenames())
 
-    def close_all_files(self, event=None):
+    def close_text(self, event=None):
+        """
+        Allow user to select 1 or more texts (e.g., from Clipboard or text box) to remove.
+        :param event:
+        :return:
+        """
+        keys = [x for x in self.text_bodies.keys()]  # calculate list ahead of time to ensure correct order
+        self.close_text_dialog = wx.MultiChoiceDialog(self, message="Select text(s) to close", caption="Close text(s)",
+                                                      choices=keys)
+        if self.close_text_dialog.ShowModal() == wx.ID_OK:
+            to_remove = [keys[i] for i in self.close_text_dialog.GetSelections()]
+            # TODO: fix
+            for key in keys:  # don't loop through dict directly because that would cause problems
+                if key in to_remove:
+                    del self.text_bodies[key]  # remove the entry
+        if debug:
+            self.view_text()
+
+    def close_everything(self, event=None):
         """Clear out all the files and bodies of text"""
         self.filenames = []
         self.text_bodies = {}
+        if debug:
+            print(self.filenames)
+            print(self.text_bodies)
 
     def save_results(self, event=None):
         # TODO: write this
