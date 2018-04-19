@@ -516,6 +516,7 @@ def keyword_tuple_from_wordlists(corpus1name, corpus2name, p=0.01):
         return False  # the wordlist is empty or something else went wrong
     next(corpus1)
     for line in corpus1:
+        print(line)
         line = line.split()
         freq1 = int(line[1])
         word = line[2]
@@ -969,10 +970,9 @@ def head_of_word_to_freqdist(data_dir, word, nlp, dep=None, idfile=None):
             for sentence in f_in:
                 doc = nlp(u'%s' % sentence)
                 for token in doc:
-                    if token.text == word:
-                        if not dep or token.dep_ in dep:
-                            head = token.head  # TODO: include tag/pos?
-                            heads.append(head.text)
+                    if token.text == word and (not dep or token.dep_ in dep):
+                        head = token.head  # TODO: include tag/pos?
+                        heads.append(head.text)
             f_in.close()
     freqdist = nltk.FreqDist(heads)
     return freqdist
@@ -1006,10 +1006,9 @@ def children_of_word_to_freqdist(data_dir, word, nlp, dep=None, idfile=None):
             for sentence in f_in:
                 doc = nlp(u'%s' % sentence)
                 for token in doc:
-                    if token.text == word:
-                        if not dep or token.dep_ == dep:
-                            kids = token.children  # TODO: include tag/pos?
-                            children.extend(kids)
+                    if token.text == word and (not dep or token.dep_ == dep):
+                        kids = token.children  # TODO: include tag/pos?
+                        children.extend(kids)
             f_in.close()
     freqdist = nltk.FreqDist(children)
     return freqdist
