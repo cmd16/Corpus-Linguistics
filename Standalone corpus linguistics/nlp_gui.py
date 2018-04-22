@@ -38,6 +38,36 @@ class nlp_gui_class(wx.Frame):
         self.createFileMenu()
 
         self.global_settings_item = None
+        self.global_settings_frame = None
+        self.global_settings_listbook = None
+        self.global_settings_file_window = None
+        self.global_settings_file_box = None
+        self.show_full_pathname_checkbox = None
+        self.global_default_extension_label = None
+        self.global_default_extension_txtctrl = None
+        self.global_default_extension_hbox = None
+        self.global_file_button = None
+
+        self.global_settings_token_window = None
+        self.global_token_vbox = None
+        self.global_letter_hbox = None
+        self.global_letter_lower_checkbox = None
+        self.global_letter_upper_checkbox = None
+        self.global_number_checkbox = None
+        self.global_punctuation_hbox = None
+        self.global_middle_punctuation_checkbox = None
+        self.global_end_punctuation_checkbox = None
+        self.global_quotation_checkbox = None
+        self.global_apostrophe_checkbox = None
+        self.global_bracket_checkbox = None
+        self.global_whitespace_hbox = None
+        self.global_space_checkbox = None
+        self.global_tab_checkbox = None
+        self.global_newline_checkbox = None
+
+        self.show_full_pathname = True
+        self.global_default_extension = ".txt"
+
         self.tool_settings_item = None
 
         self.createSettingMenu()
@@ -173,22 +203,79 @@ class nlp_gui_class(wx.Frame):
         raise NotImplementedError
 
     def open_global_settings(self, event=None):
-        # character encoding?
-        # files
-        #     show full pathname
-        #     default extension to use with OpenDir
         # token definition
-        #     positive/negative letter (uppercase lowercase)
-        #     number
-        #     punctuation
-        #     whitespace
         #     regex
         #     valid words
         #     stop words
         #     select all
         #     deselect all
         #     case sensitive
-        pass
+        self.global_settings_frame = wx.Frame(parent=self, title="Global Settings", name="Global Settings")
+        self.global_settings_listbook = wx.Listbook(parent=self.global_settings_frame, style=wx.LB_LEFT)
+
+        self.global_settings_file_window = wx.Panel(parent=self.global_settings_listbook)
+        self.global_settings_file_box = wx.BoxSizer(orient=wx.VERTICAL)
+
+        self.show_full_pathname_checkbox = wx.CheckBox(self.global_settings_file_window, label="Show full pathname")
+        self.show_full_pathname_checkbox.SetValue(self.show_full_pathname)
+        self.global_settings_file_box.Add(self.show_full_pathname_checkbox, proportion=1)
+
+        self.global_default_extension_label = wx.StaticText(self.global_settings_file_window, label="Default extension to use with Open Dir")
+        self.global_default_extension_txtctrl = wx.TextCtrl(self.global_settings_file_window, value=self.global_default_extension)
+        self.global_default_extension_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_default_extension_hbox.Add(self.global_default_extension_label, proportion=0)
+        self.global_default_extension_hbox.Add(self.global_default_extension_txtctrl, proportion=0)
+        self.global_settings_file_box.Add(self.global_default_extension_hbox, proportion=0)
+
+        self.global_file_button = wx.Button(self.global_settings_file_window, label="Apply")
+        self.global_settings_file_box.Add(self.global_file_button, proportion=1)
+        self.global_settings_file_window.SetSizer(self.global_settings_file_box)
+        self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.apply_global_file_settings, self.global_file_button)
+
+        self.global_settings_token_window = wx.Panel(parent=self.global_settings_listbook)
+        self.global_token_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+
+        self.global_letter_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_letter_lower_checkbox = wx.CheckBox(self.global_settings_token_window, label="lowercase letters")
+        self.global_letter_hbox.Add(self.global_letter_lower_checkbox, proportion=1)
+        self.global_letter_upper_checkbox = wx.CheckBox(self.global_settings_token_window, label="uppercase letters")
+        self.global_letter_hbox.Add(self.global_letter_upper_checkbox, proportion=1)
+        self.global_token_vbox.Add(self.global_letter_hbox, proportion=1)
+
+        self.global_number_checkbox = wx.CheckBox(self.global_settings_token_window, label="numbers")
+        self.global_token_vbox.Add(self.global_number_checkbox, proportion=1)
+
+        self.global_punctuation_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_middle_punctuation_checkbox = wx.CheckBox(self.global_settings_token_window, label="middle punctuation :,-")
+        self.global_punctuation_hbox.Add(self.global_middle_punctuation_checkbox, proportion=1)
+        self.global_end_punctuation_checkbox = wx.CheckBox(self.global_settings_token_window, label="end punctuation .?!")
+        self.global_punctuation_hbox.Add(self.global_end_punctuation_checkbox, proportion=1)
+        self.global_quotation_checkbox = wx.CheckBox(self.global_settings_token_window, label="quotation \"")
+        self.global_punctuation_hbox.Add(self.global_quotation_checkbox, proportion=1)
+        self.global_apostrophe_checkbox = wx.CheckBox(self.global_settings_token_window, label="apostrophe '")
+        self.global_punctuation_hbox.Add(self.global_apostrophe_checkbox, proportion=1)
+        self.global_bracket_checkbox = wx.CheckBox(self.global_settings_token_window, label="bracket (){}[]")
+        self.global_punctuation_hbox.Add(self.global_bracket_checkbox, proportion=1)
+        self.global_token_vbox.Add(self.global_punctuation_hbox, proportion=1)
+
+        self.global_whitespace_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_space_checkbox = wx.CheckBox(self.global_settings_token_window, label="space")
+        self.global_whitespace_hbox.Add(self.global_space_checkbox, proportion=1)
+        self.global_tab_checkbox = wx.CheckBox(self.global_settings_token_window, label="tab")
+        self.global_whitespace_hbox.Add(self.global_tab_checkbox, proportion=1)
+        self.global_newline_checkbox = wx.CheckBox(self.global_settings_token_window, label="newline")
+        self.global_whitespace_hbox.Add(self.global_newline_checkbox, proportion=1)
+        self.global_token_vbox.Add(self.global_whitespace_hbox, proportion=1)
+
+        self.global_settings_token_window.SetSizer(self.global_token_vbox)
+
+        self.global_settings_listbook.InsertPage(0, self.global_settings_file_window, "Files")
+        self.global_settings_listbook.InsertPage(1, self.global_settings_token_window, "Token Defnition")
+        self.global_settings_frame.Show()
+
+    def apply_global_file_settings(self, event=wx.EVT_BUTTON):
+        self.show_full_pathname = self.show_full_pathname_checkbox.IsChecked()
+        self.global_default_extension = self.global_default_extension_txtctrl.GetLineText(0)
 
     def open_tool_settings(self, event=None):
         # concordance
