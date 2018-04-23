@@ -64,6 +64,14 @@ class nlp_gui_class(wx.Frame):
         self.global_space_checkbox = None
         self.global_tab_checkbox = None
         self.global_newline_checkbox = None
+        self.global_regex_hbox = None
+        self.global_regex_statictext = None
+        self.global_regex_txtctrl = None
+        self.global_case_sensitive_checkbox = None
+        self.global_stop_words_hbox = None
+        self.global_stop_words_statictext = None
+        self.global_stop_words_txtctrl = None
+        self.global_stop_words_file_button = None
 
         self.show_full_pathname = True
         self.global_default_extension = ".txt"
@@ -106,10 +114,10 @@ class nlp_gui_class(wx.Frame):
         self.Bind(wx.EVT_MENU, self.open_tool_settings, self.tool_settings_item)
 
     def createMenuBar(self):
-        self.menuBar = wx.MenuBar()
-        self.menuBar.Append(self.file_menu, "File")  # Adding the "file_menu" to the MenuBar
-        self.menuBar.Append(self.setting_menu, "Settings")
-        self.SetMenuBar(self.menuBar)  # Adding the MenuBar to the Frame content.
+        self.menubar = wx.MenuBar()
+        self.menubar.Append(self.file_menu, "File")  # Adding the "file_menu" to the MenuBar
+        self.menubar.Append(self.setting_menu, "Settings")
+        self.SetMenuBar(self.menubar)  # Adding the MenuBar to the Frame content.
 
     def open_files(self, event=None):
         self.open_file_dialog = wx.FileDialog(self, message="Choose corpus files", style=
@@ -126,7 +134,8 @@ class nlp_gui_class(wx.Frame):
         if self.open_dir_dialog.ShowModal() == wx.ID_OK:
             path = self.open_dir_dialog.GetPath()
             for filename in os.listdir(path):
-                self.filenames.append(os.path.join(path, filename))
+                if filename.endswith(self.global_default_extension):
+                    self.filenames.append(os.path.join(path, filename))
         self.open_dir_dialog.Destroy()
         if debug:
             print(self.get_filenames())
@@ -203,13 +212,6 @@ class nlp_gui_class(wx.Frame):
         raise NotImplementedError
 
     def open_global_settings(self, event=None):
-        # token definition
-        #     regex
-        #     valid words
-        #     stop words
-        #     select all
-        #     deselect all
-        #     case sensitive
         self.global_settings_frame = wx.Frame(parent=self, title="Global Settings", name="Global Settings")
         self.global_settings_listbook = wx.Listbook(parent=self.global_settings_frame, style=wx.LB_LEFT)
 
@@ -218,17 +220,20 @@ class nlp_gui_class(wx.Frame):
 
         self.show_full_pathname_checkbox = wx.CheckBox(self.global_settings_file_window, label="Show full pathname")
         self.show_full_pathname_checkbox.SetValue(self.show_full_pathname)
-        self.global_settings_file_box.Add(self.show_full_pathname_checkbox, proportion=1)
+        self.global_settings_file_box.Add(self.show_full_pathname_checkbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_settings_file_box.AddSpacer(10)
 
-        self.global_default_extension_label = wx.StaticText(self.global_settings_file_window, label="Default extension to use with Open Dir")
-        self.global_default_extension_txtctrl = wx.TextCtrl(self.global_settings_file_window, value=self.global_default_extension)
         self.global_default_extension_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_default_extension_label = wx.StaticText(self.global_settings_file_window, label="Default extension to use with Open Dir")
         self.global_default_extension_hbox.Add(self.global_default_extension_label, proportion=0)
+        self.global_default_extension_hbox.AddSpacer(5)
+        self.global_default_extension_txtctrl = wx.TextCtrl(self.global_settings_file_window, value=self.global_default_extension)
         self.global_default_extension_hbox.Add(self.global_default_extension_txtctrl, proportion=0)
-        self.global_settings_file_box.Add(self.global_default_extension_hbox, proportion=0)
+        self.global_settings_file_box.Add(self.global_default_extension_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_settings_file_box.AddSpacer(10)
 
         self.global_file_button = wx.Button(self.global_settings_file_window, label="Apply")
-        self.global_settings_file_box.Add(self.global_file_button, proportion=1)
+        self.global_settings_file_box.Add(self.global_file_button, proportion=0, flag=wx.ALIGN_CENTER)
         self.global_settings_file_window.SetSizer(self.global_settings_file_box)
         self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.apply_global_file_settings, self.global_file_button)
 
@@ -237,35 +242,80 @@ class nlp_gui_class(wx.Frame):
 
         self.global_letter_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.global_letter_lower_checkbox = wx.CheckBox(self.global_settings_token_window, label="lowercase letters")
-        self.global_letter_hbox.Add(self.global_letter_lower_checkbox, proportion=1)
+        self.global_letter_hbox.Add(self.global_letter_lower_checkbox, proportion=0)
+        self.global_letter_hbox.AddSpacer(5)
         self.global_letter_upper_checkbox = wx.CheckBox(self.global_settings_token_window, label="uppercase letters")
-        self.global_letter_hbox.Add(self.global_letter_upper_checkbox, proportion=1)
-        self.global_token_vbox.Add(self.global_letter_hbox, proportion=1)
+        self.global_letter_hbox.Add(self.global_letter_upper_checkbox, proportion=0)
+        self.global_letter_hbox.AddSpacer(5)
+        self.global_token_vbox.Add(self.global_letter_hbox, proportion=0)
+        self.global_token_vbox.AddSpacer(5)
 
         self.global_number_checkbox = wx.CheckBox(self.global_settings_token_window, label="numbers")
-        self.global_token_vbox.Add(self.global_number_checkbox, proportion=1)
+        self.global_token_vbox.Add(self.global_number_checkbox, proportion=0)
+        self.global_token_vbox.AddSpacer(5)
 
         self.global_punctuation_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.global_middle_punctuation_checkbox = wx.CheckBox(self.global_settings_token_window, label="middle punctuation :,-")
-        self.global_punctuation_hbox.Add(self.global_middle_punctuation_checkbox, proportion=1)
+        self.global_punctuation_hbox.Add(self.global_middle_punctuation_checkbox, proportion=0)
+        self.global_punctuation_hbox.AddSpacer(5)
         self.global_end_punctuation_checkbox = wx.CheckBox(self.global_settings_token_window, label="end punctuation .?!")
-        self.global_punctuation_hbox.Add(self.global_end_punctuation_checkbox, proportion=1)
+        self.global_punctuation_hbox.Add(self.global_end_punctuation_checkbox, proportion=0)
+        self.global_punctuation_hbox.AddSpacer(5)
         self.global_quotation_checkbox = wx.CheckBox(self.global_settings_token_window, label="quotation \"")
-        self.global_punctuation_hbox.Add(self.global_quotation_checkbox, proportion=1)
+        self.global_punctuation_hbox.Add(self.global_quotation_checkbox, proportion=0)
+        self.global_punctuation_hbox.AddSpacer(5)
         self.global_apostrophe_checkbox = wx.CheckBox(self.global_settings_token_window, label="apostrophe '")
-        self.global_punctuation_hbox.Add(self.global_apostrophe_checkbox, proportion=1)
+        self.global_punctuation_hbox.Add(self.global_apostrophe_checkbox, proportion=0)
+        self.global_punctuation_hbox.AddSpacer(5)
         self.global_bracket_checkbox = wx.CheckBox(self.global_settings_token_window, label="bracket (){}[]")
-        self.global_punctuation_hbox.Add(self.global_bracket_checkbox, proportion=1)
-        self.global_token_vbox.Add(self.global_punctuation_hbox, proportion=1)
+        self.global_punctuation_hbox.Add(self.global_bracket_checkbox, proportion=0)
+        self.global_token_vbox.Add(self.global_punctuation_hbox, proportion=0)
+        self.global_token_vbox.AddSpacer(5)
 
         self.global_whitespace_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.global_space_checkbox = wx.CheckBox(self.global_settings_token_window, label="space")
-        self.global_whitespace_hbox.Add(self.global_space_checkbox, proportion=1)
+        self.global_whitespace_hbox.Add(self.global_space_checkbox, proportion=0)
+        self.global_whitespace_hbox.AddSpacer(5)
         self.global_tab_checkbox = wx.CheckBox(self.global_settings_token_window, label="tab")
-        self.global_whitespace_hbox.Add(self.global_tab_checkbox, proportion=1)
+        self.global_whitespace_hbox.Add(self.global_tab_checkbox, proportion=0)
+        self.global_whitespace_hbox.AddSpacer(5)
         self.global_newline_checkbox = wx.CheckBox(self.global_settings_token_window, label="newline")
-        self.global_whitespace_hbox.Add(self.global_newline_checkbox, proportion=1)
-        self.global_token_vbox.Add(self.global_whitespace_hbox, proportion=1)
+        self.global_whitespace_hbox.Add(self.global_newline_checkbox, proportion=0)
+        self.global_token_vbox.Add(self.global_whitespace_hbox, proportion=0)
+        self.global_token_vbox.AddSpacer(10)
+
+        self.global_token_check_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_token_checkall = wx.Button(self.global_settings_token_window, label="Select all")
+        self.global_token_check_hbox.Add(self.global_token_checkall, proportion=0)
+        self.global_token_check_hbox.AddSpacer(10)
+        self.global_token_uncheckall = wx.Button(self.global_settings_token_window, label="Deselect all")
+        self.global_token_check_hbox.Add(self.global_token_uncheckall, proportion=0)
+        self.global_token_vbox.Add(self.global_token_check_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_token_vbox.AddSpacer(10)
+
+        self.global_regex_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_regex_statictext = wx.StaticText(self.global_settings_token_window, label="Regex")
+        self.global_regex_hbox.Add(self.global_regex_statictext, proportion=0)
+        self.global_whitespace_hbox.AddSpacer(5)
+        self.global_regex_txtctrl = wx.TextCtrl(self.global_settings_token_window)
+        self.global_regex_hbox.Add(self.global_regex_txtctrl, proportion=2)
+        self.global_token_vbox.Add(self.global_regex_hbox, 0, wx.ALIGN_CENTER)
+        self.global_token_vbox.AddSpacer(10)
+
+        self.global_case_sensitive_checkbox = wx.CheckBox(self.global_settings_token_window, label="case sensitive")
+        self.global_token_vbox.Add(self.global_case_sensitive_checkbox, proportion=0)
+        self.global_token_vbox.AddSpacer(15)
+
+        self.global_stop_words_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_stop_words_statictext = wx.StaticText(self.global_settings_token_window, label="stop words")
+        self.global_stop_words_hbox.Add(self.global_stop_words_statictext, proportion=0)
+        self.global_stop_words_hbox.AddSpacer(5)
+        self.global_stop_words_txtctrl = wx.TextCtrl(self.global_settings_token_window, style=wx.TE_MULTILINE)
+        self.global_stop_words_hbox.Add(self.global_stop_words_txtctrl, proportion=3, flag=wx.EXPAND)
+        self.global_stop_words_hbox.AddSpacer(5)
+        self.global_stop_words_file_button = wx.Button(self.global_settings_token_window, label="Open file")
+        self.global_stop_words_hbox.Add(self.global_stop_words_file_button, proportion=1)
+        self.global_token_vbox.Add(self.global_stop_words_hbox, 1, wx.ALIGN_CENTER)
 
         self.global_settings_token_window.SetSizer(self.global_token_vbox)
 
