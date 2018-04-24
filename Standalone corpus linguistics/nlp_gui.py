@@ -46,7 +46,7 @@ class nlp_gui_class(wx.Frame):
         self.global_default_extension_label = None
         self.global_default_extension_txtctrl = None
         self.global_default_extension_hbox = None
-        self.global_file_button = None
+        self.global_file_apply_button = None
 
         self.global_settings_token_window = None
         self.global_token_vbox = None
@@ -65,8 +65,9 @@ class nlp_gui_class(wx.Frame):
         self.global_tab_checkbox = None
         self.global_newline_checkbox = None
         self.global_token_check_hbox = None
-        self.global_token_checkall = None
-        self.global_token_uncheckall = None
+        self.global_token_checkboxes = None
+        self.global_token_checkall_button = None
+        self.global_token_uncheckall_button = None
         self.global_regex_hbox = None
         self.global_regex_statictext = None
         self.global_regex_txtctrl = None
@@ -75,7 +76,7 @@ class nlp_gui_class(wx.Frame):
         self.global_stop_words_statictext = None
         self.global_stop_words_txtctrl = None
         self.global_stop_words_file_button = None
-        self.global_token_button = None
+        self.global_token_apply_button = None
 
         self.show_full_pathname = True
         self.global_default_extension = ".txt"
@@ -93,6 +94,9 @@ class nlp_gui_class(wx.Frame):
         self.global_newline = False
         self.global_regex = "[a-zA-Z]+"
         self.global_case_sensitive = False
+        self.global_regex_set = False
+        self.global_stop_words = []
+        self.global_stop_words_modified = False
 
         self.tool_settings_item = None
 
@@ -255,10 +259,10 @@ class nlp_gui_class(wx.Frame):
         self.global_settings_file_box.Add(self.global_default_extension_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.global_settings_file_box.AddSpacer(10)
 
-        self.global_file_button = wx.Button(self.global_settings_file_window, label="Apply")
-        self.global_settings_file_box.Add(self.global_file_button, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_file_apply_button = wx.Button(self.global_settings_file_window, label="Apply")
+        self.global_settings_file_box.Add(self.global_file_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
         self.global_settings_file_window.SetSizer(self.global_settings_file_box)
-        self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.apply_global_file_settings, self.global_file_button)
+        self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.apply_global_file_settings, self.global_file_apply_button)
 
         self.global_settings_token_window = wx.Panel(parent=self.global_settings_listbook)
         self.global_token_vbox = wx.BoxSizer(orient=wx.VERTICAL)
@@ -319,20 +323,25 @@ class nlp_gui_class(wx.Frame):
         self.global_token_vbox.AddSpacer(10)
 
         self.global_token_check_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.global_token_checkall = wx.Button(self.global_settings_token_window, label="Select all")
-        self.global_token_check_hbox.Add(self.global_token_checkall, proportion=0)
+        self.global_token_checkall_button = wx.Button(self.global_settings_token_window, label="Select all")
+        self.global_token_check_hbox.Add(self.global_token_checkall_button, proportion=0)
         self.global_token_check_hbox.AddSpacer(10)
-        self.global_token_uncheckall = wx.Button(self.global_settings_token_window, label="Deselect all")
-        self.global_token_check_hbox.Add(self.global_token_uncheckall, proportion=0)
+        self.global_token_uncheckall_button = wx.Button(self.global_settings_token_window, label="Deselect all")
+        self.global_token_check_hbox.Add(self.global_token_uncheckall_button, proportion=0)
         self.global_token_vbox.Add(self.global_token_check_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.global_token_vbox.AddSpacer(10)
+        self.global_token_checkboxes = [self.global_letter_lower_checkbox, self.global_letter_upper_checkbox,
+                                        self.global_number_checkbox, self.global_middle_punctuation_checkbox,
+                                        self.global_end_punctuation_checkbox, self.global_quotation_checkbox,
+                                        self.global_apostrophe_checkbox, self.global_bracket_checkbox,
+                                        self.global_space_checkbox, self.global_tab_checkbox, self.global_newline_checkbox]
 
         self.global_regex_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.global_regex_statictext = wx.StaticText(self.global_settings_token_window, label="Regex")
         self.global_regex_hbox.Add(self.global_regex_statictext, proportion=0)
         self.global_regex_hbox.AddSpacer(5)
         self.global_regex_txtctrl = wx.TextCtrl(self.global_settings_token_window)
-        self.global_regex_txtctrl.SetLabel(self.global_regex)
+        self.global_regex_txtctrl.ChangeValue(self.global_regex)
         self.global_regex_hbox.Add(self.global_regex_txtctrl, proportion=2)
         self.global_token_vbox.Add(self.global_regex_hbox, 0, wx.ALIGN_CENTER)
         self.global_token_vbox.AddSpacer(10)
@@ -347,6 +356,11 @@ class nlp_gui_class(wx.Frame):
         self.global_stop_words_hbox.Add(self.global_stop_words_statictext, proportion=0)
         self.global_stop_words_hbox.AddSpacer(5)
         self.global_stop_words_txtctrl = wx.TextCtrl(self.global_settings_token_window, style=wx.TE_MULTILINE)
+        text = ""
+        for word in self.global_stop_words:
+            text += "%s\n" % word
+        self.global_stop_words_txtctrl.ChangeValue(text)
+        del text  # don't need the extra data cluttering up the memory
         self.global_stop_words_hbox.Add(self.global_stop_words_txtctrl, proportion=3, flag=wx.EXPAND)
         self.global_stop_words_hbox.AddSpacer(5)
         self.global_stop_words_file_button = wx.Button(self.global_settings_token_window, label="Open file")
@@ -354,10 +368,19 @@ class nlp_gui_class(wx.Frame):
         self.global_token_vbox.Add(self.global_stop_words_hbox, proportion=1, flag=wx.ALIGN_CENTER)
         self.global_token_vbox.AddSpacer(10)
 
-        self.global_token_button = wx.Button(self.global_settings_token_window, label="Apply")
-        self.global_token_vbox.Add(self.global_token_button, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_token_apply_button = wx.Button(self.global_settings_token_window, label="Apply")
+        self.global_token_vbox.Add(self.global_token_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
 
         self.global_settings_token_window.SetSizer(self.global_token_vbox)
+
+        self.global_settings_token_window.Bind(wx.EVT_TEXT, self.global_set_regex, self.global_regex_txtctrl)
+        self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.global_token_checkall, self.global_token_checkall_button)
+        self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.global_token_uncheckall, self.global_token_uncheckall_button)
+        self.global_settings_token_window.Bind(wx.EVT_CHECKBOX, self.global_token_checkbox_mark)
+        self.global_case_sensitive_checkbox.Bind(wx.EVT_CHECKBOX, lambda *args, **kwargs: None)  # make sure that case_sensitive doesn't disable regex
+        self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.global_token_open_stoplist, self.global_stop_words_file_button)
+        self.global_settings_token_window.Bind(wx.EVT_TEXT, self.global_token_stop_words_modify, self.global_stop_words_txtctrl)
+        self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.apply_global_token_settings, self.global_token_apply_button)
 
         self.global_settings_listbook.InsertPage(0, self.global_settings_file_window, "Files")
         self.global_settings_listbook.InsertPage(1, self.global_settings_token_window, "Token Defnition")
@@ -366,6 +389,87 @@ class nlp_gui_class(wx.Frame):
     def apply_global_file_settings(self, event=wx.EVT_BUTTON):
         self.show_full_pathname = self.show_full_pathname_checkbox.IsChecked()
         self.global_default_extension = self.global_default_extension_txtctrl.GetLineText(0)
+
+    def global_set_regex(self, event=wx.EVT_TEXT):
+        if self.global_regex_txtctrl.GetLineText(0) != self.global_regex:
+            for checkbox in self.global_token_checkboxes:
+                checkbox.Enable(False)
+            self.global_token_checkall_button.Enable(False)
+            self.global_token_uncheckall_button.Enable(False)
+        else:
+            for checkbox in self.global_token_checkboxes:
+                checkbox.Enable(True)
+            self.global_token_checkall_button.Enable(True)
+            self.global_token_uncheckall_button.Enable(True)
+
+    def global_token_checkall(self, event=wx.EVT_BUTTON):
+        for checkbox in self.global_token_checkboxes:
+            checkbox.SetValue(1)
+        self.global_token_checkbox_mark()
+
+    def global_token_uncheckall(self, event=wx.EVT_BUTTON):
+        for checkbox in self.global_token_checkboxes:
+            checkbox.SetValue(0)
+        self.global_token_checkbox_mark()
+
+    def global_token_checkbox_mark(self, event=wx.EVT_CHECKBOX):
+        value_tups = [(self.global_letter_lower, self.global_letter_lower_checkbox),
+                    (self.global_letter_upper, self.global_letter_upper_checkbox),
+                    (self.global_number, self.global_number_checkbox),
+                    (self.global_middle_punctuation, self.global_middle_punctuation_checkbox),
+                    (self.global_end_punctuation, self.global_end_punctuation_checkbox),
+                    (self.global_quotation, self.global_quotation_checkbox),
+                    (self.global_apostrophe, self.global_apostrophe_checkbox),
+                    (self.global_bracket, self.global_bracket_checkbox),
+                    (self.global_space, self.global_space_checkbox),
+                    (self.global_tab, self.global_tab_checkbox),
+                    (self.global_newline, self.global_newline_checkbox)]
+        for tup in value_tups:
+            if tup[0] != tup[1].GetValue():
+                self.global_regex_txtctrl.Enable(False)  # turn off the regex txtctrl to avoid conflicts
+                break
+        else:
+            self.global_regex_txtctrl.Enable(True)
+
+    def global_token_open_stoplist(self, event=wx.EVT_BUTTON):
+        self.open_file_dialog = wx.FileDialog(self.global_settings_token_window, message="Choose corpus files", style=
+                                                wx.FD_OPEN | wx.FD_FILE_MUST_EXIST | wx.FD_MULTIPLE)
+        if self.open_file_dialog.ShowModal() == wx.ID_OK:
+            for filename in self.open_file_dialog.GetPaths():
+                f_in = open(filename)
+                for line in f_in:
+                    self.global_stop_words_txtctrl.write(line)
+                f_in.close()
+            self.global_stop_words_txtctrl.SetModified(True)
+
+    def global_token_stop_words_modify(self, event=wx.EVT_TEXT):
+        self.global_stop_words_modified = True
+
+    def apply_global_token_settings(self, event=None):
+        if self.global_regex != self.global_regex_txtctrl.GetLineText(0):
+            self.global_regex = self.global_regex_txtctrl.GetLineText(0)
+        else:
+            self.global_letter_lower = self.global_letter_lower_checkbox.GetValue()
+            self.global_letter_upper = self.global_letter_upper_checkbox.GetValue()
+            self.global_number = self.global_number_checkbox.GetValue()
+            self.global_middle_punctuation = self.global_middle_punctuation_checkbox.GetValue()
+            self.global_end_punctuation = self.global_end_punctuation_checkbox.GetValue()
+            self.global_quotation = self.global_quotation_checkbox.GetValue()
+            self.global_apostrophe = self.global_apostrophe_checkbox.GetValue()
+            self.global_bracket = self.global_bracket_checkbox.GetValue()
+            self.global_space = self.global_space_checkbox.GetValue()
+            self.global_tab = self.global_tab_checkbox.GetValue()
+            self.global_newline = self.global_newline_checkbox.GetValue()
+        self.global_regex_txtctrl.Enable(True)
+        for checkbox in self.global_token_checkboxes:
+            checkbox.Enable(True)
+        self.global_case_sensitive = self.global_case_sensitive_checkbox.GetValue()
+        if self.global_stop_words_modified:
+            self.global_stop_words = []
+            for word in self.global_stop_words_txtctrl.GetValue().split("\n"):
+                if word:  # empty strings don't count
+                    self.global_stop_words.append(word)
+        self.global_stop_words_modified = False
 
     def open_tool_settings(self, event=None):
         # concordance
