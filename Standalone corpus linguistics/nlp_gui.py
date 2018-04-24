@@ -14,21 +14,16 @@ class nlp_gui_class(wx.Frame):
         self.text_bodies = {}  # for text input directly from a textbox or clipboard. Map a "filename" to its text.
 
         self.open_file_item = None
-        self.open_file_dialog = None
 
         self.open_dir_item = None
-        self.open_dir_dialog = None
 
         self.open_clipboard_item = None
 
         self.open_text_item = None
-        self.open_text_dialog = None
 
         self.close_files_item = None
-        self.close_file_dialog = None
 
         self.close_text_item = None
-        self.close_text_dialog = None
 
         self.close_all_files_item = None
 
@@ -46,6 +41,11 @@ class nlp_gui_class(wx.Frame):
         self.global_default_extension_label = None
         self.global_default_extension_txtctrl = None
         self.global_default_extension_hbox = None
+        self.global_save_intermediate_hbox = None
+        self.global_save_intermediate_choice = None
+        self.global_save_intermediate_statictext = None
+        self.global_save_intermediate_dirpick_button = None
+        self.global_save_intermediate_txtctrl = None
         self.global_file_apply_button = None
 
         self.global_settings_token_window = None
@@ -80,6 +80,8 @@ class nlp_gui_class(wx.Frame):
 
         self.show_full_pathname = True
         self.global_default_extension = ".txt"
+        self.global_save_intermediate = 0
+        self.global_save_intermediate_dir = ""
 
         self.global_letter_lower = True
         self.global_letter_upper = True
@@ -99,6 +101,8 @@ class nlp_gui_class(wx.Frame):
         self.global_stop_words_modified = False
 
         self.tool_settings_item = None
+        self.tool_settings_frame = None
+        self.tool_settings_listbook = None
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -142,23 +146,23 @@ class nlp_gui_class(wx.Frame):
         self.SetMenuBar(self.menubar)  # Adding the MenuBar to the Frame content.
 
     def open_files(self, event=None):
-        self.open_file_dialog = wx.FileDialog(self, message="Choose corpus files", style=
+        open_file_dialog = wx.FileDialog(self, message="Choose corpus files", style=
                                        wx.FD_OPEN | wx.FD_FILE_MUST_EXIST | wx.FD_MULTIPLE)
-        if self.open_file_dialog.ShowModal() == wx.ID_OK:
+        if open_file_dialog.ShowModal() == wx.ID_OK:
             self.filenames.extend(self.open_file_dialog.GetPaths())
-        self.open_file_dialog.Destroy()
+        open_file_dialog.Destroy()
         if debug:
             print(self.get_filenames())
 
     def open_dir(self, event=None):
-        self.open_dir_dialog = wx.DirDialog(self, message="Choose directory containing corpus files",
+        open_dir_dialog = wx.DirDialog(self, message="Choose directory containing corpus files",
                   style=wx.DD_DIR_MUST_EXIST)
-        if self.open_dir_dialog.ShowModal() == wx.ID_OK:
+        if open_dir_dialog.ShowModal() == wx.ID_OK:
             path = self.open_dir_dialog.GetPath()
             for filename in os.listdir(path):
                 if filename.endswith(self.global_default_extension):
                     self.filenames.append(os.path.join(path, filename))
-        self.open_dir_dialog.Destroy()
+        open_dir_dialog.Destroy()
         if debug:
             print(self.get_filenames())
 
@@ -177,10 +181,10 @@ class nlp_gui_class(wx.Frame):
             self.view_text()
 
     def open_text(self, event=None):
-        self.open_text_dialog = wx.TextEntryDialog(self, message="Type in some words to add to your corpus",
+        open_text_dialog = wx.TextEntryDialog(self, message="Type in some words to add to your corpus",
                                         caption="Open from text box", style=wx.TextEntryDialogStyle | wx.TE_MULTILINE)
-        if self.open_text_dialog.ShowModal() == wx.ID_OK:
-            text = self.open_text_dialog.GetValue()
+        if open_text_dialog.ShowModal() == wx.ID_OK:
+            text = open_text_dialog.GetValue()
             name = "Textbox (%s...)" % text[:10]
             while name in self.text_bodies:  # if another textbox with those same characters is stored
                 name += "1"
@@ -194,12 +198,12 @@ class nlp_gui_class(wx.Frame):
         :param event:
         :return:
         """
-        self.close_file_dialog = wx.MultiChoiceDialog(self, message="Select file(s) to close", caption="Close file(s)",
+        close_file_dialog = wx.MultiChoiceDialog(self, message="Select file(s) to close", caption="Close file(s)",
                                                       choices=self.filenames)
-        if self.close_file_dialog.ShowModal() == wx.ID_OK:
-            to_remove = [self.filenames[i] for i in self.close_file_dialog.GetSelections()]
+        if close_file_dialog.ShowModal() == wx.ID_OK:
+            to_remove = [self.filenames[i] for i in close_file_dialog.GetSelections()]
             self.filenames = [name for name in self.filenames if name not in to_remove]
-        self.close_file_dialog.Destroy()
+        close_file_dialog.Destroy()
         if debug:
             print(self.get_filenames())
 
@@ -210,10 +214,10 @@ class nlp_gui_class(wx.Frame):
         :return:
         """
         keys = [x for x in self.text_bodies.keys()]  # calculate list ahead of time to ensure correct order
-        self.close_text_dialog = wx.MultiChoiceDialog(self, message="Select text(s) to close", caption="Close text(s)",
+        close_text_dialog = wx.MultiChoiceDialog(self, message="Select text(s) to close", caption="Close text(s)",
                                                       choices=keys)
-        if self.close_text_dialog.ShowModal() == wx.ID_OK:
-            to_remove = [keys[i] for i in self.close_text_dialog.GetSelections()]
+        if close_text_dialog.ShowModal() == wx.ID_OK:
+            to_remove = [keys[i] for i in close_text_dialog.GetSelections()]
             # TODO: fix
             for key in keys:  # don't loop through dict directly because that would cause problems
                 if key in to_remove:
@@ -259,10 +263,36 @@ class nlp_gui_class(wx.Frame):
         self.global_settings_file_box.Add(self.global_default_extension_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.global_settings_file_box.AddSpacer(10)
 
+        self.global_save_intermediate_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.global_save_intermediate_statictext = wx.StaticText(self.global_settings_file_window, label="Sometimes, to process data, the system creates intermediate files."
+                                                                 " Do you want to delete them, keep them, or have the system ask first?")
+        self.global_save_intermediate_statictext.Wrap(150)
+        self.global_save_intermediate_hbox.Add(self.global_save_intermediate_statictext, proportion=0)
+        self.global_save_intermediate_hbox.AddSpacer(5)
+        self.global_save_intermediate_choice = wx.Choice(self.global_settings_file_window, choices=["delete", "keep", "ask"])
+        self.global_save_intermediate_choice.SetSelection(self.global_save_intermediate)  # set to the int
+        self.global_save_intermediate_hbox.Add(self.global_save_intermediate_choice, proportion=0)
+        self.global_save_intermediate_hbox.AddSpacer(5)
+        self.global_save_intermediate_dirpick_button = wx.Button(self.global_settings_file_window, label="Choose dir to save in")
+        self.global_save_intermediate_hbox.Add(self.global_save_intermediate_dirpick_button, proportion=0)
+        self.global_save_intermediate_hbox.AddSpacer(5)
+        self.global_save_intermediate_txtctrl = wx.TextCtrl(self.global_settings_file_window, style=wx.TE_READONLY)
+        self.global_save_intermediate_txtctrl.ChangeValue(self.global_save_intermediate_dir)
+        self.global_save_intermediate_hbox.Add(self.global_save_intermediate_txtctrl, proportion=3)
+        if not self.global_save_intermediate:  # if the variable is 0 for delete
+            self.global_save_intermediate_dirpick_button.Enable(False)
+        self.global_settings_file_box.Add(self.global_save_intermediate_hbox, proportion=0, flag=wx.ALIGN_CENTER | wx.EXPAND)
+        self.global_settings_file_box.AddSpacer(10)
+
         self.global_file_apply_button = wx.Button(self.global_settings_file_window, label="Apply")
         self.global_settings_file_box.Add(self.global_file_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
+
         self.global_settings_file_window.SetSizer(self.global_settings_file_box)
+        self.global_settings_file_window.Bind(wx.EVT_CHOICE, self.global_save_intermediate_enable, self.global_save_intermediate_choice)
+        self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.global_save_intermediate_dirpick, self.global_save_intermediate_dirpick_button)
         self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.apply_global_file_settings, self.global_file_apply_button)
+
+        self.global_settings_listbook.InsertPage(0, self.global_settings_file_window, "Files")
 
         self.global_settings_token_window = wx.Panel(parent=self.global_settings_listbook)
         self.global_token_vbox = wx.BoxSizer(orient=wx.VERTICAL)
@@ -382,16 +412,31 @@ class nlp_gui_class(wx.Frame):
         self.global_settings_token_window.Bind(wx.EVT_TEXT, self.global_token_stop_words_modify, self.global_stop_words_txtctrl)
         self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.apply_global_token_settings, self.global_token_apply_button)
 
-        self.global_settings_listbook.InsertPage(0, self.global_settings_file_window, "Files")
         self.global_settings_listbook.InsertPage(1, self.global_settings_token_window, "Token Defnition")
         self.global_settings_frame.Show()
 
+    def global_save_intermediate_enable(self, event=wx.EVT_CHOICE):
+        if self.global_save_intermediate_choice.GetSelection():
+            self.global_save_intermediate_dirpick_button.Enable(True)
+        else:
+            self.global_save_intermediate_dirpick_button.Enable(False)
+
+    def global_save_intermediate_dirpick(self, event=wx.EVT_BUTTON):
+        open_dir_dialog = wx.DirDialog(self.global_settings_file_window, message="Pick a directory to save intermediate files in",
+                                       style=wx.DD_DIR_MUST_EXIST)
+        if open_dir_dialog.ShowModal() == wx.ID_OK:
+            self.global_save_intermediate_txtctrl.SetValue(open_dir_dialog.GetPath())
+        open_dir_dialog.Destroy()
+
     def apply_global_file_settings(self, event=wx.EVT_BUTTON):
         self.show_full_pathname = self.show_full_pathname_checkbox.IsChecked()
-        self.global_default_extension = self.global_default_extension_txtctrl.GetLineText(0)
+        self.global_default_extension = self.global_default_extension_txtctrl.GetValue()
+        self.global_save_intermediate = self.global_save_intermediate_choice.GetSelection()
+        if self.global_save_intermediate:
+            self.global_save_intermediate_dir = self.global_save_intermediate_txtctrl.GetValue()
 
     def global_set_regex(self, event=wx.EVT_TEXT):
-        if self.global_regex_txtctrl.GetLineText(0) != self.global_regex:
+        if self.global_regex_txtctrl.GetValue() != self.global_regex:
             for checkbox in self.global_token_checkboxes:
                 checkbox.Enable(False)
             self.global_token_checkall_button.Enable(False)
@@ -432,22 +477,23 @@ class nlp_gui_class(wx.Frame):
             self.global_regex_txtctrl.Enable(True)
 
     def global_token_open_stoplist(self, event=wx.EVT_BUTTON):
-        self.open_file_dialog = wx.FileDialog(self.global_settings_token_window, message="Choose corpus files", style=
+        open_file_dialog = wx.FileDialog(self.global_settings_token_window, message="Choose corpus files", style=
                                                 wx.FD_OPEN | wx.FD_FILE_MUST_EXIST | wx.FD_MULTIPLE)
-        if self.open_file_dialog.ShowModal() == wx.ID_OK:
-            for filename in self.open_file_dialog.GetPaths():
+        if open_file_dialog.ShowModal() == wx.ID_OK:
+            for filename in open_file_dialog.GetPaths():
                 f_in = open(filename)
                 for line in f_in:
                     self.global_stop_words_txtctrl.write(line)
                 f_in.close()
             self.global_stop_words_txtctrl.SetModified(True)
+        open_file_dialog.Destroy()
 
     def global_token_stop_words_modify(self, event=wx.EVT_TEXT):
         self.global_stop_words_modified = True
 
     def apply_global_token_settings(self, event=None):
-        if self.global_regex != self.global_regex_txtctrl.GetLineText(0):
-            self.global_regex = self.global_regex_txtctrl.GetLineText(0)
+        if self.global_regex != self.global_regex_txtctrl.GetValue():
+            self.global_regex = self.global_regex_txtctrl.GetValue()
         else:
             self.global_letter_lower = self.global_letter_lower_checkbox.GetValue()
             self.global_letter_upper = self.global_letter_upper_checkbox.GetValue()
@@ -472,14 +518,12 @@ class nlp_gui_class(wx.Frame):
         self.global_stop_words_modified = False
 
     def open_tool_settings(self, event=None):
-        # concordance
-        #     hit number
-        #     KWIC display
         # ngrams
         #     display options
         #         rank
         #         frequency
         #     other options
+        #         token definition
         #         case sensitive
         #         replace line breaks
         # word list
@@ -506,7 +550,10 @@ class nlp_gui_class(wx.Frame):
         #     reference corpus
         #         use raw file(s)
         #         use word list(s)
-        pass
+        self.tool_settings_frame = wx.Frame(parent=self, title="Global Settings", name="Global Settings")
+        self.tool_settings_listbook = wx.Listbook(parent=self.tool_settings_frame, style=wx.LB_TOP)
+
+        self.global_settings_file_window = wx.Panel(parent=self.tool_settings_listbook)
 
     def get_corpus(self, event=None):
         """
