@@ -104,6 +104,23 @@ class nlp_gui_class(wx.Frame):
         self.tool_settings_frame = None
         self.tool_settings_listbook = None
 
+        self.tool_settings_wordlist_window = None
+        self.tool_wordlist_vbox = None
+        self.tool_wordlist_case_choice = None
+        self.tool_wordlist_target_corpus_choice = None
+        self.tool_load_wordlist_hbox = None
+        self.tool_load_wordlist_button = None
+        self.tool_wordlist_filename_txtctrl = None
+        self.tool_wordlist_apply_button = None
+
+        self.tool_settings_concordance_window = None
+        self.tool_settings_ngram_window = None
+        self.tool_settings_keyword_window = None
+
+        self.tool_wordlist_case = 0  # in this case means (match whatever global is)
+        self.tool_wordlist_target_corpus = 0  # everything
+        self.tool_wordlist_wordlists = []
+
         self.createSettingMenu()
         self.createMenuBar()
 
@@ -136,8 +153,8 @@ class nlp_gui_class(wx.Frame):
     def createSettingMenu(self):
         self.global_settings_item = self.setting_menu.Append(wx.ID_ANY, "Global Settings", "Global settings")
         self.tool_settings_item = self.setting_menu.Append(wx.ID_ANY, "Tool Settings", "Tool settings")
-        self.Bind(wx.EVT_MENU, self.open_global_settings, self.global_settings_item)
-        self.Bind(wx.EVT_MENU, self.open_tool_settings, self.tool_settings_item)
+        self.Bind(wx.EVT_MENU, self.openGlobalSettings, self.global_settings_item)
+        self.Bind(wx.EVT_MENU, self.openToolSettings, self.tool_settings_item)
 
     def createMenuBar(self):
         self.menubar = wx.MenuBar()
@@ -237,13 +254,14 @@ class nlp_gui_class(wx.Frame):
         # TODO: write this
         raise NotImplementedError
 
-    def open_global_settings(self, event=None):
+    def openGlobalSettings(self, event=None):
         """
         Open the global settings menu
         :param event:
         :return:
         """
-        self.global_settings_frame = wx.Frame(parent=self, title="Global Settings", name="Global Settings")
+        self.global_settings_frame = wx.Frame(parent=self, title="Global Settings")
+        self.global_settings_frame.SetSize(0, 23, 800, 500)  # this looks good on my 13in MacBook Pro, but idk how it looks other places
         self.global_settings_listbook = wx.Listbook(parent=self.global_settings_frame, style=wx.LB_LEFT)
 
         self.global_settings_file_window = wx.Panel(parent=self.global_settings_listbook)
@@ -376,7 +394,7 @@ class nlp_gui_class(wx.Frame):
         self.global_token_vbox.Add(self.global_regex_hbox, 0, wx.ALIGN_CENTER)
         self.global_token_vbox.AddSpacer(10)
 
-        self.global_case_sensitive_checkbox = wx.CheckBox(self.global_settings_token_window, label="case sensitive")
+        self.global_case_sensitive_checkbox = wx.CheckBox(self.global_settings_token_window, label="Case sensitive")
         self.global_case_sensitive_checkbox.SetValue(self.global_case_sensitive)
         self.global_token_vbox.Add(self.global_case_sensitive_checkbox, proportion=0)
         self.global_token_vbox.AddSpacer(15)
@@ -517,7 +535,8 @@ class nlp_gui_class(wx.Frame):
                     self.global_stop_words.append(word)
         self.global_stop_words_modified = False
 
-    def open_tool_settings(self, event=None):
+    def openToolSettings(self, event=None):
+        # concordance?
         # ngrams
         #     display options
         #         rank
@@ -526,16 +545,6 @@ class nlp_gui_class(wx.Frame):
         #         token definition
         #         case sensitive
         #         replace line breaks
-        # word list
-        #     display options
-        #         rank
-        #         frequency
-        #         word
-        #     other options
-        #         treat all data as lowercase
-        #     target corpus
-        #         use raw file(s)
-        #         use word list(s) (warning: can only do wordlist and keyword analysis)
         # keyword list
         #     display options
         #         rank
@@ -551,9 +560,86 @@ class nlp_gui_class(wx.Frame):
         #         use raw file(s)
         #         use word list(s)
         self.tool_settings_frame = wx.Frame(parent=self, title="Global Settings", name="Global Settings")
-        self.tool_settings_listbook = wx.Listbook(parent=self.tool_settings_frame, style=wx.LB_TOP)
+        self.tool_settings_frame.SetSize(0, 23, 600, 500)
+        self.tool_settings_listbook = wx.Listbook(parent=self.tool_settings_frame, style=wx.LB_LEFT)
 
-        self.global_settings_file_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_settings_wordlist_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_wordlist_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+
+        if self.global_case_sensitive:
+            case_str = "Case sensitive"
+        else:
+            case_str = "Case insensitive"
+        self.tool_wordlist_case_choice = wx.Choice(self.tool_settings_wordlist_window,
+                                                   choices=["Match global setting (%s)" % case_str, "Case sensitive", "Case insensitive"])
+        self.tool_wordlist_case_choice.SetSelection(self.tool_wordlist_case)
+        self.tool_wordlist_vbox.Add(self.tool_wordlist_case_choice, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_wordlist_vbox.AddSpacer(10)
+
+        self.tool_wordlist_target_corpus_choice = wx.Choice(self.tool_settings_wordlist_window,
+                                                            choices=["Use all (files and texts)", "Use files", "Use texts", "Use wordlist(s)"])
+        self.tool_wordlist_target_corpus_choice.SetSelection(self.tool_wordlist_target_corpus)
+        self.tool_wordlist_vbox.Add(self.tool_wordlist_target_corpus_choice, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_wordlist_vbox.AddSpacer(5)
+
+        self.tool_load_wordlist_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_load_wordlist_button = wx.Button(self.tool_settings_wordlist_window, label="Load wordlist(s)")
+        if self.tool_wordlist_target_corpus != 3:  # 3 is the index of Use wordlist
+            self.tool_load_wordlist_button.Enable(False)
+        self.tool_load_wordlist_hbox.Add(self.tool_load_wordlist_button, proportion=0)
+        self.tool_load_wordlist_hbox.AddSpacer(5)
+        self.tool_wordlist_filename_txtctrl = wx.TextCtrl(self.tool_settings_wordlist_window, style=wx.TE_READONLY)  # TODO: figure out why TE_MULTILINE not working
+        if self.tool_wordlist_target_corpus == 3:
+            for filename in self.tool_wordlist_wordlists:
+                self.tool_wordlist_filename_txtctrl.write("%s\n" % filename)
+        self.tool_load_wordlist_hbox.Add(self.tool_wordlist_filename_txtctrl, proportion=3, flag=wx.EXPAND)
+        self.tool_wordlist_vbox.Add(self.tool_load_wordlist_hbox, proportion=1, flag=wx.ALIGN_CENTER)
+        self.tool_wordlist_vbox.AddSpacer(10)
+
+        self.tool_wordlist_apply_button = wx.Button(self.tool_settings_wordlist_window, label="Apply")
+        self.tool_wordlist_vbox.Add(self.tool_wordlist_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.tool_settings_wordlist_window.Bind(wx.EVT_CHOICE, self.tool_wordlist_enable_target_corpus, self.tool_wordlist_target_corpus_choice)
+        self.tool_settings_wordlist_window.Bind(wx.EVT_BUTTON, self.tool_wordlist_load_wordlist, self.tool_load_wordlist_button)
+        self.tool_settings_wordlist_window.Bind(wx.EVT_BUTTON, self.apply_tool_wordlist_settings, self.tool_wordlist_apply_button)
+
+        self.tool_settings_wordlist_window.SetSizer(self.tool_wordlist_vbox)
+        self.tool_settings_listbook.InsertPage(0, self.tool_settings_wordlist_window, "Wordlist")
+
+        self.tool_settings_concordance_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_settings_listbook.InsertPage(1, self.tool_settings_concordance_window, "Concordance")
+
+        self.tool_settings_ngram_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_settings_listbook.InsertPage(2, self.tool_settings_ngram_window, "Ngrams")
+
+        self.tool_settings_keyword_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_settings_listbook.InsertPage(3, self.tool_settings_keyword_window, "Keyword Analysis")
+
+        self.tool_settings_frame.Show()
+
+    def tool_wordlist_enable_target_corpus(self, event=wx.EVT_CHOICE):
+        if self.tool_wordlist_target_corpus_choice.GetSelection() == 3:  # 3 is index of Use wordlist
+            self.tool_load_wordlist_button.Enable(True)
+        else:
+            self.tool_load_wordlist_button.Enable(False)
+
+    def tool_wordlist_load_wordlist(self, event=wx.EVT_BUTTON):
+        file_dialog = wx.FileDialog(self.tool_settings_wordlist_window, style=wx.FD_MULTIPLE)
+        if file_dialog.ShowModal() == wx.ID_OK:
+            text = ""
+            for filename in file_dialog.GetFilenames():
+                text += "%s\n" % filename
+            self.tool_wordlist_filename_txtctrl.write(text)
+        file_dialog.Destroy()
+
+    def apply_tool_wordlist_settings(self, event=wx.EVT_BUTTON):
+        self.tool_wordlist_case = self.tool_wordlist_case_choice.GetSelection()
+        self.tool_wordlist_target_corpus = self.tool_wordlist_target_corpus_choice.GetSelection()
+        if self.tool_wordlist_target_corpus == 3:
+            self.tool_wordlist_wordlists = []
+            for filename in self.tool_wordlist_filename_txtctrl.GetValue().split("\n"):
+                if filename:
+                    self.tool_wordlist_wordlists.append(filename)
 
     def get_corpus(self, event=None):
         """
