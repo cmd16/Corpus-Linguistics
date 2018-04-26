@@ -50,24 +50,6 @@ class nlp_gui_class(wx.Frame):
 
         self.global_settings_token_window = None
         self.global_token_vbox = None
-        self.global_letter_hbox = None
-        self.global_letter_lower_checkbox = None
-        self.global_letter_upper_checkbox = None
-        self.global_number_checkbox = None
-        self.global_punctuation_hbox = None
-        self.global_middle_punctuation_checkbox = None
-        self.global_end_punctuation_checkbox = None
-        self.global_quotation_checkbox = None
-        self.global_apostrophe_checkbox = None
-        self.global_bracket_checkbox = None
-        self.global_whitespace_hbox = None
-        self.global_space_checkbox = None
-        self.global_tab_checkbox = None
-        self.global_newline_checkbox = None
-        self.global_token_check_hbox = None
-        self.global_token_checkboxes = None
-        self.global_token_checkall_button = None
-        self.global_token_uncheckall_button = None
         self.global_regex_hbox = None
         self.global_regex_statictext = None
         self.global_regex_txtctrl = None
@@ -83,20 +65,8 @@ class nlp_gui_class(wx.Frame):
         self.global_save_intermediate = 0
         self.global_save_intermediate_dir = ""
 
-        self.global_letter_lower = True
-        self.global_letter_upper = True
-        self.global_number = False
-        self.global_middle_punctuation = False
-        self.global_end_punctuation = False
-        self.global_quotation = False
-        self.global_apostrophe = False
-        self.global_bracket = False
-        self.global_space = False
-        self.global_tab = False
-        self.global_newline = False
         self.global_regex = "[a-zA-Z]+"
         self.global_case_sensitive = False
-        self.global_regex_set = False
         self.global_stop_words = []
         self.global_stop_words_modified = False
 
@@ -107,6 +77,9 @@ class nlp_gui_class(wx.Frame):
         self.tool_settings_wordlist_window = None
         self.tool_wordlist_vbox = None
         self.tool_wordlist_case_choice = None
+        self.tool_wordlist_regex_hbox = None
+        self.tool_wordlist_regex_checkbox = None
+        self.tool_wordlist_regex_txtctrl = None
         self.tool_wordlist_target_corpus_choice = None
         self.tool_load_wordlist_hbox = None
         self.tool_load_wordlist_button = None
@@ -114,12 +87,49 @@ class nlp_gui_class(wx.Frame):
         self.tool_wordlist_apply_button = None
 
         self.tool_settings_concordance_window = None
+        self.tool_concordance_vbox = None
+        self.tool_concordance_target_corpus_choice = None
+        self.tool_concordance_apply_button = None
+
         self.tool_settings_ngram_window = None
+        self.tool_ngram_vbox = None
+        self.tool_ngram_case_choice = None
+        self.tool_ngram_regex_hbox = None
+        self.tool_ngram_regex_vbox = None
+        self.tool_ngram_regex_checkbox = None
+        self.tool_ngram_regex_button = None
+        self.tool_ngram_regex_txtctrl = None
+        self.tool_ngram_nontoken_hbox = None
+        self.tool_ngram_nontoken_button = None
+        self.tool_ngram_nontoken_txtctrl = None
+        self.tool_ngram_stop_hbox = None
+        self.tool_ngram_stop_button = None
+        self.tool_ngram_stop_txtctrl = None
+        self.tool_ngram_freq_hbox = None
+        self.tool_ngram_freq_checkbox = None
+        self.tool_ngram_freq_spinctrl = None
+        self.tool_ngram_ufreq_checkbox = None
+        self.tool_ngram_ufreq_spinctrl = None
+
         self.tool_settings_keyword_window = None
 
         self.tool_wordlist_case = 0  # in this case means (match whatever global is)
+        self.tool_wordlist_regex_checkval = True  # match whatever global is
+        self.tool_wordlist_regex = ""
         self.tool_wordlist_target_corpus = 0  # everything
         self.tool_wordlist_wordlists = []
+
+        self.tool_concordance_target_corpus = 0  # everything
+
+        self.tool_ngram_case = 0
+        self.tool_ngram_regex_checkval = True  # match whatever global is
+        self.tool_ngram_regex = ""
+        self.tool_ngram_nontokens = []
+        self.tool_ngram_stopwords = []
+        self.tool_ngram_freq_check = False
+        self.tool_ngram_freq = 1
+        self.tool_ngram_ufreq_check = False
+        self.tool_ngram_ufreq = 1
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -315,75 +325,6 @@ class nlp_gui_class(wx.Frame):
         self.global_settings_token_window = wx.Panel(parent=self.global_settings_listbook)
         self.global_token_vbox = wx.BoxSizer(orient=wx.VERTICAL)
 
-        self.global_letter_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.global_letter_lower_checkbox = wx.CheckBox(self.global_settings_token_window, label="lowercase letters")
-        self.global_letter_lower_checkbox.SetValue(self.global_letter_lower)
-        self.global_letter_hbox.Add(self.global_letter_lower_checkbox, proportion=0)
-        self.global_letter_hbox.AddSpacer(5)
-        self.global_letter_upper_checkbox = wx.CheckBox(self.global_settings_token_window, label="uppercase letters")
-        self.global_letter_upper_checkbox.SetValue(self.global_letter_upper)
-        self.global_letter_hbox.Add(self.global_letter_upper_checkbox, proportion=0)
-        self.global_letter_hbox.AddSpacer(5)
-        self.global_token_vbox.Add(self.global_letter_hbox, proportion=0)
-        self.global_token_vbox.AddSpacer(5)
-
-        self.global_number_checkbox = wx.CheckBox(self.global_settings_token_window, label="numbers")
-        self.global_number_checkbox.SetValue(self.global_number)
-        self.global_token_vbox.Add(self.global_number_checkbox, proportion=0)
-        self.global_token_vbox.AddSpacer(5)
-
-        self.global_punctuation_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.global_middle_punctuation_checkbox = wx.CheckBox(self.global_settings_token_window, label="middle punctuation :,-")
-        self.global_middle_punctuation_checkbox.SetValue(self.global_middle_punctuation)
-        self.global_punctuation_hbox.Add(self.global_middle_punctuation_checkbox, proportion=0)
-        self.global_punctuation_hbox.AddSpacer(5)
-        self.global_end_punctuation_checkbox = wx.CheckBox(self.global_settings_token_window, label="end punctuation .?!")
-        self.global_end_punctuation_checkbox.SetValue(self.global_end_punctuation)
-        self.global_punctuation_hbox.Add(self.global_end_punctuation_checkbox, proportion=0)
-        self.global_punctuation_hbox.AddSpacer(5)
-        self.global_quotation_checkbox = wx.CheckBox(self.global_settings_token_window, label="quotation \"")
-        self.global_quotation_checkbox.SetValue(self.global_quotation)
-        self.global_punctuation_hbox.Add(self.global_quotation_checkbox, proportion=0)
-        self.global_punctuation_hbox.AddSpacer(5)
-        self.global_apostrophe_checkbox = wx.CheckBox(self.global_settings_token_window, label="apostrophe '")
-        self.global_apostrophe_checkbox.SetValue(self.global_apostrophe)
-        self.global_punctuation_hbox.Add(self.global_apostrophe_checkbox, proportion=0)
-        self.global_punctuation_hbox.AddSpacer(5)
-        self.global_bracket_checkbox = wx.CheckBox(self.global_settings_token_window, label="bracket (){}[]")
-        self.global_bracket_checkbox.SetValue(self.global_bracket)
-        self.global_punctuation_hbox.Add(self.global_bracket_checkbox, proportion=0)
-        self.global_token_vbox.Add(self.global_punctuation_hbox, proportion=0)
-        self.global_token_vbox.AddSpacer(5)
-
-        self.global_whitespace_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.global_space_checkbox = wx.CheckBox(self.global_settings_token_window, label="space")
-        self.global_quotation_checkbox.SetValue(self.global_space)
-        self.global_whitespace_hbox.Add(self.global_space_checkbox, proportion=0)
-        self.global_whitespace_hbox.AddSpacer(5)
-        self.global_tab_checkbox = wx.CheckBox(self.global_settings_token_window, label="tab")
-        self.global_tab_checkbox.SetValue(self.global_tab)
-        self.global_whitespace_hbox.Add(self.global_tab_checkbox, proportion=0)
-        self.global_whitespace_hbox.AddSpacer(5)
-        self.global_newline_checkbox = wx.CheckBox(self.global_settings_token_window, label="newline")
-        self.global_newline_checkbox.SetValue(self.global_newline)
-        self.global_whitespace_hbox.Add(self.global_newline_checkbox, proportion=0)
-        self.global_token_vbox.Add(self.global_whitespace_hbox, proportion=0)
-        self.global_token_vbox.AddSpacer(10)
-
-        self.global_token_check_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.global_token_checkall_button = wx.Button(self.global_settings_token_window, label="Select all")
-        self.global_token_check_hbox.Add(self.global_token_checkall_button, proportion=0)
-        self.global_token_check_hbox.AddSpacer(10)
-        self.global_token_uncheckall_button = wx.Button(self.global_settings_token_window, label="Deselect all")
-        self.global_token_check_hbox.Add(self.global_token_uncheckall_button, proportion=0)
-        self.global_token_vbox.Add(self.global_token_check_hbox, proportion=0, flag=wx.ALIGN_CENTER)
-        self.global_token_vbox.AddSpacer(10)
-        self.global_token_checkboxes = [self.global_letter_lower_checkbox, self.global_letter_upper_checkbox,
-                                        self.global_number_checkbox, self.global_middle_punctuation_checkbox,
-                                        self.global_end_punctuation_checkbox, self.global_quotation_checkbox,
-                                        self.global_apostrophe_checkbox, self.global_bracket_checkbox,
-                                        self.global_space_checkbox, self.global_tab_checkbox, self.global_newline_checkbox]
-
         self.global_regex_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.global_regex_statictext = wx.StaticText(self.global_settings_token_window, label="Regex")
         self.global_regex_hbox.Add(self.global_regex_statictext, proportion=0)
@@ -391,7 +332,7 @@ class nlp_gui_class(wx.Frame):
         self.global_regex_txtctrl = wx.TextCtrl(self.global_settings_token_window)
         self.global_regex_txtctrl.ChangeValue(self.global_regex)
         self.global_regex_hbox.Add(self.global_regex_txtctrl, proportion=2)
-        self.global_token_vbox.Add(self.global_regex_hbox, 0, wx.ALIGN_CENTER)
+        self.global_token_vbox.Add(self.global_regex_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.global_token_vbox.AddSpacer(10)
 
         self.global_case_sensitive_checkbox = wx.CheckBox(self.global_settings_token_window, label="Case sensitive")
@@ -421,10 +362,6 @@ class nlp_gui_class(wx.Frame):
 
         self.global_settings_token_window.SetSizer(self.global_token_vbox)
 
-        self.global_settings_token_window.Bind(wx.EVT_TEXT, self.global_set_regex, self.global_regex_txtctrl)
-        self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.global_token_checkall, self.global_token_checkall_button)
-        self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.global_token_uncheckall, self.global_token_uncheckall_button)
-        self.global_settings_token_window.Bind(wx.EVT_CHECKBOX, self.global_token_checkbox_mark)
         self.global_case_sensitive_checkbox.Bind(wx.EVT_CHECKBOX, lambda *args, **kwargs: None)  # make sure that case_sensitive doesn't disable regex
         self.global_settings_token_window.Bind(wx.EVT_BUTTON, self.global_token_open_stoplist, self.global_stop_words_file_button)
         self.global_settings_token_window.Bind(wx.EVT_TEXT, self.global_token_stop_words_modify, self.global_stop_words_txtctrl)
@@ -453,47 +390,6 @@ class nlp_gui_class(wx.Frame):
         if self.global_save_intermediate:
             self.global_save_intermediate_dir = self.global_save_intermediate_txtctrl.GetValue()
 
-    def global_set_regex(self, event=wx.EVT_TEXT):
-        if self.global_regex_txtctrl.GetValue() != self.global_regex:
-            for checkbox in self.global_token_checkboxes:
-                checkbox.Enable(False)
-            self.global_token_checkall_button.Enable(False)
-            self.global_token_uncheckall_button.Enable(False)
-        else:
-            for checkbox in self.global_token_checkboxes:
-                checkbox.Enable(True)
-            self.global_token_checkall_button.Enable(True)
-            self.global_token_uncheckall_button.Enable(True)
-
-    def global_token_checkall(self, event=wx.EVT_BUTTON):
-        for checkbox in self.global_token_checkboxes:
-            checkbox.SetValue(1)
-        self.global_token_checkbox_mark()
-
-    def global_token_uncheckall(self, event=wx.EVT_BUTTON):
-        for checkbox in self.global_token_checkboxes:
-            checkbox.SetValue(0)
-        self.global_token_checkbox_mark()
-
-    def global_token_checkbox_mark(self, event=wx.EVT_CHECKBOX):
-        value_tups = [(self.global_letter_lower, self.global_letter_lower_checkbox),
-                    (self.global_letter_upper, self.global_letter_upper_checkbox),
-                    (self.global_number, self.global_number_checkbox),
-                    (self.global_middle_punctuation, self.global_middle_punctuation_checkbox),
-                    (self.global_end_punctuation, self.global_end_punctuation_checkbox),
-                    (self.global_quotation, self.global_quotation_checkbox),
-                    (self.global_apostrophe, self.global_apostrophe_checkbox),
-                    (self.global_bracket, self.global_bracket_checkbox),
-                    (self.global_space, self.global_space_checkbox),
-                    (self.global_tab, self.global_tab_checkbox),
-                    (self.global_newline, self.global_newline_checkbox)]
-        for tup in value_tups:
-            if tup[0] != tup[1].GetValue():
-                self.global_regex_txtctrl.Enable(False)  # turn off the regex txtctrl to avoid conflicts
-                break
-        else:
-            self.global_regex_txtctrl.Enable(True)
-
     def global_token_open_stoplist(self, event=wx.EVT_BUTTON):
         open_file_dialog = wx.FileDialog(self.global_settings_token_window, message="Choose corpus files", style=
                                                 wx.FD_OPEN | wx.FD_FILE_MUST_EXIST | wx.FD_MULTIPLE)
@@ -503,7 +399,7 @@ class nlp_gui_class(wx.Frame):
                 for line in f_in:
                     self.global_stop_words_txtctrl.write(line)
                 f_in.close()
-            self.global_stop_words_txtctrl.SetModified(True)
+            self.global_stop_words_modify()
         open_file_dialog.Destroy()
 
     def global_token_stop_words_modify(self, event=wx.EVT_TEXT):
@@ -512,22 +408,9 @@ class nlp_gui_class(wx.Frame):
     def apply_global_token_settings(self, event=None):
         if self.global_regex != self.global_regex_txtctrl.GetValue():
             self.global_regex = self.global_regex_txtctrl.GetValue()
-        else:
-            self.global_letter_lower = self.global_letter_lower_checkbox.GetValue()
-            self.global_letter_upper = self.global_letter_upper_checkbox.GetValue()
-            self.global_number = self.global_number_checkbox.GetValue()
-            self.global_middle_punctuation = self.global_middle_punctuation_checkbox.GetValue()
-            self.global_end_punctuation = self.global_end_punctuation_checkbox.GetValue()
-            self.global_quotation = self.global_quotation_checkbox.GetValue()
-            self.global_apostrophe = self.global_apostrophe_checkbox.GetValue()
-            self.global_bracket = self.global_bracket_checkbox.GetValue()
-            self.global_space = self.global_space_checkbox.GetValue()
-            self.global_tab = self.global_tab_checkbox.GetValue()
-            self.global_newline = self.global_newline_checkbox.GetValue()
-        self.global_regex_txtctrl.Enable(True)
-        for checkbox in self.global_token_checkboxes:
-            checkbox.Enable(True)
+
         self.global_case_sensitive = self.global_case_sensitive_checkbox.GetValue()
+
         if self.global_stop_words_modified:
             self.global_stop_words = []
             for word in self.global_stop_words_txtctrl.GetValue().split("\n"):
@@ -536,11 +419,7 @@ class nlp_gui_class(wx.Frame):
         self.global_stop_words_modified = False
 
     def openToolSettings(self, event=None):
-        # concordance?
         # ngrams
-        #     display options
-        #         rank
-        #         frequency
         #     other options
         #         token definition
         #         case sensitive
@@ -560,10 +439,10 @@ class nlp_gui_class(wx.Frame):
         #         use raw file(s)
         #         use word list(s)
         self.tool_settings_frame = wx.Frame(parent=self, title="Global Settings", name="Global Settings")
-        self.tool_settings_frame.SetSize(0, 23, 600, 500)
+        self.tool_settings_frame.SetSize(0, 23, 700, 500)
         self.tool_settings_listbook = wx.Listbook(parent=self.tool_settings_frame, style=wx.LB_LEFT)
 
-        self.tool_settings_wordlist_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_settings_wordlist_window = wx.Panel(parent=self.tool_settings_listbook)  # TODO: remember that stopwords are still counted, just not displayed
         self.tool_wordlist_vbox = wx.BoxSizer(orient=wx.VERTICAL)
 
         if self.global_case_sensitive:
@@ -574,6 +453,22 @@ class nlp_gui_class(wx.Frame):
                                                    choices=["Match global setting (%s)" % case_str, "Case sensitive", "Case insensitive"])
         self.tool_wordlist_case_choice.SetSelection(self.tool_wordlist_case)
         self.tool_wordlist_vbox.Add(self.tool_wordlist_case_choice, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_wordlist_vbox.AddSpacer(10)
+
+        self.tool_wordlist_regex_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_wordlist_regex_checkbox = wx.CheckBox(self.tool_settings_wordlist_window, label="Use global token definition")
+        self.tool_wordlist_regex_checkbox.SetValue(self.tool_wordlist_regex_checkval)
+        self.tool_wordlist_regex_hbox.Add(self.tool_wordlist_regex_checkbox, proportion=0)
+        self.tool_wordlist_regex_hbox.AddSpacer(5)
+        self.tool_wordlist_regex_txtctrl = wx.TextCtrl(self.tool_settings_wordlist_window)
+        if self.tool_wordlist_regex_checkval:
+            self.tool_wordlist_regex_txtctrl.ChangeValue(self.global_regex)
+        else:
+            self.tool_wordlist_regex_txtctrl.ChangeValue(self.tool_wordlist_regex)
+        if self.tool_wordlist_regex_checkval:  # if using global definition, don't allow regex to be modified
+            self.tool_wordlist_regex_txtctrl.Enable(False)
+        self.tool_wordlist_regex_hbox.Add(self.tool_wordlist_regex_txtctrl, proportion=2, flag=wx.EXPAND)
+        self.tool_wordlist_vbox.Add(self.tool_wordlist_regex_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_wordlist_vbox.AddSpacer(10)
 
         self.tool_wordlist_target_corpus_choice = wx.Choice(self.tool_settings_wordlist_window,
@@ -599,6 +494,7 @@ class nlp_gui_class(wx.Frame):
         self.tool_wordlist_apply_button = wx.Button(self.tool_settings_wordlist_window, label="Apply")
         self.tool_wordlist_vbox.Add(self.tool_wordlist_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
 
+        self.tool_settings_wordlist_window.Bind(wx.EVT_CHECKBOX, self.tool_wordlist_enable_regex, self.tool_wordlist_regex_checkbox)
         self.tool_settings_wordlist_window.Bind(wx.EVT_CHOICE, self.tool_wordlist_enable_target_corpus, self.tool_wordlist_target_corpus_choice)
         self.tool_settings_wordlist_window.Bind(wx.EVT_BUTTON, self.tool_wordlist_load_wordlist, self.tool_load_wordlist_button)
         self.tool_settings_wordlist_window.Bind(wx.EVT_BUTTON, self.apply_tool_wordlist_settings, self.tool_wordlist_apply_button)
@@ -607,15 +503,117 @@ class nlp_gui_class(wx.Frame):
         self.tool_settings_listbook.InsertPage(0, self.tool_settings_wordlist_window, "Wordlist")
 
         self.tool_settings_concordance_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_concordance_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+        self.tool_concordance_target_corpus_choice = wx.Choice(self.tool_settings_concordance_window,
+                                                            choices=["Use all (files and texts)", "Use files",
+                                                                     "Use texts", "Use wordlist(s)"])
+        self.tool_concordance_target_corpus_choice.SetSelection(self.tool_concordance_target_corpus)
+        self.tool_concordance_vbox.Add(self.tool_concordance_target_corpus_choice, proportion=0)
+        self.tool_concordance_vbox.AddSpacer(10)
+        self.tool_concordance_apply_button = wx.Button(self.tool_settings_concordance_window, label="Apply")
+
+        self.tool_settings_concordance_window.Bind(wx.EVT_BUTTON, self.apply_tool_concordance_settings, self.tool_concordance_apply_button)
+
+        self.tool_settings_concordance_window.SetSizer(self.tool_concordance_vbox)
         self.tool_settings_listbook.InsertPage(1, self.tool_settings_concordance_window, "Concordance")
 
         self.tool_settings_ngram_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_ngram_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+
+        if self.global_case_sensitive:
+            case_str = "Case sensitive"
+        else:
+            case_str = "Case insensitive"
+        self.tool_ngram_case_choice = wx.Choice(self.tool_settings_ngram_window,
+                                                   choices=["Match global setting (%s)" % case_str, "Case sensitive", "Case insensitive"])
+        self.tool_ngram_case_choice.SetSelection(self.tool_ngram_case)
+        self.tool_ngram_vbox.Add(self.tool_ngram_case_choice, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_regex_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_regex_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+        self.tool_ngram_regex_checkbox = wx.CheckBox(self.tool_settings_ngram_window,
+                                                        label="Use global token definition")
+        self.tool_ngram_regex_checkbox.SetValue(self.tool_ngram_regex_checkval)
+        self.tool_ngram_regex_vbox.Add(self.tool_ngram_regex_checkbox, proportion=0)
+        self.tool_ngram_regex_vbox.AddSpacer(5)
+        self.tool_ngram_regex_button = wx.Button(self.tool_settings_ngram_window, label="Open file(s) with token regexes")
+        self.tool_ngram_regex_hbox.Add(self.tool_ngram_regex_vbox)  # TODO: what is going wrong here
+        self.tool_ngram_regex_hbox.AddSpacer(5)
+        self.tool_ngram_regex_txtctrl = wx.TextCtrl(self.tool_settings_ngram_window, style=wx.TE_MULTILINE)
+        if self.tool_ngram_regex_checkval:
+            self.tool_ngram_regex_txtctrl.ChangeValue(self.global_regex)
+        else:
+            self.tool_ngram_regex_txtctrl.ChangeValue(self.tool_ngram_regex)
+        if self.tool_ngram_regex_checkval:  # if using global definition, don't allow regex to be modified
+            pass
+            # self.tool_ngram_regex_txtctrl.Enable(False)
+        self.tool_ngram_regex_hbox.Add(self.tool_ngram_regex_txtctrl, proportion=4, flag=wx.EXPAND)
+        self.tool_ngram_vbox.Add(self.tool_ngram_regex_hbox, proportion=1, flag=wx.EXPAND)
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_nontoken_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_nontoken_button = wx.Button(self.tool_settings_ngram_window, label="Open file(s) with nontoken regexes")
+        self.tool_ngram_nontoken_hbox.Add(self.tool_ngram_nontoken_button, proportion=0)
+        self.tool_ngram_nontoken_hbox.AddSpacer(5)
+        self.tool_ngram_nontoken_txtctrl = wx.TextCtrl(self.tool_settings_ngram_window, style=wx.TE_MULTILINE)
+        for regex in self.tool_ngram_nontokens:
+            self.tool_ngram_nontoken_txtctrl.write(regex + "\n")
+        self.tool_ngram_nontoken_hbox.Add(self.tool_ngram_nontoken_txtctrl, proportion=1, flag=wx.EXPAND)
+        self.tool_ngram_vbox.Add(self.tool_ngram_nontoken_hbox, proportion=1, flag=wx.EXPAND)
+
+        self.tool_ngram_stop_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)  # TODO: allow using global stopwords
+        self.tool_ngram_stop_button = wx.Button(self.tool_settings_ngram_window, label="Open file(s) with stopword regexes")
+        self.tool_ngram_stop_hbox.Add(self.tool_ngram_stop_button, proportion=0)
+        self.tool_ngram_stop_hbox.AddSpacer(5)
+        self.tool_ngram_stop_txtctrl = wx.TextCtrl(self.tool_settings_ngram_window, style=wx.TE_MULTILINE)
+        for regex in self.tool_ngram_stopwords:
+            self.tool_ngram_stop_txtctrl.write(regex + "\n")
+        self.tool_ngram_nontoken_hbox.Add(self.tool_ngram_stop_txtctrl, proportion=1, flag=wx.EXPAND)
+        self.tool_ngram_vbox.Add(self.tool_ngram_stop_hbox)
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_freq_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_freq_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Minimum frequency to display")
+        self.tool_ngram_freq_checkbox.SetValue(self.tool_ngram_freq_check)
+        self.tool_ngram_freq_hbox.Add(self.tool_ngram_freq_checkbox, proportion=0)
+        self.tool_ngram_freq_spinctrl = wx.SpinCtrl(self.tool_settings_ngram_window, min=1, initial=self.tool_ngram_freq)
+        if not self.tool_ngram_freq_check:
+            self.tool_ngram_freq_spinctrl.Enable(False)
+        self.tool_ngram_freq_hbox.Add(self.tool_ngram_freq_spinctrl)
+        self.tool_ngram_freq_hbox.AddSpacer(5)
+        self.tool_ngram_ufreq_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Maximum frequency to display")
+        self.tool_ngram_ufreq_checkbox.SetValue(self.tool_ngram_ufreq_check)
+        self.tool_ngram_freq_hbox.Add(self.tool_ngram_ufreq_checkbox, proportion=0)
+        self.tool_ngram_ufreq_spinctrl = wx.SpinCtrl(self.tool_settings_ngram_window, min=1, initial=self.tool_ngram_ufreq)
+        if not self.tool_ngram_ufreq_check:
+            self.tool_ngram_ufreq_spinctrl.Enable(False)
+        self.tool_ngram_freq_hbox.Add(self.tool_ngram_ufreq_spinctrl)
+        self.tool_ngram_vbox.Add(self.tool_ngram_freq_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+
+        # //count
+        # frequency
+        # ufrequency
+        # newLine
+
+        # //statistic
+        # precision
+        # score
+
+        self.tool_settings_ngram_window.SetSizer(self.tool_ngram_vbox)
         self.tool_settings_listbook.InsertPage(2, self.tool_settings_ngram_window, "Ngrams")
 
         self.tool_settings_keyword_window = wx.Panel(parent=self.tool_settings_listbook)
         self.tool_settings_listbook.InsertPage(3, self.tool_settings_keyword_window, "Keyword Analysis")
 
         self.tool_settings_frame.Show()
+
+    def tool_wordlist_enable_regex(self, event=wx.EVT_CHECKBOX):
+        if self.tool_wordlist_regex_checkbox.IsChecked():
+            self.tool_wordlist_regex_txtctrl.Enable(False)
+            self.tool_wordlist_regex_txtctrl.ChangeValue(self.global_regex)
+        else:
+            self.tool_wordlist_regex_txtctrl.Enable(True)
 
     def tool_wordlist_enable_target_corpus(self, event=wx.EVT_CHOICE):
         if self.tool_wordlist_target_corpus_choice.GetSelection() == 3:  # 3 is index of Use wordlist
@@ -634,12 +632,17 @@ class nlp_gui_class(wx.Frame):
 
     def apply_tool_wordlist_settings(self, event=wx.EVT_BUTTON):
         self.tool_wordlist_case = self.tool_wordlist_case_choice.GetSelection()
+        self.tool_wordlist_regex_checkval = self.tool_wordlist_regex_checkbox.GetValue()
+        self.tool_wordlist_regex = self.tool_wordlist_regex_txtctrl.GetValue()
         self.tool_wordlist_target_corpus = self.tool_wordlist_target_corpus_choice.GetSelection()
         if self.tool_wordlist_target_corpus == 3:
             self.tool_wordlist_wordlists = []
             for filename in self.tool_wordlist_filename_txtctrl.GetValue().split("\n"):
                 if filename:
                     self.tool_wordlist_wordlists.append(filename)
+
+    def apply_tool_concordance_settings(self, event=wx.EVT_BUTTON):
+        self.tool_concordance_target_corpus = self.tool_concordance_target_corpus_choice.GetSelection()
 
     def get_corpus(self, event=None):
         """
