@@ -100,9 +100,11 @@ class nlp_gui_class(wx.Frame):
         self.tool_ngram_regex_button = None
         self.tool_ngram_regex_txtctrl = None
         self.tool_ngram_nontoken_hbox = None
+        self.tool_ngram_nontoken_checkbox = None
         self.tool_ngram_nontoken_button = None
         self.tool_ngram_nontoken_txtctrl = None
         self.tool_ngram_stop_hbox = None
+        self.tool_ngram_stop_checkbox = None
         self.tool_ngram_stop_button = None
         self.tool_ngram_stop_txtctrl = None
         self.tool_ngram_freq_hbox = None
@@ -110,6 +112,20 @@ class nlp_gui_class(wx.Frame):
         self.tool_ngram_freq_spinctrl = None
         self.tool_ngram_ufreq_checkbox = None
         self.tool_ngram_ufreq_spinctrl = None
+        self.tool_ngram_newline_checkbox = None
+        self.tool_ngram_precision_hbox = None
+        self.tool_ngram_precision_txt = None
+        self.tool_ngram_precision_spinctrl = None
+        self.tool_ngram_2d_hbox = None
+        self.tool_ngram_2d_txt = None
+        self.tool_ngram_2d_choice = None
+        self.tool_ngram_3d_hbox = None
+        self.tool_ngram_3d_txt = None
+        self.tool_ngram_3d_choice = None
+        self.tool_ngram_4d_hbox = None
+        self.tool_ngram_4d_txt = None
+        self.tool_ngram_4d_choice = None
+        self.tool_ngram_button = None
 
         self.tool_settings_keyword_window = None
 
@@ -124,12 +140,56 @@ class nlp_gui_class(wx.Frame):
         self.tool_ngram_case = 0
         self.tool_ngram_regex_checkval = True  # match whatever global is
         self.tool_ngram_regex = ""
+        self.tool_ngram_nontoken_checkval = True
         self.tool_ngram_nontokens = []
+        self.tool_ngram_stop_checkval = True
         self.tool_ngram_stopwords = []
-        self.tool_ngram_freq_check = False
+        self.tool_ngram_freq_checkval = False
         self.tool_ngram_freq = 1
-        self.tool_ngram_ufreq_check = False
+        self.tool_ngram_ufreq_checkval = False
         self.tool_ngram_ufreq = 1
+        self.tool_ngram_newline_checkval = True
+        self.tool_ngram_precision = 6
+
+        self.measures_2 = ["CHI phi", "CHI tscore", "CHI squared", "Dice dice", "Dice jaccard", "Fisher left",
+                           "Fisher right",
+                           "Fisher twotailed", "Mutual information log likelihood",
+                           "Mutual information pointwise mutual information", "Mutual information poisson stirling",
+                           "Mutual information true mutual information", "Odds"]
+        self.measures_2_tups = []
+        for measure in self.measures_2:
+            if measure == "Odds":
+                self.measures_2_tups.append((measure, "odds.pm"))
+            elif measure == "CHI squared":
+                self.measures_2_tups.append((measure, "x2.pm"))
+            elif not measure.startswith("Mutual"):
+                if "log" in measure:
+                    self.measures_2_tups.append((measure, "ll.pm"))
+                elif "pointwise" in measure:
+                    self.measures_2_tups.append((measure, "pmi.pm"))
+                elif "poisson" in measure:
+                    self.measures_2_tups.append((measure, "ps.pm"))
+                else:
+                    self.measures_2_tups.append((measure, "tmi.pm"))
+            else:
+                self.measures_2_tups.append((measure, measure.split()[1] + ".pm"))
+        self.tool_ngram_2d_idx = self.measures_2.index("Mutual information log likelihood")
+        self.measures_3 = ["Mutual information log likelihood", "Mutual information pointwise mutual information",
+                           "Mutual information poisson stirling", "Mutual information true mutual information"]
+        self.measures_3_tups = []
+        for measure in self.measures_3:
+            if "log" in measure:
+                self.measures_3_tups.append((measure, "ll.pm"))
+            elif "pointwise" in measure:
+                self.measures_3_tups.append((measure, "pmi.pm"))
+            elif "poisson" in measure:
+                self.measures_3_tups.append((measure, "ps.pm"))
+            else:
+                self.measures_3_tups.append((measure, "tmi.pm"))
+        self.tool_ngram_3d_idx = self.measures_3.index("Mutual information log likelihood")
+        self.measures_4 = ["Mutual information log likelihood"]
+        self.measures_4_tups = [(self.measures_4[0], "ll.pm")]
+        self.tool_ngram_4d_idx = 0
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -419,11 +479,6 @@ class nlp_gui_class(wx.Frame):
         self.global_stop_words_modified = False
 
     def openToolSettings(self, event=None):
-        # ngrams
-        #     other options
-        #         token definition
-        #         case sensitive
-        #         replace line breaks
         # keyword list
         #     display options
         #         rank
@@ -437,8 +492,8 @@ class nlp_gui_class(wx.Frame):
         #         keyword statistic threshold
         #     reference corpus
         #         use raw file(s)
-        #         use word list(s)
-        self.tool_settings_frame = wx.Frame(parent=self, title="Global Settings", name="Global Settings")
+        #         use wordlist
+        self.tool_settings_frame = wx.Frame(parent=self, title="Tool Settings")
         self.tool_settings_frame.SetSize(0, 23, 700, 500)
         self.tool_settings_listbook = wx.Listbook(parent=self.tool_settings_frame, style=wx.LB_LEFT)
 
@@ -506,11 +561,12 @@ class nlp_gui_class(wx.Frame):
         self.tool_concordance_vbox = wx.BoxSizer(orient=wx.VERTICAL)
         self.tool_concordance_target_corpus_choice = wx.Choice(self.tool_settings_concordance_window,
                                                             choices=["Use all (files and texts)", "Use files",
-                                                                     "Use texts", "Use wordlist(s)"])
+                                                                     "Use texts"])
         self.tool_concordance_target_corpus_choice.SetSelection(self.tool_concordance_target_corpus)
-        self.tool_concordance_vbox.Add(self.tool_concordance_target_corpus_choice, proportion=0)
+        self.tool_concordance_vbox.Add(self.tool_concordance_target_corpus_choice, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_concordance_vbox.AddSpacer(10)
         self.tool_concordance_apply_button = wx.Button(self.tool_settings_concordance_window, label="Apply")
+        self.tool_concordance_vbox.Add(self.tool_concordance_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
 
         self.tool_settings_concordance_window.Bind(wx.EVT_BUTTON, self.apply_tool_concordance_settings, self.tool_concordance_apply_button)
 
@@ -531,74 +587,140 @@ class nlp_gui_class(wx.Frame):
         self.tool_ngram_vbox.AddSpacer(10)
 
         self.tool_ngram_regex_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.tool_ngram_regex_vbox = wx.BoxSizer(orient=wx.VERTICAL)
         self.tool_ngram_regex_checkbox = wx.CheckBox(self.tool_settings_ngram_window,
                                                         label="Use global token definition")
         self.tool_ngram_regex_checkbox.SetValue(self.tool_ngram_regex_checkval)
-        self.tool_ngram_regex_vbox.Add(self.tool_ngram_regex_checkbox, proportion=0)
-        self.tool_ngram_regex_vbox.AddSpacer(5)
-        self.tool_ngram_regex_button = wx.Button(self.tool_settings_ngram_window, label="Open file(s) with token regexes")
-        self.tool_ngram_regex_hbox.Add(self.tool_ngram_regex_vbox)  # TODO: what is going wrong here
+        self.tool_ngram_regex_hbox.Add(self.tool_ngram_regex_checkbox, proportion=0)
         self.tool_ngram_regex_hbox.AddSpacer(5)
+        self.tool_ngram_regex_button = wx.Button(self.tool_settings_ngram_window, label="Open file(s) with token regexes")
+        self.tool_ngram_regex_hbox.Add(self.tool_ngram_regex_button)
+        self.tool_ngram_vbox.Add(self.tool_ngram_regex_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+
         self.tool_ngram_regex_txtctrl = wx.TextCtrl(self.tool_settings_ngram_window, style=wx.TE_MULTILINE)
         if self.tool_ngram_regex_checkval:
             self.tool_ngram_regex_txtctrl.ChangeValue(self.global_regex)
+            self.tool_ngram_enable_regex()  # we need to disable the button and textbox
         else:
             self.tool_ngram_regex_txtctrl.ChangeValue(self.tool_ngram_regex)
-        if self.tool_ngram_regex_checkval:  # if using global definition, don't allow regex to be modified
-            pass
-            # self.tool_ngram_regex_txtctrl.Enable(False)
-        self.tool_ngram_regex_hbox.Add(self.tool_ngram_regex_txtctrl, proportion=4, flag=wx.EXPAND)
-        self.tool_ngram_vbox.Add(self.tool_ngram_regex_hbox, proportion=1, flag=wx.EXPAND)
+        self.tool_ngram_vbox.Add(self.tool_ngram_regex_txtctrl, proportion=1, flag=wx.EXPAND)
         self.tool_ngram_vbox.AddSpacer(10)
 
         self.tool_ngram_nontoken_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_nontoken_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Use global stopwords as nontokens")
+        self.tool_ngram_nontoken_checkbox.SetValue(self.tool_ngram_nontoken_checkval)
+        self.tool_ngram_nontoken_hbox.Add(self.tool_ngram_nontoken_checkbox, proportion=0)
+        self.tool_ngram_nontoken_hbox.AddSpacer(5)
         self.tool_ngram_nontoken_button = wx.Button(self.tool_settings_ngram_window, label="Open file(s) with nontoken regexes")
         self.tool_ngram_nontoken_hbox.Add(self.tool_ngram_nontoken_button, proportion=0)
-        self.tool_ngram_nontoken_hbox.AddSpacer(5)
-        self.tool_ngram_nontoken_txtctrl = wx.TextCtrl(self.tool_settings_ngram_window, style=wx.TE_MULTILINE)
-        for regex in self.tool_ngram_nontokens:
-            self.tool_ngram_nontoken_txtctrl.write(regex + "\n")
-        self.tool_ngram_nontoken_hbox.Add(self.tool_ngram_nontoken_txtctrl, proportion=1, flag=wx.EXPAND)
-        self.tool_ngram_vbox.Add(self.tool_ngram_nontoken_hbox, proportion=1, flag=wx.EXPAND)
+        self.tool_ngram_vbox.Add(self.tool_ngram_nontoken_hbox, proportion=0, flag=wx.ALIGN_CENTER)
 
-        self.tool_ngram_stop_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)  # TODO: allow using global stopwords
-        self.tool_ngram_stop_button = wx.Button(self.tool_settings_ngram_window, label="Open file(s) with stopword regexes")
-        self.tool_ngram_stop_hbox.Add(self.tool_ngram_stop_button, proportion=0)
+        self.tool_ngram_nontoken_txtctrl = wx.TextCtrl(self.tool_settings_ngram_window, style=wx.TE_MULTILINE)
+        if self.tool_ngram_nontoken_checkval:
+            for word in self.global_stop_words:
+                self.tool_ngram_nontoken_txtctrl.write(word + "\n")
+            self.tool_ngram_enable_nontoken()  # we need to disable the button and textbox
+        else:
+            for regex in self.tool_ngram_nontokens:
+                self.tool_ngram_nontoken_txtctrl.write(regex + "\n")
+        self.tool_ngram_vbox.Add(self.tool_ngram_nontoken_txtctrl, proportion=1, flag=wx.EXPAND)
+
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_stop_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_stop_checkbox = wx.CheckBox(self.tool_settings_ngram_window,
+                                                        label="Use global stopwords as stopwords")
+        self.tool_ngram_stop_checkbox.SetValue(self.tool_ngram_stop_checkval)
+        self.tool_ngram_stop_hbox.Add(self.tool_ngram_stop_checkbox, proportion=0)
         self.tool_ngram_stop_hbox.AddSpacer(5)
+        self.tool_ngram_stop_button = wx.Button(self.tool_settings_ngram_window,
+                                                    label="Open file(s) with stopword regexes")
+        self.tool_ngram_stop_hbox.Add(self.tool_ngram_stop_button, proportion=0)
+        self.tool_ngram_vbox.Add(self.tool_ngram_stop_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_ngram_stop_txtctrl = wx.TextCtrl(self.tool_settings_ngram_window, style=wx.TE_MULTILINE)
-        for regex in self.tool_ngram_stopwords:
-            self.tool_ngram_stop_txtctrl.write(regex + "\n")
-        self.tool_ngram_nontoken_hbox.Add(self.tool_ngram_stop_txtctrl, proportion=1, flag=wx.EXPAND)
-        self.tool_ngram_vbox.Add(self.tool_ngram_stop_hbox)
+        if self.tool_ngram_stop_checkval:
+            for word in self.global_stop_words:
+                self.tool_ngram_stop_txtctrl.write(word + "\n")
+            self.tool_ngram_enable_stop()  # we need to disable the button and textbox
+        else:
+            for regex in self.tool_ngram_stopwords:
+                self.tool_ngram_stop_txtctrl.write(regex + "\n")
+        self.tool_ngram_vbox.Add(self.tool_ngram_stop_txtctrl, proportion=1, flag=wx.EXPAND)
         self.tool_ngram_vbox.AddSpacer(10)
 
         self.tool_ngram_freq_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.tool_ngram_freq_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Minimum frequency to display")
-        self.tool_ngram_freq_checkbox.SetValue(self.tool_ngram_freq_check)
+        self.tool_ngram_freq_checkbox.SetValue(self.tool_ngram_freq_checkval)
         self.tool_ngram_freq_hbox.Add(self.tool_ngram_freq_checkbox, proportion=0)
         self.tool_ngram_freq_spinctrl = wx.SpinCtrl(self.tool_settings_ngram_window, min=1, initial=self.tool_ngram_freq)
-        if not self.tool_ngram_freq_check:
+        if not self.tool_ngram_freq_checkval:
             self.tool_ngram_freq_spinctrl.Enable(False)
         self.tool_ngram_freq_hbox.Add(self.tool_ngram_freq_spinctrl)
         self.tool_ngram_freq_hbox.AddSpacer(5)
         self.tool_ngram_ufreq_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Maximum frequency to display")
-        self.tool_ngram_ufreq_checkbox.SetValue(self.tool_ngram_ufreq_check)
+        self.tool_ngram_ufreq_checkbox.SetValue(self.tool_ngram_ufreq_checkval)
         self.tool_ngram_freq_hbox.Add(self.tool_ngram_ufreq_checkbox, proportion=0)
         self.tool_ngram_ufreq_spinctrl = wx.SpinCtrl(self.tool_settings_ngram_window, min=1, initial=self.tool_ngram_ufreq)
-        if not self.tool_ngram_ufreq_check:
+        if not self.tool_ngram_ufreq_checkval:
             self.tool_ngram_ufreq_spinctrl.Enable(False)
         self.tool_ngram_freq_hbox.Add(self.tool_ngram_ufreq_spinctrl)
         self.tool_ngram_vbox.Add(self.tool_ngram_freq_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_ngram_vbox.AddSpacer(10)
 
-        # //count
-        # frequency
-        # ufrequency
-        # newLine
+        self.tool_ngram_newline_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Allow ngrams to span between lines")
+        self.tool_ngram_newline_checkbox.SetValue(self.tool_ngram_newline_checkval)
+        self.tool_ngram_vbox.Add(self.tool_ngram_newline_checkbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_ngram_vbox.AddSpacer(10)
 
-        # //statistic
-        # precision
-        # score
+        self.tool_ngram_precision_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_precision_txt = wx.StaticText(self.tool_settings_ngram_window, label="Round score to this many decimal places")
+        self.tool_ngram_precision_hbox.Add(self.tool_ngram_precision_txt, proportion=0)
+        self.tool_ngram_precision_spinctrl = wx.SpinCtrl(self.tool_settings_ngram_window, min=0, initial=self.tool_ngram_precision)
+        self.tool_ngram_precision_hbox.Add(self.tool_ngram_precision_spinctrl, proportion=0)
+        self.tool_ngram_vbox.Add(self.tool_ngram_precision_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_2d_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_2d_txt = wx.StaticText(self.tool_settings_ngram_window, label="Bigram measure")
+        self.tool_ngram_2d_hbox.Add(self.tool_ngram_2d_txt, proportion=0)
+        self.tool_ngram_2d_hbox.AddSpacer(5)
+        self.tool_ngram_2d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.measures_2)
+        self.tool_ngram_2d_choice.SetSelection(self.tool_ngram_2d_idx)
+        self.tool_ngram_2d_hbox.Add(self.tool_ngram_2d_choice, proportion=0)
+        self.tool_ngram_vbox.Add(self.tool_ngram_2d_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_3d_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_3d_txt = wx.StaticText(self.tool_settings_ngram_window, label="Trigram measure")
+        self.tool_ngram_3d_hbox.Add(self.tool_ngram_3d_txt, proportion=0)
+        self.tool_ngram_3d_hbox.AddSpacer(5)
+        self.tool_ngram_3d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.measures_3)
+        self.tool_ngram_3d_choice.SetSelection(self.tool_ngram_3d_idx)
+        self.tool_ngram_3d_hbox.Add(self.tool_ngram_3d_choice, proportion=0)
+        self.tool_ngram_vbox.Add(self.tool_ngram_3d_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_4d_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_ngram_4d_txt = wx.StaticText(self.tool_settings_ngram_window, label="Quadrigram measure")
+        self.tool_ngram_4d_hbox.Add(self.tool_ngram_4d_txt, proportion=0)
+        self.tool_ngram_4d_hbox.AddSpacer(5)
+        self.tool_ngram_4d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.measures_4)
+        self.tool_ngram_4d_hbox.Add(self.tool_ngram_4d_choice, proportion=0)
+        self.tool_ngram_vbox.Add(self.tool_ngram_4d_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_ngram_vbox.AddSpacer(10)
+
+        self.tool_ngram_button = wx.Button(self.tool_settings_ngram_window, label="Apply")
+        self.tool_ngram_vbox.Add(self.tool_ngram_button, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.tool_settings_ngram_window.Bind(wx.EVT_CHECKBOX, self.tool_ngram_enable_regex, self.tool_ngram_regex_checkbox)
+        self.tool_settings_ngram_window.Bind(wx.EVT_BUTTON, self.tool_ngram_open_regex, self.tool_ngram_regex_button)
+        self.tool_settings_ngram_window.Bind(wx.EVT_CHECKBOX, self.tool_ngram_enable_nontoken, self.tool_ngram_nontoken_checkbox)
+        self.tool_settings_ngram_window.Bind(wx.EVT_BUTTON, self.tool_ngram_open_nontoken, self.tool_ngram_nontoken_button)
+        self.tool_settings_ngram_window.Bind(wx.EVT_CHECKBOX, self.tool_ngram_enable_stop, self.tool_ngram_stop_checkbox)
+        self.tool_settings_ngram_window.Bind(wx.EVT_BUTTON, self.tool_ngram_open_stop, self.tool_ngram_stop_button)
+        self.tool_settings_ngram_window.Bind(wx.EVT_CHECKBOX, self.tool_ngram_enable_freq, self.tool_ngram_freq_checkbox)
+        self.tool_settings_ngram_window.Bind(wx.EVT_SPINCTRL, self.tool_ngram_update_freq, self.tool_ngram_freq_spinctrl)
+        self.tool_settings_ngram_window.Bind(wx.EVT_SPINCTRL, self.tool_ngram_enable_ufreq, self.tool_ngram_ufreq_checkbox)
+        self.tool_settings_ngram_window.Bind(wx.EVT_SPINCTRL, self.tool_ngram_update_ufreq, self.tool_ngram_ufreq_spinctrl)
 
         self.tool_settings_ngram_window.SetSizer(self.tool_ngram_vbox)
         self.tool_settings_listbook.InsertPage(2, self.tool_settings_ngram_window, "Ngrams")
@@ -643,6 +765,92 @@ class nlp_gui_class(wx.Frame):
 
     def apply_tool_concordance_settings(self, event=wx.EVT_BUTTON):
         self.tool_concordance_target_corpus = self.tool_concordance_target_corpus_choice.GetSelection()
+
+    def tool_ngram_enable_regex(self, event=wx.EVT_CHECKBOX):
+        if self.tool_ngram_regex_checkbox.IsChecked():
+            self.tool_ngram_regex_txtctrl.Enable(False)
+            self.tool_ngram_regex_button.Enable(False)
+        else:
+            self.tool_ngram_regex_txtctrl.Enable(True)
+            self.tool_ngram_regex_button.Enable(True)
+
+    def tool_ngram_open_regex(self, event=wx.EVT_BUTTON):
+        fileDialog = wx.FileDialog(self.tool_settings_ngram_window, style=wx.FD_MULTIPLE)
+        if fileDialog.ShowModal() == wx.ID_OK:
+            text = ""
+            filenames = fileDialog.GetPaths()
+            for filename in filenames:
+                with open(filename) as f_in:
+                    for line in f_in:
+                        if line.strip():  # if there is something left after removing whitespace
+                            text += line
+            self.tool_ngram_regex_txtctrl.write(text)
+        fileDialog.Destroy()
+
+    def tool_ngram_enable_nontoken(self, event=wx.EVT_CHECKBOX):
+        if self.tool_ngram_nontoken_checkbox.IsChecked():
+            self.tool_ngram_nontoken_txtctrl.Enable(False)
+            self.tool_ngram_nontoken_button.Enable(False)
+        else:
+            self.tool_ngram_nontoken_txtctrl.Enable(True)
+            self.tool_ngram_nontoken_button.Enable(True)
+
+    def tool_ngram_open_nontoken(self, event=wx.EVT_BUTTON):
+        fileDialog = wx.FileDialog(self.tool_settings_ngram_window, style=wx.FD_MULTIPLE)
+        if fileDialog.ShowModal() == wx.ID_OK:
+            text = ""
+            filenames = fileDialog.GetPaths()
+            for filename in filenames:
+                with open(filename) as f_in:
+                    for line in f_in:
+                        if line.strip():  # if there is something left after removing whitespace
+                            text += line
+            self.tool_ngram_nontoken_txtctrl.write(text)
+        fileDialog.Destroy()
+
+    def tool_ngram_enable_stop(self, event=wx.EVT_CHECKBOX):
+        if self.tool_ngram_stop_checkbox.IsChecked():
+            self.tool_ngram_stop_txtctrl.Enable(False)
+            self.tool_ngram_stop_button.Enable(False)
+        else:
+            self.tool_ngram_stop_txtctrl.Enable(True)
+            self.tool_ngram_stop_button.Enable(True)
+
+    def tool_ngram_open_stop(self, event=wx.EVT_BUTTON):
+        fileDialog = wx.FileDialog(self.tool_settings_ngram_window, style=wx.FD_MULTIPLE)
+        if fileDialog.ShowModal() == wx.ID_OK:
+            text = ""
+            filenames = fileDialog.GetPaths()
+            for filename in filenames:
+                with open(filename) as f_in:
+                    for line in f_in:
+                        if line.strip():  # if there is something left after removing whitespace
+                            text += line
+            self.tool_ngram_stop_txtctrl.write(text)
+        fileDialog.Destroy()
+
+    def tool_ngram_enable_freq(self, event=wx.EVT_CHECKBOX):
+        if self.tool_ngram_freq_checkbox.IsChecked():
+            self.tool_ngram_freq_spinctrl.Enable(True)
+        else:
+            self.tool_ngram_freq_spinctrl.Enable(False)
+
+    def tool_ngram_enable_ufreq(self, event=wx.EVT_CHECKBOX):
+        if self.tool_ngram_ufreq_checkbox.IsChecked():
+            self.tool_ngram_ufreq_spinctrl.Enable(True)
+        else:
+            self.tool_ngram_ufreq_spinctrl.Enable(False)
+
+    def tool_ngram_update_freq(self, event=wx.EVT_SPINCTRL):
+        num = self.tool_ngram_freq_spinctrl.GetValue()
+        self.tool_ngram_ufreq_spinctrl.SetMin(num)
+
+    def tool_ngram_update_ufreq(self, event=wx.EVT_SPINCTRL):
+        num = self.tool_ngram_ufreq_spinctrl.GetValue()
+        self.tool_ngram_freq_spinctrl.SetMax(num)
+
+    def apply_tool_ngram_settings(self, event=wx.EVT_BUTTON):
+        pass
 
     def get_corpus(self, event=None):
         """
