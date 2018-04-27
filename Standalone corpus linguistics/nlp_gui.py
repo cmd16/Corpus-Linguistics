@@ -120,6 +120,11 @@ class NlpGuiClass(wx.Frame):
         self.tool_ngram_button = None
 
         self.tool_settings_keyword_window = None
+        self.tool_keyword_vbox = None
+        self.tool_keyword_p_choice = None
+        self.tool_keyword_reference_choice = None
+        self.tool_keyword_reference_button = None
+        self.tool_keyword_reference_txtctrl = None
 
         self.tool_wordlist_case = 0  # in this case means (match whatever global is)
         self.tool_wordlist_regex_checkval = True  # match whatever global is
@@ -182,6 +187,16 @@ class NlpGuiClass(wx.Frame):
         self.measures_4 = ["Mutual information log likelihood"]
         self.measures_4_tups = [(self.measures_4[0], "ll.pm")]
         self.tool_ngram_4d_idx = 0
+
+        self.p_values = [0.05, 0.01, 0.001, 0.0001, 0]
+        self.tool_keyword_p_choices = ["p = 0.05 (exclude keywords with log likelihood < 3.84)",
+                                       "p = 0.01 (exclude keywords with log likelihood < 6.63)",
+                                       "p = 0.001 (exclude keywords with log likelihood < 10.83",
+                                       "p = 0.0001 (exclude keywords with log likelihood < 15.13",
+                                       "include all keywords"]
+        self.tool_keyword_p_idx = 1
+        self.tool_keyword_reference_idx = 0
+        self.tool_keyword_reference_filenames = []
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -704,6 +719,29 @@ class NlpGuiClass(wx.Frame):
         self.tool_settings_listbook.InsertPage(2, self.tool_settings_ngram_window, "Ngrams")
 
         self.tool_settings_keyword_window = wx.Panel(parent=self.tool_settings_listbook)
+        self.tool_keyword_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+        self.tool_keyword_p_choice = wx.Choice(self.tool_settings_keyword_window, choices=self.tool_keyword_p_choices)
+        self.tool_keyword_p_choice.SetSelection(self.tool_keyword_p_idx)
+        self.tool_keyword_vbox.Add(self.tool_keyword_p_choice, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_keyword_vbox.AddSpacer(10)
+
+        self.tool_keyword_reference_choice = wx.Choice(self.tool_settings_keyword_window, choices=["Use raw file(s)", "Use wordlist"])
+        self.tool_keyword_reference_choice.SetSelection(self.tool_keyword_reference_idx)
+        self.tool_keyword_vbox.Add(self.tool_keyword_reference_choice, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_keyword_vbox.AddSpacer(5)
+        self.tool_keyword_reference_button = wx.Button(self.tool_settings_keyword_window, label="Load")
+        self.tool_keyword_vbox.Add(self.tool_keyword_reference_button, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_keyword_vbox.AddSpacer(5)
+        self.tool_keyword_reference_txtctrl = wx.TextCtrl(self.tool_settings_keyword_window, style=wx.TE_READONLY)
+        for filename in self.tool_keyword_reference_filenames:
+            self.tool_keyword_reference_txtctrl.write(filename + "\n")
+        self.tool_keyword_vbox.Add(self.tool_keyword_reference_txtctrl, proportion=1, flag=wx.ALIGN_CENTER | wx.EXPAND)
+        self.tool_keyword_vbox.AddSpacer(10)
+
+        self.tool_keyword_button = wx.Button(self.tool_settings_keyword_window, label="Apply")
+        self.tool_keyword_vbox.Add(self.tool_keyword_button, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.tool_settings_keyword_window.SetSizer(self.tool_keyword_vbox)
         self.tool_settings_listbook.InsertPage(3, self.tool_settings_keyword_window, "Keyword Analysis")
 
         self.tool_settings_frame.Show()
