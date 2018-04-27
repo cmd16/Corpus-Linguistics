@@ -123,8 +123,11 @@ class NlpGuiClass(wx.Frame):
         self.tool_keyword_vbox = None
         self.tool_keyword_p_choice = None
         self.tool_keyword_reference_choice = None
+        self.tool_keyword_load_hbox = None
         self.tool_keyword_reference_button = None
+        self.tool_keyword_swap_button = None
         self.tool_keyword_reference_txtctrl = None
+        self.tool_keyword_button = None
 
         self.tool_wordlist_case = 0  # in this case means (match whatever global is)
         self.tool_wordlist_regex_checkval = True  # match whatever global is
@@ -243,7 +246,7 @@ class NlpGuiClass(wx.Frame):
         open_file_dialog = wx.FileDialog(self, message="Choose corpus files", style=
                                        wx.FD_OPEN | wx.FD_FILE_MUST_EXIST | wx.FD_MULTIPLE)
         if open_file_dialog.ShowModal() == wx.ID_OK:
-            self.filenames.extend(self.open_file_dialog.GetPaths())
+            self.filenames.extend(open_file_dialog.GetPaths())
         open_file_dialog.Destroy()
 
     def open_dir(self, event=None):
@@ -471,20 +474,6 @@ class NlpGuiClass(wx.Frame):
         self.global_stop_words_modified = False
 
     def openToolSettings(self, event=None):
-        # keyword list
-        #     display options
-        #         rank
-        #         frequency
-        #         keyness
-        #         keyword
-        #     other options
-        #         treat all data as lowercase
-        #     keyness values
-        #         keyword statistic
-        #         keyword statistic threshold
-        #     reference corpus
-        #         use raw file(s)
-        #         use wordlist
         self.tool_settings_frame = wx.Frame(parent=self, title="Tool Settings")
         self.tool_settings_frame.SetSize(0, 23, 700, 500)
         self.tool_settings_listbook = wx.Listbook(parent=self.tool_settings_frame, style=wx.LB_LEFT)
@@ -729,9 +718,15 @@ class NlpGuiClass(wx.Frame):
         self.tool_keyword_reference_choice.SetSelection(self.tool_keyword_reference_idx)
         self.tool_keyword_vbox.Add(self.tool_keyword_reference_choice, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_keyword_vbox.AddSpacer(5)
+
+        self.tool_keyword_load_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.tool_keyword_reference_button = wx.Button(self.tool_settings_keyword_window, label="Load")
-        self.tool_keyword_vbox.Add(self.tool_keyword_reference_button, proportion=0, flag=wx.ALIGN_CENTER)
-        self.tool_keyword_vbox.AddSpacer(5)
+        self.tool_keyword_load_hbox.Add(self.tool_keyword_reference_button, proportion=0)
+        self.tool_keyword_load_hbox.AddSpacer(5)
+        self.tool_keyword_swap_button = wx.Button(self.tool_settings_keyword_window, label="Swap with target file(s)")
+        self.tool_keyword_load_hbox.Add(self.tool_keyword_swap_button, proportion=0)
+        self.tool_keyword_vbox.Add(self.tool_keyword_load_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+
         self.tool_keyword_reference_txtctrl = wx.TextCtrl(self.tool_settings_keyword_window, style=wx.TE_READONLY)
         for filename in self.tool_keyword_reference_filenames:
             self.tool_keyword_reference_txtctrl.write(filename + "\n")
@@ -740,6 +735,11 @@ class NlpGuiClass(wx.Frame):
 
         self.tool_keyword_button = wx.Button(self.tool_settings_keyword_window, label="Apply")
         self.tool_keyword_vbox.Add(self.tool_keyword_button, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.tool_settings_keyword_window.Bind(wx.EVT_CHOICE, lambda event: self.tool_keyword_reference_txtctrl.SetValue(""), self.tool_keyword_reference_choice)
+        self.tool_settings_keyword_window.Bind(wx.EVT_BUTTON, self.tool_keyword_load, self.tool_keyword_reference_button)
+        self.tool_settings_keyword_window.Bind(wx.EVT_BUTTON, self.tool_keyword_swap, self.tool_keyword_swap_button)
+        self.tool_settings_keyword_window.Bind(wx.EVT_BUTTON, self.apply_tool_keyword_settings, self.tool_keyword_button)
 
         self.tool_settings_keyword_window.SetSizer(self.tool_keyword_vbox)
         self.tool_settings_listbook.InsertPage(3, self.tool_settings_keyword_window, "Keyword Analysis")
@@ -889,6 +889,57 @@ class NlpGuiClass(wx.Frame):
         self.tool_ngram_precision = self.tool_ngram_precision_spinctrl.GetValue()
         self.tool_ngram_2d_idx = self.tool_ngram_2d_choice.GetSelection()
         self.tool_ngram_3d_idx = self.tool_ngram_3d_choice.GetSelection()
+
+    def tool_keyword_load(self, event=wx.EVT_BUTTON):
+        if self.tool_keyword_reference_choice.GetSelection() == 0:  # use raw files
+            style=wx.FD_MULTIPLE
+        else:
+            style=wx.FD_DEFAULT_STYLE
+        fileDialog = wx.FileDialog(self.tool_settings_keyword_window, style=style)
+        if fileDialog.ShowModal() == wx.ID_OK:
+            if style == wx.FD_MULTIPLE:
+                filenames = fileDialog.GetPaths()
+            else:
+                filenames = [fileDialog.GetPath()]
+            for filename in filenames:
+                self.tool_keyword_reference_txtctrl.write(filename + "\n")
+        fileDialog.Destroy()
+
+    def tool_keyword_swap(self, event=wx.EVT_BUTTON):
+        if self.tool_wordlist_target_corpus == 3:
+            self.tool_keyword_reference_choice.SetSelection(1)  # set to use wordlist
+            key_filenames = self.tool_wordlist_wordlists[:]  # copy the list because we are about to modify it
+        else:
+            if self.tool_wordlist_target_corpus != 1 and self.text_bodies:
+                confirm = wx.MessageDialog(self.tool_settings_keyword_window, message="Warning: texts cannot be copied over"
+                        " and thus will be lost. Continue?", caption="Warning", style=wx.OK | wx.CANCEL)
+                if confirm.ShowModal() != wx.ID_OK:
+                    return
+                confirm.Destroy()
+            key_filenames = self.filenames[:]
+            self.text_bodies = {}
+        word_filenames = []
+        for filename in self.tool_keyword_reference_txtctrl.GetValue().split("\n"):
+            if filename.strip() != "":
+                word_filenames.append(filename)
+        # moving files from keyword to global
+        self.filenames = word_filenames
+        if self.tool_keyword_reference_idx:  # wordlist
+            self.tool_wordlist_target_corpus = 3  # wordlist uses wordlist file
+        else:
+            self.tool_wordlist_target_corpus = 1  # wordlist uses files only
+        # moving files from global to keyword
+        self.tool_keyword_reference_txtctrl.SetValue("")
+        for filename in key_filenames:
+            self.tool_keyword_reference_txtctrl.write(filename + "\n")
+
+    def apply_tool_keyword_settings(self, event=wx.EVT_BUTTON):
+        self.tool_keyword_p_idx = self.tool_keyword_p_choice.GetSelection()
+        self.tool_keyword_reference_idx = self.tool_keyword_reference_choice.GetSelection()
+        self.tool_keyword_reference_filenames = []
+        for filename in self.tool_keyword_reference_txtctrl.GetValue().split("\n"):
+            if filename.strip() != "":
+                self.tool_keyword_reference_filenames.append(filename)
 
     def get_corpus(self, event=None):
         """
