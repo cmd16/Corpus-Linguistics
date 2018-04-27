@@ -1,12 +1,11 @@
 import wx
 import os
-debug = True
 
 
-class nlp_gui_class(wx.Frame):
+class NlpGuiClass(wx.Frame):
     def __init__(self, *args, **kw):
         # ensure the parent's __init__ is called
-        super(nlp_gui_class, self).__init__(*args, **kw)
+        super(NlpGuiClass, self).__init__(*args, **kw)
         self.file_menu = wx.Menu()
         self.setting_menu = wx.Menu()
         self.menubar = None
@@ -14,19 +13,12 @@ class nlp_gui_class(wx.Frame):
         self.text_bodies = {}  # for text input directly from a textbox or clipboard. Map a "filename" to its text.
 
         self.open_file_item = None
-
         self.open_dir_item = None
-
         self.open_clipboard_item = None
-
         self.open_text_item = None
-
         self.close_files_item = None
-
         self.close_text_item = None
-
         self.close_all_files_item = None
-
         self.save_item = None
         self.about_item = None
 
@@ -238,8 +230,6 @@ class nlp_gui_class(wx.Frame):
         if open_file_dialog.ShowModal() == wx.ID_OK:
             self.filenames.extend(self.open_file_dialog.GetPaths())
         open_file_dialog.Destroy()
-        if debug:
-            print(self.get_filenames())
 
     def open_dir(self, event=None):
         open_dir_dialog = wx.DirDialog(self, message="Choose directory containing corpus files",
@@ -250,8 +240,6 @@ class nlp_gui_class(wx.Frame):
                 if filename.endswith(self.global_default_extension):
                     self.filenames.append(os.path.join(path, filename))
         open_dir_dialog.Destroy()
-        if debug:
-            print(self.get_filenames())
 
     def open_clipboard(self, event=None):
         text_data = wx.TextDataObject()
@@ -264,8 +252,6 @@ class nlp_gui_class(wx.Frame):
                 while name in self.text_bodies:  # if another clipboard text with those same characters is stored
                     name += "1"
                 self.text_bodies[name] = text
-        if debug:
-            self.view_text()
 
     def open_text(self, event=None):
         open_text_dialog = wx.TextEntryDialog(self, message="Type in some words to add to your corpus",
@@ -276,8 +262,6 @@ class nlp_gui_class(wx.Frame):
             while name in self.text_bodies:  # if another textbox with those same characters is stored
                 name += "1"
             self.text_bodies[name] = text
-        if debug:
-            self.view_text()
 
     def close_files(self, event=None):
         """
@@ -291,8 +275,6 @@ class nlp_gui_class(wx.Frame):
             to_remove = [self.filenames[i] for i in close_file_dialog.GetSelections()]
             self.filenames = [name for name in self.filenames if name not in to_remove]
         close_file_dialog.Destroy()
-        if debug:
-            print(self.get_filenames())
 
     def close_text(self, event=None):
         """
@@ -309,16 +291,11 @@ class nlp_gui_class(wx.Frame):
             for key in keys:  # don't loop through dict directly because that would cause problems
                 if key in to_remove:
                     del self.text_bodies[key]  # remove the entry
-        if debug:
-            self.view_text()
 
     def close_everything(self, event=None):
         """Clear out all the files and bodies of text"""
         self.filenames = []
         self.text_bodies = {}
-        if debug:
-            print(self.filenames)
-            print(self.text_bodies)
 
     def save_results(self, event=None):
         # TODO: write this
@@ -666,7 +643,7 @@ class nlp_gui_class(wx.Frame):
         self.tool_ngram_vbox.Add(self.tool_ngram_freq_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_ngram_vbox.AddSpacer(10)
 
-        self.tool_ngram_newline_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Allow ngrams to span between lines")
+        self.tool_ngram_newline_checkbox = wx.CheckBox(self.tool_settings_ngram_window, label="Allow ngrams to span across lines")
         self.tool_ngram_newline_checkbox.SetValue(self.tool_ngram_newline_checkval)
         self.tool_ngram_vbox.Add(self.tool_ngram_newline_checkbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_ngram_vbox.AddSpacer(10)
@@ -719,8 +696,9 @@ class nlp_gui_class(wx.Frame):
         self.tool_settings_ngram_window.Bind(wx.EVT_BUTTON, self.tool_ngram_open_stop, self.tool_ngram_stop_button)
         self.tool_settings_ngram_window.Bind(wx.EVT_CHECKBOX, self.tool_ngram_enable_freq, self.tool_ngram_freq_checkbox)
         self.tool_settings_ngram_window.Bind(wx.EVT_SPINCTRL, self.tool_ngram_update_freq, self.tool_ngram_freq_spinctrl)
-        self.tool_settings_ngram_window.Bind(wx.EVT_SPINCTRL, self.tool_ngram_enable_ufreq, self.tool_ngram_ufreq_checkbox)
+        self.tool_settings_ngram_window.Bind(wx.EVT_CHECKBOX, self.tool_ngram_enable_ufreq, self.tool_ngram_ufreq_checkbox)
         self.tool_settings_ngram_window.Bind(wx.EVT_SPINCTRL, self.tool_ngram_update_ufreq, self.tool_ngram_ufreq_spinctrl)
+        self.tool_settings_ngram_window.Bind(wx.EVT_BUTTON, self.apply_tool_ngram_settings, self.tool_ngram_button)
 
         self.tool_settings_ngram_window.SetSizer(self.tool_ngram_vbox)
         self.tool_settings_listbook.InsertPage(2, self.tool_settings_ngram_window, "Ngrams")
@@ -850,7 +828,29 @@ class nlp_gui_class(wx.Frame):
         self.tool_ngram_freq_spinctrl.SetMax(num)
 
     def apply_tool_ngram_settings(self, event=wx.EVT_BUTTON):
-        pass
+        self.tool_ngram_case = self.tool_ngram_case_choice.GetSelection()
+        self.tool_ngram_regex_checkval = self.tool_ngram_regex_checkbox.GetValue()
+        if not self.tool_ngram_regex_checkval:
+            self.tool_ngram_regex = self.tool_ngram_regex_txtctrl.GetValue()
+        self.tool_ngram_nontoken_checkval = self.tool_ngram_nontoken_checkbox.GetValue()
+        if not self.tool_ngram_regex_checkval:
+            self.tool_ngram_nontokens = self.tool_ngram_nontoken_txtctrl.GetValue().split("\n")
+        self.tool_ngram_nontoken_checkval = self.tool_ngram_nontoken_checkbox.GetValue()
+        if not self.tool_ngram_nontoken_checkval:
+            self.tool_ngram_nontokens = self.tool_ngram_nontoken_txtctrl.GetValue().split("\n")
+        self.tool_ngram_stop_checkval = self.tool_ngram_stop_checkbox.GetValue()
+        if not self.tool_ngram_stop_checkval:
+            self.tool_ngram_stopwords = self.tool_ngram_stop_txtctrl.GetValue().split("\n")
+        self.tool_ngram_freq_checkval = self.tool_ngram_freq_checkbox.GetValue()
+        if self.tool_ngram_freq_checkval:
+            self.tool_ngram_freq = self.tool_ngram_freq_spinctrl.GetValue()
+        self.tool_ngram_ufreq_checkval = self.tool_ngram_ufreq_checkbox.GetValue()
+        if self.tool_ngram_ufreq_checkval:
+            self.tool_ngram_ufreq = self.tool_ngram_ufreq_spinctrl.GetValue()
+        self.tool_ngram_newline_checkval = self.tool_ngram_newline_checkbox.GetValue()
+        self.tool_ngram_precision = self.tool_ngram_precision_spinctrl.GetValue()
+        self.tool_ngram_2d_idx = self.tool_ngram_2d_choice.GetSelection()
+        self.tool_ngram_3d_idx = self.tool_ngram_3d_choice.GetSelection()
 
     def get_corpus(self, event=None):
         """
@@ -870,7 +870,7 @@ class nlp_gui_class(wx.Frame):
 if __name__ == '__main__':
     app = wx.App()
     # Setting up the menu.
-    frame = nlp_gui_class(None, -1, 'nlp_gui')
+    frame = NlpGuiClass(None, -1, 'nlp_gui')
     frame.SetSize(0, 0, 200, 50)
     # Creating the menubar.
     frame.Show()
