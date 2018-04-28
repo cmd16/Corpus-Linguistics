@@ -201,11 +201,40 @@ class NlpGuiClass(wx.Frame):
         self.tool_keyword_reference_idx = 0
         self.tool_keyword_reference_filenames = []
 
+        self.main_window = None
+        self.main_listbook = None
+
+        self.main_wordlist_window = None
+        self.main_wordlist_vbox = None
+        self.main_wordlist_info_hbox = None
+        self.main_wordlist_info_hbox = None
+        self.main_wordlist_types_txt = None
+        self.main_wordlist_tokens_txt = None
+        self.main_wordlist_flexgrid = None
+        self.main_wordlist_search_txt = None
+        self.main_wordlist_search_hbox = None
+        self.main_wordlist_search_word_checkbox = None
+        self.main_wordlist_search_case = None
+        self.main_wordlist_search_regex = None
+        self.main_wordlist_searchbar_hbox = None
+        self.main_wordlist_searchbar_txtctrl = None
+        self.main_wordlist_searchbar_button = None
+        self.main_wordlist_sort_hbox = None
+        self.main_wordlist_sort_choice = None
+        self.main_wordlist_sort_reverse_checkbox = None
+        self.main_wordlist_sort_button = None
+
+        self.main_concordance_window = None
+        self.main_ngram_window = None
+        self.main_keyword_window = None
+
         self.createSettingMenu()
         self.createMenuBar()
 
         self.CreateStatusBar()
         self.SetStatusText("Corpus linguistics in Python")
+
+        self.createMainWindow()
 
     def createFileMenu(self):
         self.open_file_item = self.file_menu.Append(wx.ID_ANY, "Open File(s)", "Open file(s)")
@@ -940,6 +969,77 @@ class NlpGuiClass(wx.Frame):
         for filename in self.tool_keyword_reference_txtctrl.GetValue().split("\n"):
             if filename.strip() != "":
                 self.tool_keyword_reference_filenames.append(filename)
+
+    def createMainWindow(self):
+        self.main_window = wx.Frame(self)
+        self.main_window.SetSize(0, 23, 1200, 700)
+        self.main_listbook = wx.Listbook(self.main_window, style=wx.LB_TOP)
+
+        self.main_wordlist_window = wx.Panel(self.main_listbook)
+        self.main_wordlist_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+
+        self.main_wordlist_info_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_wordlist_types_txt = wx.StaticText(self.main_wordlist_window, label="Types: 0")
+        self.main_wordlist_info_hbox.Add(self.main_wordlist_types_txt, proportion=0)
+        self.main_wordlist_info_hbox.AddSpacer(100)
+        self.main_wordlist_tokens_txt = wx.StaticText(self.main_wordlist_window, label="Tokens: 0")
+        self.main_wordlist_info_hbox.Add(self.main_wordlist_tokens_txt, proportion=0)
+        self.main_wordlist_info_hbox.AddSpacer(100)
+        self.main_wordlist_search_txt = wx.StaticText(self.main_wordlist_window, label="Search hits: 0")
+        self.main_wordlist_info_hbox.Add(self.main_wordlist_search_txt, proportion=0)
+        self.main_wordlist_vbox.Add(self.main_wordlist_info_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_wordlist_vbox.AddSpacer(10)
+
+        self.main_wordlist_flexgrid = wx.FlexGridSizer(cols=3)
+
+        self.main_wordlist_search_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_wordlist_search_txt = wx.StaticText(self.main_wordlist_window, label="Search term")
+        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_txt, proportion=0)
+        self.main_wordlist_search_hbox.AddSpacer(5)
+        self.main_wordlist_search_word_checkbox = wx.CheckBox(self.main_wordlist_window, label="Word")
+        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_word_checkbox, proportion=0)
+        self.main_wordlist_search_hbox.AddSpacer(5)
+        self.main_wordlist_search_case = wx.CheckBox(self.main_wordlist_window, label="Case sensitive")
+        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_case, proportion=0)
+        self.main_wordlist_search_hbox.AddSpacer(5)
+        self.main_wordlist_search_regex = wx.CheckBox(self.main_wordlist_window, label="Regex")
+        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_regex, proportion=0)
+        self.main_wordlist_vbox.Add(self.main_wordlist_search_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_wordlist_vbox.AddSpacer(10)
+
+        self.main_wordlist_searchbar_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_wordlist_searchbar_txtctrl = wx.TextCtrl(self.main_wordlist_window)
+        self.main_wordlist_searchbar_hbox.Add(self.main_wordlist_searchbar_txtctrl, proportion=0)
+        self.main_wordlist_searchbar_hbox.AddSpacer(5)
+        self.main_wordlist_searchbar_button = wx.Button(self.main_wordlist_window, label="Start")
+        self.main_wordlist_searchbar_hbox.Add(self.main_wordlist_searchbar_button, proportion=0)
+        self.main_wordlist_vbox.Add(self.main_wordlist_searchbar_hbox, proportion=1, flag=wx.ALIGN_CENTER)
+        self.main_wordlist_vbox.AddSpacer(10)
+
+        self.main_wordlist_sort_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_wordlist_sort_choice = wx.Choice(self.main_wordlist_window, choices=["Frequency", "Word"])
+        self.main_wordlist_sort_reverse_checkbox = wx.CheckBox(self.main_wordlist_window, label="reverse order")
+        self.main_wordlist_sort_hbox.Add(self.main_wordlist_sort_reverse_checkbox, proportion=0)
+        self.main_wordlist_sort_hbox.AddSpacer(5)
+        self.main_wordlist_sort_hbox.Add(self.main_wordlist_sort_choice, proportion=0)
+        self.main_wordlist_sort_hbox.AddSpacer(5)
+        self.main_wordlist_sort_button = wx.Button(self.main_wordlist_window, label="Sort")
+        self.main_wordlist_sort_hbox.Add(self.main_wordlist_sort_button, proportion=0)
+        self.main_wordlist_vbox.Add(self.main_wordlist_sort_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.main_wordlist_window.SetSizer(self.main_wordlist_vbox)
+        self.main_listbook.InsertPage(0, self.main_wordlist_window, "Wordlist")
+
+        self.main_concordance_window = wx.Panel(self.main_listbook)
+        self.main_listbook.InsertPage(1, self.main_concordance_window, "Concordance")
+
+        self.main_ngram_window = wx.Panel(self.main_listbook)
+        self.main_listbook.InsertPage(2, self.main_ngram_window, "Ngrams")
+
+        self.main_keyword_window = wx.Panel(self.main_listbook)
+        self.main_listbook.InsertPage(3, self.main_keyword_window, "Keyword")
+
+        self.main_window.Show()
 
     def get_corpus(self, event=None):
         """
