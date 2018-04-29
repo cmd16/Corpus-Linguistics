@@ -1,6 +1,8 @@
 import wx
 import os
-
+import nltk
+import main
+import operator
 
 class NlpGuiClass(wx.Frame):
     def __init__(self, *args, **kw):
@@ -211,6 +213,11 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_types_txt = None
         self.main_wordlist_tokens_txt = None
         self.main_wordlist_flexgrid = None
+        self.main_wordlist_start_hbox = None
+        self.main_wordlist_start_button = None
+        self.main_wordlist_page_spinctrl = None
+        self.main_wordlist_page_button = None
+        self.main_wordlist_boxes = []
         self.main_wordlist_search_txt = None
         self.main_wordlist_search_hbox = None
         self.main_wordlist_search_word_checkbox = None
@@ -227,6 +234,10 @@ class NlpGuiClass(wx.Frame):
         self.main_concordance_window = None
         self.main_ngram_window = None
         self.main_keyword_window = None
+
+        self.freqdist = None
+        self.page_len = 20
+        self.freqdist_pages = []
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -421,7 +432,7 @@ class NlpGuiClass(wx.Frame):
 
         self.global_case_sensitive_checkbox = wx.CheckBox(self.global_settings_token_window, label="Case sensitive")
         self.global_case_sensitive_checkbox.SetValue(self.global_case_sensitive)
-        self.global_token_vbox.Add(self.global_case_sensitive_checkbox, proportion=0)
+        self.global_token_vbox.Add(self.global_case_sensitive_checkbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.global_token_vbox.AddSpacer(15)
 
         self.global_stop_words_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
@@ -971,6 +982,7 @@ class NlpGuiClass(wx.Frame):
                 self.tool_keyword_reference_filenames.append(filename)
 
     def createMainWindow(self):
+        # TODO: implement word vs regex in search. Fix problem where empty search doesn't clear display. Figure out what's up with the IndexError.
         self.main_window = wx.Frame(self)
         self.main_window.SetSize(0, 23, 1200, 700)
         self.main_listbook = wx.Listbook(self.main_window, style=wx.LB_TOP)
@@ -990,17 +1002,43 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_vbox.Add(self.main_wordlist_info_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.main_wordlist_vbox.AddSpacer(10)
 
-        self.main_wordlist_flexgrid = wx.FlexGridSizer(cols=3)
+        self.main_wordlist_flexgrid = wx.FlexGridSizer(cols=3, vgap=5, hgap=10)
+        self.main_wordlist_flexgrid.Add(wx.StaticText(self.main_wordlist_window, label="Rank"), 0, 0)
+        self.main_wordlist_flexgrid.Add(wx.StaticText(self.main_wordlist_window, label="Frequency"), 0, 1)
+        self.main_wordlist_flexgrid.Add(wx.StaticText(self.main_wordlist_window, label="Word"), 0, 2)
+        for row in range(1, self.page_len+1):
+            self.main_wordlist_boxes.append([wx.StaticText(self.main_wordlist_window, label=str(row)),
+                                               wx.StaticText(self.main_wordlist_window, label=""),
+                                               wx.StaticText(self.main_wordlist_window, label="")])
+            for i in range(3):
+                self.main_wordlist_flexgrid.Add(self.main_wordlist_boxes[row-1][i], row, i)
+        self.main_wordlist_vbox.Add(self.main_wordlist_flexgrid, proportion=1, flag=wx.EXPAND | wx.ALIGN_CENTER)
+        self.main_wordlist_vbox.AddSpacer(10)
+
+        self.main_wordlist_start_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_wordlist_start_button = wx.Button(self.main_wordlist_window, label="Start")
+        self.main_wordlist_start_hbox.Add(self.main_wordlist_start_button, proportion=0)
+        self.main_wordlist_start_hbox.AddSpacer(10)
+        self.main_wordlist_page_spinctrl = wx.SpinCtrl(self.main_wordlist_window, min=0, initial=0)
+        self.main_wordlist_start_hbox.Add(self.main_wordlist_page_spinctrl, proportion=0)
+        self.main_wordlist_start_hbox.AddSpacer(5)
+        self.main_wordlist_page_button = wx.Button(self.main_wordlist_window, label="Go")
+        self.main_wordlist_start_hbox.Add(self.main_wordlist_page_button, proportion=0)
+        self.main_wordlist_vbox.Add(self.main_wordlist_start_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_wordlist_vbox.AddSpacer(10)
 
         self.main_wordlist_search_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.main_wordlist_search_txt = wx.StaticText(self.main_wordlist_window, label="Search term")
-        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_txt, proportion=0)
+        self.main_wordlist_search_term_txt = wx.StaticText(self.main_wordlist_window, label="Search term")
+        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_term_txt, proportion=0)
         self.main_wordlist_search_hbox.AddSpacer(5)
         self.main_wordlist_search_word_checkbox = wx.CheckBox(self.main_wordlist_window, label="Word")
         self.main_wordlist_search_hbox.Add(self.main_wordlist_search_word_checkbox, proportion=0)
         self.main_wordlist_search_hbox.AddSpacer(5)
         self.main_wordlist_search_case = wx.CheckBox(self.main_wordlist_window, label="Case sensitive")
         self.main_wordlist_search_hbox.Add(self.main_wordlist_search_case, proportion=0)
+        self.main_wordlist_search_hbox.AddSpacer(5)
+        self.main_wordlist_search_exact = wx.CheckBox(self.main_wordlist_window, label="Exact")
+        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_exact, proportion=0)
         self.main_wordlist_search_hbox.AddSpacer(5)
         self.main_wordlist_search_regex = wx.CheckBox(self.main_wordlist_window, label="Regex")
         self.main_wordlist_search_hbox.Add(self.main_wordlist_search_regex, proportion=0)
@@ -1011,14 +1049,15 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_searchbar_txtctrl = wx.TextCtrl(self.main_wordlist_window)
         self.main_wordlist_searchbar_hbox.Add(self.main_wordlist_searchbar_txtctrl, proportion=0)
         self.main_wordlist_searchbar_hbox.AddSpacer(5)
-        self.main_wordlist_searchbar_button = wx.Button(self.main_wordlist_window, label="Start")
+        self.main_wordlist_searchbar_button = wx.Button(self.main_wordlist_window, label="Search")
         self.main_wordlist_searchbar_hbox.Add(self.main_wordlist_searchbar_button, proportion=0)
         self.main_wordlist_vbox.Add(self.main_wordlist_searchbar_hbox, proportion=1, flag=wx.ALIGN_CENTER)
         self.main_wordlist_vbox.AddSpacer(10)
 
         self.main_wordlist_sort_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.main_wordlist_sort_choice = wx.Choice(self.main_wordlist_window, choices=["Frequency", "Word"])
-        self.main_wordlist_sort_reverse_checkbox = wx.CheckBox(self.main_wordlist_window, label="reverse order")
+        self.main_wordlist_sort_reverse_checkbox = wx.CheckBox(self.main_wordlist_window, label="Descending")
+        self.main_wordlist_sort_reverse_checkbox.SetValue(1)
         self.main_wordlist_sort_hbox.Add(self.main_wordlist_sort_reverse_checkbox, proportion=0)
         self.main_wordlist_sort_hbox.AddSpacer(5)
         self.main_wordlist_sort_hbox.Add(self.main_wordlist_sort_choice, proportion=0)
@@ -1026,6 +1065,12 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_sort_button = wx.Button(self.main_wordlist_window, label="Sort")
         self.main_wordlist_sort_hbox.Add(self.main_wordlist_sort_button, proportion=0)
         self.main_wordlist_vbox.Add(self.main_wordlist_sort_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.main_wordlist_window.Bind(wx.EVT_BUTTON, self.main_wordlist_get_wordlist, self.main_wordlist_start_button)
+        self.main_wordlist_window.Bind(wx.EVT_BUTTON, lambda event: self.main_wordlist_display_page(num=self.main_wordlist_page_spinctrl.GetValue(), event=event),
+                                       self.main_wordlist_page_button)
+        self.main_wordlist_window.Bind(wx.EVT_BUTTON, self.main_wordlist_search, self.main_wordlist_searchbar_button)
+        self.main_wordlist_window.Bind(wx.EVT_BUTTON, self.main_wordlist_display_wordlist, self.main_wordlist_sort_button)
 
         self.main_wordlist_window.SetSizer(self.main_wordlist_vbox)
         self.main_listbook.InsertPage(0, self.main_wordlist_window, "Wordlist")
@@ -1040,6 +1085,77 @@ class NlpGuiClass(wx.Frame):
         self.main_listbook.InsertPage(3, self.main_keyword_window, "Keyword")
 
         self.main_window.Show()
+
+    def main_wordlist_get_wordlist(self, event=wx.EVT_BUTTON):
+        if self.tool_wordlist_target_corpus == 3:
+            self.freqdist = main.wordlist_to_freqdist()
+            self.main_wordlist_display_wordlist()
+        else:
+            self.freqdist = nltk.FreqDist()
+            if not self.tool_wordlist_case_choice:
+                case = self.global_case_sensitive
+            elif self.tool_wordlist_case_choice == 1:
+                case = True
+            else:
+                self.tool_wordlist_case_choice = False
+            if self.tool_wordlist_target_corpus == 0 or self.tool_wordlist_target_corpus == 1:
+                for filename in self.filenames:
+                    self.freqdist.update(main.freq_from_txt(filename, case_sensitive=case))
+            if self.tool_wordlist_target_corpus == 1 or self.tool_wordlist_target_corpus == 2:
+                for textbody in self.text_bodies:
+                    self.freqdist.update(main.freq_from_str(self.text_bodies[textbody], case_sensitive=case))
+        self.main_wordlist_types_txt.SetLabel("Types: " + str(len(self.freqdist)))
+        self.main_wordlist_tokens_txt.SetLabel("Tokens: " + str(self.freqdist.N()))
+        self.main_wordlist_display_wordlist()
+
+    def main_wordlist_display_wordlist(self, event=wx.EVT_BUTTON):
+        sortval = self.main_wordlist_sort_choice.GetSelection()
+        if sortval == 0:  # frequency
+            sortval = 1  # index 1
+        else:
+            sortval = 0
+        values = [x for x in self.freqdist.items()]
+        values.sort(key=operator.itemgetter(sortval), reverse=self.main_wordlist_sort_reverse_checkbox.IsChecked())
+        row = 1  # row 0 is header
+        self.freqdist_pages = list(main.divide_chunks(values, self.page_len))
+        if len(self.freqdist_pages) > 0:
+            self.main_wordlist_page_spinctrl.SetMax(len(self.freqdist_pages)-1)
+        # print(self.freqdist_pages)
+        self.main_wordlist_display_page(0)
+
+    def main_wordlist_display_page(self, num=0, event=None):
+        i = 0
+        for value in self.freqdist_pages[num]:
+            # print(self.main_wordlist_boxes[i][1])
+            # print(value[1])
+            self.main_wordlist_boxes[i][0].SetLabel(str(num*20+i+1))
+            self.main_wordlist_boxes[i][1].SetLabel(str(value[1]))  # frequency
+            self.main_wordlist_boxes[i][2].SetLabel(value[0])  # word
+            i += 1
+        for x in range(i, self.page_len+1):  # clear out the empty boxes. TODO: why isn't this working? This should be working
+            self.main_wordlist_boxes[x][0].SetLabel("")
+            self.main_wordlist_boxes[x][1].SetLabel("")
+            self.main_wordlist_boxes[x][2].SetLabel("")
+
+    def main_wordlist_search(self, event=wx.EVT_BUTTON):
+        query = self.main_wordlist_searchbar_txtctrl.GetValue()
+        if query == "":
+            self.main_wordlist_display_wordlist()
+        sortval = self.main_wordlist_sort_choice.GetSelection()
+        if sortval == 0:  # frequency
+            sortval = 1  # index 1
+        else:
+            sortval = 0
+        values = [x for x in self.freqdist.items() if x[0] == query or (not self.main_wordlist_search_exact.IsChecked() and query in x[0])]
+        values.sort(key=operator.itemgetter(sortval), reverse=self.main_wordlist_sort_reverse_checkbox.IsChecked())
+        # print("len values", len(values), self.main_wordlist_search_txt.GetLabel())
+        self.main_wordlist_search_txt.SetLabel("Search hits: %d" % len(values))
+        row = 1  # row 0 is header
+        self.freqdist_pages = list(main.divide_chunks(values, self.page_len))
+        if len(self.freqdist_pages) > 0:
+            self.main_wordlist_page_spinctrl.SetMax(len(self.freqdist_pages) - 1)
+        # print(self.freqdist_pages)
+        self.main_wordlist_display_page(0)
 
     def get_corpus(self, event=None):
         """
