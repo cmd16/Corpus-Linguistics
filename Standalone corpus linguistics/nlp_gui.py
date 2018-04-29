@@ -218,7 +218,6 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_start_button = None
         self.main_wordlist_page_spinctrl = None
         self.main_wordlist_page_button = None
-        self.main_wordlist_boxes = []
         self.main_wordlist_search_txt = None
         self.main_wordlist_search_hbox = None
         self.main_wordlist_search_word_checkbox = None
@@ -238,7 +237,10 @@ class NlpGuiClass(wx.Frame):
 
         self.freqdist = None
         self.page_len = 20
+        self.main_wordlist_boxes = []
         self.freqdist_pages = []
+
+        self.main_concordance_boxes = []
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -1081,6 +1083,27 @@ class NlpGuiClass(wx.Frame):
         self.main_listbook.InsertPage(0, self.main_wordlist_window, "Wordlist")
 
         self.main_concordance_window = wx.Panel(self.main_listbook)
+        self.main_concordance_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+        self.main_concordance_hits_txt = wx.StaticText(self.main_concordance_window, label="Concordance hits: 0")
+        self.main_concordance_vbox.Add(self.main_concordance_hits_txt, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_concordance_vbox.AddSpacer(10)
+
+        self.main_concordance_flexgrid = wx.FlexGridSizer(cols=3, vgap=5, hgap=10)
+        self.main_concordance_flexgrid.AddGrowableCol(idx=0, proportion=0)
+        self.main_concordance_flexgrid.AddGrowableCol(idx=1, proportion=2)
+        self.main_concordance_flexgrid.AddGrowableCol(idx=2, proportion=1)
+        self.main_concordance_flexgrid.Add(wx.StaticText(self.main_concordance_window, label="Rank"), 0, 0)
+        self.main_concordance_flexgrid.Add(wx.StaticText(self.main_concordance_window, label="KWIC"), 0, 1)
+        self.main_concordance_flexgrid.Add(wx.StaticText(self.main_concordance_window, label="Filename"), 0, 2)
+        for row in range(1, self.page_len+1):
+            self.main_concordance_boxes.append([wx.StaticText(self.main_concordance_window, label=str(row)),
+                                               wx.StaticText(self.main_concordance_window, label=""),
+                                               wx.StaticText(self.main_concordance_window, label="")])
+            for i in range(3):
+                self.main_concordance_flexgrid.Add(self.main_concordance_boxes[row-1][i], row, i)
+        self.main_concordance_vbox.Add(self.main_concordance_flexgrid, proportion=1, flag=wx.EXPAND)
+
+        self.main_concordance_window.SetSizer(self.main_concordance_vbox)
         self.main_listbook.InsertPage(1, self.main_concordance_window, "Concordance")
 
         self.main_ngram_window = wx.Panel(self.main_listbook)
