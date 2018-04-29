@@ -205,6 +205,7 @@ class NlpGuiClass(wx.Frame):
 
         self.main_window = None
         self.main_listbook = None
+        self.listbook_idx = 0
 
         self.main_wordlist_window = None
         self.main_wordlist_vbox = None
@@ -356,8 +357,12 @@ class NlpGuiClass(wx.Frame):
         self.text_bodies = {}
 
     def save_results(self, event=None):
-        # TODO: write this
-        raise NotImplementedError
+        saveDialog = wx.FileDialog(self.main_wordlist_window, message="Save results", style=wx.FD_SAVE | wx.FD_OVERWRITE_PROMPT)
+        if saveDialog.ShowModal() == wx.ID_OK:
+            filename = saveDialog.GetPath()
+            if self.listbook_idx == 0:
+                main.freqdist_to_wordlistfile(self.freqdist, filename)
+        saveDialog.Destroy()
 
     def openGlobalSettings(self, event=None):
         """
@@ -1084,6 +1089,8 @@ class NlpGuiClass(wx.Frame):
         self.main_keyword_window = wx.Panel(self.main_listbook)
         self.main_listbook.InsertPage(3, self.main_keyword_window, "Keyword")
 
+        self.main_listbook.Bind(wx.EVT_LISTBOOK_PAGE_CHANGED, self.change_listbook_idx)
+
         self.main_window.Show()
 
     def main_wordlist_get_wordlist(self, event=wx.EVT_BUTTON):
@@ -1156,6 +1163,9 @@ class NlpGuiClass(wx.Frame):
             self.main_wordlist_page_spinctrl.SetMax(len(self.freqdist_pages) - 1)
         # print(self.freqdist_pages)
         self.main_wordlist_display_page(0)
+
+    def change_listbook_idx(self, event=wx.EVT_LISTBOOK_PAGE_CHANGED):
+        self.listbook_idx = event.GetSelection()
 
     def get_corpus(self, event=None):
         """
