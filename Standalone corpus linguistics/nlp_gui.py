@@ -29,6 +29,7 @@ class NlpGuiClass(wx.Frame):
         self.global_settings_item = None
         self.global_settings_frame = None
         self.global_settings_listbook = None
+
         self.global_settings_file_window = None
         self.global_settings_file_box = None
         self.show_full_pathname_checkbox = None
@@ -42,6 +43,11 @@ class NlpGuiClass(wx.Frame):
         self.global_save_intermediate_txtctrl = None
         self.global_file_apply_button = None
 
+        self.show_full_pathname = True
+        self.global_default_extension = ".txt"
+        self.global_save_intermediate = 0
+        self.global_save_intermediate_dir = ""
+
         self.global_settings_token_window = None
         self.global_token_vbox = None
         self.global_regex_hbox = None
@@ -53,11 +59,6 @@ class NlpGuiClass(wx.Frame):
         self.global_stop_words_txtctrl = None
         self.global_stop_words_file_button = None
         self.global_token_apply_button = None
-
-        self.show_full_pathname = True
-        self.global_default_extension = ".txt"
-        self.global_save_intermediate = 0
-        self.global_save_intermediate_dir = ""
 
         self.global_regex = "[a-zA-Z]+"
         self.global_case_sensitive = False
@@ -80,10 +81,19 @@ class NlpGuiClass(wx.Frame):
         self.tool_wordlist_filename_txtctrl = None
         self.tool_wordlist_apply_button = None
 
+        self.tool_wordlist_case = 0  # in this case means (match whatever global is)
+        self.tool_wordlist_regex_checkval = True  # match whatever global is
+        self.tool_wordlist_regex = ""
+        self.tool_wordlist_target_corpus = 0  # everything
+        self.tool_wordlist_wordlists = []
+
         self.tool_settings_concordance_window = None
         self.tool_concordance_vbox = None
         self.tool_concordance_target_corpus_choice = None
         self.tool_concordance_apply_button = None
+
+        self.tool_concordance_target_corpus = 0  # everything
+        self.tool_concordance_case = 0  # same as global settings
 
         self.tool_settings_ngram_window = None
         self.tool_ngram_vbox = None
@@ -120,24 +130,6 @@ class NlpGuiClass(wx.Frame):
         self.tool_ngram_4d_txt = None
         self.tool_ngram_4d_choice = None
         self.tool_ngram_button = None
-
-        self.tool_settings_keyword_window = None
-        self.tool_keyword_vbox = None
-        self.tool_keyword_p_choice = None
-        self.tool_keyword_reference_choice = None
-        self.tool_keyword_load_hbox = None
-        self.tool_keyword_reference_button = None
-        self.tool_keyword_swap_button = None
-        self.tool_keyword_reference_txtctrl = None
-        self.tool_keyword_button = None
-
-        self.tool_wordlist_case = 0  # in this case means (match whatever global is)
-        self.tool_wordlist_regex_checkval = True  # match whatever global is
-        self.tool_wordlist_regex = ""
-        self.tool_wordlist_target_corpus = 0  # everything
-        self.tool_wordlist_wordlists = []
-
-        self.tool_concordance_target_corpus = 0  # everything
 
         self.tool_ngram_case = 0
         self.tool_ngram_regex_checkval = True  # match whatever global is
@@ -193,6 +185,16 @@ class NlpGuiClass(wx.Frame):
         self.measures_4_tups = [(self.measures_4[0], "ll.pm")]
         self.tool_ngram_4d_idx = 0
 
+        self.tool_settings_keyword_window = None
+        self.tool_keyword_vbox = None
+        self.tool_keyword_p_choice = None
+        self.tool_keyword_reference_choice = None
+        self.tool_keyword_load_hbox = None
+        self.tool_keyword_reference_button = None
+        self.tool_keyword_swap_button = None
+        self.tool_keyword_reference_txtctrl = None
+        self.tool_keyword_button = None
+
         self.p_values = [0.05, 0.01, 0.001, 0.0001, 0]
         self.tool_keyword_p_choices = ["p = 0.05 (exclude keywords with log likelihood < 3.84)",
                                        "p = 0.01 (exclude keywords with log likelihood < 6.63)",
@@ -220,7 +222,8 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_page_button = None
         self.main_wordlist_search_txt = None
         self.main_wordlist_search_hbox = None
-        self.main_wordlist_search_word_checkbox = None
+        self.main_wordlist_search_term_txt = None
+        self.main_wordlist_search_exact_checkbox = None
         self.main_wordlist_search_case = None
         self.main_wordlist_search_regex = None
         self.main_wordlist_searchbar_hbox = None
@@ -231,16 +234,32 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_sort_reverse_checkbox = None
         self.main_wordlist_sort_button = None
 
-        self.main_concordance_window = None
-        self.main_ngram_window = None
-        self.main_keyword_window = None
-
         self.freqdist = None
         self.page_len = 20
         self.main_wordlist_boxes = []
         self.freqdist_pages = []
 
+        self.main_concordance_window = None
+        self.main_concordance_vbox = None
+        self.main_concordance_hits_txt = None
+        self.main_concordance_flexgrid = None
+        self.main_concordance_page_hbox = None
+        self.main_concordance_page_spinctrl = None
+        self.main_concordance_page_button = None
+        self.main_concordance_search_hbox = None
+        self.main_concordance_search_term_txt = None
+        self.main_concordance_search_regex = None
+        self.main_concordance_search_exact_checkbox = None
+        self.main_concordance_searchbar_hbox = None
+        self.main_concordance_searchbar_txtctrl = None
+        self.main_concordance_searchbar_button = None
+
         self.main_concordance_boxes = []
+        self.concordance_win_length = 7  # TODO: allow user to customize
+        self.concordance_pages = []
+
+        self.main_ngram_window = None
+        self.main_keyword_window = None
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -587,6 +606,13 @@ class NlpGuiClass(wx.Frame):
 
         self.tool_settings_concordance_window = wx.Panel(parent=self.tool_settings_listbook)
         self.tool_concordance_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+        self.tool_concordance_case_choice = wx.Choice(self.tool_settings_wordlist_window,
+                                                   choices=["Match global setting (%s)" % case_str, "Case sensitive",
+                                                            "Case insensitive"])
+        self.tool_concordance_case_choice.SetSelection(self.tool_concordance_case)
+        self.tool_concordance_vbox.Add(self.tool_concordance_case_choice, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_concordance_vbox.AddSpacer(10)
+
         self.tool_concordance_target_corpus_choice = wx.Choice(self.tool_settings_concordance_window,
                                                             choices=["Use all (files and texts)", "Use files",
                                                                      "Use texts"])
@@ -827,6 +853,7 @@ class NlpGuiClass(wx.Frame):
                     self.tool_wordlist_wordlists.append(filename)
 
     def apply_tool_concordance_settings(self, event=wx.EVT_BUTTON):
+        self.tool_concordance_case = self.tool_concordance_case_choice.GetSelection()
         self.tool_concordance_target_corpus = self.tool_concordance_target_corpus_choice.GetSelection()
 
     def tool_ngram_enable_regex(self, event=wx.EVT_CHECKBOX):
@@ -1038,17 +1065,11 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_search_term_txt = wx.StaticText(self.main_wordlist_window, label="Search term")
         self.main_wordlist_search_hbox.Add(self.main_wordlist_search_term_txt, proportion=0)
         self.main_wordlist_search_hbox.AddSpacer(5)
-        self.main_wordlist_search_word_checkbox = wx.CheckBox(self.main_wordlist_window, label="Word")
-        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_word_checkbox, proportion=0)
-        self.main_wordlist_search_hbox.AddSpacer(5)
-        self.main_wordlist_search_case = wx.CheckBox(self.main_wordlist_window, label="Case sensitive")
-        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_case, proportion=0)
-        self.main_wordlist_search_hbox.AddSpacer(5)
-        self.main_wordlist_search_exact = wx.CheckBox(self.main_wordlist_window, label="Exact")
-        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_exact, proportion=0)
-        self.main_wordlist_search_hbox.AddSpacer(5)
         self.main_wordlist_search_regex = wx.CheckBox(self.main_wordlist_window, label="Regex")
         self.main_wordlist_search_hbox.Add(self.main_wordlist_search_regex, proportion=0)
+        self.main_wordlist_search_hbox.AddSpacer(5)
+        self.main_wordlist_search_exact_checkbox = wx.CheckBox(self.main_wordlist_window, label="Exact")
+        self.main_wordlist_search_hbox.Add(self.main_wordlist_search_exact_checkbox, proportion=0)
         self.main_wordlist_vbox.Add(self.main_wordlist_search_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.main_wordlist_vbox.AddSpacer(10)
 
@@ -1058,7 +1079,7 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_searchbar_hbox.AddSpacer(5)
         self.main_wordlist_searchbar_button = wx.Button(self.main_wordlist_window, label="Search")
         self.main_wordlist_searchbar_hbox.Add(self.main_wordlist_searchbar_button, proportion=0)
-        self.main_wordlist_vbox.Add(self.main_wordlist_searchbar_hbox, proportion=1, flag=wx.ALIGN_CENTER)
+        self.main_wordlist_vbox.Add(self.main_wordlist_searchbar_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.main_wordlist_vbox.AddSpacer(10)
 
         self.main_wordlist_sort_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
@@ -1102,6 +1123,42 @@ class NlpGuiClass(wx.Frame):
             for i in range(3):
                 self.main_concordance_flexgrid.Add(self.main_concordance_boxes[row-1][i], row, i)
         self.main_concordance_vbox.Add(self.main_concordance_flexgrid, proportion=1, flag=wx.EXPAND)
+        self.main_concordance_vbox.AddSpacer(10)
+
+        self.main_concordance_page_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_concordance_page_spinctrl = wx.SpinCtrl(self.main_concordance_window, min=0, initial=0)
+        self.main_concordance_page_hbox.Add(self.main_concordance_page_spinctrl, proportion=0)
+        self.main_concordance_page_hbox.AddSpacer(5)
+        self.main_concordance_page_button = wx.Button(self.main_concordance_window, label="Go")
+        self.main_concordance_page_hbox.Add(self.main_concordance_page_button, proportion=0)
+        self.main_concordance_vbox.Add(self.main_concordance_page_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_concordance_vbox.AddSpacer(10)
+
+        self.main_concordance_search_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_concordance_search_term_txt = wx.StaticText(self.main_concordance_window, label="Search term")
+        self.main_concordance_search_hbox.Add(self.main_concordance_search_term_txt, proportion=0)
+        self.main_concordance_search_hbox.AddSpacer(5)
+        self.main_concordance_search_regex = wx.CheckBox(self.main_concordance_window, label="Regex")
+        self.main_concordance_search_hbox.Add(self.main_concordance_search_regex, proportion=0)
+        self.main_concordance_search_hbox.AddSpacer(5)
+        self.main_concordance_search_exact_checkbox = wx.CheckBox(self.main_concordance_window, label="Exact")
+        self.main_concordance_search_hbox.Add(self.main_concordance_search_exact_checkbox, proportion=0)
+        self.main_concordance_vbox.Add(self.main_concordance_search_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_concordance_vbox.AddSpacer(10)
+
+        self.main_concordance_searchbar_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_concordance_searchbar_txtctrl = wx.TextCtrl(self.main_concordance_window)
+        self.main_concordance_searchbar_hbox.Add(self.main_concordance_searchbar_txtctrl, proportion=0)
+        self.main_concordance_searchbar_hbox.AddSpacer(5)
+        self.main_concordance_searchbar_button = wx.Button(self.main_concordance_window, label="Search")
+        self.main_concordance_searchbar_hbox.Add(self.main_concordance_searchbar_button, proportion=0)
+        self.main_concordance_vbox.Add(self.main_concordance_searchbar_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_concordance_vbox.AddSpacer(10)
+
+        self.main_concordance_window.Bind(wx.EVT_BUTTON, lambda event: self.main_concordance_display_page(
+            num=self.main_concordance_page_spinctrl.GetValue(), event=event),
+                                       self.main_concordance_page_button)
+        self.main_concordance_window.Bind(wx.EVT_BUTTON, self.main_concordance_search, self.main_concordance_searchbar_button)
 
         self.main_concordance_window.SetSizer(self.main_concordance_vbox)
         self.main_listbook.InsertPage(1, self.main_concordance_window, "Concordance")
@@ -1122,16 +1179,16 @@ class NlpGuiClass(wx.Frame):
             self.main_wordlist_display_wordlist()
         else:
             self.freqdist = nltk.FreqDist()
-            if not self.tool_wordlist_case_choice:
+            if not self.tool_wordlist_case:
                 case = self.global_case_sensitive
-            elif self.tool_wordlist_case_choice == 1:
+            elif self.tool_wordlist_case == 1:
                 case = True
             else:
-                self.tool_wordlist_case_choice = False
+                case = False
             if self.tool_wordlist_target_corpus == 0 or self.tool_wordlist_target_corpus == 1:
                 for filename in self.filenames:
                     self.freqdist.update(main.freq_from_txt(filename, case_sensitive=case))
-            if self.tool_wordlist_target_corpus == 1 or self.tool_wordlist_target_corpus == 2:
+            if self.tool_wordlist_target_corpus == 0 or self.tool_wordlist_target_corpus == 2:
                 for textbody in self.text_bodies:
                     self.freqdist.update(main.freq_from_str(self.text_bodies[textbody], case_sensitive=case))
         self.main_wordlist_types_txt.SetLabel("Types: " + str(len(self.freqdist)))
@@ -1156,9 +1213,7 @@ class NlpGuiClass(wx.Frame):
     def main_wordlist_display_page(self, num=0, event=None):
         i = 0
         for value in self.freqdist_pages[num]:
-            # print(self.main_wordlist_boxes[i][1])
-            # print(value[1])
-            self.main_wordlist_boxes[i][0].SetLabel(str(num*20+i+1))
+            self.main_wordlist_boxes[i][0].SetLabel(str(num*self.page_len+i+1))
             self.main_wordlist_boxes[i][1].SetLabel(str(value[1]))  # frequency
             self.main_wordlist_boxes[i][2].SetLabel(value[0])  # word
             i += 1
@@ -1171,12 +1226,13 @@ class NlpGuiClass(wx.Frame):
         query = self.main_wordlist_searchbar_txtctrl.GetValue()
         if query == "":
             self.main_wordlist_display_wordlist()
+            return  # we're done here
         sortval = self.main_wordlist_sort_choice.GetSelection()
         if sortval == 0:  # frequency
             sortval = 1  # index 1
         else:
             sortval = 0
-        values = [x for x in self.freqdist.items() if x[0] == query or (not self.main_wordlist_search_exact.IsChecked() and query in x[0])]
+        values = [x for x in self.freqdist.items() if x[0] == query or (not self.main_wordlist_search_exact_checkbox.IsChecked() and query in x[0])]
         values.sort(key=operator.itemgetter(sortval), reverse=self.main_wordlist_sort_reverse_checkbox.IsChecked())
         # print("len values", len(values), self.main_wordlist_search_txt.GetLabel())
         self.main_wordlist_search_txt.SetLabel("Search hits: %d" % len(values))
@@ -1186,6 +1242,71 @@ class NlpGuiClass(wx.Frame):
             self.main_wordlist_page_spinctrl.SetMax(len(self.freqdist_pages) - 1)
         # print(self.freqdist_pages)
         self.main_wordlist_display_page(0)
+
+    def main_concordance_display_page(self, num=0, event=wx.EVT_BUTTON):
+        # print(self.concordance_pages[num])
+        i = 0
+        for filename, values in self.concordance_pages[num]:
+            self.main_concordance_boxes[i][0].SetLabel(str(num * self.page_len + i + 1))
+            self.main_concordance_boxes[i][1].SetLabel(" ".join(values))  # words
+            self.main_concordance_boxes[i][2].SetLabel(filename)  # filename
+            i += 1
+        for x in range(i,
+                       self.page_len + 1):  # clear out the empty boxes. TODO: why isn't this working? This should be working
+            self.main_concordance_boxes[x][0].SetLabel("")
+            self.main_concordance_boxes[x][1].SetLabel("")
+            self.main_concordance_boxes[x][2].SetLabel("")
+
+    def main_concordance_search(self, event=wx.EVT_BUTTON):
+        query = self.main_concordance_searchbar_txtctrl.GetValue()
+        if query == "":
+            return
+        if not self.tool_concordance_case:
+            case = self.global_case_sensitive
+        elif self.tool_concordance_case == 1:
+            case = True
+        else:
+            case = False
+        full_values = []
+        if self.tool_concordance_target_corpus == 0 or self.tool_concordance_target_corpus == 1:  # if we are inlcuding files
+            for filename in self.filenames:
+                with open(filename) as f_in:
+                    # TODO: make this take the token definition into account
+                    text = f_in.read()
+                    if not case:
+                        text = text.lower()
+                tokens = [token for token in nltk.word_tokenize(text) if token.isalpha() or token.replace("'", "").isalpha()]
+                for idx in range(len(tokens)):
+                    token = tokens[idx]
+                    if token == query or (not self.main_concordance_search_exact_checkbox.IsChecked() and query in token):
+                        # use max and min to avoid IndexError (going out of range)
+                        # TODO: do I want this in list like this or as a string?
+                        full_values.append(
+                            (filename, tokens[max(0, idx-self.concordance_win_length):idx]+[token.replace(token, "<%s>" % token)] +
+                             tokens[idx+1:min(len(tokens), idx + self.concordance_win_length + 1)])
+                        )
+        if self.tool_concordance_target_corpus == 0 or self.tool_concordance_target_corpus == 2:  # if we are including texts
+            for text_body in self.text_bodies:
+                text = self.text_bodies[text_body]
+                if not case:
+                    text = text.lower()
+                tokens = [token for token in nltk.word_tokenize(text) if
+                          token.isalpha() or token.replace("'", "").isalpha()]
+                for idx in range(len(tokens)):
+                    token = tokens[idx]
+                    if token == query or (
+                        not self.main_concordance_search_exact_checkbox.IsChecked() and query in token):
+                        # use max and min to avoid IndexError (going out of range)
+                        # TODO: do I want this in list like this or as a string?
+                        full_values.append(
+                            (text_body, tokens[max(0, idx - self.concordance_win_length):min(len(tokens),
+                                idx + self.concordance_win_length)])
+                        )
+        self.concordance_pages = list(main.divide_chunks(full_values, self.page_len))
+        if len(self.concordance_pages) > 0:
+            self.main_concordance_page_spinctrl.SetMax(len(self.concordance_pages) - 1)
+        self.main_concordance_hits_txt.SetLabel("Concordance hits: %d" % len(full_values))
+        self.main_concordance_display_page(0)
 
     def change_listbook_idx(self, event=wx.EVT_LISTBOOK_PAGE_CHANGED):
         self.listbook_idx = event.GetSelection()
