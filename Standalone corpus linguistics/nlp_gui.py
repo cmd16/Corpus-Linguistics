@@ -295,6 +295,8 @@ class NlpGuiClass(wx.Frame):
 
         self.main_keyword_window = None
 
+        self.main_keyword_boxes = []
+
         self.createSettingMenu()
         self.createMenuBar()
 
@@ -1327,6 +1329,81 @@ class NlpGuiClass(wx.Frame):
         self.main_listbook.InsertPage(2, self.main_ngram_window, "Ngrams")
 
         self.main_keyword_window = wx.Panel(self.main_listbook)
+        self.main_keyword_vbox =  wx.BoxSizer(orient=wx.VERTICAL)
+
+        self.main_keyword_info_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_keyword_types_txt = wx.StaticText(self.main_keyword_window, label="Types: 0")
+        self.main_keyword_info_hbox.Add(self.main_keyword_types_txt, proportion=0)
+        self.main_keyword_info_hbox.AddSpacer(100)
+        self.main_keyword_tokens_txt = wx.StaticText(self.main_keyword_window, label="Tokens: 0")
+        self.main_keyword_info_hbox.Add(self.main_keyword_tokens_txt, proportion=0)
+        self.main_keyword_info_hbox.AddSpacer(100)
+        self.main_keyword_search_txt = wx.StaticText(self.main_keyword_window, label="Search hits: 0")
+        self.main_keyword_info_hbox.Add(self.main_keyword_search_txt, proportion=0)
+        self.main_keyword_vbox.Add(self.main_keyword_info_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_keyword_vbox.AddSpacer(10)
+
+        self.main_keyword_flexgrid = wx.FlexGridSizer(cols=7, vgap=5, hgap=10)
+        self.main_keyword_flexgrid.AddGrowableCol(idx=6, proportion=1)
+        self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Rank"), 0, 0)
+        self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Keyness"), 0, 1)
+        self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Frequency 0"), 0, 2)
+        self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Norm Freq 0"), 0, 3)
+        self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Frequency 1"), 0, 4)
+        self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Norm Freq 1"), 0, 5)
+        self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Keyword"), 0, 6)
+        for row in range(1, self.page_len + 1):
+            # TODO: make this a loop
+            self.main_keyword_boxes.append([wx.StaticText(self.main_keyword_window, label=str(row)),
+                                          wx.StaticText(self.main_keyword_window, label=""),
+                                          wx.StaticText(self.main_keyword_window, label=""),
+                                          wx.StaticText(self.main_keyword_window, label=""),
+                                          wx.StaticText(self.main_keyword_window, label=""),
+                                          wx.StaticText(self.main_keyword_window, label=""),
+                                          wx.StaticText(self.main_keyword_window, label=""),
+                                          wx.StaticText(self.main_keyword_window, label=""),
+                                          wx.StaticText(self.main_keyword_window, label="")])
+            for i in range(7):
+                self.main_keyword_flexgrid.Add(self.main_keyword_boxes[row - 1][i], row, i)
+        self.main_keyword_vbox.Add(self.main_keyword_flexgrid, proportion=1, flag=wx.EXPAND | wx.ALIGN_CENTER)
+        self.main_keyword_vbox.AddSpacer(10)
+
+        self.main_keyword_search_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_keyword_search_term_txt = wx.StaticText(self.main_keyword_window, label="Search term")
+        self.main_keyword_search_hbox.Add(self.main_keyword_search_term_txt, proportion=0)
+        self.main_keyword_search_hbox.AddSpacer(5)
+        self.main_keyword_search_regex = wx.CheckBox(self.main_keyword_window, label="Regex")
+        self.main_keyword_search_hbox.Add(self.main_keyword_search_regex, proportion=0)
+        self.main_keyword_search_hbox.AddSpacer(5)
+        self.main_keyword_search_exact_checkbox = wx.CheckBox(self.main_keyword_window, label="Exact")
+        self.main_keyword_search_hbox.Add(self.main_keyword_search_exact_checkbox, proportion=0)
+        self.main_keyword_vbox.Add(self.main_keyword_search_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_keyword_vbox.AddSpacer(10)
+
+        self.main_keyword_searchbar_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_keyword_searchbar_txtctrl = wx.TextCtrl(self.main_keyword_window)
+        self.main_keyword_searchbar_hbox.Add(self.main_keyword_searchbar_txtctrl, proportion=0)
+        self.main_keyword_searchbar_hbox.AddSpacer(5)
+        self.main_keyword_searchbar_button = wx.Button(self.main_keyword_window, label="Search")
+        self.main_keyword_searchbar_hbox.Add(self.main_keyword_searchbar_button, proportion=0)
+        self.main_keyword_vbox.Add(self.main_keyword_searchbar_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_keyword_vbox.AddSpacer(10)
+
+        self.main_keyword_sort_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_keyword_sort_choice = wx.Choice(self.main_keyword_window,
+                                                choices=["Keyness", "Frequency 0", "Norm Freq 0", "Frequency 1",
+                                                         "Norm Freq 1", "Keyword"])
+        self.main_keyword_sort_reverse_checkbox = wx.CheckBox(self.main_keyword_window, label="Descending")
+        self.main_keyword_sort_reverse_checkbox.SetValue(1)
+        self.main_keyword_sort_hbox.Add(self.main_keyword_sort_reverse_checkbox, proportion=0)
+        self.main_keyword_sort_hbox.AddSpacer(5)
+        self.main_keyword_sort_hbox.Add(self.main_keyword_sort_choice, proportion=0)
+        self.main_keyword_sort_hbox.AddSpacer(5)
+        self.main_keyword_sort_button = wx.Button(self.main_keyword_window, label="Sort")
+        self.main_keyword_sort_hbox.Add(self.main_keyword_sort_button, proportion=0)
+        self.main_keyword_vbox.Add(self.main_keyword_sort_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.main_keyword_window.SetSizer(self.main_keyword_vbox)
         self.main_listbook.InsertPage(3, self.main_keyword_window, "Keyword")
 
         self.main_listbook.Bind(wx.EVT_LISTBOOK_PAGE_CHANGED, self.change_listbook_idx)
