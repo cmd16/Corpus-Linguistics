@@ -1380,10 +1380,10 @@ class NlpGuiClass(wx.Frame):
             self.main_wordlist_boxes[i][1].SetLabel(str(value[1]))  # frequency
             self.main_wordlist_boxes[i][2].SetLabel(value[0])  # word
             i += 1
-        for x in range(i, self.page_len+1):  # clear out the empty boxes. TODO: why isn't this working? This should be working
-            self.main_wordlist_boxes[x][0].SetLabel("")
-            self.main_wordlist_boxes[x][1].SetLabel("")
-            self.main_wordlist_boxes[x][2].SetLabel("")
+        for x in range(i, self.page_len + 1):  # clear out the empty boxes. TODO: why isn't this working? This should be working
+            self.main_wordlist_boxes[x][0].SetLabel(str(x+1))
+            for idx in range(1, 3):
+                self.main_wordlist_boxes[x][idx].SetLabel("")
 
     def main_wordlist_search(self, event=wx.EVT_BUTTON):
         query = self.main_wordlist_searchbar_txtctrl.GetValue()
@@ -1397,13 +1397,10 @@ class NlpGuiClass(wx.Frame):
             sortval = 0
         values = [x for x in self.freqdist.items() if x[0] == query or (not self.main_wordlist_search_exact_checkbox.IsChecked() and query in x[0])]
         values.sort(key=operator.itemgetter(sortval), reverse=self.main_wordlist_sort_reverse_checkbox.IsChecked())
-        # print("len values", len(values), self.main_wordlist_search_txt.GetLabel())
         self.main_wordlist_search_txt.SetLabel("Search hits: %d" % len(values))
-        row = 1  # row 0 is header
         self.freqdist_pages = list(main.divide_chunks(values, self.page_len))
         if len(self.freqdist_pages) > 0:
             self.main_wordlist_page_spinctrl.SetMax(len(self.freqdist_pages) - 1)
-        # print(self.freqdist_pages)
         self.main_wordlist_display_page(0)
 
     def main_concordance_display_page(self, num=0, event=wx.EVT_BUTTON):
@@ -1518,18 +1515,52 @@ class NlpGuiClass(wx.Frame):
 
     def main_ngram_display_page(self, num=0, event=wx.EVT_BUTTON):
         i = 0
-        for value in self.ngram_freqdist_pages[num]:
-            self.main_ngram_boxes[i][0].SetLabel(str(num * self.page_len + i + 1))  # rank
-            for idx in range(0, 7):
-                self.main_ngram_boxes[i][idx+1].SetLabel(str(value[idx]))  # stat
-            i += 1
+        if len(self.ngram_freqdist_pages) >= num + 1:
+            for value in self.ngram_freqdist_pages[num]:
+                self.main_ngram_boxes[i][0].SetLabel(str(num * self.page_len + i + 1))  # rank
+                for idx in range(0, 7):
+                    self.main_ngram_boxes[i][idx+1].SetLabel(str(value[idx]))  # stat
+                i += 1
         for x in range(i, self.page_len + 1):  # clear out the empty boxes. TODO: why isn't this working? This should be working
-            self.main_ngram_boxes[x][0].SetLabel("")
-            self.main_ngram_boxes[x][1].SetLabel("")
-            self.main_ngram_boxes[x][2].SetLabel("")
+            self.main_ngram_boxes[x][0].SetLabel(str(x+1))
+            for idx in range(1, 8):
+                self.main_ngram_boxes[x][idx].SetLabel("")
 
     def main_ngram_search(self, event=wx.EVT_BUTTON):
-        pass
+        query = self.main_ngram_searchbar_txtctrl.GetValue()
+        if query == "":
+            self.main_ngram_display_ngram()
+            return  # we're done here
+        sortval = self.main_ngram_sort_choice.GetSelection()
+        values = []
+        for ngram, freq in self.ngram_freqdist.items():
+            if query not in ngram:
+                if not self.main_ngram_search_exact_checkbox.IsChecked():
+                    valid = False  # possibly invalid, need to look at each ngram
+                else:
+                    continue  # definitely invalid
+            else:
+                valid = True
+            stat = 0
+            freqs = []
+            for token in ngram:
+                if not valid and query in token:
+                    valid = True
+                freqs.append(self.ngram_freqdist[token])
+            if not valid:
+                continue
+            for i in range(len(ngram), 4):
+                freqs.append(0)  # blank spot
+            item = [stat, freq]
+            item.extend(freqs)
+            item.append(ngram)
+            values.append(item)
+        values.sort(key=operator.itemgetter(sortval), reverse=self.main_ngram_sort_reverse_checkbox.IsChecked())
+        self.main_ngram_search_txt.SetLabel("Search hits: %d" % len(values))
+        self.ngram_freqdist_pages = list(main.divide_chunks(values, self.page_len))
+        if len(self.ngram_freqdist_pages) > 0:
+            self.main_ngram_page_spinctrl.SetMax(len(self.ngram_freqdist_pages) - 1)
+        self.main_ngram_display_page(0)
 
     def change_listbook_idx(self, event=wx.EVT_LISTBOOK_PAGE_CHANGED):
         self.listbook_idx = event.GetSelection()
