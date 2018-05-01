@@ -31,8 +31,8 @@ class NlpGuiClass(wx.Frame):
         self.global_settings_listbook = None
 
         self.global_settings_file_window = None
-        self.global_settings_file_box = None
-        self.show_full_pathname_checkbox = None
+        self.global_file_vbox = None
+        self.global_show_full_pathname_checkbox = None
         self.global_default_extension_label = None
         self.global_default_extension_txtctrl = None
         self.global_default_extension_hbox = None
@@ -90,10 +90,14 @@ class NlpGuiClass(wx.Frame):
         self.tool_settings_concordance_window = None
         self.tool_concordance_vbox = None
         self.tool_concordance_target_corpus_choice = None
+        self.tool_concordance_displaywindow_hbox = None
+        self.tool_concordance_displaywindow_txt = None
+        self.tool_concordance_displaywindow_spinctrl = None
         self.tool_concordance_apply_button = None
 
         self.tool_concordance_target_corpus = 0  # everything
         self.tool_concordance_case = 0  # same as global settings
+        self.tool_concordance_win_length = 7
 
         self.tool_settings_ngram_window = None
         self.tool_ngram_vbox = None
@@ -145,44 +149,44 @@ class NlpGuiClass(wx.Frame):
         self.tool_ngram_newline_checkval = True
         self.tool_ngram_precision = 6
 
-        self.measures_2 = ["CHI phi", "CHI tscore", "CHI squared", "Dice dice", "Dice jaccard", "Fisher left",
+        self.ngram_measures_2 = ["CHI phi", "CHI tscore", "CHI squared", "Dice dice", "Dice jaccard", "Fisher left",
                            "Fisher right",
                            "Fisher twotailed", "Mutual information log likelihood",
                            "Mutual information pointwise mutual information", "Mutual information poisson stirling",
                            "Mutual information true mutual information", "Odds"]
-        self.measures_2_tups = []
-        for measure in self.measures_2:
+        self.ngram_measures_2_tups = []
+        for measure in self.ngram_measures_2:
             if measure == "Odds":
-                self.measures_2_tups.append((measure, "odds.pm"))
+                self.ngram_measures_2_tups.append((measure, "odds.pm"))
             elif measure == "CHI squared":
-                self.measures_2_tups.append((measure, "x2.pm"))
+                self.ngram_measures_2_tups.append((measure, "x2.pm"))
             elif not measure.startswith("Mutual"):
                 if "log" in measure:
-                    self.measures_2_tups.append((measure, "ll.pm"))
+                    self.ngram_measures_2_tups.append((measure, "ll.pm"))
                 elif "pointwise" in measure:
-                    self.measures_2_tups.append((measure, "pmi.pm"))
+                    self.ngram_measures_2_tups.append((measure, "pmi.pm"))
                 elif "poisson" in measure:
-                    self.measures_2_tups.append((measure, "ps.pm"))
+                    self.ngram_measures_2_tups.append((measure, "ps.pm"))
                 else:
-                    self.measures_2_tups.append((measure, "tmi.pm"))
+                    self.ngram_measures_2_tups.append((measure, "tmi.pm"))
             else:
-                self.measures_2_tups.append((measure, measure.split()[1] + ".pm"))
-        self.tool_ngram_2d_idx = self.measures_2.index("Mutual information log likelihood")
-        self.measures_3 = ["Mutual information log likelihood", "Mutual information pointwise mutual information",
+                self.ngram_measures_2_tups.append((measure, measure.split()[1] + ".pm"))
+        self.tool_ngram_2d_idx = self.ngram_measures_2.index("Mutual information log likelihood")
+        self.ngram_measures_3 = ["Mutual information log likelihood", "Mutual information pointwise mutual information",
                            "Mutual information poisson stirling", "Mutual information true mutual information"]
-        self.measures_3_tups = []
-        for measure in self.measures_3:
+        self.ngram_measures_3_tups = []
+        for measure in self.ngram_measures_3:
             if "log" in measure:
-                self.measures_3_tups.append((measure, "ll.pm"))
+                self.ngram_measures_3_tups.append((measure, "ll.pm"))
             elif "pointwise" in measure:
-                self.measures_3_tups.append((measure, "pmi.pm"))
+                self.ngram_measures_3_tups.append((measure, "pmi.pm"))
             elif "poisson" in measure:
-                self.measures_3_tups.append((measure, "ps.pm"))
+                self.ngram_measures_3_tups.append((measure, "ps.pm"))
             else:
-                self.measures_3_tups.append((measure, "tmi.pm"))
-        self.tool_ngram_3d_idx = self.measures_3.index("Mutual information log likelihood")
-        self.measures_4 = ["Mutual information log likelihood"]
-        self.measures_4_tups = [(self.measures_4[0], "ll.pm")]
+                self.ngram_measures_3_tups.append((measure, "tmi.pm"))
+        self.tool_ngram_3d_idx = self.ngram_measures_3.index("Mutual information log likelihood")
+        self.ngram_measures_4 = ["Mutual information log likelihood"]
+        self.ngram_measures_4_tups = [(self.ngram_measures_4[0], "ll.pm")]
         self.tool_ngram_4d_idx = 0
 
         self.tool_settings_keyword_window = None
@@ -235,6 +239,7 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_sort_button = None
 
         self.freqdist = None
+        self.wordlist_files_dirty = False  # tracks when a new freqdist needs to be made
         self.page_len = 20
         self.main_wordlist_boxes = []
         self.freqdist_pages = []
@@ -255,10 +260,39 @@ class NlpGuiClass(wx.Frame):
         self.main_concordance_searchbar_button = None
 
         self.main_concordance_boxes = []
-        self.concordance_win_length = 7  # TODO: allow user to customize
         self.concordance_pages = []
 
         self.main_ngram_window = None
+        self.main_ngram_vbox = None
+        self.main_ngram_info_hbox = None
+        self.main_ngram_types_txt = None
+        self.main_ngram_size_txt = None
+        self.main_ngram_tokens_txt = None
+        self.main_ngram_search_txt = None
+        self.main_ngram_search_txt = None
+        self.main_ngram_flexgrid = None
+        self.main_ngram_size_spinctrl = None
+        self.main_ngram_start_hbox = None
+        self.main_ngram_start_button = None
+        self.main_ngram_page_spinctrl = None
+        self.main_ngram_page_button = None
+        self.main_ngram_search_exact_checkbox = None
+        self.main_ngram_search_hbox = None
+        self.main_ngram_search_term_txt = None
+        self.main_ngram_search_regex = None
+        self.main_ngram_searchbar_hbox = None
+        self.main_ngram_searchbar_txtctrl = None
+        self.main_ngram_searchbar_button = None
+        self.main_ngram_sort_hbox = None
+        self.main_ngram_sort_choice = None
+        self.main_ngram_sort_reverse_checkbox = None
+        self.main_ngram_sort_button = None
+
+        self.ngram_freqdist = None
+        self.ngram_files_dirty = False
+        self.main_ngram_boxes = []
+        self.ngram_freqdist_pages = []
+
         self.main_keyword_window = None
 
         self.createSettingMenu()
@@ -309,6 +343,8 @@ class NlpGuiClass(wx.Frame):
                                        wx.FD_OPEN | wx.FD_FILE_MUST_EXIST | wx.FD_MULTIPLE)
         if open_file_dialog.ShowModal() == wx.ID_OK:
             self.filenames.extend(open_file_dialog.GetPaths())
+            self.wordlist_files_dirty = True
+            self.ngram_files_dirty = True
         open_file_dialog.Destroy()
 
     def open_dir(self, event=None):
@@ -319,6 +355,8 @@ class NlpGuiClass(wx.Frame):
             for filename in os.listdir(path):
                 if filename.endswith(self.global_default_extension):
                     self.filenames.append(os.path.join(path, filename))
+            self.wordlist_files_dirty = True
+            self.ngram_files_dirty = True
         open_dir_dialog.Destroy()
 
     def open_clipboard(self, event=None):
@@ -332,6 +370,8 @@ class NlpGuiClass(wx.Frame):
                 while name in self.text_bodies:  # if another clipboard text with those same characters is stored
                     name += "1"
                 self.text_bodies[name] = text
+                self.wordlist_files_dirty = True
+                self.ngram_files_dirty = True
 
     def open_text(self, event=None):
         open_text_dialog = wx.TextEntryDialog(self, message="Type in some words to add to your corpus",
@@ -342,6 +382,8 @@ class NlpGuiClass(wx.Frame):
             while name in self.text_bodies:  # if another textbox with those same characters is stored
                 name += "1"
             self.text_bodies[name] = text
+            self.wordlist_files_dirty = True
+            self.ngram_files_dirty = True
 
     def close_files(self, event=None):
         """
@@ -354,6 +396,8 @@ class NlpGuiClass(wx.Frame):
         if close_file_dialog.ShowModal() == wx.ID_OK:
             to_remove = [self.filenames[i] for i in close_file_dialog.GetSelections()]
             self.filenames = [name for name in self.filenames if name not in to_remove]
+            self.wordlist_files_dirty = True
+            self.ngram_files_dirty = True
         close_file_dialog.Destroy()
 
     def close_text(self, event=None):
@@ -371,11 +415,15 @@ class NlpGuiClass(wx.Frame):
             for key in keys:  # don't loop through dict directly because that would cause problems
                 if key in to_remove:
                     del self.text_bodies[key]  # remove the entry
+            self.wordlist_files_dirty = True
+            self.ngram_files_dirty = True
 
     def close_everything(self, event=None):
         """Clear out all the files and bodies of text"""
         self.filenames = []
         self.text_bodies = {}
+        self.wordlist_files_dirty = True
+        self.ngram_files_dirty = True
 
     def save_results(self, event=None):
         saveDialog = wx.FileDialog(self.main_wordlist_window, message="Save results", style=wx.FD_SAVE | wx.FD_OVERWRITE_PROMPT)
@@ -396,12 +444,12 @@ class NlpGuiClass(wx.Frame):
         self.global_settings_listbook = wx.Listbook(parent=self.global_settings_frame, style=wx.LB_LEFT)
 
         self.global_settings_file_window = wx.Panel(parent=self.global_settings_listbook)
-        self.global_settings_file_box = wx.BoxSizer(orient=wx.VERTICAL)
+        self.global_file_vbox = wx.BoxSizer(orient=wx.VERTICAL)
 
-        self.show_full_pathname_checkbox = wx.CheckBox(self.global_settings_file_window, label="Show full pathname")
-        self.show_full_pathname_checkbox.SetValue(self.show_full_pathname)
-        self.global_settings_file_box.Add(self.show_full_pathname_checkbox, proportion=0, flag=wx.ALIGN_CENTER)
-        self.global_settings_file_box.AddSpacer(10)
+        self.global_show_full_pathname_checkbox = wx.CheckBox(self.global_settings_file_window, label="Show full pathname")
+        self.global_show_full_pathname_checkbox.SetValue(self.show_full_pathname)
+        self.global_file_vbox.Add(self.global_show_full_pathname_checkbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_file_vbox.AddSpacer(10)
 
         self.global_default_extension_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.global_default_extension_label = wx.StaticText(self.global_settings_file_window, label="Default extension to use with Open Dir")
@@ -409,8 +457,8 @@ class NlpGuiClass(wx.Frame):
         self.global_default_extension_hbox.AddSpacer(5)
         self.global_default_extension_txtctrl = wx.TextCtrl(self.global_settings_file_window, value=self.global_default_extension)
         self.global_default_extension_hbox.Add(self.global_default_extension_txtctrl, proportion=0)
-        self.global_settings_file_box.Add(self.global_default_extension_hbox, proportion=0, flag=wx.ALIGN_CENTER)
-        self.global_settings_file_box.AddSpacer(10)
+        self.global_file_vbox.Add(self.global_default_extension_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_file_vbox.AddSpacer(10)
 
         self.global_save_intermediate_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.global_save_intermediate_statictext = wx.StaticText(self.global_settings_file_window, label="Sometimes, to process data, the system creates intermediate files."
@@ -430,13 +478,13 @@ class NlpGuiClass(wx.Frame):
         self.global_save_intermediate_hbox.Add(self.global_save_intermediate_txtctrl, proportion=3)
         if not self.global_save_intermediate:  # if the variable is 0 for delete
             self.global_save_intermediate_dirpick_button.Enable(False)
-        self.global_settings_file_box.Add(self.global_save_intermediate_hbox, proportion=0, flag=wx.ALIGN_CENTER | wx.EXPAND)
-        self.global_settings_file_box.AddSpacer(10)
+        self.global_file_vbox.Add(self.global_save_intermediate_hbox, proportion=0, flag=wx.ALIGN_CENTER | wx.EXPAND)
+        self.global_file_vbox.AddSpacer(10)
 
         self.global_file_apply_button = wx.Button(self.global_settings_file_window, label="Apply")
-        self.global_settings_file_box.Add(self.global_file_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
+        self.global_file_vbox.Add(self.global_file_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
 
-        self.global_settings_file_window.SetSizer(self.global_settings_file_box)
+        self.global_settings_file_window.SetSizer(self.global_file_vbox)
         self.global_settings_file_window.Bind(wx.EVT_CHOICE, self.global_save_intermediate_enable, self.global_save_intermediate_choice)
         self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.global_save_intermediate_dirpick, self.global_save_intermediate_dirpick_button)
         self.global_settings_file_window.Bind(wx.EVT_BUTTON, self.apply_global_file_settings, self.global_file_apply_button)
@@ -505,7 +553,7 @@ class NlpGuiClass(wx.Frame):
         open_dir_dialog.Destroy()
 
     def apply_global_file_settings(self, event=wx.EVT_BUTTON):
-        self.show_full_pathname = self.show_full_pathname_checkbox.IsChecked()
+        self.show_full_pathname = self.global_show_full_pathname_checkbox.IsChecked()
         self.global_default_extension = self.global_default_extension_txtctrl.GetValue()
         self.global_save_intermediate = self.global_save_intermediate_choice.GetSelection()
         if self.global_save_intermediate:
@@ -606,7 +654,7 @@ class NlpGuiClass(wx.Frame):
 
         self.tool_settings_concordance_window = wx.Panel(parent=self.tool_settings_listbook)
         self.tool_concordance_vbox = wx.BoxSizer(orient=wx.VERTICAL)
-        self.tool_concordance_case_choice = wx.Choice(self.tool_settings_wordlist_window,
+        self.tool_concordance_case_choice = wx.Choice(self.tool_settings_concordance_window,
                                                    choices=["Match global setting (%s)" % case_str, "Case sensitive",
                                                             "Case insensitive"])
         self.tool_concordance_case_choice.SetSelection(self.tool_concordance_case)
@@ -619,6 +667,18 @@ class NlpGuiClass(wx.Frame):
         self.tool_concordance_target_corpus_choice.SetSelection(self.tool_concordance_target_corpus)
         self.tool_concordance_vbox.Add(self.tool_concordance_target_corpus_choice, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_concordance_vbox.AddSpacer(10)
+
+        self.tool_concordance_displaywindow_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.tool_concordance_displaywindow_txt = wx.StaticText(self.tool_settings_concordance_window,
+            label="Number of tokens to show before and after query")
+        self.tool_concordance_displaywindow_hbox.Add(self.tool_concordance_displaywindow_txt, proportion=0)
+        self.tool_concordance_displaywindow_hbox.AddSpacer(5)
+        self.tool_concordance_displaywindow_spinctrl = wx.SpinCtrl(self.tool_settings_concordance_window, initial=7,
+                                                                   min=1, max=10)
+        self.tool_concordance_displaywindow_hbox.Add(self.tool_concordance_displaywindow_spinctrl, proportion=0)
+        self.tool_concordance_vbox.Add(self.tool_concordance_displaywindow_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.tool_concordance_vbox.AddSpacer(10)
+
         self.tool_concordance_apply_button = wx.Button(self.tool_settings_concordance_window, label="Apply")
         self.tool_concordance_vbox.Add(self.tool_concordance_apply_button, proportion=0, flag=wx.ALIGN_CENTER)
 
@@ -737,7 +797,7 @@ class NlpGuiClass(wx.Frame):
         self.tool_ngram_2d_txt = wx.StaticText(self.tool_settings_ngram_window, label="Bigram measure")
         self.tool_ngram_2d_hbox.Add(self.tool_ngram_2d_txt, proportion=0)
         self.tool_ngram_2d_hbox.AddSpacer(5)
-        self.tool_ngram_2d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.measures_2)
+        self.tool_ngram_2d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.ngram_measures_2)
         self.tool_ngram_2d_choice.SetSelection(self.tool_ngram_2d_idx)
         self.tool_ngram_2d_hbox.Add(self.tool_ngram_2d_choice, proportion=0)
         self.tool_ngram_vbox.Add(self.tool_ngram_2d_hbox, proportion=0, flag=wx.ALIGN_CENTER)
@@ -747,7 +807,7 @@ class NlpGuiClass(wx.Frame):
         self.tool_ngram_3d_txt = wx.StaticText(self.tool_settings_ngram_window, label="Trigram measure")
         self.tool_ngram_3d_hbox.Add(self.tool_ngram_3d_txt, proportion=0)
         self.tool_ngram_3d_hbox.AddSpacer(5)
-        self.tool_ngram_3d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.measures_3)
+        self.tool_ngram_3d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.ngram_measures_3)
         self.tool_ngram_3d_choice.SetSelection(self.tool_ngram_3d_idx)
         self.tool_ngram_3d_hbox.Add(self.tool_ngram_3d_choice, proportion=0)
         self.tool_ngram_vbox.Add(self.tool_ngram_3d_hbox, proportion=0, flag=wx.ALIGN_CENTER)
@@ -757,7 +817,7 @@ class NlpGuiClass(wx.Frame):
         self.tool_ngram_4d_txt = wx.StaticText(self.tool_settings_ngram_window, label="Quadrigram measure")
         self.tool_ngram_4d_hbox.Add(self.tool_ngram_4d_txt, proportion=0)
         self.tool_ngram_4d_hbox.AddSpacer(5)
-        self.tool_ngram_4d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.measures_4)
+        self.tool_ngram_4d_choice = wx.Choice(self.tool_settings_ngram_window, choices=self.ngram_measures_4)
         self.tool_ngram_4d_hbox.Add(self.tool_ngram_4d_choice, proportion=0)
         self.tool_ngram_vbox.Add(self.tool_ngram_4d_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.tool_ngram_vbox.AddSpacer(10)
@@ -851,10 +911,12 @@ class NlpGuiClass(wx.Frame):
             for filename in self.tool_wordlist_filename_txtctrl.GetValue().split("\n"):
                 if filename:
                     self.tool_wordlist_wordlists.append(filename)
+            self.wordlist_files_dirty = True
 
     def apply_tool_concordance_settings(self, event=wx.EVT_BUTTON):
         self.tool_concordance_case = self.tool_concordance_case_choice.GetSelection()
         self.tool_concordance_target_corpus = self.tool_concordance_target_corpus_choice.GetSelection()
+        self.tool_concordance_win_length = self.tool_concordance_displaywindow_spinctrl.GetValue()
 
     def tool_ngram_enable_regex(self, event=wx.EVT_CHECKBOX):
         if self.tool_ngram_regex_checkbox.IsChecked():
@@ -1052,7 +1114,7 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_start_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
         self.main_wordlist_start_button = wx.Button(self.main_wordlist_window, label="Start")
         self.main_wordlist_start_hbox.Add(self.main_wordlist_start_button, proportion=0)
-        self.main_wordlist_start_hbox.AddSpacer(10)
+        self.main_wordlist_start_hbox.AddSpacer(30)
         self.main_wordlist_page_spinctrl = wx.SpinCtrl(self.main_wordlist_window, min=0, initial=0)
         self.main_wordlist_start_hbox.Add(self.main_wordlist_page_spinctrl, proportion=0)
         self.main_wordlist_start_hbox.AddSpacer(5)
@@ -1164,6 +1226,104 @@ class NlpGuiClass(wx.Frame):
         self.main_listbook.InsertPage(1, self.main_concordance_window, "Concordance")
 
         self.main_ngram_window = wx.Panel(self.main_listbook)
+        self.main_ngram_vbox = wx.BoxSizer(orient=wx.VERTICAL)
+
+        self.main_ngram_info_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_ngram_types_txt = wx.StaticText(self.main_ngram_window, label="Types: 0")
+        self.main_ngram_info_hbox.Add(self.main_ngram_types_txt, proportion=0)
+        self.main_ngram_info_hbox.AddSpacer(100)
+        self.main_ngram_tokens_txt = wx.StaticText(self.main_ngram_window, label="Tokens: 0")
+        self.main_ngram_info_hbox.Add(self.main_ngram_tokens_txt, proportion=0)
+        self.main_ngram_info_hbox.AddSpacer(100)
+        self.main_ngram_search_txt = wx.StaticText(self.main_ngram_window, label="Search hits: 0")
+        self.main_ngram_info_hbox.Add(self.main_ngram_search_txt, proportion=0)
+        self.main_ngram_vbox.Add(self.main_ngram_info_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_ngram_vbox.AddSpacer(10)
+
+        self.main_ngram_flexgrid = wx.FlexGridSizer(cols=8, vgap=5, hgap=10)
+        self.main_ngram_flexgrid.AddGrowableCol(idx=7, proportion=1)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Rank"), 0, 0)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Statistic"), 0, 1)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Frequency"), 0, 2)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Frequency 0"), 0, 3)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Frequency 1"), 0, 4)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Frequency 2"), 0, 5)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Frequency 3"), 0, 6)
+        self.main_ngram_flexgrid.Add(wx.StaticText(self.main_ngram_window, label="Ngram"), 0, 7)
+        for row in range(1, self.page_len + 1):
+            # TODO: make this a loop
+            self.main_ngram_boxes.append([wx.StaticText(self.main_ngram_window, label=str(row)),
+                wx.StaticText(self.main_ngram_window, label=""), wx.StaticText(self.main_ngram_window, label=""),
+                wx.StaticText(self.main_ngram_window, label=""), wx.StaticText(self.main_ngram_window, label=""),
+                wx.StaticText(self.main_ngram_window, label=""), wx.StaticText(self.main_ngram_window, label=""),
+                wx.StaticText(self.main_ngram_window, label=""), wx.StaticText(self.main_ngram_window, label="")])
+            for i in range(8):
+                self.main_ngram_flexgrid.Add(self.main_ngram_boxes[row - 1][i], row, i)
+        self.main_ngram_vbox.Add(self.main_ngram_flexgrid, proportion=1, flag=wx.EXPAND | wx.ALIGN_CENTER)
+        self.main_ngram_vbox.AddSpacer(10)
+
+        self.main_ngram_start_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_ngram_size_txt = wx.StaticText(self.main_ngram_window, label="Ngram size")
+        self.main_ngram_start_hbox.Add(self.main_ngram_size_txt, proportion=0)
+        self.main_ngram_start_hbox.AddSpacer(5)
+        self.main_ngram_size_spinctrl = wx.SpinCtrl(self.main_ngram_window, initial=2, min=1, max=4)
+        self.main_ngram_start_hbox.Add(self.main_ngram_size_spinctrl)
+        self.main_ngram_start_hbox.AddSpacer(5)
+        self.main_ngram_start_button = wx.Button(self.main_ngram_window, label="Start")
+        self.main_ngram_start_hbox.Add(self.main_ngram_start_button, proportion=0)
+        self.main_ngram_start_hbox.AddSpacer(30)
+        self.main_ngram_page_spinctrl = wx.SpinCtrl(self.main_ngram_window, min=0, initial=0)
+        self.main_ngram_start_hbox.Add(self.main_ngram_page_spinctrl, proportion=0)
+        self.main_ngram_start_hbox.AddSpacer(5)
+        self.main_ngram_page_button = wx.Button(self.main_ngram_window, label="Go")
+        self.main_ngram_start_hbox.Add(self.main_ngram_page_button, proportion=0)
+        self.main_ngram_vbox.Add(self.main_ngram_start_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_ngram_vbox.AddSpacer(10)
+
+        self.main_ngram_search_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_ngram_search_term_txt = wx.StaticText(self.main_ngram_window, label="Search term")
+        self.main_ngram_search_hbox.Add(self.main_ngram_search_term_txt, proportion=0)
+        self.main_ngram_search_hbox.AddSpacer(5)
+        self.main_ngram_search_regex = wx.CheckBox(self.main_ngram_window, label="Regex")
+        self.main_ngram_search_hbox.Add(self.main_ngram_search_regex, proportion=0)
+        self.main_ngram_search_hbox.AddSpacer(5)
+        self.main_ngram_search_exact_checkbox = wx.CheckBox(self.main_ngram_window, label="Exact")
+        self.main_ngram_search_hbox.Add(self.main_ngram_search_exact_checkbox, proportion=0)
+        self.main_ngram_vbox.Add(self.main_ngram_search_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_ngram_vbox.AddSpacer(10)
+
+        self.main_ngram_searchbar_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_ngram_searchbar_txtctrl = wx.TextCtrl(self.main_ngram_window)
+        self.main_ngram_searchbar_hbox.Add(self.main_ngram_searchbar_txtctrl, proportion=0)
+        self.main_ngram_searchbar_hbox.AddSpacer(5)
+        self.main_ngram_searchbar_button = wx.Button(self.main_ngram_window, label="Search")
+        self.main_ngram_searchbar_hbox.Add(self.main_ngram_searchbar_button, proportion=0)
+        self.main_ngram_vbox.Add(self.main_ngram_searchbar_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+        self.main_ngram_vbox.AddSpacer(10)
+
+        self.main_ngram_sort_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_ngram_sort_choice = wx.Choice(self.main_ngram_window, choices=["Statistic", "Ngram frequency", "Token 0 frequency",
+            "Token 1 frequency", "Token 2 frequency", "Token 3 frequency", "Ngram"])
+        self.main_ngram_sort_reverse_checkbox = wx.CheckBox(self.main_ngram_window, label="Descending")
+        self.main_ngram_sort_reverse_checkbox.SetValue(1)
+        self.main_ngram_sort_hbox.Add(self.main_ngram_sort_reverse_checkbox, proportion=0)
+        self.main_ngram_sort_hbox.AddSpacer(5)
+        self.main_ngram_sort_hbox.Add(self.main_ngram_sort_choice, proportion=0)
+        self.main_ngram_sort_hbox.AddSpacer(5)
+        self.main_ngram_sort_button = wx.Button(self.main_ngram_window, label="Sort")
+        self.main_ngram_sort_hbox.Add(self.main_ngram_sort_button, proportion=0)
+        self.main_ngram_vbox.Add(self.main_ngram_sort_hbox, proportion=0, flag=wx.ALIGN_CENTER)
+
+        self.main_ngram_window.Bind(wx.EVT_BUTTON, lambda event:
+            self.main_ngram_get_ngrams(n=self.main_ngram_size_spinctrl.GetValue(), event=event), self.main_ngram_start_button)
+        self.main_ngram_window.Bind(wx.EVT_BUTTON, lambda event: self.main_ngram_display_page(
+            num=self.main_ngram_page_spinctrl.GetValue(), event=event),
+                                       self.main_ngram_page_button)
+        self.main_ngram_window.Bind(wx.EVT_BUTTON, self.main_ngram_search, self.main_ngram_searchbar_button)
+        self.main_ngram_window.Bind(wx.EVT_BUTTON, self.main_ngram_display_ngram,
+                                       self.main_ngram_sort_button)
+
+        self.main_ngram_window.SetSizer(self.main_ngram_vbox)
         self.main_listbook.InsertPage(2, self.main_ngram_window, "Ngrams")
 
         self.main_keyword_window = wx.Panel(self.main_listbook)
@@ -1174,6 +1334,8 @@ class NlpGuiClass(wx.Frame):
         self.main_window.Show()
 
     def main_wordlist_get_wordlist(self, event=wx.EVT_BUTTON):
+        if not self.wordlist_files_dirty:
+            return
         if self.tool_wordlist_target_corpus == 3:
             self.freqdist = main.wordlist_to_freqdist()
             self.main_wordlist_display_wordlist()
@@ -1194,6 +1356,7 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_types_txt.SetLabel("Types: " + str(len(self.freqdist)))
         self.main_wordlist_tokens_txt.SetLabel("Tokens: " + str(self.freqdist.N()))
         self.main_wordlist_display_wordlist()
+        self.wordlist_files_dirty = False
 
     def main_wordlist_display_wordlist(self, event=wx.EVT_BUTTON):
         sortval = self.main_wordlist_sort_choice.GetSelection()
@@ -1282,8 +1445,8 @@ class NlpGuiClass(wx.Frame):
                         # use max and min to avoid IndexError (going out of range)
                         # TODO: do I want this in list like this or as a string?
                         full_values.append(
-                            (filename, tokens[max(0, idx-self.concordance_win_length):idx]+[token.replace(token, "<%s>" % token)] +
-                             tokens[idx+1:min(len(tokens), idx + self.concordance_win_length + 1)])
+                            (filename, tokens[max(0, idx - self.tool_concordance_win_length):idx] + [token.replace(token, "<%s>" % token)] +
+                             tokens[idx+1:min(len(tokens), idx + self.tool_concordance_win_length + 1)])
                         )
         if self.tool_concordance_target_corpus == 0 or self.tool_concordance_target_corpus == 2:  # if we are including texts
             for text_body in self.text_bodies:
@@ -1299,14 +1462,74 @@ class NlpGuiClass(wx.Frame):
                         # use max and min to avoid IndexError (going out of range)
                         # TODO: do I want this in list like this or as a string?
                         full_values.append(
-                            (text_body, tokens[max(0, idx - self.concordance_win_length):min(len(tokens),
-                                idx + self.concordance_win_length)])
+                            (text_body, tokens[max(0, idx - self.tool_concordance_win_length):min(len(tokens),
+                                                                                                  idx + self.tool_concordance_win_length)])
                         )
         self.concordance_pages = list(main.divide_chunks(full_values, self.page_len))
         if len(self.concordance_pages) > 0:
             self.main_concordance_page_spinctrl.SetMax(len(self.concordance_pages) - 1)
         self.main_concordance_hits_txt.SetLabel("Concordance hits: %d" % len(full_values))
         self.main_concordance_display_page(0)
+
+    def main_ngram_get_ngrams(self, n=2, event=wx.EVT_BUTTON):
+        if not self.ngram_files_dirty:
+            return
+        self.ngram_freqdist = nltk.FreqDist()
+        if not self.tool_ngram_case:
+            case = self.global_case_sensitive
+        elif self.tool_ngram_case == 1:
+            case = True
+        else:
+            case = False
+        for filename in self.filenames:
+            with open(filename) as f_in:
+                text = f_in.read()
+            if not case:
+                text = text.lower()
+            # TODO: customize to deal with nontokens and stopwords
+            tokens = [token for token in nltk.word_tokenize(text) if token.isalpha() or token.replace("'", "").isalpha()]
+            ngrams = nltk.ngrams(tokens, n)
+            freqdist = nltk.FreqDist(ngrams)
+            self.ngram_freqdist.update(freqdist)
+        self.main_ngram_types_txt.SetLabel("Types: " + str(len(self.ngram_freqdist)))
+        self.main_ngram_tokens_txt.SetLabel("Tokens: " + str(self.ngram_freqdist.N()))
+        self.main_ngram_display_ngram()
+        self.ngram_files_dirty = False
+
+    def main_ngram_display_ngram(self, event=wx.EVT_BUTTON):
+        sortval = self.main_ngram_sort_choice.GetSelection()
+        values = []
+        for ngram, freq in self.ngram_freqdist.items():
+            stat = 0
+            freqs = []
+            for token in ngram:
+                freqs.append(self.freqdist[token])
+            for i in range(len(ngram), 4):
+                freqs.append(0)  # blank spot
+            item = [stat, freq]
+            item.extend(freqs)
+            item.append(ngram)
+            values.append(item)
+        values.sort(key=operator.itemgetter(sortval), reverse=self.main_ngram_sort_reverse_checkbox.IsChecked())
+        self.ngram_freqdist_pages = list(main.divide_chunks(values, self.page_len))
+        if len(self.ngram_freqdist_pages) > 0:
+            self.main_ngram_page_spinctrl.SetMax(len(self.ngram_freqdist_pages) - 1)
+        self.main_ngram_display_page(0)
+
+    def main_ngram_display_page(self, num=0, event=wx.EVT_BUTTON):
+        i = 0
+        for value in self.ngram_freqdist_pages[num]:
+            self.main_ngram_boxes[i][0].SetLabel(str(num * self.page_len + i + 1))  # rank
+            for idx in range(0, 7):
+                self.main_ngram_boxes[i][idx+1].SetLabel(str(value[idx]))  # stat
+            i += 1
+        for x in range(i, self.page_len + 1):  # clear out the empty boxes. TODO: why isn't this working? This should be working
+            self.main_ngram_boxes[x][0].SetLabel("")
+            self.main_ngram_boxes[x][1].SetLabel("")
+            self.main_ngram_boxes[x][2].SetLabel("")
+
+    def main_ngram_search(self, event=wx.EVT_BUTTON):
+        pass
 
     def change_listbook_idx(self, event=wx.EVT_LISTBOOK_PAGE_CHANGED):
         self.listbook_idx = event.GetSelection()
