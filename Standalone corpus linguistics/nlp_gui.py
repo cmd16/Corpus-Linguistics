@@ -460,6 +460,33 @@ class NlpGuiClass(wx.Frame):
             filename = saveDialog.GetPath()
             if self.listbook_idx == 0:
                 main.freqdist_to_wordlistfile(self.freqdist, filename)
+            elif self.listbook_idx == 1:
+                f_in = open(filename, "w")
+                for page in self.concordance_pages:
+                    for filename, values in page:
+                        f_in.write(filename + "\t" + " ".join(values) + "\n")
+                f_in.close()
+            elif self.listbook_idx == 2:
+                f_in = open(filename, "w")
+                f_in.write("%d\n" % self.ngram_freqdist.N())
+                for page in self.ngram_freqdist_pages:
+                    for entry in page:
+                        stat, freq, freq0, freq1, freq2, freq3, ngram = entry
+                        freqs = [freq0, freq1, freq2, freq3]
+                        for idx in range(len(ngram)):
+                            word = ngram[idx]
+                            f_in.write(word + "<>")
+                        f_in.write("%d " % freq)
+                        for idx in range(len(ngram)):
+                            f_in.write("%d " % freqs[idx])
+                        f_in.write("\n")
+                f_in.close()
+            elif self.listbook_idx == 3:
+                keyword_tuple = self.keyword_dict, ["corpus0", int(self.main_keyword_types0_txt.GetLabel().split()[2]),
+                    int(self.main_keyword_tokens0_txt.GetLabel().split()[2])], \
+                    ["corpus1", int(self.main_keyword_types1_txt.GetLabel().split()[2]),
+                     int(self.main_keyword_tokens1_txt.GetLabel().split()[2])]
+                main.store_keyword_txt(keyword_tuple, filename)
         saveDialog.Destroy()
 
     def openGlobalSettings(self, event=None):
@@ -1600,6 +1627,7 @@ class NlpGuiClass(wx.Frame):
                         # TODO: do I want this in list like this or as a string?
                         # TODO: align nicely
                         # use max and min to avoid IndexError (going out of range)
+                        # TODO: fix bordering for multi-token queries
                         full_values.append(
                             (filename, tokens[max(0, idx - self.tool_concordance_win_length):idx] + [token.replace(token, "<%s>" % token)] +
                              tokens[idx+1:min(len(tokens), idx + self.tool_concordance_win_length + 1)])
@@ -1621,7 +1649,6 @@ class NlpGuiClass(wx.Frame):
                             (text_body, tokens[max(0, idx - self.tool_concordance_win_length):min(len(tokens),
                                                                                                   idx + self.tool_concordance_win_length)])
                         )
-        print("full values", full_values)
         self.concordance_pages = list(main.divide_chunks(full_values, self.page_len))
         if len(self.concordance_pages) > 0:
             self.main_concordance_page_spinctrl.SetMax(len(self.concordance_pages) - 1)
