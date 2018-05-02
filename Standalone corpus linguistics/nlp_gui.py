@@ -889,7 +889,7 @@ class NlpGuiClass(wx.Frame):
         self.tool_keyword_load_hbox.Add(self.tool_keyword_swap_button, proportion=0)
         self.tool_keyword_vbox.Add(self.tool_keyword_load_hbox, proportion=0, flag=wx.ALIGN_CENTER)
 
-        self.tool_keyword_reference_txtctrl = wx.TextCtrl(self.tool_settings_keyword_window, style=wx.TE_READONLY)
+        self.tool_keyword_reference_txtctrl = wx.TextCtrl(self.tool_settings_keyword_window, style=wx.TE_MULTILINE)
         for filename in self.tool_keyword_reference_filenames:
             self.tool_keyword_reference_txtctrl.write(filename + "\n")
         self.tool_keyword_vbox.Add(self.tool_keyword_reference_txtctrl, proportion=1, flag=wx.ALIGN_CENTER | wx.EXPAND)
@@ -1069,7 +1069,7 @@ class NlpGuiClass(wx.Frame):
             else:
                 filenames = [fileDialog.GetPath()]
             for filename in filenames:
-                self.tool_keyword_reference_txtctrl.write(filename + "\n")
+                self.tool_keyword_reference_txtctrl.write("%s\n" % filename)
         fileDialog.Destroy()
 
     def tool_keyword_swap(self, event=wx.EVT_BUTTON):
@@ -1382,8 +1382,11 @@ class NlpGuiClass(wx.Frame):
         self.main_keyword_vbox.Add(self.main_keyword_info_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.main_keyword_vbox.AddSpacer(10)
 
-        self.main_keyword_flexgrid = wx.FlexGridSizer(cols=7, vgap=5, hgap=10)
-        self.main_keyword_flexgrid.AddGrowableCol(idx=6, proportion=1)
+        self.main_keyword_flexgrid = wx.FlexGridSizer(cols=7, vgap=5, hgap=15)
+        self.main_keyword_flexgrid.AddGrowableCol(idx=1, proportion=1)
+        self.main_keyword_flexgrid.AddGrowableCol(idx=3, proportion=1)
+        self.main_keyword_flexgrid.AddGrowableCol(idx=5, proportion=1)
+        self.main_keyword_flexgrid.AddGrowableCol(idx=6, proportion=2)
         self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Rank"), 0, 0)
         self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Keyness"), 0, 1)
         self.main_keyword_flexgrid.Add(wx.StaticText(self.main_keyword_window, label="Frequency 0"), 0, 2)
@@ -1701,11 +1704,12 @@ class NlpGuiClass(wx.Frame):
 
     def main_keyword_get_keywords(self, event=wx.EVT_BUTTON):
         if not self.keyword_files_dirty:
-            # return
-            pass
+            self.main_keyword_display_keyword()
+            return
         self.keyword_freqdist = nltk.FreqDist()
         if self.tool_keyword_reference_idx == 0:
             for filename in self.tool_keyword_reference_filenames:
+                print(filename, "file")
                 self.keyword_freqdist.update(main.freq_from_txt(filename))
         else:
             for filename in self.tool_keyword_reference_filenames:
@@ -1751,7 +1755,25 @@ class NlpGuiClass(wx.Frame):
                 self.main_keyword_boxes[x][idx].SetLabel("")
 
     def main_keyword_search(self, event=wx.EVT_BUTTON):
-        pass
+        query = self.main_keyword_searchbar_txtctrl.GetValue()
+        if query == "":
+            self.main_keyword_display_keyword()
+            return
+        sortval = self.main_keyword_sort_choice.GetSelection()
+        values = []
+        for key in self.keyword_dict:
+            if query == key or (not self.main_keyword_search_exact_checkbox.IsChecked and query in key):  # TODO: fix non-exact search
+                items = [x for x in self.keyword_dict[key]]
+                items.append(key)
+                values.append(items)
+            else:
+                print(query, key)
+        values.sort(key=operator.itemgetter(sortval),
+                    reverse=self.main_keyword_sort_reverse_checkbox.IsChecked())
+        self.keyword_pages = list(main.divide_chunks(values, self.page_len))
+        if len(self.keyword_pages) > 0:
+            self.main_keyword_page_spinctrl.SetMax(len(self.keyword_pages) - 1)
+        self.main_keyword_display_page(0)
 
     def change_listbook_idx(self, event=wx.EVT_LISTBOOK_PAGE_CHANGED):
         self.listbook_idx = event.GetSelection()
