@@ -1240,6 +1240,9 @@ class NlpGuiClass(wx.Frame):
         self.main_concordance_search_hbox.AddSpacer(5)
         self.main_concordance_search_exact_checkbox = wx.CheckBox(self.main_concordance_window, label="Exact")
         self.main_concordance_search_hbox.Add(self.main_concordance_search_exact_checkbox, proportion=0)
+        self.main_concordance_search_hbox.AddSpacer(5)
+        self.main_concordance_search_multi_checkbox = wx.CheckBox(self.main_concordance_window, label="Multiple tokens")
+        self.main_concordance_search_hbox.Add(self.main_concordance_search_multi_checkbox, proportion=0)
         self.main_concordance_vbox.Add(self.main_concordance_search_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.main_concordance_vbox.AddSpacer(10)
 
@@ -1544,7 +1547,7 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_display_page(0)
 
     def main_concordance_display_page(self, num=0, event=wx.EVT_BUTTON):
-        # print(self.concordance_pages[num])
+        print(self.concordance_pages)
         i = 0
         for filename, values in self.concordance_pages[num]:
             self.main_concordance_boxes[i][0].SetLabel(str(num * self.page_len + i + 1))
@@ -1567,6 +1570,10 @@ class NlpGuiClass(wx.Frame):
             case = True
         else:
             case = False
+        if self.main_concordance_search_multi_checkbox.IsChecked():
+            queries = query.split()  # split on whitespace
+        else:
+            queries = []
         full_values = []
         if self.tool_concordance_target_corpus == 0 or self.tool_concordance_target_corpus == 1:  # if we are inlcuding files
             for filename in self.filenames:
@@ -1578,9 +1585,21 @@ class NlpGuiClass(wx.Frame):
                 tokens = [token for token in nltk.word_tokenize(text) if token.isalpha() or token.replace("'", "").isalpha()]
                 for idx in range(len(tokens)):
                     token = tokens[idx]
-                    if token == query or (not self.main_concordance_search_exact_checkbox.IsChecked() and query in token):
-                        # use max and min to avoid IndexError (going out of range)
+                    if queries:
+                        for i in range(len(queries)):
+                            if tokens[idx+i] != queries[i]:
+                                valid = False
+                                break
+                        else:
+                            valid = True
+                    elif token == query or (not self.main_concordance_search_exact_checkbox.IsChecked() and query in token):
+                        valid = True
+                    else:
+                        valid = False
+                    if valid:
                         # TODO: do I want this in list like this or as a string?
+                        # TODO: align nicely
+                        # use max and min to avoid IndexError (going out of range)
                         full_values.append(
                             (filename, tokens[max(0, idx - self.tool_concordance_win_length):idx] + [token.replace(token, "<%s>" % token)] +
                              tokens[idx+1:min(len(tokens), idx + self.tool_concordance_win_length + 1)])
@@ -1602,6 +1621,7 @@ class NlpGuiClass(wx.Frame):
                             (text_body, tokens[max(0, idx - self.tool_concordance_win_length):min(len(tokens),
                                                                                                   idx + self.tool_concordance_win_length)])
                         )
+        print("full values", full_values)
         self.concordance_pages = list(main.divide_chunks(full_values, self.page_len))
         if len(self.concordance_pages) > 0:
             self.main_concordance_page_spinctrl.SetMax(len(self.concordance_pages) - 1)
