@@ -18,6 +18,7 @@ class NlpGuiClass(wx.Frame):
         self.open_dir_item = None
         self.open_clipboard_item = None
         self.open_text_item = None
+        self.open_filelist_item = None
         self.close_files_item = None
         self.close_text_item = None
         self.close_all_files_item = None
@@ -337,6 +338,7 @@ class NlpGuiClass(wx.Frame):
         self.open_dir_item = self.file_menu.Append(wx.ID_ANY, "Open Dir", "Open directory")
         self.open_clipboard_item = self.file_menu.Append(wx.ID_ANY, "Open From Clipboard", "Open from clipboard")
         self.open_text_item = self.file_menu.Append(wx.ID_ANY, "Open From Text Box", "Open from text box")
+        self.open_filelist_item = self.file_menu.Append(wx.ID_ANY, "Open From File of Filenames", "Open from file of filenames")
         self.file_menu.AppendSeparator()
         self.close_files_item = self.file_menu.Append(wx.ID_ANY, "Close File(s)", "Close file(s)")
         self.close_text_item = self.file_menu.Append(wx.ID_ANY, "Close text(s)", "Close text(s)")
@@ -350,6 +352,7 @@ class NlpGuiClass(wx.Frame):
         self.Bind(wx.EVT_MENU, self.open_dir, self.open_dir_item)
         self.Bind(wx.EVT_MENU, self.open_clipboard, self.open_clipboard_item)
         self.Bind(wx.EVT_MENU, self.open_text, self.open_text_item)
+        self.Bind(wx.EVT_MENU, self.open_filelist, self.open_filelist_item)
         self.Bind(wx.EVT_MENU, self.close_files, self.close_files_item)
         self.Bind(wx.EVT_MENU, self.close_text, self.close_text_item)
         self.Bind(wx.EVT_MENU, self.close_everything, self.close_all_files_item)
@@ -413,6 +416,28 @@ class NlpGuiClass(wx.Frame):
             self.text_bodies[name] = text
             self.wordlist_files_dirty = True
             self.ngram_files_dirty = True
+
+    def open_filelist(self, event=None):
+        open_file_dialog = wx.FileDialog(self, message="Choose corpus files", style=
+        wx.FD_OPEN | wx.FD_FILE_MUST_EXIST)
+        if open_file_dialog.ShowModal() == wx.ID_OK:
+            filename = open_file_dialog.GetPath()
+            passage_dialog = wx.TextEntryDialog(self, message="Prefix for filenames (e.g., directory) and suffix (e.g., .txt),"
+                                                              "separated by a comma")
+            if passage_dialog.ShowModal() == wx.ID_OK:
+                values = passage_dialog.GetValue().split(",")
+                if len(values) < 2:
+                    values.append("")
+                prefix, suffix = values
+                with open(filename) as f_in:
+                    for line in f_in:
+                        line = line.strip()
+                        if line:
+                            self.filenames.append(prefix + line + suffix)
+                self.wordlist_files_dirty = True
+                self.ngram_files_dirty = True
+            passage_dialog.Destroy()
+        open_file_dialog.Destroy()
 
     def close_files(self, event=None):
         """
