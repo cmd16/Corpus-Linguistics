@@ -294,8 +294,35 @@ class NlpGuiClass(wx.Frame):
         self.ngram_freqdist_pages = []
 
         self.main_keyword_window = None
+        self.main_keyword_vbox = None
+        self.main_keyword_info_hbox = None
+        self.main_keyword_types0_txt = None
+        self.main_keyword_tokens0_txt = None
+        self.main_keyword_types1_txt = None
+        self.main_keyword_tokens1_txt = None
+        self.main_keyword_search_txt = None
+        self.main_keyword_flexgrid = None
+        self.main_keyword_start_hbox = None
+        self.main_keyword_start_button = None
+        self.main_keyword_page_spinctrl = None
+        self.main_keyword_page_button = None
+        self.main_keyword_search_hbox = None
+        self.main_keyword_search_term_txt = None
+        self.main_keyword_search_regex = None
+        self.main_keyword_search_exact_checkbox = None
+        self.main_keyword_searchbar_hbox = None
+        self.main_keyword_searchbar_txtctrl = None
+        self.main_keyword_searchbar_button = None
+        self.main_keyword_sort_hbox = None
+        self.main_keyword_sort_choice = None
+        self.main_keyword_sort_reverse_checkbox = None
+        self.main_keyword_sort_button = None
 
+        self.keyword_freqdist = None
+        self.keyword_dict = None
+        self.keyword_files_dirty = False
         self.main_keyword_boxes = []
+        self.keyword_pages = []
 
         self.createSettingMenu()
         self.createMenuBar()
@@ -907,7 +934,9 @@ class NlpGuiClass(wx.Frame):
         self.tool_wordlist_case = self.tool_wordlist_case_choice.GetSelection()
         self.tool_wordlist_regex_checkval = self.tool_wordlist_regex_checkbox.GetValue()
         self.tool_wordlist_regex = self.tool_wordlist_regex_txtctrl.GetValue()
-        self.tool_wordlist_target_corpus = self.tool_wordlist_target_corpus_choice.GetSelection()
+        if self.tool_wordlist_target_corpus_choice.GetSelection() != self.tool_wordlist_target_corpus:
+            self.tool_wordlist_target_corpus = self.tool_wordlist_target_corpus_choice.GetSelection()
+            self.wordlist_files_dirty = True
         if self.tool_wordlist_target_corpus == 3:
             self.tool_wordlist_wordlists = []
             for filename in self.tool_wordlist_filename_txtctrl.GetValue().split("\n"):
@@ -1070,14 +1099,18 @@ class NlpGuiClass(wx.Frame):
         self.tool_keyword_reference_txtctrl.SetValue("")
         for filename in key_filenames:
             self.tool_keyword_reference_txtctrl.write(filename + "\n")
+        self.wordlist_files_dirty = True
+        self.keyword_files_dirty = True
 
     def apply_tool_keyword_settings(self, event=wx.EVT_BUTTON):
         self.tool_keyword_p_idx = self.tool_keyword_p_choice.GetSelection()
         self.tool_keyword_reference_idx = self.tool_keyword_reference_choice.GetSelection()
         self.tool_keyword_reference_filenames = []
         for filename in self.tool_keyword_reference_txtctrl.GetValue().split("\n"):
-            if filename.strip() != "":
+            filename = filename.strip()
+            if filename != "":
                 self.tool_keyword_reference_filenames.append(filename)
+        self.keyword_files_dirty = True  # because I'm too lazy to check if anything changed
 
     def createMainWindow(self):
         # TODO: implement word vs regex in search. Fix problem where empty search doesn't clear display. Figure out what's up with the IndexError.
@@ -1332,11 +1365,17 @@ class NlpGuiClass(wx.Frame):
         self.main_keyword_vbox =  wx.BoxSizer(orient=wx.VERTICAL)
 
         self.main_keyword_info_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
-        self.main_keyword_types_txt = wx.StaticText(self.main_keyword_window, label="Types: 0")
-        self.main_keyword_info_hbox.Add(self.main_keyword_types_txt, proportion=0)
+        self.main_keyword_types0_txt = wx.StaticText(self.main_keyword_window, label="Types 0: 0")
+        self.main_keyword_info_hbox.Add(self.main_keyword_types0_txt, proportion=0)
         self.main_keyword_info_hbox.AddSpacer(100)
-        self.main_keyword_tokens_txt = wx.StaticText(self.main_keyword_window, label="Tokens: 0")
-        self.main_keyword_info_hbox.Add(self.main_keyword_tokens_txt, proportion=0)
+        self.main_keyword_tokens0_txt = wx.StaticText(self.main_keyword_window, label="Tokens 0: 0")
+        self.main_keyword_info_hbox.Add(self.main_keyword_tokens0_txt, proportion=0)
+        self.main_keyword_info_hbox.AddSpacer(100)
+        self.main_keyword_types1_txt = wx.StaticText(self.main_keyword_window, label="Types 1: 0")
+        self.main_keyword_info_hbox.Add(self.main_keyword_types1_txt, proportion=0)
+        self.main_keyword_info_hbox.AddSpacer(100)
+        self.main_keyword_tokens1_txt = wx.StaticText(self.main_keyword_window, label="Tokens 1: 0")
+        self.main_keyword_info_hbox.Add(self.main_keyword_tokens1_txt, proportion=0)
         self.main_keyword_info_hbox.AddSpacer(100)
         self.main_keyword_search_txt = wx.StaticText(self.main_keyword_window, label="Search hits: 0")
         self.main_keyword_info_hbox.Add(self.main_keyword_search_txt, proportion=0)
@@ -1366,6 +1405,18 @@ class NlpGuiClass(wx.Frame):
             for i in range(7):
                 self.main_keyword_flexgrid.Add(self.main_keyword_boxes[row - 1][i], row, i)
         self.main_keyword_vbox.Add(self.main_keyword_flexgrid, proportion=1, flag=wx.EXPAND | wx.ALIGN_CENTER)
+        self.main_keyword_vbox.AddSpacer(10)
+
+        self.main_keyword_start_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
+        self.main_keyword_start_button = wx.Button(self.main_keyword_window, label="Start")
+        self.main_keyword_start_hbox.Add(self.main_keyword_start_button, proportion=0)
+        self.main_keyword_start_hbox.AddSpacer(30)
+        self.main_keyword_page_spinctrl = wx.SpinCtrl(self.main_keyword_window, min=0, initial=0)
+        self.main_keyword_start_hbox.Add(self.main_keyword_page_spinctrl, proportion=0)
+        self.main_keyword_start_hbox.AddSpacer(5)
+        self.main_keyword_page_button = wx.Button(self.main_keyword_window, label="Go")
+        self.main_keyword_start_hbox.Add(self.main_keyword_page_button, proportion=0)
+        self.main_keyword_vbox.Add(self.main_keyword_start_hbox, proportion=0, flag=wx.ALIGN_CENTER)
         self.main_keyword_vbox.AddSpacer(10)
 
         self.main_keyword_search_hbox = wx.BoxSizer(orient=wx.HORIZONTAL)
@@ -1403,6 +1454,14 @@ class NlpGuiClass(wx.Frame):
         self.main_keyword_sort_hbox.Add(self.main_keyword_sort_button, proportion=0)
         self.main_keyword_vbox.Add(self.main_keyword_sort_hbox, proportion=0, flag=wx.ALIGN_CENTER)
 
+        self.main_keyword_window.Bind(wx.EVT_BUTTON, self.main_keyword_get_keywords, self.main_keyword_start_button)
+        self.main_keyword_window.Bind(wx.EVT_BUTTON, lambda event: self.main_keyword_display_page(
+            num=self.main_keyword_page_spinctrl.GetValue(), event=event),
+                                    self.main_keyword_page_button)
+        self.main_keyword_window.Bind(wx.EVT_BUTTON, self.main_keyword_search, self.main_keyword_searchbar_button)
+        self.main_keyword_window.Bind(wx.EVT_BUTTON, self.main_keyword_display_keyword,
+                                    self.main_keyword_sort_button)
+
         self.main_keyword_window.SetSizer(self.main_keyword_vbox)
         self.main_listbook.InsertPage(3, self.main_keyword_window, "Keyword")
 
@@ -1434,6 +1493,7 @@ class NlpGuiClass(wx.Frame):
         self.main_wordlist_tokens_txt.SetLabel("Tokens: " + str(self.freqdist.N()))
         self.main_wordlist_display_wordlist()
         self.wordlist_files_dirty = False
+        self.keyword_files_dirty = True
 
     def main_wordlist_display_wordlist(self, event=wx.EVT_BUTTON):
         sortval = self.main_wordlist_sort_choice.GetSelection()
@@ -1638,6 +1698,60 @@ class NlpGuiClass(wx.Frame):
         if len(self.ngram_freqdist_pages) > 0:
             self.main_ngram_page_spinctrl.SetMax(len(self.ngram_freqdist_pages) - 1)
         self.main_ngram_display_page(0)
+
+    def main_keyword_get_keywords(self, event=wx.EVT_BUTTON):
+        if not self.keyword_files_dirty:
+            # return
+            pass
+        self.keyword_freqdist = nltk.FreqDist()
+        if self.tool_keyword_reference_idx == 0:
+            for filename in self.tool_keyword_reference_filenames:
+                self.keyword_freqdist.update(main.freq_from_txt(filename))
+        else:
+            for filename in self.tool_keyword_reference_filenames:
+                self.keyword_freqdist.update(main.wordlist_to_freqdist(filename))
+        p_arr = [.05, 0.01, 0.001, 0.0001, 0]
+        keyword_tuple = main.keyword_tuple_from_freqdists(self.freqdist, self.keyword_freqdist, p=p_arr[self.tool_keyword_p_idx])
+        self.keyword_dict = keyword_tuple[0]
+        self.main_keyword_types0_txt.SetLabel("Types 0: " + str(keyword_tuple[1][1]))
+        self.main_keyword_tokens0_txt.SetLabel("Tokens 0: " + str(keyword_tuple[1][2]))
+        self.main_keyword_types1_txt.SetLabel("Types 1: " + str(keyword_tuple[2][1]))
+        self.main_keyword_tokens1_txt.SetLabel("Tokens 1: " + str(keyword_tuple[2][2]))
+        self.main_keyword_display_keyword()
+        self.keyword_files_dirty = False
+
+    def main_keyword_display_keyword(self, event=wx.EVT_BUTTON):
+        sortval = self.main_keyword_sort_choice.GetSelection()
+        values = []
+        for key in self.keyword_dict:
+            items = [x for x in self.keyword_dict[key]]
+            items.append(key)
+            values.append(items)
+        values.sort(key=operator.itemgetter(sortval), reverse=self.main_keyword_sort_reverse_checkbox.IsChecked())
+        self.keyword_pages = list(main.divide_chunks(values, self.page_len))
+        if len(self.keyword_pages) > 0:
+            self.main_keyword_page_spinctrl.SetMax(len(self.keyword_pages) - 1)
+        self.main_keyword_display_page(0)
+
+    def main_keyword_display_page(self, num=0, event=wx.EVT_BUTTON):
+        i = 0
+        if len(self.keyword_pages) >= num + 1:
+            for value in self.keyword_pages[num]:
+                self.main_keyword_boxes[i][0].SetLabel(str(num * self.page_len + i + 1))  # rank
+                for idx in range(0, 6):
+                    if type(value[idx]) == float:
+                        strval = "%.6f" % value[idx]
+                    else:
+                        strval = str(value[idx])
+                    self.main_keyword_boxes[i][idx + 1].SetLabel(strval)  # TODO: round decimals lol
+                i += 1
+        for x in range(i, self.page_len + 1):  # clear out the empty boxes. TODO: why isn't this working? This should be working
+            self.main_keyword_boxes[x][0].SetLabel(str(x + 1))
+            for idx in range(1, 7):
+                self.main_keyword_boxes[x][idx].SetLabel("")
+
+    def main_keyword_search(self, event=wx.EVT_BUTTON):
+        pass
 
     def change_listbook_idx(self, event=wx.EVT_LISTBOOK_PAGE_CHANGED):
         self.listbook_idx = event.GetSelection()
