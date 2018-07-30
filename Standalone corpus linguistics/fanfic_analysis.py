@@ -276,16 +276,18 @@ def csv_keywords(proj_dir, fandoms):
 def perl_python_keywords(proj_dir):
     wordlist_dir = os.path.join(proj_dir, "wordlists")
     for filename in os.listdir(wordlist_dir):
+        if filename == "fanfic_all_python.txt":
+            continue
         fullname = os.path.join(wordlist_dir, filename)
         if filename.endswith("_python.txt"):
             keyword_dict = keyword_tuple_from_wordlists(fullname, fullname.replace("python", "perl"))
             if keyword_dict:
-                store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Perl_vs_Python/%s" % filename.replace("_python", "python_vs_perl")))
+                store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Perl_vs_Python/%s" % filename.replace("_python", "_python_vs_perl")))
         elif filename.endswith("_perl.txt"):
             keyword_dict = keyword_tuple_from_wordlists(fullname, fullname.replace("perl", "python"))
             if keyword_dict:
                 store_keyword_txt(keyword_dict, os.path.join(proj_dir, "Perl_vs_Python/%s" % filename.replace("_perl",
-                                                                                                    "perl_vs_python")))
+                                                                                                    "_perl_vs_python")))
 
 
 def category_similar_keywords(proj_dir, fandoms, categories, comb_comparisons, other_comparisons):  # TODO: include other comparisons
@@ -440,13 +442,6 @@ ratios = [("comments", "hits"), ("kudos", "hits"), ("bookmarks", "hits"), ("comm
 stats = single_stats + [ratio[0] + " to " + ratio[1] for ratio in ratios]
 
 perl_python_keywords(proj_dir)
-
-# for fandom in fandoms:
-#     print(fandom)
-#     _fandom = fandom.replace(" ", "_")
-#     freqdist = freqdist_from_idfile(os.path.join(proj_dir, "Fanfic lists/%s 10001-100000.txt" % fandom), os.path.join(proj_dir, "Fanfic_all"))
-#     freqdist_to_wordlistfile(freqdist, os.path.join(proj_dir, "wordlists/%s_10001-100000_python.txt" % (_fandom)))
-
 
 # category_wordlists(proj_dir, fandoms, categories)
 # au_wordlists(proj_dir, fandoms)
