@@ -62,20 +62,22 @@ A repository to store the scripts I write to make corpus linguistics (analyzing 
             <li>Keyword analysis</li>
             <li>Part of speech tagging and lemmatizing</li>
             <li>Aggregating data from multiple files (individually specify or give a directory)</li>
+            <li>Import functions into your Python code, or use the graphical interface found in nlp_gui.py</li>
         </ul>
     </li>
     <li>
         Dependencies:
         <ul>
-            <li>openpyxl</li>
-            <li>nltk</li>
-            <li>treetagger and treetaggerwrapper</li>
+            <li>nltk - main functionality</li>
+            <li>openpyxl - for spreadsheets</li>
+            <li>treetagger and treetaggerwrapper - part of speech tagging</li>
+            <li>wxPython - for graphical interface</li>
         </ul>
     </li>
     <li>
         Note:
             <ul>
-                <li>Some functions (everything after store_keyword) are for my own personal use and will not work for you unless your filesystem is identical to mine.</li>
+                <li>Some functions are for my own personal use and will not work for you unless your filesystem is identical to mine.</li>
             </ul>
     </li>
 </ul>
