@@ -1,11 +1,23 @@
 # Adopted from https://medium.com/@davidmasse8/predicting-the-next-word-back-off-language-modeling-8db607444ba9
 
 import re
+import os
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from nltk.tokenize import word_tokenize, WhitespaceTokenizer, TweetTokenizer
 np.random.seed(seed=234)
+
+def iterator_from_idfile(idfile, path, end=".txt"):
+    """
+    Get a file iterator for the files specified in idfile
+
+    :param idfile: open file object containing relative filenames
+    :return:
+    """
+    for line in idfile:
+        name = os.path.join(path, line.strip() + end)
+        yield name
 
 def ngram_df(file_iterator):
     """
@@ -14,11 +26,39 @@ def ngram_df(file_iterator):
 
     :param file_iterator: An iterable which yields either str, unicode or file objects
     """
-    ngram_bow = CountVectorizer(tokenizer=word_tokenize, ngram_range=(1, 5))
+    ngram_bow = CountVectorizer(tokenizer=word_tokenize, preprocessor=lambda s: s.lower(), ngram_range=(1, 5))
     ngram_count_sparse = ngram_bow.fit_transform(file_iterator)
     ngram_count = pd.DataFrame(ngram_count_sparse.toarray())
     ngram_count.columns = ngram_bow.get_feature_names()
     return ngram_count
+
+def ngram_df_from_idfile(idfile, path, end=".txt"):
+    file_iterator = lambda: iterator_from_idfile(idfile, path, end)
+    return ngram_df(file_iterator)
+
+def write_ngramf_df_from_idfile(idfilename, idfiledir, path, resultfilename, end=".txt"):
+    """
+
+    :param idfilename: relative name of idfile
+    :param idfiledir: path to idfile
+    :param path: path to id files
+    :param end: suffix (e.g., file type) for filenames
+    :return:
+    """
+    with open(os.path.join(idfiledir, idfilename)) as idfile:
+        df = ngram_df_from_idfile(idfile, path, end)
+        df.to_csv(path_or_buf=resultfilename, sep="\t")
+
+def write_ngram_df_fanfic():
+    proj_dir = "/Volumes/2TB/Final_Project"
+    idfiledir = os.path.join(proj_dir, "Fanfic lists")
+    fanfic_dir = os.path.join(proj_dir, "Fanfic_all")
+    ngrams_dir = os.path.join(proj_dir, "Ngrams_df")
+    for idlist in os.listdir(idfiledir):
+        if idlist.endswith(".txt"):
+            print(idlist)
+            write_ngramf_df_from_idfile(idfilename=idlist, idfiledir=idfiledir, path=fanfic_dir,
+                                        resultfilename=os.path.join(ngrams_dir, idlist))
 
 def ngram_series(ngram_count, cutoff=0):
     """
@@ -31,7 +71,7 @@ def ngram_series(ngram_count, cutoff=0):
     sums = ngram_count.sum(axis=0)
     sums = sums[sums > cutoff]
     ngrams = list(sums.index.values)
-    return ngrams
+    return ngrams, sums
 
 def number_of_onegrams(sums, ngrams):
     """
