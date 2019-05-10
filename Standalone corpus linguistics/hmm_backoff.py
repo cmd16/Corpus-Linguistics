@@ -5,7 +5,8 @@ import os
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-from nltk.tokenize import word_tokenize, WhitespaceTokenizer, TweetTokenizer
+from nltk import FreqDist
+from nltk.tokenize import word_tokenize
 np.random.seed(seed=234)
 
 def iterator_from_idfile(idfile, path, end=".txt"):
@@ -15,9 +16,11 @@ def iterator_from_idfile(idfile, path, end=".txt"):
     :param idfile: open file object containing relative filenames
     :return:
     """
-    for line in idfile:
-        name = os.path.join(path, line.strip() + end)
-        yield name
+    names = [os.path.join(path, line.strip() + end) for line in idfile]
+    return iter(names)
+    # for line in idfile:
+    #     name = os.path.join(path, line.strip() + end)
+    #     yield name
 
 def ngram_df(file_iterator):
     """
@@ -33,7 +36,7 @@ def ngram_df(file_iterator):
     return ngram_count
 
 def ngram_df_from_idfile(idfile, path, end=".txt"):
-    file_iterator = lambda: iterator_from_idfile(idfile, path, end)
+    file_iterator = [os.path.join(path, line.strip() + end) for line in idfile]
     return ngram_df(file_iterator)
 
 def write_ngramf_df_from_idfile(idfilename, idfiledir, path, resultfilename, end=".txt"):
@@ -73,6 +76,35 @@ def ngram_series(ngram_count, cutoff=0):
     ngrams = list(sums.index.values)
     return ngrams, sums
 
+def ngrams_from_df(ngram_df, filename, path):
+    """
+
+    :param ngram_df: dataframe containing ngrams
+    :param path: the path to the ngram folders
+    :return:
+    """
+    ngrams, sums = ngram_series(ngram_df)
+    files = [open(os.path.join(path, "%d_grams/%s" % (n, filename)), "w") for n in range(1, 6)]
+    freqdists = [FreqDist(), FreqDist(), FreqDist(), FreqDist(), FreqDist()]
+    for ng in ngrams:
+        size = len(ng.split(" "))
+        freqdists[size - 1][ng] += sums[ng]
+    for i in range(0, 5):
+        freqdist = freqdists[i]
+        file = files[i]
+        tokens = freqdist.N()
+        file.write("#Ngram types: %d\n" % len(freqdist))
+        file.write("#Ngram tokens: %d\n" % tokens)
+        rank = 1
+        for tup in freqdist.most_common():
+            ngram = tup[0]
+            freq = tup[1]
+            file.write("%d\t%s\t%d\t%f\n" % (rank, ngram, freq, freq * 1000000 / tokens))
+            rank += 1
+    for file in files:
+        file.close()
+
+
 def number_of_onegrams(sums, ngrams):
     """
     The function below gives the total number of occurrences of 1-grams in order to calculate 1-gram frequencies
@@ -108,3 +140,5 @@ def base_freq(og, sums, ngrams):
 # For use in later functions so as not to re-calculate multiple times:
 # bf = base_freq(number_of_onegrams(sums))
 
+if __name__ == "__main__":
+    write_ngram_df_fanfic()
