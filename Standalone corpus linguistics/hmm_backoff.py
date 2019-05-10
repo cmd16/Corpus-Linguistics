@@ -16,11 +16,10 @@ def iterator_from_idfile(idfile, path, end=".txt"):
     :param idfile: open file object containing relative filenames
     :return:
     """
-    names = [os.path.join(path, line.strip() + end) for line in idfile]
-    return iter(names)
-    # for line in idfile:
-    #     name = os.path.join(path, line.strip() + end)
-    #     yield name
+    for line in idfile:
+        name = os.path.join(path, line.strip() + end)
+        with open(name) as f_in:
+            yield f_in
 
 def ngram_df(file_iterator):
     """
@@ -29,17 +28,19 @@ def ngram_df(file_iterator):
 
     :param file_iterator: An iterable which yields either str, unicode or file objects
     """
-    ngram_bow = CountVectorizer(tokenizer=word_tokenize, preprocessor=lambda s: s.lower(), ngram_range=(1, 5))
+    ngram_bow = CountVectorizer(tokenizer=word_tokenize, ngram_range=(1, 5))
     ngram_count_sparse = ngram_bow.fit_transform(file_iterator)
     ngram_count = pd.DataFrame(ngram_count_sparse.toarray())
     ngram_count.columns = ngram_bow.get_feature_names()
     return ngram_count
 
 def ngram_df_from_idfile(idfile, path, end=".txt"):
-    file_iterator = [os.path.join(path, line.strip() + end) for line in idfile]
-    return ngram_df(file_iterator)
+    # filenames = [os.path.join(path, line.strip() + end) for line in idfile]
+    file_iterator = iterator_from_idfile(idfile, path, end)
+    df = ngram_df(file_iterator)
+    return df
 
-def write_ngramf_df_from_idfile(idfilename, idfiledir, path, resultfilename, end=".txt"):
+def write_ngram_df_from_idfile(idfilename, idfiledir, path, resultfilename, end=".txt"):
     """
 
     :param idfilename: relative name of idfile
@@ -50,18 +51,19 @@ def write_ngramf_df_from_idfile(idfilename, idfiledir, path, resultfilename, end
     """
     with open(os.path.join(idfiledir, idfilename)) as idfile:
         df = ngram_df_from_idfile(idfile, path, end)
+        print(df.head())
         df.to_csv(path_or_buf=resultfilename, sep="\t")
 
 def write_ngram_df_fanfic():
     proj_dir = "/Volumes/2TB/Final_Project"
     idfiledir = os.path.join(proj_dir, "Fanfic lists")
-    fanfic_dir = os.path.join(proj_dir, "Fanfic_all")
+    fanfic_dir = os.path.join(proj_dir, "Fanfic_lower")
     ngrams_dir = os.path.join(proj_dir, "Ngrams_df")
     for idlist in os.listdir(idfiledir):
         if idlist.endswith(".txt"):
             print(idlist)
-            write_ngramf_df_from_idfile(idfilename=idlist, idfiledir=idfiledir, path=fanfic_dir,
-                                        resultfilename=os.path.join(ngrams_dir, idlist))
+            write_ngram_df_from_idfile(idfilename=idlist, idfiledir=idfiledir, path=fanfic_dir,
+                                       resultfilename=os.path.join(ngrams_dir, idlist))
 
 def ngram_series(ngram_count, cutoff=0):
     """
@@ -76,7 +78,7 @@ def ngram_series(ngram_count, cutoff=0):
     ngrams = list(sums.index.values)
     return ngrams, sums
 
-def ngrams_from_df(ngram_df, filename, path):
+def write_ngrams_from_df(ngram_df, filename, path):
     """
 
     :param ngram_df: dataframe containing ngrams
@@ -104,6 +106,15 @@ def ngrams_from_df(ngram_df, filename, path):
     for file in files:
         file.close()
 
+def fanfic_ngrams_from_df():
+    proj_dir = "/Volumes/2TB/Final_Project"
+    ngrams_dir = os.path.join(proj_dir, "Ngrams_df")
+    for filename in os.listdir(ngrams_dir):
+        if filename.endswith(".txt"):
+            print(filename)
+            ngram_count = pd.read_csv(os.path.join(ngrams_dir, filename), sep="\t")
+            print("read csv, writing ngrams")
+            write_ngrams_from_df(ngram_count, filename, proj_dir)
 
 def number_of_onegrams(sums, ngrams):
     """
@@ -141,4 +152,7 @@ def base_freq(og, sums, ngrams):
 # bf = base_freq(number_of_onegrams(sums))
 
 if __name__ == "__main__":
+    proj_dir = "/Volumes/2TB/Final_project"
+    print("Getting dataframes")
     write_ngram_df_fanfic()
+    # fanfic_ngrams_from_df()
