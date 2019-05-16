@@ -162,9 +162,29 @@ def get_ngrams_from_str(text, lower=1, upper=5, case_sensitive=False):
         ngram_dict[i] = FreqDist(ngrams(words, i))
     return ngram_dict
 
+def get_ngrams_from_str_local(text, lower=1, upper=5, case_sensitive=False):
+    ngram_dict = dict()
+    for i in range(lower, upper + 1):
+        ngram_dict[i] = FreqDist()
+    if case_sensitive:
+        words = [word for word in word_tokenize(text) if
+                 word.isalpha() or word.replace("'", "").isalpha()]
+    else:
+        words = [word for word in word_tokenize(text.lower()) if
+                 word.isalpha() or word.replace("'", "").isalpha()]
+    for w in range(len(words)):
+        for n in range(lower - 1, upper):
+            if w + n < len(words):
+                ngram_dict[n + 1][" ".join(words[w:w+n+1])] += 1
+    return ngram_dict
+
 def get_ngrams_from_file(filename, lower=1, upper=5, case_sensitive=False):
-    with open(filename) as f_in:
-        return get_ngrams_from_str(f_in.read(), lower=lower, upper=upper, case_sensitive=case_sensitive)
+    try:
+        with open(filename) as f_in:
+            return get_ngrams_from_str(f_in.read(), lower=lower, upper=upper, case_sensitive=case_sensitive)
+    except FileNotFoundError:
+        print("No such file or directory:", filename)
+        return get_ngrams_from_str("", lower=lower, upper=upper)
 
 def get_ngrams_from_idlist(idlistname, in_path, end=".txt", lower=1, upper=5, case_sensitive=False):
     with open(idlistname) as f_in:
@@ -192,19 +212,24 @@ def write_ngrams_to_file(ngram_dict, basename, out_path):
                 word = tup[0]
                 freq = tup[1]
                 norm = freq * 1000000 / tokens
-                f_out.write("%d\t%s\t%d\t%f" % (rank, word, freq, norm))
+                f_out.write("%d\t%s\t%d\t%f\n" % (rank, word, freq, norm))
                 rank += 1
 
 def fanfic_ngrams_to_file():
     proj_dir = "/Volumes/2TB/Final_project"
     fanfic_dir = os.path.join(proj_dir, "Fanfic_all")
     idlist_dir = os.path.join(proj_dir, "Fanfic lists")
-    for idlistname in os.listdir(idlist_dir):
+    my_list = os.listdir(idlist_dir)
+    my_list = my_list[my_list.index("Sherlock all.txt"):]
+    for idlistname in my_list:
         if idlistname.endswith(".txt"):
-            print(idlistname, "reading")
-            ng = get_ngrams_from_idlist(idlistname, in_path=fanfic_dir)
-            print(idlistname, "writing")
-            write_ngrams_to_file(ng, basename=idlistname, out_path=proj_dir)
+            for i in range(2, 4):  # 4-grams and 5-grams take too much memory
+                if idlistname == "Sherlock all.txt" and i == 2:
+                    continue
+                print(idlistname, "reading", i)
+                ng = get_ngrams_from_idlist(os.path.join(idlist_dir, idlistname), in_path=fanfic_dir, lower=i, upper=i)
+                print(idlistname, "writing", i)
+                write_ngrams_to_file(ng, basename=idlistname, out_path=proj_dir)
 
 if __name__ == "__main__":
     proj_dir = "/Volumes/2TB/Final_project"
